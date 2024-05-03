@@ -1,0 +1,107 @@
+{
+  "link.title.start": {
+    "message": "शुरू",
+    "description": "The title of the footer links column with title=start in the footer"
+  },
+  "link.title.resource": {
+    "message": "संसाधन",
+    "description": "The title of the footer links column with title=资源 in the footer"
+  },
+  "link.title.follows": {
+    "message": "अंशदान",
+    "description": "The title of the footer links column with title=订阅 in the footer"
+  },
+  "link.title.end": {
+    "message": "अंत",
+    "description": "The title of the footer links column with title=end in the footer"
+  },
+  "link.title.end.item.": {
+    "message": "अंत",
+    "description": "The title of the footer links column with title=end in the footer"
+  },
+  "link.item.label.releases": {
+    "message": "विज्ञप्ति",
+    "description": "The label of footer link with label=Releases linking to https://github.com/immersive-translate/immersive-translate/releases"
+  },
+  "link.item.label.feedback": {
+    "message": "प्रतिक्रिया",
+    "description": "The label of footer link with label=问题反馈 linking to https://github.com/immersive-translate/immersive-translate/issues/"
+  },
+  "link.item.label.usage": {
+    "message": "का उपयोग कैसे करें",
+    "description": "The label of footer link with label=如何使用 linking to /docs/usage/"
+  },
+  "link.item.label.faq": {
+    "message": "आम समस्या",
+    "description": "The label of footer link with label=常见问题 linking to /docs/faq/"
+  },
+  "link.item.label.services": {
+    "message": "अनुवाद सेवा आवेदन",
+    "description": "The label of footer link with label=翻译服务申请 linking to /docs/services/"
+  },
+  "link.item.label.terms": {
+    "message": "उपयोगकर्ता का समझौता",
+    "description": "The label of footer link with label=用户协议 linking to /docs/TERMS/"
+  },
+  "link.item.label.pricacy": {
+    "message": "गोपनीयता समझौता",
+    "description": "The label of footer link with label=隐私协议 linking to /docs/PRIVACY/"
+  },
+  "link.item.label.Email": {
+    "message": "Email",
+    "description": "The label of footer link with label=Email linking to https://immersivetranslate.substack.com/"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/immersivetran"
+  },
+  "link.item.to.Twitter": {
+    "message": "https://twitter.com/immersivetrans"
+  },
+  "link.item.to.YouTube": {
+    "message": "https://www.youtube.com/@ImmersiveTrans/featured"
+  },
+  "link.item.label.Facebook": {
+    "message": "Facebook",
+    "description": "The label of footer link with label=Facebook linking to https://www.facebook.com/ImmersiveTranslate"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "The label of footer link with label=Telegram linking to https://t.me/immersivetranslate"
+  },
+  "link.item.label.Bilibili": {
+    "message": "Bilibili",
+    "description": "The label of footer link with label=Bilibili linking to https://space.bilibili.com/3493291014228023"
+  },
+  "link.item.label.TelegramGroup": {
+    "message": "Telegram Group",
+    "description": "The label of footer link with label=Telegram 用户群 linking to https://t.me/+rq848Z09nehlOTgx"
+  },
+  "link.item.html.main": {
+    "message": "<div class=\"footer-info\"><div class=\"footer-title\"><img src=\"/img/logo.png\"/>इमर्सिव ट्रांसलेशन</div><div class=\"footer-desc\">एक क्लिक से द्विभाषी पढ़ना शुरू करें और सूचना अधिग्रहण की दक्षता में सुधार करें</div><div id=\"currency-box\"></div><div class=\"footer-copyright\"><a href=\"https://beian.miit.gov.cn/\" target=\"_blank\">शंघाई आईसीपी नंबर 2023011353</a>© 2024 इमर्सिव ट्रांसलेशन</div></div>"
+  },
+  "link.item.html.end": {
+    "message": "<div style=\"display:flex;justify-content: space-evenly;\"><div class=\"qrcode\"><img width=\"112\"  src=\"/assets/iosQRCode.svg\"/><span>App Store</span></div><div class=\"qrcode\"><img width=\"112\" src=\"/assets/androidQRCode.svg\"/><span>Android</span></div></div>"
+  },
+  "link.item.visible.Email": {
+    "message": "true"
+  },
+  "link.item.visible.Facebook": {
+    "message": "true"
+  },
+  "link.item.visible.Telegram": {
+    "message": "true"
+  },
+  "link.item.visible.YouTube": {
+    "message": "true"
+  },
+  "link.item.visible.Twitter": {
+    "message": "true"
+  },
+  "link.item.visible.Bilibili": {
+    "message": "true"
+  },
+  "link.item.visible.TelegramGroup": {
+    "message": "false"
+  }
+}

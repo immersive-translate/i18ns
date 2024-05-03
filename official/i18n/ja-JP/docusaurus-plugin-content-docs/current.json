@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "次のページ",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.pdfHelper": {
+    "message": "PDFヘルプ",
+    "description": "The label for category PDF 帮助 in sidebar docs"
+  },
+  "sidebar.docs.category.translateServiceAPIApply": {
+    "message": "翻訳サービスAPIリクエスト",
+    "description": "The label for category 翻译服务 API 申请 in sidebar docs"
+  },
+  "sidebar.docs.doc.changelog": {
+    "message": "更新ログ",
+    "description": "The label for the doc item 更新日志 in sidebar docs, linking to the doc CHANGELOG"
+  }
+}

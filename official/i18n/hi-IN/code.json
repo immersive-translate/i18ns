@@ -1,0 +1,1222 @@
+{
+  "theme.ErrorPageContent.title": {
+    "message": "पेज क्रैश हो गया है.",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.NotFound.title": {
+    "message": "पृष्ठ नहीं मिला",
+    "description": "The title of the 404 page"
+  },
+  "theme.NotFound.p1": {
+    "message": "आप जिस पृष्ठ को खोज रहे हैं वह हमें नहीं मिल सका।",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "कृपया उस वेबसाइट के मालिक से संपर्क करें जहां से मूल लिंक आया था और उन्हें सूचित करें कि लिंक टूट गया है।",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.admonition.note": {
+    "message": "टिप्पणी",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "संकेत देना",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.danger": {
+    "message": "खतरा",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "जानकारी",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.caution": {
+    "message": "चेतावनी देना",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "ब्लॉग पोस्ट सूची पेजिनेशन नेविगेशन",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "नया ब्लॉग पोस्ट",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "पुराना ब्लॉग पोस्ट",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.archive.title": {
+    "message": "इतिहास ब्लॉग",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "इतिहास ब्लॉग",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "टॉप पर वापस",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "ब्लॉग पेज नेविगेशन",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "नया लेख",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "पुराना लेख",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.blog.post.plurals": {
+    "message": "{count} ब्लॉग पोस्ट",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} में टैग \"{tagName}\" शामिल है",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "सभी टैग देखें",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "लाइट/डार्क मोड टॉगल करें (वर्तमान में{mode})",
+    "description": "The ARIA label for the navbar color mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "डार्क मोड",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "प्रकाश मोड",
+    "description": "The name for the light color mode"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "पृष्ठ पथ",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.DocCard.categoryDescription": {
+    "message": "{count} आइटम",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "फ़ाइल टैब",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "पिछला पृष्ठ",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "अगला पृष्ठ",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "टैग के साथ {count} दस्तावेज़",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged}「{tagName}」",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "संस्करण：{versionLabel}"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "यह एक दस्तावेज़ है जिसे {versionLabel} के लिए अभी तक जारी नहीं किया गया है {siteTitle}",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "यह दस्तावेज़ {versionLabel} है {siteTitle} अब इसका सक्रिय रूप से रखरखाव नहीं किया जाता है।",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "नवीनतम दस्तावेज़ के लिए {latestVersionLink} ({versionLabel}) देखें।",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "नवीनतम संस्करण",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.common.editThisPage": {
+    "message": "इस पृष्ठ को संपादित करें",
+    "description": "The link label to edit the current page"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": "{date} पर ",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": "{user} से ",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "अंतिम{byUser}{atDate}अद्यतन किया गया",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "{heading}सीधे लिंक",
+    "description": "Title for link to heading"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "संस्करण चुनें",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "बंद",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "हालिया ब्लॉग पोस्ट नेविगेशन",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "टैग：",
+    "description": "The label alongside a tag list"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "सफलतापूर्वक कॉपी किया गया",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "कोड को क्लिपबोर्ड पर कॉपी करें",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "कॉपी",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "शब्द रैपिंग टॉगल करें",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
+    "message": "साइडबार मेनू \"{label}\" खोलें/संक्षिप्त करें",
+    "description": "The ARIA label to toggle the collapsible sidebar category"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "मुख्य नेविगेशन",
+    "description": "The ARIA label for the main navigation"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "एक भाषा चुनें",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "पढ़ने के लिए {readingTime} मिनट",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "इस पृष्ठ का अवलोकन",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "होम पेज",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.blog.post.readMore": {
+    "message": "और पढ़ें",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "{title} का पूरा पाठ पढ़ें",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "साइडबार को संक्षिप्त करें",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "साइडबार को संक्षिप्त करें",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← मुख्य मेनू पर वापस जाएँ",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "नेविगेशन बार टॉगल करें",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "नेविगेशन बार बंद करें",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "दस्तावेज़ साइडबार",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "साइडबार का विस्तार करें",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "साइडबार का विस्तार करें",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.SearchBar.label": {
+    "message": "खोज",
+    "description": "The ARIA label and placeholder for search button"
+  },
+  "theme.SearchModal.searchBox.resetButtonTitle": {
+    "message": "स्पष्ट प्रश्न",
+    "description": "The label and ARIA label for search box reset button"
+  },
+  "theme.SearchModal.searchBox.cancelButtonText": {
+    "message": "रद्द करना",
+    "description": "The label and ARIA label for search box cancel button"
+  },
+  "theme.SearchModal.startScreen.recentSearchesTitle": {
+    "message": "हाल की खोजें",
+    "description": "The title for recent searches"
+  },
+  "theme.SearchModal.startScreen.noRecentSearchesText": {
+    "message": "कोई हालिया खोज नहीं",
+    "description": "The text when no recent searches"
+  },
+  "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
+    "message": "इस खोज को सहेजें",
+    "description": "The label for save recent search button"
+  },
+  "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
+    "message": "इस खोज को इतिहास से हटा दें",
+    "description": "The label for remove recent search button"
+  },
+  "theme.SearchModal.startScreen.favoriteSearchesTitle": {
+    "message": "इकट्ठा करना",
+    "description": "The title for favorite searches"
+  },
+  "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
+    "message": "इस खोज को अपनी पसंदीदा सूची से हटा दें",
+    "description": "The label for remove favorite search button"
+  },
+  "theme.SearchModal.errorScreen.titleText": {
+    "message": "परिणाम प्राप्त करने में असमर्थ",
+    "description": "The title for error screen of search modal"
+  },
+  "theme.SearchModal.errorScreen.helpText": {
+    "message": "आपको अपना नेटवर्क कनेक्शन जांचने की आवश्यकता हो सकती है.",
+    "description": "The help text for error screen of search modal"
+  },
+  "theme.SearchModal.footer.selectText": {
+    "message": "चयनित",
+    "description": "The explanatory text of the action for the enter key"
+  },
+  "theme.SearchModal.footer.selectKeyAriaLabel": {
+    "message": "कुंजी दर्ज करें",
+    "description": "The ARIA label for the Enter key button that makes the selection"
+  },
+  "theme.SearchModal.footer.navigateText": {
+    "message": "मार्गदर्शन",
+    "description": "The explanatory text of the action for the Arrow up and Arrow down key"
+  },
+  "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
+    "message": "अप की",
+    "description": "The ARIA label for the Arrow up key button that makes the navigation"
+  },
+  "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
+    "message": "नीचे वाला तीर",
+    "description": "The ARIA label for the Arrow down key button that makes the navigation"
+  },
+  "theme.SearchModal.footer.closeText": {
+    "message": "बंद",
+    "description": "The explanatory text of the action for Escape key"
+  },
+  "theme.SearchModal.footer.closeKeyAriaLabel": {
+    "message": "ईएससी",
+    "description": "The ARIA label for the Escape key button that close the modal"
+  },
+  "theme.SearchModal.footer.searchByText": {
+    "message": "ऑफर खोजें",
+    "description": "The text explain that the search is making by Algolia"
+  },
+  "theme.SearchModal.noResultsScreen.noResultsText": {
+    "message": "कोई परिणाम नहीं：",
+    "description": "The text explains that there are no results for the following search"
+  },
+  "theme.SearchModal.noResultsScreen.suggestedQueryText": {
+    "message": "खोजने का प्रयास करें",
+    "description": "The text for the suggested query when no results are found for the following search"
+  },
+  "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
+    "message": "क्या आपको लगता है कि इस क्वेरी के परिणाम होने चाहिए?",
+    "description": "The text for the question where the user thinks there are missing results"
+  },
+  "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
+    "message": "कृपया हमें बताएं।",
+    "description": "The text for the link to report missing results"
+  },
+  "theme.SearchModal.placeholder": {
+    "message": "दस्तावेज़ खोजें",
+    "description": "The placeholder of the input of the DocSearch pop-up modal"
+  },
+  "theme.SearchBar.seeAll": {
+    "message": "सभी {count} परिणाम देखें"
+  },
+  "theme.SearchPage.documentsFound.plurals": {
+    "message": "{count} दस्तावेज़ मिले",
+    "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.SearchPage.existingResultsTitle": {
+    "message": "\"{query}\" के लिए खोज परिणाम",
+    "description": "The search page title for non-empty query"
+  },
+  "theme.SearchPage.emptyResultsTitle": {
+    "message": "दस्तावेज़ों में खोजें",
+    "description": "The search page title for empty query"
+  },
+  "theme.SearchPage.inputPlaceholder": {
+    "message": "यहां खोज शब्द दर्ज करें",
+    "description": "The placeholder for search page input"
+  },
+  "theme.SearchPage.inputLabel": {
+    "message": "खोज",
+    "description": "The ARIA label for search page input"
+  },
+  "theme.SearchPage.algoliaLabel": {
+    "message": "अल्गोलिया के माध्यम से खोजें",
+    "description": "The ARIA label for Algolia mention"
+  },
+  "theme.SearchPage.noResultsText": {
+    "message": "कोई परिणाम नहीं मिला",
+    "description": "The paragraph for empty search result"
+  },
+  "theme.SearchPage.fetchingNewResults": {
+    "message": "नए खोज परिणाम प्राप्त हो रहे हैं...",
+    "description": "The paragraph for fetching new search results"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "पुन: प्रयास करें",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "मुख्य विषयवस्तु में जाएं",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "लेबल",
+    "description": "The title of the tag list page"
+  },
+  "page.doc.title": {
+    "message": "द्विभाषी वेब पेज अनुवाद प्लग-इन_पीडीएफ दस्तावेज़ अनुवाद उपकरण"
+  },
+  "page.doc.keywords": {
+    "message": "translate website,translate pdf,translate web page,pdf translator,translate website to english,translate extension,translate pdf to english,translate pdf document,website translator,pdf translate,translate webpage,translate a pdf,website translate,translate a website,translate a webpage,subtitles translation"
+  },
+  "page.doc.description": {
+    "message": "इमर्सिव ट्रांसलेशन आपको मुफ्त द्विभाषी वेब पेज अनुवाद, साथ ही दस्तावेज़ अनुवाद, साहित्य अनुवाद, पीडीएफ अनुवाद, ईपीयूबी ई-बुक अनुवाद, उपशीर्षक अनुवाद और विभिन्न प्रारूपों में टीएक्सटी टेक्स्ट अनुवाद सेवाएं प्रदान करता है। चीनी, अंग्रेजी, जापानी, कोरियाई, फ्रेंच, जर्मन, रूसी, स्पेनिश, पुर्तगाली, वियतनामी, इंडोनेशियाई, इतालवी, डच और थाई सहित दर्जनों भाषाओं में अनुवाद का समर्थन करता है। विभिन्न प्रकार के अनुवाद इंटरफ़ेस विकल्पों का समर्थन करता है:：डीपएल ट्रांसलेशन, गूगल ट्रांसलेशन, ओपन एआई ट्रांसलेशन, यूदाओ ट्रांसलेशन, कैयू शियाओयी, बाइडू ट्रांसलेशन, हुओशान ट्रांसलेशन, मावेरिक्स ट्रांसलेशन, आदि। वह अनुवाद उपकरण बनें जो आपको सबसे अच्छी तरह समझता है और आपको सबसे सहज अनुवाद अनुभव प्रदान करता है।"
+  },
+  "page.index.headTitle": {
+    "message": "इमर्सिव ट्रांसलेशन - द्विभाषी वेब पेज अनुवाद प्लग-इन_पीडीएफ दस्तावेज़ अनुवाद उपकरण"
+  },
+  "page.index.title": {
+    "message": "इमर्सिव：सबसे लोकप्रिय द्विभाषी वेब पेज अनुवाद प्लग-इन"
+  },
+  "page.index.description": {
+    "message": "आप वास्तविक</a>में विदेशी भाषा के वेब पेजों,<a href=\"{pdfUrl}\">पीडीएफ दस्तावेज़ों,<a target=\"_blank\" href=\"{epubUrl}\">ईपब ई-पुस्तकों,</a>उपशीर्षक फ़ाइलों आदि का अनुवाद करने के लिए इसका<b>तरह से</b>उपयोग कर सकते हैं।<br />का उपयोग किसी भी समय और कहीं भी मोबाइल फोन पर किया जा सकता है।<b>वास्तव में आपको सूचना बाधाओं को तोड़ने में मदद करता है। नीचे दिया गया प्लेटफ़ॉर्म चुनें और तुरंत इसका अनुभव करना शुरू करें</b>:)"
+  },
+  "page.index.downloadBtn.edge": {
+    "message": "किनारा विस्तार"
+  },
+  "page.index.downloadBtn.chrome": {
+    "message": "क्रोम एक्सटेंशन"
+  },
+  "page.index.downloadBtn.firefox": {
+    "message": "फ़ायरफ़ॉक्स एक्सटेंशन"
+  },
+  "page.index.downloadBtn.safari": {
+    "message": "सफ़ारी विस्तार"
+  },
+  "page.index.downloadBtn.userscript": {
+    "message": "ग्रीस मंकी स्क्रिप्ट"
+  },
+  "page.index.downloadBtn.zip": {
+    "message": "ज़िप स्थापना पैकेज"
+  },
+  "page.index.downloadBtn.iosBrowser.tag": {
+    "message": "Built-in Extension"
+  },
+  "page.index.downloadBtn.iosBrowser": {
+    "message": "iOS Browser"
+  },
+  "page.index.downloadBtn.android.apk": {
+    "message": "Android apk"
+  },
+  "page.index.downloadBtn.android": {
+    "message": "एंड्रॉइड ब्राउज़र डाउनलोड करें"
+  },
+  "page.index.supportservice.title": {
+    "message": "10+ अनुवाद सेवाओं का समर्थन करता है"
+  },
+  "page.index.usageCase.title": {
+    "message": "उपयोग किये जाने वाले दृश्य"
+  },
+  "page.index.usageCase.twitter": {
+    "message": "ब्रश पुश आर्टिफैक्ट"
+  },
+  "page.index.usageCase.full": {
+    "message": "सूचना अर्जन"
+  },
+  "page.index.usageCase.discord": {
+    "message": "संचार"
+  },
+  "page.index.usageCase.pdf": {
+    "message": "पीडीएफ पेपर पढ़ना"
+  },
+  "page.index.usageCase.video": {
+    "message": "Video bilingual subtitles"
+  },
+  "page.index.usageCase.video.desc": {
+    "message": "Supports 50+ video sites, automatic bilingual subtitles"
+  },
+  "page.index.usageCase.twitter.desc": {
+    "message": "जानकारी आसानी से ब्राउज़ करने के लिए \"इमर्सिव ट्रांसलेशन\" का उपयोग करें"
+  },
+  "page.index.usageCase.full.desc": {
+    "message": "जानकारी कुशलतापूर्वक प्राप्त करें और भाषा की बाधाओं से छुटकारा पाएं"
+  },
+  "page.index.usageCase.discord.desc": {
+    "message": "बाधा रहित और तेज़ संचार"
+  },
+  "page.index.usageCase.pdf.desc": {
+    "message": "पीडीएफ द्विभाषी अनुवाद, तुलनात्मक पढ़ना"
+  },
+  "page.index.moreFeature.title": {
+    "message": "अधिक सुविधाएं"
+  },
+  "page.index.moreFeature.epub": {
+    "message": "द्विभाषी ई-पुस्तक उत्पादन"
+  },
+  "page.index.moreFeature.subtitle": {
+    "message": "उपशीर्षक अनुवाद"
+  },
+  "page.index.moreFeature.pdf": {
+    "message": "पीडीएफ फ़ाइल अनुवाद"
+  },
+  "page.index.moreFeature.mousehover": {
+    "message": "माउसओवर अनुवाद"
+  },
+  "page.index.Comments.title": {
+    "message": "समुदाय टिप्पणियाँ"
+  },
+  "page.index.sponsor.title": {
+    "message": "निम्नलिखित ब्रांडों को उनके प्रायोजन के लिए विशेष धन्यवाद:"
+  },
+  "page.index.sponsor.desc1": {
+    "message": "एपीआई डिजाइन, विकास और परीक्षण के लिए एकीकृत सहयोग मंच"
+  },
+  "page.index.sponsor.desc2": {
+    "message": "एपिफॉक्स = पोस्टमैन + स्वैगर + मॉक + जेएमटर, उपयोग के लिए निःशुल्क।"
+  },
+  "page.pricing.title": {
+    "message": "कीमत",
+    "description": "html的title，浏览器标签上会显示这个"
+  },
+  "page.pricing.description": {
+    "message": "इमर्सिव ट्रांसलेशन प्रो सदस्य मूल्य",
+    "description": "html的mate信息，与seo相关，类似关键词"
+  },
+  "page.pricing.header.onboarding.title": {
+    "message": "बधाई हो, आपने इमर्सिव ट्रांसलेशन सफलतापूर्वक इंस्टॉल कर लिया है!"
+  },
+  "page.pricing.header.onboarding.intro": {
+    "message": "पहली बार इमर्सिव ट्रांसलेशन का उपयोग कर रहे हैं?"
+  },
+  "page.pricing.header.onboarding.usage": {
+    "message": "[30 सेकंड में जल्दी से आरंभ करें]"
+  },
+  "page.pricing.header.onboarding.or": {
+    "message": "या"
+  },
+  "page.pricing.header.onboarding.try": {
+    "message": "अंग्रेज़ी वेब पेजों का सीधे अनुवाद करने का प्रयास करें"
+  },
+  "page.pricing.header.normal.title": {
+    "message": "सामान्य मशीनी अनुवाद को अलविदा कहें!"
+  },
+  "page.pricing.header.normal.subtitle1": {
+    "message": "अभी प्रो सदस्यता में अपग्रेड करें,"
+  },
+  "page.pricing.header.normal.subtitle2": {
+    "message": "डीपएल और ओपनएआई द्वारा प्रदान किए गए सटीक, सहज और प्राकृतिक पढ़ने के अनुभव का आनंद लें।"
+  },
+  "page.pricing.whydeepl.title": {
+    "message": "डीपएल अनुवाद क्यों चुनें?"
+  },
+  "page.pricing.whydeepl.desc": {
+    "message": "डीपएल को दुनिया के सबसे सटीक मशीनी अनुवाद के रूप में जाना जाता है, जो अपने निकटतम प्रतिद्वंद्वी से तीन गुना अधिक सटीक है<a href=\"{whydeeplUrl}\" target=\"_blank\"><b></b></a>"
+  },
+  "page.pricing.whydeepl.url": {
+    "message": "https://www.depl.com/zh/whydepl"
+  },
+  "page.pricing.whydeepl.en2de": {
+    "message": "अंग्रेज़ी ⇄ जर्मन"
+  },
+  "page.pricing.whydeepl.en2de.desc": {
+    "message": "6 गुना अधिक सटीक"
+  },
+  "page.pricing.whydeepl.en2zh": {
+    "message": "अंग्रेजी ⇄ चीनी"
+  },
+  "page.pricing.whydeepl.en2zh.desc": {
+    "message": "5 गुना अधिक सटीक"
+  },
+  "page.pricing.whydeepl.en2ja": {
+    "message": "अंग्रेज़ी ⇄ जापानी"
+  },
+  "page.pricing.whydeepl.en2ja.desc": {
+    "message": "6 गुना अधिक सटीक"
+  },
+  "page.pricing.whydeepl.deeplvsMicrosoft": {
+    "message": "डीपएल और माइक्रोसॉफ्ट ट्रांसलेटर के बीच तुलना देखें"
+  },
+  "page.pricing.whydeepl.deeplcompare.deepl": {
+    "message": "डीपएल"
+  },
+  "page.pricing.whydeepl.deeplcompare.microsoft": {
+    "message": "माइक्रोसॉफ्ट अनुवादक"
+  },
+  "page.pricing.whydeepl.deeplcompare.original": {
+    "message": "मूल पाठ："
+  },
+  "page.pricing.whyopenai.title": {
+    "message": "OpenAI अनुवाद क्यों चुनें?"
+  },
+  "page.pricing.whyopenai.desc": {
+    "message": "GPT तकनीक<a href=\"{understandingGptUrl}\" target=\"_blank\">मूल रूप से अनुवाद</a>के लिए पैदा हुई थी और इसे संदर्भ को समझने की क्षमता दी गई थी।<br/>ओपनएआई-संचालित जीपीटी अब तक बनाया गया सबसे बुद्धिमान बड़ा भाषा मॉडल है, खासकर पेशेवर शब्दों की समझ में।"
+  },
+  "page.pricing.whyopenai.openaivsGoogle": {
+    "message": "OpenAI और Google Translate👇👇 के बीच तुलना देखें"
+  },
+  "page.pricing.whyopenai.openaicompare.openai": {
+    "message": "ओपनएआई"
+  },
+  "page.pricing.whyopenai.openaicompare.google": {
+    "message": "गूगल अनुवाद"
+  },
+  "page.pricing.vipnow.desc": {
+    "message": "प्रो सदस्यता के लिए</a><a href=\"{pricingUrl}\">अप करें1 और आउट-ऑफ़-द-बॉक्स डीपएल और ओपनएआई अनुवाद का आनंद लें!"
+  },
+  "page.pricing.comment": {
+    "message": "हम जो कहते हैं उसे मत सुनो, उपयोगकर्ताओं की：सुनो0"
+  },
+  "page.usegescenarios.meta.title": {
+    "message": "द्विभाषी वेब पेज अनुवाद - ई-पुस्तक अनुवाद - पीडीएफ अनुवाद - उपशीर्षक फ़ाइल अनुवाद ब्राउज़र एक्सटेंशन"
+  },
+  "page.usegescenarios.meta.desc": {
+    "message": "इमर्सिव ट्रांसलेशन एक ब्राउज़र प्लग-इन है जो द्विभाषी अनुवाद के लिए वेब पेज के मुख्य सामग्री क्षेत्र की बुद्धिमानी से पहचान कर सकता है। प्लग-इन सभी प्लेटफ़ॉर्म ब्राउज़र, पीडीएफ फ़ाइल अनुवाद, ईपीयूबी ई-बुक द्विभाषी अनुवाद, उत्पादन, निर्यात का समर्थन करता है। उपशीर्षक फ़ाइल अनुवाद और अन्य कार्य।"
+  },
+  "page.usegescenarios.title": {
+    "message": "इमर्सिव अनुवाद उपयोग परिदृश्य<br/>जिओ झांग का दिन"
+  },
+  "page.usegescenarios.desc": {
+    "message": "मुझे उम्मीद है कि जिओ झांग की कहानी के माध्यम से, मैं आपको अधिक उपयोग परिदृश्य दिखा सकता हूं ताकि गहन अनुवाद आपके काम और जीवन में अधिक मूल्य प्रदान कर सके।"
+  },
+  "page.usegescenarios.content1.title": {
+    "message": "8:00 द्विभाषी समाचार पढ़ना प्रारंभ करें"
+  },
+  "page.usegescenarios.content1.desc": {
+    "message": "सबसे पहले, उन्होंने रॉयटर्स, द न्यूयॉर्क टाइम्स, द इकोनॉमिस्ट और द अटलांटिक वीकली जैसे अंतरराष्ट्रीय स्तर पर प्रसिद्ध मीडिया से प्रत्यक्ष जानकारी प्राप्त करने की आदत विकसित की है, ये सभी समाचार वेबसाइटें हैं जिन पर वह अक्सर जाते हैं। kadaza.com औरuzzing.cc विदेशी भाषा की जानकारी प्राप्त करने के उनके पसंदीदा तरीके हैं। इमर्सिव ट्रांसलेशन के पैराग्राफ द्विभाषी तुलना फ़ंक्शन ने उनकी पढ़ने की दक्षता में काफी सुधार किया है। खराब अनुवाद गुणवत्ता का सामना करने पर, वह जानकारी को समझने के लिए सीधे मूल पाठ का संदर्भ ले सकते हैं।"
+  },
+  "page.usegescenarios.content2.title": {
+    "message": "9:00 \"इनपुट बॉक्स ट्रांसलेशन\" फ़ंक्शन का उपयोग करें"
+  },
+  "page.usegescenarios.content2.desc": {
+    "message": "इमर्सिव ट्रांसलेशन के इनपुट बॉक्स अनुवाद फ़ंक्शन ने जिओ झांग के लिए बहुत सुविधा ला दी है। उसे केवल Google खोज बॉक्स में एक चीनी प्रश्न दर्ज करना होगा, और फिर रिक्त स्थान पर तीन बार क्लिक करना होगा, और खोज बॉक्स में प्रश्न का तुरंत अनुवाद किया जाएगा अंग्रेजी। खोज परिणामों के द्विभाषी अनुवाद के साथ, जानकारी खोजने में जिओ झांग की दक्षता अभूतपूर्व स्तर तक बढ़ गई है!"
+  },
+  "page.usegescenarios.content3.title": {
+    "message": "10:00 चैटजीपीटी के साथ बातचीत"
+  },
+  "page.usegescenarios.content3.desc": {
+    "message": "एआई युग आ गया है। जिओ झांग हर दिन चैटजीपीटी, बार्ड, डिस्कॉर्ड, टेलीग्राम आदि प्लेटफार्मों पर मशीनों या वास्तविक लोगों से बात करता है। इमर्सिव ट्रांसलेशन किसी भी वेब पेज के इनपुट बॉक्स को एक शक्तिशाली बहु-भाषा अनुवादक में बदल सकता है। .इसलिए, जिओ झांग के चीनी प्रश्नों का तुरंत अंग्रेजी में अनुवाद किया जाएगा और चैटजीपीटी को भेजा जाएगा, और चैटजीपीटी के उत्तरों का भी वास्तविक समय में चीनी में अनुवाद किया जाएगा।"
+  },
+  "page.usegescenarios.content4.title": {
+    "message": "11:00 वैश्विक वित्तीय जानकारी प्राप्त करें"
+  },
+  "page.usegescenarios.content4.desc": {
+    "message": "काम के दौरान, जिओ झांग क्रोम ब्राउज़र के डेस्कटॉप संस्करण पर नवीनतम वैश्विक वित्तीय और प्रौद्योगिकी जानकारी प्राप्त करना पसंद करते हैं। वह ब्लूमबर्ग, याहू फाइनेंस, वॉल स्ट्रीट जर्नल और फाइनेंशियल टाइम्स जैसे वित्तीय मीडिया की विशेष खबरों पर बारीकी से ध्यान देते हैं। एनवीडिया और बिटकॉइन का प्रदर्शन, जिसे उन्होंने हाल ही में फॉलो किया है, काफी अच्छा है। विभिन्न वित्तीय रिपोर्टों, घोषणाओं और अनुसंधान रिपोर्टों के गहन अनुवाद और एक-क्लिक द्विभाषी पढ़ने की मदद से, वह हमेशा दूसरों की तुलना में महत्वपूर्ण वित्तीय जानकारी प्राप्त कर सकता है।"
+  },
+  "page.usegescenarios.content5.title": {
+    "message": "12:30 विदेशी सामाजिक हॉट स्पॉट देखें"
+  },
+  "page.usegescenarios.content5.desc": {
+    "message": "ब्रेक लेते समय, जिओ झांग मोबाइल उपकरणों (जैसे आईओएस का सफारी ब्राउज़र और एंड्रॉइड का फ़ायरफ़ॉक्स ब्राउज़र) पर इमर्सिव ट्रांसलेशन का उपयोग करेगा। वह वैश्विक विचारों से जुड़े रहने के लिए अपने मोबाइल फोन पर ट्विटर, रेडिट, यूट्यूब और अन्य अंतरराष्ट्रीय मुख्यधारा के सोशल मीडिया को ब्राउज़ करता है। नेता टकराव और आदान-प्रदान में संलग्न रहते हैं, हर महत्वपूर्ण जानकारी को सटीकता से पकड़ते हैं, और खुद को ज्ञान के मामले में सबसे आगे रखते हैं।"
+  },
+  "page.usegescenarios.content6.title": {
+    "message": "15:30 विकिपीडिया पर ज्ञान खोजें"
+  },
+  "page.usegescenarios.content6.desc": {
+    "message": "जिओ झांग ने यह भी पाया कि अंग्रेजी विकिपीडिया की गुणवत्ता अन्य भाषाओं की तुलना में बहुत अधिक है, इसलिए जिओ झांग अक्सर अपनी रुचि के किसी भी ज्ञान को प्राप्त करने के लिए द्विभाषी अंग्रेजी विकिपीडिया का उपयोग करता है जब उसके पास करने के लिए कुछ नहीं होता है।"
+  },
+  "page.usegescenarios.content7.title": {
+    "message": "16:00 पीडीएफ वास्तविक समय अनुवाद अनलॉक करें"
+  },
+  "page.usegescenarios.content7.desc": {
+    "message": "कभी-कभी जिओ झांग arXiv पर कुछ नवीनतम पीडीएफ पेपर पढ़ेगा। इमर्सिव ट्रांसलेशन द्वारा बनाई गई पीडीएफ फाइलों के अद्वितीय वास्तविक समय अनुवाद फ़ंक्शन के साथ, जिओ झांग नवीनतम शैक्षणिक रुझानों को तुरंत समझ सकता है।"
+  },
+  "page.usegescenarios.content8.title": {
+    "message": "20:00 द्विभाषी ई-पुस्तकें पढ़ें"
+  },
+  "page.usegescenarios.content8.desc": {
+    "message": "जिओ झांग को पढ़ना भी पसंद है। वह अक्सर नवीनतम पुस्तकें खोजते हैं और विदेश में गुडरीड्स पुस्तक नेविगेशन वेबसाइट पर पुस्तक समीक्षाएँ पढ़ते हैं, और फिर इन विदेशी भाषा की पुस्तकों के चीनी संस्करणों को अलमारियों पर रखे जाने की प्रतीक्षा करते हैं। लेकिन पिछले महीने से, उन्होंने \"चिप वॉर\" (चीनी नाम \"चिप वॉर\") का विदेशी भाषा संस्करण सीधे Google पुस्तकें से खरीदा है, फिर इसे एक क्लिक के साथ इमर्सिव ट्रांसलेशन पर अपलोड किया, और फिर इसे अपने किंडल पर निर्यात किया, जिससे एक शुरुआत हुई। द्विभाषी इलेक्ट्रॉनिक संस्करण। पुस्तक पढ़ना।"
+  },
+  "page.usegescenarios.content9.title": {
+    "message": "21:00 अमेरिकी टीवी श्रृंखला, यूट्यूब, टेड टॉक देखें!"
+  },
+  "page.usegescenarios.content9.desc": {
+    "message": "कभी-कभी, जिओ झांग अमेरिकी टीवी श्रृंखला भी देखता है। पहले, उन्हें हमेशा उपशीर्षक समूह के अनुवाद के लिए धैर्यपूर्वक इंतजार करना पड़ता था, लेकिन अब वह एक क्लिक के साथ किसी भी उपशीर्षक फ़ाइल के लिए द्विभाषी उपशीर्षक उत्पन्न करने के लिए इमर्सिव अनुवाद का उपयोग कर सकते हैं, और वैश्विक दर्शकों के साथ एक साथ नाटक देख सकते हैं। इमर्सिव ट्रांसलेशन यूट्यूब ऑनलाइन वीडियो के लिए उपशीर्षक के वास्तविक समय के अनुवाद का भी विचारपूर्वक समर्थन करता है। जिओ झांग यूट्यूब पर टेड वीडियो देखते समय यूट्यूब टिप्पणी क्षेत्र में अन्य दर्शकों के साथ बातचीत कर सकता है। कभी-कभी, जिओ झांग अमेरिकी टीवी श्रृंखला भी देखता है। पहले, उन्हें हमेशा उपशीर्षक समूह के अनुवाद के लिए धैर्यपूर्वक इंतजार करना पड़ता था, लेकिन अब वह एक क्लिक के साथ किसी भी उपशीर्षक फ़ाइल के लिए द्विभाषी उपशीर्षक उत्पन्न करने के लिए इमर्सिव अनुवाद का उपयोग कर सकते हैं, और वैश्विक दर्शकों के साथ एक साथ नाटक देख सकते हैं। इमर्सिव ट्रांसलेशन यूट्यूब ऑनलाइन वीडियो के लिए उपशीर्षक के वास्तविक समय के अनुवाद का भी विचारपूर्वक समर्थन करता है। जिओ झांग यूट्यूब पर टेड वीडियो देखते समय यूट्यूब टिप्पणी क्षेत्र में अन्य दर्शकों के साथ बातचीत कर सकता है।"
+  },
+  "page.usegescenarios.content10.title": {
+    "message": "23:00 बिस्तर पर जाने से पहले विदेशी खरीदारी का आनंद लें"
+  },
+  "page.usegescenarios.content10.desc": {
+    "message": "वार्षिक ब्लैक फ्राइडे शॉपिंग फेस्टिवल एक वैश्विक विदेशी शॉपिंग इवेंट है जिसका जिओ झांग को सबसे अधिक इंतजार रहता है। वह अमेज़ॅन और ईबे पर वास्तविक उपयोगकर्ताओं से प्रत्येक उत्पाद की विशेषताओं, कीमतों और समीक्षाओं पर शोध करता है। इमर्सिव अनुवाद इसे आसान बनाता है और जिओ झांग को सबसे अधिक लागत प्रभावी खरीदारी निर्णय लेने में मदद करता है।"
+  },
+  "page.features.videoSubtitle.page.title": {
+    "message": "वीडियो द्विभाषी अनुवाद"
+  },
+  "page.features.videoSubtitle.page.keywords": {
+    "message": "subtitle translator,translate subtitles,subtitle translate,subtitles translator,translate video to english subtitles"
+  },
+  "page.features.videoSubtitle.page.description": {
+    "message": "वीडियो द्विभाषी अनुवाद, यूट्यूब अनुवाद, वीडियो द्विभाषी उपशीर्षक, वीडियो अनुवाद प्लग-इन"
+  },
+  "page.features.videoSubtitle.content.title": {
+    "message": "वीडियो द्विभाषी उपशीर्षक अनुवाद-इमर्सिव अनुवाद"
+  },
+  "page.features.videoSubtitle.content.description": {
+    "message": "इमर्सिव ट्रांसलेशन पहले से ही कई वीडियो वेबसाइटों पर द्विभाषी उपशीर्षक का समर्थन करता है,<br/>यूट्यूब, वीमियो, उडेमी, खान अकादमी, कौरसेरा, ब्लूमबर्ग आदि शामिल हैं, जो पूरे नेटवर्क पर सबसे अधिक हैं, और अभी भी और जोड़े जा रहे हैं!"
+  },
+  "page.features.videoSubtitle.content.supportSite": {
+    "message": "समर्थित साइटें"
+  },
+  "page.features.introduction": {
+    "message": "फ़ायदा"
+  },
+  "page.features.videoSubtitle.content.introduction1.title": {
+    "message": "जल्द और आसान"
+  },
+  "page.features.videoSubtitle.content.introduction1.desc": {
+    "message": "आप वीडियो उपशीर्षक अनुवाद लगभग तुरंत प्राप्त कर सकते हैं, जिससे आपको विदेशी भाषा वीडियो की सामग्री को तुरंत समझने में मदद मिलेगी।"
+  },
+  "page.features.videoSubtitle.content.introduction2.title": {
+    "message": "बहुभाषी समर्थन"
+  },
+  "page.features.videoSubtitle.content.introduction2.desc": {
+    "message": "यह अब एकल उपशीर्षक भाषा प्रदान करने वाली वीडियो साइटों तक सीमित नहीं है और एकाधिक भाषा युग्मों के अनुवाद का समर्थन करता है।"
+  },
+  "page.features.videoSubtitle.content.introduction3.title": {
+    "message": "उपयोग में सरल और आसान"
+  },
+  "page.features.videoSubtitle.content.introduction3.desc": {
+    "message": "प्लग-इन का उपयोग करना आसान है। \"द्विभाषी उपशीर्षक स्वचालित रूप से चालू करें\" की जाँच करने के बाद, आप किसी भी समय और कहीं भी द्विभाषी उपशीर्षक वाले वीडियो देख सकते हैं।"
+  },
+  "page.features.videoSubtitle.content.introduction4.title": {
+    "message": "क्रॉस-प्लेटफ़ॉर्म संगत"
+  },
+  "page.features.videoSubtitle.content.introduction4.desc": {
+    "message": "कुछ वीडियो साइटों को छोड़कर जो मोबाइल उपशीर्षक का समर्थन नहीं करती हैं, प्लग-इन एकाधिक टर्मिनलों (जैसे मोबाइल फोन, टैबलेट, कंप्यूटर इत्यादि) का समर्थन करता है।"
+  },
+  "page.features.usage": {
+    "message": "उपयोग किये जाने वाले दृश्य"
+  },
+  "page.features.videoSubtitle.content.usage1.title": {
+    "message": "बहुभाषी शिक्षा"
+  },
+  "page.features.videoSubtitle.content.usage1.desc": {
+    "message": "भाषा सीखने वाले मूल वीडियो सामग्री देखकर, समझने में सहायता के लिए वास्तविक समय अनुवाद के साथ अपने भाषा कौशल में सुधार कर सकते हैं।"
+  },
+  "page.features.videoSubtitle.content.usage2.title": {
+    "message": "ऑनलाइन शिक्षा"
+  },
+  "page.features.videoSubtitle.content.usage2.desc": {
+    "message": "छात्र अन्य भाषाओं में शैक्षिक वीडियो देख सकते हैं और द्विभाषी उपशीर्षक के साथ पाठ्यक्रम सामग्री को बेहतर ढंग से समझ सकते हैं।"
+  },
+  "page.features.videoSubtitle.content.usage3.title": {
+    "message": "मूवी और टीवी नाटक को अत्यधिक देखना"
+  },
+  "page.features.videoSubtitle.content.usage3.desc": {
+    "message": "जब दर्शक विदेशी भाषा की फिल्में और टीवी श्रृंखला देखते हैं, तो सॉफ्टवेयर उन्हें वास्तविक समय में द्विभाषी उपशीर्षक में अनुवादित कर देगा, ताकि हर कोई अब भाषा बाधाओं से प्रतिबंधित न हो।"
+  },
+  "page.features.videoSubtitle.content.usage4.title": {
+    "message": "अंतर - संस्कृति संचार"
+  },
+  "page.features.videoSubtitle.content.usage4.desc": {
+    "message": "लोग सांस्कृतिक समझ और संचार को बढ़ावा देने, अन्य संस्कृतियों और देशों की वीडियो सामग्री देखने के लिए सॉफ़्टवेयर का उपयोग कर सकते हैं।"
+  },
+  "page.features.videoSubtitle.content.usage5.title": {
+    "message": "यात्रा की तैयारी"
+  },
+  "page.features.videoSubtitle.content.usage5.desc": {
+    "message": "यात्री गंतव्य देश की वीडियो सामग्री देखकर स्थानीय संस्कृति और भाषा की आदतों के बारे में पहले से जान सकते हैं।"
+  },
+  "page.features.videoSubtitle.content.usage6.title": {
+    "message": "समाचार रिपोर्ट"
+  },
+  "page.features.videoSubtitle.content.usage6.desc": {
+    "message": "उपयोगकर्ता विदेशी समाचार रिपोर्ट और समसामयिक मामलों के कार्यक्रम देख सकते हैं, भले ही उनके पास स्थानीय भाषा में उपशीर्षक न हों।"
+  },
+  "page.features.videoSubtitle.content.usage7.title": {
+    "message": "बिजनेस स्टडीज"
+  },
+  "page.features.videoSubtitle.content.usage7.desc": {
+    "message": "प्रतिस्पर्धियों और बाजार की गतिशीलता को बेहतर ढंग से समझने के लिए कॉर्पोरेट शोधकर्ता विदेशी बाजारों से विज्ञापन और प्रचार वीडियो देख सकते हैं।"
+  },
+  "page.features.howtouse": {
+    "message": "का उपयोग कैसे करें"
+  },
+  "page.features.howtouse.installstep": {
+    "message": "1. प्लग-इन इंस्टॉल करें:"
+  },
+  "page.features.howtouse.installstep.desc": {
+    "message": "अधिक इंस्टॉलेशन विवरण<a href=\"{installDocUrl}\">पाया</a>सकता है1"
+  },
+  "page.features.howtouse.videoSubtitle.step2": {
+    "message": "2. \"द्विभाषी उपशीर्षक स्वचालित रूप से चालू करें\" जांचें:"
+  },
+  "page.features.howtouse.videoSubtitle.step3": {
+    "message": "3. वीडियो साइट पर उपशीर्षक चालू करें:"
+  },
+  "page.features.howtouse.videoSubtitle.step4": {
+    "message": "4. इमर्सिव ट्रांसलेशन का उपयोग करें:"
+  },
+  "page.features.downloadnow": {
+    "message": "इमर्सिव ट्रांसलेशन कई प्लेटफार्मों का समर्थन करता है, अभी इसका उपयोग करना शुरू करें"
+  },
+  "page.features.AddToBrowser": {
+    "message": "ब्राउज़र में जोड़ें"
+  },
+  "page.features.shareBilingualContent.page.title": {
+    "message": "द्विभाषी सामग्री साझाकरण"
+  },
+  "page.features.shareBilingualContent.page.description": {
+    "message": "द्विभाषी सामग्री साझाकरण"
+  },
+  "page.features.shareBilingualContent.content.title": {
+    "message": "द्विभाषी शब्द सामग्री साझाकरण-विस्तृत अनुवाद"
+  },
+  "page.features.shareBilingualContent.content.description": {
+    "message": "इमर्सिव ट्रांसलेशन अनुवादित द्विभाषी सामग्री को साझा करने का समर्थन करता है, और साझा की गई सामग्री स्रोत साइट की शैली को बनाए रख सकती है, जिससे सभी को अधिक उच्च गुणवत्ता वाली सामग्री खोजने में मदद मिलती है।"
+  },
+  "page.features.shareBilingualContent.content.introduction1.title": {
+    "message": "सीखने में आसान"
+  },
+  "page.features.shareBilingualContent.content.introduction1.desc": {
+    "message": "जो उपयोगकर्ता भाषाएँ सीख रहे हैं, उनके लिए द्विभाषी पृष्ठ साझा करने से उन्हें अपने शिक्षण सहयोगियों के साथ संवाद करने और सीखने में मदद मिल सकती है, जिससे भाषा सीखने की दक्षता में सुधार होगा।"
+  },
+  "page.features.shareBilingualContent.content.introduction2.title": {
+    "message": "संचार को बढ़ावा दें"
+  },
+  "page.features.shareBilingualContent.content.introduction2.desc": {
+    "message": "उपयोगकर्ता अंतर-सांस्कृतिक संचार और समझ को बढ़ावा देने के लिए विभिन्न भाषा पृष्ठभूमि वाले दोस्तों के साथ अनुवादित सामग्री साझा कर सकते हैं।"
+  },
+  "page.features.shareBilingualContent.content.introduction3.title": {
+    "message": "समय की बचत"
+  },
+  "page.features.shareBilingualContent.content.introduction3.desc": {
+    "message": "अन्य उपयोगकर्ताओं को उसी वेब पेज की सामग्री का दोबारा अनुवाद करने की आवश्यकता नहीं है। वे साझा लिंक के माध्यम से सीधे द्विभाषी सामग्री तक पहुंच सकते हैं, जिससे समय की बचत होती है।"
+  },
+  "page.features.shareBilingualContent.content.introduction4.title": {
+    "message": "सुविधाजनक"
+  },
+  "page.features.shareBilingualContent.content.introduction4.desc": {
+    "message": "उपयोगकर्ता सोशल मीडिया, ईमेल या इंस्टेंट मैसेजिंग टूल के माध्यम से द्विभाषी पृष्ठों को तुरंत साझा कर सकते हैं, जिससे ऑपरेशन सरल और सुविधाजनक हो जाता है।"
+  },
+  "page.features.shareBilingualContent.content.introduction5.title": {
+    "message": "सामग्री बैकअप"
+  },
+  "page.features.shareBilingualContent.content.introduction5.desc": {
+    "message": "उपयोगकर्ता बैकअप के रूप में शेयरिंग फ़ंक्शन के माध्यम से महत्वपूर्ण द्विभाषी सामग्री को अन्य प्लेटफार्मों पर सहेज सकते हैं।"
+  },
+  "page.features.shareBilingualContent.content.usage1.title": {
+    "message": "शिक्षा सीखना"
+  },
+  "page.features.shareBilingualContent.content.usage1.desc": {
+    "message": "छात्र मूल पाठ और अनुवाद की तुलना करने और विदेशी भाषाएँ सीखते समय अपनी समझ को गहरा करने के लिए सहपाठियों या शिक्षकों के साथ द्विभाषी पृष्ठ साझा कर सकते हैं।"
+  },
+  "page.features.shareBilingualContent.content.usage2.title": {
+    "message": "यात्रा की योजना"
+  },
+  "page.features.shareBilingualContent.content.usage2.desc": {
+    "message": "यात्रा कार्यक्रम की योजना बनाने की सुविधा के लिए यात्री द्विभाषी प्रारूप में साथी यात्रियों के साथ गंतव्य यात्रा की जानकारी या रणनीतियों को साझा कर सकते हैं।"
+  },
+  "page.features.shareBilingualContent.content.usage3.title": {
+    "message": "समाचार रिपोर्ट"
+  },
+  "page.features.shareBilingualContent.content.usage3.desc": {
+    "message": "पत्रकार या पाठक पाठकों को विदेशी मीडिया द्वारा रिपोर्ट की गई सामग्री को बेहतर ढंग से समझने में मदद करने के लिए अंतरराष्ट्रीय समाचारों की द्विभाषी तुलना साझा कर सकते हैं।"
+  },
+  "page.features.shareBilingualContent.content.usage4.title": {
+    "message": "सामाजिक मीडिया"
+  },
+  "page.features.shareBilingualContent.content.usage4.desc": {
+    "message": "उपयोगकर्ता द्विभाषी पाठकों के व्यापक समूह को आकर्षित करने के लिए सोशल मीडिया पर दिलचस्प या महत्वपूर्ण द्विभाषी वेब सामग्री साझा कर सकते हैं।"
+  },
+  "page.features.shareBilingualContent.content.usage5.title": {
+    "message": "शैक्षिक अनुसंधान"
+  },
+  "page.features.shareBilingualContent.content.usage5.desc": {
+    "message": "अंतर्राष्ट्रीय सहयोगियों को शोध के प्रमुख बिंदुओं को शीघ्रता से समझने में मदद करने के लिए शोधकर्ता अकादमिक पत्रों या शोध रिपोर्टों के द्विभाषी सार साझा कर सकते हैं।"
+  },
+  "page.features.shareBilingualContent.content.usage6.title": {
+    "message": "आप्रवासन सेवाएँ"
+  },
+  "page.features.shareBilingualContent.content.usage6.desc": {
+    "message": "नए अप्रवासियों को बेहतर ढंग से समझने और नए वातावरण के अनुकूल ढलने में मदद करने के लिए आप्रवासन सेवा एजेंसियां सरकारी नीतियों, कानूनों और विनियमों के द्विभाषी पृष्ठ साझा कर सकती हैं।"
+  },
+  "page.features.howtouse.shareBilingualContent.step2": {
+    "message": "2. इमर्सिव ट्रांसलेशन का उपयोग करें:"
+  },
+  "page.features.howtouse.shareBilingualContent.step3": {
+    "message": "3. साझा करने के लिए क्लिक करें"
+  },
+  "page.features.howtouse.shareBilingualContent.step4": {
+    "message": "4. सामग्री की पुष्टि करें और इसे साझा करें"
+  },
+  "page.features.pdfTralslate.page.title": {
+    "message": "पीडीएफ अनुवाद"
+  },
+  "page.features.pdfTralslate.page.keywords": {
+    "message": "translate pdf,pdf translator,translate pdf to english,translate pdf document,pdf translate,translate a pdf,how to translate a pdf,pdf document translator,translate a pdf document,translate a pdf to english,pdf translate to english,pdf translation,translate german to english pdf,pdf english translator,translate pdf to spanish,translate from a pdf,translate pdf document to english,how to translate pdf,translate pdf documents,translate pdf english,free pdf translator"
+  },
+  "page.features.pdfTralslate.page.description": {
+    "message": "पीडीएफ अनुवाद, स्थानीय पीडीएफ अनुवाद, पीडीएफ फ़ाइल अनुवाद"
+  },
+  "page.features.pdfTralslate.content.title": {
+    "message": "पीडीएफ ट्रांसलेशन-इमर्सिव ट्रांसलेशन"
+  },
+  "page.features.pdfTralslate.content.description": {
+    "message": "इमर्सिव ट्रांसलेशन द्विभाषी पीडीएफ अनुवाद का समर्थन करता है, और अनुवादित पीडीएफ की द्विभाषी तुलना से जानकारी प्राप्त करना आसान हो जाता है।"
+  },
+  "page.features.pdfTralslate.content.introduction1.title": {
+    "message": "समझ बढ़ाएँ"
+  },
+  "page.features.pdfTralslate.content.introduction1.desc": {
+    "message": "द्विभाषी तुलना प्रदर्शन उपयोगकर्ताओं को मूल सामग्री और अनुवादित पाठ के बीच पत्राचार को बेहतर ढंग से समझने में मदद कर सकता है, खासकर जब एक नई भाषा सीखते हैं।"
+  },
+  "page.features.pdfTralslate.content.introduction2.title": {
+    "message": "कुशलता बढ़ाओ"
+  },
+  "page.features.pdfTralslate.content.introduction2.desc": {
+    "message": "उपयोगकर्ताओं को मूल पाठ और अनुवाद की तुलना करने के लिए विभिन्न दस्तावेज़ों या एप्लिकेशन के बीच स्विच करने की आवश्यकता नहीं है, जिससे बहुत समय और ऊर्जा की बचत होती है।"
+  },
+  "page.features.pdfTralslate.content.introduction3.title": {
+    "message": "प्रूफ़रीड करना आसान"
+  },
+  "page.features.pdfTralslate.content.introduction3.desc": {
+    "message": "अनुवाद परिणाम सीधे मूल पाठ के बगल में प्रदर्शित होते हैं, जिससे उपयोगकर्ताओं के लिए प्रूफरीडिंग और तुलना करना आसान हो जाता है। जब अनुवाद की समस्या आती है, तो वे मूल पाठ की तुरंत जांच कर सकते हैं।"
+  },
+  "page.features.pdfTralslate.content.introduction4.title": {
+    "message": "प्रारूप रखें"
+  },
+  "page.features.pdfTralslate.content.introduction4.desc": {
+    "message": "पीडीएफ सामग्री का अनुवाद करते समय, मूल प्रारूप मूल रूप से अपरिवर्तित रहता है। इसके शीर्ष पर, यह सामग्री प्रदर्शन आकार का अनुकूलन भी प्रदान करता है, जो संपूर्ण जानकारी अधिग्रहण के लिए अधिक अनुकूल है।"
+  },
+  "page.features.pdfTralslate.content.introduction5.title": {
+    "message": "व्यापक प्रयोज्यता"
+  },
+  "page.features.pdfTralslate.content.introduction5.desc": {
+    "message": "इसका उपयोग विभिन्न स्थितियों में किया जा सकता है, जैसे अकादमिक शोध, व्यावसायिक रिपोर्ट, कानूनी दस्तावेज़ इत्यादि, जिनमें तुलनात्मक पढ़ना विशेष रूप से महत्वपूर्ण है।"
+  },
+  "page.features.pdfTralslate.content.usage1.title": {
+    "message": "शैक्षिक अनुसंधान"
+  },
+  "page.features.pdfTralslate.content.usage1.desc": {
+    "message": "शोधकर्ता अंतरराष्ट्रीय शैक्षणिक संसाधनों को बेहतर ढंग से समझने और उद्धृत करने के लिए विदेशी दस्तावेजों का अनुवाद करने के लिए सॉफ्टवेयर का उपयोग कर सकते हैं।"
+  },
+  "page.features.pdfTralslate.content.usage2.title": {
+    "message": "अंतरराष्ट्रीय व्यापार"
+  },
+  "page.features.pdfTralslate.content.usage2.desc": {
+    "message": "व्यावसायिक पेशेवर अनुबंधों, रिपोर्टों और अन्य व्यावसायिक दस्तावेजों का अनुवाद कर सकते हैं ताकि यह सुनिश्चित किया जा सके कि सीमा पार लेनदेन में भागीदारों के दस्तावेजों को सटीक रूप से समझा जा सके।"
+  },
+  "page.features.pdfTralslate.content.usage3.title": {
+    "message": "कानूनी कार्य"
+  },
+  "page.features.pdfTralslate.content.usage3.desc": {
+    "message": "वकील या कानूनी कार्यकर्ता अंतरराष्ट्रीय कानूनी मामलों को संभालने में मदद के लिए कानूनी दस्तावेजों और केस सामग्री का अनुवाद कर सकते हैं।"
+  },
+  "page.features.pdfTralslate.content.usage4.title": {
+    "message": "शिक्षा सीखना"
+  },
+  "page.features.pdfTralslate.content.usage4.desc": {
+    "message": "छात्र और शिक्षक भाषा सीखने या अंतरराष्ट्रीय पाठ्यक्रमों के शिक्षण में सहायता के लिए पाठ्यपुस्तकों, शैक्षणिक पत्रों या शिक्षण सामग्री का अनुवाद कर सकते हैं।"
+  },
+  "page.features.pdfTralslate.content.usage5.title": {
+    "message": "यात्रा दिग्दर्शक"
+  },
+  "page.features.pdfTralslate.content.usage5.desc": {
+    "message": "विदेश यात्रा करते समय स्थानीय जानकारी को बेहतर ढंग से समझने में मदद के लिए यात्री यात्रा गाइड और मानचित्रों का अनुवाद कर सकते हैं।"
+  },
+  "page.features.pdfTralslate.content.usage6.title": {
+    "message": "आव्रजन दस्तावेज़"
+  },
+  "page.features.pdfTralslate.content.usage6.desc": {
+    "message": "अप्रवासी या शरणार्थी आवेदन प्रक्रिया में उपयोग के लिए महत्वपूर्ण व्यक्तिगत दस्तावेजों जैसे जन्म प्रमाण पत्र, विवाह प्रमाण पत्र आदि का अनुवाद कर सकते हैं।"
+  },
+  "page.features.pdfTralslate.content.usage7.title": {
+    "message": "सांस्कृतिक विनियमन"
+  },
+  "page.features.pdfTralslate.content.usage7.desc": {
+    "message": "विभिन्न संस्कृतियों के बीच समझ और संचार को बढ़ावा देने के लिए साहित्यिक कार्यों, कला आलोचना या ऐतिहासिक दस्तावेजों का अनुवाद करें।"
+  },
+  "page.features.pdfTralslate.content.usage8.title": {
+    "message": "तकनीकी पुस्तिका"
+  },
+  "page.features.pdfTralslate.content.usage8.desc": {
+    "message": "इंजीनियर और तकनीशियन विदेशों में खरीदे गए उपकरणों को संचालित करने और बनाए रखने में मदद के लिए ऑपरेटिंग मैनुअल और तकनीकी विशिष्टताओं का अनुवाद कर सकते हैं।"
+  },
+  "page.features.pdfTralslate.content.usage9.title": {
+    "message": "खबर मीडिया"
+  },
+  "page.features.pdfTralslate.content.usage9.desc": {
+    "message": "पाठकों को व्यापक अंतरराष्ट्रीय परिप्रेक्ष्य प्रदान करने के लिए रिपोर्टर और संपादक विदेशी समाचार रिपोर्टों और लेखों का अनुवाद कर सकते हैं।"
+  },
+  "page.features.pdfTralslate.content.usage10.title": {
+    "message": "सम्मेलन और सेमिनार"
+  },
+  "page.features.pdfTralslate.content.usage10.desc": {
+    "message": "आयोजक बैठक सामग्री और भाषणों का अनुवाद कर सकते हैं, जिससे उपस्थित लोगों को भाषा संबंधी बाधाओं को दूर करने और अधिक प्रभावी ढंग से चर्चा में भाग लेने की अनुमति मिलती है।"
+  },
+  "page.features.howtouse.pdfTralslate.step2": {
+    "message": "2. स्थानीय पीडीएफ अनुवाद खोलें:"
+  },
+  "page.features.howtouse.pdfTralslate.step3": {
+    "message": "3. एक स्थानीय पीडीएफ फाइल खींचें और प्लग-इन स्वचालित रूप से द्विभाषी अनुवाद करेगा।"
+  },
+  "page.android.title": {
+    "message": "Immersive Translate Browser - Android Download"
+  },
+  "page.android.desc": {
+    "message": "Plug-and-play Immersive Translate"
+  },
+  "page.android.pageTitle": {
+    "message": "The download has already started..."
+  },
+  "page.android.download.desc": {
+    "message": "If it hasn't started, you can click"
+  },
+  "page.android.download.text": {
+    "message": " here to download manually"
+  },
+  "page.android.content": {
+    "message": "The Immersive Translate Android Browser comes pre-installed with the Immersive Translate extension and can be used directly after installation. (Note, if you encounter a security risk warning during installation on some domestic smartphones (this is a standard prompt), please select [I am aware of the security risks] [Continue installation])."
+  },
+  "page.index.InValidChrome": {
+    "message": "Chrome kernel version {version} is too low, please upgrade your browser to the latest version"
+  },
+  "page.download.title": {
+    "message": "Enable bilingual reading with one click, enhancing information acquisition efficiency"
+  },
+  "page.download.subtitle": {
+    "message": "The term \"<b>Immersive Translate</b>\" was coined by us. Today, it has become synonymous with \"<b>bilingual contrastive translation</b>.\" Since its launch in 2023, this acclaimed AI bilingual webpage translation extension has helped over a million users overcome language barriers and freely access global knowledge. We believe that breaking down language barriers promotes information equity."
+  },
+  "page.download.web.title": {
+    "message": "Bilingual Webpage Translation"
+  },
+  "page.download.web.subtitle": {
+    "message": "We have successfully popularized the bilingual webpage reading experience among millions of users. As a leader in the industry, Immersive Translate incorporates over 10 of the top translation engines in the industry, including DeepL, OpenAI, and Google Translate, making it the tool with the most supported translation engines among all similar products worldwide."
+  },
+  "page.download.videoSub.title": {
+    "message": "Video Bilingual Subtitles"
+  },
+  "page.download.videoSub.subtitle": {
+    "message": "Immersive Translate was the first to support bilingual real-time subtitles for over 50 mainstream foreign video sites. With bilingual subtitles, you can fully understand the video content and naturally learn a foreign language while watching. The authentic foreign language audio combined with subtitles in your mother tongue helps you improve your listening, speaking, reading, and writing skills subtly."
+  },
+  "page.download.pdf.title": {
+    "message": "PDF Contrastive Translation"
+  },
+  "page.download.pdf.subtitle": {
+    "message": "Immersive Translate innovatively introduced a free PDF document contrastive translation feature in the browser plugin. Whether you need to read foreign academic papers or handle multilingual business documents, you can obtain high-quality translation results with a single click through Immersive Translate."
+  },
+  "page.download.pdfpro.title": {
+    "message": "PDF PRO"
+  },
+  "page.download.pdfpro.subtitle": {
+    "message": "एआई ड्राइव किए गए <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF अनुवाद</a> को सबसे जटिल PDF फ़ाइलों का सामना करने के लिए विशेष रूप से डिज़ाइन किया गया है, चाहे वह पेशेवर शब्दावली से भरी हुई शैक्षिक पत्र हो, या जटिल तालिकाओं और छवियों से भरी हुई विभिन्न दस्तावेज़, एआई ड्राइव की गई PDF पार्सिंग तकनीक इन सामग्रियों के उच्च कुशलता से सटीक पार्सिंग की सुनिश्चित कर सकती है।"
+  },
+  "page.download.ePub.title": {
+    "message": "ePub Bilingual Translation"
+  },
+  "page.download.ePub.subtitle": {
+    "message": "With Immersive Translate, creating bilingual ePub ebooks has never been easier! Our one-click ebook creation feature instantly transforms your foreign language ebooks into elegant bilingual versions, allowing you to enjoy an immersive reading experience on various e-readers."
+  },
+  "page.download.mouse.title": {
+    "message": "Mouseover Translation"
+  },
+  "page.download.mouse.subtitle": {
+    "message": "Immersive Translate brings another revolutionary interaction innovation—mouseover translation. Simply hover your mouse over any paragraph and press the preset shortcut key (such as Ctrl), and the translation of the current paragraph will immediately appear after the paragraph."
+  },
+  "page.download.input.title": {
+    "message": "Input Box Translation"
+  },
+  "page.download.input.subtitle": {
+    "message": "Directly enter text in any input box (such as \"hello world\"), quickly press the space bar three times, and the text will be translated into the target language (default English, customizable). This innovative interaction mode is suitable for search, writing, dialogue, and other types of pages, allowing you to complete translations instantly without switching."
+  },
+  "page.viewDownload.title": {
+    "message": "Immersive Translate, one-click to enable bilingual reading"
+  },
+  "page.viewDownload.button": {
+    "message": "Download now"
+  },
+  "page.index.downloadBtn.installExtension": {
+    "message": "Install browser plugin"
+  },
+  "page.index.downloadBtn.orUseOnMobile": {
+    "message": "Or use it directly on the mobile phone."
+  },
+  "page.index.downloadBtn.useOnMobile": {
+    "message": "Using on the mobile phone"
+  },
+  "page.index.downloadBtn.macSafari": {
+    "message": "Mac Safari"
+  },
+  "page.index.downloadBtn.iosSafari": {
+    "message": "iOS Safari"
+  },
+  "page.index.downloadBtn.iosSafariExtension.tag": {
+    "message": "Enabled Manually"
+  },
+  "page.features.videoSubtitle.content.allSupportSite": {
+    "message": "All Supported Sites"
+  },
+  "pro.advantage.ocr": {
+    "message": "OCR छवि पहचान"
+  },
+  "pro.compare.table.columns.normal": {
+    "message": "सामान्य"
+  },
+  "pro.compare.table.html": {
+    "message": "HTML निर्यात करें"
+  },
+  "pro.compare.header.pdf": {
+    "message": "सामान्य PDF अनुवाद"
+  },
+  "pro.feat.share": {
+    "message": "ऑनलाइन साझा करना"
+  },
+  "pro.compare.table.share": {
+    "message": "ऑनलाइन साझा करना"
+  },
+  "pro.advantage.table": {
+    "message": "तालिका पहचान"
+  },
+  "pro.feat.html": {
+    "message": "HTML के रूप में निर्यात करें"
+  },
+  "pro.compare.header.proPdf": {
+    "message": "AI संचालित Pro PDF अनुवाद"
+  },
+  "pro.compare.table.columns.pro": {
+    "message": "अत्यधिक उत्कृष्ट"
+  },
+  "pro.advantage.columns": {
+    "message": "दोहरी स्तंभ, तिहरी स्तंभ प्रभाव"
+  },
+  "pro.advantage.formula": {
+    "message": "सूत्र पहचान"
+  },
+  "pro.feat.pdf": {
+    "message": "पीडीएफ के रूप में निर्यात करें"
+  },
+  "pro.compare.table.pdf": {
+    "message": "पीडीएफ निर्यात करें"
+  },
+  "page.feature.pro.compare.title": {
+    "message": "AI संचालित PDF Pro अनुवाद की तुलना में सामान्य PDF अनुवाद:"
+  },
+  "pro.introduction.title": {
+    "message": "अपने {{pdf}} दस्तावेज़ अनुवाद अनुभव को {{ai}} के साथ पुनर्निर्माण करें।"
+  },
+  "pro.pdf.title": {
+    "message": "एआई ड्राइव की गई डुबकी अनुवाद PDF अनुवाद का उपयोग करें"
+  },
+  "pro.feat.share.description": {
+    "message": "एक द्विभाषी स्नैपशॉट के एक पहुंच योग्य लिंक का उत्पादन करके, आप अनुवादित दस्तावेज़ को किसी के साथ भी आसानी से साझा कर सकते हैं।"
+  },
+  "pro.advantage.formula.description": {
+    "message": "उन्नत AI प्रौद्योगिकी की सहायता से, सबसे जटिल गणितीय और विज्ञानीय सूत्रों को भी सटीक रूप से पहचाना जा सकता है और सटीक अनुवाद प्रदान किया जा सकता है।"
+  },
+  "pro.feat.html.description": {
+    "message": "हमारा सिद्धांत है कि PDF को HTML में सही तरीके से बदलने के बाद अनुवाद करें। इसलिए आप अनुवादित HTML को सहेज सकते हैं, ताकि किसी भी उपकरण पर पढ़ने में आसानी हो।"
+  },
+  "pro.feat.pdf.description": {
+    "message": "हम अनुवादित दस्तावेज़ों को नए PDF के रूप में निर्यात करने का समर्थन करते हैं, ताकि आपके दस्तावेज़ का पेशेवर दिखावा और पठन अनुभव किसी भी प्लेटफ़ॉर्म पर बना रहे।"
+  },
+  "pro.advantage.ocr.description": {
+    "message": "हमारे PDF अनुवाद का उपयोग करके नवीनतम OCR (ऑप्टिकल कैरेक्टर रिकग्निशन) प्रौद्योगिकी, हम छवियों से पाठ की पहचान कर सकते हैं, और इसे संपादन योग्य, अनुवादनीय पाठ में परिवर्तित कर सकते हैं।"
+  },
+  "pro.advantage.columns.description": {
+    "message": "हमारे PDF अनुवाद उपकरण को दोहरी और तिहाई कॉलम लेआउट का समर्थन करने के लिए विशेष रूप से डिज़ाइन किया गया है, जो दस्तावेज़ में जटिल लेआउट की पहचान और अनुकूलन कर सकता है। इसका अर्थ है कि यहां तक कि सबसे जटिल स्वरूप के शैक्षिक पत्र भी हमारे सिस्टम द्वारा सही रूप से विश्लेषित और अनुवादित किए जा सकते हैं।"
+  },
+  "pro.advantage.table.description": {
+    "message": "हम PDF में तालिकाओं के महत्व को गहराई से समझते हैं, हमारे द्वारा उपयोग की जाने वाली AI क्षमता ने तालिकाओं पर बहुत सारी अनुकूलन की हैं, जो दस्तावेज़ों में तालिकाओं की पहचान और अनुवाद करने में समतलता प्रदान कर सकती है।"
+  },
+  "pro.pdf.desc": {
+    "message": "सबसे जटिल PDF फ़ाइलों के सामने आने के लिए विशेष रूप से डिज़ाइन किया गया, चाहे वह पेशेवर शब्दावली से भरी हुई शैक्षिक पत्र हो, या जटिल तालिकाओं और छवियों से भरी हुई विभिन्न दस्तावेज़, AI ड्राइवन PDF पार्सिंग तकनीक सुनिश्चित करती है कि इन सामग्रियों का उच्च क्षमता और सटीक पार्सिंग किया जा सके (*केवल Pro सदस्यों के लिए उपलब्ध)।"
+  },
+  "page.exchange.title": {
+    "message": "प्रो सदस्य अदला-बदली"
+  },
+  "page.exchange.pricingTitle": {
+    "message": "सामान्य मशीन अनुवाद को अलविदा कहें!"
+  },
+  "page.exchange.pricingSubtitle": {
+    "message": "अब ही Pro सदस्यता को अपग्रेड करें, और DeepL और OpenAI द्वारा प्रदान किए गए सटीक, सुचारु, प्राकृतिक पठन अनुभव का आनंद लें।"
+  },
+  "page.topup.title": {
+    "message": "ट्रैफिक पैकेज खरीदें"
+  },
+  "page.topup.pricingTitle": {
+    "message": "सामान्य मशीन अनुवाद को अलविदा कहें!"
+  },
+  "page.topup.pricingSubtitle": {
+    "message": "ट्रैफिक एड-ऑन पैकेज, सटीक, स्मूथ और प्राकृतिक पढ़ने का अनुभव जारी रखें।"
+  },
+  "page.zipinstall.title": {
+    "message": "इमर्सिव अनुवाद क्रोम प्लगइन स्थानीय स्थापना गाइड"
+  },
+  "page.zipinstall.clickdownload": {
+    "message": "यहां क्लिक करें crx इंस्टॉलेशन पैकेज डाउनलोड करने के लिए"
+  },
+  "page.zipinstall.copyandpaste": {
+    "message": "निम्नलिखित पते की प्रतिलिपि ब्राउज़र के पता पट्टी में चिपकाएं, एंटर दबाएं खोलने के लिए, दाएं ऊपरी कोने में विकासकर्ता मोड शुरू करें"
+  },
+  "page.zipinstall.copy": {
+    "message": "प्रतिलिपि"
+  },
+  "page.zipinstall.copySuccess": {
+    "message": "सफलतापूर्वक कॉपी किया गया"
+  },
+  "page.zipinstall.step1Title": {
+    "message": "डाउनलोड करें इमर्सिव अनुवाद crx इंस्टॉलेशन पैकेज, और उसे अनज़िप करें (crx फ़ाइल अनज़िप किए गए फ़ोल्डर में होगी)।"
+  },
+  "page.zipinstall.step2Title": {
+    "message": "क्रोम का 【एक्सटेंशन प्रबंधन】 पृष्ठ खोलें, और 【डेवलपर मोड】 चालू करें।"
+  },
+  "page.zipinstall.step3Title": {
+    "message": "सम्मोहक अनुवाद प्लगइन स्थापित करें"
+  },
+  "page.zipinstall.step4Title": {
+    "message": "अपने ब्राउज़र टूलबार में इमर्सिव अनुवाद प्लगइन को स्थायी रूप से लगाएं, ताकि आप इसे कभी भी कॉल कर सकें (प्लगइन को अगली बार अपडेट करने के लिए, इस प्रक्रिया को फिर से चलाएं)"
+  },
+  "page.manualinstall.title": {
+    "message": "इमर्सिव अनुवाद Chrome प्लगइन स्थानीय स्थापना गाइड"
+  },
+  "page.manualinstall.description": {
+    "message": "यदि आप Chrome स्टोर के माध्यम से इमर्सिव अनुवाद प्लगइन स्थापित करने में असमर्थ हैं, तो आप इस ट्यूटोरियल का पालन करके मैन्युअल रूप से स्थापित करने का प्रयास कर सकते हैं।"
+  },
+  "page.pricing.header.onboarding.doc": {
+    "message": "दस्तावेज़ अनुवाद"
+  },
+  "page.pricing.header.onboarding.video": {
+    "message": "यूट्यूब वीडियो द्विभाषीय उपशीर्षक"
+  },
+  "page.pricing.header.normal.subtitle3": {
+    "message": "आगे बढ़ने का मतलब है कि आप <a href='/docs/TERMS/' target='_blank'>सेवा की शर्तें</a> और <a href='/docs/PRIVACY/' target='_blank'>गोपनीयता नीति</a> से सहमत हैं"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "item.content.keywords": {
+    "message": "Traducción de sitios web, Traducción de páginas web, Traducción de documentos, Traducción de PDF, Traducción de tesis, Traducción de libros electrónicos, Traducción bilingüe",
+    "description": "The content of metadata with content"
+  },
+  "item.content.description": {
+    "message": "Immersive Translate le ofrece servicios gratuitos de traducción bilingüe cruzada de páginas web, así como traducción de documentos, traducción de literatura, traducción de PDF, traducción de eBooks EPUB, traducción de subtítulos y traducción de textos TXT en muchos formatos. Soporta la traducción mutua de chino, inglés, japonés, coreano, francés, alemán, ruso, español, portugués, vietnamita, indonesio, italiano, holandés, tailandés y docenas de otros idiomas. Soporta una gran variedad de interfaces de traducción a elegir entre：DeepL Translation, Google Translate, Open AI Translation, Youdao Translation, Caiyu XiaoYi Translation, Baidu Translation, Volcano Translation, Maverick Translation, etc. Sé la herramienta de traducción que más te entiende, y proporciónate la experiencia de traducción más suave como la seda.",
+    "description": "The content of metadata with content"
+  }
+}

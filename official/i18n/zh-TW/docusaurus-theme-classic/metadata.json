@@ -1,0 +1,10 @@
+{
+  "item.content.keywords": {
+    "message": "網站翻譯,網站翻譯,文件翻譯,PDF翻譯,論文翻譯,電子書翻譯,雙語翻譯",
+    "description": "The content of metadata with content"
+  },
+  "item.content.description": {
+    "message": "沉浸式翻譯為您提供免費的雙語對照網頁翻譯，以及多種格式的文件翻譯、文獻翻譯、PDF翻譯、EPUB電子書翻譯、字幕翻譯、TXT文字翻譯服務。支援中文、英語、日語、韓語、法語、德語、俄語、西班牙語、葡萄牙語、越南語、印尼語、義大利語、荷蘭語、泰語等數十種語言的互譯。支援多種翻譯介面選擇：DeepL 翻譯、 Google 翻譯、Open AI 翻譯、有道翻譯、彩玉小譯、百度翻譯、火山翻譯、小牛翻譯等。做最懂您的翻譯工具，提供您最絲滑的翻譯體驗。",
+    "description": "The content of metadata with content"
+  }
+}

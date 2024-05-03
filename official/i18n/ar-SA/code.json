@@ -1,0 +1,1222 @@
+{
+  "theme.ErrorPageContent.title": {
+    "message": "عذرًٍا، لقد حدث خطأ ما. نعمل على إصلاح هذه المشكلة في أسرع وقت ممكن. يرجى إعادة المحاولة لاحقًا.",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.NotFound.title": {
+    "message": "الصفحة غير موجودة.",
+    "description": "The title of the 404 page"
+  },
+  "theme.NotFound.p1": {
+    "message": "عذرًا، ولكن يبدو أن الصفحة التي تبحث عنها مفقودة. يرجى استخدام قائمة التنقل أو شريط البحث لاستكشاف أجزاء أخرى من موقعنا. إذا كنت تعتقد أن هناك مشكلة فلا تتردد في الاتصال بفريق الدعم للحصول على مساعدة، شكرًا لتفهمك.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "يرجى الاتصال بمالك الموقع الذي نشأ منه الرابط الأصلي، وإبلاغه بأن الرابط معطل.",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.admonition.note": {
+    "message": "ملاحظة",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "فوري",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.danger": {
+    "message": "خطر",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "معلومة",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.caution": {
+    "message": "تحذير",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "التنقل بين صفحات قائمة منشورات المدونة.",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "منشورات المدونة الأخيرة.",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "منشورات المدونة القديمة.",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.archive.title": {
+    "message": "المحفوظات",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "المحفوظات",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "العودة إلى الأعلى.",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "التنقل في صفحة المدونة.",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "المنشورات الأخيرة.",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "المنشورات القديمة.",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.blog.post.plurals": {
+    "message": "{count} منشورات المدونة",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} يحتوي على العلامة \"{tagName}\"",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "عرض جميع العلامات",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "تبديل الوضع الفاتح/الداكن (حاليًا{mode})",
+    "description": "The ARIA label for the navbar color mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "الوضع الداكن",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "وضع الإضاءة",
+    "description": "The name for the light color mode"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "مسار الصفحة",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.DocCard.categoryDescription": {
+    "message": "{count} العناصر",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "تبويب المستندات",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "الصفحة السابقة",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "الصفحة التالية",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "{count} وثائق مع العلامات",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged}「{tagName}」",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "الإصدار：{versionLabel}"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "هذه وثيقة لم يتم إصدارها بعد {versionLabel} {siteTitle}",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "هذا المستند هو {versionLabel} {siteTitle} لم تتم صيانته بشكل نشط.",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "راجع {latestVersionLink} ({versionLabel}) للحصول على أحدث الوثائق.",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "الإصدار الأخير",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.common.editThisPage": {
+    "message": "تحرير هذه الصفحة",
+    "description": "The link label to edit the current page"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": "على {date} ",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": "بواسطة {user} ",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "آخر تحديث بواسطة {byUser} on {atDate}",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "{heading}رابط مباشر ",
+    "description": "Title for link to heading"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "حدد الإصدار",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "إغلاق",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "تصفح المنشورات الأخيرة",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "أشار:",
+    "description": "The label alongside a tag list"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "تم النسخ بنجاح",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "نسخ الرمز إلى الحافظة",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "نسخ",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "تبديل التفاف الكلمات",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
+    "message": "فتح/إغلاف قائمة الشريط الجانبي \"{label}\"",
+    "description": "The ARIA label to toggle the collapsible sidebar category"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "الملاحة الرئيسية",
+    "description": "The ARIA label for the main navigation"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "اختر لغة",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "وقت القراءة: {readingTime} دقيقة ",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "نظرة عامة على هذه الصفحة",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "الصفحة الرئيسية",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.blog.post.readMore": {
+    "message": "اقرأ أكثر",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "قراءة النص الكامل {title}",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "إخفاء الشريط الجاني",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "إخفاء الشريط الجاني",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← العودة إلى القائمة الرئيسية",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "تبديل شريط التنقل",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "إغلاق شريط التنقل",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "الشريط الجانبي للمستند",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "فتح الشريط الجانبي",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "فتح الشريط الجانبي",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.SearchBar.label": {
+    "message": "يبحث",
+    "description": "The ARIA label and placeholder for search button"
+  },
+  "theme.SearchModal.searchBox.resetButtonTitle": {
+    "message": "محو سجل البحث",
+    "description": "The label and ARIA label for search box reset button"
+  },
+  "theme.SearchModal.searchBox.cancelButtonText": {
+    "message": "مسح",
+    "description": "The label and ARIA label for search box cancel button"
+  },
+  "theme.SearchModal.startScreen.recentSearchesTitle": {
+    "message": "عمليات البحث الأخيرة",
+    "description": "The title for recent searches"
+  },
+  "theme.SearchModal.startScreen.noRecentSearchesText": {
+    "message": "لا توجد عمليات بحث أخيرة",
+    "description": "The text when no recent searches"
+  },
+  "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
+    "message": "احفظ هذا البحث",
+    "description": "The label for save recent search button"
+  },
+  "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
+    "message": "مسح هذا البحث من السجل",
+    "description": "The label for remove recent search button"
+  },
+  "theme.SearchModal.startScreen.favoriteSearchesTitle": {
+    "message": "إشارة مرجعية",
+    "description": "The title for favorite searches"
+  },
+  "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
+    "message": "مسح هذا البحث من الإشارات المرجعية",
+    "description": "The label for remove favorite search button"
+  },
+  "theme.SearchModal.errorScreen.titleText": {
+    "message": "غير قادر على الحصول على النتائج",
+    "description": "The title for error screen of search modal"
+  },
+  "theme.SearchModal.errorScreen.helpText": {
+    "message": "قد تحتاج إلى التحقق من اتصال الشبكة لديك.",
+    "description": "The help text for error screen of search modal"
+  },
+  "theme.SearchModal.footer.selectText": {
+    "message": "المحدد",
+    "description": "The explanatory text of the action for the enter key"
+  },
+  "theme.SearchModal.footer.selectKeyAriaLabel": {
+    "message": "مفتاح الادخال",
+    "description": "The ARIA label for the Enter key button that makes the selection"
+  },
+  "theme.SearchModal.footer.navigateText": {
+    "message": "ملاحة",
+    "description": "The explanatory text of the action for the Arrow up and Arrow down key"
+  },
+  "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
+    "message": "مفتاح لأعلى",
+    "description": "The ARIA label for the Arrow up key button that makes the navigation"
+  },
+  "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
+    "message": "مفتاح لأسفل",
+    "description": "The ARIA label for the Arrow down key button that makes the navigation"
+  },
+  "theme.SearchModal.footer.closeText": {
+    "message": "إنهاء",
+    "description": "The explanatory text of the action for Escape key"
+  },
+  "theme.SearchModal.footer.closeKeyAriaLabel": {
+    "message": "خروج",
+    "description": "The ARIA label for the Escape key button that close the modal"
+  },
+  "theme.SearchModal.footer.searchByText": {
+    "message": "بحث",
+    "description": "The text explain that the search is making by Algolia"
+  },
+  "theme.SearchModal.noResultsScreen.noResultsText": {
+    "message": "لا توجد نتائج :",
+    "description": "The text explains that there are no results for the following search"
+  },
+  "theme.SearchModal.noResultsScreen.suggestedQueryText": {
+    "message": "حاول البحث",
+    "description": "The text for the suggested query when no results are found for the following search"
+  },
+  "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
+    "message": "هل تعتقد أن هذا الاستعلام يجب أن يكون له نتائج؟",
+    "description": "The text for the question where the user thinks there are missing results"
+  },
+  "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
+    "message": "من فضلك، إسمح لنا أن نعرف.",
+    "description": "The text for the link to report missing results"
+  },
+  "theme.SearchModal.placeholder": {
+    "message": "البحث في المستندات",
+    "description": "The placeholder of the input of the DocSearch pop-up modal"
+  },
+  "theme.SearchBar.seeAll": {
+    "message": "عرض جميع النتائج {count}"
+  },
+  "theme.SearchPage.documentsFound.plurals": {
+    "message": "تم العثور على {count} وثائق",
+    "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.SearchPage.existingResultsTitle": {
+    "message": "نتائج البحث عن \"{query}\"",
+    "description": "The search page title for non-empty query"
+  },
+  "theme.SearchPage.emptyResultsTitle": {
+    "message": "البحث في الوثائق",
+    "description": "The search page title for empty query"
+  },
+  "theme.SearchPage.inputPlaceholder": {
+    "message": "أدخل مصطلحات البحث هنا",
+    "description": "The placeholder for search page input"
+  },
+  "theme.SearchPage.inputLabel": {
+    "message": "يبحث",
+    "description": "The ARIA label for search page input"
+  },
+  "theme.SearchPage.algoliaLabel": {
+    "message": "البحث عبر ألغوليا",
+    "description": "The ARIA label for Algolia mention"
+  },
+  "theme.SearchPage.noResultsText": {
+    "message": "لم يتم العثور على نتائج",
+    "description": "The paragraph for empty search result"
+  },
+  "theme.SearchPage.fetchingNewResults": {
+    "message": "جارٍ الحصول على نتائج بحث جديدة...",
+    "description": "The paragraph for fetching new search results"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "أعد المحاولة",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "انتقل إلى المحتوى الرئيسي",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "إشارة",
+    "description": "The title of the tag list page"
+  },
+  "page.doc.title": {
+    "message": "أداة ترجمة مستندات PDF ثنائية اللغة لترجمة صفحات الويب"
+  },
+  "page.doc.keywords": {
+    "message": "ترجمة موقع الويب، ترجمة ملفات pdf، ترجمة صفحة ويب، مترجم ملفات pdf، ترجمة موقع الويب إلى الإنجليزية، امتداد الترجمة، ترجمة ملفات pdf إلى الإنجليزية، ترجمة مستند pdf، مترجم موقع ويب، ترجمة ملفات pdf، ترجمة صفحة ويب، ترجمة ملف pdf، ترجمة موقع ويب، ترجمة موقع ويب، ترجمة صفحة ويب، وترجمة الترجمة"
+  },
+  "page.doc.description": {
+    "message": "توفر لك الترجمة الشاملة ترجمة مجانية لصفحات الويب ثنائية اللغة، بالإضافة إلى ترجمة المستندات وترجمة الأدب وترجمة ملفات PDF وترجمة الكتب الإلكترونية بتنسيق EPUB وترجمة الترجمة وخدمات ترجمة نصوص TXT بتنسيقات مختلفة. يدعم الترجمة إلى عشرات اللغات بما في ذلك الصينية والإنجليزية واليابانية والكورية والفرنسية والألمانية والروسية والإسبانية والبرتغالية والفيتنامية والإندونيسية والإيطالية والهولندية والتايلاندية. يدعم مجموعة متنوعة من خيارات واجهة الترجمة:：ترجمة DeepL، ترجمة Google، ترجمة Open AI، ترجمة Youdao، Caiyu Xiaoyi، ترجمة Baidu، ترجمة Huoshan، ترجمة Mavericks، إلخ. كن أداة الترجمة التي تفهمك بشكل أفضل وتزودك بتجربة الترجمة الأكثر سلاسة."
+  },
+  "page.index.headTitle": {
+    "message": "الترجمة الغامرة - أداة الترجمة ثنائية اللغة لترجمة مستندات PDFوصفحات الويب"
+  },
+  "page.index.title": {
+    "message": "الترجمة الغامرة: المترجم المساعد عالي التصنيف، ثنائي اللغة لترجمة صفحات الويب"
+  },
+  "page.index.description": {
+    "message": "يمكنك استخدامه مجانًا لترجمة صفحات الويب باللغة الأجنبية، وملفات PDF، و<a href=\"{pdfUrl}\">كتب إلكترونية ePub، و</a>ملفات ترجمة، وما إلى ذلك في</a><a target=\"_blank\" href=\"{epubUrl}\">.<br />يمكن استخدامه أيضًا على الهواتف المحمولة في أي وقت وفي أي مكان.<b>يساعدك حقًا على كسر حواجز المعلومات. اختر النظام الأساسي أدناه وابدأ في تجربته على الفور</b>:)"
+  },
+  "page.index.downloadBtn.edge": {
+    "message": "ملحق إيدج"
+  },
+  "page.index.downloadBtn.chrome": {
+    "message": "ملحق كروم"
+  },
+  "page.index.downloadBtn.firefox": {
+    "message": "ملحق فايرفوكس"
+  },
+  "page.index.downloadBtn.safari": {
+    "message": "ملحق سفاري"
+  },
+  "page.index.downloadBtn.userscript": {
+    "message": "ملحق تامبرمونكي"
+  },
+  "page.index.downloadBtn.zip": {
+    "message": "حزمة التثبيت المضغوطة"
+  },
+  "page.index.downloadBtn.iosBrowser.tag": {
+    "message": "ملحق مدمج"
+  },
+  "page.index.downloadBtn.iosBrowser": {
+    "message": "متصفح iOS"
+  },
+  "page.index.downloadBtn.android.apk": {
+    "message": "Android apk"
+  },
+  "page.index.downloadBtn.android": {
+    "message": "متصفح أندرويد"
+  },
+  "page.index.supportservice.title": {
+    "message": "يدعم أكثر من 10 خدمات للترجمة"
+  },
+  "page.index.usageCase.title": {
+    "message": "المشاهد التي سيتم استخدامها"
+  },
+  "page.index.usageCase.twitter": {
+    "message": "أدوات تعزيز تويتر"
+  },
+  "page.index.usageCase.full": {
+    "message": "الولوج إلى المعلومات"
+  },
+  "page.index.usageCase.discord": {
+    "message": "تواصل"
+  },
+  "page.index.usageCase.pdf": {
+    "message": "قراءة ورقة PDF"
+  },
+  "page.index.usageCase.video": {
+    "message": "Video bilingual subtitles"
+  },
+  "page.index.usageCase.video.desc": {
+    "message": "Supports 50+ video sites, automatic bilingual subtitles"
+  },
+  "page.index.usageCase.twitter.desc": {
+    "message": "استخدم \"الترجمة الشاملة\" لتصفح المعلومات بسهولة"
+  },
+  "page.index.usageCase.full.desc": {
+    "message": "الحصول على المعلومات بكفاءة والتخلص من القيود اللغوية"
+  },
+  "page.index.usageCase.discord.desc": {
+    "message": "تواصل سريع وخالي من العوائق"
+  },
+  "page.index.usageCase.pdf.desc": {
+    "message": "الترجمة ثنائية اللغة لملفات Pdf، القراءة المقارنة جنبًا إلى جنب"
+  },
+  "page.index.moreFeature.title": {
+    "message": "المزيد من المزايا"
+  },
+  "page.index.moreFeature.epub": {
+    "message": "إنتاج الكتب الإلكترونية ثنائية اللغة"
+  },
+  "page.index.moreFeature.subtitle": {
+    "message": "ترجمة الترجمة"
+  },
+  "page.index.moreFeature.pdf": {
+    "message": "ترجمة ملف بي دي اف"
+  },
+  "page.index.moreFeature.mousehover": {
+    "message": "ترجمة بتمرير الماوس"
+  },
+  "page.index.Comments.title": {
+    "message": "تعليقات المجتمع"
+  },
+  "page.index.sponsor.title": {
+    "message": "شكر خاص للعلامات التجارية التالية لرعايتها:"
+  },
+  "page.index.sponsor.desc1": {
+    "message": "منصة تعاون متكاملة لتصميم واجهة برمجة التطبيقات وتطويرها واختبارها"
+  },
+  "page.index.sponsor.desc2": {
+    "message": "Apifox = Postman + Swagger + Mock + JMeter، مجاني للاستخدام."
+  },
+  "page.pricing.title": {
+    "message": "سعر",
+    "description": "html的title，浏览器标签上会显示这个"
+  },
+  "page.pricing.description": {
+    "message": "سعر العضو الاحترافي للترجمة الغامرة",
+    "description": "html的mate信息，与seo相关，类似关键词"
+  },
+  "page.pricing.header.onboarding.title": {
+    "message": "تهانينا، لقد قمت بتثبيت الترجمة الشاملة بنجاح!"
+  },
+  "page.pricing.header.onboarding.intro": {
+    "message": "هل تستخدم الترجمة الشاملة لأول مرة؟"
+  },
+  "page.pricing.header.onboarding.usage": {
+    "message": "[ابدأ بسرعة خلال 30 ثانية]"
+  },
+  "page.pricing.header.onboarding.or": {
+    "message": "أو"
+  },
+  "page.pricing.header.onboarding.try": {
+    "message": "حاول ترجمة صفحات الويب الإنجليزية مباشرة"
+  },
+  "page.pricing.header.normal.title": {
+    "message": "قل وداعًا للترجمة الآلية القديمة!"
+  },
+  "page.pricing.header.normal.subtitle1": {
+    "message": "الترقية إلى عضوية Pro الآن."
+  },
+  "page.pricing.header.normal.subtitle2": {
+    "message": "استمتع بتجربة القراءة الدقيقة والسلسة والطبيعية التي تقدمها DeepL وOpenAI."
+  },
+  "page.pricing.whydeepl.title": {
+    "message": "لماذا تختار ترجمة DeepL؟"
+  },
+  "page.pricing.whydeepl.desc": {
+    "message": "تُعرف DeepL بأنها الترجمة الآلية الأكثر دقة في العالم، فهي أكثر دقة بثلاث مرات من أقرب منافسيها<a href=\"{whydeeplUrl}\" target=\"_blank\"><b></b></a>"
+  },
+  "page.pricing.whydeepl.url": {
+    "message": "https://www.deepl.com/zh/whydeepl"
+  },
+  "page.pricing.whydeepl.en2de": {
+    "message": "الإنجليزية ⇄ الألمانية"
+  },
+  "page.pricing.whydeepl.en2de.desc": {
+    "message": "6 مرات أكثر دقة"
+  },
+  "page.pricing.whydeepl.en2zh": {
+    "message": "الإنجليزية ⇄ الصينية"
+  },
+  "page.pricing.whydeepl.en2zh.desc": {
+    "message": "5 مرات أكثر دقة"
+  },
+  "page.pricing.whydeepl.en2ja": {
+    "message": "الإنجليزية ⇄ اليابانية"
+  },
+  "page.pricing.whydeepl.en2ja.desc": {
+    "message": "6 مرات أكثر دقة"
+  },
+  "page.pricing.whydeepl.deeplvsMicrosoft": {
+    "message": "👇👇 DeepL وMicrosoft Translatorتحقق من المقارنة بين "
+  },
+  "page.pricing.whydeepl.deeplcompare.deepl": {
+    "message": "ديب إل"
+  },
+  "page.pricing.whydeepl.deeplcompare.microsoft": {
+    "message": "مترجم مايكروسوفت"
+  },
+  "page.pricing.whydeepl.deeplcompare.original": {
+    "message": "النص الأصلي："
+  },
+  "page.pricing.whyopenai.title": {
+    "message": "لماذا تختار ترجمة OpenAI؟"
+  },
+  "page.pricing.whyopenai.desc": {
+    "message": "ولدت تقنية GPT<a href=\"{understandingGptUrl}\" target=\"_blank\">في الأصل للترجمة</a>وتم منحها القدرة على فهم السياق.<br/>يعد نموذج GPT المعتمد على OpenAI هو نموذج اللغة الكبيرة الأكثر ذكاءً على الإطلاق، خاصة في فهمه للمصطلحات المهنية."
+  },
+  "page.pricing.whyopenai.openaivsGoogle": {
+    "message": "👇👇 Google وOoenAI تحقق من المقارنة بين "
+  },
+  "page.pricing.whyopenai.openaicompare.openai": {
+    "message": "OpenAI"
+  },
+  "page.pricing.whyopenai.openaicompare.google": {
+    "message": "جوجل المترجم"
+  },
+  "page.pricing.vipnow.desc": {
+    "message": "<a href=\"{pricingUrl}\">للحصول على عضوية Pro</a>واستمتع بترجمة DeepL وOpenAI المبتكرة!"
+  },
+  "page.pricing.comment": {
+    "message": "لا تستمع إلى ما نقوله، استمع إلى المستخدمين:"
+  },
+  "page.usegescenarios.meta.title": {
+    "message": "لترجمة ثنائية اللغة لصفحات الويب ث- ترجمة الكتب الإلكترونية - ترجمة ملفات PDF - ملفات الترجمة الملحقة بالمتصفح"
+  },
+  "page.usegescenarios.meta.desc": {
+    "message": "الترجمة الشاملة هي ملحق إضافي للمتصفح يمكنه تحديد منطقة المحتوى الرئيسي لصفحة الويب بذكاء للترجمة ثنائية اللغة، ويدعم هذا الملحق الإضافي جميع متصفحات النظام الأساسي، وترجمة ملفات PDF، وترجمة الكتب الإلكترونية ثنائية اللغة بصيغة EPUB، والإنتاج، والتصدير، وترجمة ملف الترجمة وغيرها من المهام."
+  },
+  "page.usegescenarios.title": {
+    "message": "سيناريو استخدام الترجمة الغامرة<br/>يوم في حياة شياو تشانغ"
+  },
+  "page.usegescenarios.desc": {
+    "message": "آمل أن أتمكن من خلال قصة شياو تشانغ، من عرض المزيد من سيناريوهات الاستخدام حتى تتمكن الترجمة الغامرة من توفير قيمة أكبر في عملك وحياتك."
+  },
+  "page.usegescenarios.content1.title": {
+    "message": "8:00 ابدأ بقراءة الأخبار ثنائية اللغة"
+  },
+  "page.usegescenarios.content1.desc": {
+    "message": "يبدأ شياو تشانغ يومه عادة بقراءة الأخبار من مصادر إعلامية معترف بها عالميًا، بما في ذلك رويترز، ونيويورك تايمز، والإيكونوميست، ومجلة أتلانتيك - وهي الوجهات المتكررة لتحديثاته الإخبارية. منصاته المفضلة لتصفح المحتوى الأجنبي هي Kadaza.com وBuzzing.cc. بفضل ميزة مقارنة الفقرات ثنائية اللغة في الترجمة الشاملة، تحسنت كفاءة القراءة لديه بشكل كبير. وعندما يواجه ترجمة دون المستوى المطلوب، يمكنه الرجوع بسلاسة إلى النص الأصلي لفهم المعلومات بشكل أفضل."
+  },
+  "page.usegescenarios.content2.title": {
+    "message": "9:00 استخدام وظيفة \"ترجمة صندوق الإدخال\"."
+  },
+  "page.usegescenarios.content2.desc": {
+    "message": "لقد جلبت وظيفة الترجمة في مربع الإدخال للترجمة الشاملة راحة كبيرة لشياو تشانغ، فهو يحتاج فقط إلى إدخال سؤال صيني في مربع بحث Google، ثم النقر ثلاث مرات على المساحة، وسيتم ترجمة السؤال في مربع البحث على الفور إلى اللغة الصينية. الإنجليزية، إلى جانب الترجمة ثنائية اللغة لنتائج البحث، زادت كفاءة شياو تشانغ في البحث عن المعلومات إلى مستوى غير مسبوق!"
+  },
+  "page.usegescenarios.content3.title": {
+    "message": "10:00 محادثة مع ChatGPT"
+  },
+  "page.usegescenarios.content3.desc": {
+    "message": "لقد أتى عصر الذكاء الاصطناعي، حيث يتحدث شياو تشانغ مع الآلات أو الأشخاص الحقيقيين كل يوم على منصات مثل ChatGPT وBard وDiscord وTelegram وما إلى ذلك، ويمكن للترجمة الشاملة تحويل مربع الإدخال لأي صفحة ويب إلى مترجم قوي متعدد اللغات. لذلك، ستتم ترجمة أسئلة Xiao Zhang الصينية على الفور إلى اللغة الإنجليزية وإرسالها إلى ChatGPT، كما ستتم ترجمة إجابات ChatGPT أيضًا إلى الصينية في الوقت الفعلي."
+  },
+  "page.usegescenarios.content4.title": {
+    "message": "11:00 الحصول على معلومات مالية عالمية"
+  },
+  "page.usegescenarios.content4.desc": {
+    "message": "في العمل، يفضل شياو تشانغ الحصول على أحدث المعلومات المالية والتكنولوجية العالمية على إصدار سطح المكتب من متصفح Chrome. وهو يولي اهتمامًا وثيقًا بالأخبار الحصرية من وسائل الإعلام المالية مثل بلومبرج، وياهو فاينانس، ووول ستريت جورنال، وفايننشال تايمز. وكان أداء نفيديا وبيتكوين الذي تابعه مؤخرًا جيدًا للغاية. وبمساعدة الترجمة الشاملة والقراءة ثنائية اللغة بنقرة واحدة لمختلف التقارير المالية والإعلانات والتقارير البحثية، يمكنه دائمًا الحصول على معلومات مالية مهمة في وقت أبكر من الآخرين."
+  },
+  "page.usegescenarios.content5.title": {
+    "message": "12:30، متابعة بعض أبرز الأحداث على وسائل التواصل الاجتماعي في الخارج."
+  },
+  "page.usegescenarios.content5.desc": {
+    "message": "عند أخذ استراحة، سيستخدم شياو تشانغ الترجمة الشاملة على الأجهزة المحمولة (مثل متصفح Safari لنظام iOS ومتصفح Firefox لنظام Android)، ويتصفح Twitter وReddit وYouTube وغيرها من وسائل التواصل الاجتماعي العالمية الرئيسية على هاتفه المحمول لمواكبة الأفكار العالمية. ينخرط القادة في التصادمات والتبادلات، ويلتقطون بدقة كل جزء مهم من المعلومات، ويبقون أنفسهم في طليعة المعرفة."
+  },
+  "page.usegescenarios.content6.title": {
+    "message": "15:30 البحث عن المعرفة من خلال ويكيبيديا"
+  },
+  "page.usegescenarios.content6.desc": {
+    "message": "وجد شياو تشانغ أيضًا أن جودة ويكيبيديا الإنجليزية أعلى بكثير من جودة اللغات الأخرى، لذلك غالبًا ما يستخدم شياو تشانغ ويكيبيديا الإنجليزية ثنائية اللغة للحصول على أي معرفة يهتم بها عندما لا يكون لديه ما يفعله."
+  },
+  "page.usegescenarios.content7.title": {
+    "message": "16:00 فتح الترجمة الفورية لملفات PDF"
+  },
+  "page.usegescenarios.content7.desc": {
+    "message": "أحيانًا يقرأ شياو تشانغ بعضًا من أحدث الأبحاث بتنسيق PDF على arXiv، ومن خلال وظيفة الترجمة الفريدة في الوقت الفعلي لملفات PDF التي أنشأتها شركة Immersive Translate، يستطيع شياو تشانغ استيعاب أحدث الاتجاهات الأكاديمية على الفور."
+  },
+  "page.usegescenarios.content8.title": {
+    "message": "20:00 قراءة الكتب الإلكترونية ثنائية اللغة"
+  },
+  "page.usegescenarios.content8.desc": {
+    "message": "يحب شياو تشانغ القراءة أيضًا، وغالبًا ما يبحث عن أحدث الكتب ويقرأ مراجعات الكتب على موقع تصفح الكتب GoodReads في الخارج، ثم ينتظر وضع النسخ الصينية من كتب اللغات الأجنبية هذه على الرفوف. ولكن منذ الشهر الماضي، قام بشراء نسخة اللغة الأجنبية من \"Chip War\" (الاسم الصيني \"Chip War\") مباشرة من كتب Google، ثم قام بتحميلها على Immersive Translate بنقرة واحدة، ثم قام بتصديرها إلى جهاز Kindle الخاص به، ليبدأ عملية نسخة إلكترونية ثنائية اللغة قراءة الكتب."
+  },
+  "page.usegescenarios.content9.title": {
+    "message": "21:00 مشاهدة المسلسلات الأمريكية، يوتيوب، Ted Talk!"
+  },
+  "page.usegescenarios.content9.desc": {
+    "message": "في بعض الأحيان، يشاهد Xiao Zhang أيضًا المسلسلات التلفزيونية الأمريكية. في الماضي، كان عليه دائمًا الانتظار بصبر لترجمة مجموعة الترجمة، ولكن الآن يمكنه استخدام الترجمة الغامرة لإنشاء ترجمات ثنائية اللغة لأي ملف ترجمة بنقرة واحدة، ومشاهدة الدراما في وقت واحد مع الجماهير العالمية. تدعم الترجمة الغامرة أيضًا بشكل مدروس الترجمة في الوقت الفعلي لمقاطع فيديو YouTube عبر الإنترنت، ويمكن لـ Xiao Zhang التفاعل مع المشاهدين الآخرين في منطقة التعليقات على YouTube أثناء مشاهدة مقاطع فيديو Ted على YouTube. "
+  },
+  "page.usegescenarios.content10.title": {
+    "message": "23:00 التسوق السعيد في الخارج قبل الذهاب إلى السرير"
+  },
+  "page.usegescenarios.content10.desc": {
+    "message": "يعد مهرجان التسوق السنوي Black Friday هو حدث التسوق العالمي في الخارج الذي يتطلع إليه Xiao Zhang بشدة. يقوم بالبحث في ميزات كل منتج وأسعاره ومراجعاته من مستخدمين حقيقيين على Amazon وEbay. الترجمة الشاملة تجعل الأمر سهلاً وتساعد Xiao Zhang على اتخاذ قرار التسوق الأكثر فعالية من حيث التكلفة."
+  },
+  "page.features.videoSubtitle.page.title": {
+    "message": "الترجمة ثنائية اللغة للفيديو مثال يوتيوب، نتفلكس وغيرهما"
+  },
+  "page.features.videoSubtitle.page.keywords": {
+    "message": "ترجمة الفيديو إلى اللغة الإنجليزية مثال نتفلكس، يوتيوب وغيرهما"
+  },
+  "page.features.videoSubtitle.page.description": {
+    "message": "ترجمة ثنائية اللغة للفيديو، ترجمة يوتيوب، ترجمات فيديو ثنائية اللغة، ملحق إضافي لترجمة الفيديو"
+  },
+  "page.features.videoSubtitle.content.title": {
+    "message": "ترجمة الترجمة ثنائية اللغة للفيديو - ترجمة غامرة"
+  },
+  "page.features.videoSubtitle.content.description": {
+    "message": "يدعم الترجمة الغامرة للترجمات ثنائية اللغة على العديد من مواقع الفيديو،<br/>Youtube وVimeo وUdemy وKhan Academy وCoursera وBloomberg وما إلى ذلك، وما زال يتم إضافة المزيد على الشبكة بأكملها!"
+  },
+  "page.features.videoSubtitle.content.supportSite": {
+    "message": "المواقع المدعومة"
+  },
+  "page.features.introduction": {
+    "message": "ميزة"
+  },
+  "page.features.videoSubtitle.content.introduction1.title": {
+    "message": "سريعة وسهلة"
+  },
+  "page.features.videoSubtitle.content.introduction1.desc": {
+    "message": "يمكنك الحصول على ترجمة الترجمة للفيديو على الفور تقريبًا، مما يساعدك على فهم محتوى مقاطع الفيديو باللغة الأجنبية بسرعة."
+  },
+  "page.features.videoSubtitle.content.introduction2.title": {
+    "message": "دعم متعدد اللغات"
+  },
+  "page.features.videoSubtitle.content.introduction2.desc": {
+    "message": "ولم يعد يقتصر على مواقع الفيديو التي توفر لغة ترجمة واحدة وتدعم ترجمة أزواج لغوية متعددة."
+  },
+  "page.features.videoSubtitle.content.introduction3.title": {
+    "message": "بسيطة وسهلة الاستخدام"
+  },
+  "page.features.videoSubtitle.content.introduction3.desc": {
+    "message": "البرنامج الإضافي سهل الاستخدام. بعد تحديد \"تشغيل الترجمة ثنائية اللغة تلقائيًا\"، يمكنك مشاهدة مقاطع الفيديو مع ترجمة ثنائية اللغة في أي وقت وفي أي مكان."
+  },
+  "page.features.videoSubtitle.content.introduction4.title": {
+    "message": "متوافق مع الأنظمة الأساسية"
+  },
+  "page.features.videoSubtitle.content.introduction4.desc": {
+    "message": "باستثناء بعض مواقع الفيديو التي لا تدعم ترجمات الهاتف المحمول، يدعم البرنامج الإضافي عدة محطات طرفية (مثل الهواتف المحمولة والأجهزة اللوحية وأجهزة الكمبيوتر وما إلى ذلك)."
+  },
+  "page.features.usage": {
+    "message": "سيناريوهات الاستخدام"
+  },
+  "page.features.videoSubtitle.content.usage1.title": {
+    "message": "التعلم متعدد اللغات"
+  },
+  "page.features.videoSubtitle.content.usage1.desc": {
+    "message": "يمكن لمتعلمي اللغة تحسين مهاراتهم اللغوية من خلال مشاهدة محتوى الفيديو الأصلي، مع ترجمة فورية للمساعدة في الفهم."
+  },
+  "page.features.videoSubtitle.content.usage2.title": {
+    "message": "التعليم عبر الإنترنت"
+  },
+  "page.features.videoSubtitle.content.usage2.desc": {
+    "message": "يمكن للطلاب مشاهدة مقاطع الفيديو التعليمية بلغات أخرى وفهم محتوى الدورة بشكل أفضل مع ترجمة ثنائية اللغة."
+  },
+  "page.features.videoSubtitle.content.usage3.title": {
+    "message": "متابعة الأفلام والبرامج التلفزيونية"
+  },
+  "page.features.videoSubtitle.content.usage3.desc": {
+    "message": "عندما يشاهد المشاهدون أفلامًا ومسلسلات تلفزيونية بلغة أجنبية، سيقوم البرنامج بترجمتها إلى ترجمات ثنائية اللغة في الوقت الفعلي، لذلك لم يعد الجميع مقيدًا بحواجز اللغة."
+  },
+  "page.features.videoSubtitle.content.usage4.title": {
+    "message": "التواصل بين الثقافات"
+  },
+  "page.features.videoSubtitle.content.usage4.desc": {
+    "message": "يمكن للأشخاص استخدام البرنامج لمشاهدة محتوى الفيديو من الثقافات والبلدان الأخرى، وتعزيز التفاهم والتواصل الثقافي."
+  },
+  "page.features.videoSubtitle.content.usage5.title": {
+    "message": "التحضير للسفر"
+  },
+  "page.features.videoSubtitle.content.usage5.desc": {
+    "message": "يمكن للمسافرين التعرف على الثقافة المحلية والعادات اللغوية مسبقًا من خلال مشاهدة محتوى الفيديو الخاص ببلد الوجهة."
+  },
+  "page.features.videoSubtitle.content.usage6.title": {
+    "message": "تقرير أخبار"
+  },
+  "page.features.videoSubtitle.content.usage6.desc": {
+    "message": "يمكن للمستخدمين مشاهدة التقارير الإخبارية الأجنبية وبرامج الشؤون الجارية حتى لو لم يكن لديهم ترجمة باللغة المحلية."
+  },
+  "page.features.videoSubtitle.content.usage7.title": {
+    "message": "دراسات الأعمال"
+  },
+  "page.features.videoSubtitle.content.usage7.desc": {
+    "message": "يمكن للباحثين في الشركات مشاهدة مقاطع الفيديو الإعلانية والترويجية من الأسواق الأجنبية لفهم المنافسين وديناميكيات السوق بشكل أفضل."
+  },
+  "page.features.howtouse": {
+    "message": "كيفية الاستعمال"
+  },
+  "page.features.howtouse.installstep": {
+    "message": "1. قم بتثبيت البرنامج الإضافي:"
+  },
+  "page.features.howtouse.installstep.desc": {
+    "message": "</a>العثور على مزيد من تفاصيل التثبيت<a href=\"{installDocUrl}\">"
+  },
+  "page.features.howtouse.videoSubtitle.step2": {
+    "message": "2. حدد \"تشغيل الترجمة ثنائية اللغة تلقائيًا\":"
+  },
+  "page.features.howtouse.videoSubtitle.step3": {
+    "message": "3. قم بتشغيل الترجمة على موقع الفيديو:"
+  },
+  "page.features.howtouse.videoSubtitle.step4": {
+    "message": "4. استخدم الترجمة الغامرة:"
+  },
+  "page.features.downloadnow": {
+    "message": "تدعم الترجمة الشاملة منصات متعددة، ابدأ في استخدامها الآن"
+  },
+  "page.features.AddToBrowser": {
+    "message": "أضف إلى المتصفح"
+  },
+  "page.features.shareBilingualContent.page.title": {
+    "message": "مشاركة المحتوى ثنائي اللغة - ترجمة غامرة"
+  },
+  "page.features.shareBilingualContent.page.description": {
+    "message": "مشاركة المحتوى ثنائي اللغة"
+  },
+  "page.features.shareBilingualContent.content.title": {
+    "message": "مشاركة المحتوى ثنائي اللغة - ترجمة غامرة"
+  },
+  "page.features.shareBilingualContent.content.description": {
+    "message": "تدعم الترجمة الشاملة مشاركة المحتوى المترجم ثنائي اللغة، ويمكن للمحتوى المشترك الحفاظ على نمط الموقع المصدر، مما يساعد الجميع على اكتشاف المزيد من المحتوى عالي الجودة."
+  },
+  "page.features.shareBilingualContent.content.introduction1.title": {
+    "message": "سهل التعلم"
+  },
+  "page.features.shareBilingualContent.content.introduction1.desc": {
+    "message": "بالنسبة للمستخدمين الذين يتعلمون اللغات، يمكن أن تساعدهم مشاركة الصفحات ثنائية اللغة على التواصل والتعلم مع شركائهم في التعلم، وبالتالي تحسين كفاءة تعلم اللغة."
+  },
+  "page.features.shareBilingualContent.content.introduction2.title": {
+    "message": "تعزيز التواصل"
+  },
+  "page.features.shareBilingualContent.content.introduction2.desc": {
+    "message": "يمكن للمستخدمين مشاركة المحتوى المترجم مع الأصدقاء من خلفيات لغوية مختلفة لتعزيز التواصل والتفاهم بين الثقافات."
+  },
+  "page.features.shareBilingualContent.content.introduction3.title": {
+    "message": "توفير الوقت"
+  },
+  "page.features.shareBilingualContent.content.introduction3.desc": {
+    "message": "ولا يتعين على المستخدمين الآخرين ترجمة نفس محتوى صفحة الويب بأنفسهم مرة أخرى، بل يمكنهم الوصول مباشرة إلى المحتوى ثنائي اللغة من خلال الرابط المشترك، مما يوفر الوقت."
+  },
+  "page.features.shareBilingualContent.content.introduction4.title": {
+    "message": "مريح وسريع"
+  },
+  "page.features.shareBilingualContent.content.introduction4.desc": {
+    "message": "يمكن للمستخدمين مشاركة الصفحات ثنائية اللغة بسرعة عبر وسائل التواصل الاجتماعي أو البريد الإلكتروني أو أدوات المراسلة الفورية، مما يجعل العملية بسيطة ومريحة."
+  },
+  "page.features.shareBilingualContent.content.introduction5.title": {
+    "message": "النسخ الاحتياطي للمحتوى"
+  },
+  "page.features.shareBilingualContent.content.introduction5.desc": {
+    "message": "يمكن للمستخدمين حفظ محتوى ثنائي اللغة مهم على منصات أخرى من خلال وظيفة المشاركة كنسخة احتياطية."
+  },
+  "page.features.shareBilingualContent.content.usage1.title": {
+    "message": "التعلم التربوي"
+  },
+  "page.features.shareBilingualContent.content.usage1.desc": {
+    "message": "يمكن للطلاب مشاركة الصفحات ثنائية اللغة مع زملاء الدراسة أو المعلمين لمقارنة النص الأصلي والترجمة وتعميق فهمهم عند تعلم اللغات الأجنبية."
+  },
+  "page.features.shareBilingualContent.content.usage2.title": {
+    "message": "خطة السفر"
+  },
+  "page.features.shareBilingualContent.content.usage2.desc": {
+    "message": "يمكن للمسافرين مشاركة معلومات أو إستراتيجيات السفر إلى الوجهة مع زملائهم المسافرين بتنسيق ثنائي اللغة لتسهيل تخطيط مسارات الرحلة."
+  },
+  "page.features.shareBilingualContent.content.usage3.title": {
+    "message": "تقرير أخبار"
+  },
+  "page.features.shareBilingualContent.content.usage3.desc": {
+    "message": "يمكن للصحفيين أو القراء مشاركة مقارنات ثنائية اللغة للأخبار الدولية لمساعدة القراء على فهم المحتوى الذي تنقله وسائل الإعلام الأجنبية بشكل أفضل."
+  },
+  "page.features.shareBilingualContent.content.usage4.title": {
+    "message": "وسائل التواصل الاجتماعي"
+  },
+  "page.features.shareBilingualContent.content.usage4.desc": {
+    "message": "يمكن للمستخدمين مشاركة محتوى ويب ثنائي اللغة مثير للاهتمام أو مهم على وسائل التواصل الاجتماعي لجذب مجموعة أكبر من القراء ثنائيي اللغة."
+  },
+  "page.features.shareBilingualContent.content.usage5.title": {
+    "message": "بحث أكاديمي"
+  },
+  "page.features.shareBilingualContent.content.usage5.desc": {
+    "message": "يمكن للباحثين مشاركة ملخصات ثنائية اللغة للأوراق الأكاديمية أو التقارير البحثية لمساعدة الزملاء الدوليين على فهم النقاط الرئيسية للبحث بسرعة."
+  },
+  "page.features.shareBilingualContent.content.usage6.title": {
+    "message": "خدمات الهجرة"
+  },
+  "page.features.shareBilingualContent.content.usage6.desc": {
+    "message": "يمكن لوكالات خدمات الهجرة مشاركة الصفحات ثنائية اللغة للسياسات والقوانين واللوائح الحكومية لمساعدة المهاجرين الجدد على فهم البيئة الجديدة والتكيف معها بشكل أفضل."
+  },
+  "page.features.howtouse.shareBilingualContent.step2": {
+    "message": "2. استخدم الترجمة الغامرة:"
+  },
+  "page.features.howtouse.shareBilingualContent.step3": {
+    "message": "3. انقر للمشاركة"
+  },
+  "page.features.howtouse.shareBilingualContent.step4": {
+    "message": "4. قم بتأكيد المحتوى ومشاركته"
+  },
+  "page.features.pdfTralslate.page.title": {
+    "message": "ترجمة مجانية للكتب الإلكترونية بصيغة PDF وEPUB"
+  },
+  "page.features.pdfTralslate.page.keywords": {
+    "message": "ترجمة pdf، مترجم pdf، ترجمة pdf إلى الإنجليزية، ترجمة مستند pdf، ترجمة pdf، ترجمة pdf، كيفية ترجمة ملف pdf، مترجم مستندات pdf، ترجمة مستند pdf، ترجمة مستند pdf إلى الإنجليزية، ترجمة pdf إلى الإنجليزية، ترجمة pdf ،ترجمة من الألمانية إلى الإنجليزية pdf،مترجم pdf إلى الإنجليزية،ترجمة pdf إلى الإسبانية،ترجمة من pdf،ترجمة مستند pdf إلى الإنجليزية،كيفية ترجمة pdf،ترجمة مستندات pdf،ترجمة pdf إلى الإنجليزية،مترجم pdf مجاني"
+  },
+  "page.features.pdfTralslate.page.description": {
+    "message": "ترجمة PDF، ترجمة PDF المحلية، ترجمة ملفات PDF، ترجمة EPUBE، ترجمة الكتب الإلكترونية"
+  },
+  "page.features.pdfTralslate.content.title": {
+    "message": "ترجمة الكتب الإلكترونية بتنسيق PDF وEPUB - ترجمة غامرة"
+  },
+  "page.features.pdfTralslate.content.description": {
+    "message": "تدعم الترجمة الشاملة ترجمة ملفات PDF ثنائية اللغة، وتسهل المقارنة الثنائية اللغة لملف PDF المترجم الحصول على المعلومات."
+  },
+  "page.features.pdfTralslate.content.introduction1.title": {
+    "message": "تعزيز التفاهم"
+  },
+  "page.features.pdfTralslate.content.introduction1.desc": {
+    "message": "يمكن أن تساعد شاشة المقارنة ثنائية اللغة المستخدمين على فهم المراسلات بين المحتوى الأصلي والنص المترجم بشكل أفضل، خاصة عند تعلم لغة جديدة."
+  },
+  "page.features.pdfTralslate.content.introduction2.title": {
+    "message": "زيادة الكفاءة"
+  },
+  "page.features.pdfTralslate.content.introduction2.desc": {
+    "message": "لا يحتاج المستخدمون إلى التبديل بين المستندات أو التطبيقات المختلفة لمقارنة النص الأصلي والترجمة، مما يوفر الكثير من الوقت والطاقة."
+  },
+  "page.features.pdfTralslate.content.introduction3.title": {
+    "message": "من السهل التدقيق"
+  },
+  "page.features.pdfTralslate.content.introduction3.desc": {
+    "message": "يتم عرض نتائج الترجمة مباشرة بجوار النص الأصلي، مما يسهل على المستخدمين التدقيق والمقارنة، وعندما تنشأ مشاكل في الترجمة، يمكنهم التحقق بسرعة من النص الأصلي."
+  },
+  "page.features.pdfTralslate.content.introduction4.title": {
+    "message": "الاحتفاظ بالتنسيق"
+  },
+  "page.features.pdfTralslate.content.introduction4.desc": {
+    "message": "عند ترجمة محتوى PDF، يظل التنسيق الأصلي دون تغيير بشكل أساسي، علاوة على ذلك، فإنه يوفر أيضًا تخصيص حجم عرض المحتوى، وهو أكثر ملاءمة لاستكمال الحصول على المعلومات."
+  },
+  "page.features.pdfTralslate.content.introduction5.title": {
+    "message": "قابلية تطبيق واسعة"
+  },
+  "page.features.pdfTralslate.content.introduction5.desc": {
+    "message": "ويمكن استخدامه في مواقف مختلفة، مثل البحث الأكاديمي، وتقارير الأعمال، والوثائق القانونية، وما إلى ذلك، ومن بينها القراءة المقارنة ذات أهمية خاصة."
+  },
+  "page.features.pdfTralslate.content.usage1.title": {
+    "message": "بحث أكاديمي"
+  },
+  "page.features.pdfTralslate.content.usage1.desc": {
+    "message": "يمكن للباحثين استخدام البرنامج لترجمة المستندات الأجنبية لفهم الموارد الأكاديمية الدولية والاستشهاد بها بشكل أفضل."
+  },
+  "page.features.pdfTralslate.content.usage2.title": {
+    "message": "أعمال عالمية"
+  },
+  "page.features.pdfTralslate.content.usage2.desc": {
+    "message": "يمكن لمحترفي الأعمال ترجمة العقود والتقارير ومستندات الأعمال الأخرى لضمان فهم مستندات الشركاء بدقة في المعاملات عبر الحدود."
+  },
+  "page.features.pdfTralslate.content.usage3.title": {
+    "message": "الممارسة القانونية"
+  },
+  "page.features.pdfTralslate.content.usage3.desc": {
+    "message": "يمكن للمحامين أو العاملين في المجال القانوني ترجمة المستندات القانونية ومواد القضية للمساعدة في التعامل مع المسائل القانونية الدولية."
+  },
+  "page.features.pdfTralslate.content.usage4.title": {
+    "message": "التعليم التربوي"
+  },
+  "page.features.pdfTralslate.content.usage4.desc": {
+    "message": "يمكن للطلاب والمعلمين ترجمة الكتب المدرسية أو الأوراق الأكاديمية أو المواد التعليمية للمساعدة في تعلم اللغة أو تدريس الدورات الدولية."
+  },
+  "page.features.pdfTralslate.content.usage5.title": {
+    "message": "دليل السفر"
+  },
+  "page.features.pdfTralslate.content.usage5.desc": {
+    "message": "يمكن للمسافرين ترجمة أدلة السفر والخرائط لمساعدتهم على فهم المعلومات المحلية بشكل أفضل عند السفر إلى الخارج."
+  },
+  "page.features.pdfTralslate.content.usage6.title": {
+    "message": "وثائق الهجرة"
+  },
+  "page.features.pdfTralslate.content.usage6.desc": {
+    "message": "يمكن للمهاجرين أو اللاجئين ترجمة المستندات الشخصية المهمة مثل شهادات الميلاد وشهادات الزواج وما إلى ذلك لاستخدامها في عملية التقديم."
+  },
+  "page.features.pdfTralslate.content.usage7.title": {
+    "message": "التبادل الثقافي"
+  },
+  "page.features.pdfTralslate.content.usage7.desc": {
+    "message": "ترجمة الأعمال الأدبية أو النقد الفني أو الوثائق التاريخية لتعزيز التفاهم والتواصل بين الثقافات المختلفة."
+  },
+  "page.features.pdfTralslate.content.usage8.title": {
+    "message": "دليل تقني"
+  },
+  "page.features.pdfTralslate.content.usage8.desc": {
+    "message": "يمكن للمهندسين والفنيين ترجمة أدلة التشغيل والمواصفات الفنية لمساعدتهم على تشغيل وصيانة المعدات المشتراة من الخارج."
+  },
+  "page.features.pdfTralslate.content.usage9.title": {
+    "message": "وسائل الإعلام"
+  },
+  "page.features.pdfTralslate.content.usage9.desc": {
+    "message": "يمكن للمراسلين والمحررين ترجمة التقارير والمقالات الإخبارية الأجنبية لتزويد القراء بمنظور دولي أوسع."
+  },
+  "page.features.pdfTralslate.content.usage10.title": {
+    "message": "المؤتمرات والندوات"
+  },
+  "page.features.pdfTralslate.content.usage10.desc": {
+    "message": "يمكن للمنظمين ترجمة مواد الاجتماع والخطب، مما يسمح للحاضرين بالتغلب على الحواجز اللغوية والمشاركة في المناقشات بشكل أكثر فعالية."
+  },
+  "page.features.howtouse.pdfTralslate.step2": {
+    "message": "2. افتح ترجمة ملف pdf الداخلي:"
+  },
+  "page.features.howtouse.pdfTralslate.step3": {
+    "message": "3. اسحب ملف PDF الداخلي وسيقوم المكون الإضافي تلقائيًا بإجراء ترجمة ثنائية اللغة."
+  },
+  "page.android.title": {
+    "message": "متصفح الترجمة الغامرة - تنزيل Android"
+  },
+  "page.android.desc": {
+    "message": "توصيل وتشغيل الترجمة الغامرة"
+  },
+  "page.android.pageTitle": {
+    "message": "لقد بدأ التحميل بالفعل"
+  },
+  "page.android.download.desc": {
+    "message": "إذا لم يبدأ، أنقر "
+  },
+  "page.android.download.text": {
+    "message": "هنا للتحميل يدويًا"
+  },
+  "page.android.content": {
+    "message": "يأتي متصفح Android Immersive Translate مثبتًا مسبقًا مع ملحق Immersive Translate ويمكن استخدامه مباشرة بعد التثبيت. (ملاحظة، إذا واجهت تحذيرًا بشأن المخاطر الأمنية أثناء التثبيت على بعض الهواتف الذكية المحلية (هذه مطالبة قياسية)، فيرجى تحديد [أنا على علم بالمخاطر الأمنية] [متابعة التثبيت])."
+  },
+  "page.index.InValidChrome": {
+    "message": "إصدار Chrome kernel {version} قديم جدا، يرجى ترقية متصفحك إلى أحدث إصدار"
+  },
+  "page.download.title": {
+    "message": "تمكين القراءة ثنائية اللغة بنقرة واحدة، مما يعزز كفاءة الحصول على المعلومات"
+  },
+  "page.download.subtitle": {
+    "message": "تم ابتكار مصطلح \"<b>الترجمة الغامرة</b>\" من قبلنا. اليوم، أصبح مرادفاً لـ \"<b>الترجمة المقارنة ثنائية اللغة</b>\". منذ إطلاقه في عام 2023، ساهم هذا الملحق المشهود له لترجمة صفحات الويب ثنائية اللغة بالذكاء الاصطناعي في مساعدة أكثر من مليون مستخدم على تجاوز حواجز اللغة والوصول بحرية إلى المعرفة العالمية. نحن نؤمن بأن كسر حواجز اللغة يعزز المساواة في الوصول إلى المعلومات."
+  },
+  "page.download.web.title": {
+    "message": "ترجمة الصفحات الإلكترونية ثنائية اللغة"
+  },
+  "page.download.web.subtitle": {
+    "message": "لقد نجحنا في تعميم تجربة قراءة صفحات الويب ثنائية اللغة بين ملايين المستخدمين. كشركة رائدة في هذا المجال، تضم Immersive Translate أكثر من 10 من أفضل محركات الترجمة في الصناعة، بما في ذلك DeepL و OpenAI و Google Translate ، مما يجعلها الأداة التي تحتوي على محركات الترجمة الأكثر دعما بين جميع المنتجات المماثلة في جميع أنحاء العالم."
+  },
+  "page.download.videoSub.title": {
+    "message": "ترجمة الأفلام بترجمة ثنائية"
+  },
+  "page.download.videoSub.subtitle": {
+    "message": "كانت Immersive Translate أول من دعم الترجمة ثنائية اللغة في الوقت الفعلي لأكثر من 50 موقع فيديو أجنبي رئيسي. مع ترجمات ثنائية اللغة، يمكنك فهم محتوى الفيديو تمامًا وتعلم لغة أجنبية بشكل طبيعي أثناء المشاهدة. يساعدك صوت اللغة الأجنبية الأصلي جنبًا إلى جنب مع الترجمة بلغتك الأم على تحسين مهاراتك في الاستماع والتحدث والقراءة والكتابة بمهارة."
+  },
+  "page.download.pdf.title": {
+    "message": "الترجمة المقارنة لملفات PDF"
+  },
+  "page.download.pdf.subtitle": {
+    "message": "قدمت Immersive Translate بشكل مبتكر ميزة الترجمة المقارنة المجانية لمستندات PDF في محلق للمتصفح. سواء كنت بحاجة إلى قراءة الأوراق الأكاديمية الأجنبية أو التعامل مع مستندات العمل متعددة اللغات، يمكنك الحصول على نتائج ترجمة عالية الجودة بنقرة واحدة من خلال Immersive Translate."
+  },
+  "page.download.pdfpro.title": {
+    "message": "PDF PRO"
+  },
+  "page.download.pdfpro.subtitle": {
+    "message": "تم تصميم <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>ترجمة PDF</a> التي تعمل بالذكاء الاصطناعي من الغوص في الترجمة خصيصًا للتعامل مع أكثر ملفات PDF تعقيدًا ، سواء كانت أوراقًا أكاديمية مليئة بالمصطلحات المتخصصة ، أو وثائق تحتوي على جداول وصور معقدة ، يمكن لتكنولوجيا تحليل PDF التي تعمل بالذكاء الاصطناعي ضمان تحليل هذه المحتويات بكفاءة ودقة."
+  },
+  "page.download.ePub.title": {
+    "message": "ترجمة ثنائية اللغة للكتب الالكترونية بصيغة ePub"
+  },
+  "page.download.ePub.subtitle": {
+    "message": "مع الترجمة الغامرة، لم يكن إنشاء كتب إلكترونية بلغتين بصيغة ePub بهذه السهولة من قبل! ميزة إنشاء الكتب الإلكترونية بنقرة واحدة لدينا تحول فورًا كتبك الإلكترونية بلغات أجنبية إلى نسخ أنيقة ثنائية اللغة، مما يتيح لك الاستمتاع بتجربة قراءة غامرة على مجموعة متنوعة من مشغلات الكتب الإلكترونية."
+  },
+  "page.download.mouse.title": {
+    "message": "ترجمة بتمرير الماوس"
+  },
+  "page.download.mouse.subtitle": {
+    "message": "تقدم الترجمة الغامرة ابتكارًا تفاعليًا آخر ثوريًا - ترجمة عند التحريك بالماوس. ببساطة، قم بتحريك الماوس فوق أي فقرة واضغط على مفتاح الاختصار المحدد مسبقًا (مثل Ctrl)، وستظهر الترجمة الخاصة بالفقرة الحالية على الفور بعد الفقرة."
+  },
+  "page.download.input.title": {
+    "message": "ترجمة مربع الإدخال"
+  },
+  "page.download.input.subtitle": {
+    "message": "أدخل النص مباشرة في أي مربع إدخال (مثل \"مرحبًا بالعالم\")، ثم اضغط على زر المسافة ثلاث مرات بسرعة، وسيتم ترجمة النص إلى اللغة المستهدفة (الإنجليزية الافتراضية، ويمكن تخصيصها). هذا النمط التفاعلي المبتكر مناسب للبحث، والكتابة، والحوار، وأنواع الصفحات الأخرى، مما يتيح لك إتمام الترجمات على الفور دون الحاجة للتبديل."
+  },
+  "page.viewDownload.title": {
+    "message": "الترجمة الغامرة، نقرة واحدة لتمكين القراءة ثنائية اللغة"
+  },
+  "page.viewDownload.button": {
+    "message": "حمّل الآن"
+  },
+  "page.index.downloadBtn.installExtension": {
+    "message": "تثبيت الملحق للمتصفح"
+  },
+  "page.index.downloadBtn.orUseOnMobile": {
+    "message": "أو استخدمه مباشرة على الهاتف المحمول."
+  },
+  "page.index.downloadBtn.useOnMobile": {
+    "message": "استخدام عن طريق الهاتف المحمول"
+  },
+  "page.index.downloadBtn.macSafari": {
+    "message": "Mac سفاري"
+  },
+  "page.index.downloadBtn.iosSafari": {
+    "message": "iOS سفاري"
+  },
+  "page.index.downloadBtn.iosSafariExtension.tag": {
+    "message": "مُفعل يدويًا"
+  },
+  "page.features.videoSubtitle.content.allSupportSite": {
+    "message": "جميع المواقع المدعومة"
+  },
+  "pro.introduction.title": {
+    "message": "استخدم {{ai}} لإعادة تشكيل تجربة ترجمة مستندات {{pdf}} الخاصة بك"
+  },
+  "pro.advantage.formula": {
+    "message": "تعرف الصيغة"
+  },
+  "pro.advantage.formula.description": {
+    "message": "بفضل التكنولوجيا المتقدمة للذكاء الاصطناعي، يمكن التعرف بدقة على أكثر الصيغ الرياضية والعلمية تعقيدًا وتقديم ترجمة دقيقة."
+  },
+  "pro.advantage.table": {
+    "message": "تعرف على الجداول"
+  },
+  "pro.advantage.table.description": {
+    "message": "نحن نفهم بعمق أهمية الجداول في ملفات PDF ، وقد قمنا بتحسينات كبيرة على الجداول باستخدام قدرات الذكاء الاصطناعي التي نستخدمها ، ونحن قادرون على التعرف وترجمة الجداول في المستندات بسلاسة."
+  },
+  "pro.advantage.ocr": {
+    "message": "تعرف الصور OCR"
+  },
+  "pro.advantage.ocr.description": {
+    "message": "باستخدام أحدث تقنيات OCR (التعرف البصري على الأحرف)، يمكن لترجمة PDF الخاصة بنا التعرف على النصوص من الصور وتحويلها إلى نص قابل للتحرير والترجمة."
+  },
+  "pro.advantage.columns": {
+    "message": "تأثير العمودين ، الأعمدة الثلاثة"
+  },
+  "pro.advantage.columns.description": {
+    "message": "تم تصميم أداة ترجمة PDF الخاصة بنا خصيصًا لدعم التخطيطات ثنائية وثلاثية الأعمدة ، وهي قادرة على التعرف والتكيف مع التخطيطات المعقدة في المستند. هذا يعني أنه حتى الأوراق الأكاديمية الأكثر تعقيدًا من حيث التنسيق يمكن تحليلها وترجمتها بدقة بواسطة نظامنا."
+  },
+  "pro.feat.html": {
+    "message": "تصدير كـ HTML"
+  },
+  "pro.feat.html.description": {
+    "message": "مبدأنا هو تحويل PDF إلى HTML بشكل مثالي ثم ترجمته. لذا يمكنك حفظ HTML المترجم ، لتتمكن من قراءته على أي جهاز."
+  },
+  "pro.feat.pdf": {
+    "message": "تصدير كملف PDF"
+  },
+  "pro.feat.pdf.description": {
+    "message": "نحن ندعم تصدير المستندات المترجمة إلى PDF جديد، للحفاظ على مظهر وتجربة القراءة المهنية لمستنداتك على أي منصة."
+  },
+  "pro.feat.share": {
+    "message": "مشاركة عبر الإنترنت"
+  },
+  "pro.feat.share.description": {
+    "message": "من خلال إنشاء رابط قابل للوصول للصورة المترجمة ثنائية اللغة، يمكنك مشاركة الوثائق المترجمة بسهولة مع أي شخص."
+  },
+  "page.feature.pro.compare.title": {
+    "message": "مقارنة ترجمة PDF المدعومة بالذكاء الاصطناعي مع ترجمة PDF العادية:"
+  },
+  "pro.compare.header.proPdf": {
+    "message": "ترجمة PDF المحترفة بدعم من الذكاء الاصطناعي"
+  },
+  "pro.compare.header.pdf": {
+    "message": "ترجمة PDF العادية"
+  },
+  "pro.compare.table.html": {
+    "message": "تصدير HTML"
+  },
+  "pro.compare.table.pdf": {
+    "message": "تصدير PDF"
+  },
+  "pro.compare.table.share": {
+    "message": "المشاركة عبر الإنترنت"
+  },
+  "pro.compare.table.columns.pro": {
+    "message": "ممتاز"
+  },
+  "pro.compare.table.columns.normal": {
+    "message": "عامة"
+  },
+  "pro.pdf.title": {
+    "message": "استخدم ترجمة PDF المدعومة بالذكاء الاصطناعي من الغوص"
+  },
+  "pro.pdf.desc": {
+    "message": "تم تصميمه خصيصًا للتعامل مع أكثر الملفات المعقدة من PDF ، سواء كانت أوراق بحثية أكاديمية مليئة بالمصطلحات المتخصصة ، أو وثائق تحتوي على جداول وصور معقدة ، يمكن لتكنولوجيا تحليل PDF التي تعمل بالذكاء الاصطناعي ضمان تحليل هذه المحتويات بكفاءة ودقة ( * متاح فقط لأعضاء Pro)."
+  },
+  "page.exchange.title": {
+    "message": "تبديل الأعضاء المحترفين"
+  },
+  "page.exchange.pricingTitle": {
+    "message": "وداعا للترجمة الآلية العادية!"
+  },
+  "page.exchange.pricingSubtitle": {
+    "message": "الترقية الآن إلى عضوية Pro ، واستمتع بتجربة القراءة الدقيقة والسلسة والطبيعية التي تقدمها DeepL و OpenAI."
+  },
+  "page.topup.title": {
+    "message": "شراء حزمة البيانات"
+  },
+  "page.topup.pricingTitle": {
+    "message": "وداعا للترجمة الآلية العادية!"
+  },
+  "page.topup.pricingSubtitle": {
+    "message": "حزمة إضافية للبيانات، استمتع بتجربة قراءة دقيقة وسلسة وطبيعية."
+  },
+  "page.zipinstall.title": {
+    "message": "دليل التثبيت المحلي للمكون الإضافي للترجمة الغامرة في Chrome"
+  },
+  "page.zipinstall.clickdownload": {
+    "message": "انقر هنا لتحميل حزمة التثبيت crx"
+  },
+  "page.zipinstall.copyandpaste": {
+    "message": "انسخ العنوان التالي والصقه في شريط عنوان المتصفح ، ثم اضغط على Enter لفتحه ، وابدأ وضع المطور في الزاوية العلوية اليمنى."
+  },
+  "page.zipinstall.copy": {
+    "message": "نسخ"
+  },
+  "page.zipinstall.copySuccess": {
+    "message": "تم النسخ بنجاح"
+  },
+  "page.zipinstall.step1Title": {
+    "message": "تنزيل حزمة التثبيت crx للترجمة الغامرة وفك الضغط عليها (ملف crx موجود في المجلد المستخرج)."
+  },
+  "page.zipinstall.step2Title": {
+    "message": "افتح صفحة \"إدارة البرامج المساعدة\" في Chrome وقم بتشغيل \"وضع المطور\"."
+  },
+  "page.zipinstall.step3Title": {
+    "message": "تثبيت الإضافة الترجمة الغامرة"
+  },
+  "page.zipinstall.step4Title": {
+    "message": "قم بتثبيت الإضافة الترجمة الغامرة في شريط أدوات المتصفح لسهولة الوصول إليها في أي وقت (عند تحديث الإضافة في المرة القادمة ، قم بإعادة هذه العملية للتحديث)"
+  },
+  "page.manualinstall.title": {
+    "message": "دليل التثبيت المحلي لإضافة الترجمة الغامرة في Chrome"
+  },
+  "page.manualinstall.description": {
+    "message": "إذا كنت غير قادر على تثبيت إضافة الترجمة الغامرة من متجر Chrome ، يمكنك محاولة التثبيت يدويًا وفقًا لهذا الدليل."
+  },
+  "page.pricing.header.onboarding.doc": {
+    "message": "ترجمة المستندات"
+  },
+  "page.pricing.header.onboarding.video": {
+    "message": "فيديو يوتيوب مع ترجمة ثنائية اللغة"
+  },
+  "page.pricing.header.normal.subtitle3": {
+    "message": "متابعة الاستخدام تعني موافقتك على <a href='/docs/TERMS/' target='_blank'>شروط الخدمة</a> و <a href='/docs/PRIVACY/' target='_blank'>سياسة الخصوصية</a>"
+  }
+}

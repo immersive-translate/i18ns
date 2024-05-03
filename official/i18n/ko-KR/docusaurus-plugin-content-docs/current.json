@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "다음",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.pdfHelper": {
+    "message": "PDF 도움말",
+    "description": "The label for category PDF 帮助 in sidebar docs"
+  },
+  "sidebar.docs.category.translateServiceAPIApply": {
+    "message": "번역 서비스 API 요청",
+    "description": "The label for category 翻译服务 API 申请 in sidebar docs"
+  },
+  "sidebar.docs.doc.changelog": {
+    "message": "업데이트 로그",
+    "description": "The label for the doc item 更新日志 in sidebar docs, linking to the doc CHANGELOG"
+  }
+}

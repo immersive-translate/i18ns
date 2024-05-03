@@ -1,0 +1,107 @@
+{
+  "link.title.start": {
+    "message": "iniciar",
+    "description": "The title of the footer links column with title=start in the footer"
+  },
+  "link.title.resource": {
+    "message": "recurso",
+    "description": "The title of the footer links column with title=资源 in the footer"
+  },
+  "link.title.follows": {
+    "message": "assinar",
+    "description": "The title of the footer links column with title=订阅 in the footer"
+  },
+  "link.title.end": {
+    "message": "finalizar",
+    "description": "The title of the footer links column with title=end in the footer"
+  },
+  "link.title.end.item.": {
+    "message": "finalizar",
+    "description": "The title of the footer links column with title=end in the footer"
+  },
+  "link.item.label.releases": {
+    "message": "Lançamentos",
+    "description": "The label of footer link with label=Releases linking to https://github.com/immersive-translate/immersive-translate/releases"
+  },
+  "link.item.label.feedback": {
+    "message": "Feedback",
+    "description": "The label of footer link with label=问题反馈 linking to https://github.com/immersive-translate/immersive-translate/issues/"
+  },
+  "link.item.label.usage": {
+    "message": "Como usar",
+    "description": "The label of footer link with label=如何使用 linking to /docs/usage/"
+  },
+  "link.item.label.faq": {
+    "message": "Perguntas frequentes",
+    "description": "The label of footer link with label=常见问题 linking to /docs/faq/"
+  },
+  "link.item.label.services": {
+    "message": "Solicitação de serviço de tradução",
+    "description": "The label of footer link with label=翻译服务申请 linking to /docs/services/"
+  },
+  "link.item.label.terms": {
+    "message": "Contrato do usuário",
+    "description": "The label of footer link with label=用户协议 linking to /docs/TERMS/"
+  },
+  "link.item.label.pricacy": {
+    "message": "política de privacidade",
+    "description": "The label of footer link with label=隐私协议 linking to /docs/PRIVACY/"
+  },
+  "link.item.label.Email": {
+    "message": "E-mail",
+    "description": "The label of footer link with label=Email linking to https://immersivetranslate.substack.com/"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/immersivetran"
+  },
+  "link.item.to.Twitter": {
+    "message": "https://twitter.com/immersivetrans"
+  },
+  "link.item.to.YouTube": {
+    "message": "https://www.youtube.com/@ImmersiveTrans/featured"
+  },
+  "link.item.label.Facebook": {
+    "message": "Facebook",
+    "description": "The label of footer link with label=Facebook linking to https://www.facebook.com/ImmersiveTranslate"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "The label of footer link with label=Telegram linking to https://t.me/immersivetranslate"
+  },
+  "link.item.label.Bilibili": {
+    "message": "Bilibili",
+    "description": "The label of footer link with label=Bilibili linking to https://space.bilibili.com/3493291014228023"
+  },
+  "link.item.label.TelegramGroup": {
+    "message": "Grupo de usuários do Telegram",
+    "description": "The label of footer link with label=Telegram 用户群 linking to https://t.me/+rq848Z09nehlOTgx"
+  },
+  "link.item.html.main": {
+    "message": "<div class=\"footer-info\"><div class=\"footer-title\"><img src=\"/img/logo.png\"/>Tradução Imersiva</div><div class=\"footer-desc\">Permitir a leitura bilíngue com um clique para melhorar o acesso à informação</div><div id=\"currency-box\"></div><div class=\"footer-copyright\"><a href=\"https://beian.miit.gov.cn/\" target=\"_blank\"> </a>© 2024 Immersive Translate</div></div>"
+  },
+  "link.item.html.end": {
+    "message": "<div style=\"display:flex;justify-content: space-evenly;\"><div class=\"qrcode\"><img width=\"112\"  src=\"/assets/iosQRCode.svg\"/><span>App Store</span></div><div class=\"qrcode\"><img width=\"112\" src=\"/assets/androidQRCode.svg\"/><span>Android</span></div></div>"
+  },
+  "link.item.visible.Email": {
+    "message": "true"
+  },
+  "link.item.visible.Facebook": {
+    "message": "true"
+  },
+  "link.item.visible.Telegram": {
+    "message": "true"
+  },
+  "link.item.visible.YouTube": {
+    "message": "true"
+  },
+  "link.item.visible.Twitter": {
+    "message": "true"
+  },
+  "link.item.visible.Bilibili": {
+    "message": "true"
+  },
+  "link.item.visible.TelegramGroup": {
+    "message": "false"
+  }
+}

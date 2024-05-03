@@ -1,0 +1,10 @@
+{
+  "item.content.keywords": {
+    "message": "网页翻译,PDF翻译,翻译插件,Netflix双语字幕,Youtube双语字幕,文档翻译,翻译扩展,chrome 网页翻译,网站翻译,翻译网页,网页翻译扩展程序,视频翻译插件,双语翻译",
+    "description": "The content of metadata with content"
+  },
+  "item.content.description": {
+    "message": "沉浸式翻译是一款免费的网页翻译插件，为您提供在线双语对照网页翻译，多种格式的文档翻译、论文文献翻译、PDF翻译、EPUB电子书翻译、视频双语字幕翻译(支持Youtube,Netflix等主流视频站点)、TXT文本翻译等文件翻译服务。Chrome、Edge、火狐(Firefox)、Safari等主流浏览器适配，手机端和电脑端均可安装使用。支持中文、英语、日语、韩语、法语、德语、俄语、西班牙语、葡萄牙语、越南语、印尼语、意大利语、荷兰语、泰语等数十种语言的互译。支持多种翻译接口选择：DeepL 翻译、 Google 翻译、Open AI (ChatGPT) 人工智能翻译、有道翻译、彩云小译、百度翻译、火山翻译、小牛翻译等。做最懂您的网页翻译扩展工具，为您提供最丝滑的网站翻译体验。",
+    "description": "The content of metadata with content"
+  }
+}

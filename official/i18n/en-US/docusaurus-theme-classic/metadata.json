@@ -1,0 +1,10 @@
+{
+  "item.content.keywords": {
+    "message": "Website Translation, Document Translation, PDF Translation, Thesis Translation, eBook Translation, Bilingual Translation",
+    "description": "The content of metadata with content"
+  },
+  "item.content.description": {
+    "message": "Immersive Translate provides free bilingual web page translation, as well as translation services for documents in various formats, literature, PDFs, EPUB e-books, subtitle translation, and TXT texts. It supports mutual translation for dozens of languages, including Chinese, English, Japanese, Korean, French, German, Russian, Spanish, Portuguese, Vietnamese, Indonesian, Italian, Dutch, Thai, and more. Multiple translation interfaces are supported, including DeepL Translation, Google Translation, Open AI Translation, Youdao Translation, Caiyu Xiaoyi, Baidu Translation, Volcano Translation, Little Cow Translation, and others. We aim to be your most understanding translation tool, providing you with the smoothest translation experience.",
+    "description": "The content of metadata with content"
+  }
+}

@@ -1,0 +1,1222 @@
+{
+  "theme.ErrorPageContent.title": {
+    "message": "頁面已崩潰。",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.NotFound.title": {
+    "message": "找不到頁面",
+    "description": "The title of the 404 page"
+  },
+  "theme.NotFound.p1": {
+    "message": "我們找不到您要找的頁面。",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "請聯絡原始連結來源網站的所有者，並告知他們連結已損壞。",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.admonition.note": {
+    "message": "備註",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "提示",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.danger": {
+    "message": "危險",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "資訊",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.caution": {
+    "message": "警告",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "博文列表分頁導航",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "較新的博文",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "較舊的博文",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.archive.title": {
+    "message": "歷史博文",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "歷史博文",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "回到頂部",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "博文分頁導航",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "較新一篇",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "較舊一篇",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.blog.post.plurals": {
+    "message": "{count} 篇博文",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} 含有標籤“{tagName}”",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "查看所有標籤",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "切換淺色/暗黑模式（目前為{mode}）",
+    "description": "The ARIA label for the navbar color mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "暗黑模式",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "淺色模式",
+    "description": "The name for the light color mode"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "頁面路徑",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.DocCard.categoryDescription": {
+    "message": "{count} 個項目",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "文件選項卡",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "上一頁",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "下一頁",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "{count} 篇文檔帶有標籤",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged}“{tagName}”",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "版本：{versionLabel}"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "此為 {siteTitle} {versionLabel} 版尚未發行的文件。",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "此為 {siteTitle} {versionLabel} 版的文檔，現已不再積極維護。",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "最新的文件請參閱 {latestVersionLink} ({versionLabel})。",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "最新版本",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.common.editThisPage": {
+    "message": "編輯此頁",
+    "description": "The link label to edit the current page"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": "於 {date} ",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": "由 {user} ",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "最後{byUser}{atDate}更新",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "{heading}的直接鏈接",
+    "description": "Title for link to heading"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "選擇版本",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "關閉",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "最近博文導航",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "標籤：",
+    "description": "The label alongside a tag list"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "複製成功",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "複製程式碼到剪貼簿",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "複製",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "切換自動換行",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
+    "message": "開啟/收起側邊欄選單“{label}”",
+    "description": "The ARIA label to toggle the collapsible sidebar category"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "主導航",
+    "description": "The ARIA label for the main navigation"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "選擇語言",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "閱讀需 {readingTime} 分鐘",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "本頁總覽",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "主頁面",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.blog.post.readMore": {
+    "message": "閱讀更多",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "閱讀 {title} 的全文",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "收起側邊欄",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "收起側邊欄",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← 回到主選單",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "切換導覽列",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "關閉導覽列",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "文件側邊欄",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "展開側邊欄",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "展開側邊欄",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.SearchBar.label": {
+    "message": "搜尋",
+    "description": "The ARIA label and placeholder for search button"
+  },
+  "theme.SearchModal.searchBox.resetButtonTitle": {
+    "message": "清除查詢",
+    "description": "The label and ARIA label for search box reset button"
+  },
+  "theme.SearchModal.searchBox.cancelButtonText": {
+    "message": "取消",
+    "description": "The label and ARIA label for search box cancel button"
+  },
+  "theme.SearchModal.startScreen.recentSearchesTitle": {
+    "message": "最近搜尋",
+    "description": "The title for recent searches"
+  },
+  "theme.SearchModal.startScreen.noRecentSearchesText": {
+    "message": "沒有最近搜索",
+    "description": "The text when no recent searches"
+  },
+  "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
+    "message": "保存這個搜索",
+    "description": "The label for save recent search button"
+  },
+  "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
+    "message": "從歷史記錄中刪除這個搜尋",
+    "description": "The label for remove recent search button"
+  },
+  "theme.SearchModal.startScreen.favoriteSearchesTitle": {
+    "message": "收藏",
+    "description": "The title for favorite searches"
+  },
+  "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
+    "message": "從收藏清單中刪除這個搜尋",
+    "description": "The label for remove favorite search button"
+  },
+  "theme.SearchModal.errorScreen.titleText": {
+    "message": "無法取得結果",
+    "description": "The title for error screen of search modal"
+  },
+  "theme.SearchModal.errorScreen.helpText": {
+    "message": "你可能需要檢查網路連線。",
+    "description": "The help text for error screen of search modal"
+  },
+  "theme.SearchModal.footer.selectText": {
+    "message": "選取",
+    "description": "The explanatory text of the action for the enter key"
+  },
+  "theme.SearchModal.footer.selectKeyAriaLabel": {
+    "message": "Enter 鍵",
+    "description": "The ARIA label for the Enter key button that makes the selection"
+  },
+  "theme.SearchModal.footer.navigateText": {
+    "message": "導航",
+    "description": "The explanatory text of the action for the Arrow up and Arrow down key"
+  },
+  "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
+    "message": "向上鍵",
+    "description": "The ARIA label for the Arrow up key button that makes the navigation"
+  },
+  "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
+    "message": "向下鍵",
+    "description": "The ARIA label for the Arrow down key button that makes the navigation"
+  },
+  "theme.SearchModal.footer.closeText": {
+    "message": "關閉",
+    "description": "The explanatory text of the action for Escape key"
+  },
+  "theme.SearchModal.footer.closeKeyAriaLabel": {
+    "message": "Esc 鍵",
+    "description": "The ARIA label for the Escape key button that close the modal"
+  },
+  "theme.SearchModal.footer.searchByText": {
+    "message": "搜尋提供",
+    "description": "The text explain that the search is making by Algolia"
+  },
+  "theme.SearchModal.noResultsScreen.noResultsText": {
+    "message": "沒有結果：",
+    "description": "The text explains that there are no results for the following search"
+  },
+  "theme.SearchModal.noResultsScreen.suggestedQueryText": {
+    "message": "試試搜尋",
+    "description": "The text for the suggested query when no results are found for the following search"
+  },
+  "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
+    "message": "認為這個查詢應該要有結果？",
+    "description": "The text for the question where the user thinks there are missing results"
+  },
+  "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
+    "message": "請告知我們。",
+    "description": "The text for the link to report missing results"
+  },
+  "theme.SearchModal.placeholder": {
+    "message": "搜尋文檔",
+    "description": "The placeholder of the input of the DocSearch pop-up modal"
+  },
+  "theme.SearchBar.seeAll": {
+    "message": "看全部 {count} 個結果"
+  },
+  "theme.SearchPage.documentsFound.plurals": {
+    "message": "找到 {count} 份文件",
+    "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.SearchPage.existingResultsTitle": {
+    "message": "「{query}」的搜尋結果",
+    "description": "The search page title for non-empty query"
+  },
+  "theme.SearchPage.emptyResultsTitle": {
+    "message": "在文件中搜尋",
+    "description": "The search page title for empty query"
+  },
+  "theme.SearchPage.inputPlaceholder": {
+    "message": "在此輸入搜尋字詞",
+    "description": "The placeholder for search page input"
+  },
+  "theme.SearchPage.inputLabel": {
+    "message": "搜尋",
+    "description": "The ARIA label for search page input"
+  },
+  "theme.SearchPage.algoliaLabel": {
+    "message": "透過Algolia 搜尋",
+    "description": "The ARIA label for Algolia mention"
+  },
+  "theme.SearchPage.noResultsText": {
+    "message": "未找到任何結果",
+    "description": "The paragraph for empty search result"
+  },
+  "theme.SearchPage.fetchingNewResults": {
+    "message": "正在獲取新的搜尋結果...",
+    "description": "The paragraph for fetching new search results"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "重試",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "跳到主要內容",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "標籤",
+    "description": "The title of the tag list page"
+  },
+  "page.doc.title": {
+    "message": "雙語對照網頁翻譯外掛程式_PDF文件翻譯工具"
+  },
+  "page.doc.keywords": {
+    "message": "translate website,translate pdf,translate web page,pdf translator,translate website to english,translate extension,translate pdf to english,translate pdf document,website translator,pdf translate,translate webpage,translate a pdf,website translate,translate a website,translate a webpage,subtitles translation"
+  },
+  "page.doc.description": {
+    "message": "沉浸式翻譯為您提供免費的雙語對照網頁翻譯，以及多種格式的文件翻譯、文獻翻譯、PDF翻譯、EPUB電子書翻譯、字幕翻譯、TXT文字翻譯服務。支援中文、英語、日語、韓語、法語、德語、俄語、西班牙語、葡萄牙語、越南語、印尼語、義大利語、荷蘭語、泰語等數十種語言的互譯。支援多種翻譯介面選擇：DeepL 翻譯、 Google 翻譯、Open AI 翻譯、有道翻譯、彩玉小譯、百度翻譯、火山翻譯、小牛翻譯等。做最懂您的翻譯工具，提供您最絲滑的翻譯體驗。"
+  },
+  "page.index.headTitle": {
+    "message": "沉浸式翻譯- 雙語對照網頁翻譯外掛_PDF文件翻譯工具"
+  },
+  "page.index.title": {
+    "message": "沉浸式翻譯：最受歡迎的雙語對照網頁翻譯插件"
+  },
+  "page.index.description": {
+    "message": "你可以<b>完全免費</b>地使用它來即時翻譯外語網頁，<a href=\"{pdfUrl}\">PDF文檔</a>，<a target=\"_blank\" href=\"{epubUrl}\">ePub 電子書</a>，字幕檔等。<br />在手機上也可以隨時隨地用哦，<b>真正幫助你打破信息壁壘，選擇下方的平台，立刻開始體驗</b>:)"
+  },
+  "page.index.downloadBtn.edge": {
+    "message": "Edge 擴充"
+  },
+  "page.index.downloadBtn.chrome": {
+    "message": "Chrome 擴充"
+  },
+  "page.index.downloadBtn.firefox": {
+    "message": "Firefox 擴充"
+  },
+  "page.index.downloadBtn.safari": {
+    "message": "Safari 擴充"
+  },
+  "page.index.downloadBtn.userscript": {
+    "message": "油猴腳本"
+  },
+  "page.index.downloadBtn.zip": {
+    "message": "crx 安裝包"
+  },
+  "page.index.downloadBtn.iosBrowser.tag": {
+    "message": "內建擴充，開箱即用"
+  },
+  "page.index.downloadBtn.iosBrowser": {
+    "message": "iOS瀏覽器下载"
+  },
+  "page.index.downloadBtn.android.apk": {
+    "message": "安卓apk下載"
+  },
+  "page.index.downloadBtn.android": {
+    "message": "安卓瀏覽器下載"
+  },
+  "page.index.supportservice.title": {
+    "message": "已支援10+翻譯服務"
+  },
+  "page.index.usageCase.title": {
+    "message": "使用場景"
+  },
+  "page.index.usageCase.twitter": {
+    "message": "刷推神器"
+  },
+  "page.index.usageCase.full": {
+    "message": "資訊獲取"
+  },
+  "page.index.usageCase.discord": {
+    "message": "溝通交流"
+  },
+  "page.index.usageCase.pdf": {
+    "message": "PDF論文閱讀"
+  },
+  "page.index.usageCase.video": {
+    "message": "視訊雙語字幕"
+  },
+  "page.index.usageCase.video.desc": {
+    "message": "支援50+視訊站，自動雙語字幕"
+  },
+  "page.index.usageCase.twitter.desc": {
+    "message": "使用“沉浸式翻譯”，輕鬆瀏覽訊息"
+  },
+  "page.index.usageCase.full.desc": {
+    "message": "高效獲取訊息，擺脫語言束縛"
+  },
+  "page.index.usageCase.discord.desc": {
+    "message": "無障礙快速溝通"
+  },
+  "page.index.usageCase.pdf.desc": {
+    "message": "PDF雙語翻譯，對照閱讀"
+  },
+  "page.index.moreFeature.title": {
+    "message": "更多功能"
+  },
+  "page.index.moreFeature.epub": {
+    "message": "雙語電子書製作"
+  },
+  "page.index.moreFeature.subtitle": {
+    "message": "字幕翻譯"
+  },
+  "page.index.moreFeature.pdf": {
+    "message": "PDF文件翻譯"
+  },
+  "page.index.moreFeature.mousehover": {
+    "message": "滑鼠懸停翻譯"
+  },
+  "page.index.Comments.title": {
+    "message": "社群評論"
+  },
+  "page.index.sponsor.title": {
+    "message": "特別鳴謝以下品牌的贊助"
+  },
+  "page.index.sponsor.desc1": {
+    "message": "API 設計、開發、測試一體化協作平台"
+  },
+  "page.index.sponsor.desc2": {
+    "message": "Apifox = Postman + Swagger + Mock + JMeter ，免費使用。"
+  },
+  "page.pricing.title": {
+    "message": "價格",
+    "description": "html的title，浏览器标签上会显示这个"
+  },
+  "page.pricing.description": {
+    "message": "沉浸式翻譯Pro 會員價格",
+    "description": "html的mate信息，与seo相关，类似关键词"
+  },
+  "page.pricing.header.onboarding.title": {
+    "message": "恭喜，成功安裝沉浸式翻譯！"
+  },
+  "page.pricing.header.onboarding.intro": {
+    "message": "第一次使用沉浸式翻譯？"
+  },
+  "page.pricing.header.onboarding.usage": {
+    "message": "【30秒快速上手】"
+  },
+  "page.pricing.header.onboarding.or": {
+    "message": "或者"
+  },
+  "page.pricing.header.onboarding.try": {
+    "message": "直接試試翻譯英文網頁"
+  },
+  "page.pricing.header.normal.title": {
+    "message": "向普通的機器翻譯說再見！"
+  },
+  "page.pricing.header.normal.subtitle1": {
+    "message": "現在就升級為Pro會員，"
+  },
+  "page.pricing.header.normal.subtitle2": {
+    "message": "享受DeepL 與OpenAI 提供的精準、流暢、自然的閱讀體驗。"
+  },
+  "page.pricing.whydeepl.title": {
+    "message": "為什麼要選擇DeepL 翻譯？"
+  },
+  "page.pricing.whydeepl.desc": {
+    "message": "DeepL 被譽為全世界最精準的機器翻譯，比最接近他們的競爭對手<a href=\"{whydeeplUrl}\" target=\"_blank\"><b>準確三倍以上</b></a>"
+  },
+  "page.pricing.whydeepl.url": {
+    "message": "https://www.deepl.com/zh/whydeepl"
+  },
+  "page.pricing.whydeepl.en2de": {
+    "message": "英語⇄ 德語"
+  },
+  "page.pricing.whydeepl.en2de.desc": {
+    "message": "6倍更準確"
+  },
+  "page.pricing.whydeepl.en2zh": {
+    "message": "英文⇄ 中文"
+  },
+  "page.pricing.whydeepl.en2zh.desc": {
+    "message": "5倍更準確"
+  },
+  "page.pricing.whydeepl.en2ja": {
+    "message": "英語⇄ 日語"
+  },
+  "page.pricing.whydeepl.en2ja.desc": {
+    "message": "6倍更準確"
+  },
+  "page.pricing.whydeepl.deeplvsMicrosoft": {
+    "message": "看看DeepL 和微軟翻譯的比較👇👇"
+  },
+  "page.pricing.whydeepl.deeplcompare.deepl": {
+    "message": "DeepL"
+  },
+  "page.pricing.whydeepl.deeplcompare.microsoft": {
+    "message": "微軟翻譯"
+  },
+  "page.pricing.whydeepl.deeplcompare.original": {
+    "message": "原文："
+  },
+  "page.pricing.whyopenai.title": {
+    "message": "為什麼要選擇OpenAI 翻譯？"
+  },
+  "page.pricing.whyopenai.desc": {
+    "message": "GPT 技術<a href=\"{understandingGptUrl}\" target=\"_blank\">最初就是為翻譯</a>而誕生的，它被賦予了理解上下文的能力。<br/>OpenAI驅動的GPT是有史以來最聰明的大語言模型，尤其體現在其對專業術語的理解。"
+  },
+  "page.pricing.whyopenai.openaivsGoogle": {
+    "message": "看看OpenAI 和Google翻譯的對比👇👇"
+  },
+  "page.pricing.whyopenai.openaicompare.openai": {
+    "message": "OpenAI"
+  },
+  "page.pricing.whyopenai.openaicompare.google": {
+    "message": "Google 翻譯"
+  },
+  "page.pricing.vipnow.desc": {
+    "message": "現在就<a href=\"{pricingUrl}\">開通Pro會員</a>，享受開箱即用的DeepL 和OpenAI 翻譯！"
+  },
+  "page.pricing.comment": {
+    "message": "不要聽我們怎麼說，聽聽用戶的聲音："
+  },
+  "page.usegescenarios.meta.title": {
+    "message": "雙語網頁翻譯- 電子書翻譯- PDF翻譯- 字幕檔翻譯瀏覽器擴展"
+  },
+  "page.usegescenarios.meta.desc": {
+    "message": "沉浸式翻譯是瀏覽器插件，可智慧辨識網頁主內容區進行雙語翻譯，插件支援全平台瀏覽器，PDF檔案翻譯，EPUB電子書雙語翻譯、製作、匯出，字幕檔案翻譯等功能。"
+  },
+  "page.usegescenarios.title": {
+    "message": "沉浸式翻譯使用場景<br/>小張的一天"
+  },
+  "page.usegescenarios.desc": {
+    "message": "希望透過小張的故事，可以向你展示更多使用場景，以便沉浸式翻譯在你的工作生活中提供更多的價值。"
+  },
+  "page.usegescenarios.content1.title": {
+    "message": "8:00 開啟雙語新聞閱讀"
+  },
+  "page.usegescenarios.content1.desc": {
+    "message": "首先，他養成了從國際知名媒體取得第一手資訊的習慣，例如路透社，紐約時報，經濟學人，大西洋週刊都是他經常造訪的新聞網站。 kadaza.com 和buzzing.cc 是他最喜歡使用的外文資訊導航。沉浸式翻譯的段落雙語對照功能大大提升了他的閱讀效率，當翻譯不佳時，他可以直接參考原文理解訊息。"
+  },
+  "page.usegescenarios.content2.title": {
+    "message": "9:00 使用\"輸入框翻譯\"功能"
+  },
+  "page.usegescenarios.content2.desc": {
+    "message": "沉浸式翻譯的輸入框翻譯功能為小張帶來了極大的便利，他只需要在谷歌搜尋框內輸入中文問題，然後三連擊空格，搜尋框裡的問題就會被立即翻譯為英文，再配合搜尋結果的雙語翻譯，小張搜尋資訊的效率提升到了前所未有的高度！"
+  },
+  "page.usegescenarios.content3.title": {
+    "message": "10:00 與ChatGPT對話"
+  },
+  "page.usegescenarios.content3.desc": {
+    "message": "AI 時代來了，小張每日都會在ChatGPT, Bard, Discord, Telegram 等平台和機器或真人對話，沉浸式翻譯能將任何網頁的輸入框變成一個強大的多語言翻譯器，因此小張的中文提問會立即翻譯為英文發送給ChatGPT，而ChatGPT 的回答也會被即時翻譯成中文。"
+  },
+  "page.usegescenarios.content4.title": {
+    "message": "11:00 取得全球金融訊息"
+  },
+  "page.usegescenarios.content4.desc": {
+    "message": "在工作中，小張更偏好在桌面版的Chrome 瀏覽器上獲取全球最新的財經科技資訊。他密切關注彭博社，雅虎財經，華爾街日報，金融時報等財經類媒體的獨家消息，他近期關注的英偉達和比特幣表現都相當不錯。透過沉浸式翻譯，一鍵雙語閱讀各種財報、公告和研報，他總能比其他人更早一步獲得重要的財務資訊。"
+  },
+  "page.usegescenarios.content5.title": {
+    "message": "12:30 刷點海外社交熱點"
+  },
+  "page.usegescenarios.content5.desc": {
+    "message": "在休息時，小張會在行動裝置（如iOS 的Safari 瀏覽器，安卓的Firefox 瀏覽器）上使用沉浸式翻譯，他在手機上瀏覽Twitter, Reddit, YouTube 等國際主流社交媒體，與全球的思想領袖展開碰撞交流，精確捕捉每一個重要訊息，讓自己始終站在知識的前端。"
+  },
+  "page.usegescenarios.content6.title": {
+    "message": "15:30 用維基百科搜尋知識"
+  },
+  "page.usegescenarios.content6.desc": {
+    "message": "小張還發現，英文的維基百科品質比其他語言的高很多，所以小張現在經常有事沒事在英文維基百科裡用雙語獲取自己感興趣的任何知識。"
+  },
+  "page.usegescenarios.content7.title": {
+    "message": "16:00 解鎖PDF即時翻譯"
+  },
+  "page.usegescenarios.content7.desc": {
+    "message": "有的時候小張會在arXiv 上閱讀一些最新的PDF 論文，有了沉浸式翻譯獨創的PDF 文件即時翻譯功能，小張立刻就能掌握最新的學術動態。"
+  },
+  "page.usegescenarios.content8.title": {
+    "message": "20:00 閱讀雙語電子書"
+  },
+  "page.usegescenarios.content8.desc": {
+    "message": "小張也熱愛閱讀，他常在國外的GoodReads 圖書導航站挖掘最新圖書、查看書評，然後苦等這些外文圖書的中文版上架。但上個月開始，他已經直接從googlebooks 上購買了《Chip War》外文版（中文名《晶片戰爭》），然後一鍵上傳到沉浸式翻譯，隨後導出到他的Kindle 上，開始了雙語電子書的閱讀。"
+  },
+  "page.usegescenarios.content9.title": {
+    "message": "21:00 看美劇，YouTube, Ted Talk !"
+  },
+  "page.usegescenarios.content9.desc": {
+    "message": "有時候，小張也追美劇。以前他總是要耐心等待字幕組的翻譯，然而現在他可以藉助沉浸式翻譯，一鍵產生任何字幕檔的雙語字幕，和全球觀眾同步追劇。沉浸式翻譯也貼心地支持了YouTube 線上影片的字幕即時翻譯，小張可以一邊看YouTube 上的Ted 影片，一邊在YouTube 的留言區和其他觀眾互動。有時候，小張也追美劇。以前他總是要耐心等待字幕組的翻譯，然而現在他可以藉助沉浸式翻譯，一鍵產生任何字幕檔的雙語字幕，和全球觀眾同步追劇。沉浸式翻譯也貼心地支持了YouTube 線上影片的字幕即時翻譯，小張可以一邊看YouTube 上的Ted 影片，一邊在YouTube 的評論區和其他觀眾互動。"
+  },
+  "page.usegescenarios.content10.title": {
+    "message": "23:00 睡前海淘快樂"
+  },
+  "page.usegescenarios.content10.desc": {
+    "message": "每年的黑五購物節是小張最期待的全球購物盛事。他會在Amazon 和Ebay 上詳細研究每款產品的特性、價格以及真實用戶的評價。沉浸式翻譯讓這一切變得輕鬆，幫助小張做出了最具CP值的購物決策。"
+  },
+  "page.features.videoSubtitle.page.title": {
+    "message": "影片雙語翻譯"
+  },
+  "page.features.videoSubtitle.page.keywords": {
+    "message": "沉浸式翻譯插件提供免費的在線影片雙語字幕翻譯服務，支持主流影片網站（ Youtube , NetFlix , Twitter Spaces , HBO Max , Vimeo , Khan Academy , Coursera , Udemy , Bloomberg , Nebula , Bilibili , TED , FrontendMasters , CodeWithChris , edX , Skillshare , BBC , Disney+ , ARD Mediathek , ITV , Domestika , ArtStation , ZDF , MasterClass , Mindvalley , iview , nmaArt , CreativeCloudAdobe , Developer Apple , egghead.io等）"
+  },
+  "page.features.videoSubtitle.page.description": {
+    "message": "視訊雙語翻譯,youtub翻譯,視訊雙語字幕,視訊翻譯插件"
+  },
+  "page.features.videoSubtitle.content.title": {
+    "message": "視訊雙語字幕翻譯-沉浸式翻譯"
+  },
+  "page.features.videoSubtitle.content.description": {
+    "message": "免費的線上影片雙語字幕翻譯服務，支援50+主流影片網站（ Youtube , NetFlix , Twitter Spaces , HBO Max , Vimeo , Khan Academy , Coursera , Udemy , Bloomberg , Nebula , Bilibili , TED等數十家主流影片站點， 還在持續增加中）。 支援100+語言的字幕對照翻譯並根據影片進程實時展示，比如你可以中英文字幕對照的觀看Youtube和NetFlix的影片，即時字幕自動生成實時翻譯，雙語對照字幕帶你跨越語言障礙，與全球各種 語言的思想碰撞。"
+  },
+  "page.features.videoSubtitle.content.supportSite": {
+    "message": "已支援站點"
+  },
+  "page.features.introduction": {
+    "message": "優點"
+  },
+  "page.features.videoSubtitle.content.introduction1.title": {
+    "message": "快速便捷"
+  },
+  "page.features.videoSubtitle.content.introduction1.desc": {
+    "message": "幾乎可以即時取得視訊字幕的翻譯，幫助你快速理解外語影片的內容。"
+  },
+  "page.features.videoSubtitle.content.introduction2.title": {
+    "message": "多語言支援"
+  },
+  "page.features.videoSubtitle.content.introduction2.desc": {
+    "message": "不再局限於視訊站提供單一字幕語言，支援多種語言對的翻譯。"
+  },
+  "page.features.videoSubtitle.content.introduction3.title": {
+    "message": "簡單易用"
+  },
+  "page.features.videoSubtitle.content.introduction3.desc": {
+    "message": "插件易於使用，勾選「自動開啟雙語字幕」後，隨時隨地觀看帶有雙語字幕的影片。"
+  },
+  "page.features.videoSubtitle.content.introduction4.title": {
+    "message": "跨平台相容"
+  },
+  "page.features.videoSubtitle.content.introduction4.desc": {
+    "message": "除部分視訊站不支援行動字幕外，插件支援多端使用（如手機、平板電腦、電腦等）。"
+  },
+  "page.features.usage": {
+    "message": "使用場景"
+  },
+  "page.features.videoSubtitle.content.usage1.title": {
+    "message": "多語言學習"
+  },
+  "page.features.videoSubtitle.content.usage1.desc": {
+    "message": "語言學習者可以透過觀看原始影片內容來提高語言技能，並透過即時翻譯來輔助理解。"
+  },
+  "page.features.videoSubtitle.content.usage2.title": {
+    "message": "線上教育"
+  },
+  "page.features.videoSubtitle.content.usage2.desc": {
+    "message": "學生可以觀看其他語言的教育影片，並透過雙語字幕更好地理解課程內容。"
+  },
+  "page.features.videoSubtitle.content.usage3.title": {
+    "message": "電影及電視劇追劇"
+  },
+  "page.features.videoSubtitle.content.usage3.desc": {
+    "message": "觀眾觀看外語電影和電視劇，軟體會即時翻譯成雙語字幕，大家可以再也不受語言障礙的限制。"
+  },
+  "page.features.videoSubtitle.content.usage4.title": {
+    "message": "跨文化交流"
+  },
+  "page.features.videoSubtitle.content.usage4.desc": {
+    "message": "人們可以使用該軟體觀看其他文化和國家的影片內容，促進文化理解和交流。"
+  },
+  "page.features.videoSubtitle.content.usage5.title": {
+    "message": "旅遊準備"
+  },
+  "page.features.videoSubtitle.content.usage5.desc": {
+    "message": "旅客可以透過觀看目的地國家的影片內容，提前了解當地的文化和語言習慣。"
+  },
+  "page.features.videoSubtitle.content.usage6.title": {
+    "message": "新聞報道"
+  },
+  "page.features.videoSubtitle.content.usage6.desc": {
+    "message": "用戶可以觀看外國新聞報導和時事節目，即使它們沒有提供本地語言字幕。"
+  },
+  "page.features.videoSubtitle.content.usage7.title": {
+    "message": "商業研究"
+  },
+  "page.features.videoSubtitle.content.usage7.desc": {
+    "message": "企業研究人員可以觀看國外市場的廣告和宣傳影片，以更好地理解競爭對手和市場動態。"
+  },
+  "page.features.howtouse": {
+    "message": "如何使用"
+  },
+  "page.features.howtouse.installstep": {
+    "message": "1.安裝插件:"
+  },
+  "page.features.howtouse.installstep.desc": {
+    "message": "更多安裝詳情可以<a href=\"{installDocUrl}\">查看這裡</a>"
+  },
+  "page.features.howtouse.videoSubtitle.step2": {
+    "message": "2.勾選\"自動開啟雙語字幕\":"
+  },
+  "page.features.howtouse.videoSubtitle.step3": {
+    "message": "3.在影片站打開字幕:"
+  },
+  "page.features.howtouse.videoSubtitle.step4": {
+    "message": "4.使用沉浸式翻譯:"
+  },
+  "page.features.downloadnow": {
+    "message": "沉浸式翻譯支援多平台，現在開始使用"
+  },
+  "page.features.AddToBrowser": {
+    "message": "新增到瀏覽器"
+  },
+  "page.features.shareBilingualContent.page.title": {
+    "message": "雙語內容分享"
+  },
+  "page.features.shareBilingualContent.page.description": {
+    "message": "雙語內容分享"
+  },
+  "page.features.shareBilingualContent.content.title": {
+    "message": "雙語內容分享-沉浸式翻譯"
+  },
+  "page.features.shareBilingualContent.content.description": {
+    "message": "沉浸式翻譯支援分享翻譯完成的雙語內容，分享內容可以保持來源站風格，幫助大家發現更多優質內容。"
+  },
+  "page.features.shareBilingualContent.content.introduction1.title": {
+    "message": "方便學習"
+  },
+  "page.features.shareBilingualContent.content.introduction1.desc": {
+    "message": "對於學習語言的使用者來說，分享雙語頁面可以幫助他們與學習夥伴交流和學習，從而提高語言學習效率。"
+  },
+  "page.features.shareBilingualContent.content.introduction2.title": {
+    "message": "促進交流"
+  },
+  "page.features.shareBilingualContent.content.introduction2.desc": {
+    "message": "使用者可以將翻譯好的內容分享給不同語言背景的朋友，促進跨文化溝通和理解。"
+  },
+  "page.features.shareBilingualContent.content.introduction3.title": {
+    "message": "節省時間"
+  },
+  "page.features.shareBilingualContent.content.introduction3.desc": {
+    "message": "其他使用者不必自己再次翻譯相同的網頁內容，可以直接透過分享連結存取雙語對照內容，節省時間。"
+  },
+  "page.features.shareBilingualContent.content.introduction4.title": {
+    "message": "方便快速"
+  },
+  "page.features.shareBilingualContent.content.introduction4.desc": {
+    "message": "使用者可以透過社群媒體、電子郵件或即時通訊工具快速分享雙語頁面，操作簡單方便。"
+  },
+  "page.features.shareBilingualContent.content.introduction5.title": {
+    "message": "內容備份"
+  },
+  "page.features.shareBilingualContent.content.introduction5.desc": {
+    "message": "使用者可以透過分享功能將重要的雙語內容保存在其他平台上，作為備份使用。"
+  },
+  "page.features.shareBilingualContent.content.usage1.title": {
+    "message": "教育學習"
+  },
+  "page.features.shareBilingualContent.content.usage1.desc": {
+    "message": "學生可以分享雙語頁面給同學或老師，以便在學習外語時對比原文和翻譯，加深理解。"
+  },
+  "page.features.shareBilingualContent.content.usage2.title": {
+    "message": "旅遊規劃"
+  },
+  "page.features.shareBilingualContent.content.usage2.desc": {
+    "message": "旅客可以將目的地的旅遊資訊或策略以雙語形式分享給同行者，方便規劃行程。"
+  },
+  "page.features.shareBilingualContent.content.usage3.title": {
+    "message": "新聞報道"
+  },
+  "page.features.shareBilingualContent.content.usage3.desc": {
+    "message": "新聞從業人員或讀者可以分享國際新聞的雙語對照，幫助讀者更能理解外國媒體的報導內容。"
+  },
+  "page.features.shareBilingualContent.content.usage4.title": {
+    "message": "社群媒體"
+  },
+  "page.features.shareBilingualContent.content.usage4.desc": {
+    "message": "使用者可以在社群媒體上分享有趣或重要的雙語網頁內容，吸引更廣泛的雙語讀者群。"
+  },
+  "page.features.shareBilingualContent.content.usage5.title": {
+    "message": "學術研究"
+  },
+  "page.features.shareBilingualContent.content.usage5.desc": {
+    "message": "研究人員可以分享學術論文或研究報告的雙語摘要，幫助國際同行快速掌握研究重點。"
+  },
+  "page.features.shareBilingualContent.content.usage6.title": {
+    "message": "移民服務"
+  },
+  "page.features.shareBilingualContent.content.usage6.desc": {
+    "message": "移民服務機構可以分享政府政策、法律法規的雙語頁面，幫助新移民更好地理解和適應新環境。"
+  },
+  "page.features.howtouse.shareBilingualContent.step2": {
+    "message": "2.使用沉浸式翻譯:"
+  },
+  "page.features.howtouse.shareBilingualContent.step3": {
+    "message": "3.點擊分享"
+  },
+  "page.features.howtouse.shareBilingualContent.step4": {
+    "message": "4.確認內容，進行分享"
+  },
+  "page.features.pdfTralslate.page.title": {
+    "message": "PDF翻译"
+  },
+  "page.features.pdfTralslate.page.keywords": {
+    "message": "PDF翻譯,PDF 翻譯,翻譯PDF,Translate PDF,PDF Translate to Chinese,文件翻譯,PDF翻譯神器,PDF翻譯外掛程式,翻譯PDF,PDF文件翻譯,文件翻譯,電子書翻譯,文件翻譯,PDF 翻譯外掛,EPUB 翻譯,論文翻譯中譯英,ChatGPT 翻譯PDF,網頁PDF翻譯,ChatGPT PDF 翻譯,PDF翻譯器,翻譯PDF文件,PDF 文件翻譯,翻譯文件,PDF論文翻譯"
+  },
+  "page.features.pdfTralslate.page.description": {
+    "message": "PDF翻译,本地PDF翻译,PDF文件翻译"
+  },
+  "page.features.pdfTralslate.content.title": {
+    "message": "PDF翻译-沉浸式翻译"
+  },
+  "page.features.pdfTralslate.content.description": {
+    "message": "沉浸式翻譯支援雙語翻譯PDF，翻譯完成的PDF雙語對照，取得資訊更方便。"
+  },
+  "page.features.pdfTralslate.content.introduction1.title": {
+    "message": "增強理解"
+  },
+  "page.features.pdfTralslate.content.introduction1.desc": {
+    "message": "雙語對照顯示可以幫助使用者更好地理解原文內容和翻譯文本之間的對應關係，尤其是在學習新語言時。"
+  },
+  "page.features.pdfTralslate.content.introduction2.title": {
+    "message": "提高效率"
+  },
+  "page.features.pdfTralslate.content.introduction2.desc": {
+    "message": "使用者無需在不同的文件或應用程式之間切換來對照原文和翻譯，節省了大量時間和精力。"
+  },
+  "page.features.pdfTralslate.content.introduction3.title": {
+    "message": "方便校對"
+  },
+  "page.features.pdfTralslate.content.introduction3.desc": {
+    "message": "在原文旁邊直接顯示翻譯結果，方便使用者校對比較，當出現翻譯問題時可以快速查閱原文。"
+  },
+  "page.features.pdfTralslate.content.introduction4.title": {
+    "message": "保持格式"
+  },
+  "page.features.pdfTralslate.content.introduction4.desc": {
+    "message": "翻譯PDF內容時基本上保持原始格式不變，在此之上也提供了內容顯示尺寸的自訂，更利於完整的資訊取得。"
+  },
+  "page.features.pdfTralslate.content.introduction5.title": {
+    "message": "適用性廣"
+  },
+  "page.features.pdfTralslate.content.introduction5.desc": {
+    "message": "可以用於各種場合，如學術研究、商務報告、法律文件等，其中對照閱讀尤其重要。"
+  },
+  "page.features.pdfTralslate.content.usage1.title": {
+    "message": "學術研究"
+  },
+  "page.features.pdfTralslate.content.usage1.desc": {
+    "message": "研究人員可以使用該軟體翻譯外文文獻，以便更好地理解和引用國際學術資源。"
+  },
+  "page.features.pdfTralslate.content.usage2.title": {
+    "message": "國際商務"
+  },
+  "page.features.pdfTralslate.content.usage2.desc": {
+    "message": "商務人士可以翻譯合約、報告和其他商業文件，以確保在跨國交易中準確理解合作夥伴的文件內容。"
+  },
+  "page.features.pdfTralslate.content.usage3.title": {
+    "message": "法律實務"
+  },
+  "page.features.pdfTralslate.content.usage3.desc": {
+    "message": "律師或法律工作者可以翻譯法律文件和案件資料，幫助處理國際法律事務。"
+  },
+  "page.features.pdfTralslate.content.usage4.title": {
+    "message": "教育學習"
+  },
+  "page.features.pdfTralslate.content.usage4.desc": {
+    "message": "學生和教師可以翻譯教科書、學術論文或教學資料，以輔助語言學習或國際課程的教學。"
+  },
+  "page.features.pdfTralslate.content.usage5.title": {
+    "message": "旅遊指南"
+  },
+  "page.features.pdfTralslate.content.usage5.desc": {
+    "message": "旅行者可以翻譯旅遊指南和地圖，幫助他們在國外旅行時更好地理解當地資訊。"
+  },
+  "page.features.pdfTralslate.content.usage6.title": {
+    "message": "移民文件"
+  },
+  "page.features.pdfTralslate.content.usage6.desc": {
+    "message": "移民或難民可以翻譯重要的個人文件，如出生證明、結婚證書等，以便在申請過程中使用。"
+  },
+  "page.features.pdfTralslate.content.usage7.title": {
+    "message": "文化交流"
+  },
+  "page.features.pdfTralslate.content.usage7.desc": {
+    "message": "翻譯文學作品、藝術評論或歷史文獻，促進不同文化之間的理解與交流。"
+  },
+  "page.features.pdfTralslate.content.usage8.title": {
+    "message": "技術手冊"
+  },
+  "page.features.pdfTralslate.content.usage8.desc": {
+    "message": "工程師和技術人員可以翻譯操作手冊和技術規範，幫助他們操作和維護國外購買的設備。"
+  },
+  "page.features.pdfTralslate.content.usage9.title": {
+    "message": "新聞媒體"
+  },
+  "page.features.pdfTralslate.content.usage9.desc": {
+    "message": "記者和編輯可以翻譯外國新聞報導和文章，為讀者提供更廣泛的國際視野。"
+  },
+  "page.features.pdfTralslate.content.usage10.title": {
+    "message": "會議和研討會"
+  },
+  "page.features.pdfTralslate.content.usage10.desc": {
+    "message": "主辦單位可以翻譯會議資料和演講稿，使與會者能夠跨越語言障礙，更有效地參與討論。"
+  },
+  "page.features.howtouse.pdfTralslate.step2": {
+    "message": "2.打開本地pdf翻譯:"
+  },
+  "page.features.howtouse.pdfTralslate.step3": {
+    "message": "3.拖入本地PDF文件，插件會自動進行雙語對照翻譯"
+  },
+  "page.android.title": {
+    "message": "沉浸式翻譯瀏覽器 - 安卓下載"
+  },
+  "page.android.desc": {
+    "message": "開箱即用的沉浸式翻譯"
+  },
+  "page.android.pageTitle": {
+    "message": "下載已經開始.."
+  },
+  "page.android.download.desc": {
+    "message": "如果沒有開始的話，你可以點擊"
+  },
+  "page.android.download.text": {
+    "message": "這裡手動下載"
+  },
+  "page.android.content": {
+    "message": "沉浸式翻譯安卓瀏覽器已經預裝了沉浸式翻譯擴展，安裝之後即可直接使用。（注意，如遇到部分國產手機在安裝時提示的安全風險（這是統一的提示），請選擇【我已知曉安全風險】【繼續安裝】）"
+  },
+  "page.index.InValidChrome": {
+    "message": "chrome 內核版本 {version} 過低，請升級瀏覽器到最新版本"
+  },
+  "page.download.title": {
+    "message": "一鍵開啟{hlStart}雙語{hlEnd}閱讀，提升信息獲取效率"
+  },
+  "page.download.subtitle": {
+    "message": "<b>“沉浸式翻譯”</b>這個詞，由我們發明創造。如今，它已然成為<b>“雙語對照翻譯”</b>的代名詞。自2023年上線以來，這款備受讚譽的 AI 雙語對照網頁翻譯擴展，已幫助超過 100 萬用戶跨越語言障礙，自由汲取全球智慧。我們堅信，打破語言壁壘，就是在促進信息平權。"
+  },
+  "page.download.web.title": {
+    "message": "網頁雙語對照翻譯"
+  },
+  "page.download.web.subtitle": {
+    "message": "我們成功地在數百萬用戶中普及了雙語網頁閱讀體驗，作為行業的佼佼者，沉浸式翻譯內置了包括 DeepL、OpenAI、谷歌翻譯在內的 10 餘種業界頂尖的翻譯引擎，是國內外所有同類產品中支持翻譯引擎最多的工具。"
+  },
+  "page.download.videoSub.title": {
+    "message": "影片雙語字幕"
+  },
+  "page.download.videoSub.subtitle": {
+    "message": "沉浸式翻譯率先支持 50 多個國外的主流影片網站的雙語實時字幕。有了雙語字幕，您不僅能夠完全理解影片內容，還能在觀影過程中自然地學習外語。原汁原味的外語語音配合母語字幕，讓您在潛移默化中提高聽說讀寫能力。"
+  },
+  "page.download.pdf.title": {
+    "message": "PDF對照翻譯"
+  },
+  "page.download.pdf.subtitle": {
+    "message": "沉浸式翻譯開創性地在瀏覽器插件中引入了免費的PDF文檔對照翻譯功能。無論您需要閱讀外文學術論文，還是處理多語言商業文件，都可以通過沉浸式翻譯一鍵獲取優質的翻譯結果。"
+  },
+  "page.download.pdfpro.title": {
+    "message": "PDF PRO"
+  },
+  "page.download.pdfpro.subtitle": {
+    "message": "沉浸式翻譯 AI 驅動的 <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF 翻譯</a>專為應對最複雜的 PDF 文件而設計，無論是充滿專業術語的學術論文，還是包含複雜表格和圖像的各類文檔，AI 驅動的 PDF 解析技術都能確保對這些內容進行高效準確的解析。"
+  },
+  "page.download.ePub.title": {
+    "message": "ePub電子書雙語翻譯"
+  },
+  "page.download.ePub.subtitle": {
+    "message": "有了沉浸式翻譯，製作 ePub格式 的雙語電子書從未如此簡單！ 我們的一鍵電子書製作功能可以將您的外文電子書瞬間轉化為優雅的雙語版本，讓您在各種電子書閱讀器上盡享沉浸式閱讀體驗。"
+  },
+  "page.download.mouse.title": {
+    "message": "鼠標懸停翻譯"
+  },
+  "page.download.mouse.subtitle": {
+    "message": "沉浸式翻譯帶來了又一次革命性的交互創新——鼠標懸停翻譯。只需將鼠標懸停在任意段落，同時按下預設的快捷鍵（如Ctrl），當前段落的譯文便會立即呈現在段落之後。"
+  },
+  "page.download.input.title": {
+    "message": "輸入框翻譯"
+  },
+  "page.download.input.subtitle": {
+    "message": "在任何輸入框中直接輸入文本（如“你好世界”），快速連按3次空格鍵，即可將文本翻譯為目標語言（默認英語，可自定義）。這一創新的交互方式適用於搜索、寫作、對話等各類頁面，無需切換，即刻完成翻譯。"
+  },
+  "page.viewDownload.title": {
+    "message": "沉浸式翻譯，一鍵開啟{hlStart}雙語{hlEnd}閱讀"
+  },
+  "page.viewDownload.button": {
+    "message": "立即下載"
+  },
+  "page.index.downloadBtn.installExtension": {
+    "message": "安裝瀏覽器插件"
+  },
+  "page.index.downloadBtn.orUseOnMobile": {
+    "message": "或者直接在手機上使用"
+  },
+  "page.index.downloadBtn.useOnMobile": {
+    "message": "在手機上使用"
+  },
+  "page.index.downloadBtn.macSafari": {
+    "message": "Mac Safari 擴展"
+  },
+  "page.index.downloadBtn.iosSafari": {
+    "message": "iOS Safari 擴展"
+  },
+  "page.index.downloadBtn.iosSafariExtension.tag": {
+    "message": "需手動啟用"
+  },
+  "page.features.videoSubtitle.content.allSupportSite": {
+    "message": "查看所有支援的平台"
+  },
+  "pro.introduction.title": {
+    "message": "用 {{ai}} 重塑你的 {{pdf}} 文件翻譯體驗"
+  },
+  "pro.advantage.formula": {
+    "message": "公式識別"
+  },
+  "pro.advantage.formula.description": {
+    "message": "借助先進AI技術，即使是最複雜的數學和科學公式也能被精確識別提供準確的翻譯。"
+  },
+  "pro.advantage.table": {
+    "message": "表格識別"
+  },
+  "pro.advantage.table.description": {
+    "message": "我們深深地理解PDF中表格的重要性，我們使用的 AI 能力針對表格做了大量的優化，能夠無縫地識別並翻譯文件中的表格。"
+  },
+  "pro.advantage.ocr": {
+    "message": "OCR圖片識別"
+  },
+  "pro.advantage.ocr.description": {
+    "message": "利用最新的OCR（光學字符識別）技術，我們的 PDF 翻譯能夠從圖片中識別文字，並將其轉換成可編輯、可翻譯的文字。"
+  },
+  "pro.advantage.columns": {
+    "message": "雙欄，三欄效果"
+  },
+  "pro.advantage.columns.description": {
+    "message": "我們的 PDF 翻譯工具專門設計了對雙欄和三欄布局的支持，能夠識別並適應文檔中的複雜布局。這意味著即使是格式最為複雜的學術論文，也能被我們的系統準確解析並翻譯。"
+  },
+  "pro.feat.html": {
+    "message": "匯出為 HTML"
+  },
+  "pro.feat.html.description": {
+    "message": "我們的原理就是把 PDF 完美地轉為HTML 之後再翻譯。所以您可以將翻譯後的HTML 儲存下來，以方便在任何設備閱讀。"
+  },
+  "pro.feat.pdf": {
+    "message": "匯出為 PDF"
+  },
+  "pro.feat.pdf.description": {
+    "message": "我們支持將翻譯後的文件導出為新的 PDF，讓您的文件在任何平台上都保持專業的外觀和閱讀體驗。"
+  },
+  "pro.feat.share": {
+    "message": "在線分享"
+  },
+  "pro.feat.share.description": {
+    "message": "透過生成一個雙語快照的可訪問連結，您可以輕鬆地將翻譯後的文件分享給任何人。"
+  },
+  "page.feature.pro.compare.title": {
+    "message": "AI 驅動的 PDF Pro 翻譯對比普通 PDF 翻譯："
+  },
+  "pro.compare.header.proPdf": {
+    "message": "AI 驅動的 Pro PDF 翻譯"
+  },
+  "pro.compare.header.pdf": {
+    "message": "一般 PDF 翻譯"
+  },
+  "pro.compare.table.html": {
+    "message": "匯出 HTML"
+  },
+  "pro.compare.table.pdf": {
+    "message": "匯出 PDF"
+  },
+  "pro.compare.table.share": {
+    "message": "在線分享"
+  },
+  "pro.compare.table.columns.pro": {
+    "message": "極佳"
+  },
+  "pro.compare.table.columns.normal": {
+    "message": "一般"
+  },
+  "pro.pdf.title": {
+    "message": "使用沉浸式翻譯 AI 驅動的 PDF 翻譯"
+  },
+  "pro.pdf.desc": {
+    "message": "專為應對最複雜的PDF文件而設計，無論是充滿專業術語的學術論文，還是包含複雜表格和圖像的各類文檔，AI 驅動的 PDF 解析技術都能確保對這些內容進行高效準確的解析（*僅 Pro 會員可用）。"
+  },
+  "page.exchange.title": {
+    "message": "Pro 會員兌換"
+  },
+  "page.exchange.pricingTitle": {
+    "message": "向普通的機器翻譯說再見！"
+  },
+  "page.exchange.pricingSubtitle": {
+    "message": "現在就升級為 Pro 會員，享受 DeepL 與 OpenAI 提供的精準、流暢、自然的閱讀體驗。"
+  },
+  "page.topup.title": {
+    "message": "購買流量包"
+  },
+  "page.topup.pricingTitle": {
+    "message": "向普通的機器翻譯說再見！"
+  },
+  "page.topup.pricingSubtitle": {
+    "message": "流量加餐包，持續享受精準、流暢、自然的閱讀體驗。"
+  },
+  "page.zipinstall.title": {
+    "message": "沉浸式翻譯Chrome插件本地安裝指南"
+  },
+  "page.zipinstall.clickdownload": {
+    "message": "點擊這裡下載 crx 安裝包"
+  },
+  "page.zipinstall.copyandpaste": {
+    "message": "複製以下地址粘貼到瀏覽器地址欄，按回車打開，開啟右上角開發者模式"
+  },
+  "page.zipinstall.copy": {
+    "message": "複製"
+  },
+  "page.zipinstall.copySuccess": {
+    "message": "複製成功"
+  },
+  "page.zipinstall.step1Title": {
+    "message": "下載沉浸式翻譯 crx 安裝包，並解壓縮（crx 檔案在解壓縮的文件夾裡）。"
+  },
+  "page.zipinstall.step2Title": {
+    "message": "打開chrome的【 管理擴展程式 】頁面，並打開【 開發者模式 】"
+  },
+  "page.zipinstall.step3Title": {
+    "message": "安裝沉浸式翻譯插件"
+  },
+  "page.zipinstall.step4Title": {
+    "message": "將沉浸式翻譯插件固定在瀏覽器工具欄，方便隨時調用（下次要更新插件的時候，重新走一遍這個流程就可以更新）"
+  },
+  "page.manualinstall.title": {
+    "message": "沉浸式翻譯 Chrome 插件本地安裝指南"
+  },
+  "page.manualinstall.description": {
+    "message": "如果您無法透過 Chrome 商店安裝沉浸式翻譯插件，您可以嘗試按照此教程手動安裝。"
+  },
+  "page.pricing.header.onboarding.doc": {
+    "message": "文件翻譯"
+  },
+  "page.pricing.header.onboarding.video": {
+    "message": "Youtube 影片雙語字幕"
+  },
+  "page.pricing.header.normal.subtitle3": {
+    "message": "繼續使用則表示您同意 <a href='/docs/TERMS/' target='_blank'>服務條款</a> 和 <a href='/docs/PRIVACY/' target='_blank'>隱私協議</a>"
+  }
+}

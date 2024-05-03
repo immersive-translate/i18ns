@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.pdfHelper": {
+    "message": "PDF Help",
+    "description": "The label for category PDF 帮助 in sidebar docs"
+  },
+  "sidebar.docs.category.translateServiceAPIApply": {
+    "message": "Translation Services API Request",
+    "description": "The label for category 翻译服务 API 申请 in sidebar docs"
+  },
+  "sidebar.docs.doc.changelog": {
+    "message": "Update Log",
+    "description": "The label for the doc item 更新日志 in sidebar docs, linking to the doc CHANGELOG"
+  },
+  "sidebar.docs.doc.recommend": {
+    "message": "Editor's Picks",
+    "description": "The label for the doc item 编辑推荐 in sidebar docs"
+  }
+}

@@ -1,0 +1,1222 @@
+{
+  "theme.ErrorPageContent.title": {
+    "message": "Ops! Algo deu errado com a página. Estamos trabalhando para corrigir o problema. Por favor, volte mais tarde.",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.NotFound.title": {
+    "message": "Página não encontrada",
+    "description": "The title of the 404 page"
+  },
+  "theme.NotFound.p1": {
+    "message": "Desculpe, mas a página que você está procurando parece estar indisponível. Use o menu de navegação ou a barra de pesquisa para explorar outras partes do nosso site. Se achar que houve algum problema, entre em contato com nossa equipe de suporte para receber ajuda. Obrigado por sua compreensão.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "Entre em contato com o proprietário do site de onde o link foi originado e comunique que o link está inválido.",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.admonition.note": {
+    "message": "nota",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "Prompt",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.danger": {
+    "message": "Perigo",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "Informação",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.caution": {
+    "message": "aviso",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "Navegação com paginação da lista de postagens do blog",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "Publicações recentes no blog",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "Publicações antigas no blog",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.archive.title": {
+    "message": "Arquivos",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "Arquivos",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "Voltar ao início",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "Navegação de páginas do blog",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "Posts recentes",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "Posts antigos",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.blog.post.plurals": {
+    "message": "{count} posts no blog",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} postagens com a tag \"{tagName}\"",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "Ver todas as tags",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "Alternar para o modo Claro/Escuro (current {mode})",
+    "description": "The ARIA label for the navbar color mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "Modo Escuro",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "Modo Claro",
+    "description": "The name for the light color mode"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "Caminho da Página",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.DocCard.categoryDescription": {
+    "message": "{count} itens",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "Aba de documentos",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "Página anterior",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "Página seguinte",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "{count} Documentos com tags",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged}\"{tagName}\"",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "Versão：{versionLabel}"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "Este é um documento não liberado para a versão {siteTitle} {versionLabel}.",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "Esta é a documentação da versão {siteTitle} {versionLabel}, que não é mais ativa.",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "Consulte {latestVersionLink} ({versionLabel}) para obter a documentação mais recente.",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "última versão",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.common.editThisPage": {
+    "message": "Editar esta página",
+    "description": "The link label to edit the current page"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": "Em {date} ",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": "Por {user} ",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "Última atualização por {byUser} em {atDate}",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "link direto para {heading}",
+    "description": "Title for link to heading"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "Selecionar versão",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Fechar",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "Posts recentes",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "Tagged:",
+    "description": "The label alongside a tag list"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "Copiado",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "Copiar o código para a área de transferência",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "copiar",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "Alternar quebra de palavra",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
+    "message": "Abrir/fechar o menu da barra lateral \"{label}\".",
+    "description": "The ARIA label to toggle the collapsible sidebar category"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "navegação principal",
+    "description": "The ARIA label for the main navigation"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "Selecionar idioma",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "Tempo de leitura {readingTime} minutos",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "Visão geral da página",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "Página inicial",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.blog.post.readMore": {
+    "message": "Ler mais",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "Ler o texto completo em {title}",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "Ocultar barra lateral",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "Ocultar barra lateral",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← Voltar ao menu principal",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "Alternar barra de navegação",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "Fechar a barra de navegação",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "Barra lateral do documento",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "Abrir barra lateral",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "Abrir barra lateral",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.SearchBar.label": {
+    "message": "Procurar",
+    "description": "The ARIA label and placeholder for search button"
+  },
+  "theme.SearchModal.searchBox.resetButtonTitle": {
+    "message": "Limpar histórico",
+    "description": "The label and ARIA label for search box reset button"
+  },
+  "theme.SearchModal.searchBox.cancelButtonText": {
+    "message": "Deletar",
+    "description": "The label and ARIA label for search box cancel button"
+  },
+  "theme.SearchModal.startScreen.recentSearchesTitle": {
+    "message": "Pesquisas recentes",
+    "description": "The title for recent searches"
+  },
+  "theme.SearchModal.startScreen.noRecentSearchesText": {
+    "message": "Nenhum histórico de pesquisa recente",
+    "description": "The text when no recent searches"
+  },
+  "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
+    "message": "Salvar esta pesquisa",
+    "description": "The label for save recent search button"
+  },
+  "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
+    "message": "Excluir esta pesquisa do histórico",
+    "description": "The label for remove recent search button"
+  },
+  "theme.SearchModal.startScreen.favoriteSearchesTitle": {
+    "message": "Favoritos",
+    "description": "The title for favorite searches"
+  },
+  "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
+    "message": "Excluir esta pesquisa dos favoritos",
+    "description": "The label for remove favorite search button"
+  },
+  "theme.SearchModal.errorScreen.titleText": {
+    "message": "Não há resultados disponíveis",
+    "description": "The title for error screen of search modal"
+  },
+  "theme.SearchModal.errorScreen.helpText": {
+    "message": "Talvez seja necessário verificar sua conexão de rede.",
+    "description": "The help text for error screen of search modal"
+  },
+  "theme.SearchModal.footer.selectText": {
+    "message": "Selecionado",
+    "description": "The explanatory text of the action for the enter key"
+  },
+  "theme.SearchModal.footer.selectKeyAriaLabel": {
+    "message": "Enter",
+    "description": "The ARIA label for the Enter key button that makes the selection"
+  },
+  "theme.SearchModal.footer.navigateText": {
+    "message": "navegador",
+    "description": "The explanatory text of the action for the Arrow up and Arrow down key"
+  },
+  "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
+    "message": "botão para cima",
+    "description": "The ARIA label for the Arrow up key button that makes the navigation"
+  },
+  "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
+    "message": "botão para baixo",
+    "description": "The ARIA label for the Arrow down key button that makes the navigation"
+  },
+  "theme.SearchModal.footer.closeText": {
+    "message": "fechar",
+    "description": "The explanatory text of the action for Escape key"
+  },
+  "theme.SearchModal.footer.closeKeyAriaLabel": {
+    "message": "Tecla Esc",
+    "description": "The ARIA label for the Escape key button that close the modal"
+  },
+  "theme.SearchModal.footer.searchByText": {
+    "message": "Pesquisar",
+    "description": "The text explain that the search is making by Algolia"
+  },
+  "theme.SearchModal.noResultsScreen.noResultsText": {
+    "message": "Nenhum resultado:",
+    "description": "The text explains that there are no results for the following search"
+  },
+  "theme.SearchModal.noResultsScreen.suggestedQueryText": {
+    "message": "Tente pesquisar.",
+    "description": "The text for the suggested query when no results are found for the following search"
+  },
+  "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
+    "message": "Você acha que essa pesquisa deve gerar resultados?",
+    "description": "The text for the question where the user thinks there are missing results"
+  },
+  "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
+    "message": "Por favor, fale conosco.",
+    "description": "The text for the link to report missing results"
+  },
+  "theme.SearchModal.placeholder": {
+    "message": "Pesquisar Documentos",
+    "description": "The placeholder of the input of the DocSearch pop-up modal"
+  },
+  "theme.SearchBar.seeAll": {
+    "message": "Ver todos os resultados {count}"
+  },
+  "theme.SearchPage.documentsFound.plurals": {
+    "message": "Encontrou {count} documentos",
+    "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.SearchPage.existingResultsTitle": {
+    "message": "Resultados da pesquisa para \"{query}\"",
+    "description": "The search page title for non-empty query"
+  },
+  "theme.SearchPage.emptyResultsTitle": {
+    "message": "Pesquisar em Documentação",
+    "description": "The search page title for empty query"
+  },
+  "theme.SearchPage.inputPlaceholder": {
+    "message": "Digite seus termos de pesquisa aqui",
+    "description": "The placeholder for search page input"
+  },
+  "theme.SearchPage.inputLabel": {
+    "message": "Procurar",
+    "description": "The ARIA label for search page input"
+  },
+  "theme.SearchPage.algoliaLabel": {
+    "message": "Pesquisar com Algolia",
+    "description": "The ARIA label for Algolia mention"
+  },
+  "theme.SearchPage.noResultsText": {
+    "message": "Não foram encontrados resultados",
+    "description": "The paragraph for empty search result"
+  },
+  "theme.SearchPage.fetchingNewResults": {
+    "message": "Obtendo novos resultados de pesquisa agora...",
+    "description": "The paragraph for fetching new search results"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "Tente de novo",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "Pular para o conteúdo principal",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "tag",
+    "description": "The title of the tag list page"
+  },
+  "page.doc.title": {
+    "message": "Plugin de Tradução Web Bilíngue_Ferramenta de Tradução de Documentos PDF"
+  },
+  "page.doc.keywords": {
+    "message": "traduzir site, traduzir pdf, traduzir página da web, tradutor de pdf, traduzir site para inglês, traduzir extensão, traduzir pdf para inglês, traduzir documento pdf, tradutor de site, traduzir pdf, traduzir página da web, traduzir um pdf, traduzir site, traduzir um site, traduzir uma página da web, tradução de legendas"
+  },
+  "page.doc.description": {
+    "message": "Tradução Imersiva é uma extensão gratuita de tradução de sites que oferece tradução bilíngue on-line de páginas da Web. Pode ser usada para traduzir sites para inglês ou outros idiomas, tradução de documentos em vários formatos, tradução de PDF, tradução de e-books EPUB, tradução de legendas bilíngues para vídeos (suporte para Youtube, Netflix e outros sites de vídeo populares), tradução de TXT e outros serviços de tradução de arquivos. (Chrome, Edge, Firefox, Safari e outros navegadores mais comuns, telefones celulares e computadores podem ser instalados e usados. Suporte para inglês, espanhol, chinês, francês, alemão, russo, japonês, coreano, português, vietnamita, indonésio, italiano, holandês, tailandês e dezenas de outros idiomas. Oferece suporte a várias APIs de tradutores: DeepL Translator, Google Translator, Open AI (ChatGPT), Gemini, Artificial Intelligence Translation, Youdao Translator, LingoCloud Translator, Baidu Translator, Volcengine Translator, Niutrans Translator e outros. É a ferramenta de extensão de tradução de páginas da Web que mais entende você e oferece uma experiência de tradução de sites fluida e agradável."
+  },
+  "page.index.headTitle": {
+    "message": "Tradução Imersiva - Extensão de tradução bilíngue de páginas da Web_ferramenta de tradução de documentos PDF"
+  },
+  "page.index.title": {
+    "message": "Tradução Imersiva：Plugin de Tradução Web Bilingue Mais Recomendado"
+  },
+  "page.index.description": {
+    "message": "Você pode usá-lo de forma totalmente gratuita para traduzir sites em idiomas estrangeiros, traduzir documentos PDF, traduzir ebooks EPUB, gerar legendas bilíngues para vídeos.<br />Além disso, você tem a liberdade de selecionar mecanismos de inteligência artificial, como OpenAI (ChatGPT), DeepL, Gemini, para traduzir o conteúdo mencionado acima.<br />Também está disponível em seu smartphone, permitindo que você quebre as barreiras de informação a qualquer hora e em qualquer lugar. É só escolher a plataforma abaixo para começar sua experiência agora mesmo :)"
+  },
+  "page.index.downloadBtn.edge": {
+    "message": "Edge"
+  },
+  "page.index.downloadBtn.chrome": {
+    "message": "Chrome"
+  },
+  "page.index.downloadBtn.firefox": {
+    "message": "Firefox"
+  },
+  "page.index.downloadBtn.safari": {
+    "message": "Safari"
+  },
+  "page.index.downloadBtn.userscript": {
+    "message": "Tampermonkey"
+  },
+  "page.index.downloadBtn.zip": {
+    "message": "Instalador Zip"
+  },
+  "page.index.downloadBtn.iosBrowser.tag": {
+    "message": "Extensão integrada"
+  },
+  "page.index.downloadBtn.iosBrowser": {
+    "message": "iOS Browser"
+  },
+  "page.index.downloadBtn.android.apk": {
+    "message": "Android apk"
+  },
+  "page.index.downloadBtn.android": {
+    "message": "Android Browser"
+  },
+  "page.index.supportservice.title": {
+    "message": "Mais de 10 serviços de tradução suportados"
+  },
+  "page.index.usageCase.title": {
+    "message": "Situações de uso"
+  },
+  "page.index.usageCase.twitter": {
+    "message": "Ferramenta de otimização do Twitter"
+  },
+  "page.index.usageCase.full": {
+    "message": "Acesso à informação"
+  },
+  "page.index.usageCase.discord": {
+    "message": "comunicação"
+  },
+  "page.index.usageCase.pdf": {
+    "message": "Leitura de documentos PDF"
+  },
+  "page.index.usageCase.video": {
+    "message": "Legendas bilíngues de vídeo"
+  },
+  "page.index.usageCase.video.desc": {
+    "message": "Suporta mais de 50 sites de vídeo, legendas bilíngues automáticas"
+  },
+  "page.index.usageCase.twitter.desc": {
+    "message": "Pesquise informações de forma simples com Tradução Imersiva"
+  },
+  "page.index.usageCase.full.desc": {
+    "message": "Acesso eficiente à informação e liberdade linguística"
+  },
+  "page.index.usageCase.discord.desc": {
+    "message": "Adquira informações de forma eficiente, livre-se das restrições de idioma"
+  },
+  "page.index.usageCase.pdf.desc": {
+    "message": "Tradução bilíngue em PDF, leitura comparativa"
+  },
+  "page.index.moreFeature.title": {
+    "message": "mais funções"
+  },
+  "page.index.moreFeature.epub": {
+    "message": "Criação de e-books bilíngues"
+  },
+  "page.index.moreFeature.subtitle": {
+    "message": "tradução de legendas"
+  },
+  "page.index.moreFeature.pdf": {
+    "message": "tradução de documentos PDF"
+  },
+  "page.index.moreFeature.mousehover": {
+    "message": "Tradução ao passar do mouse"
+  },
+  "page.index.Comments.title": {
+    "message": "Comentários da Comunidade"
+  },
+  "page.index.sponsor.title": {
+    "message": "Agradecimentos especiais às seguintes marcas pelo patrocínio"
+  },
+  "page.index.sponsor.desc1": {
+    "message": "Plataforma de colaboração completa para design, desenvolvimento e teste de API"
+  },
+  "page.index.sponsor.desc2": {
+    "message": "Apifox = Postman + Swagger + Mock + JMeter, disponível gratuitamente."
+  },
+  "page.pricing.title": {
+    "message": "preços",
+    "description": "html的title，浏览器标签上会显示这个"
+  },
+  "page.pricing.description": {
+    "message": "Preço de assinatura de Tradução Imersiva Pro",
+    "description": "html的mate信息，与seo相关，类似关键词"
+  },
+  "page.pricing.header.onboarding.title": {
+    "message": "Parabéns, sua instalação foi realizada com sucesso!"
+  },
+  "page.pricing.header.onboarding.intro": {
+    "message": "É a primeira vez que utiliza Tradução Imersiva?"
+  },
+  "page.pricing.header.onboarding.usage": {
+    "message": "[Comece a usar em 30 segundos]."
+  },
+  "page.pricing.header.onboarding.or": {
+    "message": "ou"
+  },
+  "page.pricing.header.onboarding.try": {
+    "message": "Tente traduzir diretamente as páginas em inglês"
+  },
+  "page.pricing.header.normal.title": {
+    "message": "Dê tchauzinho para a velha tradução automática!"
+  },
+  "page.pricing.header.normal.subtitle1": {
+    "message": "Atualize para a assinatura Pro agora."
+  },
+  "page.pricing.header.normal.subtitle2": {
+    "message": "Desfrute da experiência de leitura precisa, fluida e natural proporcionada por DeepL e OpenAI."
+  },
+  "page.pricing.whydeepl.title": {
+    "message": "Por que escolher a tradução do DeepL?"
+  },
+  "page.pricing.whydeepl.desc": {
+    "message": "DeepL é apontada como a tradução automática mais exata do mundo, superando seu concorrente mais próximo<a href=\"{whydeeplUrl}\" target=\"_blank\"><b> mais de três vezes em precisão</b></a>."
+  },
+  "page.pricing.whydeepl.url": {
+    "message": "https://www.deepl.com/zh/whydeepl"
+  },
+  "page.pricing.whydeepl.en2de": {
+    "message": "Inglês ⇄ Alemão"
+  },
+  "page.pricing.whydeepl.en2de.desc": {
+    "message": "6x mais preciso"
+  },
+  "page.pricing.whydeepl.en2zh": {
+    "message": "Inglês ⇄ Chinês"
+  },
+  "page.pricing.whydeepl.en2zh.desc": {
+    "message": "5x mais exato"
+  },
+  "page.pricing.whydeepl.en2ja": {
+    "message": "Inglês ⇄ Japonês"
+  },
+  "page.pricing.whydeepl.en2ja.desc": {
+    "message": "6x mais preciso"
+  },
+  "page.pricing.whydeepl.deeplvsMicrosoft": {
+    "message": "Observe a comparação DeepL vs Microsoft Translate 👇👇👇👇👇👇👇"
+  },
+  "page.pricing.whydeepl.deeplcompare.deepl": {
+    "message": "DeepL"
+  },
+  "page.pricing.whydeepl.deeplcompare.microsoft": {
+    "message": "Microsoft Translator"
+  },
+  "page.pricing.whydeepl.deeplcompare.original": {
+    "message": "Texto original:"
+  },
+  "page.pricing.whyopenai.title": {
+    "message": "Por que escolher a tradução da OpenAI?"
+  },
+  "page.pricing.whyopenai.desc": {
+    "message": "A tecnologia GPT<a href=\"{understandingGptUrl}\" target=\"_blank\"> foi originalmente criada para tradução</a>, dotada da capacidade de entender o contexto.<br/>A GPT com tecnologia da OpenAI é o modelo de linguagem mais inteligente de todos os tempos, o que fica especialmente evidente em sua compreensão da terminologia profissional."
+  },
+  "page.pricing.whyopenai.openaivsGoogle": {
+    "message": "Veja o OpenAI vs Google Translate 👇👇👇👇!"
+  },
+  "page.pricing.whyopenai.openaicompare.openai": {
+    "message": "OpenAI"
+  },
+  "page.pricing.whyopenai.openaicompare.google": {
+    "message": "Google Translate"
+  },
+  "page.pricing.vipnow.desc": {
+    "message": "Faça<a href=\"{pricingUrl}\"> a assinatura Pro</a> e aproveite a tradução plug-and-play com DeepL e OpenAI!"
+  },
+  "page.pricing.comment": {
+    "message": "Não acredite apenas em nossas palavras, ouça o que nossos usuários têm a dizer:"
+  },
+  "page.usegescenarios.meta.title": {
+    "message": "Tradução bilíngue de páginas da Web - tradução de eBooks - tradução de PDFs - extensão de navegador para tradução de arquivos de legendas"
+  },
+  "page.usegescenarios.meta.desc": {
+    "message": "Tradução Imersiva é uma extensão de navegador que reconhece de forma inteligente o conteúdo principal das páginas da Web para tradução bilíngue. A extensão é compatível com todos os principais navegadores, tradução de arquivos PDF, tradução bilíngue, criação e exportação de eBooks EPUB, bem como tradução de arquivos de legendas e muito mais."
+  },
+  "page.usegescenarios.title": {
+    "message": "Situações de utilização de Tradução Imersiva<br/>Um dia na vida de Xiao Zhang"
+  },
+  "page.usegescenarios.desc": {
+    "message": "Desejamos que, por meio da história de Xiao Zhang, possamos mostrar a você mais situações nas quais Tradução Imersiva pode contribuir em seu trabalho e em seu cotidiano."
+  },
+  "page.usegescenarios.content1.title": {
+    "message": "8:00 Começar a leitura bilíngue de notícias"
+  },
+  "page.usegescenarios.content1.desc": {
+    "message": "Xiao Zhang começa seu dia cultivando o hábito de acessar informações em primeira mão de fontes reconhecidas mundialmente, incluindo Reuters, The New York Times, The Economist e The Atlantic, onde ele costuma se atualizar. Suas plataformas preferidas para navegação em conteúdo estrangeiro são Kadaza.com e Buzzing.cc. Graças ao recurso de comparação bilíngue de parágrafos do Tradução Imersiva, a leitura dele melhorou muito. Quando se depara com uma tradução abaixo da média, ele pode consultar o texto original para entender melhor as informações."
+  },
+  "page.usegescenarios.content2.title": {
+    "message": "9:00 Uso do recurso \"Tradução da caixa de entrada\""
+  },
+  "page.usegescenarios.content2.desc": {
+    "message": "O recurso de tradução da caixa de entrada da Tradução Imersiva proporcionou muita comodidade a Xiao Zhang. Ele só precisa digitar uma pergunta em chinês na caixa de pesquisa do Google e, em seguida, clicar três vezes na barra de espaço, e a pergunta na caixa de pesquisa será imediatamente traduzida para o inglês. Com a tradução bilíngue dos resultados da pesquisa, a produtividade de Xiao Zhang na sua busca de informações alcançou um novo patamar!"
+  },
+  "page.usegescenarios.content3.title": {
+    "message": "10:00 Diálogo com o ChatGPT"
+  },
+  "page.usegescenarios.content3.desc": {
+    "message": "Nesta era da IA, Xiao Zhang passa o dia conversando em plataformas como ChatGPT, Bard, Discord e Telegram, interagindo com máquinas e pessoas reais. Graças ao Tradução Imersiva, a caixa de entrada de qualquer página da Web se transforma em um tradutor multilíngue avançado. Consequentemente, as consultas em chinês de Xiao Zhang são rapidamente traduzidas para o inglês e enviadas para o ChatGPT, e as respostas do ChatGPT são perfeitamente traduzidas de volta para o chinês em tempo real."
+  },
+  "page.usegescenarios.content4.title": {
+    "message": "11:00 Acessar informações financeiras globais"
+  },
+  "page.usegescenarios.content4.desc": {
+    "message": "No trabalho, Xiao Zhang prefere usar a versão desktop do navegador Chrome para pesquisar as informações financeiras e tecnológicas mundiais mais recentes. Ele acompanha de perto as notícias exclusivas da mídia financeira, como Bloomberg, Yahoo Finance, The Wall Street Journal e Financial Times. Recentemente, ele tem prestado atenção ao desempenho da Nvidia e do Bitcoin, que têm sido bastante impressionantes. Com a ajuda do Tradução Imersiva, ele pode ler vários relatórios financeiros, anúncios e documentos de pesquisa em ambos os idiomas, o que lhe permite ficar atualizado e conseguir informações financeiras importantes antes dos outros."
+  },
+  "page.usegescenarios.content5.title": {
+    "message": "12:30, acompanhar os destaques das redes sociais no exterior."
+  },
+  "page.usegescenarios.content5.desc": {
+    "message": "Durante os intervalos, Xiao Zhang usa Tradução Imersiva em seu dispositivo móvel (como o navegador Safari no iOS ou o navegador Firefox no Android). Ele navega pelas principais plataformas internacionais de mídia social, como Twitter, Reddit e YouTube, participando de discussões com líderes globais. Ele entende com precisão todas as informações importantes, mantendo-se atualizado."
+  },
+  "page.usegescenarios.content6.title": {
+    "message": "15:30 Pesquisa de informações com a Wikipédia"
+  },
+  "page.usegescenarios.content6.desc": {
+    "message": "Xiao Zhang também notou que a qualidade da Wikipédia em inglês é muito superior à de outros idiomas. Portanto, ele utiliza frequentemente os dois idiomas para adquirir qualquer conhecimento na Wikipédia em inglês, independentemente de ter tarefas específicas em andamento."
+  },
+  "page.usegescenarios.content7.title": {
+    "message": "16:00 Desbloqueando a tradução em tempo real de PDFs"
+  },
+  "page.usegescenarios.content7.desc": {
+    "message": "Às vezes, Xiao Zhang lê os artigos mais recentes em PDF no arXiv. Com o inovador recurso de tradução em tempo real do Tradução Imersiva para arquivos PDF, ele pode saber as últimas notícias do mundo acadêmico em instantes."
+  },
+  "page.usegescenarios.content8.title": {
+    "message": "20:00 Leitura de e-books bilíngues"
+  },
+  "page.usegescenarios.content8.desc": {
+    "message": "Xiao Zhang também é apaixonado por leitura. Ele costuma explorar os livros mais recentes na plataforma de descoberta de livros estrangeiros, GoodReads, verificando as resenhas e esperando pacientemente que as versões em chinês desses livros de língua estrangeira estejam disponíveis. No entanto, desde o mês passado, ele tem comprado diretamente a versão em inglês de Chip War (título em chinês: 芯片战争) no Google Books. Em seguida, ele faz o upload do livro para o Tradução Imersiva, exporta-o para o Kindle e começa a ler o e-book bilíngue."
+  },
+  "page.usegescenarios.content9.title": {
+    "message": "21:00 Ver séries americanas, procurar vídeos no YouTube e curtir Ted Talks!"
+  },
+  "page.usegescenarios.content9.desc": {
+    "message": "Às vezes, Xiao Zhang também acompanha programas de TV americanos. Antes, ele tinha que esperar pacientemente pela tradução dos grupos de legendas, mas agora pode usar Tradução Imersiva para gerar legendas bilíngues para qualquer arquivo de legenda com apenas um clique, ficando sempre atualizado. Tradução Imersiva também oferece suporte à tradução em tempo real de legendas para vídeos on-line do YouTube. Xiao Zhang pode assistir a Ted Talks no YouTube, interagir com outros espectadores na seção de comentários e assistir a programas de TV americanos com legendas bilíngues sincronizadas, eliminando toda aquela espera."
+  },
+  "page.usegescenarios.content10.title": {
+    "message": "23:00 fazendo comprinhas antes de dormir"
+  },
+  "page.usegescenarios.content10.desc": {
+    "message": "A Black Friday é a mais esperada festa de compras on-line de Xiao Zhang. Ele pesquisa minuciosamente os recursos, os preços e as avaliações reais dos usuários de cada produto na Amazon e no eBay. Tradução Imersiva torna tudo mais fácil, ajudando Xiao Zhang a tomar as decisões mais econômicas."
+  },
+  "page.features.videoSubtitle.page.title": {
+    "message": "Tradutor de legendas bilíngues de vídeo on-line gratuito (Youtube, NetFlix, etc.) - Tradução Imersiva"
+  },
+  "page.features.videoSubtitle.page.keywords": {
+    "message": "tradutor de legendas,traduzir legendas,traduzir legendas,tradutor de legendas,traduzir vídeo para legendas em inglês"
+  },
+  "page.features.videoSubtitle.page.description": {
+    "message": "Tradução bilíngue de vídeo, tradução do youtube, legendas bilíngues de vídeo, plugin de tradução de vídeo"
+  },
+  "page.features.videoSubtitle.content.title": {
+    "message": "Introdução à função de tradução de legendas bilíngues de vídeos on-line"
+  },
+  "page.features.videoSubtitle.content.description": {
+    "message": "A extensão Tradução Imersiva oferece um serviço gratuito de tradução de legendas bilíngues de vídeos on-line, com suporte a um amplo espectro de plataformas de vídeo convencionais (Youtube, NetFlix, Twitter Spaces, HBO Max, Vimeo, Khan Academy, Coursera, Udemy, Bloomberg, Nebula, Bilibili . TED e dezenas de outros sites de vídeo populares, com essa lista em constante expansão). Ele oferece suporte à tradução de legendas bilíngues em dezenas de idiomas e as exibe em tempo real de acordo com o processo do vídeo. Por exemplo, você pode assistir a vídeos do YouTube e do NetFlix com legendas em espanhol e inglês, e as legendas instantâneas são geradas automaticamente e traduzidas em tempo real."
+  },
+  "page.features.videoSubtitle.content.supportSite": {
+    "message": "Sites compatíveis"
+  },
+  "page.features.introduction": {
+    "message": "Recursos"
+  },
+  "page.features.videoSubtitle.content.introduction1.title": {
+    "message": "Rápido e conveniente"
+  },
+  "page.features.videoSubtitle.content.introduction1.desc": {
+    "message": "Aproveite a tradução quase instantânea de legendas de vídeo para ajudá-lo a entender o conteúdo de vídeos em idiomas estrangeiros."
+  },
+  "page.features.videoSubtitle.content.introduction2.title": {
+    "message": "Suporte multilíngue"
+  },
+  "page.features.videoSubtitle.content.introduction2.desc": {
+    "message": "Sem se limitar mais a um único idioma de legenda fornecido pela emissora de vídeo, há suporte para tradução em vários pares de idiomas."
+  },
+  "page.features.videoSubtitle.content.introduction3.title": {
+    "message": "Simples e Fácil de Usar"
+  },
+  "page.features.videoSubtitle.content.introduction3.desc": {
+    "message": "O plugin é fácil de utilizar, basta marcar a caixa \"Ativar legendas bilíngues automaticamente\" e ver vídeos com legendas bilingues em qualquer hora e em qualquer lugar."
+  },
+  "page.features.videoSubtitle.content.introduction4.title": {
+    "message": "Compatibilidade entre plataformas"
+  },
+  "page.features.videoSubtitle.content.introduction4.desc": {
+    "message": "Com exceção de algumas reprodutoras de vídeo que não são compatíveis com legendas em dispositivos móveis, a extensão é compatível com vários dispositivos (por exemplo, telefones celulares, tablets, computadores etc.)."
+  },
+  "page.features.usage": {
+    "message": "Situações de utilização"
+  },
+  "page.features.videoSubtitle.content.usage1.title": {
+    "message": "Multilinguismo"
+  },
+  "page.features.videoSubtitle.content.usage1.desc": {
+    "message": "Os estudantes de línguas podem melhorar as suas competências linguísticas assistindo a conteúdos de vídeo originais, com tradução em tempo real para facilitar a compreensão."
+  },
+  "page.features.videoSubtitle.content.usage2.title": {
+    "message": "Educação Online"
+  },
+  "page.features.videoSubtitle.content.usage2.desc": {
+    "message": "Os alunos podem ver vídeos educativos em outras línguas e compreender melhor o conteúdo do curso através de legendas bilingues."
+  },
+  "page.features.videoSubtitle.content.usage3.title": {
+    "message": "Cinema e séries de TV em dia"
+  },
+  "page.features.videoSubtitle.content.usage3.desc": {
+    "message": "Quando os espectadores assistem a filmes e programas de televisão em línguas estrangeiras, o software traduzirá para legendas bilíngues em tempo real para quebrar as barreiras linguísticas."
+  },
+  "page.features.videoSubtitle.content.usage4.title": {
+    "message": "Intercâmbio Intercultural"
+  },
+  "page.features.videoSubtitle.content.usage4.desc": {
+    "message": "As pessoas podem utilizar o software para ver vídeos de outras culturas e países, promovendo a compreensão e o intercâmbio cultural."
+  },
+  "page.features.videoSubtitle.content.usage5.title": {
+    "message": "Preparativos para viagem"
+  },
+  "page.features.videoSubtitle.content.usage5.desc": {
+    "message": "Os viajantes podem se informar sobre a cultura local e os hábitos linguísticos, assistindo a vídeos do país de destino."
+  },
+  "page.features.videoSubtitle.content.usage6.title": {
+    "message": "História"
+  },
+  "page.features.videoSubtitle.content.usage6.desc": {
+    "message": "Os usuários podem ver notícias e programas de atualidade estrangeiros, mesmo que não estejam legendados na sua língua."
+  },
+  "page.features.videoSubtitle.content.usage7.title": {
+    "message": "Pesquisa de negócios"
+  },
+  "page.features.videoSubtitle.content.usage7.desc": {
+    "message": "Os pesquisadores do setor corporativo podem ver anúncios e vídeos promocionais de mercados estrangeiros para compreender melhor a concorrência e a dinâmica do mercado."
+  },
+  "page.features.howtouse": {
+    "message": "Como utilizar"
+  },
+  "page.features.howtouse.installstep": {
+    "message": "1. Instale o plug-in."
+  },
+  "page.features.howtouse.installstep.desc": {
+    "message": "Mais detalhes sobre a instalação podem ser encontrados em <a href=\"{installDocUrl}\">here</a>"
+  },
+  "page.features.howtouse.videoSubtitle.step2": {
+    "message": "2) Marque a opção \"Ativar automaticamente as legendas bilíngues\"."
+  },
+  "page.features.howtouse.videoSubtitle.step3": {
+    "message": "3) Ligar as legendas na emissora de vídeo."
+  },
+  "page.features.howtouse.videoSubtitle.step4": {
+    "message": "4 - Utilizando Tradução Imersiva"
+  },
+  "page.features.downloadnow": {
+    "message": "Tradução Imersiva é compatível com várias plataformas, comece a usar agora!"
+  },
+  "page.features.AddToBrowser": {
+    "message": "Adicione ao navegador"
+  },
+  "page.features.shareBilingualContent.page.title": {
+    "message": "Compartilhamento de conteúdo bilíngue - Tradução Imersiva"
+  },
+  "page.features.shareBilingualContent.page.description": {
+    "message": "Compartilhamento de conteúdo bilíngue"
+  },
+  "page.features.shareBilingualContent.content.title": {
+    "message": "Compartilhamento de conteúdo bilíngue - Tradução Imersiva"
+  },
+  "page.features.shareBilingualContent.content.description": {
+    "message": "Tradução Imersiva oferece suporte ao compartilhamento de conteúdo bilíngue traduzido, e o conteúdo compartilhado pode manter o estilo do site de origem para ajudar as pessoas a descobrirem mais conteúdo de qualidade."
+  },
+  "page.features.shareBilingualContent.content.introduction1.title": {
+    "message": "Fácil de Aprender"
+  },
+  "page.features.shareBilingualContent.content.introduction1.desc": {
+    "message": "Para os usuários que estão aprendendo um idioma, o compartilhamento de páginas bilíngues pode ajudá-los a se comunicar e aprender com seus parceiros de estudo, melhorando assim a eficiência do aprendizado de idiomas."
+  },
+  "page.features.shareBilingualContent.content.introduction2.title": {
+    "message": "Promover Trocas"
+  },
+  "page.features.shareBilingualContent.content.introduction2.desc": {
+    "message": "Os usuários podem compartilhar o conteúdo traduzido com amigos de diferentes idiomas para promover a comunicação e a compreensão entre culturas."
+  },
+  "page.features.shareBilingualContent.content.introduction3.title": {
+    "message": "Poupe Tempo"
+  },
+  "page.features.shareBilingualContent.content.introduction3.desc": {
+    "message": "Em vez de ter que traduzir o mesmo conteúdo da Web novamente, outros usuários podem acessar o conteúdo bilíngue diretamente por meio do link compartilhado, economizando tempo."
+  },
+  "page.features.shareBilingualContent.content.introduction4.title": {
+    "message": "Cômodo e Rápido"
+  },
+  "page.features.shareBilingualContent.content.introduction4.desc": {
+    "message": "Os usuários podem compartilhar páginas bilíngues por meio de mídias sociais, e-mail ou mensagens num piscar de olhos."
+  },
+  "page.features.shareBilingualContent.content.introduction5.title": {
+    "message": "Backup de conteúdo"
+  },
+  "page.features.shareBilingualContent.content.introduction5.desc": {
+    "message": "Os usuários podem salvar conteúdo bilíngue importante em outras plataformas para usar como backup por meio da função de compartilhamento."
+  },
+  "page.features.shareBilingualContent.content.usage1.title": {
+    "message": "Aprendizagem"
+  },
+  "page.features.shareBilingualContent.content.usage1.desc": {
+    "message": "Os alunos podem compartilhar a página bilíngue com seus colegas de classe ou professores para que possam comparar o texto original e a tradução e aprofundar sua compreensão ao estudar um idioma estrangeiro."
+  },
+  "page.features.shareBilingualContent.content.usage2.title": {
+    "message": "Planeamento de Viagens"
+  },
+  "page.features.shareBilingualContent.content.usage2.desc": {
+    "message": "Viajantes podem partilhar informações de viagem ou dicas sobre o seu destino em formato bilíngue com outros viajantes para facilitar o planeamento de viagens."
+  },
+  "page.features.shareBilingualContent.content.usage3.title": {
+    "message": "História"
+  },
+  "page.features.shareBilingualContent.content.usage3.desc": {
+    "message": "Os jornalistas ou leitores podem compartilhar referências cruzadas bilíngues de notícias internacionais para ajudar os leitores a entender melhor o que a mídia estrangeira está noticiando."
+  },
+  "page.features.shareBilingualContent.content.usage4.title": {
+    "message": "Redes Sociais"
+  },
+  "page.features.shareBilingualContent.content.usage4.desc": {
+    "message": "Os usuários podem partilhar conteúdos web bilíngues interessantes ou importantes nas redes sociais, apelando a um maior número de leitores bilíngues."
+  },
+  "page.features.shareBilingualContent.content.usage5.title": {
+    "message": "Pesquisa acadêmica"
+  },
+  "page.features.shareBilingualContent.content.usage5.desc": {
+    "message": "Os pesquisadores podem compartilhar resumos bilíngues de artigos acadêmicos ou relatórios de pesquisa para ajudar seus colegas internacionais a entender melhor a importância de suas pesquisas."
+  },
+  "page.features.shareBilingualContent.content.usage6.title": {
+    "message": "Serviços de Imigração"
+  },
+  "page.features.shareBilingualContent.content.usage6.desc": {
+    "message": "As organizações de serviços de imigração podem compartilhar páginas bilíngues sobre políticas, leis e regulamentações governamentais para ajudar os novos imigrantes a entender melhor e se adaptar ao novo ambiente."
+  },
+  "page.features.howtouse.shareBilingualContent.step2": {
+    "message": "2. Uso de Tradução Imersiva."
+  },
+  "page.features.howtouse.shareBilingualContent.step3": {
+    "message": "3. Clique em Compartilhar"
+  },
+  "page.features.howtouse.shareBilingualContent.step4": {
+    "message": "4. Confirmar o conteúdo para compartilhamento"
+  },
+  "page.features.pdfTralslate.page.title": {
+    "message": "Introdução à função de tradução gratuita de documentos PDF e eBooks ePub - Tradução Imersiva"
+  },
+  "page.features.pdfTralslate.page.keywords": {
+    "message": "traduzir pdf, tradutor de pdf, traduzir pdf para inglês, traduzir documento pdf, traduzir pdf, traduzir um pdf, como traduzir um pdf, tradutor de documentos pdf, traduzir um documento pdf, traduzir um pdf para inglês, traduzir pdf para inglês, tradução de pdf ,traduzir alemão para inglês pdf,tradutor de pdf inglês,traduzir pdf para espanhol,traduzir de um pdf,traduzir documento pdf para inglês,como traduzir pdf,traduzir documentos pdf,traduzir pdf inglês,tradutor de pdf gratuito"
+  },
+  "page.features.pdfTralslate.page.description": {
+    "message": "A extensão Tradução Imersiva oferece um serviço de tradução de PDF on-line gratuito. Ela pode ser usada para traduzir documentos PDF e eBooks ePub para inglês, espanhol ou qualquer outro idioma. O documento traduzido manterá o layout original, oferecendo suporte à tradução bilíngue de documentos e permitindo que os usuários personalizem a escolha entre o download de um documento com tradução bilíngue ou uma versão apenas traduzida. Os cenários aplicáveis incluem, entre outros, a tradução de literatura em idioma estrangeiro, teses acadêmicas, manuais de produtos, contratos jurídicos e muito mais, tanto para os formatos PDF quanto ePub. Além disso, os usuários podem escolher entre uma variedade de mecanismos de tradução convencionais, incluindo OpenAI (ChatGPT), DeepL, Gemini e outros mecanismos de tradução de inteligência artificial amplamente reconhecidos, para garantir uma tradução mais precisa de documentos especializados."
+  },
+  "page.features.pdfTralslate.content.title": {
+    "message": "Traduzir PDF & EPUB eBooks Introdução à função"
+  },
+  "page.features.pdfTralslate.content.description": {
+    "message": "Tradução Imersiva oferece um serviço online gratuito para traduzir PDFs e ebooks ePub. Ele assegura que a formatação do documento original seja preservada e oferece a flexibilidade de baixar traduções bilíngues comparativas ou somente o texto traduzido. <br/> Esse serviço foi projetado para um amplo espectro de usos, incluindo, entre outros, a tradução de PDFs de literatura estrangeira, teses acadêmicas, manuais de produtos e contratos estrangeiros.<br/>Com acesso a uma seleção dos principais mecanismos de tradução, os usuários podem optar pelo OpenAI (ChatGPT), DeepL, Gemini e outros mecanismos de tradução de inteligência artificial altamente aclamados para traduções mais precisas de documentos especializados."
+  },
+  "page.features.pdfTralslate.content.introduction1.title": {
+    "message": "Melhore a Compreensão"
+  },
+  "page.features.pdfTralslate.content.introduction1.desc": {
+    "message": "As exibições bilíngues com referências cruzadas podem ajudar os usuários a entender melhor a correspondência entre o conteúdo original e o texto traduzido, especialmente ao aprender um novo idioma."
+  },
+  "page.features.pdfTralslate.content.introduction2.title": {
+    "message": "Aumente a eficiência"
+  },
+  "page.features.pdfTralslate.content.introduction2.desc": {
+    "message": "Os usuários economizam muito tempo e esforço por não precisarem alternar entre diferentes documentos ou aplicativos para fazer referência cruzada entre o texto original e a tradução."
+  },
+  "page.features.pdfTralslate.content.introduction3.title": {
+    "message": "Revisão Fácil"
+  },
+  "page.features.pdfTralslate.content.introduction3.desc": {
+    "message": "Os resultados da tradução são exibidos diretamente ao lado do texto original, facilitando a revisão e a comparação pelos usuários e a consulta rápida ao texto original quando surgem problemas de tradução."
+  },
+  "page.features.pdfTralslate.content.introduction4.title": {
+    "message": "Preserve o Formato"
+  },
+  "page.features.pdfTralslate.content.introduction4.desc": {
+    "message": "Traduza o conteúdo do PDF para manter o formato original basicamente inalterado e, além disso, ofereça a personalização do tamanho de exibição do conteúdo, o que favorece a aquisição de informações completas."
+  },
+  "page.features.pdfTralslate.content.introduction5.title": {
+    "message": "Ampla Aplicabilidade"
+  },
+  "page.features.pdfTralslate.content.introduction5.desc": {
+    "message": "Ele pode ser usado em vários contextos, como pesquisas acadêmicas, relatórios comerciais, documentos jurídicos etc., em que a leitura detalhada é particularmente importante."
+  },
+  "page.features.pdfTralslate.content.usage1.title": {
+    "message": "Pesquisa Acadêmica"
+  },
+  "page.features.pdfTralslate.content.usage1.desc": {
+    "message": "Pesquisadores podem utilizar o software para traduzir literatura em língua estrangeira para compreenderem e citarem fontes acadêmicas internacionais."
+  },
+  "page.features.pdfTralslate.content.usage2.title": {
+    "message": "Negócios Internacionais"
+  },
+  "page.features.pdfTralslate.content.usage2.desc": {
+    "message": "Os empresários podem traduzir contratos, relatórios e outros documentos comerciais para garantir uma compreensão precisa do conteúdo dos documentos dos parceiros em transações internacionais."
+  },
+  "page.features.pdfTralslate.content.usage3.title": {
+    "message": "Prática Jurídica"
+  },
+  "page.features.pdfTralslate.content.usage3.desc": {
+    "message": "Os advogados ou profissionais do direito podem traduzir documentos jurídicos e materiais de processos para ajudar em questões jurídicas internacionais."
+  },
+  "page.features.pdfTralslate.content.usage4.title": {
+    "message": "Aprendizagem"
+  },
+  "page.features.pdfTralslate.content.usage4.desc": {
+    "message": "Os estudantes e os professores podem traduzir manuais escolares, trabalhos acadêmicos ou materiais didáticos para colaborar na aprendizagem de línguas ou no ensino em programas internacionais."
+  },
+  "page.features.pdfTralslate.content.usage5.title": {
+    "message": "Guia de viagem"
+  },
+  "page.features.pdfTralslate.content.usage5.desc": {
+    "message": "Os viajantes podem traduzir guias e mapas para compreender melhor as informações locais quando viajam para o exterior."
+  },
+  "page.features.pdfTralslate.content.usage6.title": {
+    "message": "Documentos de imigração"
+  },
+  "page.features.pdfTralslate.content.usage6.desc": {
+    "message": "Um imigrante ou refugiado pode traduzir documentos pessoais importantes, tais como certidões de nascimento, certidões de casamento, etc., para serem utilizados no processo de candidatura."
+  },
+  "page.features.pdfTralslate.content.usage7.title": {
+    "message": "Troca Cultural"
+  },
+  "page.features.pdfTralslate.content.usage7.desc": {
+    "message": "Tradução de obras literárias, críticas de arte ou documentos históricos para promover a compreensão e o intercâmbio entre culturas."
+  },
+  "page.features.pdfTralslate.content.usage8.title": {
+    "message": "Manuais técnicos"
+  },
+  "page.features.pdfTralslate.content.usage8.desc": {
+    "message": "Os engenheiros e técnicos podem traduzir manuais de funcionamento e especificações técnicas para os ajudar a operar e manter os equipamentos adquirido no exterior."
+  },
+  "page.features.pdfTralslate.content.usage9.title": {
+    "message": "Mídia Jornalística"
+  },
+  "page.features.pdfTralslate.content.usage9.desc": {
+    "message": "Os repórteres e editores podem traduzir notícias e artigos estrangeiros para proporcionar aos leitores uma perspetiva internacional mais ampla."
+  },
+  "page.features.pdfTralslate.content.usage10.title": {
+    "message": "Conferências e Seminários"
+  },
+  "page.features.pdfTralslate.content.usage10.desc": {
+    "message": "Organizadores podem traduzir os materiais e as apresentações de conferências para permitir que os participantes superem as barreiras linguísticas e participem mais nos debates."
+  },
+  "page.features.howtouse.pdfTralslate.step2": {
+    "message": "2. Abra a tradução local do pdf."
+  },
+  "page.features.howtouse.pdfTralslate.step3": {
+    "message": "3. Arraste o arquivo PDF local e o plug-in fará a tradução cruzada bilíngue automaticamente"
+  },
+  "page.android.title": {
+    "message": "Navegador de tradução imersiva - Download para Android"
+  },
+  "page.android.desc": {
+    "message": "Pronto para usar tradução imersiva"
+  },
+  "page.android.pageTitle": {
+    "message": "O download já começou.."
+  },
+  "page.android.download.desc": {
+    "message": "Se você não começou, pode clicar"
+  },
+  "page.android.download.text": {
+    "message": "Aqui baixe manualmente"
+  },
+  "page.android.content": {
+    "message": "O navegador Android de tradução imersiva já vem pré-instalado com a extensão de tradução imersiva, que pode ser usada diretamente após a instalação. (Atenção, se você encontrar um risco de segurança indicado durante a instalação em alguns telefones celulares domésticos (este é um aviso unificado), por favor selecione [Eu estou ciente do risco de segurança] [Continue a instalação])"
+  },
+  "page.index.InValidChrome": {
+    "message": "a versão do núcleo do chrome {version} é muito baixa, atualize o navegador para a versão mais recente"
+  },
+  "page.download.title": {
+    "message": "Ative a leitura em {hlStart}dois idiomas{hlEnd} com um clique, aumentando a eficiência na obtenção de informações."
+  },
+  "page.download.subtitle": {
+    "message": "<b>\"Tradução imersiva\"</b>, uma palavra que inventamos. Hoje, tornou-se sinônimo de <b>\"tradução bilíngue comparativa\"</b>. Desde o seu lançamento em 2023, esta extensão de tradução de páginas da web bilíngue AI altamente elogiada ajudou mais de 1 milhão de usuários a superar barreiras linguísticas e absorver livremente a sabedoria global. Acreditamos firmemente que quebrar barreiras linguísticas é promover a igualdade de informação."
+  },
+  "page.download.web.title": {
+    "message": "Tradução bilingue de páginas da web"
+  },
+  "page.download.web.subtitle": {
+    "message": "Conseguimos popularizar a experiência de leitura de páginas da web em dois idiomas entre milhões de usuários. Como líderes do setor, a tradução imersiva incorpora mais de 10 dos principais motores de tradução do setor, incluindo DeepL, OpenAI e Google Tradutor, sendo a ferramenta com o maior número de motores de tradução suportados entre todos os produtos similares, nacional e internacionalmente."
+  },
+  "page.download.videoSub.title": {
+    "message": "Legendas bilingues em vídeo"
+  },
+  "page.download.videoSub.subtitle": {
+    "message": "A tradução imersiva é a primeira a suportar legendas bilingues em tempo real em mais de 50 sites de vídeo estrangeiros populares. Com legendas bilingues, você não só pode entender completamente o conteúdo do vídeo, mas também pode aprender línguas estrangeiras naturalmente durante o processo de visualização. A voz estrangeira autêntica combinada com legendas na língua materna permite que você melhore suas habilidades de ouvir, falar, ler e escrever de maneira imperceptível."
+  },
+  "page.download.pdf.title": {
+    "message": "Tradução comparativa de PDF"
+  },
+  "page.download.pdf.subtitle": {
+    "message": "A tradução imersiva introduziu inovadoramente a função de tradução gratuita de documentos PDF no plugin do navegador. Quer você precise ler trabalhos acadêmicos em línguas estrangeiras ou lidar com documentos comerciais multilíngues, você pode obter resultados de tradução de alta qualidade com um clique através da tradução imersiva."
+  },
+  "page.download.pdfpro.title": {
+    "message": "PDF PRO"
+  },
+  "page.download.pdfpro.subtitle": {
+    "message": "Tradução imersiva AI-driven <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF</a> foi projetada para lidar com os arquivos PDF mais complexos, seja um artigo acadêmico cheio de jargões profissionais, ou vários documentos contendo tabelas e imagens complexas, a tecnologia de análise de PDF impulsionada por AI pode garantir uma análise eficiente e precisa desses conteúdos."
+  },
+  "page.download.ePub.title": {
+    "message": "ePub livro eletrônico tradução bilíngue"
+  },
+  "page.download.ePub.subtitle": {
+    "message": "Com a tradução imersiva, nunca foi tão fácil criar e-books bilingues no formato ePub! A nossa função de criação de e-books com um clique pode transformar instantaneamente o seu e-book estrangeiro numa elegante versão bilingue, permitindo-lhe desfrutar de uma experiência de leitura imersiva em vários leitores de e-books."
+  },
+  "page.download.mouse.title": {
+    "message": "Tradução ao passar o mouse"
+  },
+  "page.download.mouse.subtitle": {
+    "message": "A tradução imersiva trouxe outra inovação revolucionária na interação - a tradução ao passar o mouse. Basta passar o mouse sobre qualquer parágrafo e pressionar a tecla de atalho predefinida (como Ctrl), a tradução do parágrafo atual será imediatamente apresentada após o parágrafo."
+  },
+  "page.download.input.title": {
+    "message": "Caixa de entrada de tradução"
+  },
+  "page.download.input.subtitle": {
+    "message": "Digite o texto diretamente em qualquer caixa de entrada (como \"Olá, mundo\"), pressione rapidamente a tecla de espaço três vezes e o texto será traduzido para o idioma de destino (inglês por padrão, mas pode ser personalizado). Este método de interação inovador é adequado para páginas de pesquisa, escrita, conversação, etc., sem a necessidade de alternar, a tradução é concluída imediatamente."
+  },
+  "page.viewDownload.title": {
+    "message": "Tradução imersiva, ative a leitura {hlStart}bilingue{hlEnd} com um clique"
+  },
+  "page.viewDownload.button": {
+    "message": "Baixe agora"
+  },
+  "page.index.downloadBtn.installExtension": {
+    "message": "Instalar o plugin do navegador"
+  },
+  "page.index.downloadBtn.orUseOnMobile": {
+    "message": "Ou use diretamente no celular."
+  },
+  "page.index.downloadBtn.useOnMobile": {
+    "message": "Usar no celular"
+  },
+  "page.index.downloadBtn.macSafari": {
+    "message": "Extensões do Safari para Mac"
+  },
+  "page.index.downloadBtn.iosSafari": {
+    "message": "Extensões do Safari iOS"
+  },
+  "page.index.downloadBtn.iosSafariExtension.tag": {
+    "message": "Precisa ser ativado manualmente"
+  },
+  "page.features.videoSubtitle.content.allSupportSite": {
+    "message": "Ver todas as plataformas suportadas"
+  },
+  "pro.introduction.title": {
+    "message": "Use {{ai}} para remodelar sua experiência de tradução de documentos {{pdf}}"
+  },
+  "pro.advantage.formula": {
+    "message": "Reconhecimento de fórmula"
+  },
+  "pro.advantage.formula.description": {
+    "message": "Com a ajuda da tecnologia AI avançada, até as fórmulas matemáticas e científicas mais complexas podem ser reconhecidas com precisão para fornecer uma tradução precisa."
+  },
+  "pro.advantage.table": {
+    "message": "Reconhecimento de tabela"
+  },
+  "pro.advantage.table.description": {
+    "message": "Compreendemos profundamente a importância das tabelas em PDF, a capacidade de IA que usamos foi amplamente otimizada para tabelas, podendo reconhecer e traduzir sem problemas as tabelas nos documentos."
+  },
+  "pro.advantage.ocr": {
+    "message": "Reconhecimento de imagem OCR"
+  },
+  "pro.advantage.ocr.description": {
+    "message": "Usando a mais recente tecnologia OCR (Reconhecimento Óptico de Caracteres), nossa tradução de PDF pode reconhecer texto de imagens e convertê-lo em texto editável e traduzível."
+  },
+  "pro.advantage.columns": {
+    "message": "Efeito de duas colunas, três colunas"
+  },
+  "pro.advantage.columns.description": {
+    "message": "A nossa ferramenta de tradução de PDF foi especialmente projetada para suportar layouts de duas e três colunas, sendo capaz de reconhecer e adaptar-se a layouts complexos nos documentos. Isso significa que até mesmo os trabalhos acadêmicos mais complexos em termos de formato podem ser precisamente analisados e traduzidos pelo nosso sistema."
+  },
+  "pro.feat.html": {
+    "message": "Exportar como HTML"
+  },
+  "pro.feat.html.description": {
+    "message": "O nosso princípio é traduzir perfeitamente o PDF para HTML e depois traduzi-lo. Portanto, você pode salvar o HTML traduzido para facilitar a leitura em qualquer dispositivo."
+  },
+  "pro.feat.pdf": {
+    "message": "Exportar como PDF"
+  },
+  "pro.feat.pdf.description": {
+    "message": "Apoiamos a exportação de documentos traduzidos para um novo PDF, mantendo a aparência profissional e a experiência de leitura do seu documento em qualquer plataforma."
+  },
+  "pro.feat.share": {
+    "message": "compartilhamento online"
+  },
+  "pro.feat.share.description": {
+    "message": "Ao gerar um link acessível de um instantâneo bilíngue, você pode facilmente compartilhar o documento traduzido com qualquer pessoa."
+  },
+  "page.feature.pro.compare.title": {
+    "message": "AI impulsionado pela tradução do PDF Pro em comparação com a tradução normal do PDF:"
+  },
+  "pro.compare.header.proPdf": {
+    "message": "AI impulsionado pela tradução Pro PDF"
+  },
+  "pro.compare.header.pdf": {
+    "message": "Tradução comum de PDF"
+  },
+  "pro.compare.table.html": {
+    "message": "Exportar HTML"
+  },
+  "pro.compare.table.pdf": {
+    "message": "Exportar PDF"
+  },
+  "pro.compare.table.share": {
+    "message": "compartilhamento online"
+  },
+  "pro.compare.table.columns.pro": {
+    "message": "Excelente"
+  },
+  "pro.compare.table.columns.normal": {
+    "message": "geral"
+  },
+  "pro.pdf.title": {
+    "message": "Usando a tradução imersiva AI-driven de PDF"
+  },
+  "pro.pdf.desc": {
+    "message": "Projetado especificamente para lidar com os arquivos PDF mais complexos, seja um artigo acadêmico cheio de jargões profissionais, ou vários documentos contendo tabelas e imagens complexas, a tecnologia de análise de PDF impulsionada por IA pode garantir uma análise eficiente e precisa desses conteúdos (* disponível apenas para membros Pro)."
+  },
+  "page.exchange.title": {
+    "message": "Troca de membro Pro"
+  },
+  "page.exchange.pricingTitle": {
+    "message": "Diga adeus à tradução de máquina comum!"
+  },
+  "page.exchange.pricingSubtitle": {
+    "message": "Atualize agora para o membro Pro e desfrute da experiência de leitura precisa, suave e natural fornecida pelo DeepL e OpenAI."
+  },
+  "page.topup.title": {
+    "message": "Compra de pacote de dados"
+  },
+  "page.topup.pricingTitle": {
+    "message": "Diga adeus à tradução automática comum!"
+  },
+  "page.topup.pricingSubtitle": {
+    "message": "Pacote de adição de tráfego, continue a desfrutar de uma experiência de leitura precisa, suave e natural."
+  },
+  "page.zipinstall.title": {
+    "message": "Guia de instalação local do plugin de tradução imersiva do Chrome"
+  },
+  "page.zipinstall.clickdownload": {
+    "message": "Clique aqui para baixar o pacote de instalação crx"
+  },
+  "page.zipinstall.copyandpaste": {
+    "message": "Copie o seguinte endereço e cole na barra de endereços do navegador, pressione enter para abrir, ative o modo de desenvolvedor no canto superior direito."
+  },
+  "page.zipinstall.copy": {
+    "message": "copiar"
+  },
+  "page.zipinstall.copySuccess": {
+    "message": "Cópia bem sucedida"
+  },
+  "page.zipinstall.step1Title": {
+    "message": "Baixe o pacote de instalação do tradutor imersivo crx e descompacte (o arquivo crx está na pasta descompactada)."
+  },
+  "page.zipinstall.step2Title": {
+    "message": "Abra a página \"Gerenciar extensões\" do Chrome e ative o \"Modo de desenvolvedor\"."
+  },
+  "page.zipinstall.step3Title": {
+    "message": "Instale o plugin de tradução imersiva"
+  },
+  "page.zipinstall.step4Title": {
+    "message": "Fixe o plugin de tradução imersiva na barra de ferramentas do navegador para fácil acesso (quando precisar atualizar o plugin, repita este processo para atualizar)"
+  },
+  "page.manualinstall.title": {
+    "message": "Guia de instalação local do plugin de tradução imersiva do Chrome"
+  },
+  "page.manualinstall.description": {
+    "message": "Se você não conseguir instalar o plugin de tradução imersiva pela loja Chrome, pode tentar instalar manualmente seguindo este tutorial."
+  },
+  "page.pricing.header.onboarding.doc": {
+    "message": "Tradução de documentos"
+  },
+  "page.pricing.header.onboarding.video": {
+    "message": "Legendas bilingues de vídeos do Youtube"
+  },
+  "page.pricing.header.normal.subtitle3": {
+    "message": "Ao continuar a usar, você concorda com os <a href='/docs/TERMS/' target='_blank'>Termos de Serviço</a> e a <a href='/docs/PRIVACY/' target='_blank'>Política de Privacidade</a>"
+  }
+}

@@ -1,0 +1,1222 @@
+{
+  "theme.ErrorPageContent.title": {
+    "message": "앗! 페이지에 문제가 발생했습니다. 문제를 해결 중이니 나중에 다시 시도해 보세요.",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.NotFound.title": {
+    "message": "페이지를 찾을 수 없습니다.",
+    "description": "The title of the 404 page"
+  },
+  "theme.NotFound.p1": {
+    "message": "죄송합니다, 찾으시는 페이지가 누락되었습니다. 네비게이션 메뉴나 검색창을 이용하여 저희 사이트의 다른 곳을 살펴보시기 바랍니다. 문제가 있다고 판단되면 언제든지 저희 지원팀에게 연락해 주세요. 이해해주셔서 감사합니다.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "원본 링크 소스 사이트의 소유자에게 연락한 뒤, 링크가 손상되었음을 알려주시기 바랍니다.",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.admonition.note": {
+    "message": "비고",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "프롬프트",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.danger": {
+    "message": "위험",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "정보",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.caution": {
+    "message": "경고",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "블로그 목록 페이지 탐색",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "최신 블로그 게시물",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "이전 블로그 게시물",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.archive.title": {
+    "message": "아카이브",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "아카이브",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "맨 위로 가기",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "블로그 페이지 탐색",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "최신 게시물",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "이전 게시물",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.blog.post.plurals": {
+    "message": "{count} 블로그 게시물",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} \"{tagName}\" 태그 포함",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "모든 태그 보기",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "다크/라이트 모드 전환(현재{mode})",
+    "description": "The ARIA label for the navbar color mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "다크 모드",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "라이트 모드",
+    "description": "The name for the light color mode"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "페이지 경로",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.DocCard.categoryDescription": {
+    "message": "{count} 항목",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "문서 탭",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "이전 페이지",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "다음 페이지",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "{count} 태그가 있는 문서",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged}\"{tagName}\"",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "버전：{versionLabel}"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "이 문서는 {siteTitle} {versionLabel} 버전에 대한 미공개 문서입니다.",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "이 문서는 더 이상 활발하게 유지 관리되지 않는 {siteTitle} {versionLabel} 버전에 대한 문서입니다.",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "최신 문서는 {latestVersionLink} ({versionLabel})을 참조하세요.",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "최신 버전",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.common.editThisPage": {
+    "message": "현재 페이지 편집",
+    "description": "The link label to edit the current page"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": "{date} 참조  ",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": "{user}에 의해 ",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "{byUser}님이 {atDate}에 마지막으로 업데이트 함",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "{heading}직접 링크",
+    "description": "Title for link to heading"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "버전 선택",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "닫기",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "최근 게시물",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "태그：",
+    "description": "The label alongside a tag list"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "복사 성공",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "코드를 클립보드에 복사합니다.",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "복사",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "자동 줄 바꿈 전환",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
+    "message": "사이드바 메뉴 \"{label}\"를 열거나 닫습니다.",
+    "description": "The ARIA label to toggle the collapsible sidebar category"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "기본 탐색",
+    "description": "The ARIA label for the main navigation"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "언어 선택",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "읽기 소요 시간 {readingTime} 분",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "해당 페이지 개요",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "메인 페이지",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.blog.post.readMore": {
+    "message": "자세히 보기",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "전체 텍스트트 읽기: {title}",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "사이드바 숨기기",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "사이드바 정리하기",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← 메인 메뉴로 돌아가기",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "네비게이션 바 전환",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "네비게이션 바 닫기",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "문서 사이드바",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "사이드 바 열기",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "사이드 바 열기",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.SearchBar.label": {
+    "message": "찾기",
+    "description": "The ARIA label and placeholder for search button"
+  },
+  "theme.SearchModal.searchBox.resetButtonTitle": {
+    "message": "기록 지우기",
+    "description": "The label and ARIA label for search box reset button"
+  },
+  "theme.SearchModal.searchBox.cancelButtonText": {
+    "message": "취소",
+    "description": "The label and ARIA label for search box cancel button"
+  },
+  "theme.SearchModal.startScreen.recentSearchesTitle": {
+    "message": "최근 검색",
+    "description": "The title for recent searches"
+  },
+  "theme.SearchModal.startScreen.noRecentSearchesText": {
+    "message": "최근 검색이 없습니다.",
+    "description": "The text when no recent searches"
+  },
+  "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
+    "message": "해당 검색 저장",
+    "description": "The label for save recent search button"
+  },
+  "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
+    "message": "기록에서 해당 검색 삭제",
+    "description": "The label for remove recent search button"
+  },
+  "theme.SearchModal.startScreen.favoriteSearchesTitle": {
+    "message": "북마크",
+    "description": "The title for favorite searches"
+  },
+  "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
+    "message": "북마크에서 해당 검색어 삭제",
+    "description": "The label for remove favorite search button"
+  },
+  "theme.SearchModal.errorScreen.titleText": {
+    "message": "결과를 찾을 수 없음",
+    "description": "The title for error screen of search modal"
+  },
+  "theme.SearchModal.errorScreen.helpText": {
+    "message": "인터넷 연결을 확인해야 할 수도 있습니다.",
+    "description": "The help text for error screen of search modal"
+  },
+  "theme.SearchModal.footer.selectText": {
+    "message": "선택함",
+    "description": "The explanatory text of the action for the enter key"
+  },
+  "theme.SearchModal.footer.selectKeyAriaLabel": {
+    "message": "Enter 키",
+    "description": "The ARIA label for the Enter key button that makes the selection"
+  },
+  "theme.SearchModal.footer.navigateText": {
+    "message": "내비게이터",
+    "description": "The explanatory text of the action for the Arrow up and Arrow down key"
+  },
+  "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
+    "message": "위 버튼",
+    "description": "The ARIA label for the Arrow up key button that makes the navigation"
+  },
+  "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
+    "message": "아래 버튼",
+    "description": "The ARIA label for the Arrow down key button that makes the navigation"
+  },
+  "theme.SearchModal.footer.closeText": {
+    "message": "닫기",
+    "description": "The explanatory text of the action for Escape key"
+  },
+  "theme.SearchModal.footer.closeKeyAriaLabel": {
+    "message": "Esc 키",
+    "description": "The ARIA label for the Escape key button that close the modal"
+  },
+  "theme.SearchModal.footer.searchByText": {
+    "message": "검색",
+    "description": "The text explain that the search is making by Algolia"
+  },
+  "theme.SearchModal.noResultsScreen.noResultsText": {
+    "message": "결과 없음：",
+    "description": "The text explains that there are no results for the following search"
+  },
+  "theme.SearchModal.noResultsScreen.suggestedQueryText": {
+    "message": "검색해 보세요.",
+    "description": "The text for the suggested query when no results are found for the following search"
+  },
+  "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
+    "message": "해당 검색이 결과를 생성할 것으로 생각하십니까? ",
+    "description": "The text for the question where the user thinks there are missing results"
+  },
+  "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
+    "message": "알려주시기 바랍니다.",
+    "description": "The text for the link to report missing results"
+  },
+  "theme.SearchModal.placeholder": {
+    "message": "문서 검색",
+    "description": "The placeholder of the input of the DocSearch pop-up modal"
+  },
+  "theme.SearchBar.seeAll": {
+    "message": "{count} 결과 모두 보기"
+  },
+  "theme.SearchPage.documentsFound.plurals": {
+    "message": "{count} 문서를 찾았습니다.",
+    "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.SearchPage.existingResultsTitle": {
+    "message": "\"{query}\"에 대한 검색 결과",
+    "description": "The search page title for non-empty query"
+  },
+  "theme.SearchPage.emptyResultsTitle": {
+    "message": "문서에서 검색",
+    "description": "The search page title for empty query"
+  },
+  "theme.SearchPage.inputPlaceholder": {
+    "message": "이곳에 검색어를 입력하세요.",
+    "description": "The placeholder for search page input"
+  },
+  "theme.SearchPage.inputLabel": {
+    "message": "찾기",
+    "description": "The ARIA label for search page input"
+  },
+  "theme.SearchPage.algoliaLabel": {
+    "message": "Algolia를 통한 검색",
+    "description": "The ARIA label for Algolia mention"
+  },
+  "theme.SearchPage.noResultsText": {
+    "message": "결과를 찾을 수 없습니다.",
+    "description": "The paragraph for empty search result"
+  },
+  "theme.SearchPage.fetchingNewResults": {
+    "message": "지금 새 검색 결과 가져오기...",
+    "description": "The paragraph for fetching new search results"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "다시 시도",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "주요 콘텐츠로 건너뛰기",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "태그",
+    "description": "The title of the tag list page"
+  },
+  "page.doc.title": {
+    "message": "이중 언어 웹 번역 확장_PDF 문서 번역 도구"
+  },
+  "page.doc.keywords": {
+    "message": "웹사이트 번역, PDF 번역, 웹 페이지 번역, PDF 번역기, 웹사이트를 영어로 번역, 확장 기능 번역, PDF를 영어로 번역, PDF 문서 번역, 웹사이트 번역기, PDF 번역, 웹페이지지 번역, PDF 번역, 웹 사이트 번역, 웹 사이트 번역, 웹페이지 번역, 자막 번역"
+  },
+  "page.doc.description": {
+    "message": "몰입형 번역은 무료 웹사이트 번역 확장 프로그램으로, 온라인 이중 언어 웹 페이지 번역을 제공합니다. 웹사이트를 영어 또는 다른 언어로 번역하거나, 다양한 형식의 문서 번역, PDF 번역, EPUB 전자책 번역, 영상용 이중 언어 자막 번역(YouTube, Netflix 및 기타 주요 영상 사이트 지원) 등에 사용할 수 있습니다.  또한 TXT 및 기타 파일 번역 서비스도 제공합니다. (Chrome, Edge, Firefox, Safari 및 기타 주요 브라우저, 휴대폰 및 컴퓨터에 설치하여 사용할 수 있습니다. 영어, 스페인어, 중국어, 프랑스어, 독일어, 러시아어, 일본어, 한국어, 포르투갈어, 베트남어, 인도네시아어, 이탈리아어, 네덜란드어, 태국어 및 수십 개의 기타 언어를 지원합니다. 다중 번역 API 지원: DeepL Translator, Google Translator, Open AI (ChatGPT), Gemini, 인공 지능 번역, Youdao Translator, LingoCloud Translator, Baidu Translator, Volcengine Translator, Niutrans Translator 등.) 몰입형 번역은 고객님을 가장 잘 이해하며 가장 매끄러운 웹사이트 번역을 제공해주는 웹페이지 번역 확장 도구입니다. "
+  },
+  "page.index.headTitle": {
+    "message": "몰입형 번역 - 이중 언어 웹 페이지 번역 확장 프로그램_PDF 문서 번역 도구"
+  },
+  "page.index.title": {
+    "message": "몰입형 번역：높은 등급의 이중 언어 웹페이지 번역 플러그인"
+  },
+  "page.index.description": {
+    "message": "몰입형 번역을 통해 완전히 무료로 외국어 웹사이트, PDF 문서, EPUB 전자책을 번역하며 이중 언어 자막을 생성할 수 있습니다. 또한 해당 내용을 번역하는 데 OpenAI (ChatGPT), DeepL, Gemini 등과 같은 인공 지능 엔진을 자유롭게 선택할 수 있습니다. 스마트폰에서의 편리한 사용도 가능해 언제 어디서나 정보의 장벽을 허물 수 있습니다. 아래 플랫폼을 선택하여 즉시 경험해 보세요:) "
+  },
+  "page.index.downloadBtn.edge": {
+    "message": "엣지 확장"
+  },
+  "page.index.downloadBtn.chrome": {
+    "message": "Chrome 확장 프로그램"
+  },
+  "page.index.downloadBtn.firefox": {
+    "message": "Firefox 확장 프로그램"
+  },
+  "page.index.downloadBtn.safari": {
+    "message": "Safari 확장 프로그램"
+  },
+  "page.index.downloadBtn.userscript": {
+    "message": "템퍼몽키"
+  },
+  "page.index.downloadBtn.zip": {
+    "message": "Zip 설치 프로그램"
+  },
+  "page.index.downloadBtn.iosBrowser.tag": {
+    "message": "Built-in Extension"
+  },
+  "page.index.downloadBtn.iosBrowser": {
+    "message": "iOS 브라우저"
+  },
+  "page.index.downloadBtn.android.apk": {
+    "message": "안드로이드 앱"
+  },
+  "page.index.downloadBtn.android": {
+    "message": "안드로이드 브라우저 다운로드"
+  },
+  "page.index.supportservice.title": {
+    "message": "10개 이상의 번역 서비스 지원"
+  },
+  "page.index.usageCase.title": {
+    "message": "사용 시나리오"
+  },
+  "page.index.usageCase.twitter": {
+    "message": "트위터 부스팅 툴"
+  },
+  "page.index.usageCase.full": {
+    "message": "정보 접근성"
+  },
+  "page.index.usageCase.discord": {
+    "message": "커뮤니케이션"
+  },
+  "page.index.usageCase.pdf": {
+    "message": "PDF 문서 읽기"
+  },
+  "page.index.usageCase.video": {
+    "message": "비디오 이중 언어 자막"
+  },
+  "page.index.usageCase.video.desc": {
+    "message": "50개 이상의 비디오 사이트 자동 이중 언어 자막 지원"
+  },
+  "page.index.usageCase.twitter.desc": {
+    "message": "몰입형 번역을 통해 손쉽게 정보를 찾아보세요"
+  },
+  "page.index.usageCase.full.desc": {
+    "message": "효율적으로 정보를 얻고, 언어 제약에서 벗어나세요"
+  },
+  "page.index.usageCase.discord.desc": {
+    "message": "장벽 없는 신속한 커뮤니케이션"
+  },
+  "page.index.usageCase.pdf.desc": {
+    "message": "PDF 이중 언어 번역, 읽기 대상"
+  },
+  "page.index.moreFeature.title": {
+    "message": "더 많은 기능"
+  },
+  "page.index.moreFeature.epub": {
+    "message": "이중 언어 전자책 제작"
+  },
+  "page.index.moreFeature.subtitle": {
+    "message": "자막 번역"
+  },
+  "page.index.moreFeature.pdf": {
+    "message": "PDF 파일 번역"
+  },
+  "page.index.moreFeature.mousehover": {
+    "message": "마우스 오버 번역"
+  },
+  "page.index.Comments.title": {
+    "message": "커뮤니티 댓글"
+  },
+  "page.index.sponsor.title": {
+    "message": "후원해 주신 다음 브랜드에 특별히 감사드립니다."
+  },
+  "page.index.sponsor.desc1": {
+    "message": "API 설계, 개발 및 테스트를 위한 올인원 협업 플랫폼"
+  },
+  "page.index.sponsor.desc2": {
+    "message": "Apifox = Postman + Swagger + Mock + JMeter , 무료 사용."
+  },
+  "page.pricing.title": {
+    "message": "가격",
+    "description": "html的title，浏览器标签上会显示这个"
+  },
+  "page.pricing.description": {
+    "message": "몰입형 번역 프로 회원 가격",
+    "description": "html的mate信息，与seo相关，类似关键词"
+  },
+  "page.pricing.header.onboarding.title": {
+    "message": "몰입형 번역을 성공적으로 설치하신 것을 축하드립니다!"
+  },
+  "page.pricing.header.onboarding.intro": {
+    "message": "몰입형 번역을 처음 사용하시나요?"
+  },
+  "page.pricing.header.onboarding.usage": {
+    "message": "[시작까지 30초]"
+  },
+  "page.pricing.header.onboarding.or": {
+    "message": "또는"
+  },
+  "page.pricing.header.onboarding.try": {
+    "message": "영어 페이지를 직접 번역해 보세요"
+  },
+  "page.pricing.header.normal.title": {
+    "message": "평범한 기계 번역은 이제 그만!"
+  },
+  "page.pricing.header.normal.subtitle1": {
+    "message": "지금 바로 프로 멤버십으로 업그레이드하세요."
+  },
+  "page.pricing.header.normal.subtitle2": {
+    "message": "DeepL 및 OpenAI가 제공하는 정확하고 부드럽고 자연스러운 읽기 경험을 즐기세요."
+  },
+  "page.pricing.whydeepl.title": {
+    "message": "왜 DeepL 번역을 선택해야 하나요?"
+  },
+  "page.pricing.whydeepl.desc": {
+    "message": "DeepL은은 세계에서 가장 정확한 기계 번역으로 인정받고 있으며, 가장 가까운 경쟁사보다 <a href=\"{whydeeplUrl}\" target=\"_blank\"><b>3배 이상 정확합니다</b></a>."
+  },
+  "page.pricing.whydeepl.url": {
+    "message": "https://www.deepl.com/zh/whydeepl"
+  },
+  "page.pricing.whydeepl.en2de": {
+    "message": "영어 ⇄ 독일어"
+  },
+  "page.pricing.whydeepl.en2de.desc": {
+    "message": "6배 더 정확한"
+  },
+  "page.pricing.whydeepl.en2zh": {
+    "message": "영어 ⇄ 중국어"
+  },
+  "page.pricing.whydeepl.en2zh.desc": {
+    "message": "5배 더 정확한"
+  },
+  "page.pricing.whydeepl.en2ja": {
+    "message": "영어 ⇄ 일본어"
+  },
+  "page.pricing.whydeepl.en2ja.desc": {
+    "message": "6배 더 정확한"
+  },
+  "page.pricing.whydeepl.deeplvsMicrosoft": {
+    "message": "DeepL과 Microsoft 번역 비교 결과를 확인해 보세요👇👇"
+  },
+  "page.pricing.whydeepl.deeplcompare.deepl": {
+    "message": "DeepL"
+  },
+  "page.pricing.whydeepl.deeplcompare.microsoft": {
+    "message": "Microsoft 번역"
+  },
+  "page.pricing.whydeepl.deeplcompare.original": {
+    "message": "원본"
+  },
+  "page.pricing.whyopenai.title": {
+    "message": "왜 OpenAI 번역을 선택해야 하나요?"
+  },
+  "page.pricing.whyopenai.desc": {
+    "message": "GPT 기술<a href=\"{understandingGptUrl}\" target=\"_blank\">은 원래 번역</a>을 위해 만들어졌으며, 맥락을 이해하는 기능능을 갖추고 있습니다. <br/>OpenAI기반반 GPT는 가장 지능적인 언어 모델로, 특히 전문 용어를 이해하는 데에 뛰어납니다."
+  },
+  "page.pricing.whyopenai.openaivsGoogle": {
+    "message": "OpenAI와 Google 번역 비교 결과를 확인해 보세요👇👇"
+  },
+  "page.pricing.whyopenai.openaicompare.openai": {
+    "message": "OpenAI"
+  },
+  "page.pricing.whyopenai.openaicompare.google": {
+    "message": "Google 번역"
+  },
+  "page.pricing.vipnow.desc": {
+    "message": "지금<a href=\"{pricingUrl}\"> 프로 멤버십</a>을 개설하고 바로 사용 가능한 DeepL 및 OpenAI 번역을 즐겨보세요!"
+  },
+  "page.pricing.comment": {
+    "message": "우리의 말이 아닌, 사용자들의 말에 귀 기울여 보세요:"
+  },
+  "page.usegescenarios.meta.title": {
+    "message": "이중 언어 웹페이지 번역 - 전자책 번역 - PDF 번역 - 자막 번역 브라우저 확장 프로그램"
+  },
+  "page.usegescenarios.meta.desc": {
+    "message": "몰입형 번역은 이중 언어 번역을 위해 웹 페이지의 주요 콘텐츠 영역을 지능적으로 식별하는 브라우저 플러그인입니다. 이 플러그인은 모든 플랫폼 브라우저, PDF 파일 번역, EPUB 전자책 이중 언어 번역, 제작 및 내보내기, 자막 파일 번역 및 기타 기능을 지원합니다."
+  },
+  "page.usegescenarios.title": {
+    "message": "몰입형 번역 사용 시나리오<br/>장 씨의 하루 일과"
+  },
+  "page.usegescenarios.desc": {
+    "message": "장 씨의 사례를 통해 더 많은 사용 시나리오를 보여드릴 수 있기를 바라며, 몰입형 번역이 사용자의 직장 생활에서 더 많은 가치를 제공할 수 있기를 바랍니다."
+  },
+  "page.usegescenarios.content1.title": {
+    "message": "8:00 이중 언어 뉴스 읽기 시작"
+  },
+  "page.usegescenarios.content1.desc": {
+    "message": "장 씨는 로이터, 뉴욕타임즈, 이코노미스트, 애틀랜틱 등 세계적으로 인정받는 미디어 소스에서 직접 정보에 접근하는 습관을 기르며 하루를 시작합니다. 그가 해외 콘텐츠 탐색을 위해 자주 사용하는 플랫폼은 Kadaza.com 와 Buzzing.cc 입니다. 몰입형 번역의 단락 이중 언어 비교 기능 덕분에 그의 읽기 효율성은 크게 향상되었습니다. 번역이 원활하지 않은 문장을 발견하면, 정보를 더 잘 이해하기 위해 원문을 직접 참조할 수 있습니다."
+  },
+  "page.usegescenarios.content2.title": {
+    "message": "9:00 '입력 상자 번역' 기능 사용하기"
+  },
+  "page.usegescenarios.content2.desc": {
+    "message": "몰입형 번역의 입력 상자 번역 기능은 장 씨에게 큰 편의를 제공합니다. 그는 구글 검색 상자에 한국어 질문을 입력한 다음 스페이스 바를 세 번 클릭하기만 하면 검색 상자에 있는 질문이 즉시 영어로 번역됩니다. 검색 결과의 이중 언어 번역 기능을 통해 장 씨의 정보 검색 효율성이 전례없는 수준으로 향상되었습니다! "
+  },
+  "page.usegescenarios.content3.title": {
+    "message": "10:00 ChatGPT와의 대화"
+  },
+  "page.usegescenarios.content3.desc": {
+    "message": "인공지능의 시대에, 장 씨는 ChatGPT, 바드, 디스코드, 텔레그램과 같은 플랫폼에서 매일 기계 또는 실제 사람과 대화합니다. 몰입형 번역기 덕분에 어떤 웹페이지의 입력 상자도 강력한 다국어 번역기로 변신합니다. 결과적으로 장 씨의 한국어 검색은 신속하게 영어로 번역되어 ChatGPT로 전송되고 ChatGPT의 응답은 실시간으로 원활하게 한국어로 다시 번역됩니다."
+  },
+  "page.usegescenarios.content4.title": {
+    "message": "11:00 글로벌 금융 정보 획득"
+  },
+  "page.usegescenarios.content4.desc": {
+    "message": "직장에서 장 씨는 최신 글로벌 금융 및 기술 정보에 액세스하기 위해 Chrome 브라우저의 데스크톱 버전을 사용하는 것을 선호합니다. 그는 Bloomberg, Yahoo Finance, The Wall Street Journal 및 Financial Times와 같은 금융 매체의 독점 뉴스를 눈여겨보고 있습니다. 최근 그는 Nvidia와 Bitcoin의 성능에 주목하고 있는데, 이 두 가지 모두 상당히 인상적입니다. 몰입형 번역기의 도움으로 그는 다양한 재무 보고서, 발표 및 연구 논문을 두 언어로 쉽게 읽을 수 있어 중요한 금융 정보를 다른 사람들보다 앞서 얻을 수 있습니다."
+  },
+  "page.usegescenarios.content5.title": {
+    "message": "12:30 해외 소셜 미디어 이슈 탐색"
+  },
+  "page.usegescenarios.content5.desc": {
+    "message": "쉬는 시간에 장 씨는 자신의 모바일 기기(iOS의 Safari 브라우저나 Android의 Firefox 브라우저 등)에서 몰입형 번역을 사용합니다. 그는 트위터, 레딧, 유튜브와 같은 국제적인 주류 소셜 미디어 플랫폼을 탐색하여 글로벌 사상 리더들과 교류합니다. 그는 모든 중요한 정보를 정확하게 습득해 지식의 최전선을 유지하도록 보장합니다."
+  },
+  "page.usegescenarios.content6.title": {
+    "message": "15:30 위키피디아로 지식 검색하기"
+  },
+  "page.usegescenarios.content6.desc": {
+    "message": "장 씨는 또한 영어 위키백과의 품질이 다른 언어의 품질보다 훨씬 높다는 것을 알게 된 후, 관심 있는 지식을 이중 언어로 얻기 위해 영어 위키백과를 자주 찾습니다."
+  },
+  "page.usegescenarios.content7.title": {
+    "message": "16:00 PDF 실시간 번역 잠금 해제"
+  },
+  "page.usegescenarios.content7.desc": {
+    "message": "가끔 장 씨는는 arXiv에서 최신 PDF 논문을 읽곤 하는데, 몰입형 번역기만의 실시간 PDF 파일 번역 기능으로 최신 학술 뉴스를 즉시 파악할 수 있습니다."
+  },
+  "page.usegescenarios.content8.title": {
+    "message": "20:00 이중 언어 전자책 읽기"
+  },
+  "page.usegescenarios.content8.desc": {
+    "message": "독서를 좋아하는 장 씨는 종종 해외의 GoodReads 도서 탐색 사이트에 들어가 최신 도서를 찾고 리뷰를 확인한 다음 외국어 도서의 한국어어 버전이 서점에 출시되기를 기다립니다. 하지만 지난달부터 그는 구글북스에서 직접 외국어 버전의 \"Chip War\"이라는 서적을 구매한 다음 클릭 한 번으로 몰입형 번역기에 업로드한 후, Kindle로 내보내기하여 이중 언어 전자책을 읽기 시작했습니다."
+  },
+  "page.usegescenarios.content9.title": {
+    "message": "21:00 미국 드라마, 유튜브, 테드 토크 시청!"
+  },
+  "page.usegescenarios.content9.desc": {
+    "message": "장 씨는 가끔 미국 TV 쇼를 시청하기도 합니다. 이전에는 자막 팀이 번역하기를 인내심 있게 기다려야 했지만, 이제 그는 몰입형 번역을 사용하여 클릭 한 번으로 모든 자막 파일에 대한 이중 언어 자막을 생성하여 글로벌 시청자들을 따라잡을 수 있습니다. 몰입형 번역은 유튜브 영상 자막의 실시간 번역 또한 세심하게 지원합니다. 장 씨는 유튜브에서 테드 토크(Ted Talks)를 볼 수 있고, 댓글 섹션에서 다른 시청자들과 상호 작용할 수 있으며, 이중 언어 자막과 함께 미국 TV 쇼를 즐길 수 있어 자막이 번역되기를 기다릴 필요가 없습니다."
+  },
+  "page.usegescenarios.content10.title": {
+    "message": "23:00 취침 전 행복한 온라인 쇼핑 즐기기"
+  },
+  "page.usegescenarios.content10.desc": {
+    "message": "매년 열리는 블랙 프라이데이 쇼핑 행사는 장 씨의 가장 기대되는 글로벌 온라인 쇼핑 행사입니다. 그는 Amazon과 eBay에서 각 제품의 특징, 가격 및 실제 사용자 리뷰를 철저히 조사합니다. 몰입형 번역 덕분에 장 씨는 이 모든 과정을 쉽게 처리할 수 있으며, 가장 효율적인 쇼핑을 할 수 있도록 합니다. "
+  },
+  "page.features.videoSubtitle.page.title": {
+    "message": "이중 언어 비디오 번역"
+  },
+  "page.features.videoSubtitle.page.keywords": {
+    "message": "자막 번역기, 자막 번역, 자막 번역, 자막 번역기, 비디오를 영어 자막으로 번역하기"
+  },
+  "page.features.videoSubtitle.page.description": {
+    "message": "비디오 이중 언어 번역, 유튜브 번역, 비디오 이중 언어 자막, 비디오 번역 플러그인"
+  },
+  "page.features.videoSubtitle.content.title": {
+    "message": "온라인 비디오 이중 언어 자막 번역 "
+  },
+  "page.features.videoSubtitle.content.description": {
+    "message": "몰입형 번역은 무료 온라인 동영상 이중언어 자막 번역 서비스를 제공하며, 광범위한 주류 동영상 플랫폼(Youtube, NetFlix, Twitter Spaces, HBO Max, Vimeo, Khan Academy, Coursera, Udemy, Bloomberg, Nebula, Bilibili 등)을 지원하며, 지원 플랫폼은 지속적으로 확대되고 있습니다. 몰입형 번역은 수십 개 언어로 된 이중언어 자막 번역을 지원하며, 영상 프로세스에 따라 실시간으로 표시됩니다. 예를 들어 스페인어와 영어 자막이 있는 YouTube 및 NetFlix 동영상을 볼 때, 자막이 자동으로 생성되어 실시간으로 번역됩니다. 이중 언어 자막 제어는 언어 장벽을 뛰어넘어 전 세계 여러 언어의 생각과 충돌하도록 안내합니다."
+  },
+  "page.features.videoSubtitle.content.supportSite": {
+    "message": "지원 사이트"
+  },
+  "page.features.introduction": {
+    "message": "장점"
+  },
+  "page.features.videoSubtitle.content.introduction1.title": {
+    "message": "빠르고 편리함"
+  },
+  "page.features.videoSubtitle.content.introduction1.desc": {
+    "message": "동영상 자막을 거의 즉시 번역하여 외국어 동영상의 내용을 빠르게 이해할 수 있도록 도와줍니다."
+  },
+  "page.features.videoSubtitle.content.introduction2.title": {
+    "message": "다국어 지원"
+  },
+  "page.features.videoSubtitle.content.introduction2.desc": {
+    "message": "더 이상 비디오 스테이션에서 제공하는 단일 자막 언어에 국한되지 않고 여러 언어 쌍의 번역이 지원됩니다."
+  },
+  "page.features.videoSubtitle.content.introduction3.title": {
+    "message": "간단하고 쉬운 사용"
+  },
+  "page.features.videoSubtitle.content.introduction3.desc": {
+    "message": "플러그인은 사용하기 쉽고, '이중 언어 자막 자동 켜기' 확인란을 선택하면 언제 어디서나 이중 언어 자막이 있는 동영상을 시청할 수 있습니다."
+  },
+  "page.features.videoSubtitle.content.introduction4.title": {
+    "message": "플랫폼 간 호환성"
+  },
+  "page.features.videoSubtitle.content.introduction4.desc": {
+    "message": "모바일 자막을 지원하지 않는 일부 비디오 스테이션을 제외하고 플러그인은 멀티엔드(예: 휴대폰, 태블릿, 컴퓨터 등)에서 사용할 수 있도록 지원합니다."
+  },
+  "page.features.usage": {
+    "message": "사용 시나리오"
+  },
+  "page.features.videoSubtitle.content.usage1.title": {
+    "message": "다국어 지원"
+  },
+  "page.features.videoSubtitle.content.usage1.desc": {
+    "message": "언어 학습자는 이해를 돕기 위해 실시간 번역이 제공되는 오리지널 비디오 콘텐츠를 시청하며 언어 능력을 향상시킬 수 있습니다."
+  },
+  "page.features.videoSubtitle.content.usage2.title": {
+    "message": "온라인 교육"
+  },
+  "page.features.videoSubtitle.content.usage2.desc": {
+    "message": "학생들은 다른 언어로 된 교육 비디오를 시청하고 이중 언어 자막을 통해 강의 내용을 더 잘 이해할 수 있습니다."
+  },
+  "page.features.videoSubtitle.content.usage3.title": {
+    "message": "영화 및 TV 시리즈 따라잡기"
+  },
+  "page.features.videoSubtitle.content.usage3.desc": {
+    "message": "시청자가 외국어 영화와 TV 프로그램을 시청할 때 소프트웨어가 실시간으로 이중 언어 자막으로 번역해 주므로 누구나 더 이상 언어 장벽의 제약을 받지 않게 됩니다."
+  },
+  "page.features.videoSubtitle.content.usage4.title": {
+    "message": "문화 간 교류"
+  },
+  "page.features.videoSubtitle.content.usage4.desc": {
+    "message": "해당 소프트웨어를 통해 다른 문화와 국가의 비디오 콘텐츠를 시청함으로써 문화적 이해와 교류를 증진할 수 있습니다."
+  },
+  "page.features.videoSubtitle.content.usage5.title": {
+    "message": "여행 준비"
+  },
+  "page.features.videoSubtitle.content.usage5.desc": {
+    "message": "여행자는 여행지 국가의 동영상 콘텐츠를 시청하며 현지 문화와 언어 습관을 미리 배울 수 있습니다."
+  },
+  "page.features.videoSubtitle.content.usage6.title": {
+    "message": "신문 보도"
+  },
+  "page.features.videoSubtitle.content.usage6.desc": {
+    "message": "사용자는 현지 언어로 자막이 제공되지 않더라도 외국 뉴스 보도 및 시사 프로그램을 시청할 수 있습니다."
+  },
+  "page.features.videoSubtitle.content.usage7.title": {
+    "message": "비즈니스 연구"
+  },
+  "page.features.videoSubtitle.content.usage7.desc": {
+    "message": "기업 연구원은 해외 시장의 광고 및 홍보 동영상을 시청하여 경쟁사와 시장 역학 관게를 더 잘 이해할 수 있습니다."
+  },
+  "page.features.howtouse": {
+    "message": "사용 방법"
+  },
+  "page.features.howtouse.installstep": {
+    "message": "1. 플러그인을 설치합니다."
+  },
+  "page.features.howtouse.installstep.desc": {
+    "message": "자세한 설치 정보는<a href=\"{installDocUrl}\">여기에서 확인</a>"
+  },
+  "page.features.howtouse.videoSubtitle.step2": {
+    "message": "2. '이중 언어 자막 자동 켜기'를 선택합니다."
+  },
+  "page.features.howtouse.videoSubtitle.step3": {
+    "message": "3. 비디오 스테이션에서 자막을 켭니다."
+  },
+  "page.features.howtouse.videoSubtitle.step4": {
+    "message": "4. 몰입형 번역 사용."
+  },
+  "page.features.downloadnow": {
+    "message": "다양한 플랫폼을 지원하는 몰입형 번역, 지금 바로 사용하세요!"
+  },
+  "page.features.AddToBrowser": {
+    "message": "브라우저에 추가"
+  },
+  "page.features.shareBilingualContent.page.title": {
+    "message": "이중 언어 콘텐츠 공유 - 몰입형 번역"
+  },
+  "page.features.shareBilingualContent.page.description": {
+    "message": "이중 언어 콘텐츠 공유"
+  },
+  "page.features.shareBilingualContent.content.title": {
+    "message": "이중 언어 단어 콘텐츠 공유 - 몰입 번역"
+  },
+  "page.features.shareBilingualContent.content.description": {
+    "message": "몰입형 번역은 번역된 이중 언어 콘텐츠의 공유를 지원하며, 공유 콘텐츠는 원본 사이트의 스타일을 유지하여 사람들이 더 많은 양질의 콘텐츠를 찾을 수 있도록 도와줍니다."
+  },
+  "page.features.shareBilingualContent.content.introduction1.title": {
+    "message": "쉬운 학습"
+  },
+  "page.features.shareBilingualContent.content.introduction1.desc": {
+    "message": "언어를 배우는 사용자의 경우, 이중 언어 페이지를 공유하면 스터디 파트너와 소통하고 서로 배울 수 있어 언어 학습의 효율성이 향상됩니다."
+  },
+  "page.features.shareBilingualContent.content.introduction2.title": {
+    "message": "교류 촉진"
+  },
+  "page.features.shareBilingualContent.content.introduction2.desc": {
+    "message": "사용자는 번역된 콘텐츠를 다른 언어 배경을 가진 친구들과 공유하여 문화 간 소통과 이해를 증진할 수 있습니다."
+  },
+  "page.features.shareBilingualContent.content.introduction3.title": {
+    "message": "시간 절약"
+  },
+  "page.features.shareBilingualContent.content.introduction3.desc": {
+    "message": "동일한 웹 콘텐츠를 다시 번역할 필요 없이 다른 사용자가 공유 링크를 통해 바로 이중 언어 콘텐츠에 액세스할 수 있으므로 시간을 절약할 수 있습니다."
+  },
+  "page.features.shareBilingualContent.content.introduction4.title": {
+    "message": "편리하고 빠름"
+  },
+  "page.features.shareBilingualContent.content.introduction4.desc": {
+    "message": "사용자는 소셜 미디어, 이메일 또는 인스턴트 메신저를 통해 이중 언어 페이지를 쉽게 공유할 수 있습니다."
+  },
+  "page.features.shareBilingualContent.content.introduction5.title": {
+    "message": "콘텐츠 백업"
+  },
+  "page.features.shareBilingualContent.content.introduction5.desc": {
+    "message": "사용자는 공유 기능을 통해 중요한 이중 언어 콘텐츠를 다른 플랫폼에 저장하여 백업으로 사용할 수 있습니다."
+  },
+  "page.features.shareBilingualContent.content.usage1.title": {
+    "message": "교육 학습"
+  },
+  "page.features.shareBilingualContent.content.usage1.desc": {
+    "message": "학생들은 이중 언어 페이지를 반 친구나 선생님과 공유하여 원문과 번역본을 비교하며 외국어를 학습할 때 이해의 폭을 넓힐 수 있습니다."
+  },
+  "page.features.shareBilingualContent.content.usage2.title": {
+    "message": "여행 계획"
+  },
+  "page.features.shareBilingualContent.content.usage2.desc": {
+    "message": "여행자는 여행지에 대한 여행 정보나 팁을 다른 여행자들과 이중 언어 형태로 공유하여 쉽게 여행 계획을 세울 수 있습니다."
+  },
+  "page.features.shareBilingualContent.content.usage3.title": {
+    "message": "스토리"
+  },
+  "page.features.shareBilingualContent.content.usage3.desc": {
+    "message": "뉴스 실무자나 독자는 국제 뉴스의 이중 언어 상호 참조를 공유하여 독자가 해외 언론의 보도를 더 잘 이해할 수 있도록 도울 수 있습니다."
+  },
+  "page.features.shareBilingualContent.content.usage4.title": {
+    "message": "소셜 미디어"
+  },
+  "page.features.shareBilingualContent.content.usage4.desc": {
+    "message": "사용자는 흥미롭거나 중요한 이중 언어 웹 콘텐츠를 소셜 미디어에 공유하여 더 많은 이중 언어 독자에게 어필할 수 있습니다."
+  },
+  "page.features.shareBilingualContent.content.usage5.title": {
+    "message": "학술 연구"
+  },
+  "page.features.shareBilingualContent.content.usage5.desc": {
+    "message": "연구자는 학술 논문이나 연구 보고서의 이중 언어 요약을 공유하여 전 세계 동료들이 연구의 요점을 빠르게 파악할 수 있도록 도울 수 있습니다."
+  },
+  "page.features.shareBilingualContent.content.usage6.title": {
+    "message": "출입국 관리 서비스"
+  },
+  "page.features.shareBilingualContent.content.usage6.desc": {
+    "message": "이민 서비스 기관은 정부 정책, 법률 및 규정에 대한 이중 언어 페이지를 공유하여 신규 이민자들이 새로운 환경을 더 잘 이해하고 적응할 수 있도록 도울 수 있습니다."
+  },
+  "page.features.howtouse.shareBilingualContent.step2": {
+    "message": "2. 몰입형 번역 사용."
+  },
+  "page.features.howtouse.shareBilingualContent.step3": {
+    "message": "3. 공유를 클릭합니다."
+  },
+  "page.features.howtouse.shareBilingualContent.step4": {
+    "message": "4. 공유할 콘텐츠 확인"
+  },
+  "page.features.pdfTralslate.page.title": {
+    "message": "PDF 번역"
+  },
+  "page.features.pdfTralslate.page.keywords": {
+    "message": "pdf 번역, pdf 번역기, pdf를 영어로 번역, pdf 문서 번역, pdf 번역, pdf를 번역, pdf를 번역하는 방법, pdf 문서 번역기, pdf 문서 번역하기, pdf를 영어로 번역, pdf를 영어로 번역, pdf 번역, 독일어를 영어 pdf로 번역, 영문 pdf 번역기, pdf를 스페인어로 번역, pdf 번역, pdf 문서를 영어로 번역, pdf를 번역하는 방법, pdf 문서 번역, pdf 영어 번역, 무료 pdf 번역기"
+  },
+  "page.features.pdfTralslate.page.description": {
+    "message": "몰입형 번역 확장기는 무료 온라인 PDF 번역기 서비스를 제공합니다. PDF 문서와 ePub eBook을 영어, 스페인어 또는 기타 다른 언어로 번역하는 데 사용할 수 있습니다. 번역된 문서는 원본 레이아웃을 유지하여 이중 언어 문서 번역을 지원하고 사용자가 이중 언어 번역이 포함된 문서를 다운로드하거나 단순히 번역된 문장만 있는 버전 중에서 선택할 수 있도록 합니다. 해당 시나리오에는 PDF 형식과 ePub 형식 모두에 대해 외국어 문헌, 학술 논문, 제품 설명서, 법률 계약 등의 번역이 포함되지만 이에 국한되지는 않습니다. 또한 사용자는 전문 문서의 보다 정확한 번역을 보장하기 위해 OpenAI(ChatGPT), DeepL, Gemini 및 기타 널리 알려진 인공 지능 번역 엔진을 포함한 다양한 주류 번역 엔진 중에서 선택할 수 있습니다."
+  },
+  "page.features.pdfTralslate.content.title": {
+    "message": "PDF & EPUB전자책 번역"
+  },
+  "page.features.pdfTralslate.content.description": {
+    "message": "몰입형 번역은 PDF와 ePub eBook 번역을 위한 무료 온라인 서비스를 제공합니다. 해당 서비스는 원본 문서의 서식이 보존되도록 보장하고 이중 언어 비교 번역 또는 번역된 텍스트만을 다운로드할 수 있는 유연성을 제공합니다. <br/>해당 서비스는 해외 문헌 PDF, 학술 논문, 제품 설명서, 해외 계약을 포함한 광범위한 용도를 위해 설계되었습니다. <br/>사용자는 OpenAI(ChatGPT), DeepL, Gemini 및 매우 호평을 받고 있는 인공 지능 번역 엔진을 선택하여 전문 문서를 보다 정확하게 번역할 수 있습니다."
+  },
+  "page.features.pdfTralslate.content.introduction1.title": {
+    "message": "이해도 향상"
+  },
+  "page.features.pdfTralslate.content.introduction1.desc": {
+    "message": "이중 언어 상호 참조는 특히 새로운 언어를 학습할 때 사용자가 원본 콘텐츠와 번역된 텍스트 간의 대응을 더 잘 이해할 수 있도록 도와줍니다."
+  },
+  "page.features.pdfTralslate.content.introduction2.title": {
+    "message": "효율성 향상"
+  },
+  "page.features.pdfTralslate.content.introduction2.desc": {
+    "message": "사용자는 원문과 번역본을 상호 참조하기 위해 여러 문서나 애플리케이션을 전환할 필요가 없어 많은 시간과 노력을 절약할 수 있습니다."
+  },
+  "page.features.pdfTralslate.content.introduction3.title": {
+    "message": "간편한 교정"
+  },
+  "page.features.pdfTralslate.content.introduction3.desc": {
+    "message": "번역 결과가 원문 바로 옆에 표시되므로 사용자가 쉽게 교정하고 비교할 수 있으며, 번역 문제가 발생했을 때 원문을 빠르게 참조할 수 있습니다."
+  },
+  "page.features.pdfTralslate.content.introduction4.title": {
+    "message": "형식 유지"
+  },
+  "page.features.pdfTralslate.content.introduction4.desc": {
+    "message": "PDF 콘텐츠를 번역하여 기본적으로 변경되지 않은 원본 형식을 유지하면서 콘텐츠 표시 크기를 사용자 지정할 수 있어 완전한 정보 획득에 더욱 도움이 됩니다."
+  },
+  "page.features.pdfTralslate.content.introduction5.title": {
+    "message": "폭넓은 적용성"
+  },
+  "page.features.pdfTralslate.content.introduction5.desc": {
+    "message": "통제된 읽기가 특히 중요한 학술 연구, 비즈니스 보고서, 법률 문서 등 다양한 맥락에서 사용할 수 있습니다."
+  },
+  "page.features.pdfTralslate.content.usage1.title": {
+    "message": "학술 연구"
+  },
+  "page.features.pdfTralslate.content.usage1.desc": {
+    "message": "연구자들은 이 소프트웨어를 사용하여 외국어 문헌을 번역함으로써 국제 학술 자료를 더 잘 이해하고 인용할 수 있습니다."
+  },
+  "page.features.pdfTralslate.content.usage2.title": {
+    "message": "국제 비즈니스"
+  },
+  "page.features.pdfTralslate.content.usage2.desc": {
+    "message": "비즈니스 담당자는 계약서, 보고서 및 기타 비즈니스 문서를 번역하여 국경 간 거래에서 파트너의 문서 내용을 정확하게 이해할 수 있습니다."
+  },
+  "page.features.pdfTralslate.content.usage3.title": {
+    "message": "법률 실무"
+  },
+  "page.features.pdfTralslate.content.usage3.desc": {
+    "message": "변호사 또는 법률 전문가가 법률 문서와 판례 자료를 번역하여 국제 법률 문제에 도움을 줄 수 있습니다."
+  },
+  "page.features.pdfTralslate.content.usage4.title": {
+    "message": "교육 학습"
+  },
+  "page.features.pdfTralslate.content.usage4.desc": {
+    "message": "학생과 교사는 교과서, 학술 논문 또는 교재를 번역하여 언어 학습이나 국제 프로그램 교육을 지원할 수 있습니다."
+  },
+  "page.features.pdfTralslate.content.usage5.title": {
+    "message": "여행 가이드"
+  },
+  "page.features.pdfTralslate.content.usage5.desc": {
+    "message": "여행자는 해외 여행 시 현지 정보를 더 잘 이해할 수 있도록 가이드북과 지도를 번역할 수 있습니다."
+  },
+  "page.features.pdfTralslate.content.usage6.title": {
+    "message": "출입국 서류"
+  },
+  "page.features.pdfTralslate.content.usage6.desc": {
+    "message": "이민자나 난민은 출생증명서, 결혼증명서 등 중요한 개인 서류를 신청 절차에 사용할 수 있도록 관련 서류의 번역을 제공합니다. "
+  },
+  "page.features.pdfTralslate.content.usage7.title": {
+    "message": "문화 교류"
+  },
+  "page.features.pdfTralslate.content.usage7.desc": {
+    "message": "문화 간의 이해와 교류를 촉진하기 위한 문학 작품, 예술 비평 또는 역사 문서의 번역."
+  },
+  "page.features.pdfTralslate.content.usage8.title": {
+    "message": "기술 매뉴얼"
+  },
+  "page.features.pdfTralslate.content.usage8.desc": {
+    "message": "엔지니어와 기술자는 운영 매뉴얼과 기술 사양을 번역하여 해외에서 구매한 장비를 작동하고 유지보수하는 데 도움을 받을 수 있습니다."
+  },
+  "page.features.pdfTralslate.content.usage9.title": {
+    "message": "뉴스 미디어"
+  },
+  "page.features.pdfTralslate.content.usage9.desc": {
+    "message": "기자 및 편집자는 해외 뉴스 기사와 기사를 번역하여 독자들에게 보다 폭넓은 국제적 관점을 제공할 수 있습니다."
+  },
+  "page.features.pdfTralslate.content.usage10.title": {
+    "message": "컨퍼런스 및 세미나"
+  },
+  "page.features.pdfTralslate.content.usage10.desc": {
+    "message": "주최자는 회의 자료와 프레젠테이션을 번역하여 참가자들이 언어의 장벽을 뛰어넘어 보다 효과적으로 토론에 참여할 수 있도록 지원할 수 있습니다."
+  },
+  "page.features.howtouse.pdfTralslate.step2": {
+    "message": "2. 로컬 PDF 번역본을 엽니다."
+  },
+  "page.features.howtouse.pdfTralslate.step3": {
+    "message": "3. 로컬 PDF 파일을 드래그하면 플러그인이 자동으로 이중 언어 교차 번역을 수행합니다."
+  },
+  "page.android.title": {
+    "message": "몰입형 번역 브라우저 - 안드로이드 다운로드"
+  },
+  "page.android.desc": {
+    "message": "박스를 열자마자 사용 가능한 몰입형 번역"
+  },
+  "page.android.pageTitle": {
+    "message": "다운로드가 이미 시작되었습니다.."
+  },
+  "page.android.download.desc": {
+    "message": "시작하지 않았다면, 클릭할 수 있습니다."
+  },
+  "page.android.download.text": {
+    "message": "여기에서 수동으로 다운로드하세요."
+  },
+  "page.android.content": {
+    "message": "몰입형 번역 안드로이드 브라우저에는 이미 몰입형 번역 확장 프로그램이 사전 설치되어 있으며, 설치 후 바로 사용할 수 있습니다. (주의: 일부 국산 휴대폰에서 설치 시 보안 위험을 경고하는 경우(이는 일괄적인 경고입니다), [보안 위험을 인지하였습니다] [계속 설치]를 선택하십시오.)"
+  },
+  "page.index.InValidChrome": {
+    "message": "chrome 커널 버전 {version}이 너무 낮습니다. 브라우저를 최신 버전으로 업그레이드해 주세요."
+  },
+  "page.download.title": {
+    "message": "원클릭으로 {hlStart}이중 언어{hlEnd} 읽기를 시작하고, 정보 획득 효율성을 향상시키세요."
+  },
+  "page.download.subtitle": {
+    "message": "<b>\"몰입형 번역\"</b>이라는 단어는 우리가 발명하고 창조했습니다. 이제는 <b>\"이중 언어 대조 번역\"</b>의 대명사가 되었습니다. 2023년에 출시된 이 많은 칭찬을 받은 AI 이중 언어 대조 웹 페이지 번역 확장 프로그램은 100만 이상의 사용자가 언어 장벽을 넘어 전 세계의 지혜를 자유롭게 흡수하는 데 도움을 주었습니다. 우리는 언어 장벽을 깨는 것이 정보 평등을 촉진하는 것이라고 확신합니다."
+  },
+  "page.download.web.title": {
+    "message": "웹페이지 이중 언어 대조 번역"
+  },
+  "page.download.web.subtitle": {
+    "message": "우리는 수백만 사용자들에게 이중 언어 웹 페이지 읽기 경험을 성공적으로 보급했습니다. 업계의 선두주자로서, 몰입형 번역은 DeepL, OpenAI, 구글 번역을 포함한 10여 가지 업계 최고의 번역 엔진이 내장되어 있습니다. 이는 국내외 모든 동류 제품 중에서 번역 엔진을 가장 많이 지원하는 도구입니다."
+  },
+  "page.download.videoSub.title": {
+    "message": "비디오 이중 언어 자막"
+  },
+  "page.download.videoSub.subtitle": {
+    "message": "몰입형 번역은 먼저 50개 이상의 해외 주요 비디오 웹사이트의 이중 언어 실시간 자막을 지원합니다. 이중 언어 자막이 있으면 비디오 내용을 완전히 이해할 수 있을 뿐만 아니라 영화를 보는 과정에서 자연스럽게 외국어를 배울 수 있습니다. 원본 외국어 음성과 모국어 자막의 조합으로, 당신은 무심코 듣기, 말하기, 읽기, 쓰기 능력을 향상시킬 수 있습니다."
+  },
+  "page.download.pdf.title": {
+    "message": "PDF 대조 번역"
+  },
+  "page.download.pdf.subtitle": {
+    "message": "몰입형 번역은 브라우저 플러그인에 무료 PDF 문서 대조 번역 기능을 혁신적으로 도입했습니다. 외국어 학술 논문을 읽어야 하든, 다국어 비즈니스 문서를 처리해야 하든, 몰입형 번역을 통해 한 번의 클릭으로 고품질의 번역 결과를 얻을 수 있습니다."
+  },
+  "page.download.pdfpro.title": {
+    "message": "PDF PRO"
+  },
+  "page.download.pdfpro.subtitle": {
+    "message": "AI가 구동하는 <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF 번역</a>은 가장 복잡한 PDF 파일에 대응하기 위해 설계되었습니다. 전문 용어가 가득한 학술 논문이든, 복잡한 표와 이미지가 포함된 다양한 문서든, AI가 구동하는 PDF 분석 기술은 이러한 내용을 효율적이고 정확하게 분석할 수 있도록 보장합니다."
+  },
+  "page.download.ePub.title": {
+    "message": "ePub 전자책 이중 언어 번역"
+  },
+  "page.download.ePub.subtitle": {
+    "message": "몰입형 번역을 사용하면 매우 손쉽게게 ePub 형식의 이중 언어 전자책을 제작할 수 있습니다! 클릭 한 번으로 외국어 전자책을 이중 언어 버전으로 즉시 변환하여 다양한 전자책 리더기에서 몰입형 리딩 경험을 즐길 수 있습니다."
+  },
+  "page.download.mouse.title": {
+    "message": "마우스 호버 번역"
+  },
+  "page.download.mouse.subtitle": {
+    "message": "몰입형 번역은 또 다른 혁신적인 상호작용 마우스 호버 번역을 제공합니다. 어떤 문단에서나 마우스를 올리고 미리 설정된 단축키(예: Ctrl)를 누르면 현재 문단의 번역이 문단 뒤에 바로 나타납니다."
+  },
+  "page.download.input.title": {
+    "message": "입력 상자 번역"
+  },
+  "page.download.input.subtitle": {
+    "message": "모든 입력 상자에서 텍스트를 직접 입력하고 (예: \"안녕 세상\"), 빠르게 스페이스 키를 3번 누르면 텍스트가 목표 언어로 번역됩니다 (기본값은 영어이며, 사용자 정의 가능). 이 혁신적인 상호 작용 방식은 검색, 쓰기, 대화 등 모든 종류의 페이지에 적용되며, 전환할 필요 없이 즉시 번역을 완료할 수 있습니다."
+  },
+  "page.viewDownload.title": {
+    "message": "몰입형 번역, 한 번의 클릭으로 {hlStart}이중 언어{hlEnd} 읽기를 시작하세요"
+  },
+  "page.viewDownload.button": {
+    "message": "즉시 다운로드"
+  },
+  "page.index.downloadBtn.installExtension": {
+    "message": "브라우저 플러그인 설치"
+  },
+  "page.index.downloadBtn.orUseOnMobile": {
+    "message": "혹은 바로 휴대폰에서 사용하세요."
+  },
+  "page.index.downloadBtn.useOnMobile": {
+    "message": "휴대폰에서 사용하기"
+  },
+  "page.index.downloadBtn.macSafari": {
+    "message": "Mac Safari 확장 기능"
+  },
+  "page.index.downloadBtn.iosSafari": {
+    "message": "iOS Safari 확장 기능"
+  },
+  "page.index.downloadBtn.iosSafariExtension.tag": {
+    "message": "수동으로 활성화해야 합니다"
+  },
+  "page.features.videoSubtitle.content.allSupportSite": {
+    "message": "지원되는 모든 플랫폼 확인"
+  },
+  "pro.introduction.title": {
+    "message": "{{ai}}를 사용하여 당신의 {{pdf}} 문서 번역 경험을 재구성하십시오."
+  },
+  "pro.advantage.formula": {
+    "message": "수식 인식"
+  },
+  "pro.advantage.formula.description": {
+    "message": "고급 AI 기술을 활용하여, 가장 복잡한 수학 및 과학 공식조차도 정확하게 인식하여 정확한 번역을 제공할 수 있습니다."
+  },
+  "pro.advantage.table": {
+    "message": "표 인식"
+  },
+  "pro.advantage.table.description": {
+    "message": "PDF에서 테이블의 중요성을 깊이 이해하고 있으며, 저희가 사용하는 AI 기능은 테이블에 광범위하게 최적화되어 문서에서 테이블을 원활하게 인식하고 번역할 수 있게 되었습니다."
+  },
+  "pro.advantage.ocr": {
+    "message": "OCR 이미지 인식"
+  },
+  "pro.advantage.ocr.description": {
+    "message": "최신 OCR (광학 문자 인식) 기술을 활용하여, 우리의 PDF 번역은 이미지에서 텍스트를 인식하고, 그것을 편집 가능하고 번역 가능한 텍스트로 변환할 수 있습니다."
+  },
+  "pro.advantage.columns": {
+    "message": "이중 레이아웃, 삼중 레이아웃 효과"
+  },
+  "pro.advantage.columns.description": {
+    "message": "몰입형 PDF 번역 도구는 이중 및 삼중 레이아웃에 대한 지원을 특별히 설계하였으며, 문서 내의 복잡한 레이아웃을 인식할 수 있습니다. 이는 가장 복잡한 형식의 학술 논문조차도 몰입형 번역 시스템이 정확하게 분석하고 번역할 수 있다는 것을 의미합니다."
+  },
+  "pro.feat.html": {
+    "message": "HTML로 내보내기"
+  },
+  "pro.feat.html.description": {
+    "message": "우리의 원칙은 PDF를 완벽하게 HTML로 변환한 후 번역하는 것입니다. 그래서 번역된 HTML을 저장하여 어떤 장치에서든 읽을 수 있습니다."
+  },
+  "pro.feat.pdf": {
+    "message": "PDF로 내보내기"
+  },
+  "pro.feat.pdf.description": {
+    "message": "우리는 번역된 문서를 새로운 PDF로 내보내는 것을 지원하여, 어떤 플랫폼에서든 전문적인 외관과 읽기 경험을 유지할 수 있게 합니다."
+  },
+  "pro.feat.share": {
+    "message": "온라인 공유"
+  },
+  "pro.feat.share.description": {
+    "message": "이중 언어 스냅샷에 대한 액세스 가능한 링크를 생성하여 번역된 문서를 누구와도 쉽게 공유할 수 있습니다."
+  },
+  "page.feature.pro.compare.title": {
+    "message": "AI가 구동하는 PDF Pro 번역과 일반 PDF 번역 비교:"
+  },
+  "pro.compare.header.proPdf": {
+    "message": "AI가 구동하는 Pro PDF 번역"
+  },
+  "pro.compare.header.pdf": {
+    "message": "일반 PDF 번역"
+  },
+  "pro.compare.table.html": {
+    "message": "HTML 내보내기"
+  },
+  "pro.compare.table.pdf": {
+    "message": "PDF 내보내기"
+  },
+  "pro.compare.table.share": {
+    "message": "온라인 공유"
+  },
+  "pro.compare.table.columns.pro": {
+    "message": "매우 훌륭함"
+  },
+  "pro.compare.table.columns.normal": {
+    "message": "일반"
+  },
+  "pro.pdf.title": {
+    "message": "AI를 사용한 몰입형 PDF 번역"
+  },
+  "pro.pdf.desc": {
+    "message": "가장 복잡한 PDF 파일에 대응하기 위해 설계되었으며, 전문 용어가 가득한 학술 논문이나 복잡한 표와 이미지가 포함된 다양한 문서에 관계없이, AI가 구동하는 PDF 분석 기술은 이러한 내용을 효율적이고 정확하게 분석할 수 있도록 보장합니다(*Pro 회원만 사용 가능)."
+  },
+  "page.exchange.title": {
+    "message": "프로 회원 교환"
+  },
+  "page.exchange.pricingTitle": {
+    "message": "평범한 기계 번역에게 안녕을 말하십시오!"
+  },
+  "page.exchange.pricingSubtitle": {
+    "message": "지금 바로 Pro 회원으로 업그레이드하고, DeepL과 OpenAI가 제공하는 정확하고, 매끄럽고, 자연스러운 읽기 경험을 즐기십시오."
+  },
+  "page.topup.title": {
+    "message": "데이터 패키지 구매"
+  },
+  "page.topup.pricingTitle": {
+    "message": "평범한 기계 번역에게 안녕을 말하십시오!"
+  },
+  "page.topup.pricingSubtitle": {
+    "message": "데이터 추가 패키지, 정확하고 원활하며 자연스러운 읽기 경험을 계속 즐기십시오."
+  },
+  "page.zipinstall.title": {
+    "message": "몰입형 번역 크롬 플러그인 로컬 설치 가이드"
+  },
+  "page.zipinstall.clickdownload": {
+    "message": "여기를 클릭하여 crx 설치 패키지를 다운로드하십시오."
+  },
+  "page.zipinstall.copyandpaste": {
+    "message": "다음 주소를 복사하여 브라우저 주소창에 붙여넣고, 엔터를 눌러 열고, 오른쪽 상단의 개발자 모드를 시작하십시오."
+  },
+  "page.zipinstall.copy": {
+    "message": "복사"
+  },
+  "page.zipinstall.copySuccess": {
+    "message": "복사 성공"
+  },
+  "page.zipinstall.step1Title": {
+    "message": "다운로드 몰입형 번역 crx 설치 패키지를 받고 압축을 풀어주세요(crx 파일은 압축 해제된 폴더 안에 있습니다)."
+  },
+  "page.zipinstall.step2Title": {
+    "message": "Chrome의 [확장 프로그램 관리] 페이지를 열고 [개발자 모드]를 켜십시오."
+  },
+  "page.zipinstall.step3Title": {
+    "message": "플러그인을 설치하십시오"
+  },
+  "page.zipinstall.step4Title": {
+    "message": "브라우저 툴바에 잠수형 번역 플러그인을 고정하여 언제든지 호출할 수 있게 하십시오(플러그인을 다시 업데이트할 때, 이 프로세스를 다시 거치면 업데이트할 수 있습니다)"
+  },
+  "page.manualinstall.title": {
+    "message": "몰입형 번역 Chrome 플러그인 로컬 설치 가이드"
+  },
+  "page.manualinstall.description": {
+    "message": "Chrome 스토어에서 몰입형 번역 플러그인을 설치할 수 없다면, 이 튜토리얼에 따라 수동으로 설치해 보십시오."
+  },
+  "page.pricing.header.onboarding.doc": {
+    "message": "문서 번역"
+  },
+  "page.pricing.header.onboarding.video": {
+    "message": "Youtube 비디오 이중 언어 자막"
+  },
+  "page.pricing.header.normal.subtitle3": {
+    "message": "계속 사용하면 <a href='/docs/TERMS/' target='_blank'>서비스 약관</a> 및 <a href='/docs/PRIVACY/' target='_blank'>개인정보 보호정책</a>에 동의하는 것으로 간주됩니다."
+  }
+}
