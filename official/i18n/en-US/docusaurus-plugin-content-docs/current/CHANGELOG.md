@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.4.13
+## 1.5.1
 
 - Support for AI translation services to set [AI Expert] to specify the translation strategy, currently a Beta feature, which can be enabled in [Developer Settings](https://dash.immersivetranslate.com/#developer) after enabling Beta, and the [AI Expert] menu can be seen after refreshing.
 - AI translation services can now customize the model list, such as [OpenAI], the system only has a few of the most commonly used models built-in. Clicking on the model dropdown list, the last item you see is [Set More Models], after setting, it will be automatically remembered for the convenience of users testing different custom models.
