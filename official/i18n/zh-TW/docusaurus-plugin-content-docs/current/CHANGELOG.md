@@ -4,6 +4,14 @@ sidebar_position: 6
 
 # 更新日誌
 
+## 1.5.2
+
+- 修復通用專家提示詞變動覆蓋指定 AI 專家提示詞 [#1692](https://github.com/immersive-translate/immersive-translate/issues/1692)
+- AI 自訂模型名稱支援進階語法, 使用 + 增加一個模型，使用 - 來隱藏一個模型，使用 模型名=展示名 來自訂模型的展示名，如: +gpt-3.5-turbo,-gpt-4,gpt-4-turbo=gpt-4-super
+- 修復 Gemini 異常返回的錯誤
+- 打印頁面時隱藏懸浮球
+- 修復 YouTube 全屏時字體大小沒有等比例縮放 [#1681](https://github.com/immersive-translate/immersive-translate/issues/1681)
+
 ## 1.5.1
 
 - 支援 AI 類翻譯服務設置【AI 專家】以指定翻譯策略，目前為 Beta 特性，可在[開發者設置](https://dash.immersivetranslate.com/#developer)啟用 Beta 後，刷新後可以看到【AI 專家】菜單。

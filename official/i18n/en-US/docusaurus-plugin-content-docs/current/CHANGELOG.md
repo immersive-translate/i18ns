@@ -4,6 +4,14 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.5.2
+
+- Fixed the issue where changes to the general expert prompt overrode the specified AI expert prompt [#1692](https://github.com/immersive-translate/immersive-translate/issues/1692)
+- AI custom model name supports advanced syntax, use + to add a model, use - to hide a model, and use model_name=display_name to customize the display name of the model, e.g.: +gpt-3.5-turbo,-gpt-4,gpt-4-turbo=gpt-4-super
+- Fix the error returned by Gemini
+- Hide the floating ball when printing the page
+- Fix the font size not scaling proportionally when YouTube is in full screen [#1681](https://github.com/immersive-translate/immersive-translate/issues/1681)
+
 ## 1.5.1
 
 - Support for AI translation services to set [AI Expert] to specify the translation strategy, currently a Beta feature, which can be enabled in [Developer Settings](https://dash.immersivetranslate.com/#developer) after enabling Beta, and the [AI Expert] menu can be seen after refreshing.
