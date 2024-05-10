@@ -2,7 +2,10 @@
 
 ## Ollama
 - 從[官網](https://ollama.com/)下載安裝 ollama 
-- OLLAMA_ORIGINS="*" ollama serve （允許跨域訪問並啟動ollama）
+- MacOS
+    - OLLAMA_ORIGINS="*" ollama serve （允許跨域訪問並啟動ollama）
+- Windows
+    - 在控制面板-系統屬性-環境變量-用戶環境變量新建變量名"OLLAMA_HOST"變量值"0.0.0.0"，變量名"OLLAMA_ORIGINS"變量值"*"
 - 進入插件的[設置頁](https://dash.immersivetranslate.com/#general),翻譯服務選擇 openAI
     - api_key: ollama
     - 自定義模型: llama2 、[other models](https://ollama.com/library)

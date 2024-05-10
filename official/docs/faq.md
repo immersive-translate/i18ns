@@ -4,18 +4,6 @@ sidebar_position: 9
 
 # 常见问题
 
-## 如何支持 [ollama](https://github.com/ollama/ollama)
-Ollama 默认允许来自 127.0.0.1 和 0.0.0.0 的跨域请求。
-
-所以配置该地址到插件会导致403 错误
-
-- 解决方案
-
-OLLAMA_ORIGINS="*" ollama serve 来开启
-- 更多参考
-
-[ollama / Setting OLLAMA_ORIGINS #2335](https://github.com/ollama/ollama/issues/2335)
-
 ## 如何关闭自动翻译
 
 - 在 Popup 面板或者设置页面取消。

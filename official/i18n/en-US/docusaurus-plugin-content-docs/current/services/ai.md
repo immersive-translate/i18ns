@@ -3,7 +3,10 @@
 ## Ollama
 
 - Download and install ollama from the [official website](https://ollama.com/)
-- Run `OLLAMA_ORIGINS="*" ollama serve` (allows cross-origin access and starts ollama)
+- MacOS
+  - Run `OLLAMA_ORIGINS="*" ollama serve` (allows cross-origin access and starts ollama)
+- Windows
+  - In Control Panel - System Properties - Environment Variables - User Environment Variables, create a new variable name "OLLAMA_HOST" with the value "0.0.0.0", and a variable name "OLLAMA_ORIGINS" with the value "*"
 - Go to the [settings page](https://dash.immersivetranslate.com/#general) of the plugin, and select openAI for translation service
   - api_key: ollama
   - Custom model: llama2, [other models](https://ollama.com/library)
