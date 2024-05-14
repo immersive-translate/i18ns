@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # 更新日誌
 
-## 1.5.3
+## 1.5.4
 
 - Pro 會員支持開箱即用的 Claude, Gemini 翻譯服務 (Beta)
 - Youtube 雙語字幕支持字體、字重設置

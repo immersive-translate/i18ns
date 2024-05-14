@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.5.3
+## 1.5.4
 
 - Pro members support out-of-the-box Claude and Gemini translation services (Beta)
 - YouTube bilingual subtitles support font and font weight settings

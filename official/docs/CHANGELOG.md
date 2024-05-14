@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.5.3
+## 1.5.4
 
 - Pro 会员支持开箱即用的 Claude, Gemini 翻译服务 (Beta)
 - Youtube 双语字幕支持字体、字重设置
