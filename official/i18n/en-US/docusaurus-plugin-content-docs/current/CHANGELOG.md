@@ -4,6 +4,18 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.5.3
+
+- Pro members support out-of-the-box Claude and Gemini translation services (Beta)
+- YouTube bilingual subtitles support font and font weight settings
+- Fixed word boundary issues when wrapping long paragraphs [#86](https://github.com/immersive-translate/immersive-translate/issues/86)
+- Fixed recognition of Japanese and Korean languages
+- Fixed issue where Reddit pages on mobile devices were not being translated when scrolling
+- Fixed some pages missing translations with DeepL
+- Fixed Pro users' multi-device sync time not synchronizing
+- Optimized cloud sync setting's coverage issues
+- Optimized prompt words for AI translation services
+
 ## 1.5.2
 
 - Fixed the issue where changes to the general expert prompt overrode the specified AI expert prompt [#1692](https://github.com/immersive-translate/immersive-translate/issues/1692)

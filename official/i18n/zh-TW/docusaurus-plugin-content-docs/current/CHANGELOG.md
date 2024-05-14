@@ -4,6 +4,18 @@ sidebar_position: 6
 
 # 更新日誌
 
+## 1.5.3
+
+- Pro 會員支持開箱即用的 Claude, Gemini 翻譯服務 (Beta)
+- Youtube 雙語字幕支持字體、字重設置
+- 修復長段落換行的單詞邊界問題 [#86](https://github.com/immersive-translate/immersive-translate/issues/86)
+- 修復日韓語言識別
+- 修復移動端 Reddit 頁面滑動不翻譯
+- 修復部分頁面 DeepL 漏翻
+- 修復 Pro 用戶配置多設備同步時間不同步
+- 優化雲同步設置的覆蓋問題
+- 優化 AI 翻譯服務的提示詞
+
 ## 1.5.2
 
 - 修復通用專家提示詞變動覆蓋指定 AI 專家提示詞 [#1692](https://github.com/immersive-translate/immersive-translate/issues/1692)
