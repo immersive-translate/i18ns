@@ -4,6 +4,16 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.5.3
+
+- 修复长段落换行特殊单词识别 [#86](https://github.com/immersive-translate/immersive-translate/issues/86)
+- 修复日韩语言识别
+- 修复移动端 Reddit 页面滑动不翻译
+- 修复部分页面 DeepL 漏翻
+- 修复 Pro 用户配置多设备同步时间不同步
+- Youtube 字幕支持字体、字重设置
+- Pro 会员支持使用 Claude, Gemini 翻译服务(Beta)
+
 ## 1.5.2
 
 - 修复通用专家提示词变动覆盖指定 AI 专家提示词 [#1692](https://github.com/immersive-translate/immersive-translate/issues/1692)
