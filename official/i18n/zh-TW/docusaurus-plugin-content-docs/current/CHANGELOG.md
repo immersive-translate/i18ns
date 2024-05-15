@@ -4,6 +4,10 @@ sidebar_position: 6
 
 # 更新日誌
 
+## 1.5.5
+
+- 修復僅譯文模式下部分段落被丟失的問題。
+
 ## 1.5.4
 
 - Pro 會員支持開箱即用的 Claude, Gemini 翻譯服務 (Beta)

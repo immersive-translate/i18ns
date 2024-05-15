@@ -4,6 +4,10 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.5.5
+
+- 修复仅译文模式下部分段落被丢失的问题。
+
 ## 1.5.4
 
 - Pro 会员支持开箱即用的 Claude, Gemini 翻译服务 (Beta)
