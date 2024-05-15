@@ -13,7 +13,7 @@ src="https://s.immersivetranslate.com/videos/20240119installation.mp4"></video>
 
 - 微軟 Edge 瀏覽器： [Edge 商店沉浸式翻譯](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)
 - Google Chrome 瀏覽器：[Chrome 商店沉浸式翻譯](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
-- Firefox 火狐瀏覽器：[Firefox Addon 商店沉浸式翻譯](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/)
+- Firefox 火狐瀏覽器：[Firefox Addon 商店沉浸式翻譯](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/)、[Firefox Addon 商店沉浸式翻譯極速版](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate-beta/)
 
 > 如果你無法訪問Google官方商店，可以直接下載[最新沉浸式翻譯 Chrome 瀏覽器 zip 安裝包](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip)， 下載後請先解壓到一個常用的文件夾內，然後在地址欄輸入：`chrome://extensions`，打開擴展管理窗口，然後啟用“開發人員模式”，選擇“加載解壓縮的擴展”，選擇剛剛解壓後的文件夾載入即可安裝成功。## Safari
 
