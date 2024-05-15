@@ -1218,5 +1218,11 @@
   },
   "page.pricing.header.onboarding.video": {
     "message": "Youtube 视频双语字幕"
+  },
+  "page.pricing.header.onboarding.video.src": {
+    "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-zh-CN-rYaxVV.mp4"
+  },
+  "page.pricing.header.onboarding.video.poster": {
+    "message": "/assets/price/video-poster-zh-Hans.png"
   }
 }
