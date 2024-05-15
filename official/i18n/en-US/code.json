@@ -1218,5 +1218,11 @@
   },
   "page.pricing.header.normal.subtitle3": {
     "message": "Continued use indicates your agreement to the <a href='/docs/TERMS/' target='_blank'>Terms of Service</a> and <a href='/docs/PRIVACY/' target='_blank'>Privacy Policy</a>"
+  },
+  "page.pricing.header.onboarding.video.src": {
+    "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-en-NlkG5c.mp4"
+  },
+  "page.pricing.header.onboarding.video.poster": {
+    "message": "/assets/price/video-poster-en.png"
   }
 }

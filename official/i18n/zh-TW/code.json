@@ -1218,5 +1218,11 @@
   },
   "page.pricing.header.normal.subtitle3": {
     "message": "繼續使用則表示您同意 <a href='/docs/TERMS/' target='_blank'>服務條款</a> 和 <a href='/docs/PRIVACY/' target='_blank'>隱私協議</a>"
+  },
+  "page.pricing.header.onboarding.video.src": {
+    "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-zh-TW-TQk3WC.mp4"
+  },
+  "page.pricing.header.onboarding.video.poster": {
+    "message": "/assets/price/video-poster-zh-TW.png"
   }
 }

@@ -9,7 +9,7 @@ sidebar_position: 1
 
 - Microsoft Edge Browser： [Edge Store Immersive Translate](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)
 - Google Chrome：[Chrome Store Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
-- Firefox：[Firefox Addon Store Immersive Translate](https://addons.mozilla.org/firefox/addon/immersive-translate/)
+- Firefox：[Firefox Addon Store Immersive Translate](https://addons.mozilla.org/firefox/addon/immersive-translate/)、[Firefox Addon Store Immersive Translate Beta](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 
 > If you can't access the official Google Store, you can directly download the [Latest Immersive Translate Chrome zip installer](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip), after downloading, please first Unzip it to a folder you usually use, then type：`chrome://extensions` in the address bar to open the extension management window, then enable "Developer Mode", select "Load Unzipped Extensions", and choose the folder you just unzipped and loaded. Select the folder you just extracted and load it.
 
