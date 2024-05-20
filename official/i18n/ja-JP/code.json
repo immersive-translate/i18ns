@@ -599,7 +599,7 @@
     "message": "Google翻訳"
   },
   "page.pricing.vipnow.desc": {
-    "message": "今すぐ<a href=\"{pricingUrl}\">プロ会員</a>をアップグレードし、DeepLとOpenAIの翻訳をお楽しみください！"
+    "message": "<a href=\"{pricingUrl}\">プロに登録する</a>今すぐ！DeepL、OpenAI、Claude、Geminiでプラグアンドプレイ翻訳を楽しもう！"
   },
   "page.pricing.comment": {
     "message": "開発者の代わりに、ユーザーのコメントを確認しましょう！"

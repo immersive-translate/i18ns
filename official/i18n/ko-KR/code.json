@@ -599,7 +599,7 @@
     "message": "Google 번역"
   },
   "page.pricing.vipnow.desc": {
-    "message": "지금<a href=\"{pricingUrl}\"> 프로 멤버십</a>을 개설하고 바로 사용 가능한 DeepL 및 OpenAI 번역을 즐겨보세요!"
+    "message": "<a href=\"{pricingUrl}\">프로 구독하기</a> 지금! DeepL, OpenAI, Claude, Gemini와 함께 플러그 앤 플레이 번역을 즐기세요!"
   },
   "page.pricing.comment": {
     "message": "우리의 말이 아닌, 사용자들의 말에 귀 기울여 보세요:"

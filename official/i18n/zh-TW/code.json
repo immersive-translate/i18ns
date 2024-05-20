@@ -599,7 +599,7 @@
     "message": "Google 翻譯"
   },
   "page.pricing.vipnow.desc": {
-    "message": "現在就<a href=\"{pricingUrl}\">開通Pro會員</a>，享受開箱即用的DeepL 和OpenAI 翻譯！"
+    "message": "現在就<a href=\"{pricingUrl}\">開通Pro會員</a>，享受開箱即用的 DeepL, OpenAI, Claude 和 Gemini 翻譯！"
   },
   "page.pricing.comment": {
     "message": "不要聽我們怎麼說，聽聽用戶的聲音："

@@ -601,9 +601,6 @@
   "page.pricing.whyopenai.openaicompare.google": {
     "message": "Google 翻译"
   },
-  "page.pricing.vipnow.desc": {
-    "message": "现在就<a href=\"{pricingUrl}\">开通Pro会员</a>，享受开箱即用的 DeepL 和 OpenAI 翻译！"
-  },
   "page.pricing.comment": {
     "message": "不要听我们怎么说，听听用户的声音："
   },
@@ -1224,5 +1221,8 @@
   },
   "page.pricing.header.onboarding.video.poster": {
     "message": "/assets/price/video-poster-zh-Hans.png"
+  },
+  "page.pricing.vipnow.desc": {
+    "message": "现在就<a href=\"{pricingUrl}\">开通Pro会员</a>，享受开箱即用的 DeepL, OpenAI, Claude 和 Gemini 翻译！"
   }
 }

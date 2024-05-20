@@ -598,9 +598,6 @@
   "page.pricing.whyopenai.openaicompare.google": {
     "message": "Google Translate"
   },
-  "page.pricing.vipnow.desc": {
-    "message": "Now<a href=\"{pricingUrl}\"> subscribe to Pro membership</a> and enjoy plug-and-play translation with DeepL and OpenAI!"
-  },
   "page.pricing.comment": {
     "message": "Don't just take our word for it, listen to what our users have to say:"
   },
@@ -1224,5 +1221,8 @@
   },
   "page.pricing.header.onboarding.video.poster": {
     "message": "/assets/price/video-poster-en.png"
+  },
+  "page.pricing.vipnow.desc": {
+    "message": "<a href=\"{pricingUrl}\">Subscribe to Pro</a> Now! Enjoy plug-and-play translation with DeepL, OpenAI, Claude, and Gemini!"
   }
 }

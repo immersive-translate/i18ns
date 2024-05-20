@@ -599,7 +599,7 @@
     "message": "Google Translate"
   },
   "page.pricing.vipnow.desc": {
-    "message": "Откройте членство в программе Pro</a>прямо сейчас на сайте<a href=\"{pricingUrl}\">и пользуйтесь всеми возможностями DeepL и переводами OpenAI!"
+    "message": "<a href=\"{pricingUrl}\">Подписаться на Pro</a> сейчас! Наслаждайтесь простым и удобным переводом с DeepL, OpenAI, Claude и Gemini!"
   },
   "page.pricing.comment": {
     "message": "Не слушайте, что мы говорим, слушайте пользователей："

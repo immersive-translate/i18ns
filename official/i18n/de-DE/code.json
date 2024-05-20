@@ -599,7 +599,7 @@
     "message": "Google Übersetzen"
   },
   "page.pricing.vipnow.desc": {
-    "message": "Eröffnen Sie jetzt eine Pro-Mitgliedschaft</a>unter<a href=\"{pricingUrl}\">und profitieren Sie von sofort einsetzbaren DeepL und OpenAI-Übersetzungen!"
+    "message": "<a href=\"{pricingUrl}\">Jetzt Pro abonnieren</a>! Genießen Sie Plug-and-Play-Übersetzungen mit DeepL, OpenAI, Claude und Gemini!"
   },
   "page.pricing.comment": {
     "message": "Hören Sie nicht auf das, was wir sagen, sondern auf die Nutzer："

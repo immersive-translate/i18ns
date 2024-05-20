@@ -599,7 +599,7 @@
     "message": "गूगल अनुवाद"
   },
   "page.pricing.vipnow.desc": {
-    "message": "प्रो सदस्यता के लिए</a><a href=\"{pricingUrl}\">अप करें1 और आउट-ऑफ़-द-बॉक्स डीपएल और ओपनएआई अनुवाद का आनंद लें!"
+    "message": "<a href=\"{pricingUrl}\">प्रो की सदस्यता लें</a> अभी! DeepL, OpenAI, Claude, और Gemini के साथ प्लग-एंड-प्ले अनुवाद का आनंद लें!"
   },
   "page.pricing.comment": {
     "message": "हम जो कहते हैं उसे मत सुनो, उपयोगकर्ताओं की：सुनो0"

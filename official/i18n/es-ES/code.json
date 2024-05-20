@@ -599,7 +599,7 @@
     "message": "Google Translate"
   },
   "page.pricing.vipnow.desc": {
-    "message": "Suscribete a la versión Pro </a>ahora<a href=\"{pricingUrl}\">y disfruta de las traducciones de DeepL y OpenAI"
+    "message": "<a href=\"{pricingUrl}\">¡Suscríbete a Pro ahora!</a> ¡Disfruta de la traducción plug-and-play con DeepL, OpenAI, Claude y Gemini!"
   },
   "page.pricing.comment": {
     "message": "No escuches lo que decimos, escucha a los usuarios："

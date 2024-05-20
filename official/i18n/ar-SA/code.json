@@ -599,7 +599,7 @@
     "message": "جوجل المترجم"
   },
   "page.pricing.vipnow.desc": {
-    "message": "<a href=\"{pricingUrl}\">للحصول على عضوية Pro</a>واستمتع بترجمة DeepL وOpenAI المبتكرة!"
+    "message": "<a href=\"{pricingUrl}\">اشترك في النسخة المحترفة</a> الآن! استمتع بالترجمة الفورية مع DeepL، OpenAI، Claude، وGemini!"
   },
   "page.pricing.comment": {
     "message": "لا تستمع إلى ما نقوله، استمع إلى المستخدمين:"
