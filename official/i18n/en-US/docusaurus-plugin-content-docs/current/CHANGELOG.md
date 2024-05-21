@@ -4,6 +4,11 @@ sidebar_position: 6
 
 # Change Log
 
+# 1.5.6
+
+- Significantly optimized the performance of translating large web pages, ePub creation, and subtitle files.
+- Fixed the bug of multi-device synchronization in Pro.
+
 ## 1.5.4
 
 - Pro members support out-of-the-box Claude and Gemini translation services (Beta)
