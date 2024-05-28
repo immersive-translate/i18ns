@@ -4,7 +4,12 @@ sidebar_position: 6
 
 # Change Log
 
-# 1.5.6
+## 1.5.7
+
+- Support for adding custom AI translation services compatible with OpenAI, accessible at the bottom of the 【Settings】->【Translation Services】page.
+- Fixed an issue where bilingual subtitles did not work on the Domestika video platform in Safari.
+
+## 1.5.6
 
 - Significantly optimized the performance of translating large web pages, ePub creation, and subtitle files.
 - Fixed the bug of multi-device synchronization in Pro.
