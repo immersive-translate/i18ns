@@ -4,6 +4,11 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.5.7
+
+- 支持添加 OpenAI 适配的自定义 AI 翻译服务，入口在【设置】->【翻译服务】页面最下方。
+- 修复 Safari 下 Domestika 视频平台双语字幕不生效问题
+
 ## 1.5.6
 
 - 大幅优化了大网页，ePub 制作，字幕文件的翻译性能
