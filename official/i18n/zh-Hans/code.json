@@ -1224,5 +1224,11 @@
   },
   "page.pricing.vipnow.desc": {
     "message": "现在就<a href=\"{pricingUrl}\">开通Pro会员</a>，享受开箱即用的 DeepL, OpenAI, Claude 和 Gemini 翻译！"
+  },
+  "page.pricing.header.normal.title.guide": {
+    "message": "🎉 已完成基础教学"
+  },
+  "page.pricing.header.normal.subtitle1.guide": {
+    "message": "您可在下方了解沉浸式翻译的免费和付费计划"
   }
 }
