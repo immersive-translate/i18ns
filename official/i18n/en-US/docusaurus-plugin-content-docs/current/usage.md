@@ -4,7 +4,15 @@ sidebar_position: 2
 
 # How to use?
 
-## Instructions for use
+## Video Tutorial
+
+<video
+  controls
+  poster="https://immersivetranslate.com/assets/price/video-poster-zh-Hans.png"
+  src="https://s.immersivetranslate.com/assets/uploads/full-intro-zh-CN-rYaxVV.mp4"
+/>
+
+## Instruction
 
 After installing the plugin, top the Immersive Translate Browser icon in the upper right corner, then click [Immersive Translate Extension Icon], then click Translate to translate：
 
@@ -88,6 +96,7 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 Immersive supports `.srt`, `.ass` and other formats of subtitle file translation, click on the Immersive Translate extension icon, click [More], [Subtitle File Translation], you can access it, and you can export bilingual subtitles after translation.
 
 <!-- ![subtitle](/assets/subtitle.jpg) -->
+
 ![](/assets/site/doc_en.jpg)
 
 ## Show Translations Only
@@ -107,11 +116,11 @@ If you are using Tampermonkey, then you need to go to the [Online Web Version Se
 Welcome to Immersive Translate, if you have any questions, you can contact the development team at：
 
 <!-- - [Subscribe to Immersive Translate by Email](https://immersivetranslate.substack.com/) Get the latest updates and (benefits) in a timely manner. -->
-- [Follow the official Twitter feed for Immersive Translate](https://twitter.com/immersivetrans)
-<!-- - [Join the Telegram group](https://t.me/+rq848Z09nehlOTgx) to participate in discussions about features. -->
-<!-- - [Join the Telegram channel](https://t.me/immersivetranslate) Receive the latest news! -->
-- [Feedback on issues](https://github.com/immersive-translate/immersive-translate/issues/)
 
+- [Follow the official Twitter feed for Immersive Translate](https://twitter.com/immersivetrans)
+  <!-- - [Join the Telegram group](https://t.me/+rq848Z09nehlOTgx) to participate in discussions about features. -->
+  <!-- - [Join the Telegram channel](https://t.me/immersivetranslate) Receive the latest news! -->
+- [Feedback on issues](https://github.com/immersive-translate/immersive-translate/issues/)
 
 <video
 autoPlay

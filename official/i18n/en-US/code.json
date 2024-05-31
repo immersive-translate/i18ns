@@ -513,7 +513,7 @@
     "message": "Apifox = Postman + Swagger + Mock + JMeter , free to use."
   },
   "page.pricing.title": {
-    "message": "pricing",
+    "message": "Pricing",
     "description": "html的title，浏览器标签上会显示这个"
   },
   "page.pricing.description": {

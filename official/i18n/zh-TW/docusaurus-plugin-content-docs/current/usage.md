@@ -4,7 +4,15 @@ sidebar_position: 2
 
 # 如何使用？
 
-## 使用說明
+## 影片教學
+
+<video
+  controls
+  poster="https://immersivetranslate.com/assets/price/video-poster-zh-Hans.png"
+  src="https://s.immersivetranslate.com/assets/uploads/full-intro-zh-CN-rYaxVV.mp4"
+/>
+
+## 圖文說明
 
 安裝插件後，【右上角將沉浸式翻譯瀏覽器圖標置頂】，然後點擊【沉浸式翻譯擴展圖標】，再點擊翻譯即可進行翻譯：
 
