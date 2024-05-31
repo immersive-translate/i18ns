@@ -9,7 +9,7 @@ sidebar_position: 2
 <video
   controls
   poster="https://immersivetranslate.com/assets/price/video-poster-zh-Hans.png"
-  src="https://s.immersivetranslate.com/assets/uploads/full-intro-zh-CN-rYaxVV.mp4"
+  src="https://s.immersivetranslate.com/assets/uploads/full-intro-zh-TW-TQk3WC.mp4"
 />
 
 ## 圖文說明
