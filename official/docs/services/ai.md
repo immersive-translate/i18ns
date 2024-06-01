@@ -1,4 +1,4 @@
-# 在沉浸式翻译中接入兼容 OpenAI API 接口的 AI 模型
+# 接入兼容 OpenAI API 接口的 AI 模型
 
 > 原作者：萧萧然
 
