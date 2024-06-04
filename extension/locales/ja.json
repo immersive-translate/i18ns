@@ -763,5 +763,6 @@
   "cleanSuccess": "キャッシュのクリアに成功しました。",
   "watchIntroVideo": "デモ動画を見る",
   "subscribeEmail": "ニュースレターを購読する",
-  "field_label.fallbackAssistant": "オートセレクトが一致しない場合は、以下のAIエキスパートを使用して指定してください。"
+  "field_label.fallbackAssistant": "オートセレクトが一致しない場合は、以下のAIエキスパートを使用して指定してください。",
+  "joinTranslate": "翻訳に参加する"
 }

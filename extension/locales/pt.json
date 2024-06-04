@@ -763,5 +763,6 @@
   "cleanSuccess": "Limpeza do cache bem-sucedida",
   "subscribeEmail": "Assine a nossa Newsletter",
   "field_label.fallbackAssistant": "Quando a Seleção Automática não puder corresponder, especifique usando o especialista em IA abaixo.",
-  "watchIntroVideo": "Assista ao vídeo de demonstração"
+  "watchIntroVideo": "Assista ao vídeo de demonstração",
+  "joinTranslate": "Participar na tradução"
 }

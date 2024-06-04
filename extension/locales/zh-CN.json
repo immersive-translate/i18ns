@@ -785,5 +785,6 @@
   "subscribeEmail": "订阅沉浸式翻译 Newsletter",
   "field_label.assistant": "你可以指定 AI 专家来提供翻译策略",
   "noPermissionForThisPage": "⚠️  暂无权限翻译当前页面（可能的原因是：新标签页或浏览器特权页面等）",
-  "reloadCurrentPage": "等待注入页面中...若长时间未响应，请尝试刷新页面"
+  "reloadCurrentPage": "等待注入页面中...若长时间未响应，请尝试刷新页面",
+  "joinTranslate": "参与翻译"
 }

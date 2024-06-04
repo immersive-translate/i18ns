@@ -763,5 +763,6 @@
   "cleanSuccess": "캐시 정리 성공",
   "subscribeEmail": "뉴스레터를 구독하세요",
   "field_label.fallbackAssistant": "자동 선택이 일치하지 않을 때 아래 AI 전문가를 사용하여 지정하십시오.",
-  "watchIntroVideo": "데모 비디오를 시청하세요"
+  "watchIntroVideo": "데모 비디오를 시청하세요",
+  "joinTranslate": "번역에 참여"
 }

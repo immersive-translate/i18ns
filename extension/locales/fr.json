@@ -763,5 +763,6 @@
   "cleanSuccess": "Cache nettoyé avec succès",
   "subscribeEmail": "Abonnez-vous à notre newsletter",
   "watchIntroVideo": "Regardez la vidéo de démonstration",
-  "field_label.fallbackAssistant": "Lorsque la sélection automatique ne peut pas correspondre, spécifiez en utilisant l'expert en IA ci-dessous."
+  "field_label.fallbackAssistant": "Lorsque la sélection automatique ne peut pas correspondre, spécifiez en utilisant l'expert en IA ci-dessous.",
+  "joinTranslate": "Participer à la traduction"
 }

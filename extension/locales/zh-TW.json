@@ -797,5 +797,6 @@
   "cleanSuccess": "清理快取成功",
   "watchIntroVideo": "查看影片示範",
   "field_label.fallbackAssistant": "當智能選擇無法匹配時，指定使用下面的 AI 專家",
-  "subscribeEmail": "訂閱沉浸式翻譯電子報"
+  "subscribeEmail": "訂閱沉浸式翻譯電子報",
+  "joinTranslate": "參與翻譯"
 }

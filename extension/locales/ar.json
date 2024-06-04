@@ -763,5 +763,6 @@
   "cleanSuccess": "تم مسح ذاكرة التخزين المؤقت بنجاح",
   "watchIntroVideo": "شاهد فيديو العرض التوضيحي",
   "subscribeEmail": "اشترك في نشرتنا الإخبارية",
-  "field_label.fallbackAssistant": "عندما لا يمكن لـ Auto-Select المطابقة، حدد باستخدام الخبير AI أدناه."
+  "field_label.fallbackAssistant": "عندما لا يمكن لـ Auto-Select المطابقة، حدد باستخدام الخبير AI أدناه.",
+  "joinTranslate": "المشاركة في الترجمة"
 }

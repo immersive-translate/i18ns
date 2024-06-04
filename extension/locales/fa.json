@@ -763,5 +763,6 @@
   "cleanSuccess": "پاکسازی حافظه پنهان با موفقیت انجام شد",
   "subscribeEmail": "اشتراک در خبرنامه ما",
   "field_label.fallbackAssistant": "هنگامی که Auto-Select نمی‌تواند مطابقت داشته باشد، از کارشناس هوش مصنوعی زیر استفاده کنید.",
-  "watchIntroVideo": "دموی ویدیو را تماشا کنید"
+  "watchIntroVideo": "دموی ویدیو را تماشا کنید",
+  "joinTranslate": "مشارکت در ترجمه"
 }

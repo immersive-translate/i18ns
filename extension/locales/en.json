@@ -769,5 +769,6 @@
   "watchIntroVideo": "Watch the demo video",
   "subscribeEmail": "Subscribe our Newsletter",
   "aiAssistant.auto": "Auto-Select",
-  "field_label.fallbackAssistant": "When Auto-Select cannot match, specify using the AI expert below."
+  "field_label.fallbackAssistant": "When Auto-Select cannot match, specify using the AI expert below.",
+  "joinTranslate": "Participate in translation"
 }

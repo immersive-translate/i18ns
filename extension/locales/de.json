@@ -763,5 +763,6 @@
   "cleanSuccess": "Cache erfolgreich geleert",
   "subscribeEmail": "Abonnieren Sie unseren Newsletter",
   "watchIntroVideo": "Sehen Sie sich das Demovideo an",
-  "field_label.fallbackAssistant": "Wenn Auto-Select nicht übereinstimmt, geben Sie die Spezifikation mit dem unten stehenden KI-Experten an."
+  "field_label.fallbackAssistant": "Wenn Auto-Select nicht übereinstimmt, geben Sie die Spezifikation mit dem unten stehenden KI-Experten an.",
+  "joinTranslate": "An der Übersetzung teilnehmen"
 }
