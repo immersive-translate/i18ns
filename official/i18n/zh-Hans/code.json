@@ -1037,7 +1037,7 @@
     "message": "PDF PRO"
   },
   "page.download.pdfpro.subtitle": {
-    "message": "沉浸式翻译 AI 驱动的 <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF 翻译</a>专为应对最复杂的 PDF 文件而设计，无论是充满专业术语的学术论文，还是包含复杂表格和图像的各类文档，AI 驱动的 PDF 解析技术都能确保对这些内容进行高效准确的解析。"
+    "message": "沉浸式翻译 AI 驱动的 <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF 翻译</a>专为应对最复杂的 PDF 文件而设计，无论是充满专业术语的学术论文，还是包含复杂表格和图像的各类论文文档，AI 驱动的 PDF 解析技术都能确保对这些内容进行高效准确的解析。"
   },
   "page.download.ePub.title": {
     "message": "ePub电子书双语翻译"
@@ -1157,7 +1157,7 @@
     "message": "使用沉浸式翻译 AI 驱动的 PDF 翻译"
   },
   "pro.pdf.desc": {
-    "message": "专为应对最复杂的PDF文件而设计，无论是充满专业术语的学术论文，还是包含复杂表格和图像的各类文档，AI 驱动的 PDF 解析技术都能确保对这些内容进行高效准确的解析（*仅 Pro 会员可用）。"
+    "message": "专为应对最复杂的PDF文件而设计，无论是充满专业术语的学术论文，还是包含复杂表格和图像的各类论文文档，AI 驱动的 PDF 解析技术都能确保对这些内容进行高效准确的解析（*仅 Pro 会员可用）。"
   },
   "page.exchange.title": {
     "message": "Pro 会员兑换"
