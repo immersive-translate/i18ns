@@ -1037,7 +1037,7 @@
     "message": "PDF PRO"
   },
   "page.download.pdfpro.subtitle": {
-    "message": "La traduction de PDF <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>alimentée par AI</a> de traduction immersive est conçue pour gérer les fichiers PDF les plus complexes, qu'il s'agisse de documents académiques remplis de jargon professionnel ou de divers documents contenant des tableaux et des images complexes. La technologie d'analyse de PDF alimentée par AI peut garantir une analyse efficace et précise de ces contenus."
+    "message": "La traduction immersive de PDF propulsée par l'IA <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>Traduction de PDF</a> est conçue pour traiter les fichiers PDF les plus complexes, qu'il s'agisse de documents académiques remplis de terminologie professionnelle, ou de divers documents contenant des tableaux complexes et des images. La technologie de traitement de PDF propulsée par l'IA peut garantir un traitement efficace et précis de ces contenus."
   },
   "page.download.ePub.title": {
     "message": "Traduction bilingue de livres électroniques ePub"
@@ -1157,7 +1157,7 @@
     "message": "Utilisation de la traduction PDF pilotée par IA immersive"
   },
   "pro.pdf.desc": {
-    "message": "Conçu spécifiquement pour faire face aux fichiers PDF les plus complexes, qu'il s'agisse de documents académiques remplis de jargon professionnel ou de divers documents contenant des tableaux et des images complexes, la technologie d'analyse PDF pilotée par l'IA peut garantir une analyse efficace et précise de ces contenus (* disponible uniquement pour les membres Pro)."
+    "message": "Conçu spécifiquement pour traiter les fichiers PDF les plus complexes, qu'il s'agisse de documents académiques remplis de terminologie professionnelle, ou de divers documents contenant des tableaux complexes et des images, la technologie de traitement de PDF basée sur l'IA peut garantir un traitement efficace et précis de ces contenus (*disponible uniquement pour les membres Pro)."
   },
   "page.exchange.title": {
     "message": "Échange de membres Pro"

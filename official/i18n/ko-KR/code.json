@@ -1037,7 +1037,7 @@
     "message": "PDF PRO"
   },
   "page.download.pdfpro.subtitle": {
-    "message": "AI가 구동하는 <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF 번역</a>은 가장 복잡한 PDF 파일에 대응하기 위해 설계되었습니다. 전문 용어가 가득한 학술 논문이든, 복잡한 표와 이미지가 포함된 다양한 문서든, AI가 구동하는 PDF 분석 기술은 이러한 내용을 효율적이고 정확하게 분석할 수 있도록 보장합니다."
+    "message": "몰입형 번역 AI 기반 <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF 번역</a>은 전문 용어가 가득한 학술 논문이든 복잡한 표와 이미지가 포함된 각종 문서이든 가장 복잡한 PDF 파일을 처리하도록 설계되었습니다. AI 기반 PDF 파싱 기술은 이러한 내용의 효율적이고 정확한 파싱을 보장할 수 있습니다."
   },
   "page.download.ePub.title": {
     "message": "ePub 전자책 이중 언어 번역"
@@ -1157,7 +1157,7 @@
     "message": "AI를 사용한 몰입형 PDF 번역"
   },
   "pro.pdf.desc": {
-    "message": "가장 복잡한 PDF 파일에 대응하기 위해 설계되었으며, 전문 용어가 가득한 학술 논문이나 복잡한 표와 이미지가 포함된 다양한 문서에 관계없이, AI가 구동하는 PDF 분석 기술은 이러한 내용을 효율적이고 정확하게 분석할 수 있도록 보장합니다(*Pro 회원만 사용 가능)."
+    "message": "특히 가장 복잡한 PDF 파일을 처리하도록 설계된 이 기술은 전문 용어가 가득한 학술 논문이든 복잡한 표와 이미지가 포함된 다양한 문서이든 관계없이 AI 기반 PDF 파싱 기술을 통해 이러한 내용의 효율적이고 정확한 파싱을 보장할 수 있습니다(*프로 회원 전용)."
   },
   "page.exchange.title": {
     "message": "프로 회원 교환"

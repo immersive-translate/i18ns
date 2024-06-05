@@ -1037,7 +1037,7 @@
     "message": "PDF PRO"
   },
   "page.download.pdfpro.subtitle": {
-    "message": "La traducción inmersiva impulsada por AI <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF Traducción</a> está diseñada para manejar los archivos PDF más complejos, ya sean trabajos académicos llenos de terminología profesional, o documentos de todo tipo que contienen tablas y gráficos complejos, la tecnología de análisis de PDF impulsada por AI puede garantizar un análisis eficiente y preciso de estos contenidos."
+    "message": "La traducción de PDF impulsada por IA de <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>Traducción Inmersiva</a> está diseñada para manejar los archivos PDF más complejos, ya sean documentos académicos llenos de terminología profesional, o diversos documentos que contienen tablas e imágenes complejas. La tecnología de análisis de PDF impulsada por IA puede garantizar un análisis eficiente y preciso de estos contenidos."
   },
   "page.download.ePub.title": {
     "message": "Traducción bilingüe de libros electrónicos ePub"
@@ -1157,7 +1157,7 @@
     "message": "Utilizando la traducción de PDF impulsada por AI de inmersión"
   },
   "pro.pdf.desc": {
-    "message": "Diseñado específicamente para manejar los archivos PDF más complejos, ya sean trabajos académicos llenos de terminología profesional, o documentos de todo tipo que contienen tablas e imágenes complejas, la tecnología de análisis de PDF impulsada por IA puede garantizar un análisis eficiente y preciso de estos contenidos (*solo disponible para miembros Pro)."
+    "message": "Diseñado específicamente para manejar los archivos PDF más complejos, ya sean documentos académicos llenos de terminología profesional, o diversos documentos que contienen tablas e imágenes complejas, la tecnología de análisis de PDF impulsada por IA puede garantizar un análisis eficiente y preciso de estos contenidos (*solo disponible para miembros Pro)."
   },
   "page.exchange.title": {
     "message": "Intercambio de miembros Pro"

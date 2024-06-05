@@ -1037,7 +1037,7 @@
     "message": "PDF PRO"
   },
   "page.download.pdfpro.subtitle": {
-    "message": "没入型翻訳 AI が駆動する<a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF 翻訳</a>は、最も複雑な PDF ファイルに対応するために設計されています。専門用語が満載の学術論文であろうと、複雑な表や画像が含まれる各種文書であろうと、AI が駆動する PDF 解析技術は、これらの内容を効率的かつ正確に解析することを保証します。"
+    "message": "没入型翻訳AI駆動の<a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF翻訳</a>は、専門用語が満載の学術論文や、複雑な表や画像を含むさまざまなドキュメントなど、最も複雑なPDFファイルを処理するように設計されています。AI駆動のPDF解析技術により、これらの内容の効率的かつ正確な解析が保証されます。"
   },
   "page.download.ePub.title": {
     "message": "ePub電子書籍の翻訳"
@@ -1157,7 +1157,7 @@
     "message": "没入型翻訳AIによるPDF翻訳を使用する"
   },
   "pro.pdf.desc": {
-    "message": "最も複雑なPDFファイルに対応するために特別に設計されており、専門用語が満載の学術論文であろうと、複雑な表や画像が含まれる各種文書であろうと、AI駆動のPDF解析技術はこれらの内容を効率的かつ正確に解析することを保証します（*Pro会員のみ利用可能）。"
+    "message": "特に複雑なPDFファイルを処理するために設計されたこの技術は、専門用語が満載の学術論文であれ、複雑な表や画像を含むさまざまな文書であれ、AI駆動のPDF解析技術により、これらの内容の効率的かつ正確な解析を保証します（*プロ会員のみ利用可能）。"
   },
   "page.exchange.title": {
     "message": "プロ会員の交換"

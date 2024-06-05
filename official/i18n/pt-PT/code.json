@@ -1037,7 +1037,7 @@
     "message": "PDF PRO"
   },
   "page.download.pdfpro.subtitle": {
-    "message": "Tradução imersiva AI-driven <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF</a> foi projetada para lidar com os arquivos PDF mais complexos, seja um artigo acadêmico cheio de jargões profissionais, ou vários documentos contendo tabelas e imagens complexas, a tecnologia de análise de PDF impulsionada por AI pode garantir uma análise eficiente e precisa desses conteúdos."
+    "message": "A tradução de PDF impulsionada por IA <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>Tradução de PDF</a> é projetada para lidar com os arquivos PDF mais complexos, seja eles artigos acadêmicos repletos de terminologia profissional, ou diversos documentos contendo tabelas e imagens complexas. A tecnologia de análise de PDF impulsionada por IA pode garantir a análise eficiente e precisa desses conteúdos."
   },
   "page.download.ePub.title": {
     "message": "ePub livro eletrônico tradução bilíngue"
@@ -1157,7 +1157,7 @@
     "message": "Usando a tradução imersiva AI-driven de PDF"
   },
   "pro.pdf.desc": {
-    "message": "Projetado especificamente para lidar com os arquivos PDF mais complexos, seja um artigo acadêmico cheio de jargões profissionais, ou vários documentos contendo tabelas e imagens complexas, a tecnologia de análise de PDF impulsionada por IA pode garantir uma análise eficiente e precisa desses conteúdos (* disponível apenas para membros Pro)."
+    "message": "Desenhado especificamente para lidar com os arquivos PDF mais complexos, seja eles trabalhos acadêmicos repletos de terminologia profissional, ou diversos documentos contendo tabelas complexas e imagens, a tecnologia de análise de PDF impulsionada por IA pode garantir uma análise eficiente e precisa desses conteúdos (*disponível apenas para membros Pro)."
   },
   "page.exchange.title": {
     "message": "Troca de membro Pro"

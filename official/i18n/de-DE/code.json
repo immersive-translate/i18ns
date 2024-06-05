@@ -1037,7 +1037,7 @@
     "message": "PDF PRO"
   },
   "page.download.pdfpro.subtitle": {
-    "message": "Immersive Translate AI-gesteuerte <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF-Übersetzung</a> wurde speziell für die komplexesten PDF-Dateien entwickelt, egal ob es sich um wissenschaftliche Arbeiten voller Fachbegriffe oder um Dokumente mit komplexen Tabellen und Bildern handelt, die AI-gesteuerte PDF-Analysetechnologie kann sicherstellen, dass diese Inhalte effizient und genau analysiert werden."
+    "message": "Immersive Übersetzungs-KI-gesteuerte <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF-Übersetzung</a> ist darauf ausgelegt, selbst die komplexesten PDF-Dateien zu bearbeiten, egal ob es sich um wissenschaftliche Arbeiten voller Fachterminologie oder um verschiedene Dokumente mit komplexen Tabellen und Bildern handelt. Die KI-gesteuerte PDF-Parsing-Technologie kann eine effiziente und genaue Analyse dieser Inhalte gewährleisten."
   },
   "page.download.ePub.title": {
     "message": "ePub E-Book Zweisprachige Übersetzung"
@@ -1157,7 +1157,7 @@
     "message": "Verwenden Sie die von AI angetriebene Übersetzung von PDFs in Immersion"
   },
   "pro.pdf.desc": {
-    "message": "Speziell entwickelt, um die komplexesten PDF-Dateien zu bewältigen, ob es sich um wissenschaftliche Arbeiten voller Fachbegriffe oder um verschiedene Dokumente mit komplexen Tabellen und Bildern handelt, die von AI angetriebene PDF-Analysetechnologie kann sicherstellen, dass diese Inhalte effizient und genau analysiert werden (*nur für Pro-Mitglieder verfügbar)."
+    "message": "Speziell entwickelt, um die komplexesten PDF-Dateien zu verarbeiten, egal ob es sich um wissenschaftliche Arbeiten voller Fachterminologie handelt oder um verschiedene Dokumente mit komplexen Tabellen und Bildern, kann die KI-gesteuerte PDF-Analysetechnologie eine effiziente und genaue Analyse dieser Inhalte gewährleisten (*nur für Pro-Mitglieder verfügbar)."
   },
   "page.exchange.title": {
     "message": "Pro Mitglied Austausch"

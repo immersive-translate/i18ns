@@ -1037,7 +1037,7 @@
     "message": "PDF PRO"
   },
   "page.download.pdfpro.subtitle": {
-    "message": "La traduzione di PDF guidata da AI di <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>Immersive Translate</a> è progettata per affrontare i file PDF più complessi, sia che si tratti di documenti accademici pieni di terminologia professionale, sia di vari documenti contenenti tabelle e immagini complesse. La tecnologia di analisi PDF guidata da AI può garantire un'analisi efficiente e accurata di questi contenuti."
+    "message": "La traduzione immersiva basata sull'IA <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>Traduzione PDF</a> è progettata per gestire i file PDF più complessi, sia che si tratti di articoli accademici pieni di terminologia professionale, sia di vari documenti contenenti tabelle complesse e immagini. La tecnologia di analisi PDF basata sull'IA può garantire un'analisi efficiente e accurata di questi contenuti."
   },
   "page.download.ePub.title": {
     "message": "ePub Bilingual Translation"
@@ -1157,7 +1157,7 @@
     "message": "Il nostro strumento di traduzione PDF è stato progettato specificamente per supportare layout a due e tre colonne, in grado di riconoscere e adattarsi a layout complessi nei documenti. Questo significa che anche gli articoli accademici con il formato più complesso possono essere analizzati e tradotti con precisione dal nostro sistema."
   },
   "pro.pdf.desc": {
-    "message": "Progettato specificamente per affrontare i file PDF più complessi, sia che si tratti di articoli accademici pieni di terminologia professionale, sia di vari documenti contenenti tabelle e immagini complesse, la tecnologia di analisi PDF guidata da AI può garantire un'analisi efficiente e accurata di questi contenuti (*disponibile solo per i membri Pro)."
+    "message": "Progettato specificamente per gestire i file PDF più complessi, che si tratti di articoli accademici pieni di terminologia professionale, o di vari documenti contenenti tabelle complesse e immagini, la tecnologia di analisi PDF basata sull'IA può garantire un'analisi efficiente e accurata di questi contenuti (*disponibile solo per i membri Pro)."
   },
   "page.exchange.title": {
     "message": "Scambio di membri Pro"
