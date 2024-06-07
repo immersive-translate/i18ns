@@ -4,6 +4,15 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.6.1
+
+- Supports Baidu Qianfan large model platform, Alibaba Bailian large model platform, DeepSeek large model platform.
+- Fixed the issue where modifying the target language and other settings in the popup panel would reset upon clicking the translation floating ball.
+
+## 1.5.8
+
+- AI experts support the "Intelligent Selection" mode, where the system will automatically select the most suitable AI expert based on the current website (for example, technology-related AI experts will be automatically selected for The Verge and Hacker News, while Twitter translation enhancement will be automatically selected for Twitter).
+
 ## 1.5.7
 
 - Support for adding custom AI translation services compatible with OpenAI, accessible at the bottom of the 【Settings】->【Translation Services】page.
