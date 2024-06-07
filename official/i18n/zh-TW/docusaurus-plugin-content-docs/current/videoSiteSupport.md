@@ -61,3 +61,5 @@ sidebar_position: 15
 | [Unreal Sensei](https://www.unrealsenseiacademy.com/)  |  Unreal Sensei 提供有關Unreal Engine的教程和課程，這是一個廣泛用於遊戲開發、建築可視化和虛擬製作的強大引擎。 |
 | [DeepLearning.ai](https://learn.deeplearning.ai)  |  DeepLearning.ai 是由著名的AI專家吳恩達（Andrew Ng）創辦的在線學習平台，提供深度學習和人工智能的課程。 |
 | [Piped.Video](https://piped.video/)  |  Piped.Video 是一個開源的YouTube客戶端，它允許用戶以隱私友好和廣告免費的方式觀看YouTube影片。 |
+
+[查看更多 & 反饋適配需求](https://github.com/immersive-translate/immersive-translate/issues/1179)

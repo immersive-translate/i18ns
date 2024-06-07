@@ -61,3 +61,5 @@ sidebar_position: 15
 | [Unreal Sensei](https://www.unrealsenseiacademy.com/)  |  Unreal Sensei bietet Tutorials und Kurse über Unreal Engine, eine leistungsstarke Engine, die weit verbreitet für die Spieleentwicklung, architektonische Visualisierung und virtuelle Produktion verwendet wird.|
 | [DeepLearning.ai](https://learn.deeplearning.ai)  |  DeepLearning.ai ist eine Online-Lernplattform, gegründet vom renommierten KI-Experten Andrew Ng, die Kurse über tiefes Lernen und künstliche Intelligenz anbietet.|
 | [Piped.Video](https://piped.video/)  |  Piped.Video ist ein Open-Source-YouTube-Client, der es Benutzern ermöglicht, YouTube-Videos auf eine datenschutzfreundliche und werbefreie Weise anzusehen.|
+
+[Mehr anzeigen & Anpassungsanforderungen zurückmelden](https://github.com/immersive-translate/immersive-translate/issues/1179)
