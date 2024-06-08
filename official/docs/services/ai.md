@@ -115,13 +115,14 @@ __待翻译文本__
 
 ## 具体平台接入必填参数举例
 
-### Ollama本地部署开源模型
+### Ollama 本地部署开源模型
 
-- 从[官网](https://ollama.com/)下载安装 Ollama
-- MacOS
-  - OLLAMA_ORIGINS="\*" ollama serve （允许跨域访问并启动ollama）
-- Windows
-  - 在控制面板-系统属性-环境变量-用户环境变量新建2个环境变量：变量名`OLLAMA_HOST`变量值`0.0.0.0`，变量名`OLLAMA_ORIGINS`变量值`*`。
+- 安装配置并启动 Ollama
+  1. 从[官网](https://ollama.com/)下载安装 Ollama
+  2. 设置允许跨域并启动
+    - macOS：命令行执行 `launchctl setenv OLLAMA_ORIGINS "*"`，再启动App。
+    - Windows：控制面板-系统属性-环境变量-用户环境变量新建2个环境变量：变量名`OLLAMA_HOST`变量值`0.0.0.0`，变量名`OLLAMA_ORIGINS`变量值`*`，再启动App。
+    - Linux：命令行执行 `OLLAMA_ORIGINS="*" ollama serve`。
 - 翻译服务配置如下：
   - APIKEY: `ollama`
   - 模型: 请见[模型库](https://ollama.com/library)中模型的具体Tags，例如`qwen:14b-chat-v1.5-q4_1`
