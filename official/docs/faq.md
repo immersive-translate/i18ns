@@ -4,6 +4,12 @@ sidebar_position: 9
 
 # 常见问题
 
+## 手机上 Youtube(or 其他) APP 不显示悬浮球
+浏览器插件只能在浏览器中运行，无法在其他 app 中使用
+
+- iOS 浏览器上点击 YouTube 直接打开 App
+
+  长按 YouTube 链接弹出悬浮窗选择网页打开
 ## 如何关闭自动翻译
 
 - 在 Popup 面板或者设置页面取消。

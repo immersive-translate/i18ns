@@ -4,10 +4,12 @@ sidebar_position: 9
 
 # FAQ
 
-## Unable to download from Apple Store
+## Floating Bubble Not Displayed in Youtube (or Other) Apps on Mobile
+Browser plugins can only run in browsers and cannot be used in other apps.
 
-- 2023.07.28：Apple Store downgraded in China according to policy
-- 2023.08.05：has been re-launched in China
+- Clicking on YouTube in an iOS browser directly opens the App.
+
+  Press and hold the YouTube link to pop up a floating window and choose to open in a webpage.
 
 ## How to turn off automatic translation
 
