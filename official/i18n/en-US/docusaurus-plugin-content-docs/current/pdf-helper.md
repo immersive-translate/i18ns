@@ -95,6 +95,9 @@ When the default translation is displayed, the zoom mode is set to page width fo
 
 However, when the need to print and save the time it is recommended to adjust the zoom mode, it is generally recommended to adjust to 100 percent or the actual size, the printing effect will be better.
 
+## Can the White Background of Text in a PDF Be Removed?
+It cannot be removed. Removing it would reveal the English text underneath.
+
 ### Bilingual preservation
 
 Due to technical limitations on bilingual preservation effects, translations are preserved in the form of images, enabling WYSIWYG preservation of online translation effects.It takes about 5/6 minutes to export 300 pages of PDF.
