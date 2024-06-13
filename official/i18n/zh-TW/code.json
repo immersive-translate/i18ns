@@ -626,7 +626,7 @@
     "message": "9:00 使用\"輸入框翻譯\"功能"
   },
   "page.usegescenarios.content2.desc": {
-    "message": "沉浸式翻譯的輸入框翻譯功能為小張帶來了極大的便利，他只需要在谷歌搜尋框內輸入中文問題，然後三連擊空格，搜尋框裡的問題就會被立即翻譯為英文，再配合搜尋結果的雙語翻譯，小張搜尋資訊的效率提升到了前所未有的高度！"
+    "message": "沉浸式翻譯的輸入框翻譯功能為小張帶來了極大的便利，他只需要在Google搜尋框內輸入中文問題，然後三連擊空格，搜尋框裡的問題就會被立即翻譯為英文，再配合搜尋結果的雙語翻譯，小張搜尋資訊的效率提升到了前所未有的高度！"
   },
   "page.usegescenarios.content3.title": {
     "message": "10:00 與ChatGPT對話"
@@ -1019,7 +1019,7 @@
     "message": "網頁雙語對照翻譯"
   },
   "page.download.web.subtitle": {
-    "message": "我們成功地在數百萬用戶中普及了雙語網頁閱讀體驗，作為行業的佼佼者，沉浸式翻譯內置了包括 DeepL、OpenAI、谷歌翻譯在內的 10 餘種業界頂尖的翻譯引擎，是國內外所有同類產品中支持翻譯引擎最多的工具。"
+    "message": "我們成功地在數百萬用戶中普及了雙語網頁閱讀體驗，作為行業的佼佼者，沉浸式翻譯內置了包括 DeepL、OpenAI、Google翻譯在內的 10 餘種業界頂尖的翻譯引擎，是海內外所有同類產品中支持翻譯引擎最多的工具。"
   },
   "page.download.videoSub.title": {
     "message": "影片雙語字幕"
@@ -1235,7 +1235,7 @@
     "message": "{hlStart}AO3一鍵變雙語對照{hlEnd}，超讚看文神器：{hlStart}沉浸式翻譯{hlEnd}"
   },
   "page.index.ao3Description": {
-    "message": "免費、好用、零門檻、零延遲——無需下載，在線安裝，打開即用；第一時間吃上同人飯，萬文翻譯不求人；<br/>一鍵翻譯、雙語對照、原汁原味——自由調用谷歌、OpenAI (ChatGPT)、DeepL、Gemini等AI翻譯引擎；<br/>隨時隨地、想嗑就嗑——支持網頁版、手機版，以及超過100+語言。立刻安裝，開始干飯&gt;o&lt;"
+    "message": "免費、好用、零門檻、零延遲——無需下載，在線安裝，打開即用；第一時間吃上同人飯，萬文翻譯不求人；<br/>一鍵翻譯、雙語對照、原汁原味——自由調用Google、OpenAI (ChatGPT)、DeepL、Gemini等AI翻譯引擎；<br/>隨時隨地、想嗑就嗑——支持網頁版、手機版，以及超過100+語言。立刻安裝，開始干飯&gt;o&lt;"
   },
   "page.features.ao3AddToBrowser": {
     "message": "立即安裝，開始幹飯&gt;o&lt;"
