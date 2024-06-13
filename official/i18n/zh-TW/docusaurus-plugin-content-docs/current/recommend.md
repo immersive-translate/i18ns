@@ -5,6 +5,10 @@
 
 Relingo 會根據你設定的難度級別和你喜歡的詞彙自動加亮和翻譯。在瀏覽網頁時，您只需專注於您不熟悉的單詞，並在不同的語境中加強記憶。
 
+- [Chinese words separator](https://chromewebstore.google.com/detail/chinese-words-separator-c/gacfacdpfimbkgcnlegknnmcccjgcbnp) 插件
+
+CWS（中文詞分隔器）是一個多功能工具，可以幫助你通過讀、聽、說和寫來學習中文，還能在網頁上查找中文詞語和短語，提高學習效率。它支持多種功能，如拼音標註、聲調顯示、調整漢字大小和字體，既適合中文學習者，也適合母語為中文的人學習英語。
+
 ## 科研工具
 - [Scholarscope](https://www.scholarscope.online/) 插件
     - 它能自動加載 PubMed 期刊信息，幫助用戶篩選有用的期刊，高效閱讀文獻

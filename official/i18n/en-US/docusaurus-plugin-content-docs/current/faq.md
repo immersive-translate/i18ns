@@ -4,10 +4,18 @@ sidebar_position: 9
 
 # FAQ
 
-## Unable to download from Apple Store
+## Main content on websites like Youtube, Facebook is translated, but some sidebars are not, I want to translate everything
 
-- 2023.07.28：Apple Store downgraded in China according to policy
-- 2023.08.05：has been re-launched in China
+For the sake of page readability, immersive translation by default only translates the main content area. If you want to translate everything.
+
+Open the floating ball panel (long press on mobile) -> Click on more in the bottom right corner -> Select all areas
+
+## Floating Bubble Not Displayed in Youtube (or Other) Apps on Mobile
+Browser plugins can only run in browsers and cannot be used in other apps.
+
+- Clicking on YouTube in an iOS browser directly opens the App.
+
+  Press and hold the YouTube link to pop up a floating window and choose to open in a webpage.
 
 ## How to turn off automatic translation
 
