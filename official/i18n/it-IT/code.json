@@ -1218,5 +1218,26 @@
   },
   "page.pricing.header.normal.subtitle3": {
     "message": "Continuando ad utilizzare, accetti i <a href='/docs/TERMS/' target='_blank'>Termini di servizio</a> e l'<a href='/docs/PRIVACY/' target='_blank'>Informativa sulla privacy</a>"
+  },
+  "page.pricing.header.normal.title.guide": {
+    "message": "🎉 Ho completato il Tutorial Base"
+  },
+  "page.pricing.header.normal.subtitle1.guide": {
+    "message": "Puoi conoscere i piani gratuiti e a pagamento per Immersive Translate qui sotto."
+  },
+  "page.index.ao3Title": {
+    "message": "{hlStart}AO3 trasforma in bilingue con un clic{hlEnd}, strumento fantastico per leggere: {hlStart}traduzione immersiva{hlEnd}"
+  },
+  "page.index.ao3Description": {
+    "message": "Gratuito, facile da usare, senza barriere, senza ritardi - nessun download necessario, installazione online, pronto all'uso; goditi per primo il fandom senza chiedere aiuto a nessuno; traduzione automatica, testo bilingue, autentico - libero accesso a motori di traduzione AI come Google, OpenAI (ChatGPT), DeepL, Gemini, ecc.; ovunque tu sia, quando vuoi - disponibile su web, mobile e supporta oltre 100+ lingue. Installa ora e inizia a \"mangiare\" >o<"
+  },
+  "page.features.ao3AddToBrowser": {
+    "message": "Installa subito, inizia a mangiare >o<"
+  },
+  "page.download.ao3.title": {
+    "message": "Esperto di traduzione IA di AO3"
+  },
+  "page.download.ao3.subtitle": {
+    "message": "Per le esigenze uniche della comunità AO3, abbiamo sviluppato un innovativo esperto di traduzione AI AO3. Puoi utilizzarlo nei servizi di traduzione AI con supporto immersivo, come OpenAI, Claude, Gemini; ci impegniamo a fornire un'esperienza di lettura più precisa e fluida agli appassionati di AO3."
   }
 }

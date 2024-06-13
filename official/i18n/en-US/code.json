@@ -1230,5 +1230,20 @@
   },
   "page.pricing.header.normal.subtitle1.guide": {
     "message": "You can learn about the free and paid plans for Immersive Translate below"
+  },
+  "page.index.ao3Title": {
+    "message": "{hlStart}AO3 One-Click Bilingual Comparison{hlEnd}, an awesome reading tool: {hlStart}Immersive Translation{hlEnd}"
+  },
+  "page.index.ao3Description": {
+    "message": "Free, easy to use, zero barriers, zero delay—no need to download, install online, ready to use upon opening; be the first to enjoy fan-made content, translate tens of thousands of texts without asking for help;<br/>One-click translation, bilingual comparison, authentic flavor—freely utilize Google, OpenAI (ChatGPT), DeepL, Gemini, and other AI translation engines;<br/>Anytime, anywhere, translate whenever you want—supports web and mobile versions, and over 100+ languages. Install now and start translating&gt;o&lt;"
+  },
+  "page.features.ao3AddToBrowser": {
+    "message": "Install it now and start eating >o<"
+  },
+  "page.download.ao3.title": {
+    "message": "AO3 AI Translation Expert"
+  },
+  "page.download.ao3.subtitle": {
+    "message": "In response to the unique needs of the AO3 community, we have developed an innovative AO3 AI Translation Expert. You can use it within AI translation services that support immersive translation, such as OpenAI, Claude, and Gemini. We are committed to providing AO3 enthusiasts with more accurate and smooth reading experiences."
   }
 }

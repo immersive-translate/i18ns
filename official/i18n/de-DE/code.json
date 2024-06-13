@@ -1218,5 +1218,26 @@
   },
   "page.pricing.header.normal.subtitle3": {
     "message": "Weiterverwendung bedeutet, dass Sie den <a href='/docs/TERMS/' target='_blank'>Nutzungsbedingungen</a> und der <a href='/docs/PRIVACY/' target='_blank'>Datenschutzrichtlinie</a> zustimmen."
+  },
+  "page.pricing.header.normal.title.guide": {
+    "message": "🎉 Grundanleitung abgeschlossen"
+  },
+  "page.pricing.header.normal.subtitle1.guide": {
+    "message": "Sie können unten mehr über die kostenlosen und kostenpflichtigen Pläne für Immersive Translate erfahren."
+  },
+  "page.index.ao3Title": {
+    "message": "{hlStart}AO3 mit einem Klick zweisprachig{hlEnd}, ein großartiges Tool zum Lesen: {hlStart}Immersive Übersetzung{hlEnd}"
+  },
+  "page.index.ao3Description": {
+    "message": "Kostenlos, benutzerfreundlich, keine Einstiegshürden, keine Verzögerungen – kein Download notwendig, online installieren, sofort einsatzbereit; als Erster Fanfiction genießen, Tausende von Übersetzungen ohne fremde Hilfe;<br/>Ein-Klick-Übersetzung, zweisprachiger Vergleich, authentisches Erlebnis – freie Nutzung von Google, OpenAI (ChatGPT), DeepL, Gemini und anderen KI-Übersetzungsengines;<br/>Jederzeit und überall, snacken nach Lust und Laune – unterstützt Webversion, Mobilversion und mehr als 100+ Sprachen. Jetzt installieren und loslegen &gt;o&lt;"
+  },
+  "page.features.ao3AddToBrowser": {
+    "message": "Sofort installieren, anfangen zu essen >o<"
+  },
+  "page.download.ao3.title": {
+    "message": "AO3 AI Übersetzungsexperte"
+  },
+  "page.download.ao3.subtitle": {
+    "message": "Für die speziellen Bedürfnisse der AO3-Gemeinschaft haben wir einen innovativen AO3 AI Übersetzungsexperten entwickelt. Sie können ihn in AI-basierten Übersetzungsdiensten mit immersiver Unterstützung (wie OpenAI, Claude, Gemini) verwenden, und wir sind bestrebt, den AO3-Fans ein präziseres und flüssigeres Leseerlebnis zu bieten."
   }
 }

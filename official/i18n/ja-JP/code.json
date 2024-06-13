@@ -1218,5 +1218,26 @@
   },
   "page.pricing.header.normal.subtitle3": {
     "message": "続けて使用することは、<a href='/docs/TERMS/' target='_blank'>利用規約</a>と<a href='/docs/PRIVACY/' target='_blank'>プライバシーポリシー</a>に同意することを意味します"
+  },
+  "page.pricing.header.normal.title.guide": {
+    "message": "🎉 基本チュートリアルを完了しました"
+  },
+  "page.pricing.header.normal.subtitle1.guide": {
+    "message": "以下でImmersive Translateの無料プランと有料プランについて学ぶことができます。"
+  },
+  "page.index.ao3Title": {
+    "message": "{hlStart}AO3をワンクリックでバイリンガル対照に{hlEnd}、素晴らしい読書ツール：{hlStart}没入型翻訳{hlEnd}"
+  },
+  "page.index.ao3Description": {
+    "message": "無料、使いやすい、ノーエントリー、ゼロ遅延——ダウンロード不要、オンラインでインストール、開けばすぐ使える；同人ごはんをいち早く楽しむ、万文翻訳を他人に頼まない；<br/>ワンクリック翻訳、バイリンガル対照、オリジナルの味——Google、OpenAI (ChatGPT)、DeepL、GeminiなどのAI翻訳エンジンを自由に使用；<br/>いつでもどこでも、食べたいときに食べる——ウェブ版、モバイル版をサポートし、100以上の言語に対応。すぐにインストールして、食事を始めよう&gt;o&lt;"
+  },
+  "page.features.ao3AddToBrowser": {
+    "message": "すぐにインストールして、食事を始めましょう>o<"
+  },
+  "page.download.ao3.title": {
+    "message": "AO3 AI 翻訳専門家"
+  },
+  "page.download.ao3.subtitle": {
+    "message": "AO3 コミュニティのユニークなニーズに対応するため、私たちは革新的な AO3 AI 翻訳エキスパートを開発しました。この AI 翻訳サービスは、OpenAI、Claude、Gemini などの没入型翻訳サポート AI で使用でき、AO3 ファンにより正確でスムーズな読書体験を提供することに専念しています。"
   }
 }
