@@ -419,6 +419,12 @@
   "page.index.description": {
     "message": "你可以<b>完全免费</b>地使用它来实时翻译外语网页，<a href=\"{pdfUrl}\">PDF翻译</a>，<a target=\"_blank\" href=\"{epubUrl}\">EPUB电子书翻译</a>，视频双语字幕翻译等。<br />还可以自由选择调用OpenAI (ChatGPT)、DeepL、Gemini等人工智能引擎来翻译上述内容。<br/>在手机上也可以随时随地用哦，<b>真正帮助你打破信息壁垒，选择下方的平台，立刻开始体验</b>:)"
   },
+  "page.index.ao3Title": {
+    "message": "{hlStart}AO3一键变双语对照{hlEnd}，超赞看文神器：{hlStart}沉浸式翻译{hlEnd}"
+  },
+  "page.index.ao3Description": {
+    "message": "免费、好用、零门槛、零延迟——无需下载，在线安装，打开即用；第一时间吃上同人饭，万文翻译不求人；<br/>一键翻译、双语对照、原汁原味——自由调用谷歌、OpenAI (ChatGPT)、DeepL、Gemini等AI翻译引擎；<br/>随时随地、想嗑就嗑——支持网页版、手机版，以及超过100+语言。立刻安装，开始干饭&gt;o&lt;"
+  },
   "page.index.downloadBtn.edge": {
     "message": "Edge 扩展"
   },
@@ -790,6 +796,9 @@
   "page.features.AddToBrowser": {
     "message": "添加到浏览器"
   },
+  "page.features.ao3AddToBrowser": {
+    "message": "立刻安装，开始干饭>o<"
+  },
   "page.features.shareBilingualContent.page.title": {
     "message": "双语内容分享-沉浸式翻译"
   },
@@ -1026,6 +1035,12 @@
   },
   "page.download.videoSub.subtitle": {
     "message": "沉浸式翻译率先支持 50 多个国外的主流视频网站的双语实时字幕。有了双语字幕，您不仅能够完全理解视频内容，还能在观影过程中自然地学习外语。原汁原味的外语语音配合母语字幕，让您在潜移默化中提高听说读写能力。"
+  },
+  "page.download.ao3.title": {
+    "message": "AO3 AI 翻译专家"
+  },
+  "page.download.ao3.subtitle": {
+    "message": "针对 AO3 社区的独特需求，我们开发了一款创新的 AO3 AI 翻译专家。你可以在沉浸式翻译支持的 AI 类翻译服务（如 OpenAI、Claude、Gemini）中使用它，我们致力于为 AO3 爱好者提供更加精准、流畅的阅读体检。"
   },
   "page.download.pdf.title": {
     "message": "PDF对照翻译"
