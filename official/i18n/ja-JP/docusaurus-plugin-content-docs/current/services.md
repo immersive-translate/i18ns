@@ -6,16 +6,24 @@
 
 ## 翻訳サービス
 
+- [Claude](./services/claude.md)
 - [Deepl](./services/deepL.md)
+- [DeepSeek](./services/deepseek.md)
 - [Gemini](./services/gemini.md)
-- [彩雲小訳](./services/caiyun.md)
-- [テンセント翻訳君](./services/tencent.md)
-- [火山エンジン](./services/volcano.md)
-- [百度翻訳](./services/baidu.md)
 - [OpenL](./services/openL.md)
+- [Open AI (Azure OpenAI)](./services/openai.md)
+- [マイクロソフト Azure 翻訳](./services/azure.md)
+- [アリババクラウド バイリアンモデル](./services/aliyun-bailian.md)
+- [アリババクラウド 翻訳](./services/aliyun.md)
+- [バイドゥ チェンファン モデル](./services/baidu-qianfan.md)
+- [バイトダンス ドウバオモデル](./services/doubao.md)
+- [バイドゥ 翻訳](./services/baidu.md)
+- [彩雲翻訳](./services/caiyun.md)
+- [ボルケーノエンジン](./services/volcano.md)
+- [テンセント翻訳](./services/tencent.md)
 - [小牛翻訳](./services/niu.md)
 - [有道翻訳](./services/youdao.md)
-- [マイクロソフト翻訳](./services/azure.md)
+- [カスタムAPI翻訳](./services/custom.md)
 
 ## 免責事項
 

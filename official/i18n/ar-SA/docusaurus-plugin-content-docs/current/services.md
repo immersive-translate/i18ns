@@ -6,15 +6,24 @@
 
 ## خدمة التفسير
 
-1. [ديبل](./services/deepL.md)
-2. [تسايون شياوي](./services/caiyun.md)
-3. [مترجم تنسنت](./services/tencent.md)
-4. [محرك البركان](./services/volcano.md)
-5. [بايدو ترانسليت](./services/baidu.md)
-6. [أوبن إل](./services/openL.md)
-7. [ترجمة نيو](./services/niu.md)
-8. [مترجم يوداو](./services/youdao.md)
-9. [مايكروسوفت ترانسليت](./services/azure.md)
+- [Claude](./services/claude.md)
+- [Deepl](./services/deepL.md)
+- [DeepSeek](./services/deepseek.md)
+- [Gemini](./services/gemini.md)
+- [OpenL](./services/openL.md)
+- [Open AI (Azure OpenAI)](./services/openai.md)
+- [ترجمة Microsoft Azure](./services/azure.md)
+- [نموذج علي بابا كلاود بايليان](./services/aliyun-bailian.md)
+- [ترجمة علي بابا كلاود](./services/aliyun.md)
+- [نموذج بايدو تشيانفان](./services/baidu-qianfan.md)
+- [نموذج بايت دانس دوباو](./services/doubao.md)
+- [ترجمة بايدو](./services/baidu.md)
+- [مترجم كايوان](./services/caiyun.md)
+- [محرك البركان](./services/volcano.md)
+- [ترجمة تينسنت](./services/tencent.md)
+- [ترجمة نيو](./services/niu.md)
+- [ترجمة يوداو](./services/youdao.md)
+- [ترجمة API مخصصة](./services/custom.md)
 
 ## بيان ينفي أو يحد من المسؤولية
 

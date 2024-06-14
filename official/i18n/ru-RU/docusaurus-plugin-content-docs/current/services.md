@@ -6,16 +6,24 @@
 
 ## Сервисы перевода
 
+- [Claude](./services/claude.md)
 - [Deepl](./services/deepL.md)
+- [DeepSeek](./services/deepseek.md)
 - [Gemini](./services/gemini.md)
-- [彩云小译](./services/caiyun.md) (Цветное Облачное Переводчик)
-- [腾讯翻译君](./services/tencent.md) (Переводчик Tencent)
-- [火山引擎](./services/volcano.md) (Вулканический Движок)
-- [百度翻译](./services/baidu.md) (Переводчик Baidu)
 - [OpenL](./services/openL.md)
-- [小牛翻译](./services/niu.md) (Переводчик Niu)
-- [有道翻译](./services/youdao.md) (Переводчик Youdao)
-- [微软翻译](./services/azure.md) (Переводчик Microsoft)
+- [Open AI (Azure OpenAI)](./services/openai.md)
+- [Перевод Microsoft Azure](./services/azure.md)
+- [Модель Alibaba Cloud Bailian](./services/aliyun-bailian.md)
+- [Перевод Alibaba Cloud](./services/aliyun.md)
+- [Модель Baidu Qianfan](./services/baidu-qianfan.md)
+- [Модель ByteDance Doubao](./services/doubao.md)
+- [Перевод Baidu](./services/baidu.md)
+- [Переводчик Caiyun](./services/caiyun.md)
+- [Volcano Engine](./services/volcano.md)
+- [Перевод Tencent](./services/tencent.md)
+- [Перевод Niu](./services/niu.md)
+- [Перевод Youdao](./services/youdao.md)
+- [Пользовательский API перевод](./services/custom.md)
 
 ## Отказ от ответственности
 

@@ -4,18 +4,26 @@
 
 可以[在此](https://github.com/immersive-translate/immersive-translate/issues/137)進行翻譯服務 API 相關的討論。
 
-## 翻譯服務
+## **翻譯服務**
 
+- [Claude](./services/claude.md)
 - [Deepl](./services/deepL.md)
+- [DeepSeek](./services/deepseek.md)
 - [Gemini](./services/gemini.md)
-- [彩雲小譯](./services/caiyun.md)
-- [騰訊翻譯君](./services/tencent.md)
-- [火山引擎](./services/volcano.md)
-- [百度翻譯](./services/baidu.md)
 - [OpenL](./services/openL.md)
+- [Open AI (Azure OpenAI)](./services/openai.md)
+- [微軟 Azure 翻譯](./services/azure.md)
+- [阿里雲百煉大模型](./services/aliyun-bailian.md)
+- [阿里雲翻譯](./services/aliyun.md)
+- [百度千帆大模型](./services/baidu-qianfan.md)
+- [字節跳動豆包大模型](./services/doubao.md)
+- [百度翻譯](./services/baidu.md)
+- [彩雲小譯](./services/caiyun.md)
+- [火山引擎](./services/volcano.md)
+- [騰訊翻譯君](./services/tencent.md)
 - [小牛翻譯](./services/niu.md)
 - [有道翻譯](./services/youdao.md)
-- [微軟翻譯](./services/azure.md)
+- [自定義接口翻譯](./services/custom.md)
 
 ## 免責聲明
 

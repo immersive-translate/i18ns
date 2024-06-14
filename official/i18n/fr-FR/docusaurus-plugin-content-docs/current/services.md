@@ -6,15 +6,24 @@ Les discussions liées à l'API du service de traduction peuvent se tenir [ici](
 
 ## Service d'interprétation
 
-1. [Deepl](./services/deepL.md)
-2. [Caiyun Xiaoyi](./services/caiyun.md)
-3. [Tencent Translator](./services/tencent.md)
-4. [Volcano Engine](./services/volcano.md)
-5. [Baidu Translate](./services/baidu.md)
-6. [OpenL](./services/openL.md)
-7. [Niu Translation](./services/niu.md)
-8. [Youdao Translator](./services/youdao.md)
-9. [Microsoft Translate](./services/azure.md)
+- [Claude](./services/claude.md)
+- [Deepl](./services/deepL.md)
+- [DeepSeek](./services/deepseek.md)
+- [Gemini](./services/gemini.md)
+- [OpenL](./services/openL.md)
+- [Open AI (Azure OpenAI)](./services/openai.md)
+- [Traduction Microsoft Azure](./services/azure.md)
+- [Modèle Bailian d'Alibaba Cloud](./services/aliyun-bailian.md)
+- [Traduction Alibaba Cloud](./services/aliyun.md)
+- [Modèle Qianfan de Baidu](./services/baidu-qianfan.md)
+- [Modèle Doubao de ByteDance](./services/doubao.md)
+- [Traduction Baidu](./services/baidu.md)
+- [Traducteur Caiyun](./services/caiyun.md)
+- [Moteur Volcano](./services/volcano.md)
+- [Traduction Tencent](./services/tencent.md)
+- [Traduction Niu](./services/niu.md)
+- [Traduction Youdao](./services/youdao.md)
+- [Traduction API Personnalisée](./services/custom.md)
 
 ## Déclaration niant ou limitant la responsabilité
 

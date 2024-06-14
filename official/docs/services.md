@@ -6,16 +6,24 @@
 
 ## 翻译服务
 
+- [Claude](./services/claude.md)
 - [Deepl](./services/deepL.md)
+- [DeepSeek](./services/deepseek.md)
 - [Gemini](./services/gemini.md)
-- [彩云小译](./services/caiyun.md)
-- [腾讯翻译君](./services/tencent.md)
-- [火山引擎](./services/volcano.md)
-- [百度翻译](./services/baidu.md)
 - [OpenL](./services/openL.md)
+- [Open AI (Azure OpenAI)](./services/openai.md)
+- [微软 Azure 翻译](./services/azure.md)
+- [阿里云百炼大模型](./services/aliyun-bailian.md)
+- [阿里云翻译](./services/aliyun.md)
+- [百度千帆大模型](./services/baidu-qianfan.md)
+- [字节跳动豆包大模型](./services/doubao.md)
+- [百度翻译](./services/baidu.md)
+- [彩云小译](./services/caiyun.md)
+- [火山引擎](./services/volcano.md)
+- [腾讯翻译君](./services/tencent.md)
 - [小牛翻译](./services/niu.md)
 - [有道翻译](./services/youdao.md)
-- [微软翻译](./services/azure.md)
+- [自定义接口翻译](./services/custom.md)
 
 ## 免责声明
 
