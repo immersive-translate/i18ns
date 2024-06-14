@@ -471,7 +471,7 @@
     "message": "Video bilingual subtitles"
   },
   "page.index.usageCase.video.desc": {
-    "message": "Supports 50+ video sites, automatic bilingual subtitles"
+    "message": "Supports 60+ video sites, automatic bilingual subtitles"
   },
   "page.index.usageCase.twitter.desc": {
     "message": "जानकारी आसानी से ब्राउज़ करने के लिए \"इमर्सिव ट्रांसलेशन\" का उपयोग करें"
@@ -1016,46 +1016,46 @@
     "message": "The term \"<b>Immersive Translate</b>\" was coined by us. Today, it has become synonymous with \"<b>bilingual contrastive translation</b>.\" Since its launch in 2023, this acclaimed AI bilingual webpage translation extension has helped over a million users overcome language barriers and freely access global knowledge. We believe that breaking down language barriers promotes information equity."
   },
   "page.download.web.title": {
-    "message": "Bilingual Webpage Translation"
+    "message": "द्विभाषी वेबपेज अनुवाद"
   },
   "page.download.web.subtitle": {
-    "message": "We have successfully popularized the bilingual webpage reading experience among millions of users. As a leader in the industry, Immersive Translate incorporates over 10 of the top translation engines in the industry, including DeepL, OpenAI, and Google Translate, making it the tool with the most supported translation engines among all similar products worldwide."
+    "message": "हमने लाखों उपयोगकर्ताओं के बीच द्विभाषी वेबपेज पढ़ने के अनुभव को सफलतापूर्वक लोकप्रिय बनाया है। उद्योग में एक नेता के रूप में, इमर्सिव ट्रांसलेट उद्योग के शीर्ष 10 अनुवाद इंजनों को शामिल करता है, जिसमें DeepL, OpenAI, और Google Translate शामिल हैं, जिससे यह विश्वभर में समान उत्पादों में सबसे अधिक समर्थित अनुवाद इंजनों वाला उपकरण बन गया है।"
   },
   "page.download.videoSub.title": {
-    "message": "Video Bilingual Subtitles"
+    "message": "वीडियो द्विभाषी उपशीर्षक"
   },
   "page.download.videoSub.subtitle": {
-    "message": "Immersive Translate was the first to support bilingual real-time subtitles for over 50 mainstream foreign video sites. With bilingual subtitles, you can fully understand the video content and naturally learn a foreign language while watching. The authentic foreign language audio combined with subtitles in your mother tongue helps you improve your listening, speaking, reading, and writing skills subtly."
+    "message": "इमर्सिव ट्रांसलेट पहला था जिसने 60 से अधिक मुख्यधारा की विदेशी वीडियो साइटों के लिए द्विभाषी वास्तविक समय सबटाइटल का समर्थन किया। द्विभाषी सबटाइटल के साथ, आप वीडियो सामग्री को पूरी तरह से समझ सकते हैं और देखते समय स्वाभाविक रूप से एक विदेशी भाषा सीख सकते हैं। असली विदेशी भाषा की ऑडियो आपकी मातृभाषा में सबटाइटल के साथ मिलकर आपकी सुनने, बोलने, पढ़ने, और लिखने की क्षमताओं को सूक्ष्मता से सुधारने में मदद करती है।"
   },
   "page.download.pdf.title": {
-    "message": "PDF Contrastive Translation"
+    "message": "PDF विपरीत अनुवाद"
   },
   "page.download.pdf.subtitle": {
-    "message": "Immersive Translate innovatively introduced a free PDF document contrastive translation feature in the browser plugin. Whether you need to read foreign academic papers or handle multilingual business documents, you can obtain high-quality translation results with a single click through Immersive Translate."
+    "message": "Immersive Translate ने ब्राउज़र प्लगइन में एक मुफ्त पीडीएफ दस्तावेज़ विपरीत अनुवाद सुविधा का नवीनतापूर्ण परिचय दिया। चाहे आपको विदेशी शैक्षणिक पत्र पढ़ने की आवश्यकता हो या बहुभाषी व्यावसायिक दस्तावेज़ संभालने की, आप Immersive Translate के माध्यम से एक क्लिक के साथ उच्च-गुणवत्ता वाले अनुवाद परिणाम प्राप्त कर सकते हैं।"
   },
   "page.download.pdfpro.title": {
     "message": "PDF PRO"
   },
   "page.download.pdfpro.subtitle": {
-    "message": "इमर्सिव अनुवाद AI-प्रेरित <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF अनुवाद</a> सबसे जटिल PDF फाइलों को संभालने के लिए डिज़ाइन किया गया है, चाहे वे पेशेवर शब्दावली से भरे अकादमिक पत्र हों, या जटिल तालिकाओं और चित्रों वाले विभिन्न दस्तावेज़ हों। AI-प्रेरित PDF पार्सिंग प्रौद्योगिकी इन सामग्रियों की कुशल और सटीक पार्सिंग सुनिश्चित कर सकती है।"
+    "message": "इमर्सिव अनुवाद AI-प्रेरित <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF अनुवाद</a> सबसे जटिल PDF फाइलों को संभालने के लिए डिज़ाइन किया गया है, चाहे वे पेशेवर शब्दावली से भरे अकादमिक पत्र हों, या जटिल तालिकाओं और छवियों वाले विभिन्न दस्तावेज़ हों। AI-प्रेरित PDF पार्सिंग प्रौद्योगिकी इन सामग्रियों की कुशल और सटीक पार्सिंग सुनिश्चित कर सकती है।"
   },
   "page.download.ePub.title": {
-    "message": "ePub Bilingual Translation"
+    "message": "ePub द्विभाषी अनुवाद"
   },
   "page.download.ePub.subtitle": {
-    "message": "With Immersive Translate, creating bilingual ePub ebooks has never been easier! Our one-click ebook creation feature instantly transforms your foreign language ebooks into elegant bilingual versions, allowing you to enjoy an immersive reading experience on various e-readers."
+    "message": "Immersive Translate के साथ, द्विभाषी ePub ईबुक्स बनाना पहले से कहीं ज्यादा आसान हो गया है! हमारी वन-क्लिक ईबुक निर्माण सुविधा आपकी विदेशी भाषा की ईबुक्स को तुरंत शानदार द्विभाषी संस्करणों में परिवर्तित कर देती है, जिससे आप विभिन्न ई-रीडर्स पर एक आकर्षक पठन अनुभव का आनंद ले सकते हैं।"
   },
   "page.download.mouse.title": {
     "message": "Mouseover Translation"
   },
   "page.download.mouse.subtitle": {
-    "message": "Immersive Translate brings another revolutionary interaction innovation—mouseover translation. Simply hover your mouse over any paragraph and press the preset shortcut key (such as Ctrl), and the translation of the current paragraph will immediately appear after the paragraph."
+    "message": "इमर्सिव ट्रांसलेट एक और क्रांतिकारी इंटरेक्शन नवाचार लाता है—माउसओवर अनुवाद। किसी भी पैराग्राफ पर अपना माउस होवर करें और प्रीसेट शॉर्टकट कुंजी (जैसे कि Ctrl) दबाएं, और वर्तमान पैराग्राफ का अनुवाद तुरंत पैराग्राफ के बाद प्रदर्शित होगा।"
   },
   "page.download.input.title": {
     "message": "Input Box Translation"
   },
   "page.download.input.subtitle": {
-    "message": "Directly enter text in any input box (such as \"hello world\"), quickly press the space bar three times, and the text will be translated into the target language (default English, customizable). This innovative interaction mode is suitable for search, writing, dialogue, and other types of pages, allowing you to complete translations instantly without switching."
+    "message": "किसी भी इनपुट बॉक्स में सीधे पाठ दर्ज करें (जैसे \"हैलो वर्ल्ड\"), तेजी से स्पेस बार को तीन बार दबाएं, और पाठ लक्षित भाषा में अनुवादित हो जाएगा (डिफ़ॉल्ट अंग्रेजी, अनुकूलन योग्य)। यह नवीन इंटरैक्शन मोड खोज, लेखन, संवाद, और अन्य प्रकार के पृष्ठों के लिए उपयुक्त है, जिससे आप स्विच किए बिना तुरंत अनुवाद पूरा कर सकते हैं।"
   },
   "page.viewDownload.title": {
     "message": "Immersive Translate, one-click to enable bilingual reading"

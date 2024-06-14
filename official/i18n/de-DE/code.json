@@ -471,7 +471,7 @@
     "message": "Video bilingual subtitles"
   },
   "page.index.usageCase.video.desc": {
-    "message": "Supports 50+ video sites, automatic bilingual subtitles"
+    "message": "Supports 60+ video sites, automatic bilingual subtitles"
   },
   "page.index.usageCase.twitter.desc": {
     "message": "Einfaches Durchsuchen von Informationen mit Immersive Translate"
@@ -1016,46 +1016,46 @@
     "message": "<b>\"Eintauchende Übersetzung\"</b> ist ein Begriff, den wir erfunden und kreiert haben. Heute ist es zum Synonym für <b>\"Zweisprachige Vergleichsübersetzung\"</b> geworden. Seit seiner Einführung im Jahr 2023 hat diese hochgelobte AI-zweisprachige Vergleichs-Webseiten-Übersetzungserweiterung mehr als eine Million Benutzer dabei unterstützt, Sprachbarrieren zu überwinden und frei globales Wissen zu schöpfen. Wir glauben fest daran, dass das Überwinden von Sprachbarrieren dazu beiträgt, die Informationsgerechtigkeit zu fördern."
   },
   "page.download.web.title": {
-    "message": "Webseiten-Zweisprachige Parallelübersetzung"
+    "message": "Zweisprachige Webseitenübersetzung"
   },
   "page.download.web.subtitle": {
-    "message": "Wir haben das zweisprachige Webseitenerlebnis erfolgreich unter Millionen von Nutzern verbreitet. Als Branchenführer hat die immersive Übersetzung mehr als 10 der weltweit führenden Übersetzungsmotoren eingebaut, einschließlich DeepL, OpenAI und Google Übersetzer. Es ist das Werkzeug mit den meisten unterstützten Übersetzungsmotoren unter allen ähnlichen Produkten im In- und Ausland."
+    "message": "Wir haben das zweisprachige Webseiten-Leseerlebnis erfolgreich unter Millionen von Nutzern popularisiert. Als Branchenführer integriert Immersive Translate über 10 der führenden Übersetzungsmotoren der Branche, einschließlich DeepL, OpenAI und Google Translate, und macht es damit zum Werkzeug mit den meisten unterstützten Übersetzungsmotoren unter allen ähnlichen Produkten weltweit."
   },
   "page.download.videoSub.title": {
-    "message": "Video-Zweisprachige Untertitel"
+    "message": "Video zweisprachige Untertitel"
   },
   "page.download.videoSub.subtitle": {
-    "message": "Immersive Übersetzung unterstützt als erstes zweisprachige Echtzeit-Untertitel für mehr als 50 führende ausländische Videowebsites. Mit zweisprachigen Untertiteln können Sie nicht nur den Inhalt des Videos vollständig verstehen, sondern auch auf natürliche Weise Fremdsprachen lernen, während Sie Filme schauen. Originalsprachige Stimmen kombiniert mit Muttersprachen-Untertiteln ermöglichen es Ihnen, Ihre Hör-, Sprech-, Lese- und Schreibfähigkeiten unbemerkt zu verbessern."
+    "message": "Immersive Translate war der erste, der zweisprachige Echtzeit-Untertitel für über 60 führende ausländische Videoseiten unterstützte. Mit zweisprachigen Untertiteln können Sie den Videoinhalt vollständig verstehen und ganz natürlich eine Fremdsprache beim Anschauen lernen. Das authentische Fremdsprachenaudio zusammen mit Untertiteln in Ihrer Muttersprache hilft Ihnen, Ihre Hör-, Sprech-, Lese- und Schreibfähigkeiten subtil zu verbessern."
   },
   "page.download.pdf.title": {
-    "message": "PDF-Vergleichsübersetzung"
+    "message": "PDF Kontrastive Übersetzung"
   },
   "page.download.pdf.subtitle": {
-    "message": "Immersive Übersetzung hat bahnbrechend eine kostenlose PDF-Dokumentenvergleichsübersetzungsfunktion in Browser-Plugins eingeführt. Unabhängig davon, ob Sie ausländische wissenschaftliche Arbeiten lesen müssen oder mehrsprachige Geschäftsdokumente bearbeiten müssen, können Sie mit der Immersive Übersetzung hochwertige Übersetzungsergebnisse mit einem Klick erhalten."
+    "message": "Immersive Translate hat innovativ eine kostenlose PDF-Dokument kontrastive Übersetzungsfunktion im Browser-Plugin eingeführt. Ob Sie ausländische wissenschaftliche Arbeiten lesen oder mehrsprachige Geschäftsdokumente bearbeiten müssen, Sie können mit einem einzigen Klick durch Immersive Translate hochwertige Übersetzungsergebnisse erhalten."
   },
   "page.download.pdfpro.title": {
     "message": "PDF PRO"
   },
   "page.download.pdfpro.subtitle": {
-    "message": "Immersive Übersetzungs-KI-gesteuerte <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF-Übersetzung</a> ist darauf ausgelegt, selbst die komplexesten PDF-Dateien zu bearbeiten, egal ob es sich um wissenschaftliche Arbeiten voller Fachterminologie oder um verschiedene Dokumente mit komplexen Tabellen und Bildern handelt. Die KI-gesteuerte PDF-Parsing-Technologie kann eine effiziente und genaue Analyse dieser Inhalte gewährleisten."
+    "message": "Immersive Übersetzungs-KI-gesteuerte <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF-Übersetzung</a> ist darauf ausgelegt, selbst die komplexesten PDF-Dateien zu bewältigen, egal ob es sich um wissenschaftliche Arbeiten voller Fachterminologie oder um verschiedene Dokumente mit komplexen Tabellen und Bildern handelt. Die KI-gesteuerte PDF-Parsing-Technologie kann eine effiziente und genaue Analyse dieser Inhalte gewährleisten."
   },
   "page.download.ePub.title": {
-    "message": "ePub E-Book Zweisprachige Übersetzung"
+    "message": "ePub zweisprachige Übersetzung"
   },
   "page.download.ePub.subtitle": {
-    "message": "Mit der immersiven Übersetzung war die Erstellung von zweisprachigen E-Books im ePub-Format noch nie so einfach! Unsere One-Click-E-Book-Erstellungsfunktion kann Ihr fremdsprachiges E-Book sofort in eine elegante zweisprachige Version umwandeln, sodass Sie auf verschiedenen E-Book-Lesegeräten ein immersives Leseerlebnis genießen können."
+    "message": "Mit Immersive Translate war das Erstellen zweisprachiger ePub-eBooks noch nie einfacher! Unsere Funktion zur eBook-Erstellung mit einem Klick verwandelt Ihre fremdsprachigen eBooks sofort in elegante zweisprachige Versionen und ermöglicht Ihnen ein immersives Leseerlebnis auf verschiedenen E-Readern."
   },
   "page.download.mouse.title": {
     "message": "Übersetzung beim Mauszeiger-Hovering"
   },
   "page.download.mouse.subtitle": {
-    "message": "Immersives Übersetzen hat eine weitere revolutionäre Interaktionsinnovation gebracht - Mouseover-Übersetzung. Sie müssen nur die Maus über einen beliebigen Absatz bewegen und gleichzeitig die voreingestellte Tastenkombination (wie Ctrl) drücken, und die Übersetzung des aktuellen Absatzes wird sofort nach dem Absatz angezeigt."
+    "message": "Immersive Translate bringt eine weitere revolutionäre Interaktionsinnovation – die Mouseover-Übersetzung. Bewegen Sie einfach Ihre Maus über einen beliebigen Absatz und drücken Sie die voreingestellte Tastenkombination (wie z.B. Strg), und die Übersetzung des aktuellen Absatzes erscheint sofort nach dem Absatz."
   },
   "page.download.input.title": {
     "message": "Eingabefeld Übersetzung"
   },
   "page.download.input.subtitle": {
-    "message": "Geben Sie den Text direkt in jedes Eingabefeld ein (z.B. \"Hallo Welt\"), drücken Sie schnell dreimal die Leertaste, um den Text in die Zielsprache zu übersetzen (Standard ist Englisch, kann aber angepasst werden). Diese innovative Interaktionsmethode eignet sich für alle Arten von Seiten wie Suche, Schreiben, Dialog usw., ohne dass ein Wechsel erforderlich ist, die Übersetzung ist sofort abgeschlossen."
+    "message": "Geben Sie direkt Text in ein beliebiges Eingabefeld ein (zum Beispiel \"hello world\"), drücken Sie schnell dreimal die Leertaste, und der Text wird in die Zielsprache übersetzt (Standard ist Englisch, anpassbar). Dieser innovative Interaktionsmodus eignet sich für Suchen, Schreiben, Dialoge und andere Arten von Seiten und ermöglicht es Ihnen, Übersetzungen sofort abzuschließen, ohne umzuschalten."
   },
   "page.viewDownload.title": {
     "message": "Eintauchende Übersetzung, starten Sie das {hlStart}zweisprachige{hlEnd} Lesen mit einem Klick."

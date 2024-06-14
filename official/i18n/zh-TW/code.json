@@ -471,7 +471,7 @@
     "message": "視訊雙語字幕"
   },
   "page.index.usageCase.video.desc": {
-    "message": "支援50+視訊站，自動雙語字幕"
+    "message": "支援60+視訊站，自動雙語字幕"
   },
   "page.index.usageCase.twitter.desc": {
     "message": "使用“沉浸式翻譯”，輕鬆瀏覽訊息"
@@ -689,7 +689,7 @@
     "message": "視訊雙語字幕翻譯-沉浸式翻譯"
   },
   "page.features.videoSubtitle.content.description": {
-    "message": "免費的線上影片雙語字幕翻譯服務，支援50+主流影片網站（ Youtube , NetFlix , Twitter Spaces , HBO Max , Vimeo , Khan Academy , Coursera , Udemy , Bloomberg , Nebula , Bilibili , TED等數十家主流影片站點， 還在持續增加中）。 支援100+語言的字幕對照翻譯並根據影片進程實時展示，比如你可以中英文字幕對照的觀看Youtube和NetFlix的影片，即時字幕自動生成實時翻譯，雙語對照字幕帶你跨越語言障礙，與全球各種 語言的思想碰撞。"
+    "message": "免費的線上影片雙語字幕翻譯服務，支援60+主流影片網站（ Youtube , NetFlix , Twitter Spaces , HBO Max , Vimeo , Khan Academy , Coursera , Udemy , Bloomberg , Nebula , Bilibili , TED等數十家主流影片站點， 還在持續增加中）。 支援100+語言的字幕對照翻譯並根據影片進程實時展示，比如你可以中英文字幕對照的觀看Youtube和NetFlix的影片，即時字幕自動生成實時翻譯，雙語對照字幕帶你跨越語言障礙，與全球各種 語言的思想碰撞。"
   },
   "page.features.videoSubtitle.content.supportSite": {
     "message": "已支援站點"
@@ -1016,46 +1016,46 @@
     "message": "<b>“沉浸式翻譯”</b>這個詞，由我們發明創造。如今，它已然成為<b>“雙語對照翻譯”</b>的代名詞。自2023年上線以來，這款備受讚譽的 AI 雙語對照網頁翻譯擴展，已幫助超過 100 萬用戶跨越語言障礙，自由汲取全球智慧。我們堅信，打破語言壁壘，就是在促進信息平權。"
   },
   "page.download.web.title": {
-    "message": "網頁雙語對照翻譯"
+    "message": "網頁翻譯"
   },
   "page.download.web.subtitle": {
-    "message": "我們成功地在數百萬用戶中普及了雙語網頁閱讀體驗，作為行業的佼佼者，沉浸式翻譯內置了包括 DeepL、OpenAI、Google翻譯在內的 10 餘種業界頂尖的翻譯引擎，是海內外所有同類產品中支持翻譯引擎最多的工具。"
+    "message": "沉浸式翻譯插件通過智能識別網頁主內容區域進行雙語對照網頁翻譯，降低對原網頁的「侵入性」，成功地在數百萬用戶中普及了雙語外文網頁閱讀的體驗；作為行業的佼佼者，沉浸式翻譯內置了包括 DeepL、OpenAI (ChatGPT)、谷歌翻譯在內的 10 餘種業界頂尖的翻譯引擎，是國內外所有同類產品中支持翻譯引擎最多的網頁翻譯插件。"
   },
   "page.download.videoSub.title": {
-    "message": "影片雙語字幕"
+    "message": "影片字幕翻譯"
   },
   "page.download.videoSub.subtitle": {
-    "message": "沉浸式翻譯率先支持 50 多個國外的主流影片網站的雙語實時字幕。有了雙語字幕，您不僅能夠完全理解影片內容，還能在觀影過程中自然地學習外語。原汁原味的外語語音配合母語字幕，讓您在潛移默化中提高聽說讀寫能力。"
+    "message": "沉浸式翻譯插件支持包括Youtube、Netflix、Udemy在內的60多個國外的主流在線視頻網站的實時雙語字幕翻譯。原汁原味的外語語音配合母語原文/譯文雙語對照字幕，您不僅能夠完全理解視頻內容，還能在觀影過程中自然地學習外語，讓您在潛移默化中提高聽說讀寫能力。"
   },
   "page.download.pdf.title": {
-    "message": "PDF對照翻譯"
+    "message": "PDF翻譯"
   },
   "page.download.pdf.subtitle": {
-    "message": "沉浸式翻譯開創性地在瀏覽器插件中引入了免費的PDF文檔對照翻譯功能。無論您需要閱讀外文學術論文，還是處理多語言商業文件，都可以通過沉浸式翻譯一鍵獲取優質的翻譯結果。"
+    "message": "沉浸式翻譯插件創新地在瀏覽器插件中引入了免費的PDF翻譯功能，可以在保留原文檔排版的情況下翻譯PDF文檔，支持自由選擇下載單譯文或者原文/譯文雙語對照版本的PDF。配合人工智能AI翻譯引擎，無論您需要外文學術論文翻譯，還是多語言商業合同翻譯，都可以通過沉浸式翻譯一鍵獲取最專業的翻譯結果。"
   },
   "page.download.pdfpro.title": {
     "message": "PDF PRO"
   },
   "page.download.pdfpro.subtitle": {
-    "message": "沉浸式翻譯 AI 驅動的 <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PDF 翻譯</a>專為應對最複雜的 PDF 文件而設計，無論是充滿專業術語的學術論文，還是包含複雜表格和圖像的各類論文文件，AI 驅動的 PDF 解析技術都能確保對這些內容進行高效準確的解析。"
+    "message": "沉浸式翻譯還推出了<a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>PRO版本的PDF翻譯</a>功能，通過AI驅動專為應對最複雜的PDF文件而設計，一直以來充滿各類公式的學術論文，包含複雜表格和圖像的各類文件都是PDF翻譯的難點，經常在翻譯後變成一堆亂碼或格式錯亂，讓人難以閱讀，AI驅動的PDF解析技術能確保對這些內容進行高效準確的解析，在完整保留公式、圖表的情況下對這類PDF文件進行最專業的翻譯。"
   },
   "page.download.ePub.title": {
-    "message": "ePub電子書雙語翻譯"
+    "message": "EPUB翻譯"
   },
   "page.download.ePub.subtitle": {
-    "message": "有了沉浸式翻譯，製作 ePub格式 的雙語電子書從未如此簡單！ 我們的一鍵電子書製作功能可以將您的外文電子書瞬間轉化為優雅的雙語版本，讓您在各種電子書閱讀器上盡享沉浸式閱讀體驗。"
+    "message": "沉浸式翻譯插件讓打造雙語EPUB電子書變得前所未有的簡單！我們的一鍵式EPUB電子書翻譯工具能夠快速將您的外語EPUB電子書翻譯成精美的雙語版或單目標語言版，無縫兼容各類電子書閱讀器。想想一下你可以將AO3上的作品導出EPUB文件，使用沉浸式翻譯將其翻譯成雙語對照版本的EPUB文件，然後導入到Kindle中閱讀，全新的沉浸式雙語閱讀體驗，讓知識和樂趣無界限地流淌。"
   },
   "page.download.mouse.title": {
     "message": "鼠標懸停翻譯"
   },
   "page.download.mouse.subtitle": {
-    "message": "沉浸式翻譯帶來了又一次革命性的交互創新——鼠標懸停翻譯。只需將鼠標懸停在任意段落，同時按下預設的快捷鍵（如Ctrl），當前段落的譯文便會立即呈現在段落之後。"
+    "message": "僅需將滑鼠停留在任意網頁的任意段落上，同時按下預設的快捷鍵（如Ctrl），相應的譯文就會立即出現在段落下方。段落在【沉浸式翻譯】的設計理念中被視為最小單位，保留其上下文，這樣我們才能真正理解並學習外語。"
   },
   "page.download.input.title": {
     "message": "輸入框翻譯"
   },
   "page.download.input.subtitle": {
-    "message": "在任何輸入框中直接輸入文本（如“你好世界”），快速連按3次空格鍵，即可將文本翻譯為目標語言（默認英語，可自定義）。這一創新的交互方式適用於搜索、寫作、對話等各類頁面，無需切換，即刻完成翻譯。"
+    "message": "在任何網頁輸入框中直接輸入文本（如“你好世界”），快速連按3次空格鍵，即可將文本翻譯為目標語言（默認英語，可自定義）。這一創新的互動方式適用於網頁端的搜索、寫作、對話等各類使用場景，無需跳出當前頁面，即刻完成翻譯，縱享絲滑的翻譯互動體驗。"
   },
   "page.viewDownload.title": {
     "message": "沉浸式翻譯，一鍵開啟{hlStart}雙語{hlEnd}閱讀"
@@ -1224,26 +1224,5 @@
   },
   "page.pricing.header.onboarding.video.poster": {
     "message": "/assets/price/video-poster-zh-TW.png"
-  },
-  "page.pricing.header.normal.title.guide": {
-    "message": "🎉 已完成基礎教學"
-  },
-  "page.pricing.header.normal.subtitle1.guide": {
-    "message": "您可在下方了解沉浸式翻譯的免費和付費計劃。"
-  },
-  "page.index.ao3Title": {
-    "message": "{hlStart}AO3一鍵變雙語對照{hlEnd}，超讚看文神器：{hlStart}沉浸式翻譯{hlEnd}"
-  },
-  "page.index.ao3Description": {
-    "message": "免費、好用、零門檻、零延遲——無需下載，在線安裝，打開即用；第一時間吃上同人飯，萬文翻譯不求人；<br/>一鍵翻譯、雙語對照、原汁原味——自由調用Google、OpenAI (ChatGPT)、DeepL、Gemini等AI翻譯引擎；<br/>隨時隨地、想嗑就嗑——支持網頁版、手機版，以及超過100+語言。立刻安裝，開始干飯&gt;o&lt;"
-  },
-  "page.features.ao3AddToBrowser": {
-    "message": "立即安裝，開始幹飯&gt;o&lt;"
-  },
-  "page.download.ao3.title": {
-    "message": "AO3 人工智能翻譯專家"
-  },
-  "page.download.ao3.subtitle": {
-    "message": "針對 AO3 社區的獨特需求，我們開發了一款創新的 AO3 AI 翻譯專家。你可以在沉浸式翻譯支持的 AI 類翻譯服務（如 OpenAI、Claude、Gemini）中使用它，我們致力於為 AO3 愛好者提供更加精準、流暢的閱讀體檢。"
   }
 }

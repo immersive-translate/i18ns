@@ -471,7 +471,7 @@
     "message": "Legendas bilíngues de vídeo"
   },
   "page.index.usageCase.video.desc": {
-    "message": "Suporta mais de 50 sites de vídeo, legendas bilíngues automáticas"
+    "message": "Suporta mais de 60 sites de vídeo, legendas bilíngues automáticas"
   },
   "page.index.usageCase.twitter.desc": {
     "message": "Pesquise informações de forma simples com Tradução Imersiva"
@@ -1016,46 +1016,46 @@
     "message": "<b>\"Tradução imersiva\"</b>, uma palavra que inventamos. Hoje, tornou-se sinônimo de <b>\"tradução bilíngue comparativa\"</b>. Desde o seu lançamento em 2023, esta extensão de tradução de páginas da web bilíngue AI altamente elogiada ajudou mais de 1 milhão de usuários a superar barreiras linguísticas e absorver livremente a sabedoria global. Acreditamos firmemente que quebrar barreiras linguísticas é promover a igualdade de informação."
   },
   "page.download.web.title": {
-    "message": "Tradução bilingue de páginas da web"
+    "message": "Tradução de Página Web Bilíngue"
   },
   "page.download.web.subtitle": {
-    "message": "Conseguimos popularizar a experiência de leitura de páginas da web em dois idiomas entre milhões de usuários. Como líderes do setor, a tradução imersiva incorpora mais de 10 dos principais motores de tradução do setor, incluindo DeepL, OpenAI e Google Tradutor, sendo a ferramenta com o maior número de motores de tradução suportados entre todos os produtos similares, nacional e internacionalmente."
+    "message": "Nós conseguimos popularizar a experiência de leitura de páginas web bilíngues entre milhões de usuários. Como líder na indústra, o Immersive Translate incorpora mais de 10 dos principais motores de tradução do setor, incluindo DeepL, OpenAI e Google Translate, tornando-o a ferramenta com o maior número de motores de tradução suportados entre todos os produtos similares em todo o mundo."
   },
   "page.download.videoSub.title": {
-    "message": "Legendas bilingues em vídeo"
+    "message": "Legendas Bilíngues em Vídeo"
   },
   "page.download.videoSub.subtitle": {
-    "message": "A tradução imersiva é a primeira a suportar legendas bilingues em tempo real em mais de 50 sites de vídeo estrangeiros populares. Com legendas bilingues, você não só pode entender completamente o conteúdo do vídeo, mas também pode aprender línguas estrangeiras naturalmente durante o processo de visualização. A voz estrangeira autêntica combinada com legendas na língua materna permite que você melhore suas habilidades de ouvir, falar, ler e escrever de maneira imperceptível."
+    "message": "Immersive Translate foi o primeiro a suportar legendas bilíngues em tempo real para mais de 60 sites estrangeiros de vídeos mainstream. Com legendas bilíngues, você pode entender completamente o conteúdo do vídeo e aprender naturalmente uma língua estrangeira enquanto assiste. O áudio autêntico em língua estrangeira combinado com legendas na sua língua materna ajuda a melhorar suas habilidades de escuta, fala, leitura e escrita de forma sutil."
   },
   "page.download.pdf.title": {
-    "message": "Tradução comparativa de PDF"
+    "message": "Tradução Contrastiva em PDF"
   },
   "page.download.pdf.subtitle": {
-    "message": "A tradução imersiva introduziu inovadoramente a função de tradução gratuita de documentos PDF no plugin do navegador. Quer você precise ler trabalhos acadêmicos em línguas estrangeiras ou lidar com documentos comerciais multilíngues, você pode obter resultados de tradução de alta qualidade com um clique através da tradução imersiva."
+    "message": "Immersive Translate introduziu de forma inovadora um recurso de tradução contrastiva de documentos PDF grátis no plugin do navegador. Seja para ler artigos acadêmicos estrangeiros ou lidar com documentos comerciais multilíngues, você pode obter resultados de tradução de alta qualidade com um único clique através do Immersive Translate."
   },
   "page.download.pdfpro.title": {
     "message": "PDF PRO"
   },
   "page.download.pdfpro.subtitle": {
-    "message": "A tradução de PDF impulsionada por IA <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>Tradução de PDF</a> é projetada para lidar com os arquivos PDF mais complexos, seja eles artigos acadêmicos repletos de terminologia profissional, ou diversos documentos contendo tabelas e imagens complexas. A tecnologia de análise de PDF impulsionada por IA pode garantir a análise eficiente e precisa desses conteúdos."
+    "message": "A tradução de PDF impulsionada por IA imersiva <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>Tradução de PDF</a> é projetada para lidar com os arquivos PDF mais complexos, seja eles trabalhos acadêmicos cheios de terminologia profissional, ou diversos documentos contendo tabelas complexas e imagens. A tecnologia de análise de PDF impulsionada por IA pode garantir a análise eficiente e precisa desses conteúdos."
   },
   "page.download.ePub.title": {
-    "message": "ePub livro eletrônico tradução bilíngue"
+    "message": "Tradução Bilíngue ePub"
   },
   "page.download.ePub.subtitle": {
-    "message": "Com a tradução imersiva, nunca foi tão fácil criar e-books bilingues no formato ePub! A nossa função de criação de e-books com um clique pode transformar instantaneamente o seu e-book estrangeiro numa elegante versão bilingue, permitindo-lhe desfrutar de uma experiência de leitura imersiva em vários leitores de e-books."
+    "message": "Com o Immersive Translate, criar eBooks ePub bilíngues nunca foi tão fácil! Nossa funcionalidade de criação de eBooks com um clique transforma instantaneamente seus eBooks em língua estrangeira em versões bilíngues elegantes, permitindo que você desfrute de uma experiência de leitura imersiva em diversos e-readers."
   },
   "page.download.mouse.title": {
     "message": "Tradução ao passar o mouse"
   },
   "page.download.mouse.subtitle": {
-    "message": "A tradução imersiva trouxe outra inovação revolucionária na interação - a tradução ao passar o mouse. Basta passar o mouse sobre qualquer parágrafo e pressionar a tecla de atalho predefinida (como Ctrl), a tradução do parágrafo atual será imediatamente apresentada após o parágrafo."
+    "message": "Immersive Translate traz outra inovação revolucionária na interação — tradução por passagem do mouse. Basta passar o mouse sobre qualquer parágrafo e pressionar a tecla de atalho predefinida (como Ctrl), e a tradução do parágrafo atual aparecerá imediatamente após o parágrafo."
   },
   "page.download.input.title": {
     "message": "Caixa de entrada de tradução"
   },
   "page.download.input.subtitle": {
-    "message": "Digite o texto diretamente em qualquer caixa de entrada (como \"Olá, mundo\"), pressione rapidamente a tecla de espaço três vezes e o texto será traduzido para o idioma de destino (inglês por padrão, mas pode ser personalizado). Este método de interação inovador é adequado para páginas de pesquisa, escrita, conversação, etc., sem a necessidade de alternar, a tradução é concluída imediatamente."
+    "message": "Digite diretamente texto em qualquer caixa de entrada (como \"hello world\"), pressione rapidamente a barra de espaço três vezes e o texto será traduzido para o idioma alvo (inglês por padrão, personalizável). Este modo de interação inovador é adequado para pesquisa, escrita, diálogo e outros tipos de páginas, permitindo que você complete traduções instantaneamente sem alternar."
   },
   "page.viewDownload.title": {
     "message": "Tradução imersiva, ative a leitura {hlStart}bilingue{hlEnd} com um clique"

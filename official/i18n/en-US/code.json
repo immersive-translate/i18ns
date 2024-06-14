@@ -471,7 +471,7 @@
     "message": "Bilingual Video Subtitles"
   },
   "page.index.usageCase.video.desc": {
-    "message": "Supports 50+ video sites, automatic bilingual subtitles"
+    "message": "Supports 60+ video sites, automatic bilingual subtitles"
   },
   "page.index.usageCase.twitter.desc": {
     "message": "Use Immersive Translate for easy information browsing"
@@ -1013,46 +1013,46 @@
     "message": "The term \"<b>Immersive Translate</b>\" was coined by us. Today, it has become synonymous with \"<b>bilingual contrastive translation</b>.\" Since its launch in 2023, this acclaimed AI bilingual webpage translation extension has helped over a million users overcome language barriers and freely access global knowledge. We believe that breaking down language barriers promotes information equity."
   },
   "page.download.web.title": {
-    "message": "Bilingual Webpage Translation"
+    "message": "Translate Website"
   },
   "page.download.web.subtitle": {
-    "message": "We have successfully popularized the bilingual webpage reading experience among millions of users. As a leader in the industry, Immersive Translate incorporates more than 10 of the top translation engines in the industry, including DeepL, OpenAI, and Google Translate, making it the tool with the most supported translation engines among all similar products worldwide."
+    "message": "The Immersive Translate extension intelligently identifies the main content areas of web pages to provide bilingual translations, minimizing disruption to the original page. This feature has popularized the experience of translating and reading bilingual foreign language web pages among millions of users. As a leader in the industry, Immersive Translate incorporates more than ten of the top translation engines, including DeepL, OpenAI (ChatGPT), and Google Translate. It supports the largest number of translation engines among all similar web page translation extensions both domestically and internationally."
   },
   "page.download.videoSub.title": {
-    "message": "Bilingual Video Subtitles"
+    "message": "Translate Video Subtitles in Bilingual"
   },
   "page.download.videoSub.subtitle": {
-    "message": "Immersive Translate was the first to support bilingual real-time subtitles for over 50 mainstream foreign video sites. With bilingual subtitles, you can fully understand the video content and naturally learn a foreign language while watching. The authentic foreign language audio combined with subtitles in your native language helps you improve your listening, speaking, reading, and writing skills subtly."
+    "message": "The Immersive Translate extension supports real-time bilingual subtitle translations on over 60 major international online video platforms, including YouTube, Netflix, and Udemy. With authentic foreign language audio paired with subtitles in both the original language and translation, you can fully understand the video content while naturally learning the language during viewing. This immersive experience subtly enhances your listening, speaking, reading, and writing skills."
   },
   "page.download.pdf.title": {
-    "message": "PDF Contrastive Translation"
+    "message": "Translate PDF"
   },
   "page.download.pdf.subtitle": {
-    "message": "Immersive Translate introduced a free and innovative PDF document translation feature in the browser plugin capable of contrasting with the original document. Whether you need to read foreign academic papers or handle multilingual business documents, you can obtain high-quality translation results with a single click through Immersive Translate."
+    "message": "The Immersive Translate extension innovatively introduces a free PDF translation feature to browser plugins, allowing users to translate PDF documents while retaining their original layout. It supports the option to download either a translated-only or a bilingual version of the PDF, featuring original and translated texts side by side. Leveraging an artificial intelligence AI translation engine, whether you need to translate foreign language academic papers or multilingual business contracts, Immersive Translate delivers professional translation results with just one click."
   },
   "page.download.pdfpro.title": {
     "message": "PDF PRO"
   },
   "page.download.pdfpro.subtitle": {
-    "message": "Immersive Translate AI-driven PDF translation is designed to handle the most complex PDF files, whether they are academic papers full of professional terminology, or various documents containing complex tables and images, the AI-driven PDF parsing technology can ensure efficient and accurate parsing of these contents."
+    "message": "Immersive Translate has also launched <a href='https://app.immersivetranslate.com/pdf-pro/' target='_blank'>a PRO version of its PDF translation</a> feature, powered by AI and specifically designed to handle the most complex PDF files. Academic papers filled with formulas and documents containing intricate tables and images have always presented challenges for PDF translation, often resulting in garbled text or disordered formats that are hard to read. The AI-driven PDF parsing technology ensures efficient and accurate parsing of these elements, allowing for the most professional translation of such documents while fully preserving formulas and charts."
   },
   "page.download.ePub.title": {
-    "message": "EPUB Bilingual Translation"
+    "message": "Translate EPUB"
   },
   "page.download.ePub.subtitle": {
-    "message": "With Immersive Translate, creating bilingual EPUB eBooks has never been easier! Our one-click ebook creation feature instantly transforms your foreign language eBooks into elegant bilingual versions, allowing you to enjoy an immersive reading experience on various e-readers."
+    "message": "The Immersive Translate extension has made creating bilingual EPUB eBooks easier than ever! Our one-click EPUB eBook translation tool quickly transforms your foreign-language EPUBs into beautifully formatted bilingual or single-language versions, fully compatible with all types of eBook readers. Imagine exporting an EPUB file from AO3, translating it into a bilingual version using Immersive Translate, and then importing it to your Kindle for an innovative and immersive bilingual reading experience, allowing knowledge and enjoyment to flow without boundaries."
   },
   "page.download.mouse.title": {
-    "message": "Mouseover Translation"
+    "message": "Mouse Hover Translation"
   },
   "page.download.mouse.subtitle": {
-    "message": "Immersive Translate brings another revolutionary interaction innovation—mouseover translation. Simply hover your mouse over any paragraph and press the preset shortcut key (such as Ctrl), and the translation of the current paragraph will immediately appear after the paragraph."
+    "message": "Simply hover your mouse over any paragraph on a webpage and press a preset shortcut key (such as Ctrl) to see the corresponding translation instantly appear below the paragraph. In the design philosophy of [Immersive Translation], paragraphs are considered the smallest unit, preserving their context to enhance our understanding and learning of foreign languages."
   },
   "page.download.input.title": {
     "message": "Input Box Translation"
   },
   "page.download.input.subtitle": {
-    "message": "Directly enter text in any input box (such as \"hello world\"), quickly press the space bar three times and the text will be translated into the target language (default is English but customizable). This innovative interaction mode is suitable for search, writing, dialogue, and other scenarios, allowing you to complete translations instantly without switching."
+    "message": "Simply type text into any input box on a webpage (e.g., \"Hello World\") and quickly press the space bar three times to translate the text into your target language (default is English, but customizable). This innovative interaction method works across various webpage scenarios, including search, writing, and dialogue. Complete translations instantly without leaving your current page, ensuring a seamless and smooth translation experience."
   },
   "page.viewDownload.title": {
     "message": "Immersive Translate, one-click to enable bilingual reading"
