@@ -6,24 +6,15 @@
 
 ## व्याख्या सेवा
 
-- [Claude](./services/claude.md)
-- [Deepl](./services/deepL.md)
-- [DeepSeek](./services/deepseek.md)
-- [Gemini](./services/gemini.md)
-- [OpenL](./services/openL.md)
-- [Open AI (Azure OpenAI)](./services/openai.md)
-- [Microsoft Azure अनुवाद](./services/azure.md)
-- [Alibaba Cloud Bailian मॉडल](./services/aliyun-bailian.md)
-- [Alibaba Cloud अनुवाद](./services/aliyun.md)
-- [Baidu Qianfan मॉडल](./services/baidu-qianfan.md)
-- [ByteDance Doubao मॉडल](./services/doubao.md)
-- [Baidu अनुवाद](./services/baidu.md)
-- [Caiyun अनुवादक](./services/caiyun.md)
-- [Volcano इंजन](./services/volcano.md)
-- [Tencent अनुवाद](./services/tencent.md)
-- [Niu अनुवाद](./services/niu.md)
-- [Youdao अनुवाद](./services/youdao.md)
-- [कस्टम API अनुवाद](./services/custom.md)
+1. [डीपल](./services/deepL.md)
+2. [कैयुन शाओयी](./services/caiyun.md)
+3. [टेनसेंट ट्रांसलेटर](./services/tencent.md)
+4. [वोल्केनो इंजन](./services/volcano.md)
+5. [बैदू अनुवाद](./services/baidu.md)
+6. [ओपनएल](./services/openL.md)
+7. [निउ अनुवाद](./services/niu.md)
+8. [यूडाओ ट्रांसलेटर](./services/youdao.md)
+9. [माइक्रोसॉफ्ट अनुवाद](./services/azure.md)
 
 ## जिम्मेदारी से इनकार या सीमित करने का बयान
 

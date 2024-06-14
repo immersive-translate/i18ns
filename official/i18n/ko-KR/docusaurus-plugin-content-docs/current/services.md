@@ -6,24 +6,16 @@
 
 ## 번역 서비스
 
-- [Claude](./services/claude.md)
 - [Deepl](./services/deepL.md)
-- [DeepSeek](./services/deepseek.md)
 - [Gemini](./services/gemini.md)
+- [彩云小译](./services/caiyun.md)
+- [腾讯翻译君](./services/tencent.md)
+- [火山引擎](./services/volcano.md)
+- [百度翻译](./services/baidu.md)
 - [OpenL](./services/openL.md)
-- [Open AI (Azure OpenAI)](./services/openai.md)
-- [마이크로소프트 Azure 번역](./services/azure.md)
-- [Alibaba Cloud Bailian 모델](./services/aliyun-bailian.md)
-- [Alibaba Cloud 번역](./services/aliyun.md)
-- [Baidu Qianfan 모델](./services/baidu-qianfan.md)
-- [ByteDance Doubao 모델](./services/doubao.md)
-- [Baidu 번역](./services/baidu.md)
-- [Caiyun 번역기](./services/caiyun.md)
-- [Volcano 엔진](./services/volcano.md)
-- [Tencent 번역](./services/tencent.md)
-- [Niu 번역](./services/niu.md)
-- [Youdao 번역](./services/youdao.md)
-- [맞춤형 API 번역](./services/custom.md)
+- [小牛翻译](./services/niu.md)
+- [有道翻译](./services/youdao.md)
+- [微软翻译](./services/azure.md)
 
 ## 면책 조항
 

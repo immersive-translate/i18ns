@@ -6,24 +6,15 @@ Las discusiones relacionadas con la API del Servicio de Traducción se pueden re
 
 ## Servicio de Interpretación
 
-- [Claude](./services/claude.md)
-- [Deepl](./services/deepL.md)
-- [DeepSeek](./services/deepseek.md)
-- [Gemini](./services/gemini.md)
-- [OpenL](./services/openL.md)
-- [Open AI (Azure OpenAI)](./services/openai.md)
-- [Traducción de Microsoft Azure](./services/azure.md)
-- [Modelo de Bailian de Alibaba Cloud](./services/aliyun-bailian.md)
-- [Traducción de Alibaba Cloud](./services/aliyun.md)
-- [Modelo de Qianfan de Baidu](./services/baidu-qianfan.md)
-- [Modelo de Doubao de ByteDance](./services/doubao.md)
-- [Traducción de Baidu](./services/baidu.md)
-- [Traductor de Caiyun](./services/caiyun.md)
-- [Motor de Volcano](./services/volcano.md)
-- [Traducción de Tencent](./services/tencent.md)
-- [Traducción de Niu](./services/niu.md)
-- [Traducción de Youdao](./services/youdao.md)
-- [Traducción de API personalizada](./services/custom.md)
+1. [Deepl](./services/deepL.md)
+2. [Caiyun Xiaoyi](./services/caiyun.md)
+3. [Traductor de Tencent](./services/tencent.md)
+4. [Motor Volcano](./services/volcano.md)
+5. [Traductor de Baidu](./services/baidu.md)
+6. [OpenL](./services/openL.md)
+7. [Traducción Niu](./services/niu.md)
+8. [Traductor de Youdao](./services/youdao.md)
+9. [Traductor de Microsoft](./services/azure.md)
 
 ## Declaración de denegación o limitación de responsabilidad
 
