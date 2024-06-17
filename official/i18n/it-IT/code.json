@@ -689,7 +689,7 @@
     "message": "Traduzione sottotitoli video bilingue - Traduzione immersiva"
   },
   "page.features.videoSubtitle.content.description": {
-    "message": "Immersive Translation supporta già i sottotitoli bilingui per diversi siti di video,<br/>Ci sono Youtube, Vimeo, Udemy, khan Academy, Coursera, Bloomberg, ecc."
+    "message": "L'estensione Immersive Translate offre un servizio gratuito di traduzione di sottotitoli bilingui per video online, supportando un ampio spettro di piattaforme video mainstream (YouTube, Netflix, Twitter, HBO Max, Vimeo, Khan Academy, Coursera, Udemy, Bloomberg, Nebula, Bilibili, TED e decine di altri siti video mainstream con la lista in continua espansione). Supporta la traduzione di sottotitoli bilingui in decine di lingue e li visualizza in tempo reale in base al processo video. Ad esempio, puoi guardare video su YouTube e Netflix con sottotitoli in spagnolo e inglese, e i sottotitoli sono generati e tradotti automaticamente in tempo reale. Il controllo dei sottotitoli bilingui ti porterà oltre la barriera linguistica e ti connetterà con idee in varie lingue in tutto il mondo."
   },
   "page.features.videoSubtitle.content.supportSite": {
     "message": "Siti supportati"
