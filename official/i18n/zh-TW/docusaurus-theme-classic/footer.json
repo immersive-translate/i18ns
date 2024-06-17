@@ -103,5 +103,8 @@
   },
   "link.item.visible.TelegramGroup": {
     "message": "true"
+  },
+  "link.item.visible.Blog": {
+    "message": "true"
   }
 }

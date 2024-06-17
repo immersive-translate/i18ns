@@ -4,7 +4,21 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.6.1
+## 1.6.3
+
+- 新功能：漫画翻译（Beta），在支持的漫画网站里，网页快捷翻译悬浮球下方会出现一个漫画翻译的按钮，点击即可开启漫画翻译，该功能为 Pro 会员可用（每月 500 张，更多可购买加量包），当前支持以下网站：
+  - [MANGA Plus by SHUEISHA](https://mangaplus.shueisha.co.jp)
+  - [Zebrack by SHUEISHA](https://zebrack-comic.shueisha.co.jp)
+  - [E-Hentai](https://e-hentai.org)
+  - [Pixiv](https://www.pixiv.net/manga)
+- 新特性：AI 翻译支持[豆包大模型](https://www.volcengine.com/product/doubao)
+- 新特性： 支持译文在先，原文随后的双语对照模式，可在设置页面->进阶设置中启用。
+- 自定义 AI 模型列表支持 `-all` 语法，可以删除预置的所有模型。
+- 视频双语字幕中，当目标语言是简体中文，原文是繁体中文时，会自动将原文转为简体中文，反之亦然。
+- 修复 iOS 18 下悬浮球快捷方式无法翻译的问题。
+- 修复自定义 Prompt 过多时不生效的问题。
+
+## 1.6.2
 
 - 支持百度千帆大模型平台，阿里百炼大模型平台，DeepSeek 大模型平台
 - 修复 popup 面板修改目标语言等设置，点击悬浮球翻译会被重置

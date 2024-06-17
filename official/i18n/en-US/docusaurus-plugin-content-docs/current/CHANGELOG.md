@@ -4,6 +4,20 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.6.2
+
+- New feature: Manga translation (Beta), in supported manga websites, a manga translation button will appear below the webpage quick translation floating ball. Clicking it will activate manga translation. This feature is available for Pro members (500 pages per month, additional packs can be purchased), currently supporting the following sites:
+  - [MANGA Plus by SHUEISHA](https://mangaplus.shueisha.co.jp)
+  - [Zebrack by SHUEISHA](https://zebrack-comic.shueisha.co.jp)
+  - [E-Hentai](https://e-hentai.org)
+  - [Pixiv](https://www.pixiv.net/manga)
+- New feature: AI translation supports [Doubao large model](https://www.volcengine.com/product/doubao)
+- New feature: Support for bilingual comparison mode with translation first and original text following, which can be enabled in the settings page -> advanced settings.
+- Custom AI model list supports `-all` syntax, which can delete all preset models.
+- In video bilingual subtitles, when the target language is Simplified Chinese and the original text is Traditional Chinese, the original text will automatically be converted to Simplified Chinese, and vice versa.
+- Fixed the issue where the floating ball shortcut could not translate under iOS 18.
+- Fixed the issue where custom Prompts were ineffective when too many were used.
+
 ## 1.6.1
 
 - Supports Baidu Qianfan large model platform, Alibaba Bailian large model platform, DeepSeek large model platform.

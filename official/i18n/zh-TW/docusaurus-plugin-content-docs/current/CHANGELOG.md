@@ -4,6 +4,20 @@ sidebar_position: 6
 
 # 更新日誌
 
+## 1.6.3
+
+- 新功能：漫畫翻譯（Beta），在支援的漫畫網站裡，網頁快捷翻譯懸浮球下方會出現一個漫畫翻譯的按鈕，點擊即可開啟漫畫翻譯，該功能為 Pro 會員可用（每月 500 張，更多可購買加量包），當前支持以下網站：
+  - [MANGA Plus by SHUEISHA](https://mangaplus.shueisha.co.jp)
+  - [Zebrack by SHUEISHA](https://zebrack-comic.shueisha.co.jp)
+  - [E-Hentai](https://e-hentai.org)
+  - [Pixiv](https://www.pixiv.net/manga)
+- 新特性：AI 翻譯支持[豆包大模型](https://www.volcengine.com/product/doubao)
+- 新特性： 支持譯文在先，原文隨後的雙語對照模式，可在設定頁面->進階設定中啟用。
+- 自定義 AI 模型列表支持 `-all` 語法，可以刪除預置的所有模型。
+- 影片雙語字幕中，當目標語言是簡體中文，原文是繁體中文時，會自動將原文轉為簡體中文，反之亦然。
+- 修復 iOS 18 下懸浮球快捷方式無法翻譯的問題。
+- 修復自定義 Prompt 過多時不生效的問題。
+
 ## 1.6.1
 
 - 支援百度千帆大模型平台、阿里百煉大模型平台、DeepSeek 大模型平台。

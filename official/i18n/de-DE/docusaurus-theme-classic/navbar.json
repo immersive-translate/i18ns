@@ -62,5 +62,9 @@
   "item.label.documentTranslation": {
     "message": "Dokumentenübersetzung",
     "description": "Navbar item with label 文档翻译"
+  },
+  "item.label.blog": {
+    "message": "Immersive Übersetzungsblog",
+    "description": "Navbar item with label 使用场景"
   }
 }

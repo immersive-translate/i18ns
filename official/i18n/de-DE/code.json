@@ -689,7 +689,7 @@
     "message": "Video Zweisprachige Übersetzung von Untertiteln - Immersionsübersetzung"
   },
   "page.features.videoSubtitle.content.description": {
-    "message": "Die Immersive Translate Extension bietet einen kostenlosen Online-Video-Zweisprachigen-Untertitel-Übersetzungsdienst an, der eine breite Palette von Hauptvideo-Plattformen unterstützt (YouTube, Netflix, Twitter, HBO Max, Vimeo, Khan Academy, Coursera, Udemy, Bloomberg, Nebula, Bilibili, TED und dutzende andere Hauptvideo-Seiten, wobei die Liste ständig erweitert wird). Sie unterstützt die Zweisprachige-Untertitel-Übersetzung in dutzenden Sprachen und zeigt diese in Echtzeit entsprechend dem Videoprozess an. Zum Beispiel können Sie YouTube- und Netflix-Videos mit spanischen und englischen Untertiteln anschauen, wobei die Untertitel automatisch generiert und in Echtzeit übersetzt werden. Die Steuerung von zweisprachigen Untertiteln wird Sie über die Sprachbarriere hinwegführen und Sie mit Ideen in verschiedenen Sprachen weltweit verbinden."
+    "message": "Immersive Translation unterstützt bereits zweisprachige Untertitel für mehrere Video-Websites,<br/>Es gibt Youtube, Vimeo, Udemy, khan Academy, Coursera, Bloomberg, usw., die meisten im Netz, und es wächst weiter!"
   },
   "page.features.videoSubtitle.content.supportSite": {
     "message": "Unterstützte Websites"
