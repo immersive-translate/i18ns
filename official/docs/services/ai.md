@@ -149,13 +149,6 @@ __待翻译文本__
 - 模型：截止到本文撰写时，只推荐该平台的`deepseek-chat`模型用于翻译。
 - 自定义 API 接口地址: `https://api.deepseek.com/chat/completions`
 
-### OpenRouter中转平台
-
-- APIKEY: 到这个[页面](https://openrouter.ai/keys)获取密钥。
-- 模型：到这个模型[页面](https://openrouter.ai/docs#models)查看模型列表。例如`anthropic/claude-3-haiku`.
-- 自定义 API 接口地址: `https://openrouter.ai/api/v1/chat/completions`
-- 限速：请参考[这里](https://openrouter.ai/docs#limits)。截止到本文撰写时，如果你账号里余额是10美元，那么你每秒可以发出10次请求，20美元则是20QPS，依次类推。尽管并发可以很高，但由于平台也是租用官方平台的资源，共享一个大的限速池，所以如果同时使用的人的请求数较多，也会造成请求失败，这种情况并非OpenRouter平台的限制，这种请求失败的HTTP响应码是200，但是返回的Payload是限速错误说明，沉浸式翻译表现为不显示译文（即返回文本无法解析下，译文为空），这种情况下插件暂时没做相应的空译文异常处理，也不方便重试，遇到这种情况只能更换翻译服务重新翻译。当然，你也可以自建API中转处理这种情况。
-
 ### 其他
 
 其他平台大同小异，无非是获取APIKEY、模型名、请求地址，注意速率限制等信息。
