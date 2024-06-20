@@ -1239,5 +1239,38 @@
   },
   "page.download.ao3.subtitle": {
     "message": "AO3 コミュニティのユニークなニーズに対応するため、私たちは革新的な AO3 AI 翻訳エキスパートを開発しました。この AI 翻訳サービスは、OpenAI、Claude、Gemini などの没入型翻訳サポート AI で使用でき、AO3 ファンにより正確でスムーズな読書体験を提供することに専念しています。"
+  },
+  "page.index.mangaTitle": {
+    "message": "ワンクリック{hlStart}漫画翻訳{hlEnd}、快適な漫画読書"
+  },
+  "page.index.mangaDescription": {
+    "message": "沈没型翻訳は、複数の主要な漫画サイト（Pixiv、MANGA Plus by SHUEISHA、Zebrack by SHUEISHA、E-Hentaiなど、さらに追加中）をサポートしています。<br/>100以上の言語の漫画翻訳をサポートし、言語の壁を越えて世界中の漫画を楽しむことができます。"
+  },
+  "page.index.mangaSupport": {
+    "message": "サポートされているサイト"
+  },
+  "page.index.installToBrowser": {
+    "message": "ブラウザに無料でインストールします"
+  },
+  "page.download.mangaBall.title": {
+    "message": "浮遊球クイック翻訳"
+  },
+  "page.download.mangaBall.subtitle": {
+    "message": "沈没型翻訳がサポートされている漫画サイトにアクセスし、ホバーボールを起動すると、自動的に漫画翻訳のショートカットボタンが表示されます。クリックすると漫画が翻訳されます。"
+  },
+  "page.download.mangaOcr.title": {
+    "message": "日本語の複雑なフォントを簡単に識別する"
+  },
+  "page.download.mangaOcr.subtitle": {
+    "message": "より正確な画像認識技術で、複雑なフォントの識別も難しくなく、翻訳品質が向上します。"
+  },
+  "page.download.mangaShare.title": {
+    "message": "翻訳後にオンラインで共有する"
+  },
+  "page.download.mangaShare.subtitle": {
+    "message": "翻訳された漫画は、オンラインリンクとして保存でき、友達にワンクリックで転送して、一緒に楽しく漫画を追いかけましょう！"
+  },
+  "page.download.manga.title": {
+    "message": "ワンクリック{hlStart}漫画翻訳{hlEnd}、漫画追跡の障害なし"
   }
 }

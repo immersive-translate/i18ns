@@ -1239,5 +1239,38 @@
   },
   "page.download.ao3.subtitle": {
     "message": "Para satisfacer las necesidades únicas de la comunidad AO3, hemos desarrollado un innovador experto en traducción AI de AO3. Puedes utilizarlo en servicios de traducción AI con soporte inmersivo, como OpenAI, Claude y Gemini. Estamos comprometidos a proporcionar a los aficionados de AO3 una experiencia de lectura más precisa y fluida."
+  },
+  "page.index.mangaTitle": {
+    "message": "Un clic para la {hlStart}traducción de cómics{hlEnd}, disfruta leyendo cómics sin complicaciones."
+  },
+  "page.index.mangaDescription": {
+    "message": "La traducción inmersiva es compatible con varios sitios web de cómics principales (Pixiv, MANGA Plus by SHUEISHA, Zebrack by SHUEISHA, E-Hentai, y sigue aumentando).<br/>Soporta la traducción de cómics en más de 100 idiomas, ayudándote a superar las barreras del idioma para disfrutar de la lectura de cómics globales."
+  },
+  "page.index.mangaSupport": {
+    "message": "Sitios compatibles"
+  },
+  "page.index.installToBrowser": {
+    "message": "Instalación gratuita en el navegador."
+  },
+  "page.download.mangaBall.title": {
+    "message": "Traducción rápida de bola flotante"
+  },
+  "page.download.mangaBall.subtitle": {
+    "message": "Accede a la página web de cómics compatible con la traducción inmersiva, activa la bola flotante y automáticamente aparecerá el botón de acceso rápido para traducir cómics, haz clic para traducir."
+  },
+  "page.download.mangaOcr.title": {
+    "message": "Reconocer fácilmente tipografías complejas en japonés."
+  },
+  "page.download.mangaOcr.subtitle": {
+    "message": "Tecnología de reconocimiento de imágenes más precisa, reconocer fuentes complejas ya no es difícil, mejora la calidad de la traducción."
+  },
+  "page.download.mangaShare.title": {
+    "message": "Compartir en línea después de traducir."
+  },
+  "page.download.mangaShare.subtitle": {
+    "message": "El cómic traducido se puede guardar como un enlace en línea, reenviarlo a amigos con un solo clic y disfrutar juntos de la lectura de cómics."
+  },
+  "page.download.manga.title": {
+    "message": "Un clic para la {hlStart}traducción de cómics{hlEnd}, nada detiene el seguir los cómics."
   }
 }

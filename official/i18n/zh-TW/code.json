@@ -1224,5 +1224,38 @@
   },
   "page.pricing.header.onboarding.video.poster": {
     "message": "/assets/price/video-poster-zh-TW.png"
+  },
+  "page.index.mangaTitle": {
+    "message": "一鍵{hlStart}漫畫翻譯{hlEnd}，暢快漫畫閱讀"
+  },
+  "page.index.mangaDescription": {
+    "message": "沉浸式翻譯支持多家主流漫畫網站網站（Pixiv, MANGA Plus by SHUEISHA, Zebrack by SHUEISHA, E-Hentai, 還在持續增加中）。<br/>支持100+語言的漫畫翻譯，帶你跨越語言障礙，暢快閱讀全球漫畫。"
+  },
+  "page.index.mangaSupport": {
+    "message": "已支援站點"
+  },
+  "page.index.installToBrowser": {
+    "message": "免費安裝到瀏覽器"
+  },
+  "page.download.mangaBall.title": {
+    "message": "懸浮球快捷翻譯"
+  },
+  "page.download.mangaBall.subtitle": {
+    "message": "進入支援沉浸式翻譯的漫畫網站後，開啟懸浮球，自動出現漫畫翻譯快捷按鈕，點擊即可翻譯漫畫。"
+  },
+  "page.download.mangaOcr.title": {
+    "message": "輕鬆識別日文複雜字體"
+  },
+  "page.download.mangaOcr.subtitle": {
+    "message": "更加精準的圖像識別技術，識別複雜字體不再困難，提高翻譯品質。"
+  },
+  "page.download.mangaShare.title": {
+    "message": "翻譯後在線分享"
+  },
+  "page.download.mangaShare.subtitle": {
+    "message": "翻譯後的漫畫，可保存為在線鏈接，一鍵轉發給好友，一起暢快追漫！"
+  },
+  "page.download.manga.title": {
+    "message": "一鍵{hlStart}漫畫翻譯{hlEnd}，追漫再無阻礙"
   }
 }

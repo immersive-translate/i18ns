@@ -1239,5 +1239,38 @@
   },
   "page.download.ao3.subtitle": {
     "message": "Para atender às necessidades únicas da comunidade AO3, desenvolvemos um inovador especialista em tradução AI AO3. Você pode usá-lo em serviços de tradução AI com suporte imersivo (como OpenAI, Claude, Gemini), e estamos comprometidos em oferecer aos fãs de AO3 uma experiência de leitura mais precisa e fluente."
+  },
+  "page.index.mangaTitle": {
+    "message": "Um clique para {hlStart}tradução de mangás{hlEnd}, leitura de mangás sem esforço."
+  },
+  "page.index.mangaDescription": {
+    "message": "O suporte à tradução imersiva abrange vários sites de quadrinhos populares (Pixiv, MANGA Plus by SHUEISHA, Zebrack by SHUEISHA, E-Hentai, com mais sendo adicionados continuamente).<br/>Suporta a tradução de quadrinhos em mais de 100 idiomas, permitindo que você supere barreiras linguísticas e desfrute de quadrinhos de todo o mundo."
+  },
+  "page.index.mangaSupport": {
+    "message": "Sites já suportados"
+  },
+  "page.index.installToBrowser": {
+    "message": "Instalação gratuita no navegador."
+  },
+  "page.download.mangaBall.title": {
+    "message": "Tradução rápida de bola flutuante"
+  },
+  "page.download.mangaBall.subtitle": {
+    "message": "Acesse o site de quadrinhos suportado pela tradução imersiva, ative o balão flutuante e o botão de atalho para tradução de quadrinhos aparecerá automaticamente, clique para traduzir os quadrinhos."
+  },
+  "page.download.mangaOcr.title": {
+    "message": "Reconhecer facilmente fontes complexas em japonês."
+  },
+  "page.download.mangaOcr.subtitle": {
+    "message": "Tecnologia de reconhecimento de imagem mais precisa, identificar fontes complexas não é mais difícil, melhorar a qualidade da tradução."
+  },
+  "page.download.mangaShare.title": {
+    "message": "Partilhar online após tradução."
+  },
+  "page.download.mangaShare.subtitle": {
+    "message": "A tradução do mangá pode ser salva como um link online, permitindo que seja compartilhada com um clique com amigos para desfrutar juntos!"
+  },
+  "page.download.manga.title": {
+    "message": "Um clique para {hlStart}tradução de mangás{hlEnd}, sem mais obstáculos para acompanhar mangás."
   }
 }

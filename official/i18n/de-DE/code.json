@@ -1239,5 +1239,38 @@
   },
   "page.download.ao3.subtitle": {
     "message": "Für die speziellen Bedürfnisse der AO3-Gemeinschaft haben wir einen innovativen AO3 AI Übersetzungsexperten entwickelt. Sie können ihn in AI-basierten Übersetzungsdiensten mit immersiver Unterstützung (wie OpenAI, Claude, Gemini) verwenden, und wir sind bestrebt, den AO3-Fans ein präziseres und flüssigeres Leseerlebnis zu bieten."
+  },
+  "page.index.mangaTitle": {
+    "message": "Ein-Klick-{hlStart}Comic-Übersetzung{hlEnd}, genießen Sie das Lesen von Comics."
+  },
+  "page.index.mangaDescription": {
+    "message": "Immersive Übersetzung unterstützt mehrere führende Comic-Websites (Pixiv, MANGA Plus by SHUEISHA, Zebrack by SHUEISHA, E-Hentai, und es kommen ständig neue hinzu).<br/>Unterstützt die Übersetzung von Comics in über 100 Sprachen, um Sprachbarrieren zu überwinden und das Lesen von Comics aus aller Welt zu genießen."
+  },
+  "page.index.mangaSupport": {
+    "message": "Unterstützte Websites"
+  },
+  "page.index.installToBrowser": {
+    "message": "Kostenlose Installation im Browser."
+  },
+  "page.download.mangaBall.title": {
+    "message": "Schwebekugel-Schnellübersetzung"
+  },
+  "page.download.mangaBall.subtitle": {
+    "message": "Besuchen Sie die unterstützte Website für immersives Comic-Übersetzen, aktivieren Sie die schwebende Kugel, dann erscheint automatisch der Schnellübersetzungsbutton für Comics, klicken Sie darauf, um den Comic zu übersetzen."
+  },
+  "page.download.mangaOcr.title": {
+    "message": "Einfache Erkennung komplexer japanischer Schriftarten."
+  },
+  "page.download.mangaOcr.subtitle": {
+    "message": "Präzisere Bilderkennungstechnologie, die Erkennung komplexer Schriftarten ist nicht mehr schwierig, verbessert die Übersetzungsqualität."
+  },
+  "page.download.mangaShare.title": {
+    "message": "Online teilen nach der Übersetzung"
+  },
+  "page.download.mangaShare.subtitle": {
+    "message": "Übersetzte Comics können als Online-Link gespeichert und mit nur einem Klick an Freunde weitergeleitet werden, um gemeinsam Spaß beim Lesen zu haben!"
+  },
+  "page.download.manga.title": {
+    "message": "Ein-Klick-{hlStart}Comic-Übersetzung{hlEnd}, kein Hindernis mehr beim Verfolgen von Comics."
   }
 }

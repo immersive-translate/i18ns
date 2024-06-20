@@ -1239,5 +1239,38 @@
   },
   "page.download.ao3.subtitle": {
     "message": "لقد طورنا خبير ترجمة AI مبتكر خاص بمجتمع AO3 لتلبية احتياجاته الفريدة. يمكنك استخدامه في خدمات الترجمة الآلية المدعومة بالذكاء الاصطناعي مثل OpenAI، Claude، وGemini، حيث نسعى لتوفير تجربة قراءة أكثر دقة وسلاسة لمحبي AO3."
+  },
+  "page.index.mangaTitle": {
+    "message": "بضغطة زر {hlStart}ترجمة القصص المصورة{hlEnd}، استمتع بقراءة الكوميكس"
+  },
+  "page.index.mangaDescription": {
+    "message": "يدعم الترجمة الغامرة العديد من مواقع الويب الرئيسية للمانجا (Pixiv، MANGA Plus by SHUEISHA، Zebrack by SHUEISHA، E-Hentai، والقائمة في تزايد). يدعم الترجمة لأكثر من 100 لغة، مما يتيح لك تجاوز الحواجز اللغوية والاستمتاع بقراءة المانجا العالمية بسلاسة."
+  },
+  "page.index.mangaSupport": {
+    "message": "مواقع مدعومة"
+  },
+  "page.index.installToBrowser": {
+    "message": "تثبيت مجاني على المتصفح"
+  },
+  "page.download.mangaBall.title": {
+    "message": "كرة الترجمة العائمة السريعة"
+  },
+  "page.download.mangaBall.subtitle": {
+    "message": "عند دخول مواقع الويب للقصص المصورة التي تدعم الترجمة الغامرة، وتفعيل الكرة العائمة، ستظهر تلقائيًا أزرار اختصار لترجمة القصص المصورة، انقر عليها لترجمة القصص المصورة."
+  },
+  "page.download.mangaOcr.title": {
+    "message": "تعرف بسهولة على الخطوط اليابانية المعقدة"
+  },
+  "page.download.mangaOcr.subtitle": {
+    "message": "تقنية التعرف على الصور بدقة أعلى، التعرف على الخطوط المعقدة لم يعد صعبًا، مما يحسن جودة الترجمة."
+  },
+  "page.download.mangaShare.title": {
+    "message": "ترجم ثم شارك عبر الإنترنت"
+  },
+  "page.download.mangaShare.subtitle": {
+    "message": "تُرجمت القصص المصورة يمكن حفظها كرابط على الإنترنت، يمكن إرسالها بنقرة واحدة إلى الأصدقاء للاستمتاع بمتابعة القصص المصورة معًا!"
+  },
+  "page.download.manga.title": {
+    "message": "بضغطة زر {hlStart}ترجمة الكوميكس{hlEnd}، لا مزيد من العقبات في متابعة القصص المصورة."
   }
 }

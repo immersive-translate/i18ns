@@ -1239,5 +1239,38 @@
   },
   "page.download.ao3.subtitle": {
     "message": "Per le esigenze uniche della comunità AO3, abbiamo sviluppato un innovativo esperto di traduzione AI AO3. Puoi utilizzarlo nei servizi di traduzione AI con supporto immersivo, come OpenAI, Claude, Gemini; ci impegniamo a fornire un'esperienza di lettura più precisa e fluida agli appassionati di AO3."
+  },
+  "page.index.mangaTitle": {
+    "message": "Un solo clic per la {hlStart}traduzione dei fumetti{hlEnd}, per una lettura piacevole dei fumetti."
+  },
+  "page.index.mangaDescription": {
+    "message": "Il supporto alla traduzione immersiva copre numerosi siti web di fumetti mainstream (Pixiv, MANGA Plus by SHUEISHA, Zebrack by SHUEISHA, E-Hentai, con aggiunte continue). Supporta la traduzione di fumetti in oltre 100 lingue, permettendoti di superare le barriere linguistiche e goderti la lettura di fumetti da tutto il mondo."
+  },
+  "page.index.mangaSupport": {
+    "message": "Siti supportati"
+  },
+  "page.index.installToBrowser": {
+    "message": "Installa gratuitamente sul browser."
+  },
+  "page.download.mangaBall.title": {
+    "message": "Palla sospesa traduzione rapida"
+  },
+  "page.download.mangaBall.subtitle": {
+    "message": "Accedi al sito web di fumetti supportato dalla traduzione immersiva, attiva la sfera fluttuante e apparirà automaticamente il pulsante di traduzione rapida dei fumetti, clicca per tradurre il fumetto."
+  },
+  "page.download.mangaOcr.title": {
+    "message": "Riconoscere facilmente i caratteri complessi giapponesi."
+  },
+  "page.download.mangaOcr.subtitle": {
+    "message": "Tecnologia di riconoscimento delle immagini più precisa, riconoscere font complessi non è più difficile, migliorare la qualità della traduzione."
+  },
+  "page.download.mangaShare.title": {
+    "message": "Condividi online dopo la traduzione."
+  },
+  "page.download.mangaShare.subtitle": {
+    "message": "La traduzione del fumetto può essere salvata come link online, condivisibile con un clic agli amici per godersi insieme la lettura!"
+  },
+  "page.download.manga.title": {
+    "message": "Un solo clic per la {hlStart}traduzione dei fumetti{hlEnd}, niente più ostacoli nel seguire i fumetti."
   }
 }

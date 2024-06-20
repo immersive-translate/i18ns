@@ -1245,5 +1245,38 @@
   },
   "page.download.ao3.subtitle": {
     "message": "In response to the unique needs of the AO3 community, we have developed an innovative AO3 AI Translation Expert. You can use it within AI translation services that support immersive translation, such as OpenAI, Claude, and Gemini. We are committed to providing AO3 enthusiasts with more accurate and smooth reading experiences."
+  },
+  "page.index.mangaTitle": {
+    "message": "One-click {hlStart}comic translation{hlEnd}, enjoy reading comics effortlessly."
+  },
+  "page.index.mangaDescription": {
+    "message": "Immersive translation supports multiple mainstream comic websites (Pixiv, MANGA Plus by SHUEISHA, Zebrack by SHUEISHA, E-Hentai, with more being added continuously).<br/>Supports comic translations in over 100 languages, helping you overcome language barriers and enjoy reading comics from around the world."
+  },
+  "page.index.mangaSupport": {
+    "message": "Supported sites"
+  },
+  "page.index.installToBrowser": {
+    "message": "Install for free to your browser"
+  },
+  "page.download.mangaBall.title": {
+    "message": "Floating Ball Quick Translation"
+  },
+  "page.download.mangaBall.subtitle": {
+    "message": "Enter the supported immersive translation comic website, activate the floating ball, and the comic translation shortcut button will automatically appear; click it to translate the comic."
+  },
+  "page.download.mangaOcr.title": {
+    "message": "Easily recognize complex Japanese fonts"
+  },
+  "page.download.mangaOcr.subtitle": {
+    "message": "More accurate image recognition technology makes it easy to identify complex fonts and improves translation quality."
+  },
+  "page.download.mangaShare.title": {
+    "message": "Share online after translation"
+  },
+  "page.download.mangaShare.subtitle": {
+    "message": "The translated comics can be saved as online links, allowing you to forward them to friends with just one click for a delightful binge-reading session together!"
+  },
+  "page.download.manga.title": {
+    "message": "One-click {hlStart}comic translation{hlEnd}, no more barriers to chasing comics."
   }
 }

@@ -1239,5 +1239,38 @@
   },
   "page.download.ao3.subtitle": {
     "message": "AO3 커뮤니티의 독특한 요구에 맞춰, 우리는 혁신적인 AO3 AI 번역 전문가를 개발했습니다. 이것은 OpenAI, Claude, Gemini와 같은 AI 기반 번역 서비스에서 몰입형 번역 지원으로 사용할 수 있으며, 우리는 AO3 팬들에게 더 정확하고 원활한 독서 경험을 제공하기 위해 노력하고 있습니다."
+  },
+  "page.index.mangaTitle": {
+    "message": "원클릭 {hlStart}만화 번역{hlEnd}, 쾌적한 만화 읽기"
+  },
+  "page.index.mangaDescription": {
+    "message": "몰입형 번역은 여러 주요 만화 웹사이트(Pixiv, MANGA Plus by SHUEISHA, Zebrack by SHUEISHA, E-Hentai 등)를 지원하며 계속 추가되고 있습니다.\n100개 이상의 언어로 만화 번역을 지원하여 언어 장벽을 넘어 전 세계 만화를 즐길 수 있습니다."
+  },
+  "page.index.mangaSupport": {
+    "message": "지원된 사이트"
+  },
+  "page.index.installToBrowser": {
+    "message": "브라우저에 무료로 설치하세요."
+  },
+  "page.download.mangaBall.title": {
+    "message": "부유 공 빠른 번역"
+  },
+  "page.download.mangaBall.subtitle": {
+    "message": "침몰식 번역을 지원하는 만화 웹사이트에 접속하고, 플로팅 볼을 활성화한 후, 자동으로 만화 번역 단축 버튼이 나타납니다. 클릭하면 만화가 번역됩니다."
+  },
+  "page.download.mangaOcr.title": {
+    "message": "일본어 복잡한 글꼴을 쉽게 식별하세요."
+  },
+  "page.download.mangaOcr.subtitle": {
+    "message": "더 정확한 이미지 인식 기술로 복잡한 글꼴 인식이 어렵지 않으며, 번역 품질을 향상시킵니다."
+  },
+  "page.download.mangaShare.title": {
+    "message": "번역 후 온라인 공유"
+  },
+  "page.download.mangaShare.subtitle": {
+    "message": "번역된 만화는 온라인 링크로 저장할 수 있으며, 친구에게 한 번에 전달하여 함께 즐겁게 만화를 즐길 수 있습니다!"
+  },
+  "page.download.manga.title": {
+    "message": "원클릭 {hlStart}만화 번역{hlEnd}, 만화 추적에 더 이상의 장애물 없음"
   }
 }

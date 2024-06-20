@@ -1239,5 +1239,38 @@
   },
   "page.download.ao3.subtitle": {
     "message": "Pour répondre aux besoins spécifiques de la communauté AO3, nous avons développé un expert en traduction AI innovant pour AO3. Vous pouvez l'utiliser dans des services de traduction AI supportant l'immersion, tels que OpenAI, Claude, Gemini. Nous nous engageons à fournir aux amateurs de AO3 une expérience de lecture plus précise et fluide."
+  },
+  "page.index.mangaTitle": {
+    "message": "一键{hlStart}bande dessinée traduction{hlEnd}，lecture de bande dessinée fluide"
+  },
+  "page.index.mangaDescription": {
+    "message": "La traduction immersive prend en charge plusieurs sites web de bandes dessinées populaires (Pixiv, MANGA Plus by SHUEISHA, Zebrack by SHUEISHA, E-Hentai, et la liste continue de s'allonger).<br/>Supportant la traduction de bandes dessinées dans plus de 100 langues, elle vous permet de surmonter les barrières linguistiques et de profiter pleinement de la lecture de bandes dessinées du monde entier."
+  },
+  "page.index.mangaSupport": {
+    "message": "Sites pris en charge"
+  },
+  "page.index.installToBrowser": {
+    "message": "Installez gratuitement sur votre navigateur."
+  },
+  "page.download.mangaBall.title": {
+    "message": "Traduction rapide par bulle flottante"
+  },
+  "page.download.mangaBall.subtitle": {
+    "message": "Accédez au site Web de bande dessinée supporté par la traduction immersive, activez la bulle flottante, puis le bouton de raccourci de traduction de bande dessinée apparaîtra automatiquement, cliquez pour traduire la bande dessinée."
+  },
+  "page.download.mangaOcr.title": {
+    "message": "Reconnaître facilement les polices complexes japonaises."
+  },
+  "page.download.mangaOcr.subtitle": {
+    "message": "Une technologie de reconnaissance d'image plus précise, capable d'identifier des polices complexes sans difficulté, améliore la qualité de la traduction."
+  },
+  "page.download.mangaShare.title": {
+    "message": "Partagez en ligne après traduction."
+  },
+  "page.download.mangaShare.subtitle": {
+    "message": "La bande dessinée traduite peut être sauvegardée sous forme de lien en ligne, partagée en un clic avec des amis pour profiter ensemble de la lecture des mangas !"
+  },
+  "page.download.manga.title": {
+    "message": "一键{hlStart}bande dessinée traduction{hlEnd}，suivre les bandes dessinées sans obstacles."
   }
 }

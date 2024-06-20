@@ -66,5 +66,9 @@
   "item.label.blog": {
     "message": "Immersive Translation Blog",
     "description": "Navbar item with label 使用场景"
+  },
+  "item.label.Manga": {
+    "message": "Comic translation",
+    "description": "Navbar item with label 漫画翻译"
   }
 }
