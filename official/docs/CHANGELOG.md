@@ -4,6 +4,13 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.6.4
+- 当 AI 专家为【智能选择】时，可以为不同网站自定义不同的 AI 专家，在【设置】->【AI专家】->【进入任何一个专家】设置
+- 修复 YouTube【仅译文】模式下，字幕不显示的问题
+- 修复 Mubi 双语字幕失效问题
+- 兼容 Adobe Acrobat 插件打开的 PDF
+- 所有用户可以[在线贡献](https://weblate.immersivetranslate.com/projects/immersive-translate/extension/)沉浸式翻译界面的多语言翻译
+
 ## 1.6.3
 
 - 新功能：漫画翻译（Beta），在支持的漫画网站里，网页快捷翻译悬浮球下方会出现一个漫画翻译的按钮，点击即可开启漫画翻译，该功能为 Pro 会员可用（每月 500 张，更多可购买加量包），当前支持以下网站：

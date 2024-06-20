@@ -4,7 +4,14 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.6.2
+## 1.6.4
+- When AI experts are used for "Intelligent Selection", different AI experts can be customized for different websites. This can be set in  [Settings] -> [AI Experts] -> [Enter any expert].
+- Fixed the issue where subtitles do not display in YouTube in "Translation Only" mode.
+- Fixed the issue of bilingual subtitles not working on Mubi.
+- Compatible with PDFs opened with the Adobe Acrobat plugin.
+- All users can [contribute online]((https://weblate.immersivetranslate.com/projects/immersive-translate/extension/)) to the multilingual translation of the immersive translation interface.
+
+## 1.6.3
 
 - New feature: Manga translation (Beta), in supported manga websites, a manga translation button will appear below the webpage quick translation floating ball. Clicking it will activate manga translation. This feature is available for Pro members (500 pages per month, additional packs can be purchased), currently supporting the following sites:
   - [MANGA Plus by SHUEISHA](https://mangaplus.shueisha.co.jp)
