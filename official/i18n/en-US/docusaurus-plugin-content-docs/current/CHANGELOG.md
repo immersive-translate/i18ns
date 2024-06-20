@@ -9,7 +9,7 @@ sidebar_position: 6
 - Fixed the issue where subtitles do not display in YouTube in "Translation Only" mode.
 - Fixed the issue of bilingual subtitles not working on Mubi.
 - Compatible with PDFs opened with the Adobe Acrobat plugin.
-- All users can [contribute online]((https://weblate.immersivetranslate.com/projects/immersive-translate/extension/)) to the multilingual translation of the immersive translation interface.
+- All users can [contribute online](https://weblate.immersivetranslate.com/projects/immersive-translate/extension/) to the multilingual translation of the immersive translation interface.
 
 ## 1.6.3
 
