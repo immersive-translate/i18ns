@@ -1244,7 +1244,7 @@
     "message": "Um clique para {hlStart}tradução de mangás{hlEnd}, leitura de mangás sem esforço."
   },
   "page.index.mangaDescription": {
-    "message": "O suporte à tradução imersiva abrange vários sites de quadrinhos populares (Pixiv, MANGA Plus by SHUEISHA, Zebrack by SHUEISHA, E-Hentai, com mais sendo adicionados continuamente).<br/>Suporta a tradução de quadrinhos em mais de 100 idiomas, permitindo que você supere barreiras linguísticas e desfrute de quadrinhos de todo o mundo."
+    "message": "A tradução imersiva suporta múltiplos sites de quadrinhos mainstream (<a href='https://www.pixiv.net/manga' target='_blank'>Pixiv</a>, <a href='https://mangaplus.shueisha.co.jp/' target='_blank'>MANGA Plus by SHUEISHA</a>, <a href='https://zebrack-comic.shueisha.co.jp/' target='_blank'>Zebrack by SHUEISHA</a>, <a href='https://e-hentai.org/' target='_blank'>E-Hentai</a>, com mais sendo adicionados continuamente).<br/>Suporta traduções de quadrinhos em mais de 100 idiomas, ajudando você a superar barreiras linguísticas e a desfrutar da leitura de quadrinhos de todo o mundo."
   },
   "page.index.mangaSupport": {
     "message": "Sites já suportados"

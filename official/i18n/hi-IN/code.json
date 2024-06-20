@@ -1244,7 +1244,7 @@
     "message": "एक क्लिक {hlStart}मंगा अनुवाद{hlEnd}, सुखद मंगा पढ़ना"
   },
   "page.index.mangaDescription": {
-    "message": "इमर्सिव अनुवाद कई प्रमुख कॉमिक वेबसाइटों का समर्थन करता है (Pixiv, MANGA Plus by SHUEISHA, Zebrack by SHUEISHA, E-Hentai, और अभी भी जोड़ा जा रहा है)। 100+ भाषाओं में कॉमिक्स अनुवाद का समर्थन करता है, आपको भाषा की बाधाओं को पार करने में मदद करता है, और विश्वभर की कॉमिक्स का आनंद लेने में सक्षम बनाता है।"
+    "message": "इमर्सिव अनुवाद कई मुख्यधारा की कॉमिक वेबसाइटों का समर्थन करता है (<a href='https://www.pixiv.net/manga' target='_blank'>Pixiv</a>, <a href='https://mangaplus.shueisha.co.jp/' target='_blank'>MANGA Plus by SHUEISHA</a>, <a href='https://zebrack-comic.shueisha.co.jp/' target='_blank'>Zebrack by SHUEISHA</a>, <a href='https://e-hentai.org/' target='_blank'>E-Hentai</a>, और लगातार और भी जोड़े जा रहे हैं)।<br/>100 से अधिक भाषाओं में कॉमिक अनुवाद का समर्थन करता है, जो आपको भाषा की बाधाओं को पार करने और दुनिया भर की कॉमिक्स का आनंद लेने में मदद करता है।"
   },
   "page.index.mangaSupport": {
     "message": "समर्थित साइटें"

@@ -1244,7 +1244,7 @@
     "message": "Un clic para la {hlStart}traducción de cómics{hlEnd}, disfruta leyendo cómics sin complicaciones."
   },
   "page.index.mangaDescription": {
-    "message": "La traducción inmersiva es compatible con varios sitios web de cómics principales (Pixiv, MANGA Plus by SHUEISHA, Zebrack by SHUEISHA, E-Hentai, y sigue aumentando).<br/>Soporta la traducción de cómics en más de 100 idiomas, ayudándote a superar las barreras del idioma para disfrutar de la lectura de cómics globales."
+    "message": "La traducción inmersiva es compatible con múltiples sitios web de cómics principales (<a href='https://www.pixiv.net/manga' target='_blank'>Pixiv</a>, <a href='https://mangaplus.shueisha.co.jp/' target='_blank'>MANGA Plus by SHUEISHA</a>, <a href='https://zebrack-comic.shueisha.co.jp/' target='_blank'>Zebrack by SHUEISHA</a>, <a href='https://e-hentai.org/' target='_blank'>E-Hentai</a>, con más en continuo añadido).<br/>Soporta traducciones de cómics en más de 100 idiomas, ayudándote a superar las barreras del idioma y disfrutar leyendo cómics de todo el mundo."
   },
   "page.index.mangaSupport": {
     "message": "Sitios compatibles"

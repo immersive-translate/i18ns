@@ -1244,7 +1244,7 @@
     "message": "Ein-Klick-{hlStart}Comic-Übersetzung{hlEnd}, genießen Sie das Lesen von Comics."
   },
   "page.index.mangaDescription": {
-    "message": "Immersive Übersetzung unterstützt mehrere führende Comic-Websites (Pixiv, MANGA Plus by SHUEISHA, Zebrack by SHUEISHA, E-Hentai, und es kommen ständig neue hinzu).<br/>Unterstützt die Übersetzung von Comics in über 100 Sprachen, um Sprachbarrieren zu überwinden und das Lesen von Comics aus aller Welt zu genießen."
+    "message": "Immersive Übersetzung unterstützt mehrere führende Comic-Websites (<a href='https://www.pixiv.net/manga' target='_blank'>Pixiv</a>, <a href='https://mangaplus.shueisha.co.jp/' target='_blank'>MANGA Plus by SHUEISHA</a>, <a href='https://zebrack-comic.shueisha.co.jp/' target='_blank'>Zebrack by SHUEISHA</a>, <a href='https://e-hentai.org/' target='_blank'>E-Hentai</a>, weitere werden kontinuierlich hinzugefügt).<br/>Unterstützt Comic-Übersetzungen in über 100 Sprachen, hilft Ihnen, Sprachbarrieren zu überwinden und das Lesen von Comics aus aller Welt zu genießen."
   },
   "page.index.mangaSupport": {
     "message": "Unterstützte Websites"

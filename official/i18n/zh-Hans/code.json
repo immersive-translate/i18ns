@@ -429,7 +429,7 @@
     "message": "一键{hlStart}漫画翻译{hlEnd}，畅快漫画阅读"
   },
   "page.index.mangaDescription": {
-    "message": "沉浸式翻译支持多家主流漫画网站网站（  Pixiv , MANGA Plus by SHUEISHA , Zebrack by SHUEISHA , E-Hentai, 还在持续增加中）。<br/>支持100+语言的漫画翻译，带你跨越语言障碍，畅快阅读全球漫画。"
+    "message": "沉浸式翻译支持多家主流漫画网站网站（  <a href='https://www.pixiv.net/manga' target='_blank'>Pixiv</a> , <a href='https://mangaplus.shueisha.co.jp/' target='_blank'>MANGA Plus by SHUEISHA</a> , <a href='https://zebrack-comic.shueisha.co.jp/' target='_blank'>Zebrack by SHUEISHA</a> , <a href='https://e-hentai.org/' target='_blank'>E-Hentai</a>, 还在持续增加中）。<br/>支持100+语言的漫画翻译，带你跨越语言障碍，畅快阅读全球漫画。"
   },
   "page.index.mangaSupport": {
     "message": "已支持站点"
