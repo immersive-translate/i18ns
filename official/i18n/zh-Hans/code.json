@@ -425,6 +425,18 @@
   "page.index.ao3Description": {
     "message": "免费、好用、零门槛、零延迟——无需下载，在线安装，打开即用；第一时间吃上同人饭，万文翻译不求人；<br/>一键翻译、双语对照、原汁原味——自由调用谷歌、OpenAI (ChatGPT)、DeepL、Gemini等AI翻译引擎；<br/>随时随地、想嗑就嗑——支持网页版、手机版，以及超过100+语言。立刻安装，开始干饭&gt;o&lt;"
   },
+  "page.index.mangaTitle": {
+    "message": "一键{hlStart}漫画翻译{hlEnd}，畅快漫画阅读"
+  },
+  "page.index.mangaDescription": {
+    "message": "沉浸式翻译支持多家主流漫画网站网站（  Pixiv , MANGA Plus by SHUEISHA , Zebrack by SHUEISHA , E-Hentai, 还在持续增加中）。<br/>支持100+语言的漫画翻译，带你跨越语言障碍，畅快阅读全球漫画。"
+  },
+  "page.index.mangaSupport": {
+    "message": "已支持站点"
+  },
+  "page.index.installToBrowser": {
+    "message": "免费安装到浏览器"
+  },
   "page.index.downloadBtn.edge": {
     "message": "Edge 扩展"
   },
@@ -695,7 +707,7 @@
     "message": "在线视频双语字幕翻译功能介绍-沉浸式翻译"
   },
   "page.features.videoSubtitle.content.description": {
-    "message": "免费的在线视频双语字幕翻译服务，支持30+主流视频网站（ Youtube , NetFlix , Twitter Spaces , HBO Max , Vimeo , Khan Academy , Coursera , Udemy , Bloomberg , Nebula , Bilibili , TED等数十家主流视频站点，还在持续增加中）。支持100+语言的字幕对照翻译并根据视频进程实时展示，比如你可以中英文字幕对照的观看Youtube和NetFlix的视频，即时字幕自动生成实时翻译，双语对照字幕带你跨越语言障碍，与全球各种语言的思想碰撞。"
+    "message": "免费的在线视频双语字幕翻译服务，支持60+主流视频网站（ Youtube , NetFlix , Twitter Spaces , HBO Max , Vimeo , Khan Academy , Coursera , Udemy , Bloomberg , Nebula , Bilibili , TED等数十家主流视频站点，还在持续增加中）。支持100+语言的字幕对照翻译并根据视频进程实时展示，比如你可以中英文字幕对照的观看Youtube和NetFlix的视频，即时字幕自动生成实时翻译，双语对照字幕带你跨越语言障碍，与全球各种语言的思想碰撞。"
   },
   "page.features.videoSubtitle.content.supportSite": {
     "message": "已支持站点"
@@ -1036,11 +1048,32 @@
   "page.download.videoSub.subtitle": {
     "message": "沉浸式翻译插件支持包含Youtube、Netflix、Udemy在内的60多个国外的主流在线视频网站的实时双语字幕翻译。原汁原味的外语语音配合母语原文/译文双语对照字幕您不仅能够完全理解视频内容，还能在观影过程中自然地学习外语，让您在潜移默化中提高听说读写能力。"
   },
+  "page.download.mangaBall.title": {
+    "message": "悬浮球快捷翻译"
+  },
+  "page.download.mangaBall.subtitle": {
+    "message": "进入沉浸式翻译已支持的漫画网站，开启悬浮球后，自动出现漫画翻译快捷按钮，点击即可翻译漫画"
+  },
+  "page.download.mangaOcr.title": {
+    "message": "轻松识别日文复杂字体"
+  },
+  "page.download.mangaOcr.subtitle": {
+    "message": "更加精准的图像识别技术，识别复杂字体不在困难，提高翻译质量"
+  },
+  "page.download.mangaShare.title": {
+    "message": "译后在线分享"
+  },
+  "page.download.mangaShare.subtitle": {
+    "message": "翻译后的漫画，可保存为在线链接，一键转发给好友，一起畅快追漫！"
+  },
   "page.download.ao3.title": {
     "message": "AO3 AI 翻译专家"
   },
   "page.download.ao3.subtitle": {
     "message": "针对 AO3 社区的独特需求，我们开发了一款创新的 AO3 AI 翻译专家。你可以在沉浸式翻译支持的 AI 类翻译服务（如 OpenAI、Claude、Gemini）中使用它，我们致力于为 AO3 爱好者提供更加精准、流畅的阅读体检。"
+  },
+  "page.download.manga.title": {
+    "message": "一键{hlStart}漫画翻译{hlEnd}，追漫再无阻碍"
   },
   "page.download.pdf.title": {
     "message": "PDF翻译"

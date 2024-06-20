@@ -4,6 +4,14 @@ sidebar_position: 6
 
 # 更新日誌
 
+## 1.6.4
+
+- 當 AI 專家為【智能選擇】時，可為不同網站自訂不同的 AI 專家，可在【設置】->【AI專家】->【進入任何一個專家】設置
+- 修復 Youtube 【僅譯文】模式下，字幕不顯示的問題
+- 修復 Mubi 雙語字幕失效問題
+- 兼容 Adobe Acrobat 插件打開的 PDF
+- 所有用戶可以[在線貢獻](https://weblate.immersivetranslate.com/projects/immersive-translate/extension/)沉浸式翻譯介面的多語言翻譯
+
 ## 1.6.3
 
 - 新功能：漫畫翻譯（Beta），在支援的漫畫網站裡，網頁快捷翻譯懸浮球下方會出現一個漫畫翻譯的按鈕，點擊即可開啟漫畫翻譯，該功能為 Pro 會員可用（每月 500 張，更多可購買加量包），當前支持以下網站：

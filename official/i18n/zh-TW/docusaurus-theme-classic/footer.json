@@ -105,6 +105,6 @@
     "message": "true"
   },
   "link.item.visible.Blog": {
-    "message": "true"
+    "message": "false"
   }
 }

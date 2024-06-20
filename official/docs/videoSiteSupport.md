@@ -61,5 +61,13 @@ sidebar_position: 15
 | [Unreal Sensei](https://www.unrealsenseiacademy.com/)  |  Unreal Sensei 提供有关Unreal Engine的教程和课程，这是一个广泛用于游戏开发、建筑可视化和虚拟制作的强大引擎。 |
 | [DeepLearning.ai](https://learn.deeplearning.ai)  |  DeepLearning.ai 是由著名的AI专家吴恩达（Andrew Ng）创办的在线学习平台，提供深度学习和人工智能的课程。 |
 | [Piped.Video](https://piped.video/)  |  Piped.Video 是一个开源的YouTube客户端，它允许用户以隐私友好和广告免费的方式观看YouTube视频。 |
+| [Plex.TV](https://piped.video/) | Plex.TV 是一个流媒体服务平台，它允许用户将自己的电影，电视节目，音乐和照片集中存储，并在任何设备上进行播放。 |
+| [University of Southampton](https://southampton.cloud.panopto.eu/) | 南安普顿大学是英国的一所公立研究型大学，提供各种本科和研究生课程，包括工程、医学、社会科学等。它的研究实力在全球范围内都有很高的评价。 |
+| [VK Video](https://vk.com/video) | VK Video 是社交网络服务 VK 的一部分，用户可以在此上传、分享和观看视频。内容包括电影、电视节目、音乐视频和用户生成的内容等。 |
+| [COMSOL](https://www.comsol.com/video) | COMSOL 是一款用于仿真物理现象的软件。它提供了多物理场、化学反应、流体动力学等多种模块，广泛应用于工程、科研等领域。 |
+| [The Motion Magic](https://themotionmagic.com/) | The Motion Magic 是一个提供高质量动画和视觉效果服务的公司。他们的作品包括电影、电视、广告和音乐视频等。 |
+| [SVT Play](https://www.svtplay.se/) | SVT Play 是瑞典电视公司的在线视频服务，提供新闻、电视节目、电影等内容的实时播放和点播。 |
+| [Osmosis](https://www.osmosis.org/) | Osmosis 是一个在线学习平台，专注于医学和健康科学领域。它提供了大量的视频教程、学习计划和测验，帮助学生更有效地学习。 |
+| [dr.dk](https://www.dr.dk/) | dr.dk 是丹麦广播公司的官方网站，提供新闻、电视和广播节目的在线播放。它是丹麦最大的新闻提供者和公共服务媒体。 |
 
 [查看更多 & 反馈适配需求](https://github.com/immersive-translate/immersive-translate/issues/1179)

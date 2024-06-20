@@ -43,6 +43,10 @@
     "message": "双语内容分享",
     "description": "Navbar item with label 双语内容分享"
   },
+  "item.label.Manga": {
+    "message": "漫画翻译",
+    "description": "Navbar item with label 漫画翻译"
+  },
   "item.label.PDFTranslate": {
     "message": "PDF翻译 & EPUB翻译",
     "description": "Navbar item with label PDF&EPUB翻译"
@@ -66,5 +70,8 @@
   "item.label.documentTranslation": {
     "message": "文档翻译",
     "description": "Navbar item with label 文档翻译"
+  },
+  "item.visible.blog": {
+    "message": "true"
   }
 }

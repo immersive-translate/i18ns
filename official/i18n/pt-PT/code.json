@@ -689,7 +689,7 @@
     "message": "Introdução à função de tradução de legendas bilíngues de vídeos on-line"
   },
   "page.features.videoSubtitle.content.description": {
-    "message": "A extensão Tradução Imersiva oferece um serviço gratuito de tradução de legendas bilíngues de vídeos on-line, com suporte a um amplo espectro de plataformas de vídeo convencionais (Youtube, NetFlix, Twitter Spaces, HBO Max, Vimeo, Khan Academy, Coursera, Udemy, Bloomberg, Nebula, Bilibili . TED e dezenas de outros sites de vídeo populares, com essa lista em constante expansão). Ele oferece suporte à tradução de legendas bilíngues em dezenas de idiomas e as exibe em tempo real de acordo com o processo do vídeo. Por exemplo, você pode assistir a vídeos do YouTube e do NetFlix com legendas em espanhol e inglês, e as legendas instantâneas são geradas automaticamente e traduzidas em tempo real."
+    "message": "A Extensão Immersive Translate oferece um serviço gratuito de tradução de legendas bilíngues para vídeos online, suportando uma ampla gama de plataformas de vídeo mainstream (YouTube, Netflix, Twitter, HBO Max, Vimeo, Khan Academy, Coursera, Udemy, Bloomberg, Nebula, Bilibili, TED e dezenas de outros sites de vídeo mainstream, com a lista em constante expansão). Suporta a tradução de legendas bilíngues em dezenas de idiomas e as exibe em tempo real de acordo com o processo do vídeo. Por exemplo, você pode assistir a vídeos do YouTube e Netflix com legendas em espanhol e inglês, sendo as legendas geradas e traduzidas automaticamente em tempo real. O controle de legendas bilíngues ajudará você a superar a barreira linguística e conectá-lo com ideias em várias línguas ao redor do mundo."
   },
   "page.features.videoSubtitle.content.supportSite": {
     "message": "Sites compatíveis"

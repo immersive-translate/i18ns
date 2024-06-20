@@ -61,5 +61,13 @@ sidebar_position: 15
 | [Unreal Sensei](https://www.unrealsenseiacademy.com/)  |  Unreal Sensei provides tutorials and courses about Unreal Engine, which is a powerful engine widely used for game development, architectural visualization, and virtual production.|
 | [DeepLearning.ai](https://learn.deeplearning.ai)  |  DeepLearning.ai is an online learning platform founded by the renowned AI expert Andrew Ng, offering courses on deep learning and artificial intelligence.|
 | [Piped.Video](https://piped.video/)  |  Piped.Video is an open-source YouTube client that allows users to watch YouTube videos in a privacy-friendly and ad-free manner.|
+| [Plex.TV](https://piped.video/) | Plex.TV is a streaming service platform that allows users to centrally store their movies, TV shows, music, and photos, and play them on any device. |
+| [University of Southampton](https://southampton.cloud.panopto.eu/) | The University of Southampton is a public research university in the UK, offering a variety of undergraduate and postgraduate courses, including engineering, medicine, social sciences, etc. Its research strength is highly regarded worldwide. |
+| [VK Video](https://vk.com/video) | VK Video is part of the social network service VK, where users can upload, share, and watch videos. Content includes movies, TV shows, music videos, and user-generated content. |
+| [COMSOL](https://www.comsol.com/video) | COMSOL is software used for simulating physical phenomena. It offers various modules including multiphysics, chemical reactions, fluid dynamics, and is widely used in engineering, research, and other fields. |
+| [The Motion Magic](https://themotionmagic.com/) | The Motion Magic is a company providing high-quality animation and visual effects services. Their works include movies, TV, advertisements, and music videos. |
+| [SVT Play](https://www.svtplay.se/) | SVT Play is the online video service of the Swedish Television Company, offering live streaming and on-demand content including news, TV shows, and movies. |
+| [Osmosis](https://www.osmosis.org/) | Osmosis is an online learning platform focused on the fields of medicine and health sciences. It provides numerous video tutorials, study plans, and quizzes to help students learn more effectively. |
+| [dr.dk](https://www.dr.dk/) | dr.dk is the official website of the Danish Broadcasting Corporation, offering online streaming of news, TV, and radio programs. It is Denmark's largest news provider and public service media. |
 
 [View more & Feedback adaptation requirements](https://github.com/immersive-translate/immersive-translate/issues/1179)

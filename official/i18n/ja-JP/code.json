@@ -689,7 +689,7 @@
     "message": "オンライン動画バイリンガル字幕翻訳機能紹介ー没入型翻訳"
   },
   "page.features.videoSubtitle.content.description": {
-    "message": "オンライン動画バイリンガル字幕サービスを無料で提供しています。30種以上の主要な動画サイト（ Youtube , NetFlix , Twitter Spaces , HBO Max , Vimeo , Khan Academy , Coursera , Udemy , Bloomberg , Nebula , Bilibili , TEDなど、これからも増えていく予定です）に適用されています。100以上の言語の字幕翻訳が適時に表示されます。例えば、英語と日本語字幕付きのYoutubeやNetFlixの動画を楽しめます。リアルタイムで字幕を翻訳し、バイリンガル字幕によって、言語の壁を打ち破り、世界の異なる文化に触れましょう。"
+    "message": "イマーシブ翻訳エクステンションは、無料のオンラインビデオ二言語字幕翻訳サービスを提供しており、幅広い主流のビデオプラットフォーム（YouTube、Netflix、Twitter、HBO Max、Vimeo、カーンアカデミー、Coursera、Udemy、Bloomberg、Nebula、Bilibili、TEDなど、リストは続々と拡大しています）をサポートしています。数十の言語での二言語字幕翻訳をサポートし、ビデオの進行に応じてリアルタイムで表示します。たとえば、スペイン語と英語の字幕でYouTubeやNetflixのビデオを視聴でき、字幕は自動的に生成され、リアルタイムで翻訳されます。二言語字幕コントロールにより、言語の壁を越え、世界中のさまざまな言語のアイデアとつながることができます。"
   },
   "page.features.videoSubtitle.content.supportSite": {
     "message": "対応サイト"
