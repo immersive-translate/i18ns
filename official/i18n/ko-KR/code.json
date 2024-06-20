@@ -1244,7 +1244,7 @@
     "message": "원클릭 {hlStart}만화 번역{hlEnd}, 쾌적한 만화 읽기"
   },
   "page.index.mangaDescription": {
-    "message": "몰입형 번역은 여러 주류 만화 웹사이트(<a href='https://www.pixiv.net/manga' target='_blank'>Pixiv</a>, <a href='https://mangaplus.shueisha.co.jp/' target='_blank'>MANGA Plus by SHUEISHA</a>, <a href='https://zebrack-comic.shueisha.co.jp/' target='_blank'>Zebrack by SHUEISHA</a>, <a href='https://e-hentai.org/' target='_blank'>E-Hentai</a> 등)를 지원하며 지속적으로 추가되고 있습니다.<br/>100개 이상의 언어로 만화 번역을 지원하여 언어 장벽을 극복하고 전 세계의 만화를 즐길 수 있도록 도와줍니다."
+    "message": "몰입형 번역은 여러 주류 만화 웹사이트(<a href='https://www.pixiv.net/manga' target='_blank'>Pixiv</a> , <a href='https://mangaplus.shueisha.co.jp/' target='_blank'>MANGA Plus by SHUEISHA</a> , <a href='https://zebrack-comic.shueisha.co.jp/' target='_blank'>Zebrack by SHUEISHA</a> , <a href='https://e-hentai.org/' target='_blank'>E-Hentai</a> 등)를 지원하며 지속적으로 추가되고 있습니다.<br/>100개 이상의 언어로 만화 번역을 지원하여 언어 장벽을 극복하고 전 세계의 만화를 즐길 수 있도록 도와줍니다."
   },
   "page.index.mangaSupport": {
     "message": "지원된 사이트"
