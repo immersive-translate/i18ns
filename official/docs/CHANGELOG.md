@@ -4,6 +4,15 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.6.5
+
+- 修复漫画翻译目标语言为拉丁语系的文字排版问题
+- 漫画翻译新增支持站点
+  - [COMIC FUZ](https://comic-fuz.com/)
+  - [MangaDex](https://mangadex.org/)
+  - [快看漫画](https://www.kuaikanmanhua.com/)
+- 修复自定义 AI 服务无法选中 AI 专家
+
 ## 1.6.4
 - 当 AI 专家为【智能选择】时，可以为不同网站自定义不同的 AI 专家，在【设置】->【AI专家】->【进入任何一个专家】设置
 - 修复 YouTube【仅译文】模式下，字幕不显示的问题

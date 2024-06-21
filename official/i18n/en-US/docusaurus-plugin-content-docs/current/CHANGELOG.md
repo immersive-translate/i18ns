@@ -4,6 +4,14 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.6.5
+- Fix the text layout issues of comic translations for languages in the Latin script.
+- New supported sites for comic translation:
+  - COMIC FUZCOMICFUZ(https://comic-fuz.com/)
+  - MangaDexMangaDex(https://mangadex.org/)
+  - KuaiKan ComicsKuaiKanComics(https://www.kuaikanmanhua.com/)
+- Fixed an issue where custom AI services couldn't select AI experts.
+
 ## 1.6.4
 - When AI experts are used for "Intelligent Selection", different AI experts can be customized for different websites. This can be set in  [Settings] -> [AI Experts] -> [Enter any expert].
 - Fixed the issue where subtitles do not display in YouTube in "Translation Only" mode.

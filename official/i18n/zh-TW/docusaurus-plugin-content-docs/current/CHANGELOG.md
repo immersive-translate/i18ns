@@ -4,6 +4,15 @@ sidebar_position: 6
 
 # 更新日誌
 
+## 1.6.5
+
+- 修復漫畫翻譯目標語言為拉丁語系的文字排版問題。
+- 漫畫翻譯新增支持站點：
+  - COMIC FUZCOMICFUZ(https://comic-fuz.com/)
+  - MangaDexMangaDex(https://mangadex.org/)
+  - 快看漫畫快看漫畫(https://www.kuaikanmanhua.com/)
+- 修復自定義AI服務無法選中AI專家的問題。
+
 ## 1.6.4
 
 - 當 AI 專家為【智能選擇】時，可為不同網站自訂不同的 AI 專家，可在【設置】->【AI專家】->【進入任何一個專家】設置
