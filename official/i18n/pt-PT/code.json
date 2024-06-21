@@ -1272,5 +1272,8 @@
   },
   "page.download.manga.title": {
     "message": "Um clique para {hlStart}tradução de mangás{hlEnd}, sem mais obstáculos para acompanhar mangás."
+  },
+  "page.download.manga.subtitle": {
+    "message": "Para atender às necessidades dos amantes de quadrinhos, lançamos uma nova ferramenta de tradução de quadrinhos. Seja para mangás japoneses ou obras de outros países, os usuários podem traduzir o texto dos quadrinhos para o idioma escolhido com apenas um clique, superando as barreiras linguísticas e tornando o acompanhamento de seus amados quadrinhos muito mais fácil e confortável. Esta tecnologia não apenas aumentou a eficiência da leitura, mas também enriqueceu enormemente a experiência de leitura dos usuários, permitindo que histórias fascinantes de diferentes contextos culturais ultrapassem as barreiras linguísticas e sejam compartilhadas por leitores ao redor do mundo."
   }
 }

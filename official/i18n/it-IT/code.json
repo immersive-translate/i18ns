@@ -1272,5 +1272,8 @@
   },
   "page.download.manga.title": {
     "message": "Un solo clic per la {hlStart}traduzione dei fumetti{hlEnd}, niente più ostacoli nel seguire i fumetti."
+  },
+  "page.download.manga.subtitle": {
+    "message": "Per soddisfare le esigenze degli appassionati di fumetti, abbiamo lanciato un nuovo strumento di traduzione per fumetti. Che si tratti di fumetti giapponesi o di opere di altri paesi, gli utenti possono tradurre rapidamente i testi dei fumetti nella lingua scelta con un solo clic, superando così le barriere linguistiche e rendendo il seguire i propri fumetti preferiti molto più facile e confortevole. Questa tecnologia non solo aumenta l'efficienza della lettura, ma arricchisce enormemente l'esperienza di lettura degli utenti, permettendo a storie affascinanti di diverse culture di superare i confini linguistici e di essere condivise da lettori di tutto il mondo."
   }
 }
