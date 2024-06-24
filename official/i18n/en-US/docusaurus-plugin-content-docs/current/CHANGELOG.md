@@ -5,6 +5,7 @@ sidebar_position: 6
 # Change Log
 
 ## 1.6.5
+
 - Fix the text layout issues of comic translations for languages in the Latin script.
 - New supported sites for comic translation:
   - COMIC FUZCOMICFUZ(https://comic-fuz.com/)
@@ -13,7 +14,8 @@ sidebar_position: 6
 - Fixed an issue where custom AI services couldn't select AI experts.
 
 ## 1.6.4
-- When AI experts are used for "Intelligent Selection", different AI experts can be customized for different websites. This can be set in  [Settings] -> [AI Experts] -> [Enter any expert].
+
+- When AI experts are used for "Intelligent Selection", different AI experts can be customized for different websites. This can be set in [Settings] -> [AI Experts] -> [Enter any expert].
 - Fixed the issue where subtitles do not display in YouTube in "Translation Only" mode.
 - Fixed the issue of bilingual subtitles not working on Mubi.
 - Compatible with PDFs opened with the Adobe Acrobat plugin.
@@ -26,6 +28,15 @@ sidebar_position: 6
   - [Zebrack by SHUEISHA](https://zebrack-comic.shueisha.co.jp)
   - [E-Hentai](https://e-hentai.org)
   - [Pixiv](https://www.pixiv.net/manga)
+
+## 1.6.2
+
+- New feature: Manga translation (Beta), in supported manga websites, a manga translation button will appear below the webpage quick translation floating ball. Clicking it will activate manga translation. This feature is available for Pro members (500 pages per month, additional packs can be purchased), currently supporting the following sites:
+  - [MANGA Plus by SHUEISHA](https://mangaplus.shueisha.co.jp)
+  - [Zebrack by SHUEISHA](https://zebrack-comic.shueisha.co.jp)
+  - [E-Hentai](https://e-hentai.org)
+  - [Pixiv](https://www.pixiv.net/manga)
+  - [seiga.nicovideo](https://seiga.nicovideo.jp/?cmnhd_ref=device=pc&site=seiga&pos=header_servicelink)
 - New feature: AI translation supports [Doubao large model](https://www.volcengine.com/product/doubao)
 - New feature: Support for bilingual comparison mode with translation first and original text following, which can be enabled in the settings page -> advanced settings.
 - Custom AI model list supports `-all` syntax, which can delete all preset models.

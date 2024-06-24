@@ -14,6 +14,7 @@ sidebar_position: 6
 - 修复自定义 AI 服务无法选中 AI 专家
 
 ## 1.6.4
+
 - 当 AI 专家为【智能选择】时，可以为不同网站自定义不同的 AI 专家，在【设置】->【AI专家】->【进入任何一个专家】设置
 - 修复 YouTube【仅译文】模式下，字幕不显示的问题
 - 修复 Mubi 双语字幕失效问题
@@ -27,6 +28,7 @@ sidebar_position: 6
   - [Zebrack by SHUEISHA](https://zebrack-comic.shueisha.co.jp)
   - [E-Hentai](https://e-hentai.org)
   - [Pixiv](https://www.pixiv.net/manga)
+  - [seiga.nicovideo](https://seiga.nicovideo.jp/?cmnhd_ref=device=pc&site=seiga&pos=header_servicelink)
 - 新特性：AI 翻译支持[豆包大模型](https://www.volcengine.com/product/doubao)
 - 新特性： 支持译文在先，原文随后的双语对照模式，可在设置页面->进阶设置中启用。
 - 自定义 AI 模型列表支持 `-all` 语法，可以删除预置的所有模型。

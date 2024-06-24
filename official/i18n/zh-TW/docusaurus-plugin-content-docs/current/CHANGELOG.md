@@ -28,6 +28,7 @@ sidebar_position: 6
   - [Zebrack by SHUEISHA](https://zebrack-comic.shueisha.co.jp)
   - [E-Hentai](https://e-hentai.org)
   - [Pixiv](https://www.pixiv.net/manga)
+  - [seiga.nicovideo](https://seiga.nicovideo.jp/?cmnhd_ref=device=pc&site=seiga&pos=header_servicelink)
 - 新特性：AI 翻譯支持[豆包大模型](https://www.volcengine.com/product/doubao)
 - 新特性： 支持譯文在先，原文隨後的雙語對照模式，可在設定頁面->進階設定中啟用。
 - 自定義 AI 模型列表支持 `-all` 語法，可以刪除預置的所有模型。
