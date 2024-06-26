@@ -1244,7 +1244,7 @@
     "message": "一键{hlStart}комикс перевод{hlEnd}, наслаждайтесь чтением комиксов"
   },
   "page.index.mangaDescription": {
-    "message": "Иммерсивный перевод поддерживает множество основных сайтов с комиксами (<a href='https://www.pixiv.net/manga' target='_blank'>Pixiv</a> , <a href='https://mangaplus.shueisha.co.jp/' target='_blank'>MANGA Plus by SHUEISHA</a> , <a href='https://zebrack-comic.shueisha.co.jp/' target='_blank'>Zebrack by SHUEISHA</a> , <a href='https://e-hentai.org/' target='_blank'>E-Hentai</a>, и список постоянно пополняется).<br/>Поддерживает перевод комиксов более чем на 100 языков, помогая вам преодолеть языковые барьеры и наслаждаться чтением комиксов со всего мира."
+    "message": "Иммерсивный перевод поддерживает несколько основных сайтов манги (<a href='https://www.pixiv.net/manga' target='_blank'>Pixiv</a>, <a href='https://mangaplus.shueisha.co.jp/' target='_blank'>MANGA Plus by SHUEISHA</a>, <a href='https://zebrack-comic.shueisha.co.jp/' target='_blank'>Zebrack by SHUEISHA</a>, <a href='https://e-hentai.org/' target='_blank'>E-Hentai</a> и др., и их количество постоянно увеличивается).<br/>Поддерживает перевод манги на более чем 100 языков, что позволяет преодолевать языковые барьеры и наслаждаться чтением манги со всего мира.<br/><br/>Вашего сайта нет в списке? <a href='https://github.com/immersive-translate/immersive-translate/issues/1809' target='_blank' style='color: #EA4C89;'>Нажмите здесь</a>, чтобы сообщить нам, какой сайт вам нужен для поддержки, и мы адаптируем его как можно скорее!"
   },
   "page.index.mangaSupport": {
     "message": "Поддерживаемые сайты"
