@@ -4,6 +4,16 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.6.6
+
+- Added support for new sites for comic translation:
+    - [Mangabuddy](https://mangabuddy.com/)
+    - [Hitomi](https://hitomi.la)
+    - [Yamibo](https://www.yamibo.com)
+    - [Copymanga](https://www.copymanga.site/)
+- YouTube bilingual subtitles now support intelligent sentence splitting (Beta) (Only when manually enabling immersive translation of YouTube subtitles in [Settings] - [Video Subtitles], and the original video subtitles are auto-generated English subtitles)
+- Added translation service Tencent [【Hunyuan Large Model】](https://immersivetranslate.com/docs/services/tencent-hunyuan/)
+
 ## 1.6.5
 
 - Fix the text layout issues of comic translations for languages in the Latin script.

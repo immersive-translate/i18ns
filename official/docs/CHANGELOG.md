@@ -4,6 +4,17 @@ sidebar_position: 6
 
 # Change Log
 
+
+## 1.6.6
+
+- 漫画翻译新增支持站点
+    - [Mangabuddy](https://mangabuddy.com/)
+    - [Hitomi](https://hitomi.la)
+    - [Yamibo](https://www.yamibo.com)
+    - [Copymanga](https://www.copymanga.site/)
+- Youtube 双语字幕支持智能分句（Beta）（仅在【设置】-【视频字幕】中手动启用沉浸式翻译翻译Youtube字幕，且原视频字幕为自动生成的英文字幕才生效）
+- 翻译服务新增腾讯[【混元大模型】](https://immersivetranslate.com/docs/services/tencent-hunyuan/)
+
 ## 1.6.5
 
 - 修复漫画翻译目标语言为拉丁语系的文字排版问题
