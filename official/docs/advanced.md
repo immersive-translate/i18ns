@@ -499,7 +499,7 @@ export interface Rule {
     "google": {
       "matches":["https://twitter.com"]
     },
-    "bing": {
+    "deepl": {
       "matches":["https://www.sci-hub.se"]
     }
   }
