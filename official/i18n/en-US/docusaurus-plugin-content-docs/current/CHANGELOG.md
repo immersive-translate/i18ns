@@ -9,13 +9,10 @@ sidebar_position: 6
 
 - Improved translation speed for comic translations
 - Added support for new sites in comic translations:
-  - [shonenjumpplus](shonenjumpplus.com)
-  - [jumptoon](jumptoon.com)
-  - [heros-web](https://viewer.heros-web.com/)
+  - [ShonenJumpPlus](shonenjumpplus.com)
+  - [Heros Web](https://viewer.heros-web.com/)
   - [Comic Days](https://comic-days.com/)
   - [ComicWalker](https://comic-walker.com/)
-  - [Futabanet](https://gaugau.futabanet.jp/)
-  - [Yokohama Yuik](https://yokohama.yuik.net)
   - [Web Ace](https://web-ace.jp/)
 
 ## 1.6.6

@@ -9,13 +9,10 @@ sidebar_position: 6
 
 - 優化漫畫翻譯速度
 - 漫畫翻譯新增支援站點
-  - [shonenjumpplus](shonenjumpplus.com)
-  - [jumptoon](jumptoon.com)
-  - [heros-web](https://viewer.heros-web.com/)
+  - [ShonenJumpPlus](shonenjumpplus.com)
+  - [Heros Web](https://viewer.heros-web.com/)
   - [Comic Days](https://comic-days.com/)
   - [ComicWalker](https://comic-walker.com/)
-  - [Futabanet](https://gaugau.futabanet.jp/)
-  - [Yokohama Yuik](https://yokohama.yuik.net)
   - [Web Ace](https://web-ace.jp/)
 
 
