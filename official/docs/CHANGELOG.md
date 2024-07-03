@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.6.7
+## 1.7.1
 
 - 漫画翻译优化翻译速度
 - 漫画翻译新增支持站点
