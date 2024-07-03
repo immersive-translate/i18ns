@@ -5,7 +5,7 @@ sidebar_position: 6
 # Change Log
 
 
-## 1.6.7
+## 1.7.1
 
 - Improved translation speed for comic translations
 - Added support for new sites in comic translations:
