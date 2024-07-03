@@ -9,7 +9,7 @@ sidebar_position: 6
 
 - Improved translation speed for comic translations
 - Added support for new sites in comic translations:
-  - [ShonenJumpPlus](shonenjumpplus.com)
+  - [ShonenJumpPlus](https://shonenjumpplus.com)
   - [Heros Web](https://viewer.heros-web.com/)
   - [Comic Days](https://comic-days.com/)
   - [ComicWalker](https://comic-walker.com/)
