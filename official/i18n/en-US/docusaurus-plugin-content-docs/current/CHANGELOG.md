@@ -4,6 +4,9 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.7.2
+
+- Fixed comic translation failure in Firefox browser.
 
 ## 1.7.1
 
