@@ -4,6 +4,12 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.7.3
+
+- Youtube 字幕显示允许复制
+- 优化部分视频站点的字幕显示
+- 优化漫画翻译速度
+
 ## 1.7.2
 
 - 修复火狐浏览器漫画翻译失败
@@ -17,6 +23,7 @@ sidebar_position: 6
   - [Comic Days](https://comic-days.com/)
   - [ComicWalker](https://comic-walker.com/)
   - [Web Ace](https://web-ace.jp/)
+  - [Omega Scans](https://omegascans.org/)
 
 ## 1.6.6
 

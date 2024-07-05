@@ -4,6 +4,12 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.7.3
+
+- Enabled copying of YouTube subtitles
+- Optimized subtitle display on some video sites
+- Improved manga translation speed
+
 ## 1.7.2
 
 - Fixed comic translation failure in Firefox browser.
