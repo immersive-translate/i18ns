@@ -1229,7 +1229,7 @@
     "message": "一鍵{hlStart}漫畫翻譯{hlEnd}，暢快漫畫閱讀"
   },
   "page.index.mangaDescription": {
-    "message": "沉浸式翻譯支持多家主流漫畫網站（<a href='https://www.pixiv.net/manga' target='_blank'>Pixiv</a>、<a href='https://mangaplus.shueisha.co.jp/' target='_blank'>MANGA Plus by SHUEISHA</a>、<a href='https://zebrack-comic.shueisha.co.jp/' target='_blank'>Zebrack by SHUEISHA</a>、<a href='https://e-hentai.org/' target='_blank'>E-Hentai</a> 等，還在持續增加中）。<br/>支持100+語言的漫畫翻譯，帶你跨越語言障礙，暢快閱讀全球漫畫。<br/><br/>沒有您想看的網站？<a href='https://github.com/immersive-translate/immersive-translate/issues/1809' target='_blank' style='color: #EA4C89;'>點擊這裡</a>告訴我們你需要支持的網站，我們會盡快適配！"
+    "message": "沉浸式翻譯支持多家主流漫畫網站（<a href='https://www.pixiv.net/manga' target='_blank'>Pixiv</a>、<a href='https://mangaplus.shueisha.co.jp/' target='_blank'>MANGA Plus by SHUEISHA</a>、<a href='https://zebrack-comic.shueisha.co.jp/' target='_blank'>Zebrack by SHUEISHA</a>、<a href='https://e-hentai.org/' target='_blank'>E-Hentai</a>、 <a href='https://www.kuaikanmanhua.com/' target='_blank'>快看漫画</a>、 <a href='https://comic-fuz.com/' target='_blank'>COMIC FUZ</a>、 <a href='https://mangadex.org/' target='_blank'>MangaDex</a> 等，還在持續增加中）。<br/>支持100+語言的漫畫翻譯，帶你跨越語言障礙，暢快閱讀全球漫畫。<br/><br/>沒有您想看的網站？<a href='https://github.com/immersive-translate/immersive-translate/issues/1809' target='_blank' style='color: #EA4C89;'>點擊這裡</a>告訴我們你需要支持的網站，我們會盡快適配！"
   },
   "page.index.mangaSupport": {
     "message": "已支援站點"

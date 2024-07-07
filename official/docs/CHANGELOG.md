@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.7.3
+## 1.7.5
 
 - Youtube 字幕显示允许复制
 - 优化部分视频站点的字幕显示

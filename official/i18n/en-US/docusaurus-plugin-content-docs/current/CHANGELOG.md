@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.7.3
+## 1.7.5
 
 - Enabled copying of YouTube subtitles
 - Optimized subtitle display on some video sites

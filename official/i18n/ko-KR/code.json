@@ -1244,7 +1244,7 @@
     "message": "원클릭 {hlStart}만화 번역{hlEnd}, 쾌적한 만화 읽기"
   },
   "page.index.mangaDescription": {
-    "message": "몰입형 번역은 여러 주요 만화 웹사이트를 지원합니다 (<a href='https://www.pixiv.net/manga' target='_blank'>Pixiv</a>, <a href='https://mangaplus.shueisha.co.jp/' target='_blank'>MANGA Plus by SHUEISHA</a>, <a href='https://zebrack-comic.shueisha.co.jp/' target='_blank'>Zebrack by SHUEISHA</a>, <a href='https://e-hentai.org/' target='_blank'>E-Hentai</a> 등, 계속 추가되고 있습니다).<br/>100개 이상의 언어로 만화 번역을 지원하여 언어 장벽을 넘어 전 세계 만화를 즐길 수 있습니다.<br/><br/>원하는 웹사이트가 없나요? <a href='https://github.com/immersive-translate/immersive-translate/issues/1809' target='_blank' style='color: #EA4C89;'>여기를 클릭하세요</a> 지원이 필요한 웹사이트를 알려주시면 최대한 빨리 적응하겠습니다!"
+    "message": "몰입형 번역은 여러 주요 만화 웹사이트를 지원합니다 (<a href='https://www.pixiv.net/manga' target='_blank'>Pixiv</a>, <a href='https://mangaplus.shueisha.co.jp/' target='_blank'>MANGA Plus by SHUEISHA</a>, <a href='https://zebrack-comic.shueisha.co.jp/' target='_blank'>Zebrack by SHUEISHA</a>, <a href='https://e-hentai.org/' target='_blank'>E-Hentai</a>, <a href='https://www.kuaikanmanhua.com/' target='_blank'>快看漫画</a>, <a href='https://comic-fuz.com/' target='_blank'>COMIC FUZ</a>, <a href='https://mangadex.org/' target='_blank'>MangaDex</a> 등, 계속 추가되고 있습니다).<br/>100개 이상의 언어로 만화 번역을 지원하여 언어 장벽을 넘어 전 세계 만화를 즐길 수 있습니다.<br/><br/>원하는 웹사이트가 없나요? <a href='https://github.com/immersive-translate/immersive-translate/issues/1809' target='_blank' style='color: #EA4C89;'>여기를 클릭하세요</a> 지원이 필요한 웹사이트를 알려주시면 최대한 빨리 적응하겠습니다!"
   },
   "page.index.mangaSupport": {
     "message": "지원된 사이트"

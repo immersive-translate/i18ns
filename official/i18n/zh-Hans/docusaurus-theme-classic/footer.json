@@ -77,6 +77,10 @@
     "message": "Telegram 用户群",
     "description": "The label of footer link with label=Telegram 用户群 linking to https://t.me/+rq848Z09nehlOTgx"
   },
+  "link.item.label.xiaohongshu": {
+    "message": "小红书",
+    "description": "The label of footer link with label=Telegram 用户群 linking to https://t.me/+rq848Z09nehlOTgx"
+  },
   "link.item.html.main": {
     "message": "<div class=\"footer-info\"><div class=\"footer-title\"><img src=\"/img/logo.png\"/>沉浸式翻译</div><div class=\"footer-desc\">一键开启双语阅读，提升信息获取效率</div><div id=\"currency-box\"></div><div class=\"footer-copyright\"><a href=\"https://beian.miit.gov.cn/\" target=\"_blank\">沪ICP备2023011353号</a><a href=\"/contactUsZh\" target=\"_blank\">联系我们</a>© 2024 沉浸式翻译</div></div>"
   },
@@ -90,21 +94,24 @@
     "message": "true"
   },
   "link.item.visible.Facebook": {
-    "message": "false"
+    "message": "true"
   },
   "link.item.visible.Telegram": {
-    "message": "false"
+    "message": "true"
   },
   "link.item.visible.YouTube": {
-    "message": "false"
+    "message": "true"
   },
   "link.item.visible.Twitter": {
-    "message": "false"
+    "message": "true"
   },
   "link.item.visible.Bilibili": {
     "message": "true"
   },
   "link.item.visible.TelegramGroup": {
-    "message": "false"
+    "message": "true"
+  },
+  "link.item.visible.xiaohongshu":{
+    "message" : "true"
   }
 }
