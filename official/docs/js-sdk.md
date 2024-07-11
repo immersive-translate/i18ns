@@ -12,7 +12,7 @@ sidebar_position: 5
 1. 将以下 `script` 代码添加到你的网页 `<body>` 标签的后面：
 
 ```html
-<script src="https://donwload.immersivetranslate.com/releases/immersive-translate-sdk-latest.js"></script>
+<script src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
 ```
 
 2. 初始化沉浸式翻译：
