@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Próximo",
+    "description": "Rótulo para a versão atual"
+  },
+  "sidebar.docs.category.pdfHelper": {
+    "message": "Ajuda com PDF",
+    "description": "Rótulo para a categoria 'Ajuda com PDF' na barra lateral de documentos"
+  },
+  "sidebar.docs.category.translateServiceAPIApply": {
+    "message": "Solicitação de API de Serviços de Tradução",
+    "description": "Rótulo para a categoria 'Solicitação de API de Serviços de Tradução' na barra lateral de documentos"
+  },
+  "sidebar.docs.doc.changelog": {
+    "message": "Registro de Atualizações",
+    "description": "Rótulo para o item de documento 'Registro de Atualizações' na barra lateral, com link para o documento CHANGELOG"
+  },
+  "sidebar.docs.doc.recommend": {
+    "message": "Recomendações do Editor",
+    "description": "Rótulo para o item de documento 'Recomendações do Editor' na barra lateral de documentos"
+  }
+}
