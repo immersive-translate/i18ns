@@ -1275,5 +1275,8 @@
   },
   "page.download.manga.subtitle": {
     "message": "Um den Bedürfnissen der zahlreichen Comic-Liebhaber gerecht zu werden, haben wir ein brandneues Comic-Übersetzungstool eingeführt. Ob japanische Comics oder Comics aus anderen Ländern, die Nutzer können mit nur einem Klick den Text in den Comics schnell in die von ihnen gewählte Sprache übersetzen lassen. Dies beseitigt die Sprachbarrieren und macht das Verfolgen der geliebten Comics viel einfacher und bequemer. Diese Technologie verbessert nicht nur die Leseeffizienz, sondern bereichert auch erheblich das Leseerlebnis der Nutzer, indem sie großartige Geschichten aus verschiedenen kulturellen Hintergründen ermöglicht, Sprachgrenzen zu überwinden und von Lesern weltweit geteilt zu werden."
+  },
+  "page.index.keywords": {
+    "message": "Immersive Übersetzung, Immersive Übersetzungs-Plugin, Offizielle Website des Immersive Übersetzers"
   }
 }
