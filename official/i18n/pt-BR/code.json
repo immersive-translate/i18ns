@@ -1046,7 +1046,7 @@
     "message": "Tradução com o mouse"
   },
   "page.download.mouse.subtitle": {
-    "message": "Basta passar o mouse sobre qualquer parágrafo em uma página da web e pressionar uma tecla de atalho predefinida (como Ctrl) para ver a tradução correspondente aparecer instantaneamente abaixo do parágrafo. Na filosofia de design do [Immersive Translate], os parágrafos são considerados a menor unidade, preservando seu contexto para aprimorar nossa compreensão e aprendizado de línguas estrangeiras."
+    "message": "Basta passar o mouse sobre qualquer parágrafo em uma página da web e pressionar uma tecla de atalho predefinida (como Ctrl) para ver a tradução correspondente aparecer instantaneamente abaixo do parágrafo. Na filosofia de design da [Tradução Imersiva], os parágrafos são considerados a menor unidade, preservando seu contexto para aprimorar nossa compreensão e aprendizado de línguas estrangeiras."
   },
   "page.download.input.title": {
     "message": "Tradução da caixa de entrada"
@@ -1175,7 +1175,7 @@
     "message": "Pacote adicional de dados, continue desfrutando de uma experiência de leitura precisa, suave e natural."
   },
   "page.zipinstall.title": {
-    "message": "Guia de instalação local da extensão Immersive Translation para Chrome"
+    "message": "Guia de instalação local da extensão Tradução Imersiva para Chrome"
   },
   "page.zipinstall.clickdownload": {
     "message": "Baixe o pacote de instalação crx."
@@ -1190,22 +1190,22 @@
     "message": "Cópia bem-sucedida"
   },
   "page.zipinstall.step1Title": {
-    "message": "Baixe o pacote de instalação crx do Immersive Translate e descompacte-o (o arquivo crx está na pasta descompactada)."
+    "message": "Baixe o pacote de instalação crx da tradução imersiva e descompacte-o (o arquivo crx está na pasta descompactada)."
   },
   "page.zipinstall.step2Title": {
     "message": "Abra a página \"Gerenciar extensões\" no Chrome e ative o \"Modo de desenvolvedor\"."
   },
   "page.zipinstall.step3Title": {
-    "message": "Instalar plugin do Immersive Translate"
+    "message": "Instalar plugin da tradução imersiva"
   },
   "page.zipinstall.step4Title": {
-    "message": "Fixe o plugin do Immersive Translate na barra de ferramentas do navegador para facilitar o acesso a qualquer momento (quando você precisar atualizar o plugin na próxima vez, poderá atualizá-lo repetindo este processo)."
+    "message": "Fixe o plugin da Tradução Imersiva na barra de ferramentas do navegador para facilitar o acesso a qualquer momento (quando você precisar atualizar o plugin na próxima vez, poderá atualizá-lo repetindo este processo)."
   },
   "page.manualinstall.title": {
-    "message": "Guia de instalação local da extensão Immersive Translation para Chrome"
+    "message": "Guia de instalação local da extensão Tradução Imersiva para Chrome"
   },
   "page.manualinstall.description": {
-    "message": "Se você não conseguir instalar o plugin do Immersive Translate através da Chrome Store, pode tentar instalá-lo manualmente seguindo este tutorial."
+    "message": "Se você não conseguir instalar o plugin da tradução imersiva através da Chrome Store, pode tentar instalá-lo manualmente seguindo este tutorial."
   },
   "page.pricing.header.onboarding.doc": {
     "message": "Tradução de Documentos"
@@ -1232,7 +1232,7 @@
     "message": "Você pode aprender sobre os planos gratuitos e pagos do Immersive Translate abaixo"
   },
   "page.index.ao3Title": {
-    "message": "{hlStart}Comparação Bilíngue AO3 com Um Clique{hlEnd}, uma ferramenta de leitura incrível: {hlStart}Immersive Translation{hlEnd}"
+    "message": "{hlStart}Comparação Bilíngue AO3 com Um Clique{hlEnd}, uma ferramenta de leitura incrível: {hlStart}Tradução Imersiva{hlEnd}"
   },
   "page.index.ao3Description": {
     "message": "Gratuito, fácil de usar, zero barreiras, zero atraso - não há necessidade de baixar, instalar online, pronto para usar ao abrir; seja o primeiro a desfrutar de conteúdo feito por fãs, traduza dezenas de milhares de textos sem pedir ajuda;<br/>Tradução com um clique, comparação bilíngue, sabor autêntico - utilize livremente Google, OpenAI (ChatGPT), DeepL, Gemini e outros mecanismos de tradução de IA;<br/>A qualquer hora, em qualquer lugar, traduza quando quiser - suporta versões web e mobile e mais de 100 idiomas. Instale agora e comece a traduzir &gt;o&lt;"
@@ -1244,13 +1244,13 @@
     "message": "Especialista em Tradução AO3 AI"
   },
   "page.download.ao3.subtitle": {
-    "message": "Em resposta às necessidades exclusivas da comunidade AO3, desenvolvemos um inovador Especialista em Tradução AO3 AI. Você pode usá-lo em serviços de tradução de IA que suportam o Immersive Translate, como OpenAI, Claude e Gemini. Estamos comprometidos em fornecer aos entusiastas do AO3 experiências de leitura mais precisas e suaves."
+    "message": "Em resposta às necessidades exclusivas da comunidade AO3, desenvolvemos um inovador Especialista em Tradução AO3 AI. Você pode usá-lo em serviços de tradução de IA que suportam a tradução imersiva, como OpenAI, Claude e Gemini. Estamos comprometidos em fornecer aos entusiastas do AO3 experiências de leitura mais precisas e suaves."
   },
   "page.index.mangaTitle": {
     "message": "Tradução de {hlStart}quadrinhos{hlEnd} com um clique, aproveite a leitura de quadrinhos sem esforço."
   },
   "page.index.mangaDescription": {
-    "message": "O Immersive Translate suporta vários sites importantes de mangá (<a href='https://www.pixiv.net/manga' target='_blank'>Pixiv</a>, <a href='https://mangaplus.shueisha.co.jp/' target='_blank'>MANGA Plus by SHUEISHA</a>, <a href='https://zebrack-comic.shueisha.co.jp/' target='_blank'>Zebrack by SHUEISHA</a>, <a href='https://e-hentai.org/' target='_blank'>E-Hentai</a>, <a href='https://comic-fuz.com/' target='_blank'>COMIC FUZ</a>, <a href='https://www.yamibo.com/site/manga' target='_blank'>Yamibo</a>, <a href='https://www.copymanga.site/' target='_blank'>Copymanga</a>, <br/><a href='https://shonenjumpplus.com/' target='_blank'>ShonenJumpPlus</a>, <a href='https://viewer.heros-web.com/' target='_blank'>Heros Web</a>, <a href='https://comic-days.com/' target='_blank'>Comic Days</a>, <a href='https://comic-walker.com/' target='_blank'>ComicWalker</a>, <a href='https://web-ace.jp/' target='_blank'>Web Ace</a>, <a href='https://omegascans.org/' target='_blank'>Omega Scans</a>, <a href='https://hitomi.la/' target='_blank'>Hitomi</a>, <a href='https://www.antbyw.com/' target='_blank'>Antbyw</a>, <a href='https://mangadex.org/' target='_blank'>MangaDex</a>, <a href='https://mangabuddy.com/' target='_blank'>MANGABUDDY</a>, etc., e mais estão sendo continuamente adicionados).<br/>Suporta tradução de mangá em mais de 100 idiomas, permitindo que você supere as barreiras linguísticas e aproveite a leitura de mangás de todo o mundo.<br/><br/>Seu site desejado não está listado? <a href='https://github.com/immersive-translate/immersive-translate/issues/1809' target='_blank' style='color: #EA4C89;'>Clique aqui</a> para nos dizer qual site você precisa de suporte, e nós o adaptaremos o mais rápido possível!"
+    "message": "A tradução imersiva suporta vários sites importantes de mangá (<a href='https://www.pixiv.net/manga' target='_blank'>Pixiv</a>, <a href='https://mangaplus.shueisha.co.jp/' target='_blank'>MANGA Plus by SHUEISHA</a>, <a href='https://zebrack-comic.shueisha.co.jp/' target='_blank'>Zebrack by SHUEISHA</a>, <a href='https://e-hentai.org/' target='_blank'>E-Hentai</a>, <a href='https://comic-fuz.com/' target='_blank'>COMIC FUZ</a>, <a href='https://www.yamibo.com/site/manga' target='_blank'>Yamibo</a>, <a href='https://www.copymanga.site/' target='_blank'>Copymanga</a>, <br/><a href='https://shonenjumpplus.com/' target='_blank'>ShonenJumpPlus</a>, <a href='https://viewer.heros-web.com/' target='_blank'>Heros Web</a>, <a href='https://comic-days.com/' target='_blank'>Comic Days</a>, <a href='https://comic-walker.com/' target='_blank'>ComicWalker</a>, <a href='https://web-ace.jp/' target='_blank'>Web Ace</a>, <a href='https://omegascans.org/' target='_blank'>Omega Scans</a>, <a href='https://hitomi.la/' target='_blank'>Hitomi</a>, <a href='https://www.antbyw.com/' target='_blank'>Antbyw</a>, <a href='https://mangadex.org/' target='_blank'>MangaDex</a>, <a href='https://mangabuddy.com/' target='_blank'>MANGABUDDY</a>, etc., e mais estão sendo continuamente adicionados).<br/>Suporta tradução de mangá em mais de 100 idiomas, permitindo que você supere as barreiras linguísticas e aproveite a leitura de mangás de todo o mundo.<br/><br/>Seu site desejado não está listado? <a href='https://github.com/immersive-translate/immersive-translate/issues/1809' target='_blank' style='color: #EA4C89;'>Clique aqui</a> para nos dizer qual site você precisa de suporte, e nós o adaptaremos o mais rápido possível!"
   },
   "page.index.mangaSupport": {
     "message": "Sites Suportados"
@@ -1259,10 +1259,10 @@
     "message": "Instale gratuitamente em seu navegador"
   },
   "page.download.mangaBall.title": {
-    "message": "Tradução rápida com bola flutuante"
+    "message": "Tradução rápida com o botão flutuante"
   },
   "page.download.mangaBall.subtitle": {
-    "message": "Entre em um site de quadrinhos compatível com o Immersive Translate, ative a bola flutuante e o botão de atalho de tradução de quadrinhos aparecerá automaticamente; clique nele para traduzir o quadrinho."
+    "message": "Entre em um site de quadrinhos compatível com a tradução imersiva, ative o botão flutuante e o botão de atalho de tradução de quadrinhos aparecerá automaticamente; clique nele para traduzir o quadrinho."
   },
   "page.download.mangaOcr.title": {
     "message": "Reconheça facilmente fontes japonesas complexas"
@@ -1281,5 +1281,8 @@
   },
   "page.download.manga.subtitle": {
     "message": "Para atender às necessidades dos entusiastas de quadrinhos, lançamos uma nova ferramenta de tradução de quadrinhos. Quer se trate de quadrinhos japoneses ou quadrinhos de outros países, os usuários podem traduzir rapidamente o texto dos quadrinhos para o idioma de sua escolha com apenas um clique, superando as barreiras linguísticas e facilitando o acompanhamento de seus quadrinhos favoritos. Essa tecnologia não apenas melhora a eficiência da leitura, mas também enriquece muito a experiência de leitura, permitindo que histórias maravilhosas de diferentes origens culturais transcendam as barreiras linguísticas e sejam compartilhadas por leitores de todo o mundo."
+  },
+  "page.index.keywords": {
+    "message": "Tradução imersiva, plugin de tradução imersiva, site oficial da tradução imersiva"
   }
 }
