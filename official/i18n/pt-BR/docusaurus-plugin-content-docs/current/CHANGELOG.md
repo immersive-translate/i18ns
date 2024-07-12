@@ -4,6 +4,17 @@ sidebar_position: 6
 
 # Registro de Alterações
 
+## 1.7.6
+
+- Suporte à personalização de especialistas em IA, o acesso está na parte inferior da página [Configurações] -> [Especialista em IA].
+- Otimização do carregamento de legendas no site TED.
+- Português (Brasil) agora é suportado como idioma de plug-in.
+- Sites suportados para tradução de quadrinhos:
+ - [Antbyw](https://www.antbyw.com)
+ - [Zerobywzz](https://www.zerobywzz.com)
+ - [动漫之家](https://www.idmzj.com)
+ - [Jmanga](https://jmanga.org)
+
 ## 1.7.5
 
 - Ativada a cópia de legendas do YouTube
