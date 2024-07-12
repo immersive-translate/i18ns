@@ -4,6 +4,18 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.7.6
+
+- 支持自定义 AI 专家，入口在【设置】->【AI 专家】页面最下方。
+- TED 站点优化字幕加载
+- 右键菜单翻译描述优化
+- 插件语言支持葡萄牙语（巴西）
+- 漫画翻译新增支持站点
+  - [Antbyw](https://www.antbyw.com)
+  - [Zerobywzz](https://www.zerobywzz.com)
+  - [动漫之家](https://www.idmzj.com)
+  - [Jmanga](https://jmanga.org)
+
 ## 1.7.5
 
 - Youtube 字幕显示允许复制

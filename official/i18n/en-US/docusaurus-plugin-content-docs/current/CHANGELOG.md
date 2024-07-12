@@ -4,6 +4,18 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.7.6
+
+- Support customizing AI experts, the entrance is at the bottom of [Settings]->[AI Expert] page.
+- Optimize subtitle loading on TED site
+- Optimize the description of right-click menu translation
+- Portuguese (Brazil) is supported as plug-in language.
+- Supported sites for comic translation
+  - [Antbyw](https://www.antbyw.com)
+  - [Zerobywzz](https://www.zerobywzz.com)
+  - [动漫之家](https://www.idmzj.com)
+  - [Jmanga](https://jmanga.org)
+
 ## 1.7.5
 
 - Enabled copying of YouTube subtitles
