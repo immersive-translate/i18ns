@@ -8,7 +8,6 @@ sidebar_position: 6
 
 - 支援自訂 AI 專家，入口在【設定】->【AI 專家】頁面最下方。
 - TED 網站優化字幕加載
-- 右鍵選單翻譯描述優化
 - 外掛語言支援葡萄牙語（巴西）
 - 漫畫翻譯新增支援站點
  - [Antbyw](https://www.antbyw.com)

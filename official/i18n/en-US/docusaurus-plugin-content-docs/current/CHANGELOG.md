@@ -8,7 +8,6 @@ sidebar_position: 6
 
 - Support customizing AI experts, the entrance is at the bottom of [Settings]->[AI Expert] page.
 - Optimize subtitle loading on TED site
-- Optimize the description of right-click menu translation
 - Portuguese (Brazil) is supported as plug-in language.
 - Supported sites for comic translation
   - [Antbyw](https://www.antbyw.com)
