@@ -145,19 +145,6 @@
 - [Radii](https://radii.co/about) - 用英文报道中国年轻人（向世界讲好中国年轻人故事）
 - [Sixthtone](https://www.sixthtone.com/) - 第六音,以当事人视角报道中国相关新闻
 
-## 中文
-
-- [The Initium News](https://theinitium.com/) - 端传媒，华语独立媒体
-- [thenewslens](https://www.thenewslens.com/) - 关键评论，台湾独立媒体
-- [中国 - 历史与未来](https://www.chinese-future.org/) - 立足欧洲的博客平台，刊登一些专栏作品
-- [歪脑](https://www.wainao.me/) - 歪脑是为讲中文的年轻一代度身定制的新闻杂志。歪脑以鼓励独立思考为本，力图为观众读者提供另一种看世界的眼光,总部位于美国首都华盛顿特区，由美国全球媒体总署 (USAGM) 通过公共专项资金拨款建立，所有内容编采制作全部独立运行。
-- [Matters](https://matters.news/) - UGG 社区，内容托管于区块链，由端传媒前总编张洁平创办。
-
-## 中文 Newsletter
-
-- [维舟](https://weizhou.substack.com/)
-- [杨飞自选作品集](http://www.999kg.com/) - 摄影与杂文
-
 ## 其他人的推荐
 
 - [除了 Hacker News 你还看哪些新闻资讯](https://news.ycombinator.com/item?id=36175315)
