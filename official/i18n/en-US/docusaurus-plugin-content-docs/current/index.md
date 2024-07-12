@@ -5,7 +5,11 @@ title: Introduction
 
 A **free, good, no-nonsense, revolutionary, acclaimed, AI-powered, bilingual web page translation extension** to help you effectively break the information gap, available on your phone!
 
-<img src="https://s.immersivetranslate.com/assets/introduce_en.jpg" width="1200"/>
+<video
+  controls
+  poster="https://immersivetranslate.com/assets/price/video-poster-en.png"
+  src="https://s.immersivetranslate.com/assets/uploads/en-kefVSe.mp4"
+/>
 
 ## Features
 

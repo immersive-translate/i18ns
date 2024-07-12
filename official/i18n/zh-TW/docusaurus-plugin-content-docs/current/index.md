@@ -6,13 +6,10 @@ title: 介紹
 一款**免費的，好用的，沒有廢話的，革命性的，飽受讚譽的，AI 驅動的雙語網頁翻譯擴展**，幫助你有效地打破資訊差，在手機上也可以用！
 
 <video
-autoPlay
-loop
-muted
-plays-inline
-width="1200px"
-poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src="https://s.immersivetranslate.com/immersive-translate-intro-demo-2023-06-17.mp4" type="video/mp4"/>您需要一個支持HTML5影片的瀏覽器來查看這個影片。
-</video>
+  controls
+  poster="https://immersivetranslate.com/assets/price/video-poster-zh-TW.png"
+  src="https://s.immersivetranslate.com/assets/uploads/zh-hant-BAq2uB.mp4"
+/>
 
 
 ## 主要特性

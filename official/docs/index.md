@@ -6,13 +6,10 @@ title: 介绍
 一款**免费的，好用的，没有废话的，革命性的，饱受赞誉的，AI 驱动的双语网页翻译扩展**，帮助你有效地打破信息差，在手机上也可以用！
 
 <video
-autoPlay
-loop
-muted
-plays-inline
-width="1200px"
-poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src="https://s.immersivetranslate.com/immersive-translate-intro-demo-2023-06-17.mp4" type="video/mp4"/>You need a browser that supports HTML5 video to view this video.
-</video>
+  controls
+  poster="https://immersivetranslate.com/assets/price/video-poster-zh-Hans.png"
+  src="https://s.immersivetranslate.com/assets/uploads/zh-cn-wS3AY2.mp4"
+/>
 
 ## 主要特性
 
