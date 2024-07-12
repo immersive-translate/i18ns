@@ -2,7 +2,7 @@
 
 ## ImmersiveL
 
-O [Modelo Immersive Translate]([https://github.com/immersive-translate/ImmersiveL](https://github.com/immersive-translate/ImmersiveL)) possui suporte para interfaces personalizadas.
+O [Modelo Immersive Translate](https://github.com/immersive-translate/ImmersiveL) possui suporte para interfaces personalizadas.
 
 Ative **Habilitar Recursos de Teste Beta** em `Opções > Configurações do desenvolvedor`.
 ![](https://s.immersivetranslate.com/assets/turn_on_beta_en.jpeg)

@@ -410,7 +410,7 @@ sidebar_position: 6
 - Reparado: as legendas originais do vídeo não eram exibidas quando "O site atual está configurado para nunca traduzir".
 - Reparado: o conflito com alguns plug-ins que causavam o retorno infinito da página.
 - Reparado: a não tradução de alguns parágrafos após ativar as quebras de linha de parágrafos longos.
-- Corrigido: [Ao ativar temporariamente a tradução da página da web por um longo tempo, clicar no painel [Sempre traduzir este site] não cancela a tradução sempre #1172]([https://github.com/immersive-translate/immersive-translate/issues/1172](https://github.com/immersive-translate/immersive-translate/issues/1172))
+- Corrigido: [Ao ativar temporariamente a tradução da página da web por um longo tempo, clicar no painel [Sempre traduzir este site] não cancela a tradução sempre #1172](https://github.com/immersive-translate/immersive-translate/issues/1172)
 
 ## 0.12.7
 
