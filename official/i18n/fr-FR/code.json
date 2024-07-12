@@ -1275,5 +1275,8 @@
   },
   "page.download.manga.subtitle": {
     "message": "Pour répondre aux besoins des amateurs de bandes dessinées, nous avons lancé un nouvel outil de traduction de bandes dessinées. Que ce soit pour des mangas japonais ou des bandes dessinées d'autres pays, les utilisateurs peuvent, en un seul clic, traduire rapidement les textes des bandes dessinées dans la langue de leur choix, surmontant ainsi les barrières linguistiques et rendant le suivi de leurs bandes dessinées préférées beaucoup plus facile et confortable. Cette technologie améliore non seulement l'efficacité de la lecture, mais enrichit également considérablement l'expérience de lecture des utilisateurs, permettant à des histoires fascinantes de différents contextes culturels de transcender les frontières linguistiques et d'être partagées par des lecteurs du monde entier."
+  },
+  "page.index.keywords": {
+    "message": "Traduction immersive, plugin de traduction immersive, site officiel de traduction immersive."
   }
 }
