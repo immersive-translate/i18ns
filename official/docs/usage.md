@@ -1,4 +1,4 @@
----
+<img width="1463" alt="image" src="https://github.com/user-attachments/assets/8f6cb117-a82e-47ff-82a9-693d5ce3b013">---
 sidebar_position: 2
 ---
 
@@ -18,7 +18,8 @@ sidebar_position: 2
 
 安装插件后，【右上角将沉浸式翻译浏览器图标置顶】，然后点击【沉浸式翻译扩展图标】，再点击翻译即可进行翻译：
 
-<img src="/assets/browser-panel-v2.png" alt="browser action" width="250" />
+![image](https://github.com/user-attachments/assets/44720c49-8e16-41d8-ba81-05e0fb5be713)
+
 
 或者，直接点击网页右侧的沉浸式翻译快捷图标：
 
@@ -46,7 +47,9 @@ sidebar_position: 2
 
 随便打开一个视频 <https://youtube.com/watch?v=EWX0bbGAd0k> ，点击沉浸式翻译面板，然后选中【自动开启双语字幕】即可开启。如果您选择的设置在视频中没有生效，一般刷新页面即可。
 
-<img src="/assets/video-subtitle.png" alt="browser action" width="250" />
+<img src="https://immersivetranslate.com/assets/video-subtitle.png" alt="browser action" width="250" />
+
+# 文档翻译
 
 ## Epub 电子书阅读和双语导出
 
@@ -55,6 +58,35 @@ sidebar_position: 2
 点击查看[视频教程](https://www.bilibili.com/video/BV1CM41137CJ/?spm_id_from=333.999.0.0)
 
 ![](https://s.immersivetranslate.com/assets/uploads/CleanShot%202024-05-06%20at%2023.40.09@2x-VrcU8I.png)
+
+## html和txt文件翻译
+
+1.进入文档翻译页，选择翻译文件，点击打开文件上传或者拖入html或者txt文件，(或者点击扩展图标，然后点击「更多」，点击「翻译HTML/txt文件」），选择翻译服务和目标语言，译文显示有2种(双语对照或仅译文）翻译完成后，原文一行译文一行对照展示，图中
+txt为例。
+
+2.翻译完成后，点击右上角的打开新文件，可以继续上传新的翻译文件；点击分享按钮，预览双语快照页面，点击右上角的分享，可以生成快照二维码，手机可扫描阅读或分享；点击右上角的导出为TXT，本地可以看到导出的翻译文件，原文一行译文一行对照展示。
+
+<img width="1461" alt="image" src="https://github.com/user-attachments/assets/2111eaee-c144-4775-a286-d3df9f734c60">
+
+## docx 文件翻译
+
+1.进入文档翻译页，点击打开文件上传或者拖入docx文件，上传成功后，选择翻译服务和目标语言，译文显示有2种(双语对照或仅译文）翻译完成后，原文一行译文一行对照展示，如图：
+
+2.翻译完成后，点击右上角的打开新文件，可以继续上传新的翻译文件；点击分享按钮，预览双语快照页面，点击右上角的分享，可以生成快照二维码，手机可扫描阅读或分享；点击导出为HTML，本地可以看到导出的翻译文件，原文一行译文一行对照展示；点击导
+为PDF文件，可以查看本地的PDF文件，原文一行译文一行对照展示。
+
+<img width="1463" alt="image" src="https://github.com/user-attachments/assets/97d61070-5652-41d7-b875-10485bc7dd2a">
+
+
+## markdown 文件翻译
+
+1.进入文档翻译页，点击打开文件上传或者拖入markdown文件，上传成功后，选择翻译服务和目标语言，译文显示有2种(双语对照或仅译文）翻译完成后，原文一行译文一行对照展示，如图：
+
+2.翻译完成后，点击右上角的打开新文件，可以继续上传新的翻译文件；点击分享按钮，预览双语快照页面，点击右上角的分享，可以生成快照二维码，手机可扫描阅读或分享；点击导出为HTML，本地可以看到导出的翻译文件，原文一行译文一行对照展示；点击导
+为Markdown文件，可以查看本地的Markdown文件，原文一行译文一行对照展示。
+
+<img width="1493" alt="image" src="https://github.com/user-attachments/assets/1268d99c-1eb9-45b1-9635-8a5798db4aa0">
+
 
 ## PDF 文件翻译
 
@@ -65,6 +97,18 @@ sidebar_position: 2
 2. 如果是本地的 PDF 文件，直接右键扩展的图标（或者左键点击扩展图标，然后点击「更多」，点击「翻译本地 PDF 文件」），进入页面后，点击页面右上角上传你的 PDF 文件即可。
 
 [【点此查看视频教程】](https://www.bilibili.com/video/BV1HP411z7Qi/?)
+
+## PDF Pro 文件翻译
+
+进入文档翻译页，选择使用PDF pro翻译，上传或者直接拖入PDF文件(或者点击扩展图标，然后点击「更多」，点击「AI驱动的PDF Pro翻译」），也可以指定页面范围，点击立即翻译即可，点击查看历史解析记录，可以查看自己的翻译历史记录，操作列点击查看结果，可以看到翻译结果。
+
+<img width="1504" alt="image" src="https://github.com/user-attachments/assets/6e48c8b9-b521-42eb-9e7b-2888f046765d">
+
+## 翻译文本
+
+进入文档翻译页，选择翻译文本，选择需要翻译的目标语言，输入你需要翻译的文本，自动检测翻译语言，(点击扩展图标，点击本文翻译或者点击「更多」，点击「点击文本」）点击回车键，翻译完成，也可以页面右边点击添加更多的翻译服务，指定翻译服务例如OpenAI、DeepL等来进行文本翻译。
+
+![translate text](https://github.com/user-attachments/assets/404a7e14-734b-4f3c-9b1b-7a3011a9fd40)
 
 ## 插件设置页面
 
