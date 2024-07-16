@@ -17,7 +17,9 @@ The Immersive Translate JS SDK helps you implement bilingual translation on your
 2. Initialize Immersive Translate:
 
 ```js
-initImmersiveTranslate(options?);
+document.addEventListener("DOMContentLoaded", () => {
+  initImmersiveTranslate(options?);
+})
 ```
 
 Example

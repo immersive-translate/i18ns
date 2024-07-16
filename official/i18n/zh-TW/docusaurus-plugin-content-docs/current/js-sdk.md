@@ -17,7 +17,9 @@ sidebar_position: 5
 2. 初始化沉浸式翻譯：
 
 ```js
-initImmersiveTranslate(options?);
+document.addEventListener("DOMContentLoaded", () => {
+  initImmersiveTranslate(options?);
+})
 ```
 
 範例
