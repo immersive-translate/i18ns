@@ -8,8 +8,7 @@ sidebar_position: 5
 
 ## 如何使用
 
-
-1. 将以下 `script` 代码添加到你的网页 `<body>` 标签的后面：
+1. 将以下 `script` 代码添加到你的网页
 
 ```html
 <script src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
@@ -21,9 +20,38 @@ sidebar_position: 5
 initImmersiveTranslate(options?);
 ```
 
+示例
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Immersive Translate JS SDK</title>
+  <script src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      initImmersiveTranslate();
+    })
+  </script>
+</head>
+
+<body>
+  <div class=".text">
+    <p>Night gathers, and now my watch begins. It shall not end until my death. I shall take no wife, hold no lands,
+      father no children. I shall wear no crowns and win no glory. I shall live and die at my post.</p>
+  </div>
+</body>
+
+</html>
+```
+
 ## 参数
 
-通过 `pageRule` 可以对网站进行自定义配置，决定哪些内容是否需要被翻译，或调整网页样式等。
+通过 `pageRule`
+可以对网站进行自定义配置，决定哪些内容是否需要被翻译，或调整网页样式等。
 
 ```js
 initImmersiveTranslate({
@@ -42,14 +70,16 @@ initImmersiveTranslate({
 
 使用 `selectors.remove` 会在默认的基础上减少一些 selectors
 
-如果希望翻译某个区域时，将元素视为一个整体，不将其分行，可以用 `atomicBlockSelectors` 选择器。要注意的是，使用 `atomicBlockSelectors` 前需要先用 `selectors` 进行选择。
+如果希望翻译某个区域时，将元素视为一个整体，不将其分行，可以用
+`atomicBlockSelectors` 选择器。要注意的是，使用 `atomicBlockSelectors`
+前需要先用 `selectors` 进行选择。
 
 ```json
 {
   "selectors": [
     "div._aa_c h1",
     "li._acaz div[role=\"menuitem\"]"
-  ]
+  ],
   "atomicBlockSelectors": [
     "div._aa_c h1",
     "li._acaz div[role=\"menuitem\"]"
