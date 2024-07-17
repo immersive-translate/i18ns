@@ -8,18 +8,24 @@ sidebar_position: 5
 
 ## 如何使用
 
-1. 将以下 `script` 代码添加到你的网页
+> 调试 JS SDK 前请关闭沉浸式翻译扩展
+
+1. 设置初始化参数（请注意，immersiveTranslateConfig 不设置会导致 JS SDK
+   初始化失败，可以设置空对象）
+
+```html
+<script>
+  window.immersiveTranslateConfig = {
+    isAutoTranslate: true, // 是否自动翻译页面， 默认 false
+    pageRule: {}
+  }
+</script>
+```
+
+2. 将以下 `script` 代码添加到你的网页
 
 ```html
 <script src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
-```
-
-2. 初始化沉浸式翻译：
-
-```js
-document.addEventListener("DOMContentLoaded", () => {
-  initImmersiveTranslate(options?);
-})
 ```
 
 示例
@@ -34,32 +40,36 @@ document.addEventListener("DOMContentLoaded", () => {
 </head>
 
 <body>
-  <div>
+  <div class=".text">
     <p>Night gathers, and now my watch begins. It shall not end until my death. I shall take no wife, hold no lands,
       father no children. I shall wear no crowns and win no glory. I shall live and die at my post.</p>
   </div>
-  <script src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
-  <script>
-    document.addEventListener("DOMContentLoaded", () => {
-      initImmersiveTranslate();
-    })
+   <script>
+    window.immersiveTranslateConfig = {
+      isAutoTranslate: true,
+      pageRule: {}
+    }
   </script>
+  <script src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
 </body>
 </html>
 ```
 
 ## 参数
 
-通过 `pageRule`
-可以对网站进行自定义配置，决定哪些内容是否需要被翻译，或调整网页样式等。
+- `isAutoTranslate` 是否自动翻译页面， 默认 false
+- `pageRule`
+  可以对网站进行自定义配置，决定哪些内容是否需要被翻译，或调整网页样式等。
 
-```js
-initImmersiveTranslate({
+```html
+<script>
+  window.immersiveTranslateConfig = {
   pageRule: {
-    "selectors": [".text"],
-    "excludeSelectors": ["nav", "footer"],
-  },
-});
+      "selectors": [".text"],
+      "excludeSelectors": ["nav", "footer"],
+    },
+  };
+</script>
 ```
 
 使用 `selectors` 会覆盖智能翻译范围，仅翻译该选择器匹配到的元素。
