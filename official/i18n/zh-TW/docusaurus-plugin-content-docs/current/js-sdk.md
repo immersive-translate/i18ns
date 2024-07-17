@@ -27,26 +27,24 @@ document.addEventListener("DOMContentLoaded", () => {
 ```html
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Immersive Translate JS SDK</title>
+</head>
+
+<body>
+  <div>
+    <p>Night gathers, and now my watch begins. It shall not end until my death. I shall take no wife, hold no lands,
+      father no children. I shall wear no crowns and win no glory. I shall live and die at my post.</p>
+  </div>
   <script src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
   <script>
     document.addEventListener("DOMContentLoaded", () => {
       initImmersiveTranslate();
     })
   </script>
-</head>
-
-<body>
-  <div class="text">
-    <p>Night gathers, and now my watch begins. It shall not end until my death. I shall take no wife, hold no lands,
-      father no children. I shall wear no crowns and win no glory. I shall live and die at my post.</p>
-  </div>
 </body>
-
 </html>
 ```
 
