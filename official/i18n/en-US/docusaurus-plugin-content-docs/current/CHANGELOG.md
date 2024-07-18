@@ -4,6 +4,14 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.7.7
+
+- Adopt AI intelligent sentence splitting algorithm for auto-generated English subtitles on YouTube 【Pro Available】
+- Optimize the right-click translation to "Translate to xx target language"
+- Support immersive [JS SDK](https://immersivetranslate.com/docs/js-sdk/) integration for third-party websites
+- Optimize Hulu subtitle display
+- Support ZOOM web version meeting subtitle translation
+
 ## 1.7.6
 
 - Support customizing AI experts, the entrance is at the bottom of [Settings]->[AI Expert] page.

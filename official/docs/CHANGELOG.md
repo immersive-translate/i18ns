@@ -4,6 +4,14 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.7.7
+
+- 针对 YouTube 自动生成的英文字幕采用 AI 智能分句算法 【Pro 可用】
+- 优化右键翻译为”翻译为xx目标语言“
+- 支持第三方网站集成沉浸式 [JS SDK](https://immersivetranslate.com/docs/js-sdk/)
+- 优化 hulu 字幕显示
+- 支持 ZOOM 网页版会议字幕翻译
+
 ## 1.7.6
 
 - 支持自定义 AI 专家，入口在【设置】->【AI 专家】页面最下方。
