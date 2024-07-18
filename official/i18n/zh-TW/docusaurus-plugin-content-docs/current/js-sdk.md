@@ -4,25 +4,29 @@ sidebar_position: 5
 
 # JS SDK
 
-沉浸式翻譯 JS SDK 可以幫助你在自己的网站上實現雙語翻譯。
+The Immersive Translate JS SDK helps you implement bilingual translation on your website.
 
-## 如何使用
+## How to Use
 
-1. 將以下 `script` 程式碼添加到你的網頁
+1. Initialize Immersive Translate:
+
+```js
+<script>
+  window.immersiveTranslateConfig = {
+    isAutoTranslate: true,
+    pageRule: {}
+  }
+</script>
+```
+
+2. Add the following `script` code to your webpage
 
 ```html
 <script src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
 ```
 
-2. 初始化沉浸式翻譯：
 
-```js
-document.addEventListener("DOMContentLoaded", () => {
-  initImmersiveTranslate(options?);
-})
-```
-
-範例
+Example
 
 ```html
 <!DOCTYPE html>
@@ -31,6 +35,13 @@ document.addEventListener("DOMContentLoaded", () => {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Immersive Translate JS SDK</title>
+  <script>
+    window.immersiveTranslateConfig = {
+      isAutoTranslate: true,
+      pageRule: {}
+    }
+  </script>
+  <script async src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
 </head>
 
 <body>
@@ -38,19 +49,13 @@ document.addEventListener("DOMContentLoaded", () => {
     <p>Night gathers, and now my watch begins. It shall not end until my death. I shall take no wife, hold no lands,
       father no children. I shall wear no crowns and win no glory. I shall live and die at my post.</p>
   </div>
-  <script src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
-  <script>
-    document.addEventListener("DOMContentLoaded", () => {
-      initImmersiveTranslate();
-    })
-  </script>
 </body>
 </html>
 ```
 
-## 參數
+## Parameters
 
-透過 `pageRule` 可以對網站進行自定義配置，決定哪些內容是否需要被翻譯，或調整網頁樣式等。
+With `pageRule`, you can customize the configuration of the website, deciding which content needs to be translated or adjusting the webpage styles.
 
 ```js
 initImmersiveTranslate({
@@ -61,15 +66,15 @@ initImmersiveTranslate({
 });
 ```
 
-使用 `selectors` 會覆蓋智能翻譯範圍，僅翻譯該選擇器匹配到的元素。
+Using `selectors` will override the smart translation range, translating only elements matched by the selector.
 
-使用 `excludeSelectors` 可以排除元素，不翻譯該位置。
+Using `excludeSelectors` can exclude elements from translation.
 
-使用 `selectors.add` 會在默認的基礎上添加一些 selectors。
+Using `selectors.add` will add some selectors on top of the default ones.
 
-使用 `selectors.remove` 會在默認的基礎上減少一些 selectors。
+Using `selectors.remove` will remove some selectors from the default ones.
 
-如果希望翻譯某個區域時，將元素視為一個整體，不將其分行，可以用 `atomicBlockSelectors` 選擇器。要注意的是，使用 `atomicBlockSelectors` 前需要先用 `selectors` 進行選擇。
+If you want to translate a specific area and consider an element as a whole without breaking it into lines, you can use the `atomicBlockSelectors` selector. Note that you need to select elements using `selectors` before using `atomicBlockSelectors`.
 
 ```json
 {
@@ -84,74 +89,74 @@ initImmersiveTranslate({
 }
 ```
 
-`pageRule` 更多參數說明：
+`pageRule` more parameter explanations:
 
 ```typescript
 export interface PageRule {
-  excludeMatches?: string | string[]; // 排除特定的網站。
-  selectorMatches?: string | string[]; // 用選擇器來匹配，而無需指定所有URL
-  excludeSelectorMatches?: string | string[]; // 排除規則，同上。
+  excludeMatches?: string | string[]; // Exclude specific websites.
+  selectorMatches?: string | string[]; // Match using selectors without specifying all URLs
+  excludeSelectorMatches?: string | string[]; // Exclude rules, same as above.
 
-  // 指定翻譯範圍
-  selectors?: string | string[]; // 僅翻譯匹配到的元素
-  excludeSelectors?: string | string[]; // 排除元素，不翻譯匹配的元素
-  excludeTags?: string | string[]; // 排除Tags，不翻譯匹配的Tag
+  // Specify translation range
+  selectors?: string | string[]; // Translate only matched elements
+  excludeSelectors?: string | string[]; // Exclude elements, do not translate matched elements
+  excludeTags?: string | string[]; // Exclude tags, do not translate matched tags
 
-  // 追加翻譯範圍，而不是覆蓋
-  additionalSelectors?: string | string[]; // 追加翻譯範圍。在智能翻譯的區域，追加翻譯位置。
-  additionalExcludeSelectors?: string | string[]; // 追加排除元素，讓智能翻譯不翻譯特定位置。
-  additionalExcludeTags?: string | string[]; // 追加排除Tags
+  // Add translation range, not override
+  additionalSelectors?: string | string[]; // Add translation range. Add translation positions in smart translation areas.
+  additionalExcludeSelectors?: string | string[]; // Add excluded elements to prevent smart translation in specific positions.
+  additionalExcludeTags?: string | string[]; // Add excluded tags
 
-  // 保持原樣
-  stayOriginalSelectors?: string | string[]; // 匹配的元素將保持原樣。常用於論壇網站的標籤。
-  stayOriginalTags?: string | string[]; // 匹配到的Tag將保持原樣，比如 `code`
+  // Keep original
+  stayOriginalSelectors?: string | string[]; // Matched elements will remain original. Commonly used for tags on forum websites.
+  stayOriginalTags?: string | string[]; // Matched tags will remain original, such as `code`
 
-  // 區域翻譯
-  atomicBlockSelectors?: string | string[]; // 區域選擇器, 匹配的元素將被視為一個整體, 不會分段翻譯
-  atomicBlockTags?: string | string[]; // 區域Tag選擇器, 同上
+  // Region translation
+  atomicBlockSelectors?: string | string[]; // Region selector, matched elements will be considered as a whole, not translated in segments
+  atomicBlockTags?: string | string[]; // Region tag selector, same as above
 
-  // Block或Inline
-  extraBlockSelectors?: string | string[]; // 額外的選擇器，匹配的元素將作為block元素，獨佔一行。
-  extraInlineSelectors?: string | string[]; // 額外的選擇器，匹配的元素將作為inline元素。
+  // Block or Inline
+  extraBlockSelectors?: string | string[]; // Extra selectors, matched elements will be treated as block elements, occupying one line.
+  extraInlineSelectors?: string | string[]; // Extra selectors, matched elements will be treated as inline elements.
 
-  inlineTags?: string | string[]; // 匹配的Tag將作為inline元素
-  preWhitespaceDetectedTags?: string | string[]; // 匹配的Tag將自動換行
+  inlineTags?: string | string[]; // Matched tags will be treated as inline elements
+  preWhitespaceDetectedTags?: string | string[]; // Matched tags will automatically wrap lines
 
-  // 譯文樣式
-  translationClasses?: string | string | string[]; // 為譯文添加額外的Class
+  // Translation styles
+  translationClasses?: string | string | string[]; // Add extra classes to the translation
 
-  // 全域樣式
-  globalStyles?: Record<string, string>; // 修改頁面樣式，若譯文導致頁面錯亂，這個很有用。
-  globalAttributes?: Record<string, Record<string, string>>; // 修改頁面元素的屬性
+  // Global styles
+  globalStyles?: Record<string, string>; // Modify page styles, useful when translations cause page disorder.
+  globalAttributes?: Record<string, Record<string, string>>; // Modify attributes of page elements
 
-  // 嵌入樣式
-  injectedCss?: string | string[]; // 嵌入CSS樣式
-  additionalInjectedCss?: string | string[]; // 追加CSS樣式，而不是直接覆蓋。
+  // Embedded styles
+  injectedCss?: string | string[]; // Embed CSS styles
+  additionalInjectedCss?: string | string[]; // Add CSS styles instead of directly overriding.
 
-  // 上下文
-  wrapperPrefix?: string; // 譯文區域的前綴，默認為 smart，根據字數決定是否換行。
-  wrapperSuffix?: string; // 譯文區域的後綴
+  // Context
+  wrapperPrefix?: string; // Prefix of the translation area, default is smart, decides whether to wrap lines based on the number of characters.
+  wrapperSuffix?: string; // Suffix of the translation area
 
-  // 譯文換行字數
-  blockMinTextCount?: number; // 將譯文作為block的最小字元數，否則譯文為inline元素。
-  blockMinWordCount?: number; // 同上。如果希望它們始終換行，可以都填0。
+  // Translation wrapping character count
+  blockMinTextCount?: number; // Minimum character count for translation as a block, otherwise, the translation will be an inline element.
+  blockMinWordCount?: number; // Same as above. To always wrap lines, set both to 0.
 
-  // 內容可翻譯的最小字數
-  containerMinTextCount?: number; // 智能識別時，元素最少包含的字元數，才會被翻譯，默認為18
-  paragraphMinTextCount?: number; // 原文段落的最小字元數，大於數字的內容將被翻譯
-  paragraphMinWordCount?: number; // 原文段落的最小單詞數
+  // Minimum character count for translatable content
+  containerMinTextCount?: number; // Minimum character count for elements to be translated during smart recognition, default is 18
+  paragraphMinTextCount?: number; // Minimum character count for original paragraph, content greater than the number will be translated
+  paragraphMinWordCount?: number; // Minimum word count for original paragraph
 
-  // 長段落強制換行字數
-  lineBreakMaxTextCount?: number; // 開啟翻譯長段落時，強制進行分行的段落最大字元數。
+  // Forced line break character count for long paragraphs
+  lineBreakMaxTextCount?: number; // Maximum character count for forced line break when translating long paragraphs.
 
-  // 啟動翻譯的時機
-  urlChangeDelay?: number; // 進入頁面後，延遲多少毫秒開始翻譯。為了等網頁的初始化，目前默認為250ms
+  // Timing to start translation
+  urlChangeDelay?: number; // Delay in milliseconds before starting translation after entering the page. Default is 250ms to wait for webpage initialization.
 
-  // AI streaming 翻譯
+  // AI streaming translation
   aiRule: {
-    streamingSelector: string; // gpt 網頁中標記正在翻譯元素的選擇器
-    messageWrapperSelector: string; // 消息正文選擇器
-    streamingChange: boolean; // 類 gpt 網頁反覆的消息是增量更新還是全量更新。gpt 是增量
+    streamingSelector: string; // GPT webpage selector marking the translating element
+    messageWrapperSelector: string; // Message body selector
+    streamingChange: boolean; // Incremental or full update for repeated messages in GPT-like webpages. GPT is incremental
   };
 }
 ```

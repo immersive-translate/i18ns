@@ -22,10 +22,10 @@ sidebar_position: 5
 </script>
 ```
 
-2. 将以下 `script` 代码添加到你的网页
+2. 将以下 `script` 代码添加到你的网页 `</head>` 之前
 
 ```html
-<script src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
+<script async src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
 ```
 
 示例
@@ -37,20 +37,19 @@ sidebar_position: 5
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Immersive Translate JS SDK</title>
-</head>
-
-<body>
-  <div class=".text">
-    <p>Night gathers, and now my watch begins. It shall not end until my death. I shall take no wife, hold no lands,
-      father no children. I shall wear no crowns and win no glory. I shall live and die at my post.</p>
-  </div>
-   <script>
+  <script>
     window.immersiveTranslateConfig = {
       isAutoTranslate: true,
       pageRule: {}
     }
   </script>
-  <script src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
+  <script async src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
+</head>
+<body>
+  <div class=".text">
+    <p>Night gathers, and now my watch begins. It shall not end until my death. I shall take no wife, hold no lands,
+      father no children. I shall wear no crowns and win no glory. I shall live and die at my post.</p>
+  </div>
 </body>
 </html>
 ```

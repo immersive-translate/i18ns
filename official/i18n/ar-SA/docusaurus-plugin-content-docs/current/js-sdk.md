@@ -8,19 +8,23 @@ The Immersive Translate JS SDK helps you implement bilingual translation on your
 
 ## How to Use
 
-1. Add the following `script` code to your webpage
+1. Initialize Immersive Translate:
+
+```js
+<script>
+  window.immersiveTranslateConfig = {
+    isAutoTranslate: true,
+    pageRule: {}
+  }
+</script>
+```
+
+2. Add the following `script` code to your webpage
 
 ```html
 <script src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
 ```
 
-2. Initialize Immersive Translate:
-
-```js
-document.addEventListener("DOMContentLoaded", () => {
-  initImmersiveTranslate(options?);
-})
-```
 
 Example
 
@@ -31,6 +35,13 @@ Example
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Immersive Translate JS SDK</title>
+  <script>
+    window.immersiveTranslateConfig = {
+      isAutoTranslate: true,
+      pageRule: {}
+    }
+  </script>
+  <script async src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
 </head>
 
 <body>
@@ -38,12 +49,6 @@ Example
     <p>Night gathers, and now my watch begins. It shall not end until my death. I shall take no wife, hold no lands,
       father no children. I shall wear no crowns and win no glory. I shall live and die at my post.</p>
   </div>
-  <script src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
-  <script>
-    document.addEventListener("DOMContentLoaded", () => {
-      initImmersiveTranslate();
-    })
-  </script>
 </body>
 </html>
 ```
