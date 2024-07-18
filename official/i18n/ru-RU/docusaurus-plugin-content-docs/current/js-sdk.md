@@ -13,7 +13,6 @@ The Immersive Translate JS SDK helps you implement bilingual translation on your
 ```js
 <script>
   window.immersiveTranslateConfig = {
-    isAutoTranslate: true,
     pageRule: {}
   }
 </script>
@@ -37,7 +36,6 @@ Example
   <title>Immersive Translate JS SDK</title>
   <script>
     window.immersiveTranslateConfig = {
-      isAutoTranslate: true,
       pageRule: {}
     }
   </script>

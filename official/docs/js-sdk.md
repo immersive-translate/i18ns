@@ -16,7 +16,6 @@ sidebar_position: 5
 ```html
 <script>
   window.immersiveTranslateConfig = {
-    isAutoTranslate: true, // 是否自动翻译页面， 默认 false
     pageRule: {}
   }
 </script>
@@ -39,7 +38,6 @@ sidebar_position: 5
   <title>Immersive Translate JS SDK</title>
   <script>
     window.immersiveTranslateConfig = {
-      isAutoTranslate: true,
       pageRule: {}
     }
   </script>
@@ -56,7 +54,6 @@ sidebar_position: 5
 
 ## 参数
 
-- `isAutoTranslate` 是否自动翻译页面， 默认 false
 - `pageRule`
   可以对网站进行自定义配置，决定哪些内容是否需要被翻译，或调整网页样式等。
 
