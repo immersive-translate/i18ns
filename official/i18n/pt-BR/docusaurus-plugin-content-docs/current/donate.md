@@ -56,7 +56,7 @@ Foi então que percebi a importância da experiência de leitura bilíngue:
 
 Assim, o Immersive Translate [nasceu](https://twitter.com/OwenYoungZh/status/1588792579596111872), e eu não esperava que, assim que fosse lançado, inúmeras pessoas com as mesmas necessidades que eu começassem a usar o Immersive Translate para ler enormes quantidades de informações em línguas estrangeiras com alta frequência.
 
-[![Gráfico de Histórico de Estrelas](https://api.star-history.com/svg?repos=immersive-translate/immersive-translate\&type=Date)](https://star-history .com/#immersive-translate/immersive-translate\&Date)
+[![Gráfico de Histórico de Estrelas](https://api.star-history.com/svg?repos=immersive-translate/immersive-translate\&type=Date)](https://star-history.com/#immersive-translate/immersive-translate\&Date)
 
 Em seguida, otimizamos passo a passo para várias necessidades de leitura, incluindo suporte para tradução em tempo real de arquivos PDF, suporte para tradução em tempo real e produção de e-books Epub, suporte para arquivos de legendas, arquivos TXT e assim por diante.
 

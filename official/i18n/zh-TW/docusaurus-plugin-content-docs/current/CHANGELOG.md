@@ -4,6 +4,13 @@ sidebar_position: 6
 
 # 更新日誌
 
+## 1.7.7
+
+- 優化右鍵翻譯為「翻譯為xx目標語言」
+- 支持第三方網站集成沉浸式 [JS SDK](https://immersivetranslate.com/docs/js-sdk/)
+- 優化 hulu 字幕顯示
+- 支持 ZOOM 網頁版會議字幕翻譯
+
 ## 1.7.6
 
 - 支援自訂 AI 專家，入口在【設定】->【AI 專家】頁面最下方。

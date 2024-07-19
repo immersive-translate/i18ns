@@ -4,6 +4,14 @@ sidebar_position: 6
 
 # Registro de Alterações
 
+## 1.7.7
+
+- Adoção do algoritmo de divisão de frases inteligente por IA para legendas em inglês geradas automaticamente no YouTube 【Disponível para Pro】
+- Otimização da tradução por clique com o botão direito para "Traduzir para xx idioma de destino"
+- Suporte à integração imersiva do [JS SDK](https://immersivetranslate.com/docs/js-sdk/) para sites de terceiros
+- Otimização da exibição de legendas do Hulu
+- Suporte à tradução de legendas em reuniões da versão web do ZOOM
+
 ## 1.7.6
 
 - Suporte à personalização de especialistas em IA, o acesso está na parte inferior da página [Configurações] -> [Especialista em IA].
