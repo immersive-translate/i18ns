@@ -39,7 +39,7 @@ poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src
 - 아래 QR 코드를 스캔하여 공식 WeChat 교류 그룹에 가입하세요
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact2.jpg" width="200" alt="qq" />
+<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
 </div>
 
 ## 목차
@@ -169,7 +169,7 @@ poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src
 - 아래 QR 코드를 스캔하여 공식 위챗 교류 그룹에 가입하고, 사용자의 질문에 답변 돕기:
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact2.jpg" width="200" alt="qq" />
+<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
 </div>
 
 - 아래 QR 코드를 스캔하여 공식 위챗 공식 계정을 팔로우하세요:

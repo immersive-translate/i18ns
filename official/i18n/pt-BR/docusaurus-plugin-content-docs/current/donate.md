@@ -24,7 +24,7 @@ Você ainda pode nos ajudar das seguintes formas:
 - Leia o QR code abaixo para entrar no grupo de troca oficial do WeChat e ajudar a responder às perguntas dos usuários:
 
 <div align="center">
-<img src="/assets/wechat-contact2.jpg" width="200" alt="qq"/>
+<img src="/assets/wechat-contact3.jpg" width="200" alt="qq"/>
 </div>
 
 - Leia o QR code abaixo para entrar no número público oficial do WeChat：

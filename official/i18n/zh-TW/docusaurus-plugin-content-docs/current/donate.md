@@ -20,7 +20,7 @@ The content you've provided seems to be a part of a markdown file's metadata, sp
 - 掃描下面二維碼，加入官方微信交流群幫忙解答用戶的疑問：
 
 <div align="center">
-<img src="/assets/wechat-contact2.jpg" width="200" alt="qq"/>
+<img src="/assets/wechat-contact3.jpg" width="200" alt="qq"/>
 </div>
 
 - 掃描下面二維碼，關注官方微信公眾號：

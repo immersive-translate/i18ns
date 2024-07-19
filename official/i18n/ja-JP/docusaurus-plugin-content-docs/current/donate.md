@@ -24,7 +24,7 @@ sidebar_position: 10
 - 下記のQRコードをスキャンし、公式WeChatグループに参加してユーザーの質問に答える：
 
 <div align="center">
-<img src="/assets/wechat-contact2.jpg" width="200" alt="qq"/>
+<img src="/assets/wechat-contact3.jpg" width="200" alt="qq"/>
 </div>
 
 - 下記のQRコードをスキャンし、公式WeChatアカウントをフォローする：

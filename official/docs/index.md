@@ -37,7 +37,7 @@ title: 介绍
 - 扫描下面二维码，加入官方微信交流群
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact2.jpg" width="200" alt="qq" />
+<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
 </div>
 
 ## 目录
@@ -167,7 +167,7 @@ title: 介绍
 - 扫描下面二维码，加入官方微信交流群，帮忙解答用户的疑问：
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact2.jpg" width="200" alt="qq" />
+<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
 </div>
 
 - 扫描下面二维码，关注官方微信公众号：

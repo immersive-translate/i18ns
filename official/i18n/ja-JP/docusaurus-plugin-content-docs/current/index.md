@@ -39,7 +39,7 @@ poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src
 - 下のQRコードをスキャンして、公式WeChatグループに参加してください
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact2.jpg" width="200" alt="qq" />
+<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
 </div>
 
 ## 目次
@@ -167,7 +167,7 @@ Tampermonkey拡張機能をインストールしたブラウザで[このURL](ht
 - 下記のQRコードをスキャンし、公式WeChat交流グループに参加し、ユーザーの疑問に答えるのを手伝う：
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact2.jpg" width="200" alt="qq" />
+<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
 </div>
 
 - 下記のQRコードをスキャンし、公式WeChat公式アカウントをフォローする：

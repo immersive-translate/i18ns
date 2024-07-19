@@ -16,7 +16,7 @@ sidebar_position: 5
 - Отсканируйте QR-код ниже, чтобы присоединиться к официальной группе WeChat для общения
 
 <div align="center">
-<img src="/assets/wechat-contact2.jpg" width="300" alt="qq"/>
+<img src="/assets/wechat-contact3.jpg" width="300" alt="qq"/>
 </div>
 
 - Отсканируйте QR-код ниже, чтобы подписаться на официальный аккаунт WeChat

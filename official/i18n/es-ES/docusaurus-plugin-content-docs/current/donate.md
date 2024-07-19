@@ -24,7 +24,7 @@ Aún puedes hacer estas cosas para ayudarnos ahora:
 - Escanea el código QR a continuación para unirte al grupo oficial de intercambio de WeChat para ayudar a responder preguntas de los usuarios:
 
 <div align="center">
-<img src="/assets/wechat-contact2.jpg" width="200" alt="qq"/>
+<img src="/assets/wechat-contact3.jpg" width="200" alt="qq"/>
 </div>
 
 - Escanea el código QR a continuación para seguir el número público oficial de WeChat:

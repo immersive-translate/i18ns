@@ -24,7 +24,7 @@ If you have any actual textual content in Chinese that you need translated into 
 - Отсканируйте QR-код ниже, чтобы присоединиться к официальной группе WeChat и помочь отвечать на вопросы пользователей:
 
 <div align="center">
-<img src="/assets/wechat-contact2.jpg" width="200" alt="qq"/>
+<img src="/assets/wechat-contact3.jpg" width="200" alt="qq"/>
 </div>
 
 - Отсканируйте QR-код ниже, чтобы подписаться на официальный аккаунт WeChat:

@@ -16,7 +16,7 @@ sidebar_position: 5
 - 掃描下面二維碼，加入官方微信交流群
 
 <div align="center">
-<img src="/assets/wechat-contact2.jpg" width="300" alt="qq"/>
+<img src="/assets/wechat-contact3.jpg" width="300" alt="qq"/>
 </div>
 
 - 掃描下方二維碼，加入微信公眾號

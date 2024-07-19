@@ -24,7 +24,7 @@ sidebar_position: 10
 - 아래 QR 코드를 스캔하여 공식 위챗 교류 그룹에 가입하여 사용자의 질문에 답변을 도와주세요:
 
 <div align="center">
-<img src="/assets/wechat-contact2.jpg" width="200" alt="qq"/>
+<img src="/assets/wechat-contact3.jpg" width="200" alt="qq"/>
 </div>
 
 - 아래 QR 코드를 스캔하여 공식 위챗 공개 계정을 팔로우하세요:

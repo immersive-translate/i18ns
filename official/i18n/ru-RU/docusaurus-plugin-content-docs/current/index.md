@@ -40,7 +40,7 @@ poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src
 - Отсканируйте QR-код ниже, чтобы присоединиться к официальной группе WeChat
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact2.jpg" width="200" alt="qq" />
+<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
 </div>
 
 ## Содержание
@@ -170,7 +170,7 @@ poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src
 - Отсканировать QR-код ниже, чтобы присоединиться к официальной группе WeChat и помочь отвечать на вопросы пользователей:
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact2.jpg" width="200" alt="qq" />
+<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
 </div>
 
 - Отсканировать QR-код ниже, чтобы подписаться на официальный аккаунт WeChat:

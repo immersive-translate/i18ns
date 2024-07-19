@@ -37,7 +37,7 @@ sidebar_position: 2
 網頁翻譯的主要操作就是上面這些了，如果還有疑問的話，可以掃描下面二維碼，加入官方微信交流群直接諮詢：
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact2.jpg" width="200" alt="qq" />
+<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
 </div>## Youtube 雙語字幕
 
 隨便打開一個影片 <https://youtube.com/watch?v=EWX0bbGAd0k> ，點擊沉浸式翻譯面板，然後選中【自動開啟雙語字幕】即可開啟。如果您選擇的設置在影片中沒有生效，一般刷新頁面即可。
@@ -113,7 +113,7 @@ sidebar_position: 2
 - 掃描下面二維碼，加入官方微信交流群：
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact2.jpg" width="200" alt="qq" />
+<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
 </div>
 
 <video

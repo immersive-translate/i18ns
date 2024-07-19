@@ -16,7 +16,7 @@ sidebar_position: 5
 - 下記のQRコードをスキャンして、公式WeChatグループに参加する
 
 <div align="center">
-<img src="/assets/wechat-contact2.jpg" width="300" alt="qq"/>
+<img src="/assets/wechat-contact3.jpg" width="300" alt="qq"/>
 </div>
 
 - 下記のQRコードをスキャンして、WeChat公式アカウントに参加する
