@@ -2,7 +2,7 @@
 
 A Extensão Immersive Translate suporta diversos serviços de tradução, alguns dos quais exigem a solicitação de uma chave de API do serviço correspondente para utilização. Compilei os seguintes tutoriais de aplicação para os serviços disponíveis na web. Caso haja omissões ou informações desatualizadas, fique à vontade para clicar no canto superior direito para editar estas páginas.
 
-## Tutorial de Aplicação
+## Tutorial de Implementação
 
 1. [DeepL](./services/deepL.md)
 2. [Volcano Engine](./services/volcano.md)

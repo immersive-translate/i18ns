@@ -1,46 +1,47 @@
-# Tradução de Interface Personalizada
+# Guia de Implementação da Interface de Tradução Personalizada ImmersiveL
 
-## ImmersiveL
+Este guia detalha como implementar a Interface de Tradução Personalizada [ImmersiveL](https://github.com/immersive-translate/ImmersiveL) ao plugin Immersive Translate, permitindo que você utilize seu próprio modelo de tradução para personalizar a experiência de tradução.
 
-O [Modelo Immersive Translate](https://github.com/immersive-translate/ImmersiveL) possui suporte para interfaces personalizadas.
+## Ativação da Funcionalidade
 
-Ative **Habilitar Recursos de Teste Beta** em `Opções > Configurações do desenvolvedor`.
+1. **Configurações do Desenvolvedor:**
+   - Acesse as configurações do Immersive Translate em `Opções > Configurações do desenvolvedor`.
+   - Ative a opção "Ativar Funcionalidades Experimentais".
 ![](https://s.immersivetranslate.com/assets/turn_on_beta_en.jpeg)
 
-Em seguida, selecione **API Personalizada** em `Opções > Geral` para abrir a página de configuração.
+2. **Seleção da API Personalizada:**
+   - Em `Opções > Geral`, selecione "API Personalizada" para abrir a página de configuração.
 ![](https://s.immersivetranslate.com/assets/select_custon_api_en.jpeg)
 
-## Requisição
+## Especificação da Requisição
 
-- método: POST
-- content-type: application/json
-- body
- - source_lang: código do idioma
- - target_lang: código do idioma
- - text_list: array de strings de texto traduzidas
+- **Método:** POST
+- **Content-Type:** application/json
+- **Corpo:**
+  - `source_lang`: código do idioma de origem (ex: "en").
+  - `target_lang`: código do idioma de destino (ex: "pt").
+  - `text_list`: array de strings contendo os textos a serem traduzidos.
 
-## Resposta
+## Especificação da Resposta
 
-- response
- - translations: array
-  - detected_source_lang: código do idioma
-  - text: texto traduzido
+- **Resposta:**
+  - `translations`: array contendo os textos traduzidos.
+    - `detected_source_lang`: código do idioma de origem detectado (opcional).
+    - `text`: texto traduzido.
 
-## Placeholder Reservado
+## Placeholders Reservados
 
-O objetivo é reservar o conteúdo que não é texto na tradução da página da web e manter o símbolo especial após a tradução. Restauraremos o conteúdo que não é texto correspondente após a conclusão da tradução.
+Placeholders são utilizados para preservar conteúdo não textual (emojis, formatação, etc.) durante a tradução.
 
-### Especificação
+- **Especificação:** array de strings.
+  - 0: Delimitador esquerdo do par (ex: "{").
+  - 1: Delimitador direito do par (ex: "}").
+  - 2: Separador de tag (opcional, ex: "b").
 
-array de strings
-
-- 0: Lado esquerdo do separador de pares
-- 1: Lado direito do separador de pares
-- 2: Separador de Tag
-
-#### Exemplo
-
-- Exemplo 1: ['{', '}']
+- **Exemplos:**
+  1. `['{', '}']`: Preserva emojis e formatação simples.
+    - Original: 😁 Hallo 👏🏻 Welt
+    - Traduzido: 😁 Olá 👏🏻 Mundo
 
 ```
             Original: 😁 Hallo 👏🏻 Welt
@@ -50,7 +51,9 @@ Placeholder Translation: {0} hello {1} world
             Translation: 😁 hello 👏🏻 world
 ```
 
-- Exemplo 2: ['', '', 'b']
+  2. `['', '', 'b']`: Preserva tags HTML como `<b>`.
+    - Original: 😁 **Hallo** 👏🏻 Welt
+    - Traduzido: 😁 **Olá** 👏🏻 Mundo
 
 ```
             Original: 😁 Hallo 👏🏻 Welt
