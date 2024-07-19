@@ -40,6 +40,6 @@
 ## Suporte
 
 Em caso de dúvidas: 
-- Consulte a [Documentação de Introdução ao Microsoft Azure Translation]([https://learn.microsoft.com/en-us/azure/cognitive-services/translator/document-translation/quickstarts/get-started-with-rest-api?pivots=programming-language-csharp](https://learn.microsoft.com/en-us/azure/cognitive-services/translator/document-translation/quickstarts/get-started-with-rest-api?pivots=programming-language-csharp)) 
+- Consulte a [Documentação de Introdução ao Microsoft Azure Translation](https://learn.microsoft.com/en-us/azure/cognitive-services/translator/document-translation/quickstarts/get-started-with-rest-api?pivots=programming-language-csharp)
 
 - Ou nos envie seu feedback em [https://github.com/immersive-translate/immersive-translate/issues/137](https://github.com/immersive-translate/immersive-translate/issues/137).
