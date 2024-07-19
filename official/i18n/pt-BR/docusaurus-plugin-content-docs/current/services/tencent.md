@@ -1,16 +1,32 @@
-# Tradutor Tencent
+# Como implementar o Tencent Machine Translation no Immersive Translate
 
 ## Informações Gerais
 
-1. Website Oficial: [Tradução Automática _ Tradução Inteligente _ Tradução Automática - Tencent Cloud](https://cloud.tencent.com/product/tmt)
-2. Descrição Oficial de Tarifas: [Visão Geral da Faturação da Tradução Automática - Guia de Compra - Centro de Documentos - Tencent Cloud](https://cloud.tencent.com/document/product/551/35017)
-3. A versão paga é gratuita para os primeiros 5 milhões de caracteres por mês. Além disso, será cobrado US$ 58 por milhão de caracteres. Portanto, preste atenção ao limite de uso para evitar cobranças acidentais.
+- **Website Oficial:** [Tradução Automática da Tencent (TMT)](https://www.tencentcloud.com/pt/products/tmt)
+- **Descrição Oficial de Tarifas:** [Visão Geral de Preços](hhttps://www.tencentcloud.com/pt/document/product/1161/50082)
+- **Limite de Uso Gratuito:** 1 milhão de caracteres por mês.
+- **Tarifa após o Limite:** US$ 10 por milhão de caracteres.
 
 ## Etapas de Configuração
 
-1. Acesse o [website da Tencent Cloud](https://cloud.tencent.com/) e faça login. Após o login bem-sucedido, passe o mouse sobre seu avatar no canto superior direito da página e selecione "Informações da Conta" para autenticação pessoal. A autenticação pessoal é necessária para usar a Tradução Automática da Tencent Cloud e pode ser ignorada se você já estiver autenticado.
-2. Abra [Tradução Automática_Tradução Inteligente_Tradução Automática - Tencent Cloud](https://cloud.tencent.com/product/tmt) e clique no botão "Usar Agora". Após o login, você será direcionado para o console do Serviço de Tradução Automática da Tencent.
-3. Escolha abrir a versão paga.
-4. Crie uma chave de acesso. Passe o mouse sobre o avatar no canto superior direito da página e selecione [Gerenciamento de Acesso](https://console.cloud.tencent.com/cam/overview). Em seguida, selecione [Chaves de Acesso - Gerenciamento de Chaves de API](https://console.cloud.tencent.com/cam/capi) no menu à esquerda. É recomendável não criar uma chave diretamente, pois a chave criada pela conta principal pode acessar todos os recursos que chamam sua conta. Portanto, escolha criar uma subconta por segurança. Na seção "Privilégios do Usuário", procure por "Tradução Automática" e marque apenas esta caixa.
-5. Após a criação bem-sucedida, você verá o "SecretId" e o "SecretKey" desta subconta. Basta inseri-los nesta extensão!
-6. Pronto! 🎉 Se tiver alguma dúvida, envie seu feedback [aqui](https://github.com/immersive-translate/immersive-translate/issues/137).
+1. **Login na Tencent Cloud:** Acesse o site da [Tencent Cloud](https://www.tencentcloud.com/pt) e faça login na sua conta.
+
+2. **Autenticação Pessoal:**
+   - Passe o mouse sobre seu avatar no canto superior direito da página e selecione "Informações da Conta".
+   - Realize a autenticação pessoal (caso ainda não tenha feito).
+
+3. **Ativação do Serviço:**
+   - Abra a página do serviço de Tradução Automática: [Tradução Automática da Tencent (TMT)](https://www.tencentcloud.com/pt/products/tmt).
+   - Clique no botão "Comece Agora" (Get Started).
+
+4. **Criação da Chave de Acesso:**
+   - Passe o mouse sobre o avatar no canto superior direito da página e selecione ["Access Key" (Chave de Acesso)](https://console.tencentcloud.com/cam/capi).
+   - **Recomendação de Segurança:** Crie uma subconta com privilégios apenas para "Tradução Automática".
+   - Anote o "SecretId" e o "SecretKey" da subconta.
+
+5. **Integração no Immersive Translate:**
+   - Insira o "SecretId" e o "SecretKey" nas configurações do Immersive Translate.
+
+6. **Pronto!** Agora você pode utilizar a Tradução Automática da Tencent Cloud no Immersive Translate.
+
+**Dúvidas ou Problemas?** Envie seu feedback em [https://github.com/immersive-translate/immersive-translate/issues/137](https://github.com/immersive-translate/immersive-translate/issues/137).

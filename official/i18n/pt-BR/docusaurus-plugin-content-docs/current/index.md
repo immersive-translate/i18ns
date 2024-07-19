@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Introdução
 ---
 
-Uma **extensão de tradução de páginas da web bilíngue, gratuita, eficaz, revolucionária, aclamada e com inteligência artificial** para ajudar você a quebrar a barreira da informação, disponível no seu celular!
+Uma **extensão de tradução de páginas da web bilíngue, gratuita, eficaz, revolucionária, aclamada e com o poder da inteligência artificial** para ajudar você a quebrar a barreira da informação, e também disponível em seu celular!
 
 <img src="https://s.immersivetranslate.com/assets/introduce_en.jpg" width="1200"/>
 
@@ -21,15 +21,15 @@ Uma **extensão de tradução de páginas da web bilíngue, gratuita, eficaz, re
 
 Esta extensão é de uso gratuito, espero que você possa acessar de forma fácil, agradável e elegante as ricas informações em idiomas estrangeiros na Internet, não deixe que o idioma se torne uma barreira ❤️
 
-Você pode manter contato conosco em：
+Formas de contato：
 
 <!-- - [Inscreva-se no Immersive Translate por Email](https://immersivetranslate.substack.com/) para receber as últimas atualizações e (benefícios) de forma oportuna. -->
-- [Siga o feed oficial do Immersive Translate no Twitter](https://twitter.com/immersivetrans)
+- [Siga o perfil oficial do Immersive Translate no X (Antigo Twitter)](https://x.com/immersivetrans)
 <!-- - [Siga o canal do Telegram](https://t.me/immersivetranslate) para receber as últimas notícias! -->
 <!-- - [Junte-se ao grupo do Telegram](https://t.me/+rq848Z09nehlOTgx) para participar de discussões sobre funcionalidades. -->
-- [Feedback sobre problemas](https://github.com/immersive-translate/immersive-translate/issues/)
+- Se estiver com algum problema ou deseja enviar alguma sugestão, nos contate [por aqui](https://github.com/immersive-translate/immersive-translate/issues/).
 
-## Catálogos
+## Índice
 
 - [Site Oficial](https://immersivetranslate.com/en/?force=1)
 - [Instalação](/docs/installation/)
@@ -48,13 +48,13 @@ Você pode manter contato conosco em：
 
 ## Instalação
 
-### Navegador de Desktop
+### Navegador Desktop
 
 - Microsoft Edge: [Edge Store Immersive Translate](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)
-- Google Chrome: [Chrome Store Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
+- Google Chrome: [Chrome Store Immersive Translate](https://chromewebstore.google.com/detail/immersive-translate-tradu/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
 - Firefox: [Firefox Addon Store Immersive Translate](https://addons.mozilla.org/firefox/addon/immersive-translate/)
 
-> Se você não conseguir acessar a Google Store, você pode baixar diretamente o [instalador zip mais recente do Immersive Translate para Chrome](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip). Após o download, descompacte-o em uma pasta que você costuma usar, digite `chrome://extensions` na barra de endereço para abrir a janela de gerenciamento de extensões, ative o "Modo do Desenvolvedor", selecione "Carregar sem compactação" e escolha a pasta que você acabou de descompactar e carregar.
+> Se não conseguir acessar a Google Store, você pode baixar diretamente o [instalador zip mais recente do Immersive Translate para Chrome](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip). Após o download, extraia o conteúdo em uma pasta acessível, acesse a página de gerenciar extensões digitando `chrome://extensions` na barra de endereço, e ative o "Modo do Desenvolvedor", clique no botão "Carregar sem compactação" e escolha a pasta que você acabou de extrair o conteúdo baixado.
 
 ### Safari
 
@@ -80,20 +80,20 @@ Você também pode tentar instalar o Immersive Translate com outros navegadores 
 - [Lemur Browser](https://lemurbrowser.com/)
 - [Kiwi Browser](https://kiwibrowser.com/)
 
-Após a instalação, procure por [Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) diretamente na Chrome Store para instalá-lo.
+Após a instalação, procure por [Immersive Translate](https://chromewebstore.google.com/detail/immersive-translate-tradu/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) diretamente na Chrome Store para instalá-lo.
 
 ### Instalação via Tampermonkey
 
 Se você não conseguir instalar a extensão oficial do Immersive Translate com os passos acima (recomendamos usar a extensão oficial para melhor desempenho e mais recursos), você pode instalar o Tampermonkey da seguinte maneira:
 
-Endereço do script para o Tampermonkey: [https://download.immersivetranslate.com/immersive-translate.user.js](https://download.immersivetranslate.com/immersive-translate.user.js)
+Link de download do script para o Tampermonkey: [https://download.immersivetranslate.com/immersive-translate.user.js](https://download.immersivetranslate.com/immersive-translate.user.js)
 
-Abra [este endereço](https://download.immersivetranslate.com/immersive-translate.user.js) em um navegador que tenha a extensão Grease Monkey instalada para instalá-lo. Usando o **Android Firefox** como exemplo:
+[Acesse este link](https://download.immersivetranslate.com/immersive-translate.user.js) em um navegador que tenha a extensão Grease Monkey instalada para instalá-lo. Usando o **Android Firefox** como exemplo:
 
 1. Baixe a [versão mais recente do Firefox](https://www.mozilla.org/firefox/browsers/mobile/android/)
-2. Encontre o [Tamper Monkey](https://www.tampermonkey.net/) nos complementos recomendados do Firefox e instale-o.
-3. Instale o [Tampermonkey](https://download.immersivetranslate.com/immersive-translate.user.js) para esta extensão (abra este link no seu navegador Firefox para ver a página de instalação)
-4. Após a instalação, abra qualquer página da web e o ícone da janela flutuante da extensão Immersive Translate aparecerá no lado direito.
+2. Acesse a página da [Extensão do TamperMonkey](https://addons.mozilla.org/pt-BR/firefox/addon/tampermonkey/), ou encontre-o nos complementos recomendados do Firefox e instale-o.
+3. Instale o [Script para o Tampermonkey](https://download.immersivetranslate.com/immersive-translate.user.js) (abra este link no seu navegador Firefox para ver a página de instalação)
+4. Após a instalação, abra qualquer página da web e o ícone do botão flutuante da extensão Immersive Translate aparecerá no lado direito.
 
 <!-- ## Uma nota mais longa
 
@@ -124,9 +124,9 @@ Em seguida, otimizamos passo a passo para várias necessidades de leitura, inclu
 
 Em apenas cinco meses, o Immersive Translate ajudou 400.000 usuários a adquirir o hábito de visualizar informações em uma língua estrangeira, o que comprova o papel fundamental que uma boa ferramenta pode desempenhar na quebra de barreiras de informação. Agradecemos a todos que ajudaram com o Immersive Translate no passado e continuaremos a levar a experiência do Immersive Translate para mais pessoas, para que mais pessoas possam desfrutar dos dividendos da tecnologia. -->
 
-## Descrição do Patrocínio
+## Patrocínios
 
-No momento, não precisamos de apoio financeiro, mas você ainda pode nos ajudar fazendo o seguinte:
+No momento, não estamos precisando de apoio financeiro, mas você ainda pode nos ajudar das seguintes maneiras:
 
 - Recomende o Immersive Translate para amigos e familiares.
 - Desenvolva o hábito de ler informações em idiomas estrangeiros.

@@ -1,3 +1,3 @@
 # OpenL
 
-Links Relacionados: [Como solicitar uma chave OpenL?](https://docs.openl.club/#/)
+Veja em: [Como solicitar uma chave OpenL?](https://docs.openl.club/#/)
