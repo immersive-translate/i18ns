@@ -7,22 +7,39 @@
 ## 翻译服务
 
 - [Claude](./services/claude.md)
+  - API 接口：https://api.anthropic.com/v1/messages
 - [Deepl](./services/deepL.md)
+  - API 接口：https://api.deepl.com/v2/translate
 - [DeepSeek](./services/deepseek.md)
+  - API 接口：https://api.deepseek.com/chat/completions
 - [Gemini](./services/gemini.md)
+  - API 接口：https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}
 - [OpenL](./services/openL.md)
+  - API 接口：https://api.openl.club/services/${codename}/translate
 - [Open AI (Azure OpenAI)](./services/openai.md)
+  - API 接口：https://openai-api.immersivetranslate.com/v1/chat/completions
 - [微软 Azure 翻译](./services/azure.md)
+  - API 接口：https://api.cognitive.microsofttranslator.com/translate?x=2
 - [阿里云百炼大模型](./services/aliyun-bailian.md)
+  - API 接口：https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
 - [阿里云翻译](./services/aliyun.md)
+  - API 接口：https://{service}.aliyuncs.com?{paramsString}
 - [百度千帆大模型](./services/baidu-qianfan.md)
+  - API 接口：https://aip.baidubce.com/rpc/2.0/ai_custom/v1/wenxinworkshop/chat/{model}?access_token={key}
 - [字节跳动豆包大模型](./services/doubao.md)
+  - API 接口：https://ark.cn-beijing.volces.com/api/v3/chat/completions
 - [百度翻译](./services/baidu.md)
+  - API 接口：https://api.fanyi.baidu.com/api/trans/vip/translate
 - [彩云小译](./services/caiyun.md)
+  - API 接口：https://api.interpreter.caiyunai.com/v1/translator
 - [火山引擎](./services/volcano.md)
+  - API 接口：https://translate.volcengine.com/crx/translate/v1/
 - [腾讯翻译君](./services/tencent.md)
+  - API 接口：https://transmart.qq.com/api/imt
 - [小牛翻译](./services/niu.md)
+  - API 接口：https://api.niutrans.com/NiuTransServer/translation
 - [有道翻译](./services/youdao.md)
+  - API 接口：https://openapi.youdao.com/api
 - [自定义接口翻译](./services/custom.md)
 
 ## 免责声明
