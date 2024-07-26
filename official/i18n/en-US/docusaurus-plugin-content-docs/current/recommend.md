@@ -1,10 +1,6 @@
 # Editor's Picks
 
 ## Vocabulary Book
-- [Relingo](https://relingo.net/) Plugin
-
-Relingo automatically highlights and translates words based on the difficulty level and vocabulary preferences you set. When browsing web pages, you only need to focus on the words you are unfamiliar with and reinforce your memory in different contexts.
-
 - [Chinese words separator](https://chromewebstore.google.com/detail/chinese-words-separator-c/gacfacdpfimbkgcnlegknnmcccjgcbnp) Plugin
 
 The CWS (Chinese Word Separator) is a versatile tool that assists in learning Chinese through reading, listening, speaking, and writing, and facilitates the search for Chinese words and phrases on web pages, enhancing learning efficiency. It offers a range of features such as pinyin annotation, tone display, and the ability to adjust the size and font of characters, making it suitable for both Chinese learners and native Chinese speakers learning English.

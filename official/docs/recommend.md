@@ -1,10 +1,6 @@
 # 编辑推荐
 
 ## 单词本
-- [Relingo](https://relingo.net/) 插件
-
-Relingo 会根据你设定的难度级别和你喜欢的词汇自动加亮和翻译。在浏览网页时，您只需专注于您不熟悉的单词，并在不同的语境中加强记忆。
-
 - [Chinese words separator](https://chromewebstore.google.com/detail/chinese-words-separator-c/gacfacdpfimbkgcnlegknnmcccjgcbnp) 插件
 
 CWS（中文词分隔器）是一个多功能工具，可以帮助你通过读、听、说和写来学习中文，还能在网页上查找中文词语和短语，提高学习效率。它支持多种功能，如拼音标注、声调显示、调整汉字大小和字体，既适合中文学习者，也适合母语为中文的人学习英语。

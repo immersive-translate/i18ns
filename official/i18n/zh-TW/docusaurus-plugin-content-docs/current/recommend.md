@@ -1,9 +1,6 @@
 # 編輯推薦
 
 ## 單詞本
-- [Relingo](https://relingo.net/) 插件
-
-Relingo 會根據你設定的難度級別和你喜歡的詞彙自動加亮和翻譯。在瀏覽網頁時，您只需專注於您不熟悉的單詞，並在不同的語境中加強記憶。
 
 - [Chinese words separator](https://chromewebstore.google.com/detail/chinese-words-separator-c/gacfacdpfimbkgcnlegknnmcccjgcbnp) 插件
 

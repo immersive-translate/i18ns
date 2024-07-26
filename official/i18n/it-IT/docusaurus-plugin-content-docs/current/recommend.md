@@ -1,10 +1,5 @@
 # Escolhas do Editor
 
-## Livro de Vocabulário
-- [Relingo](https://relingo.net/) Plugin
-
-O Relingo destaca e traduz automaticamente palavras com base no nível de dificuldade e nas preferências de vocabulário que você definir. Ao navegar por páginas da web, você só precisa se concentrar nas palavras com as quais não está familiarizado e reforçar sua memória em diferentes contextos.
-
 ## Ferramentas de Pesquisa
 - [Scholarscope](https://www.scholarscope.online/) Plugin
     - Pode carregar automaticamente informações de periódicos do PubMed para ajudar os usuários a filtrar periódicos úteis e ler literatura de forma eficiente.

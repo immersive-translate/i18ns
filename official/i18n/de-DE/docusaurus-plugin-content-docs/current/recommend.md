@@ -1,10 +1,5 @@
 # Redaktionsempfehlungen
 
-## Vokabelbuch
-- [Relingo](https://relingo.net/) Plugin
-
-Relingo hebt automatisch Wörter basierend auf dem Schwierigkeitsgrad und den Vokabeleinstellungen, die Sie festlegen, hervor und übersetzt sie. Beim Durchstöbern von Webseiten müssen Sie sich nur auf die Wörter konzentrieren, die Ihnen unbekannt sind, und Ihr Gedächtnis in verschiedenen Kontexten stärken.
-
 ## Forschungswerkzeuge
 - [Scholarscope](https://www.scholarscope.online/) Plugin
     - Es kann automatisch Informationen aus PubMed-Zeitschriften laden, um Benutzern zu helfen, nützliche Zeitschriften zu filtern und Literatur effizient zu lesen.

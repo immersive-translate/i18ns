@@ -1,10 +1,6 @@
 ## Sugestões do Editor
 
 ### Livro de Vocabulário
-- Plugin [Relingo](https://relingo.net/)
-
-O Relingo destaca e traduz palavras automaticamente com base no nível de dificuldade e preferências de vocabulário que você definir. Ao navegar em páginas da web, você só precisa se concentrar nas palavras com as quais não está familiarizado e reforçar sua memória em diferentes contextos.
-
 - Plugin [Separador de palavras em chinês](https://chromewebstore.google.com/detail/chinese-words-separator-c/gacfacdpfimbkgcnlegknnmcccjgcbnp)
 
 O CWS (Separador de Palavras em Chinês) é uma ferramenta versátil que auxilia no aprendizado do chinês por meio da leitura, escuta, fala e escrita, e facilita a busca de palavras e frases em chinês em páginas da web, aumentando a eficiência do aprendizado. Ele oferece uma variedade de recursos, como anotação pinyin, exibição de tons e a capacidade de ajustar o tamanho e a fonte dos caracteres, tornando-o adequado tanto para estudantes de chinês quanto para falantes nativos de chinês que estão aprendendo inglês.

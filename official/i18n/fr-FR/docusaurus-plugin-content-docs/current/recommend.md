@@ -1,10 +1,5 @@
 # Choix de l'éditeur
 
-## Livre de Vocabulaire
-- Plugin [Relingo](https://relingo.net/)
-
-Relingo met automatiquement en évidence et traduit les mots en fonction du niveau de difficulté et des préférences de vocabulaire que vous définissez. Lorsque vous naviguez sur des pages Web, vous avez seulement besoin de vous concentrer sur les mots qui vous sont inconnus et de renforcer votre mémoire dans différents contextes.
-
 ## Outils de Recherche
 - Plugin [Scholarscope](https://www.scholarscope.online/)
     - Il peut automatiquement charger les informations des journaux PubMed pour aider les utilisateurs à filtrer les journaux utiles et à lire la littérature de manière efficace.
