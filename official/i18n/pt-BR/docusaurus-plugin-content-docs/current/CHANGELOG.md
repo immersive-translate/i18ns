@@ -4,6 +4,14 @@ sidebar_position: 6
 
 # Registro de Alterações
 
+## 1.7.8
+
+- Os serviços de tradução DeepL, Microsoft Translator, Google Translate, OpenAI, Claude e Gemini agora preservam a formatação original do texto traduzido (como links, negrito, etc.).
+- Ao selecionar um texto, o menu de contexto agora exibe a opção "Traduzir este texto", que redireciona automaticamente para a página de tradução do Immersive Translate.
+- Adicionado serviço de tradução gratuito utilizando modelo de linguagem de grande porte (SiliconCloud), agora disponível para todos os usuários.
+- Adicionado serviço de tradução com modelo de linguagem de grande porte da ZeroOneEverything. Os usuários podem se cadastrar na plataforma ZeroOneEverything e inserir sua API Key para utilizar o serviço.
+- Adicionado botão para feedback do usuário sobre a qualidade da tradução de quadrinhos. Após a tradução do quadrinho, clique no botão "Feedback", localizado à direita do balão de fala, para enviar sua avaliação.
+
 ## 1.7.7
 
 - Adoção do algoritmo de divisão de frases inteligente por IA para legendas em inglês geradas automaticamente no YouTube 【Disponível para Pro】
