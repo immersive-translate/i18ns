@@ -4,15 +4,18 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.7.9
+
+- 修复 Google, DeepL 等翻译服务的富文本翻译问题（如页面直接显示 `<button>` 等）
+- 修复 YouTube 视频双语快捷方式无法关闭的问题
 
 ## 1.7.8
 
 - DeepL, 微软翻译, Google 翻译，OpenAI，Claude， Gemini 等翻译服务支持译文保留原文格式（比如链接，粗体等）
 - 选中文本后，右键菜单会变为【翻译该文本】，点击即可自动跳转到沉浸式翻译文本翻译页面
 - 新增大模型免费翻译服务：SiliconCloud ，所有用户可用。
-- 新增零一万物大模型翻译，可在零一万物平台注册后填写 API Key 使用。 
+- 新增零一万物大模型翻译，可在零一万物平台注册后填写 API Key 使用。
 - 漫画翻译新增用户反馈按钮（漫画翻译后，点击悬浮球右侧的【反馈】按钮，可以反馈翻译质量问题）
-
 
 ## 1.7.7
 
@@ -57,10 +60,10 @@ sidebar_position: 6
 ## 1.6.6
 
 - 漫画翻译新增支持站点
-    - [Mangabuddy](https://mangabuddy.com/)
-    - [Hitomi](https://hitomi.la)
-    - [Yamibo](https://www.yamibo.com)
-    - [Copymanga](https://www.copymanga.site/)
+  - [Mangabuddy](https://mangabuddy.com/)
+  - [Hitomi](https://hitomi.la)
+  - [Yamibo](https://www.yamibo.com)
+  - [Copymanga](https://www.copymanga.site/)
 - Youtube 双语字幕支持智能分句（Beta）（仅在【设置】-【视频字幕】中手动启用沉浸式翻译翻译Youtube字幕，且原视频字幕为自动生成的英文字幕才生效）
 - 翻译服务新增腾讯[【混元大模型】](https://immersivetranslate.com/docs/services/tencent-hunyuan/)
 

@@ -4,12 +4,17 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.7.8 
+## 1.7.9
 
-- DeepL, Microsoft Translate, Google Translate, OpenAI, Claude, Gemini and other translation services support translation to retain the original text formatting (e.g., links, bold, etc.) 
-- After selecting the text, the right-click menu will change to [Translate the text], click on which you can automatically jump to the Immersive Translation Text Translation page 
+- Fixed issues with rich text translation for translation services such as Google, DeepL (e.g., pages directly displaying `<button>` etc.)
+- Fixed the issue where the bilingual shortcut for YouTube videos could not be turned off.
+
+## 1.7.8
+
+- DeepL, Microsoft Translate, Google Translate, OpenAI, Claude, Gemini and other translation services support translation to retain the original text formatting (e.g., links, bold, etc.)
+- After selecting the text, the right-click menu will change to [Translate the text], click on which you can automatically jump to the Immersive Translation Text Translation page
 - New free translation service for large models: SiliconCloud, available for all users.
-- Added Zero-One-Thing big model translation, which can be used by filling in the API Key after registering on Zero-One-Thing platform. 
+- Added Zero-One-Thing big model translation, which can be used by filling in the API Key after registering on Zero-One-Thing platform.
 - New user feedback button for manga translation (after translating a manga, click the [Feedback] button on the right side of the hover ball to give feedback on the translation quality).
 
 ## 1.7.7
@@ -54,10 +59,10 @@ sidebar_position: 6
 ## 1.6.6
 
 - Added support for new sites for comic translation:
-    - [Mangabuddy](https://mangabuddy.com/)
-    - [Hitomi](https://hitomi.la)
-    - [Yamibo](https://www.yamibo.com)
-    - [Copymanga](https://www.copymanga.site/)
+  - [Mangabuddy](https://mangabuddy.com/)
+  - [Hitomi](https://hitomi.la)
+  - [Yamibo](https://www.yamibo.com)
+  - [Copymanga](https://www.copymanga.site/)
 - YouTube bilingual subtitles now support intelligent sentence splitting (Beta) (Only when manually enabling immersive translation of YouTube subtitles in [Settings] - [Video Subtitles], and the original video subtitles are auto-generated English subtitles)
 - Added translation service Tencent [【Hunyuan Large Model】](https://immersivetranslate.com/docs/services/tencent-hunyuan/)
 
