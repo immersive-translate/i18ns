@@ -1278,5 +1278,20 @@
   },
   "page.index.keywords": {
     "message": "الترجمة الغامرة، إضافة الترجمة الغامرة، الموقع الرسمي للترجمة الغامرة"
+  },
+  "page.index.getThreeDayMembership": {
+    "message": "احصل على عضوية برو للمانجا مجاناً لمدة 3 أيام"
+  },
+  "page.index.getMembershipTitle": {
+    "message": "احصل على عضوية برو للمانجا {hlStart}مجانًا{hlEnd} لفترة محدودة!"
+  },
+  "page.index.needLogin": {
+    "message": "يرجى تسجيل الدخول لاستلام عضويتك."
+  },
+  "page.index.setSuccess": {
+    "message": "تم الاستلام بنجاح"
+  },
+  "page.index.getTip": {
+    "message": "العرض متاح للمستخدمين الجدد فقط ويمكن استلامه مرة واحدة فقط."
   }
 }

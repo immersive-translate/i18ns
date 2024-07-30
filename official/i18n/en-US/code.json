@@ -1284,5 +1284,20 @@
   },
   "page.index.keywords": {
     "message": "Immersive translation, immersive translation plugin, immersive translation official website"
+  },
+  "page.index.getThreeDayMembership": {
+    "message": "Get a 3-day free Manga Pro membership"
+  },
+  "page.index.getMembershipTitle": {
+    "message": "Limited time {hlStart}free claim{hlEnd} for Manga Pro membership!"
+  },
+  "page.index.needLogin": {
+    "message": "Please log in to claim your membership."
+  },
+  "page.index.setSuccess": {
+    "message": "Successfully claimed"
+  },
+  "page.index.getTip": {
+    "message": "The event is only for new users and can only be claimed once."
   }
 }

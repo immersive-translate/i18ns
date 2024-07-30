@@ -70,5 +70,9 @@
   "item.label.Manga": {
     "message": "Traduction de bande dessinée",
     "description": "Navbar item with label 漫画翻译"
+  },
+  "item.label.getMembership": {
+    "message": "Offre limitée dans le temps pour devenir membre du club de bande dessinée.",
+    "description": "Navbar item with label 限时领取漫画会员"
   }
 }

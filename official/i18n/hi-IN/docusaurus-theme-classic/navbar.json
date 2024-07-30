@@ -70,5 +70,9 @@
   "item.label.Manga": {
     "message": "कॉमिक अनुवाद",
     "description": "Navbar item with label 漫画翻译"
+  },
+  "item.label.getMembership": {
+    "message": "सीमित समय के लिए कॉमिक मेंबरशिप प्राप्त करें",
+    "description": "Navbar item with label 限时领取漫画会员"
   }
 }

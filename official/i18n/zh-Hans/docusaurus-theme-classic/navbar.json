@@ -47,6 +47,10 @@
     "message": "漫画翻译",
     "description": "Navbar item with label 漫画翻译"
   },
+  "item.label.getMembership": {
+    "message": "限时领取漫画会员",
+    "description": "Navbar item with label 限时领取漫画会员"
+  },
   "item.label.PDFTranslate": {
     "message": "PDF翻译 & EPUB翻译",
     "description": "Navbar item with label PDF&EPUB翻译"

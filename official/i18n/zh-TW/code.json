@@ -1284,5 +1284,20 @@
   },
   "page.index.keywords": {
     "message": "沉浸式翻譯、沉浸式翻譯插件、沉浸式翻譯官網"
+  },
+  "page.index.getThreeDayMembership": {
+    "message": "免費領取3天漫畫Pro會員"
+  },
+  "page.index.getMembershipTitle": {
+    "message": "限時{hlStart}免費領取{hlEnd}漫畫Pro會員！"
+  },
+  "page.index.needLogin": {
+    "message": "請登入後領取會員"
+  },
+  "page.index.setSuccess": {
+    "message": "領取成功"
+  },
+  "page.index.getTip": {
+    "message": "活動僅限新用戶，且只能領取一次。"
   }
 }

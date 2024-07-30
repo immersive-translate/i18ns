@@ -1278,5 +1278,20 @@
   },
   "page.index.keywords": {
     "message": "침수식 번역, 침수식 번역 플러그인, 침수식 번역 공식 웹사이트"
+  },
+  "page.index.getThreeDayMembership": {
+    "message": "3일간 무료로 만화 Pro 회원을 받으세요."
+  },
+  "page.index.getMembershipTitle": {
+    "message": "한정 시간 {hlStart}무료로 받기{hlEnd} 만화 Pro 회원!"
+  },
+  "page.index.needLogin": {
+    "message": "로그인 후 회원 혜택을 받으세요."
+  },
+  "page.index.setSuccess": {
+    "message": "수령 성공"
+  },
+  "page.index.getTip": {
+    "message": "이벤트는 신규 사용자만 참여할 수 있으며, 한 번만 받을 수 있습니다."
   }
 }

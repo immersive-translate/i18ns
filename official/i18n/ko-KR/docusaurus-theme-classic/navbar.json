@@ -70,5 +70,9 @@
   "item.label.Manga": {
     "message": "만화 번역",
     "description": "Navbar item with label 漫画翻译"
+  },
+  "item.label.getMembership": {
+    "message": "한정 시간 만화 회원 가입",
+    "description": "Navbar item with label 限时领取漫画会员"
   }
 }

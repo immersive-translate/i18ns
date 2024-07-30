@@ -1278,5 +1278,20 @@
   },
   "page.index.keywords": {
     "message": "没入型翻訳、没入型翻訳プラグイン、没入型翻訳公式サイト"
+  },
+  "page.index.getThreeDayMembership": {
+    "message": "3日間の漫画Pro会員を無料で受け取る"
+  },
+  "page.index.getMembershipTitle": {
+    "message": "期間限定で{hlStart}無料で{hlEnd}マンガPro会員をゲット！"
+  },
+  "page.index.needLogin": {
+    "message": "ログイン後、会員を受け取ってください。"
+  },
+  "page.index.setSuccess": {
+    "message": "受け取り成功"
+  },
+  "page.index.getTip": {
+    "message": "このイベントは新規ユーザーのみ対象で、一回限りの受取が可能です。"
   }
 }

@@ -70,5 +70,9 @@
   "item.label.Manga": {
     "message": "ترجمة القصص المصورة",
     "description": "Navbar item with label 漫画翻译"
+  },
+  "item.label.getMembership": {
+    "message": "احصل على عضوية القصص المصورة لفترة محدودة",
+    "description": "Navbar item with label 限时领取漫画会员"
   }
 }

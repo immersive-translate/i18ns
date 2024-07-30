@@ -1278,5 +1278,20 @@
   },
   "page.index.keywords": {
     "message": "Traducción inmersiva, complemento de traducción inmersiva, sitio web oficial de traducción inmersiva."
+  },
+  "page.index.getThreeDayMembership": {
+    "message": "Obtén gratis una membresía Pro de cómics por 3 días."
+  },
+  "page.index.getMembershipTitle": {
+    "message": "¡Consigue la membresía Pro de cómics {hlStart}gratis por tiempo limitado{hlEnd}!"
+  },
+  "page.index.needLogin": {
+    "message": "Por favor, inicia sesión para reclamar tu membresía."
+  },
+  "page.index.setSuccess": {
+    "message": "Recogida exitosa"
+  },
+  "page.index.getTip": {
+    "message": "La actividad está limitada solo a nuevos usuarios y solo se puede reclamar una vez."
   }
 }

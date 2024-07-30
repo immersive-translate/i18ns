@@ -1278,5 +1278,20 @@
   },
   "page.index.keywords": {
     "message": "Traduzione immersiva, plugin di traduzione immersiva, sito ufficiale del traduttore immersivo."
+  },
+  "page.index.getThreeDayMembership": {
+    "message": "Ottieni gratuitamente 3 giorni di abbonamento Pro ai fumetti."
+  },
+  "page.index.getMembershipTitle": {
+    "message": "Ottieni gratuitamente l'abbonamento Pro a fumetti per un tempo limitato!"
+  },
+  "page.index.needLogin": {
+    "message": "Si prega di effettuare il login per riscattare l'abbonamento."
+  },
+  "page.index.setSuccess": {
+    "message": "Ritiro effettuato con successo"
+  },
+  "page.index.getTip": {
+    "message": "L'offerta è limitata solo ai nuovi utenti e può essere riscattata una sola volta."
   }
 }

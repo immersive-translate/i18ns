@@ -1278,5 +1278,20 @@
   },
   "page.index.keywords": {
     "message": "इमर्सिव अनुवाद, इमर्सिव अनुवाद प्लगइन, इमर्सिव अनुवाद आधिकारिक वेबसाइट"
+  },
+  "page.index.getThreeDayMembership": {
+    "message": "मुफ्त में 3 दिन का कॉमिक प्रो मेंबरशिप प्राप्त करें।"
+  },
+  "page.index.getMembershipTitle": {
+    "message": "सीमित समय के लिए {hlStart}मुफ्त में प्राप्त करें{hlEnd} मंगा प्रो सदस्यता!"
+  },
+  "page.index.needLogin": {
+    "message": "कृपया लॉग इन करें और सदस्यता प्राप्त करें।"
+  },
+  "page.index.setSuccess": {
+    "message": "领取成功 का हिंदी में अनुवाद है: सफलतापूर्वक प्राप्त किया गया"
+  },
+  "page.index.getTip": {
+    "message": "यह ऑफर केवल नए उपयोगकर्ताओं के लिए है और केवल एक बार ही प्राप्त किया जा सकता है।"
   }
 }

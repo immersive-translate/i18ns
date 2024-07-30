@@ -70,5 +70,9 @@
   "item.label.Manga": {
     "message": "Comic-Übersetzung",
     "description": "Navbar item with label 漫画翻译"
+  },
+  "item.label.getMembership": {
+    "message": "Begrenzte Zeit, um eine Comic-Mitgliedschaft zu erhalten.",
+    "description": "Navbar item with label 限时领取漫画会员"
   }
 }

@@ -1278,5 +1278,20 @@
   },
   "page.index.keywords": {
     "message": "Immersive Übersetzung, Immersive Übersetzungs-Plugin, Offizielle Website des Immersive Übersetzers"
+  },
+  "page.index.getThreeDayMembership": {
+    "message": "Kostenlose 3-Tage-Pro-Mitgliedschaft für Comics erhalten"
+  },
+  "page.index.getMembershipTitle": {
+    "message": "Begrenzte Zeit {hlStart}kostenlos erhalten{hlEnd} Comic Pro Mitgliedschaft!"
+  },
+  "page.index.needLogin": {
+    "message": "Bitte melden Sie sich an, um Ihr Mitglied zu beanspruchen."
+  },
+  "page.index.setSuccess": {
+    "message": "Erfolgreich abgeholt."
+  },
+  "page.index.getTip": {
+    "message": "Die Aktion ist nur für neue Benutzer und kann nur einmal in Anspruch genommen werden."
   }
 }
