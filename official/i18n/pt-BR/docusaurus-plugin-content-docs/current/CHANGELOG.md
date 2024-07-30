@@ -4,6 +4,11 @@ sidebar_position: 6
 
 # Registro de Alterações
 
+## 1.7.9
+
+- Corrigido o problema com traduções de texto rico nos serviços de tradução Google, DeepL, etc. (por exemplo, a página exibe diretamente `<button>`, etc.)
+- Corrigido o problema de atalhos em vídeos bilíngues do YouTube que não fechavam
+
 ## 1.7.8
 
 - Os serviços de tradução DeepL, Microsoft Translator, Google Translate, OpenAI, Claude e Gemini agora preservam a formatação original do texto traduzido (como links, negrito, etc.).
