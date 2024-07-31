@@ -1299,5 +1299,11 @@
   },
   "page.index.eventEnd": {
     "message": "L'evento è scaduto, non vediamo l'ora di incontrarvi la prossima volta."
+  },
+  "page.index.installTip": {
+    "message": "Dopo l'installazione, prova a ricaricare questa pagina."
+  },
+  "page.index.getTipWarn": {
+    "message": "È stato rilevato che il tuo browser non ha installato il plugin di traduzione immersiva, si prega di installarlo prima di continuare a riscattare l'abbonamento."
   }
 }

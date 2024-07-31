@@ -1299,5 +1299,11 @@
   },
   "page.index.eventEnd": {
     "message": "이벤트가 만료되었습니다. 다음에 또 만나길 기대합니다."
+  },
+  "page.index.installTip": {
+    "message": "설치 성공 후 이 페이지를 새로고침해 보세요."
+  },
+  "page.index.getTipWarn": {
+    "message": "브라우저에 몰입형 번역 플러그인이 설치되어 있지 않은 것으로 확인되었습니다. 설치 후 회원 가입을 계속해 주세요."
   }
 }

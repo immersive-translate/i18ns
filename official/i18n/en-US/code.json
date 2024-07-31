@@ -1305,5 +1305,11 @@
   },
   "page.index.eventEnd": {
     "message": "The event has expired, looking forward to meeting you next time."
+  },
+  "page.index.installTip": {
+    "message": "After successful installation, please try to refresh this page."
+  },
+  "page.index.getTipWarn": {
+    "message": "Your browser does not have the immersive translation plugin installed. Please install it to continue claiming your membership."
   }
 }

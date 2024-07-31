@@ -1305,5 +1305,11 @@
   },
   "page.index.eventEnd": {
     "message": "活動已過期，期待下次與您相遇"
+  },
+  "page.index.installTip": {
+    "message": "安裝成功後請嘗試重新刷新本頁面。"
+  },
+  "page.index.getTipWarn": {
+    "message": "檢測到您的瀏覽器未安裝沉浸式翻譯插件，請安裝後繼續領取會員。"
   }
 }

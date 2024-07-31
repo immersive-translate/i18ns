@@ -1299,5 +1299,11 @@
   },
   "page.index.eventEnd": {
     "message": "Die Veranstaltung ist abgelaufen, wir freuen uns auf ein nächstes Mal mit Ihnen."
+  },
+  "page.index.installTip": {
+    "message": "Nach erfolgreicher Installation versuchen Sie bitte, diese Seite neu zu laden."
+  },
+  "page.index.getTipWarn": {
+    "message": "Ihr Browser hat das immersives Übersetzungs-Plugin nicht installiert. Bitte installieren Sie es, bevor Sie mit dem Abrufen Ihrer Mitgliedschaft fortfahren."
   }
 }

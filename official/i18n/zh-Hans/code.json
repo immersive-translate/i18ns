@@ -449,6 +449,12 @@
   "page.index.setSuccess": {
     "message": "领取成功"
   },
+  "page.index.installTip": {
+    "message": "安装成功后请尝试重新刷新本页面"
+  },
+  "page.index.getTipWarn": {
+    "message": "检测到您的浏览器未安装沉浸式翻译插件，请安装后继续领取会员"
+  },
   "page.index.getTip": {
     "message": "活动仅限新用户，且只能领取一次"
   },

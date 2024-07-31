@@ -1299,5 +1299,11 @@
   },
   "page.index.eventEnd": {
     "message": "L'événement est expiré, nous attendons avec impatience notre prochaine rencontre."
+  },
+  "page.index.installTip": {
+    "message": "Après l'installation réussie, veuillez essayer de rafraîchir cette page."
+  },
+  "page.index.getTipWarn": {
+    "message": "Votre navigateur n'a pas détecté l'installation du plugin de traduction immersive, veuillez l'installer avant de continuer à réclamer votre adhésion."
   }
 }

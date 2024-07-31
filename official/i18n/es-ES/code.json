@@ -1299,5 +1299,11 @@
   },
   "page.index.eventEnd": {
     "message": "El evento ha expirado, esperamos encontrarnos con usted la próxima vez."
+  },
+  "page.index.installTip": {
+    "message": "Una vez instalado, intenta actualizar esta página."
+  },
+  "page.index.getTipWarn": {
+    "message": "Se ha detectado que su navegador no tiene instalado el complemento de traducción inmersiva, por favor instálelo para continuar con la obtención de la membresía."
   }
 }
