@@ -1293,5 +1293,8 @@
   },
   "page.index.getTip": {
     "message": "L'offre est réservée uniquement aux nouveaux utilisateurs et ne peut être réclamée qu'une seule fois."
+  },
+  "page.index.getMembershipSuccess": {
+    "message": "Vous avez réussi à réclamer !"
   }
 }

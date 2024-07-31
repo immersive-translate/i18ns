@@ -1299,5 +1299,8 @@
   },
   "page.index.getTip": {
     "message": "活動僅限新用戶，且只能領取一次。"
+  },
+  "page.index.getMembershipSuccess": {
+    "message": "您已成功領取！"
   }
 }

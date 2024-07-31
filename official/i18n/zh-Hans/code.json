@@ -434,6 +434,9 @@
   "page.index.getThreeDayMembership": {
     "message": "免费领取3天漫画Pro会员"
   },
+  "page.index.getMembershipSuccess": {
+    "message": "您已领取成功！"
+  },
   "page.index.getMembershipTitle": {
     "message": "限时{hlStart}免费领取{hlEnd}漫画Pro会员！"
   },

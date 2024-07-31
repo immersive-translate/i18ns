@@ -1293,5 +1293,8 @@
   },
   "page.index.getTip": {
     "message": "La actividad está limitada solo a nuevos usuarios y solo se puede reclamar una vez."
+  },
+  "page.index.getMembershipSuccess": {
+    "message": "¡Ha reclamado con éxito!"
   }
 }

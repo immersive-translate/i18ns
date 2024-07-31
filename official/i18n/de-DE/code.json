@@ -1293,5 +1293,8 @@
   },
   "page.index.getTip": {
     "message": "Die Aktion ist nur für neue Benutzer und kann nur einmal in Anspruch genommen werden."
+  },
+  "page.index.getMembershipSuccess": {
+    "message": "Sie haben erfolgreich abgeholt!"
   }
 }

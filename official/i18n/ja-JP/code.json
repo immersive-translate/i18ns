@@ -1293,5 +1293,8 @@
   },
   "page.index.getTip": {
     "message": "このイベントは新規ユーザーのみ対象で、一回限りの受取が可能です。"
+  },
+  "page.index.getMembershipSuccess": {
+    "message": "受け取りに成功しました！"
   }
 }

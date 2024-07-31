@@ -1299,5 +1299,8 @@
   },
   "page.index.getTip": {
     "message": "The event is only for new users and can only be claimed once."
+  },
+  "page.index.getMembershipSuccess": {
+    "message": "You have successfully claimed it!"
   }
 }

@@ -1293,5 +1293,8 @@
   },
   "page.index.getTip": {
     "message": "العرض متاح للمستخدمين الجدد فقط ويمكن استلامه مرة واحدة فقط."
+  },
+  "page.index.getMembershipSuccess": {
+    "message": "لقد تم استلامها بنجاح!"
   }
 }
