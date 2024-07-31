@@ -1296,5 +1296,8 @@
   },
   "page.index.getMembershipSuccess": {
     "message": "لقد تم استلامها بنجاح!"
+  },
+  "page.index.eventEnd": {
+    "message": "الفعالية انتهت، نتطلع للقائكم في المرة القادمة."
   }
 }

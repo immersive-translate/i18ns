@@ -1296,5 +1296,8 @@
   },
   "page.index.getMembershipSuccess": {
     "message": "आपने सफलतापूर्वक प्राप्त कर लिया है!"
+  },
+  "page.index.eventEnd": {
+    "message": "यह इवेंट समाप्त हो चुका है, अगली बार आपसे मिलने की उम्मीद है।"
   }
 }

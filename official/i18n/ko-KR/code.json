@@ -1296,5 +1296,8 @@
   },
   "page.index.getMembershipSuccess": {
     "message": "성공적으로 수령하셨습니다!"
+  },
+  "page.index.eventEnd": {
+    "message": "이벤트가 만료되었습니다. 다음에 또 만나길 기대합니다."
   }
 }

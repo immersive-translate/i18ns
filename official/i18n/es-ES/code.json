@@ -1296,5 +1296,8 @@
   },
   "page.index.getMembershipSuccess": {
     "message": "¡Ha reclamado con éxito!"
+  },
+  "page.index.eventEnd": {
+    "message": "El evento ha expirado, esperamos encontrarnos con usted la próxima vez."
   }
 }

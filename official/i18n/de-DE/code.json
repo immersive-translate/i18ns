@@ -1296,5 +1296,8 @@
   },
   "page.index.getMembershipSuccess": {
     "message": "Sie haben erfolgreich abgeholt!"
+  },
+  "page.index.eventEnd": {
+    "message": "Die Veranstaltung ist abgelaufen, wir freuen uns auf ein nächstes Mal mit Ihnen."
   }
 }

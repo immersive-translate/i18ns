@@ -1302,5 +1302,8 @@
   },
   "page.index.getMembershipSuccess": {
     "message": "您已成功領取！"
+  },
+  "page.index.eventEnd": {
+    "message": "活動已過期，期待下次與您相遇"
   }
 }

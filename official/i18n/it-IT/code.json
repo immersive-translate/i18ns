@@ -1296,5 +1296,8 @@
   },
   "page.index.getMembershipSuccess": {
     "message": "Hai riscattato con successo!"
+  },
+  "page.index.eventEnd": {
+    "message": "L'evento è scaduto, non vediamo l'ora di incontrarvi la prossima volta."
   }
 }

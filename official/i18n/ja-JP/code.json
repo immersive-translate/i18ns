@@ -1296,5 +1296,8 @@
   },
   "page.index.getMembershipSuccess": {
     "message": "受け取りに成功しました！"
+  },
+  "page.index.eventEnd": {
+    "message": "イベントは終了しました。次回のお会いできることを楽しみにしています。"
   }
 }

@@ -437,6 +437,9 @@
   "page.index.getMembershipSuccess": {
     "message": "您已领取成功！"
   },
+  "page.index.eventEnd": {
+    "message": "活动已过期，期待下次与您相遇"
+  },
   "page.index.getMembershipTitle": {
     "message": "限时{hlStart}免费领取{hlEnd}漫画Pro会员！"
   },

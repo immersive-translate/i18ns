@@ -1278,5 +1278,8 @@
   },
   "page.index.getMembershipSuccess": {
     "message": "Вы успешно его заявили!"
+  },
+  "page.index.eventEnd": {
+    "message": "Событие завершилось, с нетерпением ждем встречи с вами в следующий раз."
   }
 }
