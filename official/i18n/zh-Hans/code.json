@@ -432,7 +432,7 @@
     "message": "一键{hlStart}漫画翻译{hlEnd}，畅快漫画阅读"
   },
   "page.index.getThreeDayMembership": {
-    "message": "免费领取3天漫画Pro会员"
+    "message": "免费领取"
   },
   "page.index.getMembershipSuccess": {
     "message": "您已领取成功！"
@@ -441,7 +441,7 @@
     "message": "活动已过期，期待下次与您相遇"
   },
   "page.index.getMembershipTitle": {
-    "message": "限时{hlStart}免费领取{hlEnd}漫画Pro会员！"
+    "message": "限时{hlStart}免费领取{hlEnd}3天漫画Pro会员！"
   },
   "page.index.needLogin": {
     "message": "请登录后领取会员"

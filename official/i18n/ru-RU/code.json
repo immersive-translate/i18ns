@@ -1287,5 +1287,11 @@
   },
   "page.index.getTipWarn": {
     "message": "Ваш браузер не имеет установленного плагина для погруженного перевода. Пожалуйста, установите его, чтобы продолжить оформление вашего членства."
+  },
+  "page.index.getThreeDayMembership": {
+    "message": "Получите 3-дневное бесплатное членство в Manga Pro"
+  },
+  "page.index.getMembershipTitle": {
+    "message": "Ограниченное время {hlStart}бесплатного получения{hlEnd} членства Manga Pro!"
   }
 }

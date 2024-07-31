@@ -1280,10 +1280,10 @@
     "message": "Traducción inmersiva, complemento de traducción inmersiva, sitio web oficial de traducción inmersiva."
   },
   "page.index.getThreeDayMembership": {
-    "message": "Obtén gratis una membresía Pro de cómics por 3 días."
+    "message": "Obtén una membresía gratuita de Manga Pro por 3 días."
   },
   "page.index.getMembershipTitle": {
-    "message": "¡Consigue la membresía Pro de cómics {hlStart}gratis por tiempo limitado{hlEnd}!"
+    "message": "¡Tiempo limitado para reclamar gratis la membresía de Manga Pro!"
   },
   "page.index.needLogin": {
     "message": "Por favor, inicia sesión para reclamar tu membresía."

@@ -1280,10 +1280,10 @@
     "message": "Immersive Übersetzung, Immersive Übersetzungs-Plugin, Offizielle Website des Immersive Übersetzers"
   },
   "page.index.getThreeDayMembership": {
-    "message": "Kostenlose 3-Tage-Pro-Mitgliedschaft für Comics erhalten"
+    "message": "Erhalten Sie eine 3-tägige kostenlose Manga Pro-Mitgliedschaft."
   },
   "page.index.getMembershipTitle": {
-    "message": "Begrenzte Zeit {hlStart}kostenlos erhalten{hlEnd} Comic Pro Mitgliedschaft!"
+    "message": "Begrenzte Zeit {hlStart}kostenlose Beanspruchung{hlEnd} für die Manga Pro Mitgliedschaft!"
   },
   "page.index.needLogin": {
     "message": "Bitte melden Sie sich an, um Ihr Mitglied zu beanspruchen."

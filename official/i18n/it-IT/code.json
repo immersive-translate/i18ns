@@ -1280,10 +1280,10 @@
     "message": "Traduzione immersiva, plugin di traduzione immersiva, sito ufficiale del traduttore immersivo."
   },
   "page.index.getThreeDayMembership": {
-    "message": "Ottieni gratuitamente 3 giorni di abbonamento Pro ai fumetti."
+    "message": "Ottieni una membership Manga Pro gratuita per 3 giorni."
   },
   "page.index.getMembershipTitle": {
-    "message": "Ottieni gratuitamente l'abbonamento Pro a fumetti per un tempo limitato!"
+    "message": "Tempo limitato {hlStart}richiesta gratuita{hlEnd} per l'iscrizione a Manga Pro!"
   },
   "page.index.needLogin": {
     "message": "Si prega di effettuare il login per riscattare l'abbonamento."

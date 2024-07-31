@@ -1280,10 +1280,10 @@
     "message": "침수식 번역, 침수식 번역 플러그인, 침수식 번역 공식 웹사이트"
   },
   "page.index.getThreeDayMembership": {
-    "message": "3일간 무료로 만화 Pro 회원을 받으세요."
+    "message": "3일간 무료 만화 프로 멤버십을 받으세요."
   },
   "page.index.getMembershipTitle": {
-    "message": "한정 시간 {hlStart}무료로 받기{hlEnd} 만화 Pro 회원!"
+    "message": "한정 시간 {hlStart}무료 클레임{hlEnd} 만화 프로 멤버십!"
   },
   "page.index.needLogin": {
     "message": "로그인 후 회원 혜택을 받으세요."

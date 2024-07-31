@@ -1286,10 +1286,10 @@
     "message": "沉浸式翻譯、沉浸式翻譯插件、沉浸式翻譯官網"
   },
   "page.index.getThreeDayMembership": {
-    "message": "免費領取3天漫畫Pro會員"
+    "message": "免費領取"
   },
   "page.index.getMembershipTitle": {
-    "message": "限時{hlStart}免費領取{hlEnd}漫畫Pro會員！"
+    "message": "限時{hlStart}免費領取{hlEnd}3天漫畫Pro會員！"
   },
   "page.index.needLogin": {
     "message": "請登入後領取會員"
