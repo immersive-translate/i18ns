@@ -1280,10 +1280,10 @@
     "message": "इमर्सिव अनुवाद, इमर्सिव अनुवाद प्लगइन, इमर्सिव अनुवाद आधिकारिक वेबसाइट"
   },
   "page.index.getThreeDayMembership": {
-    "message": "पाएं 3 दिन की मुफ्त मंगा प्रो सदस्यता"
+    "message": "मुफ्त में प्राप्त करें"
   },
   "page.index.getMembershipTitle": {
-    "message": "सीमित समय के लिए मंगा प्रो सदस्यता का {hlStart}निःशुल्क दावा{hlEnd}!"
+    "message": "सीमित समय {hlStart}मुफ्त प्राप्त करें{hlEnd} मंगा प्रो सदस्यता के 3 दिन!"
   },
   "page.index.needLogin": {
     "message": "कृपया लॉग इन करें और सदस्यता प्राप्त करें।"

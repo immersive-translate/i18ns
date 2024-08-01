@@ -1280,10 +1280,10 @@
     "message": "Traduction immersive, plugin de traduction immersive, site officiel de traduction immersive."
   },
   "page.index.getThreeDayMembership": {
-    "message": "Obtenez une adhésion gratuite de 3 jours à Manga Pro"
+    "message": "Obtenez-le gratuitement"
   },
   "page.index.getMembershipTitle": {
-    "message": "Offre limitée pour {hlStart}réclamer gratuitement{hlEnd} l'adhésion à Manga Pro !"
+    "message": "Offre limitée {hlStart}gratuite pour obtenir{hlEnd} 3 jours d'adhésion à Manga Pro !"
   },
   "page.index.needLogin": {
     "message": "Veuillez vous connecter pour réclamer votre adhésion."

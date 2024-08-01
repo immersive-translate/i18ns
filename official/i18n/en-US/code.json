@@ -1286,10 +1286,10 @@
     "message": "Immersive translation, immersive translation plugin, immersive translation official website"
   },
   "page.index.getThreeDayMembership": {
-    "message": "Get a 3-day free Manga Pro membership"
+    "message": "Get it for free"
   },
   "page.index.getMembershipTitle": {
-    "message": "Limited time {hlStart}free claim{hlEnd} for Manga Pro membership!"
+    "message": "Limited time {hlStart}free to get{hlEnd} 3 days of Manga Pro membership!"
   },
   "page.index.needLogin": {
     "message": "Please log in to claim your membership."

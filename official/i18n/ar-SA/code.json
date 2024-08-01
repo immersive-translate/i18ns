@@ -1280,10 +1280,10 @@
     "message": "الترجمة الغامرة، إضافة الترجمة الغامرة، الموقع الرسمي للترجمة الغامرة"
   },
   "page.index.getThreeDayMembership": {
-    "message": "احصل على عضوية مانغا برو المجانية لمدة 3 أيام"
+    "message": "احصل عليه مجانًا"
   },
   "page.index.getMembershipTitle": {
-    "message": "وقت محدود {hlStart}مطالبة مجانية{hlEnd} لعضوية Manga Pro!"
+    "message": "وقت محدود {hlStart}مجانًا للحصول{hlEnd} على عضوية مانغا برو لمدة 3 أيام!"
   },
   "page.index.needLogin": {
     "message": "يرجى تسجيل الدخول لاستلام عضويتك."
