@@ -1311,5 +1311,8 @@
   },
   "page.index.getTipWarn": {
     "message": "Your browser does not have the immersive translation plugin installed. Please install it to continue claiming your membership."
+  },
+  "page.index.getMembershipContext": {
+    "message": "Get a free limited-time Pro membership for comics."
   }
 }

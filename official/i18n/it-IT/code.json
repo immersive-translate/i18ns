@@ -1305,5 +1305,8 @@
   },
   "page.index.getTipWarn": {
     "message": "È stato rilevato che il tuo browser non ha installato il plugin di traduzione immersiva, si prega di installarlo prima di continuare a riscattare l'abbonamento."
+  },
+  "page.index.getMembershipContext": {
+    "message": "Ottieni gratuitamente l'abbonamento Pro ai fumetti per un tempo limitato."
   }
 }

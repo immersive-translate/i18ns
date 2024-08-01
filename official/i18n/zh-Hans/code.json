@@ -443,6 +443,9 @@
   "page.index.getMembershipTitle": {
     "message": "限时{hlStart}免费领取{hlEnd}3天漫画Pro会员！"
   },
+  "page.index.getMembershipContext": {
+    "message": "限时免费领取漫画Pro会员"
+  },
   "page.index.needLogin": {
     "message": "请登录后领取会员"
   },

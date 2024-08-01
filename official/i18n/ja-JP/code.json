@@ -1305,5 +1305,8 @@
   },
   "page.index.getTipWarn": {
     "message": "お使いのブラウザにイマーシブ翻訳プラグインがインストールされていないことが検出されました。インストール後、会員を続けて受け取ってください。"
+  },
+  "page.index.getMembershipContext": {
+    "message": "期間限定で漫画Pro会員を無料で受け取る"
   }
 }

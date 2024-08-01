@@ -1305,5 +1305,8 @@
   },
   "page.index.getTipWarn": {
     "message": "Votre navigateur n'a pas détecté l'installation du plugin de traduction immersive, veuillez l'installer avant de continuer à réclamer votre adhésion."
+  },
+  "page.index.getMembershipContext": {
+    "message": "Obtenez gratuitement l'abonnement Pro aux bandes dessinées pour une durée limitée."
   }
 }

@@ -1305,5 +1305,8 @@
   },
   "page.index.getTipWarn": {
     "message": "브라우저에 몰입형 번역 플러그인이 설치되어 있지 않은 것으로 확인되었습니다. 설치 후 회원 가입을 계속해 주세요."
+  },
+  "page.index.getMembershipContext": {
+    "message": "한정 시간 동안 무료로 만화 Pro 회원을 받으세요."
   }
 }

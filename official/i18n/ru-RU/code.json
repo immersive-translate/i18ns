@@ -1293,5 +1293,8 @@
   },
   "page.index.getMembershipTitle": {
     "message": "Ограниченное время {hlStart}бесплатного получения{hlEnd} членства Manga Pro!"
+  },
+  "page.index.getMembershipContext": {
+    "message": "限时免费领取漫画Pro会员"
   }
 }

@@ -1305,5 +1305,8 @@
   },
   "page.index.getTipWarn": {
     "message": "Se ha detectado que su navegador no tiene instalado el complemento de traducción inmersiva, por favor instálelo para continuar con la obtención de la membresía."
+  },
+  "page.index.getMembershipContext": {
+    "message": "Obtén gratis la membresía Pro de cómics por tiempo limitado."
   }
 }

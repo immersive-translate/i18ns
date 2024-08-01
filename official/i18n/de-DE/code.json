@@ -1305,5 +1305,8 @@
   },
   "page.index.getTipWarn": {
     "message": "Ihr Browser hat das immersives Übersetzungs-Plugin nicht installiert. Bitte installieren Sie es, bevor Sie mit dem Abrufen Ihrer Mitgliedschaft fortfahren."
+  },
+  "page.index.getMembershipContext": {
+    "message": "Kostenlose Mitgliedschaft bei Manga Pro für begrenzte Zeit erhalten"
   }
 }
