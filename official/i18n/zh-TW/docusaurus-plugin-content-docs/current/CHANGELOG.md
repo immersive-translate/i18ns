@@ -4,6 +4,14 @@ sidebar_position: 6
 
 # 更新日誌
 
+## 1.8.1
+
+- 修復油猴腳本 SiliconCloud 翻譯問題
+- Claude 翻譯新支持藏語，支持配置 Temperature 參數
+- AI 專家詳情頁展示專家使用的 Prompt
+- 快捷鍵設置中可以為任意翻譯服務指定獨立的快捷鍵翻譯了
+- 優化 arxiv 論文翻譯的檢測
+
 ## 1.7.9
 
 - 修復 Google、DeepL 等翻譯服務的富文本翻譯問題（如頁面直接顯示 `<button>` 等）

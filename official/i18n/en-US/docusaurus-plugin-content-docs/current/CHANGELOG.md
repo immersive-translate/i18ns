@@ -4,6 +4,14 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.8.1
+
+- Fixed translation issues with the Tampermonkey script SiliconCloud
+- Claude translation now supports Tibetan and allows configuration of the Temperature parameter
+- AI expert detail page displays the prompts used by the expert
+- Shortcut settings now allow assigning unique shortcut keys for any translation service
+- Optimized detection for arXiv paper translations
+
 ## 1.7.9
 
 - Fixed issues with rich text translation for translation services such as Google, DeepL (e.g., pages directly displaying `<button>` etc.)
