@@ -2,136 +2,141 @@
 sidebar_position: 13
 ---
 
-# नियम एवं शर्तें
+# Terms and Conditions
 
-अंतिम अद्यतन: 08 अगस्त, 2023
+Last updated: August 05, 2024
 
-कृपया हमारी सेवा का उपयोग करने से पहले इन नियमों और शर्तों को ध्यानपूर्वक पढ़ें।
+Please read these terms and conditions carefully before using Our Service.
 
-# व्याख्या और परिभाषाएँ
+# Interpretation and Definitions
 
-## व्याख्या
+## Interpretation
 
-जिन शब्दों का प्रारंभिक अक्षर बड़ा है, उनके अर्थ निम्नलिखित शर्तों के तहत परिभाषित किए गए हैं। निम्नलिखित परिभाषाएँ, चाहे वे एकवचन में प्रकट हों या बहुवचन में, उनका एक ही अर्थ होगा। निम्नलिखित परिभाषाएँ, चाहे वे एकवचन में प्रकट हों या बहुवचन में, उनका एक ही अर्थ होगा।
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
-## परिभाषाएँ
+## Definitions
 
-इन नियमों और शर्तों के उद्देश्यों के लिए।
+For the purposes of these Terms and Conditions:
 
-- **सहयोगी** का अर्थ है एक इकाई जो एक पक्ष को नियंत्रित करती है, उसके द्वारा नियंत्रित होती है या एक सामान्य नियंत्रण के अंतर्गत आती है, जहाँ "नियंत्रण" का अर्थ है निदेशकों या अन्य प्रबंधन प्राधिकरण के चुनाव के लिए मतदान के अधिकार वाले 50% या अधिक शेयरों, इक्विटी हिस्सेदारियों या अन्य प्रतिभूतियों के स्वामित्व को संदर्भित करता है। **सहयोगी** का अर्थ है एक इकाई जो एक पक्ष द्वारा नियंत्रित होती है या एक सामान्य नियंत्रण के अंतर्गत आती है, जहाँ "नियंत्रण" का अर्थ है निदेशकों के चुनाव या अन्य प्रबंधन प्राधिकरण के लिए मतदान के अधिकार वाले 50% या अधिक शेयरों, इक्विटी हिस्सेदारी या अन्य प्रतिभूतियों का स्वामित्व।
+- **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-- **देश** का उल्लेख है: चीन
+- **Country** refers to: China
+- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Immersive Translate.
 
-- **कंपनी** (इस समझौते में "कंपनी", "हम", "हमारा" या "हमारे" के रूप में संदर्भित) का उल्लेख है इमर्सिव ट्रांसलेट के लिए।
+- **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
-- **उपकरण** का अर्थ है कोई भी उपकरण जो सेवा तक पहुँच सकता है जैसे कि एक कंप्यूटर, एक सेलफोन या एक डिजिटल टैबलेट।
-- **सेवा** का तात्पर्य वेबसाइट से है।
+- **Service** refers to the Website.
 
-- **नियम और शर्तें** (जिन्हें "नियम" के रूप में भी संदर्भित किया जाता है) वे नियम और शर्तें हैं जो आप और कंपनी के बीच इस समझौते को पूरा करते हैं। इस नियम और शर्तों के समझौते को [TermsFeed नियम और शर्तें जनरेटर](https://www.termsfeed.com/terms-conditions-generator/) की सहायता से बनाया गया है।
+- **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the [TermsFeed Terms and Conditions Generator](https://www.termsfeed.com/terms-conditions-generator/).
+- **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
+- **Website** refers to Immersive Translate, accessible from [https://immersivetranslate.com](https://immersivetranslate.com)
+- **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
-- **तृतीय-पक्ष सोशल मीडिया सेवा** का तात्पर्य किसी भी सेवा या सामग्री (डेटा, जानकारी, उत्पाद या सेवाएं सहित) से है जो किसी तृतीय-पक्ष द्वारा प्रदान की जाती है और जिसे सेवा द्वारा प्रदर्शित, शामिल या उपलब्ध कराया जा सकता है। **तृतीय-पक्ष सोशल मीडिया सेवा** का तात्पर्य किसी भी सेवा या सामग्री (डेटा, जानकारी, उत्पाद या सेवाएं सहित) से है जो किसी तृतीय-पक्ष द्वारा प्रदान की जाती है और जिसे सेवा द्वारा प्रदर्शित, शामिल या उपलब्ध कराया जा सकता है।
+# Acknowledgment
 
-- **वेबसाइट** का तात्पर्य Immersive Translate से है, जिसे [https://immersivetranslate.com](https://immersivetranslate.com) से एक्सेस किया जा सकता है।
+These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
 
-- **आप** का तात्पर्य वह व्यक्ति है जो सेवा का उपयोग कर रहा है या उसे एक्सेस कर रहा है, या वह कंपनी, या अन्य कानूनी संस्था जिसकी ओर से ऐसा व्यक्ति सेवा का उपयोग या एक्सेस कर रहा है।
+Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
 
-# प्रशंसा
+By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
 
-ये नियम और शर्तें इस सेवा के उपयोग और आप और कंपनी के बीच संचालित समझौते को नियंत्रित करती हैं। ये नियम और शर्तें सेवा के उपयोग के संबंध में सभी उपयोगकर्ताओं के अधिकारों और दायित्वों को निर्धारित करती हैं। ये नियम और शर्तें सेवा के उपयोग के संबंध में सभी उपयोगकर्ताओं के अधिकारों और दायित्वों को निर्धारित करती हैं।
+You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.
 
-सेवा के प्रति आपकी पहुँच और उपयोग इन नियम और शर्तों की स्वीकृति और इनके अनुपालन पर निर्भर है। ये नियम और शर्तें सभी आगंतुकों, उपयोगकर्ताओं और अन्य लोगों पर लागू होती हैं जो सेवा का उपयोग या पहुँच करते हैं। ये नियम और शर्तें सभी आगंतुकों, उपयोगकर्ताओं और अन्य लोगों पर लागू होती हैं जो सेवा का उपयोग या पहुँच करते हैं।
+Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
 
-सेवा का उपयोग या पहुँच करके आप इन नियम और शर्तों से बंधे होने के लिए सहमत होते हैं। यदि आप इन नियम और शर्तों के किसी भी भाग से असहमत हैं तो आप सेवा का उपयोग नहीं कर सकते।
+# Pro Membership
 
-आप प्रतिनिधित्व करते हैं कि आप 18 वर्ष की आयु से अधिक हैं। कंपनी 18 वर्ष से कम उम्र के लोगों को सेवा का उपयोग करने की अनुमति नहीं देती है।
-आपकी सेवा तक पहुँच और उसका उपयोग भी कंपनी की गोपनीयता नीति की आपकी स्वीकृति और अनुपालन पर निर्भर है। हमारी गोपनीयता नीति हमारी नीतियों और प्रक्रियाओं का वर्णन करती है जब आप एप्लिकेशन या वेबसाइट का उपयोग करते हैं तो आपकी व्यक्तिगत जानकारी के संग्रहण, उपयोग और खुलासे पर और आपके गोपनीयता अधिकारों और कानून द्वारा आपकी सुरक्षा कैसे की जाती है, इसके बारे में बताती है। कृपया हमारी सेवा का उपयोग करने से पहले हमारी गोपनीयता नीति को ध्यान से पढ़ें।
+(a) Immersive Translate offers a Pro Membership which grants members access to premium features and services.
 
-# प्रो सदस्यता
+(b) The cost, benefits, and duration of the Pro Membership will be clearly outlined on our website or platform.
 
-(अ) इमर्सिव ट्रांसलेट प्रो सदस्यता प्रदान करता है जो सदस्यों को प्रीमियम सुविधाओं और सेवाओं तक पहुँच प्रदान करता है।
+(c) Once purchased, the Pro Membership is non-transferable and cannot be shared with others.
 
-(ब) प्रो सदस्यता की लागत, लाभ, और अवधि हमारी वेबसाइट या प्लेटफॉर्म पर स्पष्ट रूप से बताई जाएगी।
+# Refunds
 
-(स) एक बार खरीदने के बाद, प्रो सदस्यता गैर-हस्तांतरणीय होती है और इसे दूसरों के साथ साझा नहीं किया जा सकता।
+We have implemented distinct refund policies tailored to the type of subscription and the status of your account.
 
-# कोई धनवापसी नीति नहीं
+**Monthly Subscriptions:** Eligible for a refund request within 24 hours following the initial purchase. When applying, please provide the reason for your refund request.
 
-(a) प्रो सदस्यता की सभी बिक्री अंतिम हैं। इमर्सिव ट्रांसलेट, प्रो सदस्यता की किसी भी खरीद के लिए धनवापसी या क्रेडिट प्रदान नहीं करता है, जिसमें शामिल हैं, परंतु सीमित नहीं हैं, परिस्थितियाँ जहाँ:
+**Annual Subscriptions:** Refund requests can be made within 72 hours of the initial purchase. It's necessary to include the reason for your refund request in your application. Please note, no refunds will be issued for requests submitted beyond this timeframe.
 
-```
-खरीद के बाद उपयोगकर्ता अपना मन बदल देता है।
-उपयोगकर्ता प्रो सदस्यता के लाभों का उपयोग नहीं करता है।
-उपयोगकर्ता को अपने उपकरण या प्लेटफॉर्म पर तकनीकी समस्याएँ आती हैं। उपयोगकर्ता को अपने उपकरण या प्लेटफॉर्म पर तकनीकी समस्याएँ आती हैं।
-```
+In both subscription types, refunds are only possible if the user has not extensively used our translation services. This means that if a significant portion of the translation word count allocated for your subscription period has been used, you may not be eligible for a refund. We assess usage on a case-by-case basis to ensure fairness and to prevent abuse of our services. Please be prepared to provide details regarding your usage if requested.
 
-(b) यदि आप प्रो सदस्यता के लाभों तक पहुँचने में तकनीकी कठिनाइयों का अनुभव करते हैं, तो कृपया सहायता के लिए हमारी सहायता टीम से संपर्क करें। (c) यदि आप प्रो सदस्यता के लाभों तक पहुँचने में तकनीकी कठिनाइयों का अनुभव करते हैं, तो कृपया सहायता के लिए हमारी सहायता टीम से संपर्क करें।
+While we strictly enforce our policies, there may be instances where we are unable to process your refund due to discrepancies in your account. Our goal is to ensure our refund policy is equitable for all users.
 
-# अन्य वेबसाइटों के लिंक
-हमारी सेवा में तीसरे पक्ष की वेब साइटों या सेवाओं के लिंक हो सकते हैं जो कंपनी द्वारा स्वामित्व या नियंत्रित नहीं हैं।
+Should you qualify for a refund, we aim to process it and notify you within 7-10 business days. However, it's important to understand that if you have previously been granted a refund for our services, we reserve the right to refuse additional refund requests. This exclusion is in place to prevent misuse of our refund system and to promote fair usage among our customers.
 
-कंपनी का किसी भी तीसरे पक्ष की वेब साइटों या सेवाओं के सामग्री, गोपनीयता नीतियों, या प्रथाओं पर कोई नियंत्रण नहीं है, और न ही वह इनके लिए कोई जिम्मेदारी स्वीकार करती है। आप आगे स्वीकार करते हैं और सहमत होते हैं कि कंपनी किसी भी प्रकार के नुकसान या हानि के लिए सीधे या परोक्ष रूप से जिम्मेदार या दायी नहीं होगी, जो किसी ऐसी सामग्री, माल या सेवाओं के उपयोग या उन पर निर्भरता के कारण हो सकता है। ऐसी किसी भी सामग्री, माल या सेवाओं के उपयोग या उन पर निर्भरता के साथ जुड़े किसी भी नुकसान या हानि के लिए जिम्मेदार या दायी नहीं होगी।
+**Refund Process:** If you believe you are eligible for a refund, please contact us at support@immersivetranslate.com. Our customer service team will review your request and guide you through the refund process.
 
-हम आपको दृढ़ता से सलाह देते हैं कि आप जिन भी तीसरे पक्ष की वेब साइटों या सेवाओं का दौरा करें, उनकी शर्तें और गोपनीयता नीतियों को अवश्य पढ़ें।
+# Links to Other Websites
 
-# समाप्ति
+Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.
 
-यदि आप इन नियमों और शर्तों का उल्लंघन करते हैं तो हम बिना किसी पूर्व सूचना या दायित्व के तुरंत आपकी पहुँच को समाप्त या निलंबित कर सकते हैं, किसी भी कारण से।
+The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
 
-समाप्ति पर, आपका सेवा का उपयोग करने का अधिकार तुरंत समाप्त हो जाएगा।
+We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
 
-# देयता की सीमा
+# Termination
 
-आपके द्वारा हो सकने वाले किसी भी नुकसान के बावजूद, कंपनी और इसके किसी भी सप्लायर की इन शर्तों के किसी भी प्रावधान के तहत पूरी देयता और आपके लिए सभी पूर्वोक्त के लिए विशेष उपाय, सेवा के माध्यम से आपके द्वारा वास्तव में भुगतान की गई राशि तक सीमित होगी या 100 अमेरिकी डॉलर यदि आपने सामान नहीं खरीदा है। सेवा के माध्यम से कुछ भी खरीदने के उद्देश्य से आप सेवा का उपयोग नहीं कर सकते।
+We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
 
-लागू कानून द्वारा अनुमत अधिकतम सीमा तक, किसी भी विशेष, आकस्मिक, परोक्ष, या परिणामी क्षति के लिए कंपनी या इसके सप्लायर जिम्मेदार नहीं होंगे (जिसमें लाभ के नुकसान, डेटा या अन्य जानकारी के नुकसान, व्यापार के लिए बाधा, व्यक्तिगत चोट, गोपनीयता के नुकसान के लिए शामिल हैं, सेवा का उपयोग करने या उपयोग न कर पाने से, तृतीय-पक्ष सॉफ्टवेयर और/या सेवा के साथ प्रयुक्त तृतीय-पक्ष हार्डवेयर, या इन शर्तों के किसी भी प्रावधान से संबंधित किसी भी अन्य तरीके में), यहां तक कि अगर कंपनी या कोई सप्लायर संभावित क्षति की संभावना के बारे में सलाह दी गई हो और यहां तक कि अगर उपाय अपने मूल उद्देश्य में विफल रहता है।
+Upon termination, Your right to use the Service will cease immediately.
 
-कुछ राज्य अनुमानित वारंटियों के बहिष्करण या आकस्मिक या परिणामी क्षति के लिए देयता की सीमा को अनुमति नहीं देते, जिसका अर्थ है कि उपरोक्त कुछ सीमाएँ लागू नहीं हो सकतीं। इन राज्यों में, प्रत्येक पक्ष की देयता कानून द्वारा अनुमत अधिकतम सीमा तक सीमित होगी।
+# Limitation of Liability
 
-# "जैसा है" और "उपलब्धता के आधार पर" अस्वीकरण
+Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.
 
-सेवा आपको "जैसा है" और "उपलब्धता के आधार पर" और सभी दोषों और खामियों के साथ किसी भी प्रकार की वारंटी के बिना प्रदान की जाती है। लागू कानून के अधिकतम सीमा तक, कंपनी, अपनी ओर से और अपने सहयोगियों और उसके और उनके संबंधित लाइसेंसधारकों और सेवा प्रदाताओं की ओर से, स्पष्ट रूप से सभी वारंटियों को अस्वीकार करती है, चाहे वह व्यक्त रूप से हो, मान्यता प्राप्त हो, कानूनी रूप से हो या अन्यथा, सेवा के संबंध में, सभी मान्यता प्राप्त वारंटियों के व्यापारिकता, विशेष प्रयोजन के लिए उपयुक्तता, स्वामित्व और उल्लंघन न होने के साथ-साथ, व्यवहार के दौरान, प्रदर्शन के दौरान, उपयोग या व्यापार प्रथा से उत्पन्न हो सकने वाली वारंटियों को शामिल किया गया है। इसके अलावा, कंपनी किसी भी प्रकार की वारंटी या प्रतिबद्धता प्रदान नहीं करती है, और किसी भी प्रकार का प्रतिनिधित्व नहीं करती है कि सेवा आपकी आवश्यकताओं को पूरा करेगी, किसी भी इच्छित परिणामों को प्राप्त करेगी, किसी अन्य सॉफ्टवेयर, अनुप्रयोगों, सिस्टमों या सेवाओं के साथ संगत या काम करेगी, बिना रुकावट के संचालित होगी, किसी भी प्रदर्शन या विश्वसनीयता मानकों को पूरा करेगी या त्रुटि मुक्त होगी या किसी भी त्रुटियों या दोषों को सुधारा जा सकेगा या सुधारा जाएगा।
-उपरोक्त को सीमित न करते हुए, न तो कंपनी और न ही कंपनी के प्रदाता किसी भी प्रकार की अभिव्यक्त या निहित गारंटी या वारंटी का प्रतिनिधित्व करते हैं: (i) सेवा के संचालन या उपलब्धता के बारे में, या उस पर शामिल सूचना, सामग्री, और सामग्रियों या उत्पादों के बारे में; (ii) कि सेवा बिना किसी विघ्न या त्रुटि के होगी; (iii) सेवा की सटीकता, विश्वसनीयता, और उपलब्धता के बारे में (i) सेवा के संचालन या उपलब्धता के बारे में, या उस पर शामिल सूचना, सामग्री, और सामग्रियों या उत्पादों के बारे में; (ii) कि सेवा बिना किसी विघ्न या त्रुटि के होगी; (iii) सेवा के माध्यम से प्रदान की गई किसी भी सूचना या सामग्री की सटीकता, विश्वसनीयता, या मुद्रा के बारे में; या (iv) कि सेवा, इसके सर्वर, सामग्री, या कंपनी की ओर से या उसकी ओर से भेजे गए ई-मेल वायरस, स्क्रिप्ट, ट्रोजन हॉर्सेस, कीड़े, मैलवेयर, टाइमबग्स, और अन्य मलिन सॉफ्टवेयर से मुक्त हैं। कीड़े, मैलवेयर, टाइमबम्ब या अन्य हानिकारक घटक।
+To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
 
-कुछ न्यायालय उपभोक्ता के कुछ प्रकार की वारंटियों या सीमाओं को बाहर करने की अनुमति नहीं देते हैं, इसलिए उपरोक्त कुछ या सभी बहिष्करण और सीमाएँ आप पर लागू नहीं हो सकती हैं। कुछ न्यायालय उपभोक्ता के कुछ प्रकार की वारंटियों या सीमाओं को बाहर करने की अनुमति नहीं देते हैं, इसलिए उपरोक्त कुछ या सभी बहिष्करण और सीमाएँ आप पर लागू नहीं हो सकती हैं। लेकिन ऐसे मामले में इस खंड में निर्धारित बहिष्करण और सीमाएँ लागू कानून के तहत सर्वाधिक स्वीकार्य सीमा तक लागू की जाएँगी।
+Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
 
-# शासन विधि
+# "AS IS" and "AS AVAILABLE" Disclaimer
 
-इस नियमों और आपके सेवा के उपयोग पर देश के कानून, इसके विवाद संबंधी नियमों को छोड़कर, लागू होंगे। एप्लिकेशन का आपका उपयोग अन्य स्थानीय, राज्य, राष्ट्रीय, या अंतरराष्ट्रीय कानूनों के अधीन भी हो सकता है।
+The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
 
-# विवाद समाधान
+Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
 
-यदि आपको सेवा के बारे में कोई चिंता या विवाद है, तो आप सहमत हैं कि पहले आप कंपनी से संपर्क करके विवाद को अनौपचारिक रूप से हल करने का प्रयास करेंगे।
+Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
 
-# यूरोपीय संघ (EU) उपयोगकर्ताओं के लिए
+# Governing Law
 
-यदि आप एक यूरोपीय संघ के उपभोक्ता हैं, तो आपको उस देश के कानून के किसी भी अनिवार्य प्रावधानों का लाभ मिलेगा जिसमें आप निवासी हैं।
+The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
 
-# संयुक्त राज्य अमेरिका कानूनी अनुपालन
+# Disputes Resolution
 
-आप प्रतिनिधित्व करते हैं और वारंट करते हैं कि (i) आप ऐसे देश में स्थित नहीं हैं जिस पर संयुक्त राज्य सरकार का प्रतिबंध है, या जिसे संयुक्त राज्य सरकार ने "आतंकवादी समर्थक" देश के रूप में नामित किया है, और (ii) आप संयुक्त राज्य सरकार की किसी भी प्रतिबंधित या अनधिकृत व्यक्तियों की सूची में नहीं हैं।
+If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.
 
-# विभाज्यता और छूट
+# For European Union (EU) Users
 
-## विभाज्यता
+If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.
 
-यदि इन नियमों का कोई प्रावधान अप्रचलनीय या अवैध माना जाता है, तो ऐसे प्रावधान को लागू कानून के तहत संभव हो सके उतनी अधिकतम सीमा तक उस प्रावधान के उद्देश्यों को पूरा करने के लिए बदला और व्याख्यायित किया जाएगा और शेष प्रावधान पूर्ण प्रभाव में जारी रहेंगे।
+# United States Legal Compliance
 
-## छूट
+You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
 
-यहाँ प्रदान की गई शर्तों के अनुसार, किसी अधिकार का प्रयोग न करना या इन शर्तों के तहत किसी बाध्यता का पालन न करना, किसी पक्ष की ऐसे अधिकार का प्रयोग करने या ऐसे प्रदर्शन की मांग करने की क्षमता को बाद में किसी भी समय प्रभावित नहीं करेगा और न ही किसी उल्लंघन की छूट किसी बाद के उल्लंघन की छूट का गठन करेगी। यहाँ प्रदान की गई शर्तों के अनुसार, किसी अधिकार का प्रयोग न करना या इन शर्तों के तहत किसी बाध्यता का पालन न करना, किसी पक्ष की ऐसे अधिकार का प्रयोग करने या ऐसे प्रदर्शन की मांग करने की क्षमता को बाद में किसी भी समय प्रभावित नहीं करेगा और न ही किसी उल्लंघन की छूट किसी बाद के उल्लंघन की छूट का गठन करेगी।
+# Severability and Waiver
 
-# अनुवाद व्याख्या
+## Severability
 
-यदि हमने आपको हमारी सेवा पर उपलब्ध कराया है, तो ये नियम और शर्तें अनुवादित की जा सकती हैं।
-आप सहमत हैं कि विवाद की स्थिति में मूल अंग्रेजी पाठ प्रभावी होगा। आप सहमत हैं कि विवाद की स्थिति में मूल अंग्रेजी पाठ प्रभावी होगा।
+If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
 
-# इन नियमों और शर्तों में परिवर्तन
-हमें अपने एकमात्र विवेक पर, किसी भी समय इन नियमों को संशोधित या बदलने का अधिकार सुरक्षित है। यदि कोई संशोधन महत्वपूर्ण होता है तो हम कम से कम 30 दिनों की सूचना प्रदान करने का उचित प्रयास करेंगे, इससे पहले कि कोई नए नियम प्रभावी हों। क्या परिवर्तन महत्वपूर्ण है, इसका निर्धारण हमारे एकमात्र विवेक पर किया जाएगा।
+## Waiver
 
-उन संशोधनों के प्रभावी होने के बाद यदि आप हमारी सेवा का उपयोग जारी रखते हैं, तो आप संशोधित नियमों द्वारा बंधे होने के लिए सहमत होते हैं। यदि आप नए नियमों से, पूर्ण रूप से या आंशिक रूप से, सहमत नहीं हैं, कृपया वेबसाइट और सेवा का उपयोग करना बंद कर दें।
+Except as provided herein, the failure to exercise a right or to require performance of an obligation under these Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall the waiver of a breach constitute a waiver of any subsequent breach.
 
-# हमसे संपर्क करें
+# Translation Interpretation
 
-यदि आपके पास इन नियम और शर्तों के बारे में कोई प्रश्न हैं, तो आप हमसे संपर्क कर सकते हैं।
+These Terms and Conditions may have been translated if We have made them available to You on our Service.
+You agree that the original English text shall prevail in the case of a dispute.
 
-- ईमेल द्वारा: support@immersivetranslate.com
+# Changes to These Terms and Conditions
+
+We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
+
+By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
+
+# Contact Us
+
+If you have any questions about these Terms and Conditions, You can contact us:
+
+- By email: support@immersivetranslate.com

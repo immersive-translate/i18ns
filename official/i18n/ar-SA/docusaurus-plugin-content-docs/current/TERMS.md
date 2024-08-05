@@ -2,141 +2,141 @@
 sidebar_position: 13
 ---
 
-# الشروط والأحكام
+# Terms and Conditions
 
-آخر تحديث: 08 أغسطس 2023
+Last updated: August 05, 2024
 
-يرجى قراءة هذه الشروط والأحكام بعناية قبل استخدام خدمتنا.
+Please read these terms and conditions carefully before using Our Service.
 
-# التفسير والتعريفات
+# Interpretation and Definitions
 
-## التفسير
+## Interpretation
 
-الكلمات التي يكون الحرف الأول منها كبيرًا لها معانٍ محددة تحت الشروط التالية. يجب أن تكون التعريفات التالية لها نفس المعنى بغض النظر عما إذا كانت تظهر بصيغة المفرد أو الجمع. يجب أن تكون التعريفات التالية لها نفس المعنى بغض النظر عما إذا كانت تظهر بصيغة المفرد أو الجمع.
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
-## التعريفات
+## Definitions
 
-لأغراض هذه الشروط والأحكام.
+For the purposes of these Terms and Conditions:
 
-- **الشركة التابعة** تعني كيانًا يتحكم، أو يتم التحكم به، أو يكون تحت التحكم المشترك مع طرف، حيث يعني "التحكم" ملكية 50% أو أكثر من الأسهم، أو الحصص الإنصافية، أو الأوراق المالية الأخرى المخولة بالتصويت لانتخاب مديرين أو سلطة إدارية أخرى. **الشركة التابعة** تعني كيانًا يتحكم به أو يكون تحت التحكم المشترك مع طرف، حيث يعني "التحكم" ملكية 50% أو أكثر من الأسهم، أو الحصص الإنصافية، أو الأوراق المالية الأخرى المخولة بالتصويت لانتخاب مديرين أو سلطة إدارية أخرى.
+- **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-- **الدولة** تشير إلى: الصين
+- **Country** refers to: China
+- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Immersive Translate.
 
-- **الشركة** (يشار إليها إما بـ "الشركة"، أو "نحن"، أو "لنا" أو "لدينا" في هذا الاتفاق) تشير إلى Immersive Translate.
+- **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
-- **الجهاز** يعني أي جهاز يمكنه الوصول إلى الخدمة مثل كمبيوتر، أو هاتف محمول، أو جهاز لوحي رقمي.
+- **Service** refers to the Website.
 
-- **الخدمة** تشير إلى الموقع الإلكتروني.
+- **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the [TermsFeed Terms and Conditions Generator](https://www.termsfeed.com/terms-conditions-generator/).
+- **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
+- **Website** refers to Immersive Translate, accessible from [https://immersivetranslate.com](https://immersivetranslate.com)
+- **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
-- **الشروط والأحكام** (يشار إليها أيضًا بـ "الشروط") تعني هذه الشروط والأحكام التي تشكل الاتفاق الكامل بينك وبين الشركة بخصوص هذا الاتفاق. تم إنشاء هذا الاتفاق بمساعدة [مولد الشروط والأحكام من TermsFeed](https://www.termsfeed.com/terms-conditions-generator/).
+# Acknowledgment
 
-- **خدمة وسائل التواصل الاجتماعي الطرف الثالث** تعني أي خدمات أو محتوى (بما في ذلك البيانات، المعلومات، المنتجات أو الخدمات) التي يوفرها طرف ثالث قد يتم عرضها، أو تضمينها، أو توفيرها من خلال الخدمة. **خدمة وسائل التواصل الاجتماعي الطرف الثالث** تعني أي خدمات أو محتوى (بما في ذلك البيانات، المعلومات، المنتجات أو الخدمات) التي يوفرها طرف ثالث قد يتم عرضها، أو تضمينها، أو توفيرها من خلال الخدمة.
+These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
 
-- **الموقع الإلكتروني** يشير إلى Immersive Translate، القابل للوصول من [https://immersivetranslate.com](https://immersivetranslate.com)
+Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
 
-- **أنت** تعني الفرد الذي يقوم بالوصول إلى الخدمة أو استخدامها، أو الشركة، أو الكيان القانوني الآخر الذي يقوم هذا الفرد بالوصول إلى الخدمة أو استخدامها نيابة عنه.
+By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
 
-# الاعتراف
+You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.
 
-هذه هي الشروط والأحكام التي تحكم استخدام هذه الخدمة والاتفاقية التي تعمل بينك وبين الشركة. تحدد هذه الشروط والأحكام الحقوق والالتزامات لجميع المستخدمين بخصوص استخدام الخدمة. تحدد هذه الشروط والأحكام الحقوق والالتزامات لجميع المستخدمين بخصوص استخدام الخدمة.
+Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
 
-يتوقف وصولك واستخدامك للخدمة على قبولك والتزامك بهذه الشروط والأحكام. تنطبق هذه الشروط والأحكام على جميع الزوار والمستخدمين وغيرهم ممن يصلون أو يستخدمون الخدمة. تنطبق هذه الشروط والأحكام على جميع الزوار والمستخدمين وغيرهم ممن يصلون أو يستخدمون الخدمة.
+# Pro Membership
 
-بالوصول أو استخدام الخدمة، فإنك توافق على أن تكون ملزمًا بهذه الشروط والأحكام. إذا كنت لا توافق على أي جزء من هذه الشروط والأحكام، فلن يكون بإمكانك الوصول إلى الخدمة.
+(a) Immersive Translate offers a Pro Membership which grants members access to premium features and services.
 
-أنت تمثل أنك تجاوزت سن الـ 18. لا تسمح الشركة لمن هم دون الـ 18 من استخدام الخدمة.
+(b) The cost, benefits, and duration of the Pro Membership will be clearly outlined on our website or platform.
 
-يتوقف وصولك واستخدامك للخدمة أيضًا على قبولك والتزامك بسياسة الخصوصية للشركة. تصف سياسة الخصوصية الخاصة بنا سياساتنا وإجراءاتنا بشأن جمع واستخدام وإفشاء معلوماتك الشخصية عند استخدامك للتطبيق أو الموقع الإلكتروني وتخبرك عن حقوقك في الخصوصية وكيف تحميك القانون. يرجى قراءة سياسة الخصوصية الخاصة بنا بعناية قبل استخدام خدمتنا.
+(c) Once purchased, the Pro Membership is non-transferable and cannot be shared with others.
 
-# العضوية المحترفة
+# Refunds
 
-(أ) تقدم Immersive Translate عضوية محترفة تمنح الأعضاء الوصول إلى الميزات والخدمات المتميزة.
+We have implemented distinct refund policies tailored to the type of subscription and the status of your account.
 
-(ب) سيتم توضيح تكلفة وفوائد ومدة العضوية المحترفة بوضوح على موقعنا الإلكتروني أو منصتنا.
+**Monthly Subscriptions:** Eligible for a refund request within 24 hours following the initial purchase. When applying, please provide the reason for your refund request.
 
-(ج) بمجرد الشراء، لا يمكن نقل العضوية المحترفة أو مشاركتها مع الآخرين.
+**Annual Subscriptions:** Refund requests can be made within 72 hours of the initial purchase. It's necessary to include the reason for your refund request in your application. Please note, no refunds will be issued for requests submitted beyond this timeframe.
 
-# سياسة عدم الاسترداد
+In both subscription types, refunds are only possible if the user has not extensively used our translation services. This means that if a significant portion of the translation word count allocated for your subscription period has been used, you may not be eligible for a refund. We assess usage on a case-by-case basis to ensure fairness and to prevent abuse of our services. Please be prepared to provide details regarding your usage if requested.
 
-(أ) جميع مبيعات العضوية المتقدمة نهائية. لا تقدم Immersive Translate أي استردادات أو اعتمادات لأي عمليات شراء للعضوية المتقدمة، بما في ذلك، ولكن لا تقتصر على، الحالات التي:
+While we strictly enforce our policies, there may be instances where we are unable to process your refund due to discrepancies in your account. Our goal is to ensure our refund policy is equitable for all users.
 
+Should you qualify for a refund, we aim to process it and notify you within 7-10 business days. However, it's important to understand that if you have previously been granted a refund for our services, we reserve the right to refuse additional refund requests. This exclusion is in place to prevent misuse of our refund system and to promote fair usage among our customers.
 
-يغير المستخدم رأيه بعد الشراء.
-لا يستخدم المستخدم مزايا العضوية المتقدمة.
-يواجه المستخدم مشاكل تقنية على جهازه أو منصته. يواجه المستخدم مشاكل تقنية على جهازه أو منصته.
+**Refund Process:** If you believe you are eligible for a refund, please contact us at support@immersivetranslate.com. Our customer service team will review your request and guide you through the refund process.
 
+# Links to Other Websites
 
-(ب) إذا واجهت صعوبات تقنية في الوصول إلى مزايا العضوية المتقدمة، يرجى التواصل مع فريق الدعم للحصول على المساعدة. (ج) إذا واجهت صعوبات تقنية في الوصول إلى مزايا العضوية المتقدمة، يرجى التواصل مع فريق الدعم للحصول على المساعدة.
+Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.
 
-# روابط إلى مواقع ويب أخرى
+The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
 
-قد تحتوي خدمتنا على روابط إلى مواقع ويب أو خدمات تابعة لجهات خارجية غير مملوكة أو مسيطر عليها من قبل الشركة.
+We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
 
-لا تملك الشركة أي سيطرة على، ولا تتحمل أي مسؤولية عن، المحتوى، سياسات الخصوصية، أو ممارسات أي مواقع ويب تابعة لجهات خارجية أو خدمات. تقر أنت وتوافق على أن الشركة لن تكون مسؤولة أو ملزمة، بشكل مباشر أو غير مباشر، عن أي ضرر أو خسارة يُزعم أنها ناتجة عن أو فيما يتعلق باستخدام أو الاعتماد على أي محتوى، بضائع أو خدمات. يُزعم أنها ناتجة عن أو فيما يتعلق باستخدام أو الاعتماد على أي محتوى، بضائع أو خدمات متاحة على أو من خلال أي مواقع ويب أو خدمات تابعة لجهات خارجية.
+# Termination
 
-ننصحك بشدة بقراءة الشروط والأحكام وسياسات الخصوصية لأي مواقع ويب تابعة لجهات خارجية أو خدمات تقوم بزيارتها.
+We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
 
-# الإنهاء
+Upon termination, Your right to use the Service will cease immediately.
 
-قد ننهي أو نعلق وصولك فورًا، دون إشعار مسبق أو مسؤولية، لأي سبب كان، بما في ذلك دون حصر إذا خرقت هذه الشروط والأحكام.
+# Limitation of Liability
 
-عند الإنهاء، سيتوقف حقك في استخدام الخدمة فورًا.
+Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.
 
-# تحديد المسؤولية
+To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
 
-بغض النظر عن أي أضرار قد تتكبدها، تقتصر المسؤولية الكاملة للشركة وأي من مورديها بموجب أي بند من هذه الشروط والتعويض الحصري لك عن كل ما سبق على المبلغ الفعلي الذي دفعته من خلال الخدمة أو 100 دولار أمريكي إذا لم تكن قد اشتريت البضائع. التعويض الحصري لك عن كل ما سبق يقتصر على المبلغ الفعلي الذي دفعته من خلال الخدمة أو 100 دولار أمريكي إذا لم تكن قد اشتريت. لا يجوز لك استخدام الخدمة لأي غرض آخر غير شراء أي شيء من خلال الخدمة.
+Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
 
-إلى أقصى حد يسمح به القانون المعمول به، في أي حال من الأحوال لا تتحمل الشركة أو مورديها مسؤولية عن أي أضرار خاصة، عرضية، غير مباشرة، أو تبعية على الإطلاق (بما في ذلك، على سبيل المثال لا الحصر، الأضرار عن فقدان الأرباح، فقدان البيانات أو المعلومات الأخرى، لتوقف العمل، للإصابة الشخصية، فقدان الخصوصية الناشئة عن أو بأي شكل من الأشكال متعلقة باستخدام أو عدم القدرة على استخدام الخدمة، برمجيات الطرف الثالث و/أو الأجهزة الطرف الثالث المستخدمة مع الخدمة، أو بخلاف ذلك فيما يتعلق بأي بند من هذه الشروط)، حتى لو تم إخطار الشركة أو أي مورد بإمكانية حدوث مثل هذه الأضرار. تم إخطار بإمكانية حدوث مثل هذه الأضرار وحتى لو فشل العلاج في تحقيق الغرض الأساسي منه.
+# "AS IS" and "AS AVAILABLE" Disclaimer
 
-لا تسمح بعض الولايات بإستبعاد الضمانات الضمنية أو تحديد المسؤولية عن الأضرار العرضية أو التبعية، مما يعني أن بعض القيود المذكورة أعلاه قد لا تنطبق. في هذه الولايات، سيتم تحديد مسؤولية كل طرف إلى أقصى حد يسمح به القانون.
+The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
 
-# إخلاء مسؤولية "كما هي" و"حسب التوافر"
+Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
 
-يُقدم الخدمة لك "كما هي" و"حسب التوافر" ومع كل العيوب والنواقص دون ضمان من أي نوع. إلى أقصى حد يسمح به القانون المعمول به، تُخلي الشركة، بالنيابة عن نفسها وعن شركائها وعن مرخصيها ومزودي الخدمة لها ولهم، صراحةً كل الضمانات، سواء كانت صريحة أو ضمنية أو قانونية أو غير ذلك، فيما يتعلق بالخدمة، بما في ذلك كل الضمانات الضمنية للتسويق، والملاءمة لغرض معين، والملكية وعدم الانتهاك، والضمانات التي قد تنشأ من مجرى التعامل، أو أداء الخدمة، أو الاستخدام أو الممارسة التجارية. دون الحد من السابق، تقدم الشركة لا ضمان أو التزام، ولا تقدم أي تمثيل من أي نوع بأن الخدمة لن تُستخدم لأي غرض. تمثيل من أي نوع بأن الخدمة ستلبي متطلباتك، أو تحقق أي نتائج مقصودة، أو تكون متوافقة أو ستعمل مع أي برامج أخرى، تطبيقات، أنظمة أو خدمات، تعمل دون انقطاع، تلبي أي معايير أداء أو موثوقية أو خالية من الأخطاء أو أن أي أخطاء أو عيوب يمكن أو سيتم تصحيحها.
+Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
 
-دون الحد من السابق، لا تقدم الشركة ولا أي من مزودي الشركة أي تمثيل أو ضمان من أي نوع، صريح أو ضمني: (i) بالنسبة لتشغيل أو توافر الخدمة، أو المعلومات، المحتوى، والمواد أو المنتجات المضمنة فيها؛ (ii) بأن الخدمة ستكون بدون انقطاع أو خالية من الأخطاء؛ (iii) بالنسبة لدقة، موثوقية، أو حداثة أي معلومات أو محتوى يتم توفيره من خلال الخدمة؛ أو (iv) بأن الخدمة، خوادمها، المحتوى، أو رسائل البريد الإلكتروني المرسلة من أو نيابة عن الشركة خالية من الفيروسات، السكربتات، الخيول الطروادة، الديدان، البرمجيات الخبيثة، القنابل الزمنية أو أي مكونات ضارة أخرى.
+# Governing Law
 
-قد لا تسمح بعض الولايات القضائية باستبعاد أنواع معينة من الضمانات أو تحديدات على الحقوق القانونية القابلة للتطبيق للمستهلك، لذا قد لا تنطبق عليك بعض أو كل الاستثناءات والتحديدات المذكورة أعلاه. ولكن في مثل هذه الحالة، يتم تطبيق الاستثناءات والتحديدات المذكورة في هذا القسم إلى أقصى حد يمكن تطبيقه بموجب القانون المعمول به.
+The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
 
-# قانون الحكم
+# Disputes Resolution
 
-تخضع هذه الشروط واستخدامك للخدمة لقوانين الدولة، باستثناء قواعد تعارض القوانين، وقد يخضع استخدامك للتطبيق أيضًا لقوانين محلية أو ولاية أو وطنية أو دولية أخرى.
+If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.
 
-# حل النزاعات
+# For European Union (EU) Users
 
-إذا كان لديك أي قلق أو نزاع بخصوص الخدمة، فإنك توافق على محاولة حل النزاع بشكل غير رسمي أولاً عن طريق التواصل مع الشركة.
+If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.
 
-# لمستخدمي الاتحاد الأوروبي (EU)
+# United States Legal Compliance
 
-إذا كنت مستهلكًا في الاتحاد الأوروبي، فسوف تستفيد من أي أحكام إلزامية لقانون البلد الذي تقيم فيه.
+You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
 
-# الامتثال القانوني للولايات المتحدة
+# Severability and Waiver
 
-تقر وتضمن أن (i) لا تقع في بلد خاضع لحظر حكومة الولايات المتحدة، أو تم تصنيفه من قبل حكومة الولايات المتحدة كبلد "داعم للإرهاب"، و (ii) أنك لست مدرجًا في أي قائمة للحكومة الأمريكية للأشخاص المحظورين أو المقيدين.
+## Severability
 
-# القابلية للفصل والتنازل
+If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
 
-## القابلية للفصل
+## Waiver
 
-إذا تبين أن أي بند من هذه الشروط غير قابل للتنفيذ أو باطل، فسيتم تغيير هذا البند وتفسيره لتحقيق أهداف هذا البند بأكبر قدر ممكن وفقًا للقانون المعمول به وستستمر الأحكام المتبقية في النفاذ بكامل قوتها وأثرها.
+Except as provided herein, the failure to exercise a right or to require performance of an obligation under these Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall the waiver of a breach constitute a waiver of any subsequent breach.
 
-## إعفاء
+# Translation Interpretation
 
-إلا كما هو مذكور هنا، فإن عدم ممارسة حق أو مطالبة بتنفيذ التزام بموجب هذه الشروط لا يؤثر على قدرة الطرف على ممارسة هذا الحق أو المطالبة بتنفيذ هذا الالتزام في أي وقت لاحق، كما أن التنازل عن خرق ما لا يشكل تنازلًا عن أي خرق لاحق. إلا كما هو مذكور هنا، فإن عدم ممارسة حق أو مطالبة بتنفيذ التزام بموجب هذه الشروط لا يؤثر على قدرة الطرف على ممارسة هذا الحق أو المطالبة بتنفيذ هذا الالتزام في أي وقت لاحق، كما أن التنازل عن خرق ما لا يشكل تنازلًا عن أي خرق لاحق.
+These Terms and Conditions may have been translated if We have made them available to You on our Service.
+You agree that the original English text shall prevail in the case of a dispute.
 
-# تفسير الترجمة
+# Changes to These Terms and Conditions
 
-قد تم ترجمة هذه الشروط والأحكام إذا كنا قد جعلناها متاحة لك على خدمتنا.
-أنت توافق على أن النص الإنجليزي الأصلي يسود في حالة وجود نزاع. أنت توافق على أن النص الإنجليزي الأصلي يسود في حالة وجود نزاع.
+We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
 
-# تغييرات في هذه الشروط والأحكام
+By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
 
-نحتفظ بالحق، حسب تقديرنا الوحيد، لتعديل أو استبدال هذه الشروط في أي وقت. إذا كان التعديل جوهريًا سنبذل جهودًا معقولة لتقديم إشعار لمدة لا تقل عن 30 يومًا قبل أن تصبح الشروط الجديدة سارية. ما يشكل تغييرًا جوهريًا سيتم تحديده حسب تقديرنا الوحيد.
+# Contact Us
 
-باستمرارك في الوصول إلى خدمتنا أو استخدامها بعد أن تصبح هذه التعديلات سارية، فإنك توافق على الالتزام بالشروط المعدلة. إذا كنت لا توافق على الشروط الجديدة، بالكامل أو جزئيًا، يرجى التوقف عن استخدام الموقع والخدمة.
+If you have any questions about these Terms and Conditions, You can contact us:
 
-# اتصل بنا
-
-إذا كان لديك أي أسئلة حول هذه الشروط والأحكام، يمكنك الاتصال بنا.
-
-- عبر البريد الإلكتروني: support\@immersivetranslate.com
+- By email: support@immersivetranslate.com

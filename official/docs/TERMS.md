@@ -4,7 +4,7 @@ sidebar_position: 13
 
 # Terms and Conditions
 
-Last updated: August 08, 2023
+Last updated: August 05, 2024
 
 Please read these terms and conditions carefully before using Our Service.
 
@@ -52,15 +52,21 @@ Your access to and use of the Service is also conditioned on Your acceptance of 
 
 (c) Once purchased, the Pro Membership is non-transferable and cannot be shared with others.
 
-# No Refund Policy
+# Refunds
 
-(a) All sales of Pro Membership are final. Immersive Translate does not offer refunds or credits for any purchases of Pro Membership, including, but not limited to, situations where:
+We have implemented distinct refund policies tailored to the type of subscription and the status of your account.
 
-    The user changes their mind after purchase.
-    The user doesn’t use the Pro Membership benefits.
-    The user experiences technical issues on their device or platform.
+**Monthly Subscriptions:** Eligible for a refund request within 24 hours following the initial purchase. When applying, please provide the reason for your refund request.
 
-(b) If you experience technical difficulties accessing the benefits of the Pro Membership, please contact our support team for assistance. While we strive to offer a seamless experience, we cannot guarantee that all technical issues can be resolved.
+**Annual Subscriptions:** Refund requests can be made within 72 hours of the initial purchase. It's necessary to include the reason for your refund request in your application. Please note, no refunds will be issued for requests submitted beyond this timeframe.
+
+In both subscription types, refunds are only possible if the user has not extensively used our translation services. This means that if a significant portion of the translation word count allocated for your subscription period has been used, you may not be eligible for a refund. We assess usage on a case-by-case basis to ensure fairness and to prevent abuse of our services. Please be prepared to provide details regarding your usage if requested.
+
+While we strictly enforce our policies, there may be instances where we are unable to process your refund due to discrepancies in your account. Our goal is to ensure our refund policy is equitable for all users.
+
+Should you qualify for a refund, we aim to process it and notify you within 7-10 business days. However, it's important to understand that if you have previously been granted a refund for our services, we reserve the right to refuse additional refund requests. This exclusion is in place to prevent misuse of our refund system and to promote fair usage among our customers.
+
+**Refund Process:** If you believe you are eligible for a refund, please contact us at support@immersivetranslate.com. Our customer service team will review your request and guide you through the refund process.
 
 # Links to Other Websites
 

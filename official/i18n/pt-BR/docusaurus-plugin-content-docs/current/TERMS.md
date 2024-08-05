@@ -2,139 +2,141 @@
 sidebar_position: 13
 ---
 
-# Termos e Condições
+# Terms and Conditions
 
-Última atualização: 08 de agosto de 2023
+Last updated: August 05, 2024
 
-Por favor, leia estes termos e condições cuidadosamente antes de usar o Nosso Serviço.
+Please read these terms and conditions carefully before using Our Service.
 
-# Interpretação e Definições
+# Interpretation and Definitions
 
-## Interpretação
+## Interpretation
 
-As palavras cujas iniciais são maiúsculas têm significados definidos nas seguintes condições. As seguintes definições terão o mesmo significado, independentemente de aparecerem no singular ou no plural.
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
-## Definições
+## Definitions
 
-Para os fins destes Termos e Condições:
+For the purposes of these Terms and Conditions:
 
-- **Afiliada** significa uma entidade que controla, é controlada por, ou está sob controle comum com uma parte, onde "controle" significa a propriedade de 50% ou mais das ações, interesses patrimoniais ou outros valores mobiliários com direito a voto na eleição de diretores ou outra autoridade de gestão.
+- **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-- **País** refere-se a: China
+- **Country** refers to: China
+- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Immersive Translate.
 
-- **Empresa** (referida como "a Empresa", "Nós", "Nos" ou "Nosso" neste Acordo) refere-se a Immersive Translate.
+- **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
-- **Dispositivo** significa qualquer dispositivo que possa acessar o Serviço, como um computador, um celular ou um tablet digital.
+- **Service** refers to the Website.
 
-- **Serviço** refere-se ao Website.
+- **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the [TermsFeed Terms and Conditions Generator](https://www.termsfeed.com/terms-conditions-generator/).
+- **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
+- **Website** refers to Immersive Translate, accessible from [https://immersivetranslate.com](https://immersivetranslate.com)
+- **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
-- **Termos e Condições** (também referidos como "Termos") significam estes Termos e Condições que formam o acordo integral entre Você e a Empresa em relação ao uso do Serviço. Este acordo foi criado com a ajuda do [Gerador de Termos e Condições do TermsFeed](https://www.termsfeed.com/terms-conditions-generator/).
+# Acknowledgment
 
-- **Serviço de Mídia Social de Terceiros** significa qualquer serviço ou conteúdo (incluindo dados, informações, produtos ou serviços) fornecido por um terceiro que possa ser exibido, incluído ou disponibilizado pelo Serviço.
+These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
 
-- **Website** refere-se a Immersive Translate, acessível a partir de [https://immersivetranslate.com](https://immersivetranslate.com)
+Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
 
-- **Você** significa o indivíduo acessando ou usando o Serviço, ou a empresa, ou outra entidade legal em nome da qual tal indivíduo está acessando ou usando o Serviço.
+By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
 
-# Reconhecimento
+You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.
 
-Estes são os Termos e Condições que regem o uso deste Serviço e o acordo que opera entre Você e a Empresa. Estes Termos e Condições estabelecem os direitos e obrigações de todos os usuários em relação ao uso do Serviço.
+Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
 
-Seu acesso e uso do Serviço está condicionado à sua aceitação e conformidade com estes Termos e Condições. Estes Termos e Condições se aplicam a todos os visitantes, usuários e outros que acessam ou usam o Serviço.
+# Pro Membership
 
-Ao acessar ou usar o Serviço, Você concorda em estar vinculado por estes Termos e Condições. Se Você discordar de qualquer parte destes Termos e Condições, então Você não poderá acessar o Serviço.
+(a) Immersive Translate offers a Pro Membership which grants members access to premium features and services.
 
-Você declara que tem mais de 18 anos. A Empresa não permite que menores de 18 anos usem o Serviço.
+(b) The cost, benefits, and duration of the Pro Membership will be clearly outlined on our website or platform.
 
-Seu acesso e uso do Serviço também está condicionado à sua aceitação e conformidade com a Política de Privacidade da Empresa. Nossa Política de Privacidade descreve nossas políticas e procedimentos sobre a coleta, uso e divulgação de suas informações pessoais quando Você usa o Aplicativo ou o Website e informa sobre seus direitos de privacidade e como a lei protege Você. Por favor, leia nossa Política de Privacidade cuidadosamente antes de usar nosso Serviço.
+(c) Once purchased, the Pro Membership is non-transferable and cannot be shared with others.
 
-# Assinatura Pro
+# Refunds
 
-(a) Immersive Translate oferece uma Assinatura Pro que concede aos membros acesso a recursos e serviços premium.
+We have implemented distinct refund policies tailored to the type of subscription and the status of your account.
 
-(b) O custo, benefícios e duração da Assinatura Pro serão claramente delineados em nosso website ou plataforma.
+**Monthly Subscriptions:** Eligible for a refund request within 24 hours following the initial purchase. When applying, please provide the reason for your refund request.
 
-(c) Uma vez adquirida, a Assinatura Pro é intransferível e não pode ser compartilhada com outros.
+**Annual Subscriptions:** Refund requests can be made within 72 hours of the initial purchase. It's necessary to include the reason for your refund request in your application. Please note, no refunds will be issued for requests submitted beyond this timeframe.
 
-# Política de Não Reembolso
+In both subscription types, refunds are only possible if the user has not extensively used our translation services. This means that if a significant portion of the translation word count allocated for your subscription period has been used, you may not be eligible for a refund. We assess usage on a case-by-case basis to ensure fairness and to prevent abuse of our services. Please be prepared to provide details regarding your usage if requested.
 
-(a) Todas as vendas da Assinatura Pro são finais. O Immersive Translate não oferece reembolsos ou créditos para quaisquer compras da Assinatura Pro, incluindo, mas não se limitando a, situações onde:
+While we strictly enforce our policies, there may be instances where we are unable to process your refund due to discrepancies in your account. Our goal is to ensure our refund policy is equitable for all users.
 
-- O usuário muda de ideia após a compra.
-- O usuário não utiliza os benefícios da Assinatura Pro.
-- O usuário enfrenta problemas técnicos em seu dispositivo ou plataforma.
+Should you qualify for a refund, we aim to process it and notify you within 7-10 business days. However, it's important to understand that if you have previously been granted a refund for our services, we reserve the right to refuse additional refund requests. This exclusion is in place to prevent misuse of our refund system and to promote fair usage among our customers.
 
-(b) Se você encontrar dificuldades técnicas ao acessar os benefícios da Assinatura Pro, por favor, entre em contato com nossa equipe de suporte para assistência.
+**Refund Process:** If you believe you are eligible for a refund, please contact us at support@immersivetranslate.com. Our customer service team will review your request and guide you through the refund process.
 
-# Links para Outros Websites
+# Links to Other Websites
 
-Nosso Serviço pode conter links para sites ou serviços de terceiros que não são de propriedade ou controlados pela Empresa.
+Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.
 
-A Empresa não tem controle sobre, e não assume responsabilidade pelo conteúdo, políticas de privacidade, ou práticas de quaisquer sites ou serviços de terceiros. Você reconhece e concorda que a Empresa não será responsável ou passível, direta ou indiretamente, por qualquer dano ou perda causada ou alegadamente causada por ou em conexão com o uso ou confiança em qualquer tal conteúdo, bens ou serviços disponíveis em ou através de quaisquer sites ou serviços.
+The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
 
-Recomendamos fortemente que Você leia os termos e condições e políticas de privacidade de quaisquer sites ou serviços de terceiros que Você visite.
+We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
 
-# Rescisão
+# Termination
 
-Podemos rescindir ou suspender seu acesso imediatamente, sem aviso prévio ou responsabilidade, por qualquer motivo, incluindo, sem limitação, se Você violar estes Termos e Condições.
+We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
 
-Após a rescisão, seu direito de usar o Serviço cessará imediatamente.
+Upon termination, Your right to use the Service will cease immediately.
 
-# Limitação de Responsabilidade
+# Limitation of Liability
 
-Não obstante quaisquer danos que Você possa incorrer, a responsabilidade total da Empresa e de quaisquer de seus fornecedores sob qualquer disposição destes Termos e seu recurso exclusivo para todos os precedentes será limitada ao valor realmente pago por Você através do Serviço ou 100 USD se Você não tiver comprado os bens.
+Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.
 
-Na máxima extensão permitida pela lei aplicável, em nenhum caso a Empresa ou seus fornecedores serão responsáveis por quaisquer danos especiais, incidentais, indiretos ou consequenciais (incluindo, mas não se limitando a, danos por perda de lucros, perda de dados ou outras informações, por interrupção de negócios, por lesão pessoal, perda de privacidade resultante de ou de qualquer forma relacionada ao uso ou incapacidade de usar o Serviço, software de terceiros e/ou hardware de terceiros usado com o Serviço, ou de outra forma em conexão com qualquer disposição destes Termos), mesmo se a Empresa ou qualquer fornecedor tiver sido avisado da possibilidade de tais danos e mesmo se o recurso falhar em seu propósito essencial.
+To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
 
-Alguns estados não permitem a exclusão de garantias implícitas ou limitação de responsabilidade por danos incidentais ou consequenciais, o que significa que algumas das limitações acima podem não se aplicar. Nestes estados, a responsabilidade de cada parte será limitada na maior extensão permitida por lei.
+Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
 
-# Aviso de "COMO ESTÁ" e "CONFORME DISPONÍVEL"
+# "AS IS" and "AS AVAILABLE" Disclaimer
 
-O Serviço é fornecido a Você "COMO ESTÁ" e "CONFORME DISPONÍVEL" e com todas as falhas e defeitos sem garantia de qualquer tipo. Na máxima extensão permitida pela lei aplicável, a Empresa, em seu próprio nome e em nome de suas Afiliadas e seus respectivos licenciadores e prestadores de serviços, renuncia expressamente a todas as garantias, sejam expressas, implícitas, estatutárias ou outras, com respeito ao Serviço, incluindo todas as garantias implícitas de comercialização, adequação a um propósito específico, título e não violação, e garantias que possam surgir de curso de negociação, curso de desempenho, uso ou prática comercial. Sem limitação ao precedente, a Empresa não oferece garantia ou compromisso, e não faz representação de qualquer tipo que o Serviço atenderá seus requisitos, alcançará quaisquer resultados pretendidos, será compatível ou funcionará com qualquer outro software, aplicativos, sistemas ou serviços, operará sem interrupção, atenderá a qualquer padrão de desempenho ou confiabilidade ou estará livre de erros ou que quaisquer erros ou defeitos podem ou serão corrigidos.
+The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
 
-Sem limitar o precedente, nem a Empresa nem qualquer um dos fornecedores da empresa faz qualquer representação ou garantia de qualquer tipo, expressa ou implícita: (i) quanto à operação ou disponibilidade do Serviço, ou à informação, conteúdo e materiais ou produtos incluídos nele; (ii) que o Serviço será ininterrupto ou livre de erros; (iii) quanto à precisão, confiabilidade ou moeda de qualquer informação ou conteúdo fornecido através do Serviço; ou (iv) que o Serviço, seus servidores, o conteúdo ou e-mails enviados de ou em nome da Empresa estão livres de vírus, scripts, cavalos de Troia, vermes, malware, bombas-relógio ou outros componentes prejudiciais.
+Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
 
-Algumas jurisdições não permitem a exclusão de certos tipos de garantias ou limitações nos direitos estatutários aplicáveis de um consumidor, de modo que algumas ou todas as exclusões e limitações acima podem não se aplicar a Você. Mas, em tal caso, as exclusões e limitações estabelecidas nesta seção serão aplicadas na maior extensão exequível sob a lei aplicável.
+Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
 
-# Lei Aplicável
+# Governing Law
 
-As leis do País, excluindo suas regras de conflito de leis, regerão estes Termos e o uso do Serviço. Seu uso do Aplicativo também pode estar sujeito a outras leis locais, estaduais, nacionais ou internacionais.
+The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
 
-# Resolução de Disputas
+# Disputes Resolution
 
-Se Você tiver qualquer preocupação ou disputa sobre o Serviço, Você concorda em tentar resolver a disputa informalmente, entrando em contato com a Empresa primeiro.
+If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.
 
-# Para Usuários da União Europeia (UE)
+# For European Union (EU) Users
 
-Se Você for um consumidor da União Europeia, você se beneficiará de quaisquer disposições obrigatórias da lei do país em que você reside.
+If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.
 
-# Conformidade Legal dos Estados Unidos
+# United States Legal Compliance
 
-Você declara e garante que (i) Você não está localizado em um país que está sujeito a embargo do governo dos Estados Unidos, ou que foi designado pelo governo dos Estados Unidos como um país "apoiador do terrorismo", e (ii) Você não está listado em nenhuma lista do governo dos Estados Unidos de partes proibidas ou restritas.
+You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
 
-# Separabilidade e Renúncia
+# Severability and Waiver
 
-## Separabilidade
+## Severability
 
-Se qualquer disposição destes Termos for considerada inexequível ou inválida, tal disposição será alterada e interpretada para alcançar os objetivos de tal disposição na maior extensão possível sob a lei aplicável e as disposições restantes continuarão em pleno vigor e efeito.
+If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
 
-## Renúncia
+## Waiver
 
-Exceto conforme previsto aqui, a falha em exercer um direito ou exigir o cumprimento de uma obrigação sob estes Termos não afetará a capacidade de uma parte de exercer tal direito ou exigir tal cumprimento a qualquer momento depois, nem a renúncia de uma violação constituirá uma renúncia de qualquer violação subsequente.
+Except as provided herein, the failure to exercise a right or to require performance of an obligation under these Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall the waiver of a breach constitute a waiver of any subsequent breach.
 
-# Interpretação da Tradução
+# Translation Interpretation
 
-Estes Termos e Condições podem ter sido traduzidos se os disponibilizamos para Você em nosso Serviço.
-Você concorda que o texto original em inglês prevalecerá no caso de uma disputa.
+These Terms and Conditions may have been translated if We have made them available to You on our Service.
+You agree that the original English text shall prevail in the case of a dispute.
 
-# Alterações a Estes Termos e Condições
+# Changes to These Terms and Conditions
 
-Reservamo-nos o direito, a nosso exclusivo critério, de modificar ou substituir estes Termos a qualquer momento. Se uma revisão for material, faremos esforços razoáveis para fornecer pelo menos 30 dias de aviso antes de quaisquer novos termos entrarem em vigor. O que constitui uma mudança material será determinado a nosso exclusivo critério.
+We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
 
-Ao continuar a acessar ou usar nosso Serviço após essas revisões se tornarem efetivas, Você concorda em estar vinculado aos termos revisados. Se Você não concordar com os novos termos, no todo ou em parte, por favor, pare de usar o website e o Serviço.
+By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
 
-# Contate-nos
+# Contact Us
 
-Se você tiver alguma dúvida sobre estes Termos e Condições, você pode nos contatar:
+If you have any questions about these Terms and Conditions, You can contact us:
 
-- Por e-mail: support@immersivetranslate.com
+- By email: support@immersivetranslate.com
