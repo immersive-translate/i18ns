@@ -43,7 +43,7 @@ title: 介绍
 ## 目录
 
 - [官方网站](https://immersivetranslate.com/)
-- [安装](/docs/installation/)
+- [如何安装](/docs/installation/)
 - [如何使用](/docs/usage/)
 - [翻译服务申请](/docs/services/)
 - [高级自定义配置](/docs/advanced/)
@@ -55,7 +55,7 @@ title: 介绍
 - [了解用户小张在使用沉浸式翻译一个月后发生的变化](#%E7%94%A8%E6%88%B7%E5%B0%8F%E5%BC%A0%E7%9A%84%E6%95%85%E4%BA%8B)
 - [点这里](/docs/usecase/) 查看使用截图
 - [点此查看](/docs/review/) 用户的评价以及媒体报道
-- [Youtube 视频介绍](https://www.youtube.com/watch?v=IZiwEtLGTk0)
+- [视频介绍](https://s.immersivetranslate.com/assets/uploads/zh-cn-wS3AY2.mp4)
 
 ## 安装
 
@@ -65,11 +65,11 @@ title: 介绍
 - 谷歌 Chrome 浏览器：[Chrome 商店沉浸式翻译](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
 - Firefox 火狐浏览器：[Firefox Addon 商店沉浸式翻译](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/)
 
-> 如果你无法访问谷歌官方商店，可以直接下载[最新沉浸式翻译 Chrome 浏览器 zip 安装包](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip)， 下载后请先解压到一个常用的文件夹内，然后在地址栏输入：`chrome://extensions`，打开扩展管理窗口，然后启用“开发人员模式”，选择“加载解压缩的扩展”，选择刚刚解压后的文件夹载入即可安装成功。
+> 如果你无法访问谷歌官方商店，可以根据[离线安装包教程](https://immersivetranslate.com/zh-Hans/manual-chrome-extension/) 进行安装
 
 ### Safari
 
-- [点此进入苹果 App Store 商店安装](https://apps.apple.com/app/immersive-translate/id6447957425) **限时免费中!!!**
+- [点此进入苹果 App Store 商店安装](https://apps.apple.com/app/immersive-translate/id6447957425)
 
 <div align="center">
 <img src="https://immersivetranslate.com/assets/immersive-app-store.png" width="150" alt="app store qrcode" />

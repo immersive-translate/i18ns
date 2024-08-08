@@ -60,7 +60,7 @@ We have implemented distinct refund policies tailored to the type of subscriptio
 
 **Annual Subscriptions:** Refund requests can be made within 72 hours of the initial purchase. It's necessary to include the reason for your refund request in your application. Please note, no refunds will be issued for requests submitted beyond this timeframe.
 
-In both subscription types, refunds are only possible if the user has not extensively used our translation services. This means that if a significant portion of the translation word count allocated for your subscription period has been used, you may not be eligible for a refund. We assess usage on a case-by-case basis to ensure fairness and to prevent abuse of our services. Please be prepared to provide details regarding your usage if requested.
+In both subscription types, refunds are only possible if the user has not extensively used our translation services. This means that if a significant portion of the translation word count allocated for your subscription period has been used, you may not be eligible for a refund. We assess usage on a case-by-case basis to ensure fairness and to prevent abuse of our services.
 
 While we strictly enforce our policies, there may be instances where we are unable to process your refund due to discrepancies in your account. Our goal is to ensure our refund policy is equitable for all users.
 
