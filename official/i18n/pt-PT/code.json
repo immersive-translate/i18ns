@@ -1275,5 +1275,11 @@
   },
   "page.download.manga.subtitle": {
     "message": "Para atender às necessidades dos amantes de quadrinhos, lançamos uma nova ferramenta de tradução de quadrinhos. Seja para mangás japoneses ou obras de outros países, os usuários podem traduzir o texto dos quadrinhos para o idioma escolhido com apenas um clique, superando as barreiras linguísticas e tornando o acompanhamento de seus amados quadrinhos muito mais fácil e confortável. Esta tecnologia não apenas aumentou a eficiência da leitura, mas também enriqueceu enormemente a experiência de leitura dos usuários, permitindo que histórias fascinantes de diferentes contextos culturais ultrapassem as barreiras linguísticas e sejam compartilhadas por leitores ao redor do mundo."
+  },
+  "page.pricing.manga.title": {
+    "message": "Exclusivo para membros Pro <a href=\"/manga/\">tradução de manga</a>"
+  },
+  "page.pricing.manga.subtitle": {
+    "message": "Para satisfazer as necessidades dos entusiastas de banda desenhada, lançámos uma nova funcionalidade de tradução de banda desenhada. Quer sejam bandas desenhadas japonesas ou de outros países, os utilizadores podem traduzir rapidamente o texto nas bandas desenhadas para a língua escolhida com apenas um clique, tornando mais fácil e confortável acompanhar as suas bandas desenhadas favoritas."
   }
 }

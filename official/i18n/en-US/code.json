@@ -1314,5 +1314,11 @@
   },
   "page.index.getMembershipContext": {
     "message": "Get a free limited-time Pro membership for comics."
+  },
+  "page.pricing.manga.title": {
+    "message": "Pro members exclusive <a href=\"/manga/\">manga translation</a>"
+  },
+  "page.pricing.manga.subtitle": {
+    "message": "To meet the needs of comic enthusiasts, we have launched a brand new comic translation feature. Whether it's Japanese comics or comics from other countries, users can quickly translate the text in the comics into their chosen language with just one click, making it easier and more comfortable to follow their favorite comics."
   }
 }

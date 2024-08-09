@@ -1308,5 +1308,11 @@
   },
   "page.index.getMembershipContext": {
     "message": "期間限定で漫画Pro会員を無料で受け取る"
+  },
+  "page.pricing.manga.title": {
+    "message": "Pro会員限定<a href=\"/manga/\">漫画翻訳</a>"
+  },
+  "page.pricing.manga.subtitle": {
+    "message": "漫画ファンのニーズに応えるため、新しい漫画翻訳機能を導入しました。日本の漫画であれ他国の漫画作品であれ、ユーザーはボタン一つで漫画のテキストを選択した言語に素早く翻訳でき、愛読する漫画をもっと楽に楽しむことができます。"
   }
 }

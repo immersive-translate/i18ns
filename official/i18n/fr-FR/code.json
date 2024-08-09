@@ -1308,5 +1308,11 @@
   },
   "page.index.getMembershipContext": {
     "message": "Obtenez gratuitement l'abonnement Pro aux bandes dessinées pour une durée limitée."
+  },
+  "page.pricing.manga.title": {
+    "message": "Pro会员专享<a href=\"/manga/\">traduction de mangas</a>"
+  },
+  "page.pricing.manga.subtitle": {
+    "message": "Pour répondre aux besoins des nombreux amateurs de bandes dessinées, nous avons lancé une toute nouvelle fonctionnalité de traduction de bandes dessinées. Que ce soit pour des mangas japonais ou des bandes dessinées d'autres pays, les utilisateurs peuvent traduire les textes des bandes dessinées dans la langue de leur choix en un seul clic, rendant ainsi le suivi de leurs bandes dessinées préférées beaucoup plus facile et agréable."
   }
 }

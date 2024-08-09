@@ -1308,5 +1308,11 @@
   },
   "page.index.getMembershipContext": {
     "message": "Obtén gratis la membresía Pro de cómics por tiempo limitado."
+  },
+  "page.pricing.manga.title": {
+    "message": "Pro miembros exclusivos <a href=\"/manga/\">traducción de cómics</a>"
+  },
+  "page.pricing.manga.subtitle": {
+    "message": "Para satisfacer las necesidades de los aficionados al manga, hemos lanzado una nueva función de traducción de manga. Ya sea manga japonés o cómics de otros países, los usuarios pueden traducir rápidamente el texto del manga al idioma de su elección con solo pulsar un botón, haciendo que seguir sus mangas favoritos sea mucho más fácil y cómodo."
   }
 }

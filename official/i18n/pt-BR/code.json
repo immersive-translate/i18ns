@@ -1284,5 +1284,11 @@
   },
   "page.index.keywords": {
     "message": "Tradução imersiva, plugin de tradução imersiva, site oficial da tradução imersiva"
+  },
+  "page.pricing.manga.title": {
+    "message": "Exclusivo para membros Pro <a href=\"/manga/\">tradução de mangá</a>"
+  },
+  "page.pricing.manga.subtitle": {
+    "message": "Para atender às necessidades dos entusiastas de quadrinhos, lançamos um novo recurso de tradução de quadrinhos. Seja em quadrinhos japoneses ou de outros países, os usuários podem traduzir rapidamente o texto dos quadrinhos para o idioma escolhido com apenas um clique, tornando mais fácil e confortável acompanhar seus quadrinhos favoritos."
   }
 }

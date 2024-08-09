@@ -1308,5 +1308,11 @@
   },
   "page.index.getMembershipContext": {
     "message": "한정 시간 동안 무료로 만화 Pro 회원을 받으세요."
+  },
+  "page.pricing.manga.title": {
+    "message": "Pro 회원 전용 <a href=\"/manga/\">만화 번역</a>"
+  },
+  "page.pricing.manga.subtitle": {
+    "message": "만화 애호가들의 요구를 충족시키기 위해, 우리는 새로운 만화 번역 기능을 출시했습니다. 일본 만화든 다른 나라의 만화 작품이든, 사용자는 단 한 번의 클릭으로 만화 내의 텍스트를 선택한 언어로 빠르게 번역할 수 있어, 사랑하는 만화를 더욱 쉽고 편안하게 즐길 수 있습니다."
   }
 }
