@@ -42,7 +42,7 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/docs/macO
 
 ## Android
 
-Cliquez pour télécharger le [Navigateur Android Immersive Translate](/fr/android/), vous devez activer [Immersive Translate] manuellement dans [Extensions] après le téléchargement :
+Cliquez pour télécharger le [Navigateur Android Immersive Translate](/android/), vous devez activer [Immersive Translate] manuellement dans [Extensions] après le téléchargement :
 
 Vous pouvez également essayer d'installer Immersive Translate avec d'autres navigateurs Android, tels que ceux qui prennent en charge les extensions Firefox ou les extensions Chrome, comme
 

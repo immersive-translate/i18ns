@@ -68,7 +68,7 @@ Vous pouvez rester en contact avec nous à :
 
 ## Android
 
-Cliquez pour télécharger le [Navigateur Android Immersive Translate](/fr/android/), après le téléchargement, vous devez activer manuellement [Immersive Translate] dans [Extensions], veuillez consulter le tutoriel suivant :
+Cliquez pour télécharger le [Navigateur Android Immersive Translate](/android/), après le téléchargement, vous devez activer manuellement [Immersive Translate] dans [Extensions], veuillez consulter le tutoriel suivant :
 
 <!-- <video controls style={{width:"100%", maxWidth:"350px"}} src="https://s.immersivetranslate.com/videos/android-installation.mp4"></video> -->
 

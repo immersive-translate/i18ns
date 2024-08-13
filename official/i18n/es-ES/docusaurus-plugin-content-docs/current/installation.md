@@ -44,7 +44,7 @@ Note: The URLs and some technical terms have been left unchanged as they are uni
 
 ## Android
 
-Haz clic para descargar el [Navegador Android de Immersive Translate](/es/android/), necesitas activar [Immersive Translate] manualmente en [Extensiones] después de descargarlo:
+Haz clic para descargar el [Navegador Android de Immersive Translate](/android/), necesitas activar [Immersive Translate] manualmente en [Extensiones] después de descargarlo:
 
 Puedes intentar instalar Immersive Translate con otros navegadores de Android, como aquellos que soportan extensiones de Firefox o extensiones de Chrome, tales como
 

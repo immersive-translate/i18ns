@@ -45,7 +45,7 @@ Please note, while the text has been translated, the URLs and alt text for image
 
 ## Android
 
-Klicken Sie zum Herunterladen auf [Immersive Translate Android Browser](/de/android/), Sie müssen [Immersive Translate] manuell in [Erweiterungen] aktivieren, nachdem Sie es heruntergeladen haben:
+Klicken Sie zum Herunterladen auf [Immersive Translate Android Browser](/android/), Sie müssen [Immersive Translate] manuell in [Erweiterungen] aktivieren, nachdem Sie es heruntergeladen haben:
 
 Sie können versuchen, Immersive Translate auch mit anderen Android-Browsern zu installieren, wie solchen, die Firefox-Erweiterungen oder Chrome-Erweiterungen unterstützen, wie zum Beispiel
 

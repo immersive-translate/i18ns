@@ -111,7 +111,7 @@ Otros sitios se traducen, pero uno no.
 
 - Si este sitio tiene menos visitantes
   - Se sugiere traducir párrafos pasando el mouse por encima
-  - Si necesitas traducir todo el sitio puedes adaptarlo mediante [reglas de usuario](/es/docs/advanced/#user-rules)
+  - Si necesitas traducir todo el sitio puedes adaptarlo mediante [reglas de usuario](/docs/advanced/#user-rules)
 - Si este sitio es utilizado por muchas personas
   - Puedes empezar pasando el mouse por encima para hacer uso de la traducción
   - Mencionalo en el grupo y será adaptado más adelante

@@ -110,7 +110,7 @@ D'autres sites traduisent, mais pas un site en particulier.
 
 - Si ce site a moins de visiteurs
   - Paragraphes suggérés à traduire en survolant avec la souris
-  - Si vous avez besoin de traduire tout le site, vous pouvez l'adapter via [règles utilisateur](/fr/docs/advanced/#user-rules)
+  - Si vous avez besoin de traduire tout le site, vous pouvez l'adapter via [règles utilisateur](/docs/advanced/#user-rules)
 - Si ce site est utilisé par beaucoup de personnes
   - Vous pouvez commencer par survoler avec la souris pour utiliser la traduction
   - Appelez-le dans le groupe et il sera adapté plus tard
