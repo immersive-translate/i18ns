@@ -1064,25 +1064,25 @@
     "message": "すぐにダウンロードしてください"
   },
   "page.index.downloadBtn.installExtension": {
-    "message": "プラグインをインストールする"
+    "message": "Install browser plugin"
   },
   "page.index.downloadBtn.orUseOnMobile": {
-    "message": "またはスマホで直接的に使用する"
+    "message": "Or use it directly on the mobile phone."
   },
   "page.index.downloadBtn.useOnMobile": {
-    "message": "スマホで使用する"
+    "message": "Using on the mobile phone"
   },
   "page.index.downloadBtn.macSafari": {
-    "message": "Mac Safari拡張機能"
+    "message": "Mac Safari"
   },
   "page.index.downloadBtn.iosSafari": {
-    "message": "iOS Safari拡張機能"
+    "message": "iOS Safari"
   },
   "page.index.downloadBtn.iosSafariExtension.tag": {
-    "message": "手動で操作"
+    "message": "Enabled Manually"
   },
   "page.features.videoSubtitle.content.allSupportSite": {
-    "message": "全プラットフォームに対応可能"
+    "message": "All Supported Sites"
   },
   "pro.introduction.title": {
     "message": "あなたの {{pdf}} ドキュメント翻訳体験を {{ai}} で再構築してください"
@@ -1314,5 +1314,11 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "漫画ファンのニーズに応えるため、新しい漫画翻訳機能を導入しました。日本の漫画であれ他国の漫画作品であれ、ユーザーはボタン一つで漫画のテキストを選択した言語に素早く翻訳でき、愛読する漫画をもっと楽に楽しむことができます。"
+  },
+  "page.pricing.header.onboarding.video.src": {
+    "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-en-NlkG5c.mp4"
+  },
+  "page.pricing.header.onboarding.video.poster": {
+    "message": "https://s.immersivetranslate.com/static/official-static/assets/price/video-poster-en.png"
   }
 }

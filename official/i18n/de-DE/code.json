@@ -447,7 +447,7 @@
     "message": "Android apk"
   },
   "page.index.downloadBtn.android": {
-    "message": "Android-Browser herunterladen"
+    "message": "Android Browser"
   },
   "page.index.supportservice.title": {
     "message": "10+ Unterstützte Übersetzungsdienste"
@@ -1064,25 +1064,25 @@
     "message": "Sofort herunterladen"
   },
   "page.index.downloadBtn.installExtension": {
-    "message": "Installieren Sie das Browser-Plugin"
+    "message": "Install browser plugin"
   },
   "page.index.downloadBtn.orUseOnMobile": {
-    "message": "Oder verwenden Sie es direkt auf Ihrem Handy."
+    "message": "Or use it directly on the mobile phone."
   },
   "page.index.downloadBtn.useOnMobile": {
-    "message": "Auf dem Handy verwenden"
+    "message": "Using on the mobile phone"
   },
   "page.index.downloadBtn.macSafari": {
-    "message": "Mac Safari Erweiterungen"
+    "message": "Mac Safari"
   },
   "page.index.downloadBtn.iosSafari": {
-    "message": "iOS Safari Erweiterungen"
+    "message": "iOS Safari"
   },
   "page.index.downloadBtn.iosSafariExtension.tag": {
-    "message": "Muss manuell aktiviert werden"
+    "message": "Enabled Manually"
   },
   "page.features.videoSubtitle.content.allSupportSite": {
-    "message": "Alle unterstützten Plattformen anzeigen"
+    "message": "All Supported Sites"
   },
   "pro.introduction.title": {
     "message": "Verwenden Sie {{ai}}, um Ihre {{pdf}} Dokumentübersetzungserfahrung neu zu gestalten."
@@ -1314,5 +1314,11 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "Um den Bedürfnissen der zahlreichen Comic-Fans gerecht zu werden, haben wir eine brandneue Comic-Übersetzungsfunktion eingeführt. Ob es sich um japanische Comics oder Comics aus anderen Ländern handelt, die Benutzer können mit nur einem Klick den Text in den Comics schnell in die von ihnen gewählte Sprache übersetzen lassen, was das Verfolgen ihrer geliebten Comics viel einfacher und bequemer macht."
+  },
+  "page.pricing.header.onboarding.video.src": {
+    "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-en-NlkG5c.mp4"
+  },
+  "page.pricing.header.onboarding.video.poster": {
+    "message": "https://s.immersivetranslate.com/static/official-static/assets/price/video-poster-en.png"
   }
 }

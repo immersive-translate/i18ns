@@ -447,7 +447,7 @@
     "message": "안드로이드 앱"
   },
   "page.index.downloadBtn.android": {
-    "message": "안드로이드 브라우저 다운로드"
+    "message": "Android Browser"
   },
   "page.index.supportservice.title": {
     "message": "10개 이상의 번역 서비스 지원"
@@ -1064,25 +1064,25 @@
     "message": "즉시 다운로드"
   },
   "page.index.downloadBtn.installExtension": {
-    "message": "브라우저 플러그인 설치"
+    "message": "Install browser plugin"
   },
   "page.index.downloadBtn.orUseOnMobile": {
-    "message": "혹은 바로 휴대폰에서 사용하세요."
+    "message": "Or use it directly on the mobile phone."
   },
   "page.index.downloadBtn.useOnMobile": {
-    "message": "휴대폰에서 사용하기"
+    "message": "Using on the mobile phone"
   },
   "page.index.downloadBtn.macSafari": {
-    "message": "Mac Safari 확장 기능"
+    "message": "Mac Safari"
   },
   "page.index.downloadBtn.iosSafari": {
-    "message": "iOS Safari 확장 기능"
+    "message": "iOS Safari"
   },
   "page.index.downloadBtn.iosSafariExtension.tag": {
-    "message": "수동으로 활성화해야 합니다"
+    "message": "Enabled Manually"
   },
   "page.features.videoSubtitle.content.allSupportSite": {
-    "message": "지원되는 모든 플랫폼 확인"
+    "message": "All Supported Sites"
   },
   "pro.introduction.title": {
     "message": "{{ai}}를 사용하여 당신의 {{pdf}} 문서 번역 경험을 재구성하십시오."
@@ -1314,5 +1314,11 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "만화 애호가들의 요구를 충족시키기 위해, 우리는 새로운 만화 번역 기능을 출시했습니다. 일본 만화든 다른 나라의 만화 작품이든, 사용자는 단 한 번의 클릭으로 만화 내의 텍스트를 선택한 언어로 빠르게 번역할 수 있어, 사랑하는 만화를 더욱 쉽고 편안하게 즐길 수 있습니다."
+  },
+  "page.pricing.header.onboarding.video.src": {
+    "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-en-NlkG5c.mp4"
+  },
+  "page.pricing.header.onboarding.video.poster": {
+    "message": "https://s.immersivetranslate.com/static/official-static/assets/price/video-poster-en.png"
   }
 }

@@ -447,7 +447,7 @@
     "message": "Android APK"
   },
   "page.index.downloadBtn.android": {
-    "message": "Navegador Android"
+    "message": "Android Browser"
   },
   "page.index.supportservice.title": {
     "message": "Suporta mais de 10 serviços de tradução"
@@ -1061,13 +1061,13 @@
     "message": "Baixar agora"
   },
   "page.index.downloadBtn.installExtension": {
-    "message": "Instalar plugin do navegador"
+    "message": "Install browser plugin"
   },
   "page.index.downloadBtn.orUseOnMobile": {
-    "message": "Ou use diretamente no celular."
+    "message": "Or use it directly on the mobile phone."
   },
   "page.index.downloadBtn.useOnMobile": {
-    "message": "Usando no celular"
+    "message": "Using on the mobile phone"
   },
   "page.index.downloadBtn.macSafari": {
     "message": "Mac Safari"
@@ -1076,10 +1076,10 @@
     "message": "iOS Safari"
   },
   "page.index.downloadBtn.iosSafariExtension.tag": {
-    "message": "Ativado Manualmente"
+    "message": "Enabled Manually"
   },
   "page.features.videoSubtitle.content.allSupportSite": {
-    "message": "Todos os Sites Suportados"
+    "message": "All Supported Sites"
   },
   "pro.introduction.title": {
     "message": "Reformule sua experiência de tradução de documentos {{pdf}} com {{ai}}."

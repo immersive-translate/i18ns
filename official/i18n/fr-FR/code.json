@@ -447,7 +447,7 @@
     "message": "Android apk"
   },
   "page.index.downloadBtn.android": {
-    "message": "Téléchargement du navigateur Android"
+    "message": "Android Browser"
   },
   "page.index.supportservice.title": {
     "message": "Prise en charge de plus de 10 services de traduction"
@@ -1064,25 +1064,25 @@
     "message": "Téléchargez immédiatement"
   },
   "page.index.downloadBtn.installExtension": {
-    "message": "Installer le plugin du navigateur"
+    "message": "Install browser plugin"
   },
   "page.index.downloadBtn.orUseOnMobile": {
-    "message": "Ou utilisez-le directement sur votre téléphone portable."
+    "message": "Or use it directly on the mobile phone."
   },
   "page.index.downloadBtn.useOnMobile": {
-    "message": "Utiliser sur le téléphone"
+    "message": "Using on the mobile phone"
   },
   "page.index.downloadBtn.macSafari": {
-    "message": "Extension Safari Mac"
+    "message": "Mac Safari"
   },
   "page.index.downloadBtn.iosSafari": {
-    "message": "Extension Safari iOS"
+    "message": "iOS Safari"
   },
   "page.index.downloadBtn.iosSafariExtension.tag": {
-    "message": "Doit être activé manuellement"
+    "message": "Enabled Manually"
   },
   "page.features.videoSubtitle.content.allSupportSite": {
-    "message": "Voir toutes les plateformes prises en charge"
+    "message": "All Supported Sites"
   },
   "pro.introduction.title": {
     "message": "Utilisez {{ai}} pour remodeler votre expérience de traduction de documents {{pdf}}"
@@ -1314,5 +1314,11 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "Pour répondre aux besoins des nombreux amateurs de bandes dessinées, nous avons lancé une toute nouvelle fonctionnalité de traduction de bandes dessinées. Que ce soit pour des mangas japonais ou des bandes dessinées d'autres pays, les utilisateurs peuvent traduire les textes des bandes dessinées dans la langue de leur choix en un seul clic, rendant ainsi le suivi de leurs bandes dessinées préférées beaucoup plus facile et agréable."
+  },
+  "page.pricing.header.onboarding.video.src": {
+    "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-en-NlkG5c.mp4"
+  },
+  "page.pricing.header.onboarding.video.poster": {
+    "message": "https://s.immersivetranslate.com/static/official-static/assets/price/video-poster-en.png"
   }
 }

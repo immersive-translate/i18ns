@@ -447,7 +447,7 @@
     "message": "Android apk"
   },
   "page.index.downloadBtn.android": {
-    "message": "Скачать браузер для Android"
+    "message": "Android Browser"
   },
   "page.index.supportservice.title": {
     "message": "Поддерживается 10+ переводческих сервисов"
@@ -1064,25 +1064,25 @@
     "message": "скачать сейчас"
   },
   "page.index.downloadBtn.installExtension": {
-    "message": "Установите браузерное расширение"
+    "message": "Install browser plugin"
   },
   "page.index.downloadBtn.orUseOnMobile": {
-    "message": "или просто используйте на мобильном телефоне"
+    "message": "Or use it directly on the mobile phone."
   },
   "page.index.downloadBtn.useOnMobile": {
-    "message": "использовать на мобильном"
+    "message": "Using on the mobile phone"
   },
   "page.index.downloadBtn.macSafari": {
-    "message": "Mac Safari расширения"
+    "message": "Mac Safari"
   },
   "page.index.downloadBtn.iosSafari": {
-    "message": "iOS Safari расширения"
+    "message": "iOS Safari"
   },
   "page.index.downloadBtn.iosSafariExtension.tag": {
-    "message": "Требуется вручную включить"
+    "message": "Enabled Manually"
   },
   "page.features.videoSubtitle.content.allSupportSite": {
-    "message": "Просмотреть все поддерживаемые платформы"
+    "message": "All Supported Sites"
   },
   "pro.introduction.title": {
     "message": "Используйте {{ai}} для переосмысления вашего опыта перевода документов {{pdf}}"
@@ -1314,5 +1314,11 @@
   },
   "page.index.getTip": {
     "message": "Это мероприятие предназначено только для новых пользователей и может быть использовано только один раз."
+  },
+  "page.pricing.header.onboarding.video.src": {
+    "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-en-NlkG5c.mp4"
+  },
+  "page.pricing.header.onboarding.video.poster": {
+    "message": "https://s.immersivetranslate.com/static/official-static/assets/price/video-poster-en.png"
   }
 }

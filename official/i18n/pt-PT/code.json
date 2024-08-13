@@ -1064,25 +1064,25 @@
     "message": "Baixe agora"
   },
   "page.index.downloadBtn.installExtension": {
-    "message": "Instalar o plugin do navegador"
+    "message": "Install browser plugin"
   },
   "page.index.downloadBtn.orUseOnMobile": {
-    "message": "Ou use diretamente no celular."
+    "message": "Or use it directly on the mobile phone."
   },
   "page.index.downloadBtn.useOnMobile": {
-    "message": "Usar no celular"
+    "message": "Using on the mobile phone"
   },
   "page.index.downloadBtn.macSafari": {
-    "message": "Extensões do Safari para Mac"
+    "message": "Mac Safari"
   },
   "page.index.downloadBtn.iosSafari": {
-    "message": "Extensões do Safari iOS"
+    "message": "iOS Safari"
   },
   "page.index.downloadBtn.iosSafariExtension.tag": {
-    "message": "Precisa ser ativado manualmente"
+    "message": "Enabled Manually"
   },
   "page.features.videoSubtitle.content.allSupportSite": {
-    "message": "Ver todas as plataformas suportadas"
+    "message": "All Supported Sites"
   },
   "pro.introduction.title": {
     "message": "Use {{ai}} para remodelar sua experiência de tradução de documentos {{pdf}}"
@@ -1314,5 +1314,11 @@
   },
   "page.index.getTip": {
     "message": "O evento é apenas para novos utilizadores e só pode ser reclamado uma vez."
+  },
+  "page.pricing.header.onboarding.video.src": {
+    "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-en-NlkG5c.mp4"
+  },
+  "page.pricing.header.onboarding.video.poster": {
+    "message": "https://s.immersivetranslate.com/static/official-static/assets/price/video-poster-en.png"
   }
 }

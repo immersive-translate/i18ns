@@ -447,7 +447,7 @@
     "message": "Android apk"
   },
   "page.index.downloadBtn.android": {
-    "message": "متصفح أندرويد"
+    "message": "Android Browser"
   },
   "page.index.supportservice.title": {
     "message": "يدعم أكثر من 10 خدمات للترجمة"
@@ -1064,25 +1064,25 @@
     "message": "حمّل الآن"
   },
   "page.index.downloadBtn.installExtension": {
-    "message": "تثبيت الملحق للمتصفح"
+    "message": "Install browser plugin"
   },
   "page.index.downloadBtn.orUseOnMobile": {
-    "message": "أو استخدمه مباشرة على الهاتف المحمول."
+    "message": "Or use it directly on the mobile phone."
   },
   "page.index.downloadBtn.useOnMobile": {
-    "message": "استخدام عن طريق الهاتف المحمول"
+    "message": "Using on the mobile phone"
   },
   "page.index.downloadBtn.macSafari": {
-    "message": "Mac سفاري"
+    "message": "Mac Safari"
   },
   "page.index.downloadBtn.iosSafari": {
-    "message": "iOS سفاري"
+    "message": "iOS Safari"
   },
   "page.index.downloadBtn.iosSafariExtension.tag": {
-    "message": "مُفعل يدويًا"
+    "message": "Enabled Manually"
   },
   "page.features.videoSubtitle.content.allSupportSite": {
-    "message": "جميع المواقع المدعومة"
+    "message": "All Supported Sites"
   },
   "pro.introduction.title": {
     "message": "استخدم {{ai}} لإعادة تشكيل تجربة ترجمة مستندات {{pdf}} الخاصة بك"
@@ -1314,5 +1314,11 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "لتلبية احتياجات عشاق القصص المصورة، أطلقنا ميزة ترجمة القصص المصورة الجديدة. سواء كانت القصص المصورة اليابانية أو قصص من دول أخرى، يمكن للمستخدمين بنقرة واحدة فقط ترجمة النصوص الموجودة في القصص المصورة إلى اللغة التي يختارونها، مما يجعل متابعة القصص المصورة المفضلة أسهل وأكثر راحة."
+  },
+  "page.pricing.header.onboarding.video.src": {
+    "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-en-NlkG5c.mp4"
+  },
+  "page.pricing.header.onboarding.video.poster": {
+    "message": "https://s.immersivetranslate.com/static/official-static/assets/price/video-poster-en.png"
   }
 }

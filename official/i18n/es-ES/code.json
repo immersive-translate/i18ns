@@ -447,7 +447,7 @@
     "message": "Android apk"
   },
   "page.index.downloadBtn.android": {
-    "message": "Navegador Android Descargar"
+    "message": "Android Browser"
   },
   "page.index.supportservice.title": {
     "message": "Más de 10 servicios de traducción compatibles"
@@ -1064,13 +1064,13 @@
     "message": "Descargar ahora"
   },
   "page.index.downloadBtn.installExtension": {
-    "message": "Instalar el plugin del navegador"
+    "message": "Install browser plugin"
   },
   "page.index.downloadBtn.orUseOnMobile": {
-    "message": "O úselo directamente en el teléfono móvil."
+    "message": "Or use it directly on the mobile phone."
   },
   "page.index.downloadBtn.useOnMobile": {
-    "message": "Usar en el móvil"
+    "message": "Using on the mobile phone"
   },
   "page.index.downloadBtn.macSafari": {
     "message": "Mac Safari"
@@ -1079,10 +1079,10 @@
     "message": "iOS Safari"
   },
   "page.index.downloadBtn.iosSafariExtension.tag": {
-    "message": "Activar manualmente"
+    "message": "Enabled Manually"
   },
   "page.features.videoSubtitle.content.allSupportSite": {
-    "message": "Ver todas las plataformas compatibles"
+    "message": "All Supported Sites"
   },
   "pro.introduction.title": {
     "message": "Utiliza {{ai}} para remodelar tu experiencia de traducción de documentos {{pdf}}"
@@ -1314,5 +1314,11 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "Para satisfacer las necesidades de los aficionados al manga, hemos lanzado una nueva función de traducción de manga. Ya sea manga japonés o cómics de otros países, los usuarios pueden traducir rápidamente el texto del manga al idioma de su elección con solo pulsar un botón, haciendo que seguir sus mangas favoritos sea mucho más fácil y cómodo."
+  },
+  "page.pricing.header.onboarding.video.src": {
+    "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-en-NlkG5c.mp4"
+  },
+  "page.pricing.header.onboarding.video.poster": {
+    "message": "https://s.immersivetranslate.com/static/official-static/assets/price/video-poster-en.png"
   }
 }
