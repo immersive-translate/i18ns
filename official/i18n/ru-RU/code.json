@@ -420,34 +420,22 @@
     "message": "Вы можете<b>использовать его для перевода иноязычных веб-страниц,<a href=\"{pdfUrl}\">PDF-документов</a>,<a target=\"_blank\" href=\"{epubUrl}\">ePub электронных книг</a>, файлов субтитров и т.д. в режиме реального времени, совершенно бесплатно</b>.<br />Вы также можете использовать его на своем мобильном телефоне в любое время и в любом месте.<b>действительно поможет вам преодолеть информационные барьеры. Выберите платформу ниже и начните пользоваться</b>немедленно :)"
   },
   "page.index.downloadBtn.edge": {
-    "message": {
-      "message": "Edge"
-    }
+    "message": "Edge"
   },
   "page.index.downloadBtn.chrome": {
-    "message": {
-      "message": "Chrome"
-    }
+    "message": "Chrome"
   },
   "page.index.downloadBtn.firefox": {
-    "message": {
-      "message": "Firefox"
-    }
+    "message": "Firefox"
   },
   "page.index.downloadBtn.safari": {
-    "message": {
-      "message": "Safari"
-    }
+    "message": "Safari"
   },
   "page.index.downloadBtn.userscript": {
-    "message": {
-      "message": "Tampermonkey"
-    }
+    "message": "Tampermonkey"
   },
   "page.index.downloadBtn.zip": {
-    "message": {
-      "message": "Zip Installer"
-    }
+    "message": "Zip Installer"
   },
   "page.index.downloadBtn.iosBrowser.tag": {
     "message": "Built-in Extension"

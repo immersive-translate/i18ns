@@ -420,34 +420,22 @@
     "message": "몰입형 번역을 통해 완전히 무료로 외국어 웹사이트, PDF 문서, EPUB 전자책을 번역하며 이중 언어 자막을 생성할 수 있습니다. 또한 해당 내용을 번역하는 데 OpenAI (ChatGPT), DeepL, Gemini 등과 같은 인공 지능 엔진을 자유롭게 선택할 수 있습니다. 스마트폰에서의 편리한 사용도 가능해 언제 어디서나 정보의 장벽을 허물 수 있습니다. 아래 플랫폼을 선택하여 즉시 경험해 보세요:) "
   },
   "page.index.downloadBtn.edge": {
-    "message": {
-      "message": "Edge"
-    }
+    "message": "Edge"
   },
   "page.index.downloadBtn.chrome": {
-    "message": {
-      "message": "Chrome"
-    }
+    "message": "Chrome"
   },
   "page.index.downloadBtn.firefox": {
-    "message": {
-      "message": "Firefox"
-    }
+    "message": "Firefox"
   },
   "page.index.downloadBtn.safari": {
-    "message": {
-      "message": "Safari"
-    }
+    "message": "Safari"
   },
   "page.index.downloadBtn.userscript": {
-    "message": {
-      "message": "Tampermonkey"
-    }
+    "message": "Tampermonkey"
   },
   "page.index.downloadBtn.zip": {
-    "message": {
-      "message": "Zip Installer"
-    }
+    "message": "Zip Installer"
   },
   "page.index.downloadBtn.iosBrowser.tag": {
     "message": "Built-in Extension"

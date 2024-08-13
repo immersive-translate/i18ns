@@ -420,34 +420,22 @@
     "message": "Puede<b> utilizarlo para traducir páginas web en idiomas extranjeros,<a href=\"{pdfUrl}\"> documentos PDF</a>,<a target=\"_blank\" href=\"{epubUrl}\"> ePub, eBooks</a>, archivos de subtítulos y así sucesivamente en tiempo real, de forma totalmente gratuita</b>.<br />También puede utilizarlo en su teléfono móvil en cualquier momento y en cualquier lugar.<b> Realmente le ayuda a romper las barreras de la información, elija la plataforma a continuación y comience a experimentar</b> inmediatamente :"
   },
   "page.index.downloadBtn.edge": {
-    "message": {
-      "message": "Edge"
-    }
+    "message": "Edge"
   },
   "page.index.downloadBtn.chrome": {
-    "message": {
-      "message": "Chrome"
-    }
+    "message": "Chrome"
   },
   "page.index.downloadBtn.firefox": {
-    "message": {
-      "message": "Firefox"
-    }
+    "message": "Firefox"
   },
   "page.index.downloadBtn.safari": {
-    "message": {
-      "message": "Safari"
-    }
+    "message": "Safari"
   },
   "page.index.downloadBtn.userscript": {
-    "message": {
-      "message": "Tampermonkey"
-    }
+    "message": "Tampermonkey"
   },
   "page.index.downloadBtn.zip": {
-    "message": {
-      "message": "Zip Installer"
-    }
+    "message": "Zip Installer"
   },
   "page.index.downloadBtn.iosBrowser.tag": {
     "message": "Built-in Extension"

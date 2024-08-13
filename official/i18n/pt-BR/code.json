@@ -420,34 +420,22 @@
     "message": "Um serviço de tradução gratuito para sites em idiomas estrangeiros, documentos PDF, eBook EPUB ou até mesmo para gerar legendas bilíngues para vídeos.<br />Além disso, você tem a liberdade de selecionar entre vários mecanismos de inteligência artificial, como OpenAI (ChatGPT), DeepL, Gemini, para traduzir seu conteúdo.<br />Também está convenientemente disponível em seu smartphone, permitindo que você quebre barreiras de informação a qualquer hora e em qualquer lugar. Basta escolher a plataforma abaixo para iniciar sua experiência imediatamente."
   },
   "page.index.downloadBtn.edge": {
-    "message": {
-      "message": "Edge"
-    }
+    "message": "Edge"
   },
   "page.index.downloadBtn.chrome": {
-    "message": {
-      "message": "Chrome"
-    }
+    "message": "Chrome"
   },
   "page.index.downloadBtn.firefox": {
-    "message": {
-      "message": "Firefox"
-    }
+    "message": "Firefox"
   },
   "page.index.downloadBtn.safari": {
-    "message": {
-      "message": "Safari"
-    }
+    "message": "Safari"
   },
   "page.index.downloadBtn.userscript": {
-    "message": {
-      "message": "Tampermonkey"
-    }
+    "message": "Tampermonkey"
   },
   "page.index.downloadBtn.zip": {
-    "message": {
-      "message": "Zip Installer"
-    }
+    "message": "Zip Installer"
   },
   "page.index.downloadBtn.iosBrowser.tag": {
     "message": "Extensão Embutida"
