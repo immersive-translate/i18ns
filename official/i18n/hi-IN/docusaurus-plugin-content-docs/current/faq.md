@@ -47,7 +47,7 @@ sidebar_position: 9
 
 आम तौर पर, ब्राउज़र स्टोर में स्थापित एक्सटेंशन, ब्राउज़र अपने आप अपडेट हो जाएगा, एक्सटेंशन अपडेट के एक दिन के भीतर सामान्य स्थिति में अपने आप अपडेट हो जाएगा, यदि आप तुरंत नवीनतम संस्करण में अपडेट करना चाहते हैं, तो आप ब्राउज़र के [एक्सटेंशन प्रबंधन] पृष्ठ पर, [डेवलपर मोड] खोल सकते हैं, और फिर ऊपर के [अपडेट्स] पर क्लिक करके, आप तुरंत स्टोर के नवीनतम संस्करण में अपडेट कर सकते हैं।
 
-![](/assets/docs/doc-assets/update-extension.png)## यूट्यूब उपशीर्षक सेटअप शैली
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/update-extension.png)## यूट्यूब उपशीर्षक सेटअप शैली
 
 आप यूट्यूब की अपनी उपशीर्षक सेटिंग्स पर क्लिक कर सकते हैं, [विकल्प], और फिर आप आकार, रंग आदि को समायोजित कर सकते हैं।
 
@@ -88,7 +88,7 @@ sidebar_position: 9
 
 आपको वेब पेज में "सेव एज" पर राइट क्लिक करना होगा या वेब पेज में ctrl+s शॉर्टकट का उपयोग करना होगा, सेव विकल्प के लिए सिंगल फाइल चुनें, और अंत में फाइल फॉर्मेट .mht/.mhtml होगा। फिर फाइल को support@immersivetranslate.com पर भेजें।
 
-<!-- ![save mht](/assets/save_mht.png) -->
+<!-- ![save mht](https://s.immersivetranslate.com/static/official-static/assets/save_mht.png) -->
 
 ## कलर क्लाउड अनुवाद त्रुटि
 
@@ -145,7 +145,7 @@ sidebar_position: 9
 
 आपको ओपेरा प्लगइन सेटिंग्स में "Immersive Translate" ढूँढना होगा और "खोज पृष्ठ परिणामों तक पहुँच की अनुमति दें" विकल्प को चालू करना होगा।
 
-<!-- ![](/assets/opera-allow-search.png) -->
+<!-- ![](https://s.immersivetranslate.com/static/official-static/assets/opera-allow-search.png) -->
 
 ## यूट्यूब द्विभाषी उपशीर्षक पारंपरिक चीनी में प्रदर्शित नहीं होते
 

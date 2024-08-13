@@ -16,7 +16,7 @@ sidebar_position: 4
 <!--
 ## تحريك لضبط صندوق الترجمة
 
-![](/assets/docs/doc-assets/pdf-move.png) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-move.png) -->
 
 ### تعديل الصندوق
 
@@ -38,7 +38,7 @@ sidebar_position: 4
 
 ## أزرار التحكم بالأسلوب
 
-![](/assets/docs/doc-assets/pdf-control.png) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-control.png) -->
 
 ### وضع القافلة
 
@@ -88,7 +88,7 @@ sidebar_position: 4
 
 انقر على أيقونة التنزيل في الزاوية العلوية اليمنى
 
-![](/assets/docs/doc-assets/pdf-download.png) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-download.png) -->
 
 بما أن أداتنا تعتمد على المتصفح، فإن سرعات التنزيل والنتائج تعتمد بشكل كبير على المتصفح نفسه. لذلك، يُنصح بعدم التعامل مع أكثر من 300 صفحة PDF.
 

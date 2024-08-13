@@ -49,7 +49,7 @@ Wenn Sie Chrome-ähnliche Browser verwenden, wie (Chrome, Arc, Edge-Browser), gi
 
 Allgemein gesprochen werden Erweiterungen, die im Browser-Store installiert sind, automatisch aktualisiert, normalerweise wird die Erweiterung innerhalb eines Tages nach dem Update automatisch aktualisiert. Wenn Sie sofort auf die neueste Version aktualisieren möchten, können Sie auf der Seite [Erweiterungsverwaltung] des Browsers den [Entwicklermodus] öffnen und dann oben auf [Updates] klicken, um sofort auf die neueste Version im Store zu aktualisieren.
 
-![](/assets/docs/doc-assets/update-extension.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/update-extension.png)
 
 ## Youtube-Untertiteleinstellungen
 
@@ -94,7 +94,7 @@ Die Erweiterung selbst wird regelmäßig mit den neuesten offiziellen Website-An
 
 Sie müssen mit der rechten Maustaste auf "Speichern unter" klicken oder die Tastenkombination Strg+S im Web verwenden, als Speicheroption eine einzelne Datei wählen und schließlich ist das Dateiformat .mht/.mhtml. Senden Sie dann die Datei an support@immersivetranslate.com
 
-<!-- ![save mht](/assets/save_mht.png) -->
+<!-- ![save mht](https://s.immersivetranslate.com/static/official-static/assets/save_mht.png) -->
 
 ## Fehler bei der Farbwolkenübersetzung
 
@@ -154,7 +154,7 @@ Nur der 360 Extreme Browser x wird unterstützt, denken Sie daran, es ist mit x.
 
 Sie müssen "Immersive Translate" in den Opera-Plugin-Einstellungen finden und die Option "Zugriff auf Suchseitenergebnisse erlauben" aktivieren.
 
-<!-- ![](/assets/opera-allow-search.png) -->
+<!-- ![](https://s.immersivetranslate.com/static/official-static/assets/opera-allow-search.png) -->
 
 ## YouTube zweisprachige Untertitel in traditionellem Chinesisch werden nicht angezeigt
 

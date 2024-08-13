@@ -48,7 +48,7 @@ Se stai utilizzando browser simili a Chrome, come (Chrome, Arc, browser Edge), c
 
 Generalmente parlando, le estensioni installate dallo store del browser verranno aggiornate automaticamente, la situazione generale sarà aggiornata automaticamente entro un giorno dall'aggiornamento dell'estensione, se vuoi aggiornare immediatamente alla versione più recente, puoi nella pagina [Gestione Estensioni] del browser, aprire la [Modalità Sviluppatore], e poi cliccare in alto su [Aggiornamenti], puoi immediatamente aggiornare alla versione più recente dello store.
 
-![](/assets/docs/doc-assets/update-extension.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/update-extension.png)
 
 ## Impostazioni dei sottotitoli su Youtube
 
@@ -87,7 +87,7 @@ L'estensione si sincronizzerà regolarmente con le ultime regole di adattamento 
 
 Devi fare clic destro su "Salva con nome" o usare la scorciatoia ctrl+s nella pagina web, scegliere l'opzione di salvataggio file singolo, e infine il formato del file è .mht/.mhtml. Poi invia il file a support@immersivetranslate.com
 
-<!-- ![save mht](/assets/save_mht.png) -->
+<!-- ![save mht](https://s.immersivetranslate.com/static/official-static/assets/save_mht.png) -->
 
 ## Errore nella Traduzione di Color Cloud
 
@@ -147,7 +147,7 @@ Apri [Pagina delle Impostazioni] - [Impostazioni Interfaccia] e disattiva [Mostr
 
 Devi trovare "Immersive Translate" nelle impostazioni dei plugin di Opera e attivare l'opzione "Consenti l'accesso ai risultati delle pagine di ricerca".
 
-<!-- ![](/assets/opera-allow-search.png) -->
+<!-- ![](https://s.immersivetranslate.com/static/official-static/assets/opera-allow-search.png) -->
 
 ## Sottotitoli bilingui in cinese tradizionale su YouTube non visualizzati
 

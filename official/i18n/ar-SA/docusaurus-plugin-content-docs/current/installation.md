@@ -19,7 +19,7 @@ sidebar_position: 1
 - [اضغط هنا للتثبيت من متجر التطبيقات](https://apps.apple.com/app/immersive-translate/id6447957425) **مجانًا!!!!**
 
 <div align="center">
-<img src="/assets/immersive-app-store.png" width="150" alt="رمز الاستجابة السريعة لمتجر التطبيقات"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="رمز الاستجابة السريعة لمتجر التطبيقات"/>
 </div>
 
 > تعليمات: بعد التثبيت الأول، تحتاج إلى تفعيل امتداد Immersive Translate\*\* في سفاري -> إدارة الامتدادات -> **تفعيل امتداد Immersive Translate** ومنحه **السماح دائمًا بالوصول إلى جميع المواقع الإلكترونية**، إذا كانت لديك أي أسئلة، يمكنك مشاهدة الفيديو التعليمي التالي:
@@ -31,7 +31,7 @@ controls style={{width:"100%", maxWidth:"350px"}}
 controls
 muted
 height="800px"
-poster="/assets/docs/ios_safari_turorial_en.jpeg" src="https://s.immersivetranslate.com/videos/ios_safari_turorial_en.mp4"></video>
+poster="https://s.immersivetranslate.com/static/official-static/assets/docs/ios_safari_turorial_en.jpeg" src="https://s.immersivetranslate.com/videos/ios_safari_turorial_en.mp4"></video>
 
 ### سفاري على MacOS
 
@@ -39,7 +39,7 @@ poster="/assets/docs/ios_safari_turorial_en.jpeg" src="https://s.immersivetransl
 controls style={{width:"100%", maxWidth:"500px"}}
 controls
 muted
-poster="/assets/docs/macOS_safari_en.jpeg" src="https://s.immersivetranslate.com/videos/macOS_safari_tutorial_en.mp4"></video>
+poster="https://s.immersivetranslate.com/static/official-static/assets/docs/macOS_safari_en.jpeg" src="https://s.immersivetranslate.com/videos/macOS_safari_tutorial_en.mp4"></video>
 
 # أندرويد
 

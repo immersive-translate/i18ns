@@ -1220,7 +1220,7 @@
     "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-en-NlkG5c.mp4"
   },
   "page.pricing.header.onboarding.video.poster": {
-    "message": "/assets/price/video-poster-en.png"
+    "message": "https://s.immersivetranslate.com/static/official-static/assets/price/video-poster-en.png"
   },
   "page.pricing.vipnow.desc": {
     "message": "Now<a href=\"{pricingUrl}\"> subscribe to Pro Membership</a> and enjoy plug-and-play translation with DeepL and OpenAI!"

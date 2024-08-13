@@ -36,7 +36,7 @@ Cambia `{your-custom-name}` con il tuo sottodominio e `{you-deployment-name}` co
 
 > Se ci sono ancora domande, puoi andare dentro Azure AI Studio, aprire PlayGround, [Visualizza Codice], e ci saranno il [EndPoint] e la [Chiave] finali in fondo, come segue:
 
-![](/assets/docs/doc-assets/azure-openai-key.jpg)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/azure-openai-key.jpg)
 
 ## Personalizzazione dell'indirizzo API di OpenAI
 

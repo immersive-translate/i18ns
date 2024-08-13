@@ -34,7 +34,7 @@ Debido a que la altura y anchura de la traducción predeterminadas son las misma
 
 ## Botones de Estilo de Control
 
-![](/assets/docs/doc-assets/pdf-control.png) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-control.png) -->
 
 ### Modo Caravana
 
@@ -84,7 +84,7 @@ Si el párrafo reconocido inteligentemente es incorrecto, se puede ajustar manua
 
 Haz clic en el icono de descarga en la esquina superior derecha
 
-![](/assets/docs/doc-assets/pdf-download.png) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-download.png) -->
 
 Debido a que nuestra herramienta depende del navegador, la velocidad de descarga y los resultados dependen en gran medida del propio navegador. Por lo tanto, se recomienda no manejar más de 300 páginas de PDF.
 

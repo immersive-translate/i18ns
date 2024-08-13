@@ -1223,7 +1223,7 @@
     "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-zh-TW-TQk3WC.mp4"
   },
   "page.pricing.header.onboarding.video.poster": {
-    "message": "/assets/price/video-poster-zh-TW.png"
+    "message": "https://s.immersivetranslate.com/static/official-static/assets/price/video-poster-zh-TW.png"
   },
   "page.index.mangaTitle": {
     "message": "一鍵{hlStart}漫畫翻譯{hlEnd}，暢快漫畫閱讀"

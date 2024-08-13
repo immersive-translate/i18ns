@@ -57,7 +57,7 @@ If you are using Chrome-like browsers, such as (Chrome, Arc, Edge browser), ther
 
 Generally speaking, extensions installed in the browser store, the browser will be automatically updated, the general situation will be automatically updated within one day after the extension update, if you want to immediately update to the latest version, you can in the browser's [Extension Management] page, open the [Developer Mode], and then click on the top of the [Updates], you can immediately update to the latest version of the store.
 
-![](/assets/docs/doc-assets/update-extension.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/update-extension.png)
 
 ## Youtube subtitle setup style
 
@@ -102,7 +102,7 @@ The extension itself will regularly synchronize with the latest official website
 
 You need to right click "Save as" or ctrl+s shortcut in the web page, choose single file for save option, and finally the file format is .mht/.mhtml. Then send the file to support@immersivetranslate.com
 
-<!-- ![save mht](/assets/save_mht.png) -->
+<!-- ![save mht](https://s.immersivetranslate.com/static/official-static/assets/save_mht.png) -->
 
 ## Color Cloud Translation Error
 
@@ -162,7 +162,7 @@ Only 360 Extreme Browser x is supported, remember it's with x.If you have access
 
 You need to find "Immersive Translate" in the Opera plugin settings and turn on the "Allow access to search page results" option.
 
-<!-- ![](/assets/opera-allow-search.png) -->
+<!-- ![](https://s.immersivetranslate.com/static/official-static/assets/opera-allow-search.png) -->
 
 ## YouTube Bilingual subtitles in traditional Chinese not displayed
 

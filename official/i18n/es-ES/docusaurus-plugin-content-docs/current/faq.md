@@ -50,7 +50,7 @@ Si estás utilizando navegadores similares a Chrome, como (Chrome, Arc, navegado
 
 Hablando en general, las extensiones instaladas desde la tienda del navegador, el navegador se actualizará automáticamente, la situación general será actualizada automáticamente dentro de un día después de la actualización de la extensión, si quieres actualizar inmediatamente a la última versión, puedes en la página de [Gestión de Extensiones] del navegador, abrir el [Modo Desarrollador], y luego hacer clic en la parte superior en [Actualizaciones], puedes actualizar inmediatamente a la última versión de la tienda.
 
-![](/assets/docs/doc-assets/update-extension.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/update-extension.png)
 
 ## Configuración de subtítulos en Youtube
 
@@ -95,7 +95,7 @@ La extensión se sincronizará regularmente con las últimas reglas de adaptaci�
 
 Necesitas hacer clic derecho en "Guardar como" o usar el atajo ctrl+s en la página web, elegir la opción de guardar como archivo único, y finalmente el formato del archivo es .mht/.mhtml. Luego envía el archivo a support@immersivetranslate.com
 
-<!-- ![guardar mht](/assets/save_mht.png) -->
+<!-- ![guardar mht](https://s.immersivetranslate.com/static/official-static/assets/save_mht.png) -->
 
 ## Error en la Traducción de Nube de Color
 
@@ -155,7 +155,7 @@ Solo se soporta 360 Extreme Browser x, recuerda que es con x. Si tienes acceso a
 
 Necesitas encontrar "Immersive Translate" en la configuración de plugins de Opera y activar la opción "Permitir acceso a los resultados de la página de búsqueda".
 
-<!-- ![](/assets/opera-allow-search.png) -->
+<!-- ![](https://s.immersivetranslate.com/static/official-static/assets/opera-allow-search.png) -->
 
 ## Subtítulos bilingües en chino tradicional de YouTube no se muestran
 

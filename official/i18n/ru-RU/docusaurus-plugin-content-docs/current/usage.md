@@ -8,7 +8,7 @@ sidebar_position: 2
 
 После установки плагина, 【разместите иконку плагина перевода в верхнем правом углу】 для удобства, затем нажмите на 【иконку расширения для погружающего перевода】, и после этого кликните на перевод, чтобы начать перевод:
 
-<img src="/assets/browser-panel-v2.png" alt="действие в браузере" width="250" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/browser-panel-v2.png" alt="действие в браузере" width="250" />
 
 Или же, можно просто кликнуть на иконку быстрого доступа к погружающему переводу на правой стороне веб-страницы:
 
@@ -36,7 +36,7 @@ sidebar_position: 2
 
 Просто откройте любое видео <https://youtube.com/watch?v=EWX0bbGAd0k>, нажмите на панель погружения в перевод, а затем выберите 【Автоматически включать двуязычные субтитры】, чтобы их активировать. Если выбранные вами настройки не работают в видео, обычно помогает обновление страницы.
 
-<img src="/assets/video-subtitle.png" alt="действие в браузере" width="250" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/video-subtitle.png" alt="действие в браузере" width="250" />
 
 ## Чтение электронных книг Epub и экспорт на двух языках
 
@@ -44,13 +44,13 @@ sidebar_position: 2
 
 Нажмите, чтобы посмотреть [видеоурок](https://www.bilibili.com/video/BV1CM41137CJ/?spm_id_from=333.999.0.0)
 
-![](/assets/epub.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/epub.png)
 
 ## Перевод файлов PDF
 
 1. Если это онлайн-файл PDF, после открытия его в браузере нажмите на иконку расширения, а затем нажмите на перевод этого файла, как показано на изображении ниже.
 
-<img src="/assets/browser-pdf.png" alt="действие в браузере" width="250" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/browser-pdf.png" alt="действие в браузере" width="250" />
 
 2. Если это локальный файл PDF, просто щелкните правой кнопкой мыши на иконке расширения (или левой кнопкой мыши на иконке расширения, затем нажмите «Ещё», нажмите «Перевести локальный файл PDF»), затем на странице, которая откроется, нажмите на кнопку загрузки вашего файла PDF в правом верхнем углу.
 
@@ -64,17 +64,17 @@ sidebar_position: 2
 
 Например, в разделе 【Основные настройки】, прокрутив вниз, мы можем изменить **стиль перевода**:
 
-![](/assets/config.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/config.png)
 
 ## Перевод при наведении мыши
 
 Иммерсивный перевод поддерживает автоматический перевод абзаца при наведении на него курсора мыши, но по умолчанию эта функция не активирована. Вам нужно будет включить её в панели настроек:
 
-<img src="/assets/mouse-hover.png" alt="действие браузера" width="250" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/mouse-hover.png" alt="действие браузера" width="250" />
 
 После включения, вы можете нажать клавишу `Shift` и одновременно навести курсор мыши на абзац, чтобы увидеть результат перевода на двух языках:
 
-![перевод при наведении мыши](/assets/mouse-hover.gif)
+![перевод при наведении мыши](https://s.immersivetranslate.com/static/official-static/assets/mouse-hover.gif)
 
 ## Улучшение поля ввода
 
@@ -89,7 +89,7 @@ sidebar_position: 2
 
 Поддержка погружения в перевод файлов субтитров в форматах `.srt`, `.ass` и других. Нажмите на иконку расширения для погруженного перевода, затем нажмите 【Ещё】, 【Перевод файлов субтитров】, чтобы приступить. После перевода вы можете экспортировать двуязычные субтитры.
 
-![subtitle](/assets/subtitle-demo.png)
+![subtitle](https://s.immersivetranslate.com/static/official-static/assets/subtitle-demo.png)
 
 ## Отображение только перевода
 

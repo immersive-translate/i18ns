@@ -24,13 +24,13 @@ Você ainda pode fazer estas coisas para nos ajudar agora:
 - Escaneie o código QR abaixo para se juntar ao grupo oficial de troca do WeChat para ajudar a responder às perguntas dos usuários:
 
 <div align="center">
-<img src="/assets/wechat-contact.png" width="200" alt="qq"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-contact.png" width="200" alt="qq"/>
 </div>
 
 - Escaneie o código QR abaixo para seguir o número público oficial do WeChat:
 
 <div align="center">
-<img src="/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
 </div>## Uma nota mais longa
 
 Oi, eu sou o Owen, e eu mesmo me beneficiei das ferramentas gratuitas desenvolvidas por inúmeros voluntários no passado, o que levou a tanto conhecimento vitalício, o que reforçou minha crença de que o acesso **IGUAL** à informação é o direito mais importante que qualquer um de nós deveria ter. Então, eu criei várias ferramentas bilíngues gratuitas para ajudar as pessoas a acessarem mais efetivamente (enquanto aguardo o dia em que possamos nos afastar desses auxílios)

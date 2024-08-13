@@ -16,12 +16,12 @@ sidebar_position: 5
 - Отсканируйте QR-код ниже, чтобы присоединиться к официальной группе WeChat для общения
 
 <div align="center">
-<img src="/assets/wechat-contact3.jpg" width="300" alt="qq"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-contact3.jpg" width="300" alt="qq"/>
 </div>
 
 - Отсканируйте QR-код ниже, чтобы подписаться на официальный аккаунт WeChat
 
 <div align="center">
-<img src="/assets/wechat-qrcode.jpg" width="300" alt="wechat"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="300" alt="wechat"/>
 </div>
 ```

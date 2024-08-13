@@ -40,7 +40,7 @@ Nach der Bereitstellung des gpt-35-turbo-Modells öffnen Sie die OpenAI-Einstell
 
 > Wenn es noch Fragen gibt, können Sie in Azure AI Studio gehen, PlayGround öffnen, [Code anzeigen], und am Ende werden der finale [EndPoint] und [Schlüssel] angezeigt, wie folgt:
 
-![](/assets/docs/doc-assets/azure-openai-key.jpg)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/azure-openai-key.jpg)
 
 ## Anpassen der API-Adresse von OpenAI
 

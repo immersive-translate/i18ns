@@ -47,7 +47,7 @@ Se você está usando navegadores semelhantes ao Chrome, como (Chrome, Arc, nave
 
 De modo geral, extensões instaladas na loja do navegador serão atualizadas automaticamente, a situação geral será atualizada automaticamente dentro de um dia após a atualização da extensão, se você quiser atualizar imediatamente para a versão mais recente, você pode, na página [Gerenciamento de Extensões] do navegador, abrir o [Modo Desenvolvedor], e então clicar em [Atualizações] no topo, você pode imediatamente atualizar para a versão mais recente da loja.
 
-![](/assets/docs/doc-assets/update-extension.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/update-extension.png)
 
 ## Configuração de legendas no Youtube
 
@@ -92,7 +92,7 @@ A própria extensão irá sincronizar regularmente com as regras de adaptação 
 
 Você precisa clicar com o botão direito em "Salvar como" ou usar o atalho ctrl+s na página web, escolher a opção de salvar arquivo único, e finalmente o formato do arquivo é .mht/.mhtml. Em seguida, envie o arquivo para support@immersivetranslate.com
 
-<!-- ![salvar mht](/assets/save_mht.png) -->
+<!-- ![salvar mht](https://s.immersivetranslate.com/static/official-static/assets/save_mht.png) -->
 
 ## Erro de Tradução da Nuvem de Cores
 
@@ -152,7 +152,7 @@ Apenas o Navegador 360 Extreme x é suportado, lembre-se de que é com x. Se voc
 
 Você precisa encontrar "Immersive Translate" nas configurações de plugin do Opera e ativar a opção "Permitir acesso aos resultados da página de pesquisa".
 
-<!-- ![](/assets/opera-allow-search.png) -->
+<!-- ![](https://s.immersivetranslate.com/static/official-static/assets/opera-allow-search.png) -->
 
 ## Legendas bilíngues do YouTube em chinês tradicional não exibidas
 

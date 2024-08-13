@@ -55,7 +55,7 @@ Para acesso direto e simplificado à OpenAI, adquira uma [Assinatura Pro do Imme
 
 Ainda tem dúvidas? Acesse o [Azure AI Studio](https://oai.azure.com), abra o PlayGround, [Exibir Código], e haverá o [EndPoint] e a [Chave] finais na parte inferior, como na imagem abaixo:
 
-![](/assets/docs/doc-assets/azure-openai-key.jpg)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/azure-openai-key.jpg)
 
 ### Personalização do Endereço da API da OpenAI
 

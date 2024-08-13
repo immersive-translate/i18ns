@@ -22,7 +22,7 @@ src="https://s.immersivetranslate.com/videos/20240119installation.mp4"></video>
 - [애플 앱 스토어에서 설치하려면 여기를 클릭하세요](https://apps.apple.com/app/immersive-translate/id6447957425) **한정 시간 무료!!!**
 
 <div align="center">
-<img src="/assets/immersive-app-store.png" width="150" alt="app store qrcode"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="app store qrcode"/>
 </div>
 
 > 설명: 처음 설치 후에는 safari 브라우저 -> 확장 프로그램 관리 -> **침몰식 번역 확장 프로그램 활성화**를 해야 하며, **모든 웹사이트에 대한 접근 권한을 항상 허용**해야 합니다. 궁금한 점이 있으면 아래 비디오 튜토리얼을 참조하세요:
@@ -34,7 +34,7 @@ controls style={{width:"100%", maxWidth:"350px"}}
 controls
 muted
 height="800px"
-poster="https://immersivetranslate.com/assets/ios-safari-poster.png" src="/assets/ios-safari-enable.mp4"></video>
+poster="https://immersivetranslate.com/assets/ios-safari-poster.png" src="https://s.immersivetranslate.com/static/official-static/assets/ios-safari-enable.mp4"></video>
 
 ### macOS Safari
 
@@ -42,7 +42,7 @@ poster="https://immersivetranslate.com/assets/ios-safari-poster.png" src="/asset
 controls style={{width:"100%", maxWidth:"500px"}}
 controls
 muted
-poster="/assets/safari-mac-preview.png" src="/assets/safari_mac.mp4"></video>
+poster="https://s.immersivetranslate.com/static/official-static/assets/safari-mac-preview.png" src="https://s.immersivetranslate.com/static/official-static/assets/safari_mac.mp4"></video>
 
 ## 안드로이드
 

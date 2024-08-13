@@ -41,7 +41,7 @@ Cambia `{tu-nombre-personalizado}` por tu propio subdominio y `{tu-nombre-de-imp
 
 > Si aún tienes preguntas, puedes entrar en Azure AI Studio, abrir PlayGround, [Ver Código], y allí estarán el [EndPoint] y [Key] finales, como sigue:
 
-![](/assets/docs/doc-assets/azure-openai-key.jpg)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/azure-openai-key.jpg)
 
 ## Personalizando la Dirección de la API de OpenAI
 

@@ -49,7 +49,7 @@ sidebar_position: 9
 
 بشكل عام، الامتدادات المثبتة في متجر المتصفح، سيتم تحديثها تلقائيًا بواسطة المتصفح، والوضع العام سيتم تحديثها تلقائيًا خلال يوم واحد بعد تحديث الامتداد، إذا كنت ترغب في التحديث فورًا إلى النسخة الأخيرة، يمكنك في صفحة [إدارة الامتدادات] بالمتصفح، فتح [وضع المطور]، ومن ثم النقر على [التحديثات] في أعلى الصفحة، يمكنك التحديث فورًا إلى أحدث نسخة في المتجر.
 
-![](/assets/docs/doc-assets/update-extension.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/update-extension.png)
 
 ## إعدادات ترجمة يوتيوب
 
@@ -94,7 +94,7 @@ sidebar_position: 9
 
 تحتاج إلى النقر بزر الفأرة الأيمن "حفظ باسم" أو اختصار ctrl+s في صفحة الويب، اختر خيار حفظ ملف واحد، وأخيرًا يكون تنسيق الملف .mht/.mhtml. ثم أرسل الملف إلى support@immersivetranslate.com
 
-<!-- ![حفظ mht](/assets/save_mht.png) -->
+<!-- ![حفظ mht](https://s.immersivetranslate.com/static/official-static/assets/save_mht.png) -->
 
 ## خطأ في ترجمة سحابة الألوان
 
@@ -154,7 +154,7 @@ sidebar_position: 9
 
 تحتاج إلى العثور على "Immersive Translate" في إعدادات إضافة أوبرا وتشغيل خيار "السماح بالوصول إلى نتائج صفحة البحث".
 
-<!-- ![](/assets/opera-allow-search.png) -->
+<!-- ![](https://s.immersivetranslate.com/static/official-static/assets/opera-allow-search.png) -->
 
 ## لا تظهر الترجمات الثنائية اللغة في YouTube باللغة الصينية التقليدية
 

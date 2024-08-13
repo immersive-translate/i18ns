@@ -56,7 +56,7 @@ Chrome、Arc、EdgeブラウザなどのChrome系ブラウザを使用してい�
 
 一般的に、ブラウザストアでインストールした拡張機能は、ブラウザが自動的に更新します。通常、拡張機能が更新された後の1日以内に自動更新されます。ただし、すぐに最新バージョンに更新したい場合は、ブラウザの【拡張機能管理】ページで【開発者モード】をオンにし、最上部の【更新】をクリックすると、すぐにストアの最新バージョンに更新できます。
 
-![](/assets/docs/doc-assets/update-extension.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/update-extension.png)
 
 ## Youtube 字幕設定スタイル
 
@@ -101,7 +101,7 @@ Android で推奨されるユーザースクリプト拡張機能：
 
 ウェブページで右クリックして「名前を付けて保存」またはCtrl+Sのショートカットキーを使用し、保存オプションで単一ファイルを選択し、最後にファイル形式を.mht/.mhtmlにします。その後、ファイルをsupport@immersivetranslate.comに送信してください。
 
-![save mht](/assets/save_mht.png)
+![save mht](https://s.immersivetranslate.com/static/official-static/assets/save_mht.png)
 
 ## 彩雲翻訳のエラー
 
@@ -167,7 +167,7 @@ Google 検索ボックスは、[Google](https://www.google.com/) のウェブサ
 
 Opera のプラグイン設定で【沈没翻訳】を見つけ、【検索ページ結果へのアクセスを許可する】オプションを有効にする必要があります。
 
-![](/assets/opera-allow-search.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/opera-allow-search.png)
 
 ## YouTube のバイリンガル字幕で繁体字中国語が表示されない
 

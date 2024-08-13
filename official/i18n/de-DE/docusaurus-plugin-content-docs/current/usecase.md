@@ -32,7 +32,7 @@ controls style={{width:"100%", maxWidth:"350px"}}
 controls
 muted
 height="800px"
-poster="/assets/docs/ios_safari_turorial_en.jpeg" src="https://s.immersivetranslate.com/videos/ios_safari_turorial_en.mp4"></video>
+poster="https://s.immersivetranslate.com/static/official-static/assets/docs/ios_safari_turorial_en.jpeg" src="https://s.immersivetranslate.com/videos/ios_safari_turorial_en.mp4"></video>
 
 ## Für mehr Stile, bitte im Einstellungsbildschirm nachsehen
 

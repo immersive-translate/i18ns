@@ -16,7 +16,7 @@ Here are some advanced PDF translation tips：
 <!-- 
 ## Move to adjust the translation box
 
-![](/assets/docs/doc-assets/pdf-move.png) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-move.png) -->
 
 ### Edit Box
 
@@ -36,7 +36,7 @@ Because the default translation height and width are the same as the original pa
 
 <!-- ## Control Style Buttons
 
-![](/assets/docs/doc-assets/pdf-control.png) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-control.png) -->
 
 ### Bandwagon Mode
 
@@ -84,7 +84,7 @@ If the intelligently recognized paragraph is incorrect, it can be manually adjus
 
 Click on the download icon in the upper right corner
 
-![](/assets/docs/doc-assets/pdf-download.png) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-download.png) -->
 
 Because our tool relies on the browser, download speeds and results are heavily dependent on the browser itself.So it is recommended not to deal with more than 300 pages of PDF
 

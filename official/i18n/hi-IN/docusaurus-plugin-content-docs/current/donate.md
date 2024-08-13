@@ -24,13 +24,13 @@ sidebar_position: 10
 - नीचे दिए गए QR कोड को स्कैन करके आधिकारिक WeChat एक्सचेंज ग्रुप में शामिल हों ताकि उपयोगकर्ताओं के प्रश्नों का उत्तर देने में मदद मिल सके:
 
 <div align="center">
-<img src="/assets/wechat-contact.png" width="200" alt="qq"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-contact.png" width="200" alt="qq"/>
 </div>
 
 - आधिकारिक WeChat सार्वजनिक नंबर का अनुसरण करने के लिए नीचे दिए गए QR कोड को स्कैन करें:
 
 <div align="center">
-<img src="/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
 </div>## एक लंबा नोट
 
 नमस्ते, मैं ओवेन हूँ, और मैंने स्वयं अतीत में अनगिनत स्वयंसेवकों द्वारा विकसित किए गए मुफ्त उपकरणों से लाभ उठाया है, जिससे मुझे जीवन भर का ज्ञान प्राप्त हुआ है, जिसने मेरी इस विश्वास को मजबूत किया है कि **समान** जानकारी तक पहुँचना हम में से किसी के लिए भी सबसे महत्वपूर्ण अधिकार है। इसलिए मैंने लोगों को अधिक प्रभावी ढंग से जानकारी तक पहुँचने में मदद करने के लिए बहुत सारे मुफ्त द्विभाषी उपकरण बनाए हैं (जबकि हम उस दिन की प्रतीक्षा कर रहे हैं जब हम इन सहायताओं से दूर जा सकें)

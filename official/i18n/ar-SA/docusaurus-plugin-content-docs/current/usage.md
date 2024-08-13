@@ -48,13 +48,13 @@ Please note, the commented sections (<!-- -->) are preserved as comments and not
 
 <!-- انقر لمشاهدة [الدرس التعليمي بالفيديو](https://www.bilibili.com/video/BV1CM41137CJ/?spm_id_from=333.999.0.0) -->
 
-![](/assets/site/doc_en.jpg)
+![](https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg)
 
 <!-- <video
 controls style={{width:"100%", maxWidth:"500px"}}
 controls
 muted
-poster="/assets/site/doc_en.jpg" src="https://s.immersivetranslate.com/videos/morefeature_epub_en.mp4"></video>  -->
+poster="https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg" src="https://s.immersivetranslate.com/videos/morefeature_epub_en.mp4"></video>  -->
 
 
 
@@ -83,11 +83,11 @@ poster="/assets/site/doc_en.jpg" src="https://s.immersivetranslate.com/videos/mo
 
 تدعم الإضافة الترجمة التلقائية لفقرة عند تمرير الماوس فوقها، لكنها ليست مفعلة بشكل افتراضي. تحتاج إلى تفعيلها في اللوحة:
 
-![](/assets/site/mouse_en.jpg)
+![](https://s.immersivetranslate.com/static/official-static/assets/site/mouse_en.jpg)
 
 بمجرد التفعيل، يمكنك الضغط على مفتاح `Shift` أثناء تمرير الماوس فوق فقرة لرؤية الترجمة الثنائية اللغة:
 
-![تمرير الماوس](/assets/mouse-hover.gif)
+![تمرير الماوس](https://s.immersivetranslate.com/static/official-static/assets/mouse-hover.gif)
 
 ## تحسين صندوق الإدخال
 
@@ -102,8 +102,8 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 تدعم الإضافة ترجمة ملفات الترجمة بصيغ `.srt`، `.ass` وغيرها، انقر على أيقونة إضافة الترجمة الغامرة، انقر على [المزيد]، [ترجمة ملف الترجمة]، يمكنك الوصول إليها، ويمكنك تصدير الترجمات الثنائية اللغة بعد الترجمة.
 
-<!-- ![ترجمة](/assets/subtitle.jpg) -->
-![](/assets/site/doc_en.jpg)
+<!-- ![ترجمة](https://s.immersivetranslate.com/static/official-static/assets/subtitle.jpg) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg)
 
 ## عرض الترجمات فقط
 
@@ -134,7 +134,7 @@ loop
 muted
 plays-inline
 width="1200px"
-poster="/assets/site/full_usage_en.jpg"><source src="https://s.immersivetranslate.com/videos/total-usage-2024-01-18-with-mobile_en.mp4" type="video/mp4"/>تحتاج إلى متصفح يدعم فيديو HTML5 لمشاهدة هذا الفيديو. </video>
+poster="https://s.immersivetranslate.com/static/official-static/assets/site/full_usage_en.jpg"><source src="https://s.immersivetranslate.com/videos/total-usage-2024-01-18-with-mobile_en.mp4" type="video/mp4"/>تحتاج إلى متصفح يدعم فيديو HTML5 لمشاهدة هذا الفيديو. </video>
 
 ## لمعرفة المزيد
 

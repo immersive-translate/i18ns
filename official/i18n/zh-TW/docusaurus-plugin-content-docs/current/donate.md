@@ -20,13 +20,13 @@ The content you've provided seems to be a part of a markdown file's metadata, sp
 - 掃描下面二維碼，加入官方微信交流群幫忙解答用戶的疑問：
 
 <div align="center">
-<img src="/assets/wechat-contact3.jpg" width="200" alt="qq"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-contact3.jpg" width="200" alt="qq"/>
 </div>
 
 - 掃描下面二維碼，關注官方微信公眾號：
 
 <div align="center">
-<img src="/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
 </div>## 一個更長的說明
 
 大家好，我是 Owen， 我自己在過去得益於無數志願者們開發的免費工具，從而收穫了太多受益終生的知識，這使我更加堅信**平等**地獲取信息是我們每個人最應擁有的權利。所以我創建了很多免費的雙語工具來幫助人們更有效地獲取（同時也期待我們有一天能脫離這些輔助工具）

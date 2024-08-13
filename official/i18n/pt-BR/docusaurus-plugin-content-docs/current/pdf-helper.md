@@ -16,7 +16,7 @@ Aqui estão algumas dicas avançadas de tradução de PDF:
 <!-- 
 ## Mover para ajustar a caixa de tradução
 
-![](/assets/docs/doc-assets/pdf-move.png) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-move.png) -->
 
 ### Caixa de Edição
 
@@ -36,7 +36,7 @@ Como a altura e largura padrão da tradução são as mesmas do parágrafo origi
 
 <!-- ## Botões de Controle de Estilo
 
-![](/assets/docs/doc-assets/pdf-control.png) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-control.png) -->
 
 ### Modo Carona
 
@@ -84,7 +84,7 @@ Se o parágrafo reconhecido de forma inteligente estiver incorreto, ele pode ser
 
 Clique no ícone de download no canto superior direito
 
-![](/assets/docs/doc-assets/pdf-download.png) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-download.png) -->
 
 Como nossa ferramenta depende do navegador, as velocidades e os resultados do download dependem muito do próprio navegador. Portanto, é recomendável não lidar com mais de 300 páginas de PDF.
 

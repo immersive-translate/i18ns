@@ -39,7 +39,7 @@ Wenn die Standard-Tastenkürzel mit anderen Software-Tastenkürzeln in Konflikt 
 Klicke auf das Plugin-Symbol -> PDF/ePub (unterstützt Epub, Mobi und andere gängige Formate)
 
 
-![](/assets/site/doc_en.jpg)
+![](https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg)
 
 
 ## PDF-Datei-Übersetzung
@@ -65,11 +65,11 @@ Zum Beispiel können wir in den [Oberflächeneinstellungen] den **Übersetzungss
 
 Immersion unterstützt die automatische Übersetzung eines Absatzes durch Überfahren mit der Maus, aber dies ist standardmäßig nicht aktiviert. Sie müssen es im Panel aktivieren:
 
-![](/assets/site/mouse_en.jpg)
+![](https://s.immersivetranslate.com/static/official-static/assets/site/mouse_en.jpg)
 
 Einmal aktiviert, können Sie die `Umschalt`-Taste drücken, während Sie mit der Maus über einen Absatz fahren, um die zweisprachige Übersetzung zu sehen:
 
-![Mausüberfahrt](/assets/mouse-hover.gif)
+![Mausüberfahrt](https://s.immersivetranslate.com/static/official-static/assets/mouse-hover.gif)
 
 ## Verbesserung des Eingabefelds
 
@@ -84,7 +84,7 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 Immersive unterstützt die Übersetzung von Untertiteldateien in den Formaten `.srt`, `.ass` und anderen. Klicken Sie auf das Symbol der Immersive Translate-Erweiterung, klicken Sie auf [Mehr], [Übersetzung von Untertiteldateien], um darauf zuzugreifen, und Sie können zweisprachige Untertitel nach der Übersetzung exportieren.
 
-![](/assets/site/doc_en.jpg)
+![](https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg)
 
 ## Nur Übersetzungen anzeigen
 
@@ -113,7 +113,7 @@ loop
 stummgeschaltet
 plays-inline
 Breite="1200px"
-poster="/assets/site/full_usage_de.jpg"><source src="https://s.immersivetranslate.com/videos/total-usage-2024-01-18-with-mobile_de.mp4" type="video/mp4"/>Du benötigst einen Browser, der HTML5-Video unterstützt, um dieses Video anzusehen. </video>
+poster="https://s.immersivetranslate.com/static/official-static/assets/site/full_usage_de.jpg"><source src="https://s.immersivetranslate.com/videos/total-usage-2024-01-18-with-mobile_de.mp4" type="video/mp4"/>Du benötigst einen Browser, der HTML5-Video unterstützt, um dieses Video anzusehen. </video>
 
 ## Erfahre mehr
 

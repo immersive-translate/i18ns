@@ -18,7 +18,7 @@ sidebar_position: 1
 - [Haz clic aquí para instalar desde la App Store](https://apps.apple.com/app/immersive-translate/id6447957425) **¡Es GRATIS!**
 
 <div align="center">
-<img src="/assets/immersive-app-store.png" width="150" alt="código QR de la app store"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="código QR de la app store"/>
 </div>
 
 > Instrucciones: Después de la primera instalación, necesitas habilitar la extensión Immersive Translate\*\* en Safari -> Administrar Extensiones -> **Habilitar la Extensión de Immersive Translate** y otorgarle **Permitir Siempre el Acceso a Todos los Sitios Web**, si tienes alguna pregunta, puedes ver el siguiente video tutorial:
@@ -30,7 +30,7 @@ controls style={{width:"100%", maxWidth:"350px"}}
 controls
 muted
 height="800px"
-poster="/assets/docs/ios_safari_turorial_en.jpeg" src="https://s.immersivetranslate.com/videos/ios_safari_turorial_en.mp4"></video>
+poster="https://s.immersivetranslate.com/static/official-static/assets/docs/ios_safari_turorial_en.jpeg" src="https://s.immersivetranslate.com/videos/ios_safari_turorial_en.mp4"></video>
 
 ### MacOS Safari
 
@@ -38,7 +38,7 @@ poster="/assets/docs/ios_safari_turorial_en.jpeg" src="https://s.immersivetransl
 controls style={{width:"100%", maxWidth:"500px"}}
 controls
 muted
-poster="/assets/docs/macOS_safari_en.jpeg" src="https://s.immersivetranslate.com/videos/macOS_safari_tutorial_en.mp4"></video>
+poster="https://s.immersivetranslate.com/static/official-static/assets/docs/macOS_safari_en.jpeg" src="https://s.immersivetranslate.com/videos/macOS_safari_tutorial_en.mp4"></video>
 
 Note: The URLs and some technical terms have been left unchanged as they are universal or do not have a direct translation that would be understood in the context of software or web applications.
 

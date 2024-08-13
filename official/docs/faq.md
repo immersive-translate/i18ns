@@ -10,7 +10,7 @@ sidebar_position: 9
 
 一般来说，在浏览器商店安装的扩展，浏览器都会自动进行更新，一般情况会在扩展更新之后的一天内进行自动更新，如果你想立刻更新到最新版本的话，可以在浏览器的【扩展管理】页面，打开【开发者模式】，然后点击最上面的【更新】，即可立即更新到商店的最新版本。
 
-![](/assets/docs/doc-assets/update-extension.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/update-extension.png)
 
 ### 2. 沉浸式翻译油猴脚本支持的浏览器
 
@@ -43,7 +43,7 @@ Android：
 
 在 google.com 等搜索页面不生效，插件显示`请先刷新当前页面，再开始翻译`且刷新页面仍提示该信息：需要在 Opera 插件设置中找到【沉浸式翻译】，开启【允许访问搜索页面结果】选项。
 
-![](/assets/opera-allow-search.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/opera-allow-search.png)
 
 ### 6. 在 iOS 设备上无法启用扩展
 
@@ -120,8 +120,8 @@ Android：
 
 移动端长按悬浮球，电脑端鼠标移动至悬浮球唤出设置，选择其他翻译服务/其他目标语言。
 
-<img src="/assets/change-lang1.png" alt="description" width="200" style={{marginRight: "100px"}}/>
-<img src="/assets/change-lang2.png" alt="description" width="280"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/change-lang1.png" alt="description" width="200" style={{marginRight: "100px"}}/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/change-lang2.png" alt="description" width="280"/>
 
 ### 9. 谷歌翻译接口被墙问题
 
@@ -161,7 +161,7 @@ Android：
 
 需要在网页中右键点击“存储为” 或者 ctrl+s 快捷键，保存选项选择单个文件，最后文件格式为.mht/.mhtml。 然后将文件发送至 support@immersivetranslate.com。
 
-![save mht](/assets/save_mht.png)
+![save mht](https://s.immersivetranslate.com/static/official-static/assets/save_mht.png)
 
 ### 16. 查看调试日志
 

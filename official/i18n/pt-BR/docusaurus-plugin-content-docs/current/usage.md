@@ -46,13 +46,13 @@ Clique no ícone do plugin -> PDF/ePub (suporta Epub, Mobi e outros formatos com
 
 <!-- Clique para ver [tutorial em vídeo](https://www.bilibili.com/video/BV1CM41137CJ/?spm_id_from=333.999.0.0) -->
 
-![](/assets/site/doc_en.jpg)
+![](https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg)
 
 <!-- <video
 controls style={{width:"100%", maxWidth:"500px"}}
 controls
 muted
-poster="/assets/site/doc_en.jpg" src="https://s.immersivetranslate.com/videos/morefeature_epub_en.mp4"></video>  -->
+poster="https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg" src="https://s.immersivetranslate.com/videos/morefeature_epub_en.mp4"></video>  -->
 
 ## Tradução de Arquivos PDF
 
@@ -76,11 +76,11 @@ Por exemplo, em [Configurações da Interface], você pode modificar o **Estilo 
 
 O Immersive Translate traduz parágrafos ao passar o mouse, mas isso não está ativado por padrão. Ative no painel:
 
-![](/assets/site/mouse_en.jpg)
+![](https://s.immersivetranslate.com/static/official-static/assets/site/mouse_en.jpg)
 
 Após ativar, pressione a tecla `Shift` enquanto passa o mouse sobre um parágrafo para ver a tradução bilíngue:
 
-![passar o mouse](/assets/mouse-hover.gif)
+![passar o mouse](https://s.immersivetranslate.com/static/official-static/assets/mouse-hover.gif)
 
 ## Melhoria da Caixa de Entrada
 
@@ -95,9 +95,9 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4">
 
 O Immersive Translate suporta tradução de arquivos de legenda `.srt`, `.ass`, etc. Clique no ícone da extensão, em [Mais] e [Tradução de Arquivo de Legenda]. Você pode exportar legendas bilíngues após a tradução.
 
-<!-- ![legenda](/assets/subtitle.jpg) -->
+<!-- ![legenda](https://s.immersivetranslate.com/static/official-static/assets/subtitle.jpg) -->
 
-![](/assets/site/doc_en.jpg)
+![](https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg)
 
 ## Mostrar Apenas Traduções
 
@@ -128,7 +128,7 @@ Bem-vindo ao Immersive Translate! Em caso de dúvidas, entre em contato com a eq
   muted
   playsinline
   width="1200"
-  poster="/assets/site/full_usage_en.jpg">
+  poster="https://s.immersivetranslate.com/static/official-static/assets/site/full_usage_en.jpg">
   <source src="https://s.immersivetranslate.com/videos/total-usage-2024-01-18-with-mobile_en.mp4" type="video/mp4"/>
   Você precisa de um navegador que suporte vídeo em HTML5 para visualizar este vídeo.
 </video>

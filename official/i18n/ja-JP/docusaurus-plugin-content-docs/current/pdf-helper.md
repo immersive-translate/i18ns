@@ -16,7 +16,7 @@ PDFに表や数学の公式が含まれており、それらに対してより�
 
 ## 翻訳テキストボックスの移動と調整
 
-![](/assets/docs/doc-assets/pdf-move.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-move.png)
 
 ### 編集ボックス
 
@@ -36,7 +36,7 @@ PDFに表や数学の公式が含まれており、それらに対してより�
 
 ## スタイル制御ボタン
 
-![](/assets/docs/doc-assets/pdf-control.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-control.png)
 
 ### 画像付きモード
 
@@ -91,7 +91,7 @@ PDFのレイアウトが複雑であり、段落がインデントの特徴に�
 
 右上隅のダウンロードアイコンをクリックします
 
-![](/assets/docs/doc-assets/pdf-download.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-download.png)
 
 私たちのツールはブラウザに依存しているため、ダウンロードの速度と効果はブラウザ自体に大きく依存します。そのため、300ページを超えるPDFを処理することはお勧めしません
 
@@ -114,11 +114,11 @@ PDFのレイアウトが複雑であり、段落がインデントの特徴に�
 
 - ローカルのバイリンガルPDFファイルをブラウザにドラッグすると、以下のメッセージが表示されます
 
-![](/assets/docs/doc-assets/pdf-open-error.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-open-error.png)
 
 - ローカルのバイリンガルPDFファイルを https://app.immersivetranslate.com/pdf/ にドラッグすると、以下のメッセージが表示されます
 
-![](/assets/docs/doc-assets/pdf-open-pwd.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-open-pwd.png)
 
 原因
 

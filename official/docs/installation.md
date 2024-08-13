@@ -22,7 +22,7 @@ src="https://s.immersivetranslate.com/videos/20240119installation.mp4"></video>
 - [点此进入苹果 App Store 商店安装](https://apps.apple.com/app/immersive-translate/id6447957425) **限时免费中!!!**
 
 <div align="center">
-<img src="/assets/immersive-app-store.png" width="150" alt="app store qrcode"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="app store qrcode"/>
 </div>
 
 > 说明：首次安装后需要在 safari 浏览器-> 管理扩展->**启用沉浸式翻译扩展**，并且授予其**始终允许访问所有网站**的权限，有疑问可以查看以下视频教程：
@@ -34,7 +34,7 @@ controls style={{width:"100%", maxWidth:"350px"}}
 controls
 muted
 height="800px"
-poster="https://immersivetranslate.com/assets/ios-safari-poster.png" src="/assets/ios-safari-enable.mp4"></video>
+poster="https://immersivetranslate.com/assets/ios-safari-poster.png" src="https://s.immersivetranslate.com/static/official-static/assets/ios-safari-enable.mp4"></video>
 
 ### macOS Safari
 
@@ -42,7 +42,7 @@ poster="https://immersivetranslate.com/assets/ios-safari-poster.png" src="/asset
 controls style={{width:"100%", maxWidth:"500px"}}
 controls
 muted
-poster="/assets/safari-mac-preview.png" src="/assets/safari_mac.mp4"></video>
+poster="https://s.immersivetranslate.com/static/official-static/assets/safari-mac-preview.png" src="https://s.immersivetranslate.com/static/official-static/assets/safari_mac.mp4"></video>
 
 ## 安卓
 

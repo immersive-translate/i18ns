@@ -18,7 +18,7 @@ sidebar_position: 1
 - [ऐप स्टोर से इंस्टॉल करने के लिए यहाँ क्लिक करें](https://apps.apple.com/app/immersive-translate/id6447957425) **यह मुफ़्त है!!!!**
 
 <div align="center">
-<img src="/assets/immersive-app-store.png" width="150" alt="ऐप स्टोर क्यूआर कोड"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="ऐप स्टोर क्यूआर कोड"/>
 </div>
 
 > निर्देश：पहली बार स्थापना के बाद, आपको सफारी में इमर्सिव ट्रांसलेट एक्सटेंशन\*\* को सक्षम करना होगा -> एक्सटेंशन प्रबंधित करें -> **इमर्सिव ट्रांसलेट एक्सटेंशन सक्षम करें** और इसे **सभी वेबसाइटों के लिए हमेशा एक्सेस की अनुमति दें**, यदि आपके कोई प्रश्न हैं, तो आप निम्नलिखित वीडियो ट्यूटोरियल देख सकते हैं:
@@ -30,7 +30,7 @@ controls style={{width:"100%", maxWidth:"350px"}}
 controls
 muted
 height="800px"
-poster="/assets/docs/ios_safari_turorial_en.jpeg" src="https://s.immersivetranslate.com/videos/ios_safari_turorial_en.mp4"></video>
+poster="https://s.immersivetranslate.com/static/official-static/assets/docs/ios_safari_turorial_en.jpeg" src="https://s.immersivetranslate.com/videos/ios_safari_turorial_en.mp4"></video>
 
 ### MacOS सफारी
 
@@ -38,7 +38,7 @@ poster="/assets/docs/ios_safari_turorial_en.jpeg" src="https://s.immersivetransl
 controls style={{width:"100%", maxWidth:"500px"}}
 controls
 muted
-poster="/assets/docs/macOS_safari_en.jpeg" src="https://s.immersivetranslate.com/videos/macOS_safari_tutorial_en.mp4"></video>
+poster="https://s.immersivetranslate.com/static/official-static/assets/docs/macOS_safari_en.jpeg" src="https://s.immersivetranslate.com/videos/macOS_safari_tutorial_en.mp4"></video>
 
 Please note, translating HTML and markdown content directly might not always capture the nuances of the target language perfectly, especially with elements like alt text for images, video captions, and placeholders. It's always a good idea to have a native speaker review the content.
 

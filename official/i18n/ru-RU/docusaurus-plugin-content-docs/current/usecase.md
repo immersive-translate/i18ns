@@ -18,11 +18,11 @@ sidebar_position: 3
 
 ## Обычные статьи, перевод без стилизации:
 
-![](/assets/microsoft.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/microsoft.png)
 
 ## Техническая документация, перевод без стилизации
 
-![](/assets/typescript.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/typescript.png)
 
 ## Твиты, перевод с минимальной стилизацией
 
@@ -30,7 +30,7 @@ sidebar_position: 3
 
 ## Перевод PDF файлов
 
-![pdf](/assets/pdf.png)
+![pdf](https://s.immersivetranslate.com/static/official-static/assets/pdf.png)
 
 ```
 This translation maintains the original markdown structure and translates the text content from Chinese to Russian. Note that links and image paths are kept unchanged as they are not language-specific.
@@ -41,12 +41,12 @@ This translation maintains the original markdown structure and translates the te
 controls
 muted
 height="800px"
-poster="/assets/safari-intro.webp" src="/assets/ios-safari-enable.mp4"></video>
+poster="https://s.immersivetranslate.com/static/official-static/assets/safari-intro.webp" src="https://s.immersivetranslate.com/static/official-static/assets/ios-safari-enable.mp4"></video>
 
 - [Bilibili](https://www.bilibili.com/video/BV1CM41137CJ/)
 
 ## Для большего количества стилей смотрите настройки
 
-![](/assets/config1.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/config1.png)
 
-![](/assets/config.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/config.png)

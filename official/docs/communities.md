@@ -16,11 +16,11 @@ sidebar_position: 5
 - 扫描下面二维码，加入官方微信交流群
 
 <div align="center">
-<img src="/assets/wechat-contact3.jpg" width="300" alt="qq"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-contact3.jpg" width="300" alt="qq"/>
 </div>
 
 - 扫描下方二维码，加入微信公众号
 
 <div align="center">
-<img src="/assets/wechat-qrcode.jpg" width="300" alt="wechat"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="300" alt="wechat"/>
 </div>

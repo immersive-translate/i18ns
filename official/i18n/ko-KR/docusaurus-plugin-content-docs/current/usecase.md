@@ -18,11 +18,11 @@ sidebar_position: 3
 
 ## 일반 기사, 번역본에 스타일 없음：
 
-![](/assets/microsoft.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/microsoft.png)
 
 ## 기술 문서, 번역본에 스타일 없음
 
-![](/assets/typescript.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/typescript.png)
 
 ## 트위터, 번역본 스타일 약화
 
@@ -30,7 +30,7 @@ sidebar_position: 3
 
 ## PDF 파일 번역
 
-![pdf](/assets/pdf.png)
+![pdf](https://s.immersivetranslate.com/static/official-static/assets/pdf.png)
 
 ## 애플 iOS 설치 몰입형 번역 비디오 튜토리얼
 
@@ -38,12 +38,12 @@ sidebar_position: 3
 controls
 muted
 height="800px"
-poster="/assets/safari-intro.webp" src="/assets/ios-safari-enable.mp4"></video>
+poster="https://s.immersivetranslate.com/static/official-static/assets/safari-intro.webp" src="https://s.immersivetranslate.com/static/official-static/assets/ios-safari-enable.mp4"></video>
 
 - [Bilibili](https://www.bilibili.com/video/BV1CM41137CJ/)
 
 ## 더 많은 스타일은 설정 화면에서 확인하세요
 
-![](/assets/config1.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/config1.png)
 
-![](/assets/config.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/config.png)

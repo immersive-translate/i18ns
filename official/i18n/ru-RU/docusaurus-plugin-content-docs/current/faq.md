@@ -56,7 +56,7 @@ OLLAMA_ORIGINS="*" ollama serve для запуска
 
 Как правило, расширения, установленные из магазина браузера, обновляются автоматически. Обычно автоматическое обновление происходит в течение дня после выхода обновления. Если вы хотите немедленно обновиться до последней версии, вы можете перейти на страницу «Управление расширениями» в браузере, включить «Режим разработчика», а затем нажать на кнопку «Обновить» в верхней части страницы, чтобы немедленно обновиться до последней версии в магазине.
 
-![](/assets/docs/doc-assets/update-extension.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/update-extension.png)
 
 ## Настройка стиля субтитров на Youtube
 
@@ -101,7 +101,7 @@ OLLAMA_ORIGINS="*" ollama serve для запуска
 
 Необходимо в контекстном меню веб-страницы выбрать "Сохранить как" или использовать сочетание клавиш ctrl+s, в опциях сохранения выбрать "Одиночный файл", в конце выбрать формат файла .mht/.mhtml. Затем отправьте файл на support@immersivetranslate.com
 
-![сохранить mht](/assets/save_mht.png)
+![сохранить mht](https://s.immersivetranslate.com/static/official-static/assets/save_mht.png)
 
 ## Ошибка перевода Colorful Clouds
 
@@ -167,7 +167,7 @@ OLLAMA_ORIGINS="*" ollama serve для запуска
 
 Необходимо в настройках расширений Opera найти 【Иммерсивный перевод】 и включить опцию 【Разрешить доступ к результатам поиска】.
 
-![](/assets/opera-allow-search.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/opera-allow-search.png)
 
 ## На YouTube не отображаются двуязычные субтитры на традиционном китайском
 

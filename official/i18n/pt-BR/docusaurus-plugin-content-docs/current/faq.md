@@ -69,7 +69,7 @@ sidebar_position: 9
 2. Ative o [Modo Desenvolvedor].
 3. Clique em [Atualizar].
 
-![](/assets/docs/doc-assets/update-extension.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/update-extension.png)
 
 ## Estilo de Legendas do YouTube
 
@@ -112,7 +112,7 @@ sidebar_position: 9
 
 **R:** Salve a página como arquivo .mht/.mhtml (Ctrl+S) e envie para support@immersivetranslate.com.
 
-<!-- ![save mht](/assets/save_mht.png) -->
+<!-- ![save mht](https://s.immersivetranslate.com/static/official-static/assets/save_mht.png) -->
 
 ## Erro de Tradução na Color Cloud
 
@@ -163,7 +163,7 @@ sidebar_position: 9
 
 **R:** Ative "Permitir acesso aos resultados da página de pesquisa" nas configurações do plugin Immersive Translate no Opera.
 
-<!-- ![](/assets/opera-allow-search.png) -->
+<!-- ![](https://s.immersivetranslate.com/static/official-static/assets/opera-allow-search.png) -->
 
 
 ## Legendas Bilíngues no YouTube

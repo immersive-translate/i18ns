@@ -15,7 +15,7 @@ sidebar_position: 4
 यहाँ कुछ उन्नत PDF अनुवाद युक्तियाँ हैं:
 <!--
 ## अनुवाद बॉक्स को समायोजित करने के लिए ले जाएँ
-![](/assets/docs/doc-assets/pdf-move.png) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-move.png) -->
 
 ### संपादन बॉक्स
 
@@ -37,7 +37,7 @@ sidebar_position: 4
 
 ## नियंत्रण शैली बटन
 
-![](/assets/docs/doc-assets/pdf-control.png) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-control.png) -->
 
 ### बैंडवैगन मोड
 
@@ -85,7 +85,7 @@ sidebar_position: 4
 
 ऊपरी दाएँ कोने में डाउनलोड आइकन पर क्लिक करें
 
-![](/assets/docs/doc-assets/pdf-download.png) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-download.png) -->
 
 चूंकि हमारा उपकरण ब्राउज़र पर निर्भर करता है, इसलिए डाउनलोड गति और परिणाम मुख्य रूप से ब्राउज़र पर ही निर्भर करते हैं। इसलिए यह सलाह दी जाती है कि 300 पृष्ठों से अधिक की PDF के साथ डील न करें।
 

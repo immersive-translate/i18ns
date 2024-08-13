@@ -16,7 +16,7 @@ sidebar_position: 4
 
 ## 번역 텍스트 상자 이동 조정
 
-![](/assets/docs/doc-assets/pdf-move.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-move.png)
 
 ### 편집 상자
 
@@ -36,7 +36,7 @@ sidebar_position: 4
 
 ## 스타일 컨트롤 버튼
 
-![](/assets/docs/doc-assets/pdf-control.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-control.png)
 
 ### 이미지 모드
 
@@ -91,7 +91,7 @@ PDF의 복잡한 레이아웃 때문에, 시스템이 자동으로 문단을 들
 
 오른쪽 상단의 다운로드 아이콘을 클릭하세요.
 
-![](/assets/docs/doc-assets/pdf-download.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-download.png)
 
 우리 도구는 브라우저에 의존하기 때문에, 다운로드 속도와 효과는 브라우저 자체에 크게 의존합니다. 그래서 300페이지를 초과하는 PDF를 처리하지 않는 것이 좋습니다.
 
@@ -114,11 +114,11 @@ PDF의 복잡한 레이아웃 때문에, 시스템이 자동으로 문단을 들
 
 - 로컬 이중 언어 pdf 파일을 브라우저로 드래그하면 다음과 같은 메시지가 표시됩니다.
 
-![](/assets/docs/doc-assets/pdf-open-error.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-open-error.png)
 
 - 로컬 이중 언어 pdf 파일을 https://app.immersivetranslate.com/pdf/ 로 드래그하면 다음과 같은 메시지가 표시됩니다.
 
-![](/assets/docs/doc-assets/pdf-open-pwd.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-open-pwd.png)
 
 원인
 

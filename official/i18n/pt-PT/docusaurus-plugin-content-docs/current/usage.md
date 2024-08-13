@@ -46,13 +46,13 @@ Clique no ícone do plugin -> PDF/ePub (suporta Epub, Mobi e outros formatos com
 
 <!-- Clique para ver [tutorial em vídeo](https://www.bilibili.com/video/BV1CM41137CJ/?spm_id_from=333.999.0.0) -->
 
-![](/assets/site/doc_en.jpg)
+![](https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg)
 
 <!-- <video
 controls style={{width:"100%", maxWidth:"500px"}}
 controls
 muted
-poster="/assets/site/doc_en.jpg" src="https://s.immersivetranslate.com/videos/morefeature_epub_en.mp4"></video>  -->
+poster="https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg" src="https://s.immersivetranslate.com/videos/morefeature_epub_en.mp4"></video>  -->
 
 
 
@@ -81,11 +81,11 @@ Por exemplo, em [Configurações de Interface], podemos modificar o **Estilo de 
 
 A Immersion suporta a tradução automática de um parágrafo ao passar o mouse sobre ele, mas não está habilitada por padrão. Você precisa habilitá-la no painel:
 
-![](/assets/site/mouse_en.jpg)
+![](https://s.immersivetranslate.com/static/official-static/assets/site/mouse_en.jpg)
 
 Uma vez habilitado, você pode pressionar a tecla `Shift` enquanto passa o mouse sobre um parágrafo para ver a tradução bilíngue:
 
-![mouse hover](/assets/mouse-hover.gif)
+![mouse hover](https://s.immersivetranslate.com/static/official-static/assets/mouse-hover.gif)
 
 ## Melhoria da Caixa de Entrada
 
@@ -100,8 +100,8 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 A Immersive suporta a tradução de arquivos de legenda nos formatos `.srt`, `.ass` e outros. Clique no ícone da extensão Immersive Translate, clique em [Mais], [Tradução de Arquivo de Legenda], para acessá-lo, e você pode exportar legendas bilíngues após a tradução.
 
-<!-- ![subtitle](/assets/subtitle.jpg) -->
-![](/assets/site/doc_en.jpg)
+<!-- ![subtitle](https://s.immersivetranslate.com/static/official-static/assets/subtitle.jpg) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg)
 
 ## Mostrar Apenas Traduções
 
@@ -132,7 +132,7 @@ loop
 muted
 plays-inline
 width="1200px"
-poster="/assets/site/full_usage_en.jpg"><source src="https://s.immersivetranslate.com/videos/total-usage-2024-01-18-with-mobile_en.mp4" type="video/mp4"/>Você precisa de um navegador que suporte vídeo HTML5 para ver este vídeo. </video>
+poster="https://s.immersivetranslate.com/static/official-static/assets/site/full_usage_en.jpg"><source src="https://s.immersivetranslate.com/videos/total-usage-2024-01-18-with-mobile_en.mp4" type="video/mp4"/>Você precisa de um navegador que suporte vídeo HTML5 para ver este vídeo. </video>
 
 ## Saiba Mais
 

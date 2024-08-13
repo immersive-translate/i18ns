@@ -16,7 +16,7 @@ sidebar_position: 2
 
 安裝插件後，【右上角將沉浸式翻譯瀏覽器圖標置頂】，然後點擊【沉浸式翻譯擴展圖標】，再點擊翻譯即可進行翻譯：
 
-<img src="/assets/browser-panel-v2.png" alt="browser action" width="250" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/browser-panel-v2.png" alt="browser action" width="250" />
 
 或者，直接點擊網頁右側的沉浸式翻譯快捷圖標：
 
@@ -42,7 +42,7 @@ sidebar_position: 2
 
 隨便打開一個影片 <https://youtube.com/watch?v=EWX0bbGAd0k> ，點擊沉浸式翻譯面板，然後選中【自動開啟雙語字幕】即可開啟。如果您選擇的設置在影片中沒有生效，一般刷新頁面即可。
 
-<img src="/assets/video-subtitle.png" alt="browser action" width="250" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/video-subtitle.png" alt="browser action" width="250" />
 
 ## Epub 電子書閱讀和雙語導出
 
@@ -50,13 +50,13 @@ sidebar_position: 2
 
 點擊查看[影片教程](https://www.bilibili.com/video/BV1CM41137CJ/?spm_id_from=333.999.0.0)
 
-![](/assets/epub.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/epub.png)
 
 ## PDF 文件翻譯
 
 1. 如果是在線的 PDF 文件，在瀏覽器打開後，點擊擴展的圖標，然後點擊翻譯該文件即可，如下圖所示。
 
-<img src="/assets/browser-pdf.png" alt="browser action" width="250" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/browser-pdf.png" alt="browser action" width="250" />
 
 2. 如果是本地的 PDF 文件，直接右鍵擴展的圖標（或者左鍵點擊擴展圖標，然後點擊「更多」，點擊「翻譯本地 PDF 文件」），進入頁面後，點擊頁面右上角上傳你的 PDF 文件即可。
 
@@ -68,17 +68,17 @@ sidebar_position: 2
 
 比如在【基本設置】，拉到最下面，我們可以修改 **譯文樣式**：
 
-![](/assets/config.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/config.png)
 
 ## 鼠標懸停翻譯
 
 沉浸式支持鼠標懸停在某個段落自動翻譯該段落，但是默認沒有啟用哦。你需要在面板裡，啟用一下：
 
-<img src="/assets/mouse-hover.png" alt="browser action" width="250" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/mouse-hover.png" alt="browser action" width="250" />
 
 啟用後，你可以按下`Shift` 鍵的同時，將鼠標懸停在某個段落，即可看到雙語的翻譯結果：
 
-![mouse hover](/assets/mouse-hover.gif)
+![mouse hover](https://s.immersivetranslate.com/static/official-static/assets/mouse-hover.gif)
 
 ## 輸入框增強
 
@@ -91,7 +91,7 @@ sidebar_position: 2
 
 沉浸式支援`.srt`, `.ass` 等格式的字幕檔翻譯，點擊沉浸式翻譯擴展圖標，點擊【更多】，【字幕檔翻譯】，即可進入，翻譯後可以導出雙語字幕。
 
-![subtitle](/assets/subtitle-demo.png)
+![subtitle](https://s.immersivetranslate.com/static/official-static/assets/subtitle-demo.png)
 
 ## 僅顯示譯文
 

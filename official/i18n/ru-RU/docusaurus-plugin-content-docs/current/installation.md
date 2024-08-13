@@ -23,7 +23,7 @@ src="https://s.immersivetranslate.com/videos/20240119installation.mp4"></video>
 - [Нажмите здесь, чтобы установить из магазина приложений Apple App Store](https://apps.apple.com/app/immersive-translate/id6447957425) **Временно бесплатно!!!**
 
 <div align="center">
-<img src="/assets/immersive-app-store.png" width="150" alt="QR-код магазина приложений"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="QR-код магазина приложений"/>
 </div>
 
 > Примечание: После первой установки необходимо в браузере Safari перейти в -> Управление расширениями -> **Включить расширение для погруженного перевода** и предоставить ему разрешение на **всегда разрешать доступ ко всем сайтам**. Если у вас возникли вопросы, вы можете посмотреть видеоуроки ниже:
@@ -35,7 +35,7 @@ controls style={{width:"100%", maxWidth:"350px"}}
 controls
 muted
 height="800px"
-poster="https://immersivetranslate.com/assets/ios-safari-poster.png" src="/assets/ios-safari-enable.mp4"></video>
+poster="https://immersivetranslate.com/assets/ios-safari-poster.png" src="https://s.immersivetranslate.com/static/official-static/assets/ios-safari-enable.mp4"></video>
 
 ### macOS Safari
 
@@ -43,7 +43,7 @@ poster="https://immersivetranslate.com/assets/ios-safari-poster.png" src="/asset
 controls style={{width:"100%", maxWidth:"500px"}}
 controls
 muted
-poster="/assets/safari-mac-preview.png" src="/assets/safari_mac.mp4"></video>
+poster="https://s.immersivetranslate.com/static/official-static/assets/safari-mac-preview.png" src="https://s.immersivetranslate.com/static/official-static/assets/safari_mac.mp4"></video>
 
 ## Андроид
 

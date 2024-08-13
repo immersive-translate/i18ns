@@ -8,7 +8,7 @@ sidebar_position: 2
 
 プラグインをインストールした後、【右上角に沈没式翻訳ブラウザのアイコンをトップに置く】、そして【沈没式翻訳拡張アイコン】をクリックし、翻訳をクリックすると翻訳が行えます：
 
-<img src="/assets/browser-panel-v2.png" alt="browser action" width="250" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/browser-panel-v2.png" alt="browser action" width="250" />
 
 または、直接ウェブページの右側にある沈没式翻訳のショートカットアイコンをクリックします：
 
@@ -36,7 +36,7 @@ sidebar_position: 2
 
 任意のビデオを開く <https://youtube.com/watch?v=EWX0bbGAd0k> 、没入型翻訳パネルをクリックし、【自動的に二言語字幕を開始】を選択して開始します。選択した設定がビデオで有効になっていない場合は、通常、ページを更新すると良いでしょう。
 
-<img src="/assets/video-subtitle.png" alt="browser action" width="250" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/video-subtitle.png" alt="browser action" width="250" />
 
 ## Epub 電子ブックの読み取りと二言語でのエクスポート
 
@@ -44,13 +44,13 @@ sidebar_position: 2
 
 [ビデオチュートリアルを見る](https://www.bilibili.com/video/BV1CM41137CJ/?spm_id_from=333.999.0.0)
 
-![](/assets/epub.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/epub.png)
 
 ## PDFファイルの翻訳
 
 1. オンラインのPDFファイルの場合、ブラウザで開いた後、拡張機能のアイコンをクリックし、その後にファイルを翻訳するをクリックします、下図のように。
 
-<img src="/assets/browser-pdf.png" alt="browser action" width="250" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/browser-pdf.png" alt="browser action" width="250" />
 
 2. ローカルのPDFファイルの場合、直接に拡張機能のアイコンを右クリック（または左クリックで拡張機能のアイコンをクリックし、その後「もっと見る」をクリック、「ローカルPDFファイルを翻訳する」をクリック）、ページに入った後、ページの右上角からPDFファイルをアップロードするだけです。
 
@@ -64,17 +64,17 @@ sidebar_position: 2
 
 例えば【基本設定】で、一番下までスクロールすると、**翻訳スタイル**を変更することができます：
 
-![](/assets/config.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/config.png)
 
 ## マウスホバーでの翻訳
 
 沈没式は、マウスを特定の段落にホバーするとその段落が自動的に翻訳される機能をサポートしていますが、デフォルトでは有効になっていません。パネルで有効にする必要があります：
 
-<img src="/assets/mouse-hover.png" alt="browser action" width="250" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/mouse-hover.png" alt="browser action" width="250" />
 
 有効にした後、`Shift`キーを押しながら、マウスを特定の段落にホバーすると、二言語の翻訳結果を見ることができます：
 
-![mouse hover](/assets/mouse-hover.gif)
+![mouse hover](https://s.immersivetranslate.com/static/official-static/assets/mouse-hover.gif)
 
 ## 入力フィールドの強化
 
@@ -89,7 +89,7 @@ sidebar_position: 2
 
 `.srt`、`.ass` などの形式の字幕ファイルの翻訳をサポートし、沈没式翻訳の拡張アイコンをクリックし、【もっと】をクリックし、【字幕ファイルの翻訳】を選択すると、入力できます。翻訳後、バイリンガル字幕をエクスポートできます。
 
-![subtitle](/assets/subtitle-demo.png)
+![subtitle](https://s.immersivetranslate.com/static/official-static/assets/subtitle-demo.png)
 
 ## 翻訳のみを表示
 

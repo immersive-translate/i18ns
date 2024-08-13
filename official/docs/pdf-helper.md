@@ -16,7 +16,7 @@ sidebar_position: 4
 
 ## 移动调整译文框
 
-![](/assets/docs/doc-assets/pdf-move.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-move.png)
 
 ### 编辑框
 
@@ -36,7 +36,7 @@ sidebar_position: 4
 
 ## 控制样式按钮
 
-![](/assets/docs/doc-assets/pdf-control.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-control.png)
 
 ### 带图模式
 
@@ -99,11 +99,11 @@ sidebar_position: 4
 
 - 本地双语 pdf 文件拖到浏览器中提示如下信息
 
-![](/assets/docs/doc-assets/pdf-open-error.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-open-error.png)
 
 - 本地双语 pdf 文件拖到 https://app.immersivetranslate.com/pdf/ 显示如下信息
 
-![](/assets/docs/doc-assets/pdf-open-pwd.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-open-pwd.png)
 
 原因
 

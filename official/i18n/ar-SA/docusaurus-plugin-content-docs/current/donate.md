@@ -24,13 +24,13 @@ sidebar_position: 10
 - امسح رمز الاستجابة السريعة أدناه للانضمام إلى مجموعة تبادل WeChat الرسمية للمساعدة في الإجابة على أسئلة المستخدمين:
 
 <div align="center">
-<img src="/assets/wechat-contact.png" width="200" alt="qq"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-contact.png" width="200" alt="qq"/>
 </div>
 
 - امسح رمز الاستجابة السريعة أدناه لمتابعة الرقم العام الرسمي لـ WeChat:
 
 <div align="center">
-<img src="/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
 </div>
 
 ## ملاحظة أطول

@@ -40,7 +40,7 @@ gpt-35-turbo 모델을 배포한 후, OpenAI 설정 페이지에서 번역 설�
 
 > 질문이 있으시다면, Azure AI Studio에서 PlayGround를 열고, 【View Code】를 클릭하세요. 아래에 최종 【EndPoint】와 【Key】가 표시됩니다. 아래 그림과 같습니다:
 
-![](/assets/docs/doc-assets/azure-openai-key.jpg)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/azure-openai-key.jpg)
 
 ## OpenAI API 주소 사용자 정의
 

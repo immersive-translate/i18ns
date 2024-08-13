@@ -40,7 +40,7 @@ OpenAI 翻译服务同时也兼容 Azure OpenAI 接口，先在 Azure 控制台�
 
 > 如果还有疑问，你可以在 Azure AI Studio 里面，打开 PlayGround，【View Code】，下方会有最终的【EndPoint】和【Key】，如下图：
 
-![](/assets/docs/doc-assets/azure-openai-key.jpg)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/azure-openai-key.jpg)
 
 ## 自定义 OpenAI 的 API 地址
 

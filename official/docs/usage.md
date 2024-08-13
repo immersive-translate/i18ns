@@ -18,7 +18,7 @@ sidebar_position: 2
 
 安装插件后，【右上角将沉浸式翻译浏览器图标置顶】，然后点击【沉浸式翻译扩展图标】，再点击翻译即可进行翻译：
 
-<img src="/assets/browser-panel-v2.png" alt="browser action" width="250" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/browser-panel-v2.png" alt="browser action" width="250" />
 
 或者，直接点击网页右侧的沉浸式翻译快捷图标：
 
@@ -46,7 +46,7 @@ sidebar_position: 2
 
 随便打开一个视频 <https://youtube.com/watch?v=EWX0bbGAd0k> ，点击沉浸式翻译面板，然后选中【自动开启双语字幕】即可开启。如果您选择的设置在视频中没有生效，一般刷新页面即可。
 
-<img src="/assets/video-subtitle.png" alt="browser action" width="250" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/video-subtitle.png" alt="browser action" width="250" />
 
 ## Epub 电子书阅读和双语导出
 
@@ -60,7 +60,7 @@ sidebar_position: 2
 
 1. 如果是在线的 PDF 文件，在浏览器打开后，点击扩展的图标，然后点击翻译该文件即可，如下图所示。
 
-<img src="/assets/browser-pdf.png" alt="browser action" width="250" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/browser-pdf.png" alt="browser action" width="250" />
 
 2. 如果是本地的 PDF 文件，直接右键扩展的图标（或者左键点击扩展图标，然后点击「更多」，点击「翻译本地 PDF 文件」），进入页面后，点击页面右上角上传你的 PDF 文件即可。
 
@@ -74,17 +74,17 @@ sidebar_position: 2
 
 比如在【基本设置】，拉到最下面，我们可以修改 **译文样式**：
 
-![](/assets/config.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/config.png)
 
 ## 鼠标悬停翻译
 
 沉浸式支持鼠标悬停在某个段落自动翻译该段落，但是默认没有启用哦。你需要在面板里，启用一下：
 
-<img src="/assets/mouse-hover.png" alt="browser action" width="250" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/mouse-hover.png" alt="browser action" width="250" />
 
 启用后，你可以按下`Shift` 键的同时，将鼠标悬停在某个段落，即可看到双语的翻译结果：
 
-![mouse hover](/assets/mouse-hover.gif)
+![mouse hover](https://s.immersivetranslate.com/static/official-static/assets/mouse-hover.gif)
 
 ## 输入框增强
 
@@ -99,7 +99,7 @@ sidebar_position: 2
 
 沉浸式支持`.srt`, `.ass` 等格式的字幕文件翻译，点击沉浸式翻译扩展图标，点击【更多】，【字幕文件翻译】，即可进入，翻译后可以导出双语字幕。
 
-![subtitle](/assets/subtitle-demo.png)
+![subtitle](https://s.immersivetranslate.com/static/official-static/assets/subtitle-demo.png)
 
 ## 仅显示译文
 

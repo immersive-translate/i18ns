@@ -16,7 +16,7 @@ Ecco alcuni consigli avanzati per la traduzione di PDF:
 <!-- 
 ## Sposta per regolare il riquadro di traduzione
 
-![](/assets/docs/doc-assets/pdf-move.png) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-move.png) -->
 
 ### Modifica Riquadro
 
@@ -34,7 +34,7 @@ Poiché l'altezza e la larghezza della traduzione predefinite sono le stesse del
 
 <!-- ## Pulsanti di Controllo dello Stile
 
-![](/assets/docs/doc-assets/pdf-control.png) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-control.png) -->
 
 ### Modalità Bandwagon
 
@@ -80,7 +80,7 @@ Se il paragrafo riconosciuto in modo intelligente è incorretto, può essere reg
 
 Clicca sull'icona di download nell'angolo in alto a destra
 
-![](/assets/docs/doc-assets/pdf-download.png) -->
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-download.png) -->
 
 Poiché il nostro strumento si basa sul browser, la velocità di download e i risultati dipendono fortemente dal browser stesso. Pertanto, si raccomanda di non gestire più di 300 pagine di PDF
 

@@ -40,7 +40,7 @@
 
 > Если у вас возникнут вопросы, вы можете открыть PlayGround в Azure AI Studio, нажать 【View Code】, ниже будет указан окончательный 【EndPoint】 и 【Key】, как показано на изображении:
 
-![](/assets/docs/doc-assets/azure-openai-key.jpg)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/azure-openai-key.jpg)
 
 ## Настройка адреса API OpenAI
 

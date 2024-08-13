@@ -53,7 +53,7 @@ sidebar_position: 9
 
 一般來說，在瀏覽器商店安裝的擴展，瀏覽器都會自動進行更新，一般情況會在擴展更新之後的一天內進行自動更新，如果你想立刻更新到最新版本的話，可以在瀏覽器的【擴展管理】頁面，打開【開發者模式】，然後點擊最上面的【更新】，即可立即更新到商店的最新版本。
 
-![](/assets/docs/doc-assets/update-extension.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/update-extension.png)
 
 ## Youtube 字幕設置樣式
 
@@ -94,7 +94,7 @@ Safari 推薦使用的油猴擴展：
 
 需要在網頁中右鍵點擊“存儲為” 或者 ctrl+s 快捷鍵，保存選項選擇單個文件，最後文件格式為.mht/.mhtml。 然後將文件發送至 support@immersivetranslate.com
 
-![save mht](/assets/save_mht.png)
+![save mht](https://s.immersivetranslate.com/static/official-static/assets/save_mht.png)
 
 ## 彩雲翻譯報錯
 
@@ -154,7 +154,7 @@ Google搜索框一定是在[Google](https://www.google.com/)網址的網頁，�
 
 需要在 Opera 插件設置中找到【沉浸式翻譯】，開啟【允許訪問搜索頁面結果】選項
 
-![](/assets/opera-allow-search.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/opera-allow-search.png)
 
 ## YouTube 雙語字幕繁體中文不顯示
 

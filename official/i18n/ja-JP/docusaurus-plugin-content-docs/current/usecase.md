@@ -18,11 +18,11 @@ sidebar_position: 3
 
 ## 一般的な記事、翻訳はスタイルなし：
 
-![](/assets/microsoft.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/microsoft.png)
 
 ## 技術文書、翻訳はスタイルなし
 
-![](/assets/typescript.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/typescript.png)
 
 ## ツイッター、翻訳スタイルを弱める
 
@@ -30,7 +30,7 @@ sidebar_position: 3
 
 ## PDFファイルの翻訳
 
-![pdf](/assets/pdf.png)
+![pdf](https://s.immersivetranslate.com/static/official-static/assets/pdf.png)
 
 ## アップル iOS インストール没入型翻訳ビデオチュートリアル
 
@@ -38,12 +38,12 @@ sidebar_position: 3
 controls
 muted
 height="800px"
-poster="/assets/safari-intro.webp" src="/assets/ios-safari-enable.mp4"></video>
+poster="https://s.immersivetranslate.com/static/official-static/assets/safari-intro.webp" src="https://s.immersivetranslate.com/static/official-static/assets/ios-safari-enable.mp4"></video>
 
 - [Bilibili](https://www.bilibili.com/video/BV1CM41137CJ/)
 
 ## 設定画面でさらに多くのスタイルをご覧ください
 
-![](/assets/config1.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/config1.png)
 
-![](/assets/config.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/config.png)

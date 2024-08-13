@@ -18,11 +18,11 @@ sidebar_position: 3
 
 ## 普通文章，译文无样式：
 
-![](/assets/microsoft.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/microsoft.png)
 
 ## 技术文档，译文无样式
 
-![](/assets/typescript.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/typescript.png)
 
 ## 推特，译文弱化样式
 
@@ -30,7 +30,7 @@ sidebar_position: 3
 
 ## PDF 文件翻译
 
-![pdf](/assets/pdf.png)
+![pdf](https://s.immersivetranslate.com/static/official-static/assets/pdf.png)
 
 ## 苹果 iOS 安装沉浸式翻译视频教程
 
@@ -38,12 +38,12 @@ sidebar_position: 3
 controls
 muted
 height="800px"
-poster="/assets/safari-intro.webp" src="/assets/ios-safari-enable.mp4"></video>
+poster="https://s.immersivetranslate.com/static/official-static/assets/safari-intro.webp" src="https://s.immersivetranslate.com/static/official-static/assets/ios-safari-enable.mp4"></video>
 
 - [Bilibili](https://www.bilibili.com/video/BV1CM41137CJ/)
 
 ## 更多样式请查看设置界面
 
-![](/assets/config1.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/config1.png)
 
-![](/assets/config.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/config.png)

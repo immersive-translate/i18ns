@@ -24,13 +24,13 @@ Sie können jedoch jetzt Folgendes tun, um uns zu helfen:
 - Scannen Sie den untenstehenden QR-Code, um der offiziellen WeChat-Austauschgruppe beizutreten und Benutzern bei Fragen zu helfen:
 
 <div align="center">
-<img src="/assets/wechat-contact.png" width="200" alt="qq"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-contact.png" width="200" alt="qq"/>
 </div>
 
 - Scannen Sie den untenstehenden QR-Code, um der offiziellen WeChat-Öffentlichkeitsnummer zu folgen:
 
 <div align="center">
-<img src="/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
 </div>
 
 ## Eine längere Notiz

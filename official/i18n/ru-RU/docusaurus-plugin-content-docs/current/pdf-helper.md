@@ -16,7 +16,7 @@ sidebar_position: 4
 
 ## Перемещение и настройка окна перевода
 
-![](/assets/docs/doc-assets/pdf-move.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-move.png)
 
 ### Редактирование окна
 
@@ -36,7 +36,7 @@ sidebar_position: 4
 
 ## Кнопки управления стилем
 
-![](/assets/docs/doc-assets/pdf-control.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-control.png)
 
 ### Режим с изображениями
 
@@ -91,7 +91,7 @@ sidebar_position: 4
 
 Нажмите на иконку скачивания в правом верхнем углу.
 
-![](/assets/docs/doc-assets/pdf-download.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-download.png)
 
 Поскольку наш инструмент зависит от браузера, скорость и качество скачивания сильно зависят от самого браузера. Поэтому рекомендуется не обрабатывать PDF файлы более 300 страниц.
 
@@ -114,11 +114,11 @@ sidebar_position: 4
 
 - При перетаскивании локального двуязычного pdf файла в браузер появляется следующее сообщение
 
-![](/assets/docs/doc-assets/pdf-open-error.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-open-error.png)
 
 - При перетаскивании локального двуязычного pdf файла на https://app.immersivetranslate.com/pdf/ отображается следующее сообщение
 
-![](/assets/docs/doc-assets/pdf-open-pwd.png)
+![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-open-pwd.png)
 
 Причина
 
