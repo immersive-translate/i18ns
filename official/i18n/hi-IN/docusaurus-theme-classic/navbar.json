@@ -20,7 +20,7 @@
     "description": "Navbar item with label 教程"
   },
   "item.label.price": {
-    "message": "कीमत",
+    "message": "Pricing",
     "description": "Navbar item with label 价格"
   },
   "item.label.profile": {

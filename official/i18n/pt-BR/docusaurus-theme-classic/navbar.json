@@ -20,8 +20,8 @@
     "description": "Item da barra de navegação com o rótulo 'Junte-se a Nós'"
   },
   "item.label.price": {
-    "message": "Preços",
-    "description": "Item da barra de navegação com o rótulo 'Preços'"
+    "message": "Pricing",
+    "description": "Navbar item with label 价格"
   },
   "item.label.profile": {
     "message": "Profile",
