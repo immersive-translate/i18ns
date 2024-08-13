@@ -24,11 +24,11 @@
     "description": "Navbar item with label 价格"
   },
   "item.label.profile": {
-    "message": "Perfil",
+    "message": "Profile",
     "description": "Navbar item with label 个人中心"
   },
   "item.label.Features": {
-    "message": "Recursos",
+    "message": "Features",
     "description": "Navbar item with label 更多功能"
   },
   "item.label.VideoSubtitle": {
@@ -56,11 +56,11 @@
     "description": "Navbar item with label 联盟计划"
   },
   "item.label.download": {
-    "message": "download",
+    "message": "Download",
     "description": "Navbar item with label 下载"
   },
   "item.label.documentTranslation": {
-    "message": "Tradução de documentos",
+    "message": "Document Translation",
     "description": "Navbar item with label 文档翻译"
   },
   "item.label.blog": {
