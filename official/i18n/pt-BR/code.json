@@ -420,22 +420,34 @@
     "message": "Um serviço de tradução gratuito para sites em idiomas estrangeiros, documentos PDF, eBook EPUB ou até mesmo para gerar legendas bilíngues para vídeos.<br />Além disso, você tem a liberdade de selecionar entre vários mecanismos de inteligência artificial, como OpenAI (ChatGPT), DeepL, Gemini, para traduzir seu conteúdo.<br />Também está convenientemente disponível em seu smartphone, permitindo que você quebre barreiras de informação a qualquer hora e em qualquer lugar. Basta escolher a plataforma abaixo para iniciar sua experiência imediatamente."
   },
   "page.index.downloadBtn.edge": {
-    "message": "Edge"
+    "message": {
+      "message": "Edge"
+    }
   },
   "page.index.downloadBtn.chrome": {
-    "message": "Chrome"
+    "message": {
+      "message": "Chrome"
+    }
   },
   "page.index.downloadBtn.firefox": {
-    "message": "Firefox"
+    "message": {
+      "message": "Firefox"
+    }
   },
   "page.index.downloadBtn.safari": {
-    "message": "Safari"
+    "message": {
+      "message": "Safari"
+    }
   },
   "page.index.downloadBtn.userscript": {
-    "message": "Tampermonkey"
+    "message": {
+      "message": "Tampermonkey"
+    }
   },
   "page.index.downloadBtn.zip": {
-    "message": "Instalador Zip"
+    "message": {
+      "message": "Zip Installer"
+    }
   },
   "page.index.downloadBtn.iosBrowser.tag": {
     "message": "Extensão Embutida"
@@ -1290,5 +1302,45 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "Para atender às necessidades dos entusiastas de quadrinhos, lançamos um novo recurso de tradução de quadrinhos. Seja em quadrinhos japoneses ou de outros países, os usuários podem traduzir rapidamente o texto dos quadrinhos para o idioma escolhido com apenas um clique, tornando mais fácil e confortável acompanhar seus quadrinhos favoritos."
+  },
+  "theme.blog.post.plurals": {
+    "message": "{count} Postagens no Blog",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "page.index.getThreeDayMembership": {
+    "message": "Obtenha gratuitamente"
+  },
+  "page.index.getMembershipSuccess": {
+    "message": "Você reivindicou com sucesso!"
+  },
+  "page.index.eventEnd": {
+    "message": "O evento expirou, esperamos encontrá-lo na próxima vez."
+  },
+  "page.index.getMembershipTitle": {
+    "message": "Tempo limitado {hlStart}grátis para obter{hlEnd} 3 dias de assinatura Manga Pro!"
+  },
+  "page.index.getMembershipContext": {
+    "message": "Obtenha uma assinatura Pro gratuita por tempo limitado para quadrinhos."
+  },
+  "page.index.needLogin": {
+    "message": "Por favor, faça login para reivindicar sua associação."
+  },
+  "page.index.setSuccess": {
+    "message": "Reivindicado com sucesso"
+  },
+  "page.index.installTip": {
+    "message": "Após a instalação bem-sucedida, tente atualizar esta página."
+  },
+  "page.index.getTipWarn": {
+    "message": "Seu navegador não possui o plugin de tradução imersiva instalado. Por favor, instale-o para continuar a reivindicar sua associação."
+  },
+  "page.index.getTip": {
+    "message": "O evento é apenas para novos usuários e só pode ser reivindicado uma vez."
+  },
+  "page.download.web.title": {
+    "message": "Traduzir Site"
+  },
+  "page.download.web.subtitle": {
+    "message": "A extensão Immersive Translate identifica inteligentemente as principais áreas de conteúdo das páginas da web para fornecer traduções bilíngues, minimizando a interrupção da página original. Essa funcionalidade popularizou a experiência de traduzir e ler páginas da web em línguas estrangeiras bilíngues entre milhões de usuários. Como líder na indústria, o Immersive Translate incorpora mais de dez dos principais motores de tradução, incluindo DeepL, OpenAI (ChatGPT) e Google Translate. Ele suporta o maior número de motores de tradução entre todas as extensões de tradução de páginas da web similares, tanto no mercado nacional quanto internacional."
   }
 }

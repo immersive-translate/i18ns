@@ -420,16 +420,16 @@
     "message": "你可以<b>完全免費</b>地使用它來即時翻譯外語網頁，<a href=\"{pdfUrl}\">PDF文檔</a>，<a target=\"_blank\" href=\"{epubUrl}\">ePub 電子書</a>，字幕檔等。<br />在手機上也可以隨時隨地用哦，<b>真正幫助你打破信息壁壘，選擇下方的平台，立刻開始體驗</b>:)"
   },
   "page.index.downloadBtn.edge": {
-    "message": "Edge 擴充"
+    "message": "Edge 擴展"
   },
   "page.index.downloadBtn.chrome": {
-    "message": "Chrome 擴充"
+    "message": "Chrome 擴展"
   },
   "page.index.downloadBtn.firefox": {
-    "message": "Firefox 擴充"
+    "message": "Firefox 擴展"
   },
   "page.index.downloadBtn.safari": {
-    "message": "Safari 擴充"
+    "message": "Safari 擴展"
   },
   "page.index.downloadBtn.userscript": {
     "message": "油猴腳本"

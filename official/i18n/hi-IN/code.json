@@ -420,22 +420,34 @@
     "message": "आप वास्तविक</a>में विदेशी भाषा के वेब पेजों,<a href=\"{pdfUrl}\">पीडीएफ दस्तावेज़ों,<a target=\"_blank\" href=\"{epubUrl}\">ईपब ई-पुस्तकों,</a>उपशीर्षक फ़ाइलों आदि का अनुवाद करने के लिए इसका<b>तरह से</b>उपयोग कर सकते हैं।<br />का उपयोग किसी भी समय और कहीं भी मोबाइल फोन पर किया जा सकता है।<b>वास्तव में आपको सूचना बाधाओं को तोड़ने में मदद करता है। नीचे दिया गया प्लेटफ़ॉर्म चुनें और तुरंत इसका अनुभव करना शुरू करें</b>:)"
   },
   "page.index.downloadBtn.edge": {
-    "message": "किनारा विस्तार"
+    "message": {
+      "message": "Edge"
+    }
   },
   "page.index.downloadBtn.chrome": {
-    "message": "क्रोम एक्सटेंशन"
+    "message": {
+      "message": "Chrome"
+    }
   },
   "page.index.downloadBtn.firefox": {
-    "message": "फ़ायरफ़ॉक्स एक्सटेंशन"
+    "message": {
+      "message": "Firefox"
+    }
   },
   "page.index.downloadBtn.safari": {
-    "message": "सफ़ारी विस्तार"
+    "message": {
+      "message": "Safari"
+    }
   },
   "page.index.downloadBtn.userscript": {
-    "message": "ग्रीस मंकी स्क्रिप्ट"
+    "message": {
+      "message": "Tampermonkey"
+    }
   },
   "page.index.downloadBtn.zip": {
-    "message": "ज़िप स्थापना पैकेज"
+    "message": {
+      "message": "Zip Installer"
+    }
   },
   "page.index.downloadBtn.iosBrowser.tag": {
     "message": "Built-in Extension"

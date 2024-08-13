@@ -420,22 +420,34 @@
     "message": "Você pode usá-lo de forma totalmente gratuita para traduzir sites em idiomas estrangeiros, traduzir documentos PDF, traduzir ebooks EPUB, gerar legendas bilíngues para vídeos.<br />Além disso, você tem a liberdade de selecionar mecanismos de inteligência artificial, como OpenAI (ChatGPT), DeepL, Gemini, para traduzir o conteúdo mencionado acima.<br />Também está disponível em seu smartphone, permitindo que você quebre as barreiras de informação a qualquer hora e em qualquer lugar. É só escolher a plataforma abaixo para começar sua experiência agora mesmo :)"
   },
   "page.index.downloadBtn.edge": {
-    "message": "Edge"
+    "message": {
+      "message": "Edge"
+    }
   },
   "page.index.downloadBtn.chrome": {
-    "message": "Chrome"
+    "message": {
+      "message": "Chrome"
+    }
   },
   "page.index.downloadBtn.firefox": {
-    "message": "Firefox"
+    "message": {
+      "message": "Firefox"
+    }
   },
   "page.index.downloadBtn.safari": {
-    "message": "Safari"
+    "message": {
+      "message": "Safari"
+    }
   },
   "page.index.downloadBtn.userscript": {
-    "message": "Tampermonkey"
+    "message": {
+      "message": "Tampermonkey"
+    }
   },
   "page.index.downloadBtn.zip": {
-    "message": "Instalador Zip"
+    "message": {
+      "message": "Zip Installer"
+    }
   },
   "page.index.downloadBtn.iosBrowser.tag": {
     "message": "Extensão integrada"
@@ -1281,5 +1293,38 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "Para satisfazer as necessidades dos entusiastas de banda desenhada, lançámos uma nova funcionalidade de tradução de banda desenhada. Quer sejam bandas desenhadas japonesas ou de outros países, os utilizadores podem traduzir rapidamente o texto nas bandas desenhadas para a língua escolhida com apenas um clique, tornando mais fácil e confortável acompanhar as suas bandas desenhadas favoritas."
+  },
+  "page.index.keywords": {
+    "message": "Tradução imersiva, plugin de tradução imersiva, site oficial de tradução imersiva"
+  },
+  "page.index.getThreeDayMembership": {
+    "message": "Obtém-no gratuitamente"
+  },
+  "page.index.getMembershipSuccess": {
+    "message": "Você reivindicou com sucesso!"
+  },
+  "page.index.eventEnd": {
+    "message": "O evento expirou, ansiosos por encontrá-lo na próxima vez."
+  },
+  "page.index.getMembershipTitle": {
+    "message": "Tempo limitado {hlStart}grátis para obter{hlEnd} 3 dias de assinatura Manga Pro!"
+  },
+  "page.index.getMembershipContext": {
+    "message": "Obtenha uma adesão Pro gratuita por tempo limitado para quadrinhos."
+  },
+  "page.index.needLogin": {
+    "message": "Por favor, faça login para reclamar a sua adesão."
+  },
+  "page.index.setSuccess": {
+    "message": "Reclamado com sucesso"
+  },
+  "page.index.installTip": {
+    "message": "Após a instalação bem-sucedida, tente atualizar esta página."
+  },
+  "page.index.getTipWarn": {
+    "message": "O seu navegador não tem o plugin de tradução imersiva instalado. Por favor, instale-o para continuar a reivindicar a sua subscrição."
+  },
+  "page.index.getTip": {
+    "message": "O evento é apenas para novos utilizadores e só pode ser reclamado uma vez."
   }
 }

@@ -420,22 +420,34 @@
     "message": "يمكنك استخدامه مجانًا لترجمة صفحات الويب باللغة الأجنبية، وملفات PDF، و<a href=\"{pdfUrl}\">كتب إلكترونية ePub، و</a>ملفات ترجمة، وما إلى ذلك في</a><a target=\"_blank\" href=\"{epubUrl}\">.<br />يمكن استخدامه أيضًا على الهواتف المحمولة في أي وقت وفي أي مكان.<b>يساعدك حقًا على كسر حواجز المعلومات. اختر النظام الأساسي أدناه وابدأ في تجربته على الفور</b>:)"
   },
   "page.index.downloadBtn.edge": {
-    "message": "ملحق إيدج"
+    "message": {
+      "message": "Edge"
+    }
   },
   "page.index.downloadBtn.chrome": {
-    "message": "ملحق كروم"
+    "message": {
+      "message": "Chrome"
+    }
   },
   "page.index.downloadBtn.firefox": {
-    "message": "ملحق فايرفوكس"
+    "message": {
+      "message": "Firefox"
+    }
   },
   "page.index.downloadBtn.safari": {
-    "message": "ملحق سفاري"
+    "message": {
+      "message": "Safari"
+    }
   },
   "page.index.downloadBtn.userscript": {
-    "message": "ملحق تامبرمونكي"
+    "message": {
+      "message": "Tampermonkey"
+    }
   },
   "page.index.downloadBtn.zip": {
-    "message": "حزمة التثبيت المضغوطة"
+    "message": {
+      "message": "Zip Installer"
+    }
   },
   "page.index.downloadBtn.iosBrowser.tag": {
     "message": "ملحق مدمج"

@@ -420,22 +420,34 @@
     "message": "<b><a href=\"{pdfUrl}\">PDF文書</a>、<a target=\"_blank\" href=\"{epubUrl}\">ePub電子ブック</a>、字幕ファイルなどをリアルタイムで、完全に無料で翻訳することができます</b>。<br />また、いつでもどこでもスマホで使用することができます。<b>没入型翻訳は情報格差を解消する強力なツールです！以下のプラットフォームを選択し、すぐに</b>体験し始めましょう！"
   },
   "page.index.downloadBtn.edge": {
-    "message": "Edge 拡張機能"
+    "message": {
+      "message": "Edge"
+    }
   },
   "page.index.downloadBtn.chrome": {
-    "message": "Chrome 拡張機能"
+    "message": {
+      "message": "Chrome"
+    }
   },
   "page.index.downloadBtn.firefox": {
-    "message": "Firefox拡張機能"
+    "message": {
+      "message": "Firefox"
+    }
   },
   "page.index.downloadBtn.safari": {
-    "message": "Safari 拡張機能"
+    "message": {
+      "message": "Safari"
+    }
   },
   "page.index.downloadBtn.userscript": {
-    "message": "Tampermonkey"
+    "message": {
+      "message": "Tampermonkey"
+    }
   },
   "page.index.downloadBtn.zip": {
-    "message": "Zipインストーラー"
+    "message": {
+      "message": "Zip Installer"
+    }
   },
   "page.index.downloadBtn.iosBrowser.tag": {
     "message": "即時に使用可能なプラグイン"

@@ -420,22 +420,34 @@
     "message": "Sie können<b>verwenden, um fremdsprachige Webseiten,<a href=\"{pdfUrl}\">PDF-Dokumente</a>,<a target=\"_blank\" href=\"{epubUrl}\">ePub eBooks</a>, Untertitel-Dateien und so weiter in Echtzeit zu übersetzen, völlig kostenlos</b>.<br />Sie können es auch auf Ihrem Mobiltelefon jederzeit und überall verwenden.<b>hilft Ihnen wirklich, die Informationsbarrieren zu überwinden, wählen Sie die Plattform unten und beginnen Sie sofort mit</b>:)"
   },
   "page.index.downloadBtn.edge": {
-    "message": "Erweiterung der Kante"
+    "message": {
+      "message": "Edge"
+    }
   },
   "page.index.downloadBtn.chrome": {
-    "message": "Chrome-Erweiterung"
+    "message": {
+      "message": "Chrome"
+    }
   },
   "page.index.downloadBtn.firefox": {
-    "message": "Firefox-Erweiterung"
+    "message": {
+      "message": "Firefox"
+    }
   },
   "page.index.downloadBtn.safari": {
-    "message": "Safari-Erweiterung"
+    "message": {
+      "message": "Safari"
+    }
   },
   "page.index.downloadBtn.userscript": {
-    "message": "Fettnäpfchen-Skript"
+    "message": {
+      "message": "Tampermonkey"
+    }
   },
   "page.index.downloadBtn.zip": {
-    "message": "Zip-Installationsprogramm"
+    "message": {
+      "message": "Zip Installer"
+    }
   },
   "page.index.downloadBtn.iosBrowser.tag": {
     "message": "Built-in Extension"

@@ -420,22 +420,34 @@
     "message": "Potete<b>usarlo per tradurre in tempo reale pagine web in lingua straniera,<a href=\"{pdfUrl}\">documenti PDF</a>,<a target=\"_blank\" href=\"{epubUrl}\">eBook ePub</a>, file di sottotitoli e così via, in modo completamente gratuito</b>.<br />Potete anche usarlo sul vostro cellulare in qualsiasi momento e ovunque.<b>vi aiuta davvero ad abbattere le barriere dell'informazione, scegliete la piattaforma qui sotto e iniziate subito a sperimentare</b>:)"
   },
   "page.index.downloadBtn.edge": {
-    "message": "Estensione del bordo"
+    "message": {
+      "message": "Edge"
+    }
   },
   "page.index.downloadBtn.chrome": {
-    "message": "Estensione per Chrome"
+    "message": {
+      "message": "Chrome"
+    }
   },
   "page.index.downloadBtn.firefox": {
-    "message": "Estensione per Firefox"
+    "message": {
+      "message": "Firefox"
+    }
   },
   "page.index.downloadBtn.safari": {
-    "message": "Estensione Safari"
+    "message": {
+      "message": "Safari"
+    }
   },
   "page.index.downloadBtn.userscript": {
-    "message": "Grease Monkey Script"
+    "message": {
+      "message": "Tampermonkey"
+    }
   },
   "page.index.downloadBtn.zip": {
-    "message": "Programma di installazione zip"
+    "message": {
+      "message": "Zip Installer"
+    }
   },
   "page.index.downloadBtn.iosBrowser.tag": {
     "message": "Built-in Extension"
