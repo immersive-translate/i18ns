@@ -1216,12 +1216,6 @@
   "page.pricing.header.normal.subtitle3": {
     "message": "Continued use indicates your agreement to the <a href='/docs/TERMS/' target='_blank'>Terms of Service</a> and <a href='/docs/PRIVACY/' target='_blank'>Privacy Policy</a>"
   },
-  "page.pricing.header.onboarding.video.src": {
-    "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-en-NlkG5c.mp4"
-  },
-  "page.pricing.header.onboarding.video.poster": {
-    "message": "https://s.immersivetranslate.com/assets/uploads/price-video-poster-en-iNH0bc.png"
-  },
   "page.pricing.vipnow.desc": {
     "message": "Now<a href=\"{pricingUrl}\"> subscribe to Pro Membership</a> and enjoy plug-and-play translation with DeepL and OpenAI!"
   },

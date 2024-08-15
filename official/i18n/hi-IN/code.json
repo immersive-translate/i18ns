@@ -1314,11 +1314,5 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "मंगा प्रेमियों की मांग को पूरा करने के लिए, हमने एक नई मंगा अनुवाद सुविधा शुरू की है। चाहे वह जापानी मंगा हो या अन्य देशों की मंगा कृतियाँ, उपयोगकर्ता केवल एक क्लिक के साथ, मंगा के पाठ को उस भाषा में तेजी से अनुवाद कर सकते हैं जिसे वे चुनते हैं, जिससे अपनी पसंदीदा मंगा का अनुसरण करना और भी आसान और सुविधाजनक हो जाता है।"
-  },
-  "page.pricing.header.onboarding.video.src": {
-    "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-en-NlkG5c.mp4"
-  },
-  "page.pricing.header.onboarding.video.poster": {
-    "message": "https://s.immersivetranslate.com/assets/uploads/price-video-poster-en-iNH0bc.png"
   }
 }

@@ -1314,11 +1314,5 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "Um den Bedürfnissen der zahlreichen Comic-Fans gerecht zu werden, haben wir eine brandneue Comic-Übersetzungsfunktion eingeführt. Ob es sich um japanische Comics oder Comics aus anderen Ländern handelt, die Benutzer können mit nur einem Klick den Text in den Comics schnell in die von ihnen gewählte Sprache übersetzen lassen, was das Verfolgen ihrer geliebten Comics viel einfacher und bequemer macht."
-  },
-  "page.pricing.header.onboarding.video.src": {
-    "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-en-NlkG5c.mp4"
-  },
-  "page.pricing.header.onboarding.video.poster": {
-    "message": "https://s.immersivetranslate.com/assets/uploads/price-video-poster-en-iNH0bc.png"
   }
 }

@@ -1314,11 +1314,5 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "لتلبية احتياجات عشاق القصص المصورة، أطلقنا ميزة ترجمة القصص المصورة الجديدة. سواء كانت القصص المصورة اليابانية أو قصص من دول أخرى، يمكن للمستخدمين بنقرة واحدة فقط ترجمة النصوص الموجودة في القصص المصورة إلى اللغة التي يختارونها، مما يجعل متابعة القصص المصورة المفضلة أسهل وأكثر راحة."
-  },
-  "page.pricing.header.onboarding.video.src": {
-    "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-en-NlkG5c.mp4"
-  },
-  "page.pricing.header.onboarding.video.poster": {
-    "message": "https://s.immersivetranslate.com/assets/uploads/price-video-poster-en-iNH0bc.png"
   }
 }

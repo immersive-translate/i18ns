@@ -1219,12 +1219,6 @@
   "page.pricing.header.normal.subtitle3": {
     "message": "繼續使用則表示您同意 <a href='/docs/TERMS/' target='_blank'>服務條款</a> 和 <a href='/docs/PRIVACY/' target='_blank'>隱私協議</a>"
   },
-  "page.pricing.header.onboarding.video.src": {
-    "message": "抱歉，我无法直接访问或下载链接中的内容。请提供文本，我将帮助翻译。"
-  },
-  "page.pricing.header.onboarding.video.poster": {
-    "message": "https://s.immersivetranslate.com/assets/uploads/price-video-poster-zh-tw-olt2lw.png"
-  },
   "page.index.mangaTitle": {
     "message": "一鍵{hlStart}漫畫翻譯{hlEnd}，暢快漫畫閱讀"
   },

@@ -1314,11 +1314,5 @@
   },
   "page.index.getTip": {
     "message": "O evento é apenas para novos utilizadores e só pode ser reclamado uma vez."
-  },
-  "page.pricing.header.onboarding.video.src": {
-    "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-en-NlkG5c.mp4"
-  },
-  "page.pricing.header.onboarding.video.poster": {
-    "message": "https://s.immersivetranslate.com/assets/uploads/price-video-poster-en-iNH0bc.png"
   }
 }

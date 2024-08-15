@@ -1314,11 +1314,5 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "漫画ファンのニーズに応えるため、新しい漫画翻訳機能を導入しました。日本の漫画であれ他国の漫画作品であれ、ユーザーはボタン一つで漫画のテキストを選択した言語に素早く翻訳でき、愛読する漫画をもっと楽に楽しむことができます。"
-  },
-  "page.pricing.header.onboarding.video.src": {
-    "message": "https://s.immersivetranslate.com/assets/uploads/full-intro-en-NlkG5c.mp4"
-  },
-  "page.pricing.header.onboarding.video.poster": {
-    "message": "https://s.immersivetranslate.com/assets/uploads/price-video-poster-en-iNH0bc.png"
   }
 }
