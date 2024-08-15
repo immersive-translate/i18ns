@@ -1314,5 +1314,8 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "漫画ファンのニーズに応えるため、新しい漫画翻訳機能を導入しました。日本の漫画であれ他国の漫画作品であれ、ユーザーはボタン一つで漫画のテキストを選択した言語に素早く翻訳でき、愛読する漫画をもっと楽に楽しむことができます。"
+  },
+  "page.pricing.header.limitedTimeDiscount": {
+    "message": "現在Pro会員に登録すると<strong>期間限定割引</strong>が適用されます👇"
   }
 }

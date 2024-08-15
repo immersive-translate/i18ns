@@ -1314,5 +1314,8 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "만화 애호가들의 요구를 충족시키기 위해, 우리는 새로운 만화 번역 기능을 출시했습니다. 일본 만화든 다른 나라의 만화 작품이든, 사용자는 단 한 번의 클릭으로 만화 내의 텍스트를 선택한 언어로 빠르게 번역할 수 있어, 사랑하는 만화를 더욱 쉽고 편안하게 즐길 수 있습니다."
+  },
+  "page.pricing.header.limitedTimeDiscount": {
+    "message": "지금 Pro 회원을 개통하시면 <strong>한정 시간 할인</strong>을 받으실 수 있습니다 👇"
   }
 }

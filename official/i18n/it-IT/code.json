@@ -1314,5 +1314,8 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "Per soddisfare le esigenze degli appassionati di fumetti, abbiamo lanciato una nuova funzione di traduzione dei fumetti. Che si tratti di fumetti giapponesi o di opere di altri paesi, gli utenti possono tradurre rapidamente i testi dei fumetti nella lingua scelta con un solo clic, rendendo il seguire i propri fumetti preferiti più facile e confortevole."
+  },
+  "page.pricing.header.limitedTimeDiscount": {
+    "message": "Ora attivando l'abbonamento Pro puoi godere di uno <strong>sconto limitato nel tempo</strong> 👇"
   }
 }

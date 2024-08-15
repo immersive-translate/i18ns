@@ -1324,5 +1324,8 @@
   },
   "page.download.web.subtitle": {
     "message": "A extensão Immersive Translate identifica inteligentemente as principais áreas de conteúdo das páginas da web para fornecer traduções bilíngues, minimizando a interrupção da página original. Essa funcionalidade popularizou a experiência de traduzir e ler páginas da web em línguas estrangeiras bilíngues entre milhões de usuários. Como líder na indústria, o Immersive Translate incorpora mais de dez dos principais motores de tradução, incluindo DeepL, OpenAI (ChatGPT) e Google Translate. Ele suporta o maior número de motores de tradução entre todas as extensões de tradução de páginas da web similares, tanto no mercado nacional quanto internacional."
+  },
+  "page.pricing.header.limitedTimeDiscount": {
+    "message": "Agora, ao se tornar um membro Pro, você pode aproveitar um <strong>desconto por tempo limitado</strong> 👇"
   }
 }

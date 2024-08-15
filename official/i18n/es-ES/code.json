@@ -1314,5 +1314,8 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "Para satisfacer las necesidades de los aficionados al manga, hemos lanzado una nueva función de traducción de manga. Ya sea manga japonés o cómics de otros países, los usuarios pueden traducir rápidamente el texto del manga al idioma de su elección con solo pulsar un botón, haciendo que seguir sus mangas favoritos sea mucho más fácil y cómodo."
+  },
+  "page.pricing.header.limitedTimeDiscount": {
+    "message": "Ahora suscríbete a Pro y disfruta de un <strong>descuento por tiempo limitado</strong> 👇"
   }
 }

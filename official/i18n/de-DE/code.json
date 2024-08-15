@@ -1314,5 +1314,8 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "Um den Bedürfnissen der zahlreichen Comic-Fans gerecht zu werden, haben wir eine brandneue Comic-Übersetzungsfunktion eingeführt. Ob es sich um japanische Comics oder Comics aus anderen Ländern handelt, die Benutzer können mit nur einem Klick den Text in den Comics schnell in die von ihnen gewählte Sprache übersetzen lassen, was das Verfolgen ihrer geliebten Comics viel einfacher und bequemer macht."
+  },
+  "page.pricing.header.limitedTimeDiscount": {
+    "message": "Jetzt Pro-Mitglied werden und von einem <strong>zeitlich begrenzten Rabatt</strong> profitieren 👇"
   }
 }

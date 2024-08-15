@@ -1314,5 +1314,8 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "Pour répondre aux besoins des nombreux amateurs de bandes dessinées, nous avons lancé une toute nouvelle fonctionnalité de traduction de bandes dessinées. Que ce soit pour des mangas japonais ou des bandes dessinées d'autres pays, les utilisateurs peuvent traduire les textes des bandes dessinées dans la langue de leur choix en un seul clic, rendant ainsi le suivi de leurs bandes dessinées préférées beaucoup plus facile et agréable."
+  },
+  "page.pricing.header.limitedTimeDiscount": {
+    "message": "Inscrivez-vous maintenant au membre Pro et profitez d'une <strong>réduction limitée dans le temps</strong> 👇"
   }
 }

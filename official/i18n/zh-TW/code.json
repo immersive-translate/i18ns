@@ -1314,5 +1314,8 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "為了滿足廣大漫畫愛好者的需求，我們推出了全新的漫畫翻譯功能。無論是日本漫畫還是其他國家的漫畫作品，用戶只需一鍵操作，即可快速將漫畫中的文字翻譯成用戶所選擇的語言，讓追隨心愛的漫畫變得更加輕鬆自在。"
+  },
+  "page.pricing.header.limitedTimeDiscount": {
+    "message": "現在開通Pro會員可享受<strong>限時折扣</strong> 👇"
   }
 }

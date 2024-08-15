@@ -1314,5 +1314,8 @@
   },
   "page.index.getTip": {
     "message": "O evento é apenas para novos utilizadores e só pode ser reclamado uma vez."
+  },
+  "page.pricing.header.limitedTimeDiscount": {
+    "message": "Agora, ao subscrever o Pro, pode desfrutar de um <strong>desconto por tempo limitado</strong> 👇"
   }
 }

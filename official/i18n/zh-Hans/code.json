@@ -1314,5 +1314,8 @@
   },
   "page.pricing.manga.subtitle": {
     "message": "为了满足广大漫画爱好者的需求，我们推出了全新的的漫画翻译功能。无论是日本漫画还是其他国家的漫画作品，用户只需一键操作，即可快速将漫画中的文字翻译成用户所选择的语言，让追随心爱的漫画变得更加轻松自在。"
+  },
+  "page.pricing.header.limitedTimeDiscount": {
+    "message": "现在开通Pro会员可享受<strong>限时折扣</strong> 👇"
   }
 }
