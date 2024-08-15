@@ -4,6 +4,17 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.8.2
+
+- You can now translate text in input boxes with the right-click: Select any text in an input box on a webpage, right-click to choose translate, and the immersive translation will automatically translate the selected text into the target language of the input box, making it convenient to quickly translate native language text in input boxes into other languages.
+- You can now quickly report translation issues of webpages in the floating ball of immersive translation. After translating a webpage, if there are any issues, you can click the [Feedback] button on the right side of the floating ball, fill in the problem description, and we will deal with it as soon as possible.
+- Epub files now support rich text translation (i.e., preserving the format of each paragraph's original text, such as links, bold, etc.)
+- Support for real-time bilingual subtitles in Microsoft Teams web version video meetings (Open the Teams meeting link, turn on bilingual subtitles in the immersive translation panel, and then refresh)
+- Optimized bilingual subtitles for the English version of iQIYI (iq.com)
+- Provided more arXiv papers with optimized bilingual translation layout
+- Due to Youtube website restrictions, the Chrome Tampermonkey script no longer supports Youtube bilingual subtitles. Please use the [plugin version](https://immersivetranslate.com/).
+
+
 ## 1.8.1
 
 - Fixed translation issues with the Tampermonkey script SiliconCloud
