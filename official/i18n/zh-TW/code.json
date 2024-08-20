@@ -414,7 +414,7 @@
     "message": "沉浸式翻譯- 雙語對照網頁翻譯外掛_PDF文件翻譯工具"
   },
   "page.index.title": {
-    "message": "沉浸式翻譯：最受歡迎的雙語對照網頁翻譯插件"
+    "message": "沉浸式翻譯：最受歡迎的雙語對照網頁翻譯擴展"
   },
   "page.index.description": {
     "message": "你可以<b>完全免費</b>地使用它來即時翻譯外文，<a href=\"{pdfUrl}\">PDF文檔</a>，<a target=\"_blank\" href=\"{epubUrl}\">ePub 電子書</a>，字幕檔等。<br />在手機上也可以隨時隨地用哦，<b>真正幫助你打破資訊落差，選擇下方的平台，立刻開始體驗</b>:)"
@@ -608,7 +608,7 @@
     "message": "雙語網頁翻譯- 電子書翻譯- PDF翻譯- 字幕檔翻譯瀏覽器擴展"
   },
   "page.usegescenarios.meta.desc": {
-    "message": "沉浸式翻譯是瀏覽器插件，可智慧辨識網頁主內容區進行雙語翻譯，插件支援全平台瀏覽器，PDF檔案翻譯，EPUB電子書雙語翻譯、製作、匯出，字幕檔案翻譯等功能。"
+    "message": "沉浸式翻譯是瀏覽器擴展，可智慧辨識網頁主內容區進行雙語翻譯，擴展支援全平台瀏覽器，PDF檔案翻譯，EPUB電子書雙語翻譯、製作、匯出，字幕檔案翻譯等功能。"
   },
   "page.usegescenarios.title": {
     "message": "沉浸式翻譯使用場景<br/>小張的一天"
@@ -680,10 +680,10 @@
     "message": "影片雙語翻譯"
   },
   "page.features.videoSubtitle.page.keywords": {
-    "message": "沉浸式翻譯插件提供免費的视讯双语字幕(影音雙語字幕)譯服務，支持主流影片網站（ Youtube , NetFlix , Twitter Spaces , HBO Max , Vimeo , Khan Academy , Coursera , Udemy , Bloomberg , Nebula , Bilibili , TED , FrontendMasters , CodeWithChris , edX , Skillshare , BBC , Disney+ , ARD Mediathek , ITV , Domestika , ArtStation , ZDF , MasterClass , Mindvalley , iview , nmaArt , CreativeCloudAdobe , Developer Apple , egghead.io等）"
+    "message": "沉浸式翻譯擴展提供免費的视讯双语字幕(影音雙語字幕)譯服務，支持主流影片網站（ Youtube , NetFlix , Twitter Spaces , HBO Max , Vimeo , Khan Academy , Coursera , Udemy , Bloomberg , Nebula , Bilibili , TED , FrontendMasters , CodeWithChris , edX , Skillshare , BBC , Disney+ , ARD Mediathek , ITV , Domestika , ArtStation , ZDF , MasterClass , Mindvalley , iview , nmaArt , CreativeCloudAdobe , Developer Apple , egghead.io等）"
   },
   "page.features.videoSubtitle.page.description": {
-    "message": "視訊雙語翻譯,youtub翻譯,視訊雙語字幕,視訊翻譯插件"
+    "message": "視訊雙語翻譯,youtub翻譯,視訊雙語字幕,視訊翻譯擴展"
   },
   "page.features.videoSubtitle.content.title": {
     "message": "視訊雙語字幕翻譯-沉浸式翻譯"
@@ -713,13 +713,13 @@
     "message": "簡單易用"
   },
   "page.features.videoSubtitle.content.introduction3.desc": {
-    "message": "插件易於使用，勾選「自動開啟雙語字幕」後，隨時隨地觀看帶有雙語字幕的影片。"
+    "message": "擴展易於使用，勾選「自動開啟雙語字幕」後，隨時隨地觀看帶有雙語字幕的影片。"
   },
   "page.features.videoSubtitle.content.introduction4.title": {
     "message": "跨平台相容"
   },
   "page.features.videoSubtitle.content.introduction4.desc": {
-    "message": "除部分視訊站不支援行動字幕外，插件支援多端使用（如手機、平板電腦、電腦等）。"
+    "message": "除部分視訊站不支援行動字幕外，擴展支援多端使用（如手機、平板電腦、電腦等）。"
   },
   "page.features.usage": {
     "message": "使用場景"
@@ -770,7 +770,7 @@
     "message": "如何使用"
   },
   "page.features.howtouse.installstep": {
-    "message": "1.安裝插件:"
+    "message": "1.安裝擴展:"
   },
   "page.features.howtouse.installstep.desc": {
     "message": "更多安裝詳情可以<a href=\"{installDocUrl}\">查看這裡</a>"
@@ -986,7 +986,7 @@
     "message": "2.打開本地pdf翻譯:"
   },
   "page.features.howtouse.pdfTralslate.step3": {
-    "message": "3.拖入本地PDF文件，插件會自動進行雙語對照翻譯"
+    "message": "3.拖入本地PDF文件，擴展會自動進行雙語對照翻譯"
   },
   "page.android.title": {
     "message": "沉浸式翻譯瀏覽器 - 安卓下載"
@@ -1013,25 +1013,25 @@
     "message": "一鍵開啟{hlStart}雙語{hlEnd}閱讀，提升資訊獲取效率"
   },
   "page.download.subtitle": {
-    "message": "<b>“沉浸式翻譯”</b>這個詞，由我們發明創造。現在，它已經成為<b>“雙語對照翻譯”</b>的代名詞。自2023年上線以來，這款廣受好評的 AI 雙語對照網頁翻譯擴展，已幫助超過 100 萬用戶跨越語言障礙，自由汲取全球智慧。我們堅信，打破語言壁壘，就是在促進信息平權。"
+    "message": "<b>“沉浸式翻譯”</b>這個詞，由我們發明創造。現在，它已經成為<b>“雙語對照翻譯”</b>的代名詞。自2023年上線以來，這款廣受好評的 AI 雙語對照網頁翻譯擴展，已幫助超過 100 萬用戶跨越語言障礙，自由汲取全球智慧。我們堅信，打破語言壁壘，就是在促進資訊平等。"
   },
   "page.download.web.title": {
     "message": "網頁翻譯"
   },
   "page.download.web.subtitle": {
-    "message": "沉浸式翻譯插件通過智能識別網頁主內容區域進行雙語對照網頁翻譯，降低對原網頁的「侵入性」，成功地在數百萬用戶中普及了雙語外文網頁閱讀的體驗；作為行業的佼佼者，沉浸式翻譯內置了包括 DeepL、OpenAI (ChatGPT)、谷歌翻譯在內的 10 餘種業界頂尖的翻譯引擎，是全球所有同類產品中支持翻譯引擎最多的網頁翻譯插件。"
+    "message": "沉浸式翻譯擴展通過智能識別網頁主內容區域進行雙語對照網頁翻譯，降低對原網頁的「侵入性」，成功地在數百萬用戶中普及了雙語外文網頁閱讀的體驗；作為行業的佼佼者，沉浸式翻譯內置了包括 DeepL、OpenAI (ChatGPT)、Google 翻譯在內的 10 餘種業界頂尖的翻譯引擎，是全球所有同類產品中支持翻譯引擎最多的網頁翻譯擴展。"
   },
   "page.download.videoSub.title": {
     "message": "影片字幕翻譯"
   },
   "page.download.videoSub.subtitle": {
-    "message": "沉浸式翻譯插件支持包括Youtube、Netflix、Udemy在內的60多個國外的主流在線影音網站的實時雙語字幕翻譯。原汁原味的外語語音配合母語原文/譯文雙語對照字幕，您不僅能夠完全理解影音內容，還能在觀影過程中自然地學習外語，讓您在潛移默化中提高聽說讀寫能力。"
+    "message": "沉浸式翻譯擴展支持包括Youtube、Netflix、Udemy在內的60多個國外的主流在線影音網站的實時雙語字幕翻譯。原汁原味的外語語音配合母語原文/譯文雙語對照字幕，您不僅能夠完全理解影音內容，還能在觀影過程中自然地學習外語，讓您在潛移默化中提高聽說讀寫能力。"
   },
   "page.download.pdf.title": {
     "message": "PDF翻譯"
   },
   "page.download.pdf.subtitle": {
-    "message": "沉浸式翻譯插件創新地在瀏覽器插件中引入了免費的PDF翻譯功能，可以在保留原文檔排版的情況下翻譯PDF文檔，支持自由選擇下載單譯文或者原文/譯文雙語對照版本的PDF。配合人工智能AI翻譯引擎，無論您需要外文學術論文翻譯，還是多語言商業合同翻譯，都可以通過沉浸式翻譯一鍵獲取最專業的翻譯結果。"
+    "message": "沉浸式翻譯擴展創新地在瀏覽器擴展中引入了免費的PDF翻譯功能，可以在保留原文檔排版的情況下翻譯PDF文檔，支持自由選擇下載單譯文或者原文/譯文雙語對照版本的PDF。配合人工智能AI翻譯引擎，無論您需要外文學術論文翻譯，還是多語言商業合同翻譯，都可以通過沉浸式翻譯一鍵獲取最專業的翻譯結果。"
   },
   "page.download.pdfpro.title": {
     "message": "PDF PRO"
@@ -1043,7 +1043,7 @@
     "message": "EPUB翻譯"
   },
   "page.download.ePub.subtitle": {
-    "message": "沉浸式翻譯插件讓打造雙語EPUB電子書變得前所未有的簡單！我們的一鍵式EPUB電子書翻譯工具能夠快速將您的外語EPUB電子書翻譯成精美的雙語版或單目標語言版，無縫兼容各類電子書閱讀器。想想一下你可以將AO3上的作品導出EPUB文件，使用沉浸式翻譯將其翻譯成雙語對照版本的EPUB文件，然後導入到Kindle中閱讀，全新的沉浸式雙語閱讀體驗，讓知識和樂趣無界限地流淌。"
+    "message": "沉浸式翻譯擴展讓打造雙語EPUB電子書變得前所未有的簡單！我們的一鍵式EPUB電子書翻譯工具能夠快速將您的外語EPUB電子書翻譯成精美的雙語版或單目標語言版，無縫兼容各類電子書閱讀器。想想一下你可以將AO3上的作品導出EPUB文件，使用沉浸式翻譯將其翻譯成雙語對照版本的EPUB文件，然後導入到Kindle中閱讀，全新的沉浸式雙語閱讀體驗，讓知識和樂趣無界限地流淌。"
   },
   "page.download.mouse.title": {
     "message": "滑鼠懸停翻譯"
@@ -1055,7 +1055,7 @@
     "message": "輸入框翻譯"
   },
   "page.download.input.subtitle": {
-    "message": "在任何網頁輸入框中直接輸入文本（如“你好世界”），快速連按3次空格鍵，即可將文本翻譯為目標語言（預設為英語，可自定義）。這一創新的互動方式適用於網頁端的搜索、寫作、對話等各類使用場景，無需跳出當前頁面，即刻完成翻譯，縱享絲滑的翻譯互動體驗。"
+    "message": "在任何網頁輸入框中直接輸入文本（如“你好世界”），快速連按3次空格鍵，即可將文本翻譯為目標語言（預設為英語，可自定義）。這一創新的互動方式適用於網頁端的搜索、寫作、對話等各類使用場景，無需跳出當前頁面，即刻完成翻譯，享受流暢的翻譯互動體驗。"
   },
   "page.viewDownload.title": {
     "message": "沉浸式翻譯，一鍵開啟{hlStart}雙語{hlEnd}閱讀"
@@ -1178,7 +1178,7 @@
     "message": "流量加餐包，持續享受精準、流暢、自然的閱讀體驗。"
   },
   "page.zipinstall.title": {
-    "message": "沉浸式翻譯Chrome插件本地安裝指南"
+    "message": "沉浸式翻譯Chrome擴展本地安裝指南"
   },
   "page.zipinstall.clickdownload": {
     "message": "點擊這裡下載 crx 安裝包"
@@ -1199,16 +1199,16 @@
     "message": "打開chrome的【 管理擴展程式 】頁面，並打開【 開發者模式 】"
   },
   "page.zipinstall.step3Title": {
-    "message": "安裝沉浸式翻譯插件"
+    "message": "安裝沉浸式翻譯擴展"
   },
   "page.zipinstall.step4Title": {
-    "message": "將沉浸式翻譯插件固定在瀏覽器工具欄，方便隨時調用（下次要更新插件的時候，重新走一遍這個流程就可以更新）"
+    "message": "將沉浸式翻譯擴展固定在瀏覽器工具欄，方便隨時調用（下次要更新擴展的時候，重新走一遍這個流程就可以更新）"
   },
   "page.manualinstall.title": {
-    "message": "沉浸式翻譯 Chrome 插件本地安裝指南"
+    "message": "沉浸式翻譯 Chrome 擴展本地安裝指南"
   },
   "page.manualinstall.description": {
-    "message": "如果您無法透過 Chrome 商店安裝沉浸式翻譯插件，您可以嘗試按照此教程手動安裝。"
+    "message": "如果您無法透過 Chrome 商店安裝沉浸式翻譯擴展，您可以嘗試按照此教程手動安裝。"
   },
   "page.pricing.header.onboarding.doc": {
     "message": "文件翻譯"
@@ -1277,7 +1277,7 @@
     "message": "您可在下方了解沉浸式翻譯的免費和付費計劃。"
   },
   "page.index.keywords": {
-    "message": "沉浸式翻譯、沉浸式翻譯插件、沉浸式翻譯官網"
+    "message": "沉浸式翻譯、沉浸式翻譯擴展、沉浸式翻譯官網"
   },
   "page.index.getThreeDayMembership": {
     "message": "免費領取"
@@ -1304,7 +1304,7 @@
     "message": "安裝成功後請嘗試重新刷新本頁面。"
   },
   "page.index.getTipWarn": {
-    "message": "檢測到您的瀏覽器未安裝沉浸式翻譯插件，請安裝後繼續領取會員。"
+    "message": "檢測到您的瀏覽器未安裝沉浸式翻譯擴展，請安裝後繼續領取會員。"
   },
   "page.index.getMembershipContext": {
     "message": "限時免費領取漫畫Pro會員"
