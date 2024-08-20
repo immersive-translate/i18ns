@@ -6,7 +6,7 @@ The content you've provided seems to be a part of a markdown file's metadata, sp
 
 你現在依然可以做以下這些事來幫助我們：
 
-- 向你身邊的朋友和家人推薦沉浸式翻譯，幫助更多的人打破信息壁壘。
+- 向你身邊的朋友和家人推薦沉浸式翻譯，幫助更多的人打破資訊落差。
 - 養成看外語信息的習慣
 - 在[Chrome 商店](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh), [Edge 商店](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-CN&gl=CN)，[蘋果 App Store](https://apps.apple.com/cn/app/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/id6447957425), [Firefox 商店](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/)裡評價該擴展。
 - 以下為可選項：
@@ -54,7 +54,7 @@ The content you've provided seems to be a part of a markdown file's metadata, sp
 
 隨後我們一步步的針對各種閱讀需求做優化，包括支持 PDF 文件的實時翻譯，支持 Epub 電子書的實時翻譯與製作，支持字幕文件，TXT 文件等等等等。
 
-在過去短短的五個月裡，沉浸式翻譯已經幫助了 40 萬用戶養成了看外語信息的習慣，這充分證明了一個良好的工具對於打破信息壁壘所起到的關鍵作用。感謝每一位在過去幫助過沉浸式翻譯的人，我們將會繼續把沉浸式的翻譯體驗帶給更多的人，讓更多人能享受到技術帶來的紅利。Certainly! Below is your markdown content translated from Simplified Chinese to Traditional Chinese.
+在過去短短的五個月裡，沉浸式翻譯已經幫助了 40 萬用戶養成了看外語信息的習慣，這充分證明了一個良好的工具對於打破資訊落差所起到的關鍵作用。感謝每一位在過去幫助過沉浸式翻譯的人，我們將會繼續把沉浸式的翻譯體驗帶給更多的人，讓更多人能享受到技術帶來的紅利。Certainly! Below is your markdown content translated from Simplified Chinese to Traditional Chinese.
 
 ## 連結
 
