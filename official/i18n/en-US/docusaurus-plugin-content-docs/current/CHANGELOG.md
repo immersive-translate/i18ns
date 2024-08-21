@@ -4,6 +4,15 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.8.3
+
+- Google Meet now supports bilingual subtitles for live meetings: Now, you can enjoy the bilingual subtitles feature in Google Meet meetings. Simply open the meeting link, activate the bilingual subtitles in the immersive translation panel, and then refresh the page to experience it.
+- Added the option to "Report translation issues of the current webpage" and the option to "Quickly turn on/off the floating ball" in the panel's more options.
+- After adjusting the position of YouTube bilingual subtitles, the system will automatically remember the new position.
+- Optimized the plugin's cache logic, now automatically clearing cache data that is over 30 days old.
+- Optimized code blocks within paragraphs for a more accurate restoration of the original text.
+- Improved the handling of "non-translatable words" in advanced settings.
+
 ## 1.8.2
 
 - You can now translate text in input boxes with the right-click: Select any text in an input box on a webpage, right-click to choose translate, and the immersive translation will automatically translate the selected text into the target language of the input box, making it convenient to quickly translate native language text in input boxes into other languages.
@@ -13,7 +22,6 @@ sidebar_position: 6
 - Optimized bilingual subtitles for the English version of iQIYI (iq.com)
 - Provided more arXiv papers with optimized bilingual translation layout
 - Due to Youtube website restrictions, the Chrome Tampermonkey script no longer supports Youtube bilingual subtitles. Please use the [plugin version](https://immersivetranslate.com/).
-
 
 ## 1.8.1
 
