@@ -4,7 +4,6 @@ sidebar_position: 6
 
 # Change Log
 
-
 ## 1.8.3
 
 - Google Meet 实时会议支持双语字幕：现在，您可以在 Google Meet 会议中享受双语字幕功能。只需打开会议链接，并在沉浸式翻译面板中激活双语字幕，然后刷新页面即可体验。
@@ -23,7 +22,6 @@ sidebar_position: 6
 - 优化英文版爱奇艺 (iq.com) 的双语字幕
 - 为 arxiv 上更多的论文提供排版优化的双语翻译
 - 由于 Youtube 网站限制，Chrome 油猴脚本不再支持 Youtube 双语字幕，请使用[插件版](https://immersivetranslate.com/)。
-
 
 ## 1.8.1
 
