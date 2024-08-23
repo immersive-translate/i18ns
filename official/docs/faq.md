@@ -251,7 +251,7 @@ YouTube 自带机翻字幕，繁体中文会出现格式错误，导致所有字
 
 ### 4. 是否有术语表 / 某些词汇特殊翻译或不翻译
 
-目前可以通过 AI 专家的 Prompt 来设置，需要有编写 Prompts 文件的能力：[AI 专家](https://github.com/immersive-translate/prompts?tab=readme-ov-file)
+我们提供术语表配置功能，您可以通过术语表来指定某些词汇不被翻译，或将其翻译为特定内容。详细配置请参阅“高级自定义”中的“自定义专业术语翻译”部分：[点击这里查看](https://immersivetranslate.com/docs/advanced)
 
 ### 5. Word文件翻译后无法导出为 Word 格式
 
