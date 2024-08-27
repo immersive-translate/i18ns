@@ -13,7 +13,7 @@ src="https://s.immersivetranslate.com/videos/20240119installation.mp4"></video>
 
 - 微软 Edge 浏览器： [Edge 商店沉浸式翻译](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)
 - 谷歌 Chrome 浏览器：[Chrome 商店沉浸式翻译](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
-- Firefox 火狐浏览器：[Firefox Addon 商店沉浸式翻译](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/)、[Firefox Addon 商店沉浸式翻译极速版](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate-beta/)
+- Firefox 火狐浏览器：[Firefox Addon 商店沉浸式翻译](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/)、[Firefox Addon 商店沉浸式翻译抢先版](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate-beta/)
 
 > 如果你无法访问谷歌官方商店，可以直接下载[最新沉浸式翻译 Chrome 浏览器 zip 安装包](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip)， 下载后请先解压到一个常用的文件夹内，然后在地址栏输入：`chrome://extensions`，打开扩展管理窗口，然后启用“开发人员模式”，选择“加载解压缩的扩展”，选择刚刚解压后的文件夹载入即可安装成功。
 
@@ -46,11 +46,29 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-ma
 
 ## 安卓
 
-点击下载[沉浸式翻译安卓浏览器](https://immersivetranslate.com/android/)，该版本已经预装了沉浸式翻译扩展，安装之后即可直接使用。（注意，如遇到部分国产手机在安装时提示的安全风险（这是统一的提示），请选择【我已知晓安全风险】【继续安装】）
+
+### 通过沉浸式翻译官方安卓浏览器安装
+
+点击下载[沉浸式翻译安卓浏览器 APK](https://immersivetranslate.com/android/)，或者在 [Google Play 应用商店安装](https://play.google.com/store/apps/details?id=com.immersivetranslate.browser&utm_campaign=official)，该版本已经预装了沉浸式翻译扩展，安装之后即可直接使用。（注意，如遇到部分国产手机在安装时提示的安全风险（这是统一的提示），请选择【我已知晓安全风险】【继续安装】）
+
+
+### 通过 Edge（微软） 安卓浏览器安装
+
+[Edge 安卓浏览器](https://microsoftedgewelcome.microsoft.com/emmx/ImmersiveTranslateCollaboration)目前已支持安装浏览器扩展，沉浸式翻译是 Edge 安卓浏览器的首批推荐扩展之一，在 Edge 浏览器上安装沉浸式翻译扩展非常简单
+
+1. 首先[扫码下载安装 Edge 浏览器](https://microsoftedgewelcome.microsoft.com/emmx/ImmersiveTranslateCollaboration) (或者在应用商店搜索 Edge 浏览器并安装)
+2. 打开 Edge 安装浏览器，点击菜单 -> 【扩展】，在列表里找到沉浸式翻译，点击安装即可，如下图所示：
+
+![](https://s.immersivetranslate.com/assets/uploads/edge-immersive-aNFLnF.JPEG)
+
+（注意⚠️：Edge 安卓浏览器目前只能通过上述方式安装沉浸式翻译扩展，不支持在 [Edge 扩展商店页面](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-CN&gl=CN)安装）
+
+
+### 其他安卓浏览器
 
 你也可以尝试使用其他的安卓浏览器安装沉浸式翻译，比如
 
-- [Firefox 浏览器 Beta 版 或者 Nightly 版本](https://www.mozilla.org/zh-CN/firefox/channel/android/)
+- [Firefox 浏览器](https://www.mozilla.org/zh-CN/firefox/channel/android/)
 - [狐猴浏览器](https://lemurbrowser.com/app/zh/)
 - [Kiwi 浏览器](https://kiwibrowser.com/)
 
