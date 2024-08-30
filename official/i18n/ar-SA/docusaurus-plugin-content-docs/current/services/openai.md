@@ -33,7 +33,7 @@
 1. مفتاح Api الرجاء ملء المفتاح المقدم من وحدة تحكم Azure
 2. انقر لتوسيع المزيد من الإعدادات واضبط العنوان المخصص إلى:
 
-`https://{your-custom-name}.openai.azure.com/openai/deployments/{you-deployment-name}/chat/completions?api-version=2023-03-15-preview`
+`https://{your-custom-name}.openai.azure.com/openai/deployments/{you-deployment-name}/chat/completions?api-version=2024-07-01-preview`
 
 غير `{your-custom-name}` إلى نطاقك الفرعي الخاص و`{you-deployment-name}` إلى اسم نشرك الخاص.
 

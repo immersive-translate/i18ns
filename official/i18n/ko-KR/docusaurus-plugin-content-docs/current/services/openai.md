@@ -32,7 +32,7 @@ gpt-35-turbo 모델을 배포한 후, OpenAI 설정 페이지에서 번역 설�
 1. Api Key에는 Azure 콘솔에서 제공하는 Key를 입력하세요.
 2. 더 많은 설정을 표시하려면 클릭하고, 다음과 같이 사용자 정의 주소를 설정하세요:
 
-`https://{your-custom-name}.openai.azure.com/openai/deployments/{you-deployment-name}/chat/completions?api-version=2023-03-15-preview`
+`https://{your-custom-name}.openai.azure.com/openai/deployments/{you-deployment-name}/chat/completions?api-version=2024-07-01-preview`
 
 여기서 `{your-custom-name}`을 당신의 서브도메인으로, `{you-deployment-name}`을 당신의 deployment name으로 변경하세요.
 

@@ -32,7 +32,7 @@
 1. В поле Api Key введите Key, предоставленный консолью Azure.
 2. Нажмите, чтобы раскрыть дополнительные настройки, и установите пользовательский адрес:
 
-`https://{your-custom-name}.openai.azure.com/openai/deployments/{you-deployment-name}/chat/completions?api-version=2023-03-15-preview`
+`https://{your-custom-name}.openai.azure.com/openai/deployments/{you-deployment-name}/chat/completions?api-version=2024-07-01-preview`
 
 Замените `{your-custom-name}` на ваше собственное поддоменное имя, `{you-deployment-name}` замените на имя вашего deployment.
 

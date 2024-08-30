@@ -28,7 +28,7 @@ OpenAI 翻譯服務同時也兼容 Azure OpenAI 介面，先在 Azure 控制台�
 1. Api Key 請填寫 Azure 控制台提供的 Key
 2. 點擊展開更多設置，設置自定義地址為：
 
-`https://{your-custom-name}.openai.azure.com/openai/deployments/{you-deployment-name}/chat/completions?api-version=2023-03-15-preview`
+`https://{your-custom-name}.openai.azure.com/openai/deployments/{you-deployment-name}/chat/completions?api-version=2024-07-01-preview`
 
 將 `{your-custom-name}` 改為你自己的子域名，`{you-deployment-name}` 改為你自己的 deployment name
 

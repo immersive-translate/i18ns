@@ -49,7 +49,7 @@ Para acesso direto e simplificado à OpenAI, adquira uma [Assinatura Pro do Imme
    - Na página de configurações da OpenAI:
      - `Chave da API`: Insira a chave do console do Azure.
      - `Endereço personalizado`:
-       - `https://{seu-nome-personalizado}.openai.azure.com/openai/deployments/{seu-nome-de-implantacao}/chat/completions?api-version=2023-03-15-preview`
+       - `https://{seu-nome-personalizado}.openai.azure.com/openai/deployments/{seu-nome-de-implantacao}/chat/completions?api-version=2024-07-01-preview`
        - Substitua `{seu-nome-personalizado}` e `{seu-nome-de-implantacao}` pelos seus dados.
      - `Nome do modelo`: Selecione manualmente. Ex: `gpt-35-turbo`.
 

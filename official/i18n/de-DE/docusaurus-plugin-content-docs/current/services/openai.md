@@ -32,7 +32,7 @@ Nach der Bereitstellung des gpt-35-turbo-Modells öffnen Sie die OpenAI-Einstell
 1. Api-Schlüssel Bitte füllen Sie den Schlüssel aus, der von der Azure-Konsole bereitgestellt wurde.
 2. Klicken Sie, um mehr Einstellungen zu erweitern, und setzen Sie die angepasste Adresse auf:
 
-`https://{Ihr-benutzerdefinierter-Name}.openai.azure.com/openai/deployments/{Ihr-Bereitstellungsname}/chat/completions?api-version=2023-03-15-preview`
+`https://{Ihr-benutzerdefinierter-Name}.openai.azure.com/openai/deployments/{Ihr-Bereitstellungsname}/chat/completions?api-version=2024-07-01-preview`
 
 Ändern Sie `{Ihr-benutzerdefinierter-Name}` in Ihren eigenen Subdomain-Namen und `{Ihr-Bereitstellungsname}` in Ihren eigenen Bereitstellungsnamen.
 

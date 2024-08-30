@@ -32,7 +32,7 @@ After deploying the gpt-35-turbo model, open the OpenAI settings page for Immers
 1. Api Key Please fill in the key provided by the Azure console
 2. Click to expand more settings and set the customized address to：
 
-`https://{your-custom-name}.openai.azure.com/openai/deployments/{you-deployment-name}/chat/completions?api-version=2023-03-15-preview`
+`https://{your-custom-name}.openai.azure.com/openai/deployments/{you-deployment-name}/chat/completions?api-version=2024-07-01-preview`
 
 Change `{your-custom-name}` to your own subdomain and `{you-deployment-name}` to your own deployment name.
 

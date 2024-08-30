@@ -32,7 +32,7 @@ Après avoir déployé le modèle gpt-35-turbo, ouvrez la page des paramètres O
 1. Clé API Veuillez remplir la clé fournie par la console Azure.
 2. Cliquez pour développer plus de paramètres et définissez l'adresse personnalisée à :
 
-`https://{votre-nom-personnalisé}.openai.azure.com/openai/deployments/{votre-nom-de-déploiement}/chat/completions?api-version=2023-03-15-preview`
+`https://{votre-nom-personnalisé}.openai.azure.com/openai/deployments/{votre-nom-de-déploiement}/chat/completions?api-version=2024-07-01-preview`
 
 Changez `{votre-nom-personnalisé}` par votre propre sous-domaine et `{votre-nom-de-déploiement}` par votre propre nom de déploiement.
 

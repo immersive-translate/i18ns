@@ -28,7 +28,7 @@ Dopo aver dispiegato il modello gpt-35-turbo, apri la pagina delle impostazioni 
 1. Api Key Si prega di inserire la chiave fornita dalla console di Azure.
 2. Clicca per espandere altre impostazioni e imposta l'indirizzo personalizzato a:
 
-`https://{your-custom-name}.openai.azure.com/openai/deployments/{you-deployment-name}/chat/completions?api-version=2023-03-15-preview`
+`https://{your-custom-name}.openai.azure.com/openai/deployments/{you-deployment-name}/chat/completions?api-version=2024-07-01-preview`
 
 Cambia `{your-custom-name}` con il tuo sottodominio e `{you-deployment-name}` con il nome del tuo dispiegamento.
 
