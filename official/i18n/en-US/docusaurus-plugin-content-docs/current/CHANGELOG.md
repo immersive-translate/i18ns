@@ -4,6 +4,11 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.8.4
+
+- DeepL translation service now officially supports Traditional Chinese as a target language (previously, translating into Traditional Chinese with DeepL involved an additional third-party Simplified to Traditional Chinese conversion process).
+- Optimized rich text translation performance.
+
 ## 1.8.3
 
 - Google Meet now supports bilingual subtitles for live meetings: Now, you can enjoy the bilingual subtitles feature in Google Meet meetings. Simply open the meeting link, activate the bilingual subtitles in the immersive translation panel, and then refresh the page to experience it.
