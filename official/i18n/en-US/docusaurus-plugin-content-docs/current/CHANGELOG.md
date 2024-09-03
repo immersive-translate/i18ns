@@ -4,6 +4,13 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.9.1
+
+- Support for configuring exceptions for languages and websites in bilingual contrast or translation-only mode (configure in Settings page -> Advanced Settings). For example: If your default translation mode is bilingual contrast, but you do not wish Traditional Chinese to also use bilingual contrast, then you can add Traditional Chinese to the exception languages for bilingual contrast, so Traditional Chinese will use translation-only mode for translation. Similarly, if your default translation mode is translation-only, but you wish a certain language or website to use bilingual contrast mode, you can also add that language or website to the exception languages.
+- Fixed an issue where the input box in Tiktok private message interface was translated incorrectly
+- Fixed an issue where comics on Read Comic Online could not be translated
+- Fixed an issue where the 【Advanced Settings -> Minimum number of characters required for translating a paragraph】 did not take effect in some cases
+
 ## 1.8.4
 
 - DeepL translation service now officially supports Traditional Chinese as a target language (previously, translating into Traditional Chinese with DeepL involved an additional third-party Simplified to Traditional Chinese conversion process).
