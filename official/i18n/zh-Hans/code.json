@@ -420,7 +420,7 @@
     "message": "沉浸式翻译：全网口碑炸裂的{hlStart}双语对照{hlEnd}网页翻译插件"
   },
   "page.index.description": {
-    "message": "你可以<b>完全免费</b>地使用它来实时翻译外语网页，<a href=\"{pdfUrl}\">PDF翻译</a>，<a target=\"_blank\" href=\"{epubUrl}\">EPUB电子书翻译</a>，视频双语字幕翻译等。<br />还可以自由选择调用OpenAI (ChatGPT)、DeepL、Gemini等人工智能引擎来翻译上述内容。<br/>在手机上也可以随时随地用哦，<b>真正帮助你打破信息壁垒，选择下方的平台，立刻开始体验</b>:)"
+    "message": "你可以<b>完全免费</b>地使用它来实时翻译外语网页，<a href=\"{pdfUrl}\">PDF翻译</a>，<a target=\"_blank\" href=\"{epubUrl}\">EPUB电子书翻译</a>，视频双语字幕翻译等。<br />还可以自由选择调用DeepL、Gemini等人工智能引擎来翻译上述内容。<br/>在手机上也可以随时随地用哦，<b>真正帮助你打破信息壁垒，选择下方的平台，立刻开始体验</b>:)"
   },
   "page.index.ao3Title": {
     "message": "{hlStart}AO3一键变双语对照{hlEnd}，超赞看文神器：{hlStart}沉浸式翻译{hlEnd}"
