@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.9.2
+## 1.9.3
 
 - The option for bilingual comparison/translation-only display has been moved to general settings.
 - By default, the system will remember the mode toggled by clicking the icon in the panel for bilingual comparison or translation-only display. To switch temporarily, click "More" -> "Switch to translation-only display" in the panel.
