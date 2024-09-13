@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # 更新日誌
 
-## 1.9.5
+## 1.9.6
 
 - [PDF Pro](https://app.immersivetranslate.com/pdf-pro/) 支援公式複製（在公式上右鍵即可看到複製的菜單）
 - 修復推特同一網頁多個視頻的雙語字幕顯示問題
