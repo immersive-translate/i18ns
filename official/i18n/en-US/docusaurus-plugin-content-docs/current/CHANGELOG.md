@@ -4,6 +4,12 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.9.5
+
+- [PDF Pro](https://app.immersivetranslate.com/pdf-pro/) supports formula copying (right-click on the formula to see the copy menu)
+- Fixed the issue of bilingual subtitles display for multiple videos on the same Twitter page
+- Fixed some bugs
+
 ## 1.9.3
 
 - The option for bilingual comparison/translation-only display has been moved to general settings.
