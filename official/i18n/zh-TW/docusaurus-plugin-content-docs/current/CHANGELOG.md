@@ -4,6 +4,14 @@ sidebar_position: 6
 
 # 更新日誌
 
+## 1.9.7
+
+- 輸入增強支援Gmail輸入框
+- 支援 Claude Anthropic API 的 anthropic-dangerous-direct-browser-access 請求頭
+- 支援 Hulu、Bloomberg、Domestika 視頻字幕下載
+- DeepX 支援富文本翻譯
+- 修復自定義 AI 專家無法同步的問題
+
 ## 1.9.6
 
 - [PDF Pro](https://app.immersivetranslate.com/pdf-pro/) 支援公式複製（在公式上右鍵即可看到複製的菜單）

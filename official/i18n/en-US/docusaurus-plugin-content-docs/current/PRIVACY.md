@@ -4,14 +4,15 @@ sidebar_position: 12
 
 # PRIVACY
 
-Updated on: April 15, 2024
+Updated on: September 20, 2024
 
 ## Data Collection and Usage
 
-- We collect information related to your usage of our app, such as the frequency of use and the features you utilize. This data is aggregated and does not identify you personally.
-- When you log into our account system, we require your email address. This will serve as your unique identifier, login name, and method for password recovery.
-- To provide you with better services, we also collect information about your country or region based on your IP address.
-- We use Google Analytics to collect non-personal identification information.
+- We will collect information regarding your use of this application, such as usage frequency and the features you use. This data will be aggregated and will not identify any specific individual.
+- We will collect your device information (such as device ID, browser model, and version) to improve our services. The device ID will be used as an anonymous identifier and will not be associated with any of your personal identity information.
+- If you log into the account system, we will need you to provide an email address, which will serve as your unique identifier, login name, and password recovery method.
+- We may collect and use your IP address information to determine your country or region. This information is only used to provide localized service content and product optimization.
+- We use Google Analytics to collect non-personally identifiable information, and the usage behavior data we collect will be processed anonymously.
 
 ## Data Sharing Situation
 

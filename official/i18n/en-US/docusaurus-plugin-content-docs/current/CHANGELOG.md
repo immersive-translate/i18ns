@@ -4,6 +4,14 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.9.7
+
+- Enhanced input support for Baidu, Gmail, and other input fields
+- Support for anthropic-dangerous-direct-browser-access request header for Claude Anthropic API
+- Support for downloading subtitles from Hulu, Bloomberg, and Domestika videos
+- DeepX supports rich text translation
+- Fixed the issue with custom AI experts not syncing
+
 ## 1.9.6
 
 - [PDF Pro](https://app.immersivetranslate.com/pdf-pro/) supports formula copying (right-click on the formula to see the copy menu)

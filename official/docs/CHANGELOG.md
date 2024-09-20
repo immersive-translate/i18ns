@@ -4,12 +4,19 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.9.7
+
+- 输入增强支持百度，gmail等输入框
+- 支持 claude Anthropic API 的 anthropic-dangerous-direct-browser-access 请求头
+- 支持 hulu、bloomberg、domestika 视频字幕下载
+- deepx 支持富文本翻译
+- 修复自定义AI专家无法同步
+
 ## 1.9.6
 
 - [PDF Pro](https://app.immersivetranslate.com/pdf-pro/) 支持公式复制（在公式上右键即可看到复制的菜单）
 - 修复推特同一网页多个视频的双语字幕显示问题
 - 修复一些 Bug
-
 
 ## 1.9.3
 
