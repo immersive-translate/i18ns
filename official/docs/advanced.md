@@ -492,6 +492,27 @@ export interface Rule {
     4.  判断 `match` 为一个正则表达式，将其转换成一个合法的正则表达式并尝试匹配
     5.  都不满足的话，则匹配失败
 
+### 翻译服务自定义请求头和请求体参数
+
+在【[开发者设置](https://dash.immersivetranslate.com/#developer)】->【Edit Full User Config】
+
+```
+{
+  ...
+  "translationServices": {
+    "claude": {
+      "headerConfigs": {
+        "anthropic-version": "2023-06-01",
+        "anthropic-dangerous-direct-browser-access": "true"
+      },
+      "bodyConfigs": {
+        "max_tokens": 2048
+      }
+    }
+  ...
+}
+```
+
 ## 高级自定义选项实战
 
 ### 实用小技巧

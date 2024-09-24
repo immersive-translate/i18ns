@@ -407,7 +407,9 @@ export interface Rule {
     streamingChange: boolean; //類 gpt 網頁反復的消息是增量更新還是全量更新。gpt 是增量
   };
 }
-```## 高級自定義選項實戰
+```
+
+## 高級自定義選項實戰
 
 ### 實用小技巧
 
