@@ -55,12 +55,9 @@ For other language codes see [here](#language-code)
 - Pages known to be explicitly unsupported：
 
   - Browser default page
-  - Baidu search
   - Lark Document
   - Notion Documentation
-  - NewBing Chat Conversations
   - Web Address Bar
-  - Gmail
   - Input boxes for third-party plug-ins
   - Chrome Web Store Input Box
 
