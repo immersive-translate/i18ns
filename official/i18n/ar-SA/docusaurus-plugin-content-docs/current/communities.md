@@ -12,4 +12,3 @@ sidebar_position: 5
 <!-- - [اشترك في Immersive Translate عبر البريد الإلكتروني](https://immersivetranslate.substack.com/) احصل على آخر التحديثات و(المزايا) في الوقت المناسب. -->
 - تابع Immersive Translate على [تويتر](https://twitter.com/immersivetrans)
 - تابع Immersive Translate على [يوتيوب](https://www.youtube.com/channel/UCjflHbaIz5bVqv08ZUYMQCA)
-

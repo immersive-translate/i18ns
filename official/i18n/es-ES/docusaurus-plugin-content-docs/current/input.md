@@ -27,16 +27,16 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 Comandos Comunes de Idioma：
 
-| multilingüismo                                                      | comando |
-| ------------------------------------------------------------------- | ------- |
-| Inglés                                                              | /en     |
-| Chino (Simplificado)                                                | /zh     |
-| Chino (Tradicional)                                                 | /zht    |
-| Japonés                                                             | /ja     |
-| Coreano                                                             | /ko     |
-| Ruso                                                                | /ru     |
-| Francés                                                             | /fr     |
-| Español                                                             | /es     |
+| multilingüismo       | comando |
+| -------------------- | ------- |
+| Inglés               | /en     |
+| Chino (Simplificado) | /zh     |
+| Chino (Tradicional)  | /zht    |
+| Japonés              | /ja     |
+| Coreano              | /ko     |
+| Ruso                 | /ru     |
+| Francés              | /fr     |
+| Español              | /es     |
 
 Para otros códigos de idioma vea [aquí](#código-de-idioma)
 
@@ -211,3 +211,4 @@ Todos los códigos de idioma son los siguientes:
 - Chino (Simplificado), zh-CN, Chino (Simplificado)
 - Chino Tradicional, zh-TW, Chino Tradicional
 - Zulú, zu, Zulú
+```

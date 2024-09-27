@@ -334,7 +334,7 @@ Nombre correspondiente en español:
         "[data-testid='developerBuiltCardContainer'] > div:nth-child(2)",
         "[data-testid='card.layoutLarge.detail'] > div:nth-child(2)"
       ],
-      "extraInlineSelectors" : ["[data-testid=\"tweetText\"] div"]
+      "extraInlineSelectors": ["[data-testid=\"tweetText\"] div"]
     }
   ]
 }

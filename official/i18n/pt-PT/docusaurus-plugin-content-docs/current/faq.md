@@ -15,7 +15,6 @@ sidebar_position: 9
 
 <img src="https://s.immersivetranslate.com/assets/turn_off_automatic_translation_en.jpeg" alt="desativar tradução automática" width="250" />
 
-
 ## Sem permissão para traduzir a página atual
 
 - Página padrão do navegador (sem endereço na barra de endereços)
@@ -29,7 +28,6 @@ Toque no ícone do Immersive Translate para abrir o painel de expansão, toque e
 ## Ponto de exclamação aparece na página
 
 Um ponto de exclamação na página indica que o serviço de tradução encontrou um problema e retornou um erro, você pode mover o mouse sobre o ponto de exclamação para visualizar o erro específico.
-
 
 ### Erro 429
 

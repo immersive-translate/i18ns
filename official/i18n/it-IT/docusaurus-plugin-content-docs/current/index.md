@@ -35,6 +35,7 @@ Puoi rimanere in contatto con noi su:
 ## Casi d'uso
 
 <!-- - [Scopri i cambiamenti avvenuti all'utente Xiao Zhang dopo un mese di utilizzo di Immersive Translate](#user-xiao-zhangs-story) -->
+
 - [clicca qui](/docs/usecase/) Visualizza screenshot dell'uso
 - [clicca qui per](/docs/review/) recensioni degli utenti e copertura mediatica
 - [Introduzione video su Youtube](https://www.youtube.com/watch?v=SHznc5kQCM4&ab_channel=ImmersiveTranslate)
@@ -79,7 +80,7 @@ Indirizzo Tampermonkey: https://download.immersivetranslate.com/immersive-transl
 
 Apri [questo indirizzo](https://download.immersivetranslate.com/immersive-translate.user.js) in un browser che ha l'estensione Grease Monkey installata per installarlo. Usando **Firefox Android** come esempio:
 
-1. Scarica [Ultima Versione di Firefox](https://www.mozilla.org/firefox/browsers/mobile/android/) 
+1. Scarica [Ultima Versione di Firefox](https://www.mozilla.org/firefox/browsers/mobile/android/)
 2. Trova [Tamper Monkey](https://www.tampermonkey.net/) tra gli add-on consigliati di Firefox e installalo.
 3. Installa [Tampermonkey](https://download.immersivetranslate.com/immersive-translate.user.js) per questa estensione (apri questo link nel tuo browser Firefox per vedere la pagina di installazione)
 4. Dopo l'installazione, apri qualsiasi pagina web e l'icona della finestra fluttuante dell'estensione Immersive Translate apparirà sul lato destro.
@@ -123,6 +124,7 @@ Puoi ancora fare queste cose per aiutarci ora:
 - Il seguente è facoltativo:
 <!-- - Iscriviti a [l'email ufficiale di Immersive Translate](https://immersivetranslate.substack.com/) -->
 <!-- - [Unisciti al canale Telegram](https://t.me/immersivetranslate) -->
+
 - Segui [l'account Twitter ufficiale di Immersive Translate](https://twitter.com/immersivetrans)
 - Aiuta con la [traduzione](https://crowdin.com/project/immersive-translate) della lingua dell'interfaccia per questa estensione.
 <!-- - Aiuta a rispondere alle domande degli utenti nei [Gruppi Telegram](https://t.me/+rq848Z09nehlOTgx). -->

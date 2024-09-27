@@ -6,7 +6,6 @@ sidebar_position: 4
 
 Você pode editar configurações personalizadas mais avançadas na Página de Configuração Estendida -> Configurações do Desenvolvedor -> Configuração do Usuário que não são editáveis na UI para usuários avançados, veja a última nota para mais detalhes sobre os parâmetros. A `config` integrada atual pode ser encontrada [aqui](https://github.com/immersive-translate/next-immersive-translate/blob/main/docs/buildin_config.json).
 
-
 ## Regras do Usuário
 
 Com `Regras`, é possível personalizar a configuração de um site específico, decidindo que conteúdo precisa ser traduzido ou não, ou ajustando o estilo das páginas, etc.
@@ -48,14 +47,8 @@ Se você quiser traduzir uma região tratando os elementos como um todo e não s
 ```json
 {
   "matches": "https://www.instagram.com/*",
-  "selectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ],
-  "atomicBlockSelectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ]
+  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
+  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
 }
 ```
 
@@ -333,7 +326,7 @@ Nome correspondente em português:
         "[data-testid=' developerBuiltCardContainer'] > div:nth-child(2)",
         "[data-testid='card.layoutLarge.detail'] > div:nth-child(2)"
       ],
-      "extraInlineSelectors" : ["[data-testid=\"tweetText\"] div"]
+      "extraInlineSelectors": ["[data-testid=\"tweetText\"] div"]
     }
   ]
 }
@@ -343,7 +336,7 @@ As `rules` integradas atuais podem ser encontradas [aqui](https://github.com/imm
 
 Alguns dos campos importantes são selecionados abaixo para ilustração:
 
-```typescript
+````typescript
 export interface Rule {
   // Corresponder ao site
   id?: string; // Cada regra de adaptação tem seu próprio id, se os usuários quiserem reutilizar esta regra além desta mudança, eles precisam adicionar este id correspondente à sua própria regra para reutilizá-la
@@ -420,7 +413,8 @@ export interface Rule {
     streamingChange: boolean; // Se a mensagem é atualizada incrementalmente ou completamente para a iteração da página web gpt. gpt é incremental
   };
 }
-```
+````
+
 **Mais explicações**
 
 Diferença entre bloco e inline, se você quiser saber mais, pode ver [aqui](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements#inline)

@@ -6,7 +6,6 @@ sidebar_position: 4
 
 확장 구성 페이지 -> 개발자 설정 -> User Config에서 UI에서 편집할 수 없는 더 많은 사용자 정의 구성을 편집할 수 있습니다. 고급 사용자에게 적합하며, 매개변수 설명은 마지막 설명을 참조하십시오. 현재 내장된 `config`는 [여기](https://dash.immersivetranslate.com/#developer)에서 찾을 수 있으며, `Click to expand the final config`를 클릭하여 찾을 수 있습니다.
 
-
 ## 사용자 규칙
 
 `Rules`를 통해 특정 웹사이트에 대한 사용자 정의 설정을 할 수 있으며, 어떤 내용을 번역할지, 웹페이지 스타일을 조정할지 등을 결정할 수 있습니다.
@@ -50,14 +49,8 @@ sidebar_position: 4
 ```json
 {
   "matches": "https://www.instagram.com/*",
-  "selectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ],
-  "atomicBlockSelectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ]
+  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
+  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
 }
 ```
 
@@ -75,7 +68,10 @@ sidebar_position: 4
 Injected CSS를 통해 전역에 사용자 정의 웹 페이지 스타일을 주입할 수 있습니다. `Rules`의 `translationClasses`와 함께 사용할 수 있습니다.
 
 ```css
-.immersive-translate-target-wrapper img { width: 16px; height: 16px }
+.immersive-translate-target-wrapper img {
+  width: 16px;
+  height: 16px;
+}
 ```
 
 또한 일반적인 웹 페이지 스타일 관리자처럼, 웹사이트에 더 개성화된 스타일 디자인을 할 수 있습니다. (심지어 `display:none`을 사용하여 광고를 제거하는 것도 가능)
@@ -176,6 +172,7 @@ Config를 통해 이 플러그인의 관련 설정을 사용자 정의할 수 �
 Config의 몇 가지 일반적인 필드를 소개합니다.
 
 ### 일반 HTML 태그 렌더링 허용
+
 [개발 설정](https://dash.immersivetranslate.com/#developer)으로 이동 -> 전체 사용자 설정 편집
 
 "enableRenderHtmlTag": true로 편집
@@ -454,7 +451,7 @@ export interface Rule {
   }
 ```
 
-> ⚠️ 주의하세요, 동일한 도메인의 모든 웹사이트를 번역하고자 할 경우, *.twitter.com 또는 https://twitter.com/을 단순 사용하는 것은 효과가 없습니다. 올바른 방법은 위에서 보여준 것과 같아야 합니다. 이는 *.twitter.com이 xxx.twitter.com과 같은 하위 도메인에만 일치하고 최상위 도메인 자체는 포함하지 않기 때문입니다.
+> ⚠️ 주의하세요, 동일한 도메인의 모든 웹사이트를 번역하고자 할 경우, _.twitter.com 또는 https://twitter.com/을 단순 사용하는 것은 효과가 없습니다. 올바른 방법은 위에서 보여준 것과 같아야 합니다. 이는 _.twitter.com이 xxx.twitter.com과 같은 하위 도메인에만 일치하고 최상위 도메인 자체는 포함하지 않기 때문입니다.
 
 ### 웹사이트 적응 사례
 
@@ -529,7 +526,7 @@ export interface Rule {
 }
 ```
 
-```
+````
 - `selector`: 번역할 요소 집합을 지정합니다.
 
   이 필드가 필요한 이유
@@ -592,7 +589,7 @@ export interface Rule {
     ```
 
   `-webkit-line-clamp` 속성은 표시되는 행 수를 제어하며, 초과하는 행은 잘립니다. 여기서 `unset`으로 설정하면, 이 속성에 의해 번역문이 잘리는 것을 방지할 수 있습니다.
-```
+````
 
 ### 사용자 정의 웹사이트 적응
 

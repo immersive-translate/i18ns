@@ -5,6 +5,7 @@ sidebar_position: 12
 # PRIVACY
 
 Aggiornato il: 1° Febbraio 2024
+
 ## Raccolta e Utilizzo dei Dati
 
 - Raccogliamo informazioni relative al tuo utilizzo della nostra app, come la frequenza di uso e le funzionalità che utilizzi. Questi dati sono aggregati e non ti identificano personalmente.
@@ -24,16 +25,19 @@ Puoi richiedere la cancellazione dei tuoi dati in qualsiasi momento contattandoc
 Hai la possibilità di cancellare il tuo Account, e dovresti capire che con la cancellazione del tuo Account, perderai il diritto di accedere o utilizzare tutto o parte di Immersive Translate.
 
 ## Consenso
+
 - Utilizzando la nostra app, accetti la raccolta e l'uso dei tuoi dati come descritto in questa politica.## Informazioni sull'Applicazione Mobile
 - L'applicazione mobile **Immersive Translate** è sviluppata sulla base di Firefox. Oltre ad aderire ai termini di questo accordo menzionati in precedenza, si prega di fare riferimento alla politica sulla privacy di Mozilla per il Browser Firefox all'indirizzo [Avviso sulla Privacy di Firefox](https://www.mozilla.org/privacy/firefox/).
 - **Immersive Translate** utilizza **Adjust** per fornire e analizzare le campagne pubblicitarie. Il **SDK di Adjust** raccoglie dati non personalmente identificabili che non possono essere utilizzati per identificare direttamente gli utenti, inclusi **identificatori di dispositivo (IMEI, Android ID, OAID), impressioni pubblicitarie e clic**. Per maggiori informazioni su Adjust, si prega di visitare il [Sito Web di Adjust](https://www.adjust.com/) e la [Politica sulla Privacy di Adjust](https://www.adjust.com/terms/privacy-policy/).
 
 ## Una nota sui permessi dell'estensione Safari
+
 Quando abiliti l'app **Immersive Translate** in Safari, vedrai l'avviso di permesso di Apple che afferma "Questa estensione può leggere e modificare informazioni sensibili, inclusi i dati delle carte bancarie."
 Si prega di notare quanto segue:
-  1. Questo è un prompt generico visualizzato per tutte le estensioni di Safari ed è l'avviso di sicurezza di Apple per casi estremi riguardanti software non affidabili.
-  2. Prestare attenzione al modo in cui viene formulato il prompt dei permessi, "può leggere e modificare...la scheda corrente...". Se si sta semplicemente navigando informazioni e la pagina web non contiene dettagli personali, non dovrebbero esserci problemi di sicurezza. Anche se l'estensione legge l'intero contenuto della pagina, si tratta di informazioni pubbliche.
-  3. È importante, concedere il permesso non significa che le vostre password, numeri di telefono o dettagli delle carte bancarie vengano prelevati.
-  4. Inoltre, l'app **Immersive Translate** si impegna pubblicamente a non raccogliere alcuna informazione privata o sensibile dagli utenti.
+
+1. Questo è un prompt generico visualizzato per tutte le estensioni di Safari ed è l'avviso di sicurezza di Apple per casi estremi riguardanti software non affidabili.
+2. Prestare attenzione al modo in cui viene formulato il prompt dei permessi, "può leggere e modificare...la scheda corrente...". Se si sta semplicemente navigando informazioni e la pagina web non contiene dettagli personali, non dovrebbero esserci problemi di sicurezza. Anche se l'estensione legge l'intero contenuto della pagina, si tratta di informazioni pubbliche.
+3. È importante, concedere il permesso non significa che le vostre password, numeri di telefono o dettagli delle carte bancarie vengano prelevati.
+4. Inoltre, l'app **Immersive Translate** si impegna pubblicamente a non raccogliere alcuna informazione privata o sensibile dagli utenti.
 
 Se avete domande o necessitate di una consulenza riguardo la nostra politica sulla privacy, non esitate a contattarci all'indirizzo support@immersivetranslate.com.

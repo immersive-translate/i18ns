@@ -47,14 +47,8 @@ Se vuoi tradurre una regione trattando gli elementi come un unico blocco e non s
 ```json
 {
   "matches": "https://www.instagram.com/*",
-  "selectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ],
-  "atomicBlockSelectors": [
-    "div. ._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ]
+  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
+  "atomicBlockSelectors": ["div. ._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
 }
 ```
 
@@ -332,7 +326,7 @@ Nome corrispondente in italiano:
         "[data-testid=' developerBuiltCardContainer'] > div:nth-child(2)",
         "[data-testid='card.layoutLarge.detail'] > div:nth-child(2)"
       ],
-      "extraInlineSelectors" : ["[data-testid=\"tweetText\"] div"]
+      "extraInlineSelectors": ["[data-testid=\"tweetText\"] div"]
     }
   ]
 }

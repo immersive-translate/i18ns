@@ -10,6 +10,7 @@
 ## Etapas de Configuração
 
 1. **Certificação do Desenvolvedor:**
+
    - Faça login na [Plataforma Aberta da ColorCloud](https://dashboard.caiyunapp.com/).
    - Acesse "Minha Conta" > "Informações do Desenvolvedor" ([https://dashboard.caiyunapp.com/user/user/info/](https://dashboard.caiyunapp.com/user/user/info/)).
    - Preencha as informações:
@@ -21,10 +22,12 @@
    - Clique em "Enviar" e aguarde a aprovação (geralmente em até dois dias úteis).
 
 2. **Obtenção do Token:**
+
    - Após a aprovação, acesse a lista "Meus Tokens - Token" ([https://dashboard.caiyunapp.com/v1/token/](https://dashboard.caiyunapp.com/v1/token/)).
    - Anote o seu "Token".
 
 3. **Integração no Immersive Translate:**
+
    - Insira o "Token" nas configurações do Immersive Translate.
 
 4. **Pronto!** Agora você pode utilizar o ColourCloud Little Translator no Immersive Translate.

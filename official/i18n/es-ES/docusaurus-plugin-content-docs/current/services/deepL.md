@@ -4,10 +4,10 @@
 
 [Haz clic aquí para la presentación](https://immersivetranslate.com/es/pricing/)
 
-
 ## Obtén la API oficial de DeepL a través de DeepL
 
 1. Introducción oficial: [API de DeepL](https://www.deepl.com/en/pro#developer)
+
    - Ten en cuenta que: [API de DeepL](https://www.deepl.com/en/pro#developer) y [DeepL Pro](https://www.deepl.com/pro) son dos tipos de cuenta diferentes, y la cuenta [API de DeepL](https://www.deepl.com/en/pro/select-country#developer).
 
 2. ¿[Por qué](https://www.deepl.com/en/whydeepl) elegir DeepL?

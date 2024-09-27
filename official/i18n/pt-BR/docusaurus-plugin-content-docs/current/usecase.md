@@ -23,7 +23,6 @@ sidebar_position: 3
 
 ![twitter1.jpg](https://s.immersivetranslate.com/assets/weaken_style_of_translation_en.jpeg)
 
-
 ## Tutoriais em vídeo sobre a instalação do Immersive Translate no Apple iOS
 
 <video

@@ -11,7 +11,6 @@ title: 介紹
   src="https://s.immersivetranslate.com/assets/uploads/zh-hant-BAq2uB.mp4"
 />
 
-
 ## 主要特性
 
 - **沉浸式閱讀外文網站** 通過智能識別網頁主內容區域並進行雙語對照翻譯，沉浸式翻譯提供了全新的外文閱讀體驗，因此得名“沉浸式翻譯”。

@@ -27,16 +27,16 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 Common Language Commands：
 
-| multilingualism                                                     | command |
-| ------------------------------------------------------------------- | ------- |
-| English                                                             | /en     |
-| Chinese(Simplified)                                                 | /zh     |
-| Chinese(Traditional)                                                | /zht    |
-| Japanese                                                            | /ja     |
-| Korean                                                              | /ko     |
-| Russian                                                             | /ru     |
-| French                                                              | /fr     |
-| Spanish                                                             | /es     |
+| multilingualism      | command |
+| -------------------- | ------- |
+| English              | /en     |
+| Chinese(Simplified)  | /zh     |
+| Chinese(Traditional) | /zht    |
+| Japanese             | /ja     |
+| Korean               | /ko     |
+| Russian              | /ru     |
+| French               | /fr     |
+| Spanish              | /es     |
 
 For other language codes see [here](#language-code)
 

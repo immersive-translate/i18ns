@@ -50,3 +50,4 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-in
 ![](https://s.immersivetranslate.com/static/official-static/assets/config1.png)
 
 ![](https://s.immersivetranslate.com/static/official-static/assets/config.png)
+```

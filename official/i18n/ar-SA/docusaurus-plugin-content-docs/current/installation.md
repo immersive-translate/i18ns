@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # التثبيت
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SHznc5kQCM4?si=RyZYUcjW560Bc57-" title="مشغل فيديوهات يوتيوب" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## متصفح الكمبيوتر الشخصي
@@ -12,7 +13,6 @@ sidebar_position: 1
 - فايرفوكس: [متجر إضافات فايرفوكس للترجمة الغامرة](https://addons.mozilla.org/firefox/addon/immersive-translate/)
 
 > إذا كنت لا تستطيع الوصول إلى متجر جوجل الرسمي، يمكنك تحميل [أحدث نسخة زيب لتثبيت الترجمة الغامرة لكروم](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip) مباشرةً، بعد التحميل، يرجى فك الضغط عنها أولاً في مجلد تستخدمه عادةً، ثم اكتب: `chrome://extensions` في شريط العنوان لفتح نافذة إدارة الإضافات، ثم فعّل "وضع المطور"، اختر "تحميل الإضافات غير المضغوطة"، واختر المجلد الذي قمت بفك ضغطه وقم بتحميله. اختر المجلد الذي قمت بفك ضغطه وقم بتحميله.
-
 
 ## سفاري
 

@@ -26,8 +26,6 @@ Alt+W: Übersetzt die ganze Seite anstatt des standardmäßigen Smart Translate 
 
 Wenn die Standard-Tastenkürzel mit anderen Software-Tastenkürzeln in Konflikt stehen, können Sie diese in [Einstellungsseite - Schnittstelleneinstellungen - Tastenkürzelverwaltung] der Erweiterung ändern, und Sie können sie auf `Alt+Q`, `Alt+E` usw. setzen.
 
-
-
 ## Youtube zweisprachige Untertitel
 
 Öffne ein zufälliges Video https://youtube.com/watch?v=EWX0bbGAd0k, klicke auf das Immersive Translate Panel und dann aktiviere [Automatisch zweisprachige Untertitel einschalten], um es zu aktivieren. Wenn die gewählten Einstellungen im Video nicht wirksam werden, genügt es in der Regel, die Seite zu aktualisieren.
@@ -38,16 +36,13 @@ Wenn die Standard-Tastenkürzel mit anderen Software-Tastenkürzeln in Konflikt 
 
 Klicke auf das Plugin-Symbol -> PDF/ePub (unterstützt Epub, Mobi und andere gängige Formate)
 
-
 ![](https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg)
-
 
 ## PDF-Datei-Übersetzung
 
 1. Wenn es sich um eine Online-PDF-Datei handelt, öffne sie in deinem Browser, klicke auf das Erweiterungssymbol und dann auf Datei übersetzen, wie unten gezeigt.
 
 <img src="https://s.immersivetranslate.com/assets/translate_pdf_en.jpeg" alt="PDF übersetzen" width="250" />
-
 
 2. Wenn es sich um eine lokale PDF-Datei handelt, klicke direkt mit der rechten Maustaste auf das Symbol der Erweiterung (oder klicke mit der linken Maustaste auf das Symbol der Erweiterung, dann klicke auf "Mehr" und klicke auf "Lokale PDF-Dateien übersetzen"), betrete die Seite und klicke dann in der oberen rechten Ecke der Seite, um deine PDF-Datei hochzuladen.
 
@@ -105,7 +100,6 @@ Willkommen bei Immersive Translate, wenn du Fragen hast, kannst du das Entwicklu
 - [Folge dem offiziellen Twitter-Feed von Immersive Translate](https://twitter.com/immersivetrans)
 
 - [Feedback zu Problemen](https://github.com/immersive-translate/immersive-translate/issues/)
-
 
 <video
 autoPlay

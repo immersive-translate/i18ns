@@ -10,10 +10,11 @@ Currently, special characters such as mathematical formulas, tables, etc. cannot
 
 If your PDF contains tables and mathematical formulas that require higher quality translation, you can experience our [PDF PRO](https://app.immersivetranslate.com/pdf-pro/)
 
-See [documentation here](/docs/usage/#pdf-file-translation) for basic usage questions 
+See [documentation here](/docs/usage/#pdf-file-translation) for basic usage questions
 
 Here are some advanced PDF translation tips：
-<!-- 
+
+<!--
 ## Move to adjust the translation box
 
 ![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-move.png) -->
@@ -96,6 +97,7 @@ When the default translation is displayed, the zoom mode is set to page width fo
 However, when the need to print and save the time it is recommended to adjust the zoom mode, it is generally recommended to adjust to 100 percent or the actual size, the printing effect will be better.
 
 ## Can the White Background of Text in a PDF Be Removed?
+
 It cannot be removed. Removing it would reveal the English text underneath.
 
 ### Bilingual preservation

@@ -27,19 +27,18 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 Comandos Comuns de Idioma：
 
-| multilinguismo                                                      | comando |
-| ------------------------------------------------------------------- | ------- |
-| Inglês                                                              | /en     |
-| Chinês (Simplificado)                                               | /zh     |
-| Chinês (Tradicional)                                                | /zht    |
-| Japonês                                                             | /ja     |
-| Coreano                                                             | /ko     |
-| Russo                                                               | /ru     |
-| Francês                                                             | /fr     |
-| Espanhol                                                            | /es     |
+| multilinguismo        | comando |
+| --------------------- | ------- |
+| Inglês                | /en     |
+| Chinês (Simplificado) | /zh     |
+| Chinês (Tradicional)  | /zht    |
+| Japonês               | /ja     |
+| Coreano               | /ko     |
+| Russo                 | /ru     |
+| Francês               | /fr     |
+| Espanhol              | /es     |
 
 Para outros códigos de idiomas veja [aqui](#codigo-de-idioma)
-
 
 ## Compatibilidade
 

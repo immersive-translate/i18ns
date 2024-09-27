@@ -27,27 +27,24 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 Comandi Comuni per le Lingue：
 
-| multilinguismo                                                      | comando |
-| ------------------------------------------------------------------- | ------- |
-| Inglese                                                             | /en     |
-| Cinese (Semplificato)                                               | /zh     |
-| Cinese (Tradizionale)                                               | /zht    |
-| Giapponese                                                          | /ja     |
-| Coreano                                                             | /ko     |
-| Russo                                                               | /ru     |
-| Francese                                                            | /fr     |
-| Spagnolo                                                            | /es     |
+| multilinguismo        | comando |
+| --------------------- | ------- |
+| Inglese               | /en     |
+| Cinese (Semplificato) | /zh     |
+| Cinese (Tradizionale) | /zht    |
+| Giapponese            | /ja     |
+| Coreano               | /ko     |
+| Russo                 | /ru     |
+| Francese              | /fr     |
+| Spagnolo              | /es     |
 
 Per altri codici lingua vedi [qui](#codice-lingua)## Compatibilità
 
 - Browser noti per essere esplicitamente non supportati:
 
   - Android Kiwi Browser (l'ottimizzazione è in corso poiché non è possibile ascoltare gli eventi di input mobili in questo browser)
-  
   - Android Lemur Browser (non è possibile ascoltare gli eventi di input mobili in questo browser, l'ottimizzazione è in fase di studio)
-  
   - Arc Browser
-  
   - Android è attualmente supportato solo da Firefox in fase di test
 
 - Pagine note per essere esplicitamente non supportate:

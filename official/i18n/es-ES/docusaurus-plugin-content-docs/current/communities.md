@@ -12,5 +12,5 @@ Puedes mantenerte conectado con nosotros mediante.
 <!-- - [Suscríbete a Immersive Translate por correo electrónico](https://immersivetranslate.substack.com/) Recibe las últimas actualizaciones y (beneficios) de manera oportuna. -->
 - Sigue a Immersive Translate en [Twitter](https://twitter.com/immersivetrans)
 - Sigue a Immersive Translate en [YouTube](https://www.youtube.com/channel/UCjflHbaIz5bVqv08ZUYMQCA)
-<!-- - [Únete al grupo de Telegram](https://t.me/+rq848Z09nehlOTgx) para participar en discusiones sobre características. -->
-<!-- - [Únete al canal de Telegram](https://t.me/immersivetranslate) ¡Recibe las últimas noticias! -->
+  <!-- - [Únete al grupo de Telegram](https://t.me/+rq848Z09nehlOTgx) para participar en discusiones sobre características. -->
+  <!-- - [Únete al canal de Telegram](https://t.me/immersivetranslate) ¡Recibe las últimas noticias! -->

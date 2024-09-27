@@ -29,9 +29,10 @@ This extension is free to use, I hope you can easily, pleasantly and elegantly a
 You can keep in touch with us at：
 
 <!-- - [Subscribe to Immersive Translate by Email](https://immersivetranslate.substack.com/) Get the latest updates and (benefits) in a timely manner. -->
+
 - [Follow the official Twitter feed for Immersive Translate](https://twitter.com/immersivetrans)
-<!-- - [Follow the Telegram channel](https://t.me/immersivetranslate) Receive the latest news! -->
-<!-- - [Join the Telegram group](https://t.me/+rq848Z09nehlOTgx) to participate in discussions about features. -->
+  <!-- - [Follow the Telegram channel](https://t.me/immersivetranslate) Receive the latest news! -->
+  <!-- - [Join the Telegram group](https://t.me/+rq848Z09nehlOTgx) to participate in discussions about features. -->
 - [Feedback on issues](https://github.com/immersive-translate/immersive-translate/issues/)
 
 ## catalogs
@@ -47,6 +48,7 @@ You can keep in touch with us at：
 ## Use Cases
 
 <!-- - [Learn about the changes that happened to user Xiao Zhang after a month of using Immersive Translate](#user-xiao-zhangs-story) -->
+
 - [click here](/docs/usecase/) View screenshots of usage
 - [click here for](/docs/review/) user reviews and media coverage
 - [Youtube video introduction](https://www.youtube.com/watch?v=SHznc5kQCM4&ab_channel=ImmersiveTranslate)
@@ -139,8 +141,8 @@ You can still do these things to help us now：
 - Develop the habit of reading information in foreign languages
 - In the [Chrome Store](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh), [Edge Store](https://microsoftedge.microsoft.com/addons/detail/immersive-translate-web-/amkbmndfnliijdhojkpoglbnaaahippg), [Apple App Store](https://apps.apple.com/app/id6447957425), [Firefox Store](https://addons.mozilla.org/firefox/addon/immersive-translate/) to evaluate the extension.
 - The following is optional：
-<!-- - Subscribe to [the official Immersive Translate email](https://immersivetranslate.substack.com/) -->
-<!-- - [Join the Telegram channel](https://t.me/immersivetranslate) -->
+  <!-- - Subscribe to [the official Immersive Translate email](https://immersivetranslate.substack.com/) -->
+  <!-- - [Join the Telegram channel](https://t.me/immersivetranslate) -->
 - Follow [the official Twitter account of Immersive Translate](https://twitter.com/immersivetrans)
 - Help with [translation](https://crowdin.com/project/immersive-translate) the interface language for this extension.
 <!-- - Help answer user questions in [Telegram Groups](https://t.me/+rq848Z09nehlOTgx). -->

@@ -3,6 +3,7 @@ sidebar_position: 3
 ---
 
 # ¿Cómo comparto una página bilingüe?
+
 <video
 controls style={{width:"100%", maxWidth:"500px"}}
 controls
@@ -26,7 +27,6 @@ También puedes iniciar la compartición haciendo clic en el botón de compartir
 <img src="https://s.immersivetranslate.com/assets/20240119shareBilingualPage_1.jpg" alt="compartir" />
 
 O simplemente puedes configurar las teclas de acceso rápido especificadas en [Configuración de Interfaz] [Configuración de Tecla de Acceso Rápido].
-
 
 ## ¿Cómo lo activo en mi teléfono?
 

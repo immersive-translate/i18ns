@@ -14,7 +14,6 @@ Siehe [Dokumentation hier](/docs/usage/#pdf-file-translation) für grundlegende 
 
 Hier sind einige fortgeschrittene Tipps zur PDF-Übersetzung:
 
-
 ### Bearbeitungsfeld
 
 Die Standardübersetzung ist bearbeitbar. Sie können sogar auf "Originaltext anzeigen" im Panel klicken, und der Inhalt des Textfeldes wird als der intelligent erkannte Originaltext angezeigt, und Sie können zu diesem Zeitpunkt Korrekturen am Originaltext im Bearbeitungsfeld vornehmen. Dann klicken Sie erneut auf die Panelübersetzung.
@@ -30,7 +29,6 @@ Wenn einige Absätze Erkennungsprobleme haben könnten, manuell den vorherigen A
 ### Größenanpassung des Textfeldes
 
 Da die Standardübersetzungshöhe und -breite standardmäßig dieselben wie beim ursprünglichen Absatz sind, kommt es zu einem Überlauf, wenn der Übersetzungsinhalt den ursprünglichen Text überschreitet. In diesem Fall können Sie ihn durch das innere Scrollen betrachten. Sie können auch in der unteren rechten Ecke ziehen und ablegen, um dieses Textfeld angemessen zu vergrößern, damit der Inhalt vollständig angezeigt werden kann.
-
 
 ### Bandwagen-Modus
 
@@ -73,7 +71,6 @@ Wenn der intelligent erkannte Absatz falsch ist, kann er mit den folgenden Schri
 - Klicken Sie auf das Übersetzungsfeld, um den erkannten Originaltext anzuzeigen.
 - Passen Sie dann manuell den Absatz gegenüber dem Originaltext auf der linken Seite durch Kopieren und Zeilenumbrüche usw. an.
 - Wenn der Absatz als korrekt bestätigt wird, klicken Sie erneut auf Übersetzen.
-
 
 Da unser Werkzeug auf dem Browser basiert, sind Download-Geschwindigkeiten und -Ergebnisse stark vom Browser selbst abhängig. Daher wird empfohlen, nicht mit mehr als 300 Seiten PDF umzugehen.
 

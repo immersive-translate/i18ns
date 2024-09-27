@@ -248,6 +248,7 @@ sidebar_position: 6
 ## 0.7.1
 
 - Suporte à Melhoria de Pesquisa, quando habilitado, ao pesquisar no Google/Google News em chinês, a coluna da direita mostrará automaticamente os resultados da pesquisa das correspondentes palavras-chave em inglês, o que é habilitado por padrão.
+
   - Razão: Descobrimos que, na pesquisa do Google, os resultados da pesquisa para palavras-chave em chinês e inglês podem ser muito diferentes, com a Melhoria de Pesquisa Traduzida Imersiva habilitada, automaticamente buscamos as mesmas palavras-chave em inglês para você e as exibimos no lado direito. Você pode escolher desabilitá-la se não precisar do recurso.
   - Safari não é suportado devido a limitações da API.## 0.6.20
 
@@ -388,6 +389,7 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 - Super atualização!
 
 - A funcionalidade "Mostrar Apenas Traduções" chegou! Clique em [Mais] -> [Alternar para mostrar apenas traduções].
+
   - Suporte a atalhos personalizados, configuráveis em configurações de interface -> Configurações de Atalho
 
 - Otimização da limitação de frequência de requisições ao OpenAI
@@ -395,6 +397,7 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 - O ChatGPT agora usa por padrão o modelo móvel, que é mais rápido!
 
 - Refatoração do parsing do núcleo web, o que significa:
+
   - Tradução de páginas web em larga escala em segundos
     - Por exemplo: https://pve.proxmox.com/pve-docs/pve-admin-guide.html, que antes levava 30 segundos, agora é feita em segundos.
   - Uso ultra-baixo de memória para páginas web complexas
@@ -402,10 +405,12 @@ A mais empolgante melhoria na caixa de entrada está aqui:
   - Adaptação a mais websites
 
 - Todas as traduções de websites com ShadowRoot são suportadas.
+
   - Por exemplo: https://bugs.chromium.org/p/chromium/issues/detail?id=418987
   - Por exemplo, a seção de comentários de: https://news.yahoo.com/gma/virginia-mom-facing-charges-6-190600893.html
 
 - Corrigido o problema da tela branca após a tradução de websites com hidratação, como Next.js.
+
   - Por exemplo: https://webpack.js.org/
 
 - Corrigido o problema que exigia a atualização da página para que a modificação do atalho de passar o mouse para funcionar
@@ -415,11 +420,13 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 - Muitas atualizações!
 
 - A funcionalidade "Mostrar Apenas Traduções" chegou! Clique em 'Mais' -> 'Alternar para Mostrar Apenas Traduções'.
+
   - Suporta atalhos personalizados, que podem ser configurados em 'Configurações de Interface' -> 'Configurações de Atalho'
 
 - Otimizado para o problema de limite de taxa de requisição do OpenAI
 
 - O parsing do núcleo web foi reconstruído, o que significa.
+
   - Tradução instantânea para grandes websites
   - Uso mínimo de memória para páginas web complexas
   - Melhor compatibilidade com mais websites

@@ -4,7 +4,6 @@
 
 1. Site officiel : [You Dao](http://ai.youdao.com/)
 
-
 ## Étapes d'Application
 
 1. Ouvrez la [Plateforme Ouverte AI Youdao Zhiyun](http://ai.youdao.com) et cliquez sur S'inscrire dans le coin supérieur droit.

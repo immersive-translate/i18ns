@@ -6,7 +6,7 @@
    - Acesse as [Configurações do Desenvolvedor](https://dash.immersivetranslate.com/#developer) no Immersive Translate.
    - Expanda a seção "Edit Full User Config", e procure ou adicione a seguinte linha:
      ```json
-    "gemini": {
+     "gemini": {
       "provider": "pro",
       "visible": false
      ```
@@ -15,6 +15,7 @@
 ## Obtenção da Chave de API
 
 1. **Makersuite:**
+
    - Acesse o site [Google AI Studio](https://aistudio.google.com/).
    - Faça login com sua conta Google.
    - Clique em `Get API key` (Obter chave de API) > `Criar chave de API`.

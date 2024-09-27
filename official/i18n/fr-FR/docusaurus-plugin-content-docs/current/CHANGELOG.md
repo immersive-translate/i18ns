@@ -412,6 +412,7 @@ L'amélioration la plus excitante des zones de saisie est arrivée :
 - Super mise à jour !
 
 - La fonctionnalité "Afficher uniquement les traductions" est là ! Cliquez sur [Plus] -> [Basculer pour afficher uniquement les traductions].
+
   - Prise en charge des raccourcis personnalisés, à définir dans les paramètres de l'interface -> Paramètres des raccourcis
 
 - Optimisation de la limitation de fréquence des requêtes OpenAI
@@ -419,6 +420,7 @@ L'amélioration la plus excitante des zones de saisie est arrivée :
 - ChatGPT utilise par défaut le modèle mobile, qui est plus rapide !
 
 - Refonte du parsing du noyau web, ce qui signifie :
+
   - Traduction de pages web à grande échelle en quelques secondes
     - Par exemple : https://pve.proxmox.com/pve-docs/pve-admin-guide.html, qui prenait 30 secondes auparavant, est maintenant traité en quelques secondes.
   - Utilisation ultra-faible de la mémoire pour les pages web complexes
@@ -426,10 +428,12 @@ L'amélioration la plus excitante des zones de saisie est arrivée :
   - Adaptation à plus de sites web
 
 - Toutes les traductions des sites web ShadowRoot sont prises en charge.
+
   - Par exemple : https://bugs.chromium.org/p/chromium/issues/detail?id=418987
   - Par exemple, la section des commentaires de : https://news.yahoo.com/gma/virginia-mom-facing-charges-6-190600893.html
 
 - Correction du problème d'écran blanc après la traduction de sites web utilisant l'hydratation, comme Next.js.
+
   - Par exemple : https://webpack.js.org/
 
 - Correction du problème nécessitant un rafraîchissement de la page pour que la modification du raccourci de survol de la souris prenne effet
@@ -439,11 +443,13 @@ L'amélioration la plus excitante des zones de saisie est arrivée :
 - Beaucoup de mises à jour !
 
 - La fonctionnalité 'Afficher uniquement la traduction' est arrivée ! Cliquez sur 'Plus' -> 'Basculer pour afficher uniquement les traductions'.
+
   - Prend en charge les raccourcis personnalisés, qui peuvent être définis dans 'Paramètres de l'interface' -> 'Paramètres des raccourcis'
 
 - Optimisé pour le problème de limite de taux de requête OpenAI
 
 - Le parsing du noyau web a été reconstruit, ce qui signifie.
+
   - Traduction instantanée pour les grands sites web
   - Utilisation minimale de la mémoire pour les pages web complexes
   - Meilleure compatibilité avec plus de sites web

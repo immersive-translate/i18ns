@@ -12,5 +12,5 @@ Você pode manter-se conectado conosco por meio de:
 <!-- - [Assine o Immersive Translate por e-mail](https://immersivetranslate.substack.com/) Receba as últimas atualizações e (benefícios) em tempo hábil. -->
 - Siga o Immersive Translate no [Twitter](https://twitter.com/immersivetrans)
 - Siga o Immersive Translate no [YouTube](https://www.youtube.com/channel/UCjflHbaIz5bVqv08ZUYMQCA)
-<!-- - [Junte-se ao grupo do Telegram](https://t.me/+rq848Z09nehlOTgx) para participar de discussões sobre funcionalidades. -->
-<!-- - [Junte-se ao canal do Telegram](https://t.me/immersivetranslate) para receber as últimas notícias! -->
+  <!-- - [Junte-se ao grupo do Telegram](https://t.me/+rq848Z09nehlOTgx) para participar de discussões sobre funcionalidades. -->
+  <!-- - [Junte-se ao canal do Telegram](https://t.me/immersivetranslate) para receber as últimas notícias! -->

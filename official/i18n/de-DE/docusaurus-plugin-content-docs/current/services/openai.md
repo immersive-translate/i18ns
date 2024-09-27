@@ -46,8 +46,8 @@ Nach der Bereitstellung des gpt-35-turbo-Modells öffnen Sie die OpenAI-Einstell
 
 - Dies kann über `Weitere Einstellungen` mit dem folgenden Einstiegspunkt konfiguriert werden
 
-***
+---
 
 <img width="951" alt="Snipaste_2023-04-08_19-29-18" src="https://user-images.githubusercontent.com/5794691/230718739-ff661ce3-04af-4391-8efc-9a5a1c8374b0.png"/>
 
-***
+---

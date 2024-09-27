@@ -19,11 +19,9 @@ sidebar_position: 3
 
 ![](https://s.immersivetranslate.com/assets/introduce_en.jpg)
 
-
 ## Twitter, affaiblir le style de traduction
 
 ![twitter1.jpg](https://s.immersivetranslate.com/assets/weaken_style_of_translation_en.jpeg)
-
 
 ## Tutoriels vidéo d'installation iOS Apple Immersive Translate
 
@@ -34,8 +32,6 @@ muted
 height="800px"
 poster="https://s.immersivetranslate.com/static/official-static/assets/docs/ios_safari_turorial_en.jpeg" src="https://s.immersivetranslate.com/videos/ios_safari_turorial_en.mp4"></video>
 
-
 ## Pour plus de styles, veuillez vérifier l'écran des paramètres
 
 ![](https://s.immersivetranslate.com/assets/custom_style_en.jpeg)
-

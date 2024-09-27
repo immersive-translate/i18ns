@@ -12,13 +12,16 @@
 1. **Acesse a Plataforma DeepSeek:** Vá para [DeepSeek](https://deepseek.com/) e faça login na sua conta.
 
 2. **Acesse o Console de Gerenciamento:**
+
    - Clique em "Console de gerenciamento" após o login.
 
 3. **Obtenha sua API Key:**
+
    - Acesse o [Console DeepSeek](https://platform.deepseek.com/api_keys).
    - Copie a chave gerada.
 
 4. **Integre no Immersive Translate:**
+
    - Cole a API Key nas configurações do Immersive Translate.
 
 5. **Pronto!** Agora você pode utilizar o DeepSeek no Immersive Translate. 🎉

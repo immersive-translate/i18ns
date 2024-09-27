@@ -48,6 +48,7 @@ sidebar_position: 10
 لذلك، يستخدم الكثير من الناس أدوات الترجمة لعرض المعلومات عندما يكون ذلك ضروريًا فقط، وقد استخدمت الترجمة التي جاءت مع نظامي لفترة من الوقت - حتى بعد أن قرأت نسخة ثنائية اللغة من "نساء صغيرات".
 
 لقد أدركت للتو مدى أهمية تجربة القراءة الثنائية اللغة:
+
 - يمكنني قراءة الرسالة الأصلية.
 - يمكنني أيضًا النظر بسرعة إلى الترجمة وعندما أقرأ شيئًا لا يبدو منطقيًا، أتحقق فورًا من النص الأصلي.
 - تعلم الإنجليزية أثناء قراءتك!
@@ -55,7 +56,7 @@ sidebar_position: 10
 
 لذا وُلدت Immersive Translate [ولدت](https://twitter.com/OwenYoungZh/status/1588792579596111872)، ولم أتوقع أنه بمجرد إطلاقها، بدأ عدد لا يحصى من الأشخاص الذين لديهم نفس احتياجاتي في استخدام Immersive Translate لقراءة كميات هائلة من المعلومات بلغة أجنبية بتواتر عالٍ:
 
-[![مخطط تاريخ النجوم](https://api.star-history.com/svg?repos=immersive-translate/immersive-translate\&type=Date)](https://star-history .com/#immersive-translate/immersive-translate\&Date)
+[![مخطط تاريخ النجوم](https://api.star-history.com/svg?repos=immersive-translate/immersive-translate&type=Date)](https://star-history .com/#immersive-translate/immersive-translate\&Date)
 
 ثم نتقدم خطوة بخطوة لتحسين الاحتياجات المختلفة للقراءة، بما في ذلك دعم الترجمة الفورية لملفات PDF، ودعم الترجمة الفورية وإنتاج كتب إلكترونية بصيغة Epub، ودعم ملفات الترجمة، وملفات TXT وما إلى ذلك.
 

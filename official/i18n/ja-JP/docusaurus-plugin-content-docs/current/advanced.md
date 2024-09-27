@@ -49,14 +49,8 @@ sidebar_position: 4
 ```json
 {
   "matches": "https://www.instagram.com/*",
-  "selectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ],
-  "atomicBlockSelectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ]
+  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
+  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
 }
 ```
 
@@ -74,7 +68,10 @@ sidebar_position: 4
 注入されたCSSを使用すると、カスタムWebページスタイルをグローバルに注入できます。`Rules`の`translationClasses`と一緒に使用することもできます。
 
 ```css
-.immersive-translate-target-wrapper img { width: 16px; height: 16px }
+.immersive-translate-target-wrapper img {
+  width: 16px;
+  height: 16px;
+}
 ```
 
 また、通常のWebページスタイルマネージャーのように、ウェブサイトにさらに個性的なスタイルを設計することもできます。（`display:none`を使用して広告を非表示にすることも可能です）
@@ -175,6 +172,7 @@ Config を通じて、翻訳サービスや特定の言語オプションなど�
 Config の一般的なフィールドについていくつか紹介します。
 
 ### 通常のHTMLタグのレンダリングを許可する
+
 [開発者設定](https://dash.immersivetranslate.com/#developer) に移動 -> Full User Configを編集
 
 "enableRenderHtmlTag": true を編集
@@ -370,6 +368,7 @@ export interface Rule {
   atomicBlockSelectors?: string | string[]; // エリアセレクター、マッチした要素は一つの全体として見られ、分割して翻訳されません
 }
 ```
+
 ```javascript
   atomicBlockTags?: string | string[]; // エリアTagセレクタ、上記と同じ
 
@@ -455,7 +454,7 @@ export interface Rule {
   }
 ```
 
-> ⚠️ 注意してください。同一ドメインのすべてのサイトを翻訳する場合、*.twitter.comやhttps://twitter.com/を単純に使用するのは無効です。上記のように正しく設定する必要があります。これは、*.twitter.comがxxx.twitter.comのようなサブドメインにのみ一致し、トップレベルドメイン自体は含まれないためです。
+> ⚠️ 注意してください。同一ドメインのすべてのサイトを翻訳する場合、_.twitter.comやhttps://twitter.com/を単純に使用するのは無効です。上記のように正しく設定する必要があります。これは、_.twitter.comがxxx.twitter.comのようなサブドメインにのみ一致し、トップレベルドメイン自体は含まれないためです。
 
 ### ウェブサイトの適応事例
 
@@ -589,6 +588,7 @@ export interface Rule {
     ```
 
   `-webkit-line-clamp` この属性は表示行数を制御し、余分な行は切り取られます。`unset`に設定することで、この属性によって翻訳文が切り取られることがないようにします。
+
 ```
 
 ### カスタムウェブサイト適応
@@ -596,23 +596,25 @@ export interface Rule {
 適応ルールについては、もちろんカスタムルールを設定することもできます。プラグインのオプションページに進み、[開発者設定](https://dash.immersivetranslate.com/#developer)をクリックして、`Edit User Rules` を展開し、ここで各ウェブサイトのカスタム適応を行います。以下は実際のルールを組み合わせて説明します。
 
 ```
+
 [
-  {
-    "selectors.remove": [
-      "[data-testid=\"tweetText\"]"
-    ],
-    "selectors.add": [
-      ""
-    ],
-    "excludeSelectors.add":[
-      ""
-    ],
-    "excludeSelectors.remove":[
-      ""
-    ],
-    "id": "twitter"
-  }
+{
+"selectors.remove": [
+"[data-testid=\"tweetText\"]"
+],
+"selectors.add": [
+""
+],
+"excludeSelectors.add":[
+""
+],
+"excludeSelectors.remove":[
+""
+],
+"id": "twitter"
+}
 ]
+
 ```
 
 このルールは、Twitterページのツイートを翻訳しないようにします。以下でフィールドの意味を詳しく説明します。
@@ -640,3 +642,4 @@ export interface Rule {
 
 - ブロック要素は一行を占有し、隣接する複数のブロック要素はそれぞれ新しい行を開始します。
 - インライン要素は一行を占有せず、隣接する複数のインライン要素は同一行に並び、一行に収まりきらなくなるまで新しい行には移りません。
+```

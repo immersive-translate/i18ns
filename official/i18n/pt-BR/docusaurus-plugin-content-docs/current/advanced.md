@@ -47,14 +47,8 @@ Se você quiser traduzir uma região enquanto trata os elementos como um todo e 
 ```json
 {
   "matches": "https://www.instagram.com/*",
-  "selectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ],
-  "atomicBlockSelectors": [
-    "div. ._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ]
+  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
+  "atomicBlockSelectors": ["div. ._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
 }
 ```
 

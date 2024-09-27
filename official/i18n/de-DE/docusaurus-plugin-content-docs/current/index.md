@@ -23,7 +23,6 @@ Diese Erweiterung ist kostenlos nutzbar, ich hoffe, Sie können auf einfache, an
 
 Sie können mit uns in Kontakt bleiben bei:
 
-
 - [Folgen Sie dem offiziellen Twitter-Feed von Immersive Translate](https://twitter.com/immersivetrans)
 
 - [Feedback zu Problemen](https://github.com/immersive-translate/immersive-translate/issues/)
@@ -41,6 +40,7 @@ Sie können mit uns in Kontakt bleiben bei:
 ## Anwendungsfälle
 
 <!-- - [Erfahren Sie, welche Veränderungen bei Nutzer Xiao Zhang nach einem Monat Nutzung von Immersive Translate aufgetreten sind](#user-xiao-zhangs-story) -->
+
 - [Klicken Sie hier](/docs/usecase/), um Nutzungsscreenshots anzusehen
 - [Klicken Sie hier für](/docs/review/) Nutzerbewertungen und Medienberichte
 - [Youtube-Videoeinführung](https://www.youtube.com/watch?v=SHznc5kQCM4&ab_channel=ImmersiveTranslate)
@@ -137,6 +137,7 @@ Sie können immer noch folgendes tun, um uns jetzt zu unterstützen:
 - Folgendes ist optional:
 <!-- - Abonnieren Sie [den offiziellen Immersive Translate E-Mail-Newsletter](https://immersivetranslate.substack.com/) -->
 <!-- - [Treten Sie dem Telegram-Kanal bei](https://t.me/immersivetranslate) -->
+
 - Folgen Sie [dem offiziellen Twitter-Konto von Immersive Translate](https://twitter.com/immersivetrans)
 - Helfen Sie bei der [Übersetzung](https://crowdin.com/project/immersive-translate) der Benutzeroberflächensprache für diese Erweiterung.
 <!-- - Helfen Sie, Nutzerfragen in [Telegram-Gruppen](https://t.me/+rq848Z09nehlOTgx) zu beantworten. -->

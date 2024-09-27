@@ -12,10 +12,12 @@
 1. **Acesso à Plataforma ZeroOneEverything:** Acesse o site [ZeroOneEverything](https://platform.lingyiwanwu.com/apikeys) e faça login na sua conta.
 
 2. **Criação da API Key:**
+
    - Após o login, você será redirecionado para a página de gerenciamento da API Key.
    - Clique em "Criar API Key".
 
 3. **Integração no Immersive Translate:**
+
    - Copie a API Key gerada.
    - Cole a API Key nas configurações do Immersive Translate.
 

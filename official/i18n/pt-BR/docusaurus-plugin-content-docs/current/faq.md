@@ -20,7 +20,7 @@ sidebar_position: 9
 
 **R:** Plugins de navegador funcionam apenas em navegadores.
 
-* **iOS:** Pressione e segure o link do YouTube para abrir em uma página da web.
+- **iOS:** Pressione e segure o link do YouTube para abrir em uma página da web.
 
 ## Como Desativar a Tradução Automática?
 
@@ -36,9 +36,9 @@ sidebar_position: 9
 
 **R:** Isso pode ocorrer em:
 
-* Página padrão do navegador (sem endereço na barra de endereço)
-* Página de plugin de terceiros
-* Página da Google Store com plugin do Google desativado
+- Página padrão do navegador (sem endereço na barra de endereço)
+- Página de plugin de terceiros
+- Página da Google Store com plugin do Google desativado
 
 ## Como Ocultar o Texto Original?
 
@@ -81,8 +81,8 @@ sidebar_position: 9
 
 **Desktop:**
 
-* Chrome e Firefox: [Tampermonkey](https://www.tampermonkey.net/)
-* Safari: [Userscripts](https://itunes.apple.com/us/app/userscripts/id1463298887)
+- Chrome e Firefox: [Tampermonkey](https://www.tampermonkey.net/)
+- Safari: [Userscripts](https://itunes.apple.com/us/app/userscripts/id1463298887)
 
 <!-- > Se você usa o [Stay](https://apps.apple.com/cn/app/stay-safari%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BC%B4%E4%BE%A3/id1591620171) no Safari, busque pelo Script de Otimização Immersive Translate para baixar diretamente da loja do Stay (otimizado especificamente para o Stay) -->
 
@@ -126,8 +126,8 @@ sidebar_position: 9
 
 **R:**
 
-* **Poucos visitantes:** Sugira parágrafos para tradução ou adapte o site com [regras do usuário](/docs/advanced/#user-rules).
-* **Muitos usuários:** Use a tradução por mouse e relate o problema no grupo.
+- **Poucos visitantes:** Sugira parágrafos para tradução ou adapte o site com [regras do usuário](/docs/advanced/#user-rules).
+- **Muitos usuários:** Use a tradução por mouse e relate o problema no grupo.
 
 ## Aprimoramento da Caixa de Entrada não Funciona
 
@@ -145,9 +145,9 @@ sidebar_position: 9
 
 **R:**
 
-* Ocultar na página atual
-* Definir como "Nunca traduzir este site"
-* Ocultar em todas as páginas: Vá em [Página de Configurações] - [Configurações da Interface] e desative [Mostrar Botão Flutuante na Página].
+- Ocultar na página atual
+- Definir como "Nunca traduzir este site"
+- Ocultar em todas as páginas: Vá em [Página de Configurações] - [Configurações da Interface] e desative [Mostrar Botão Flutuante na Página].
 
 ## Erro ao Instalar o Plugin no Chrome
 
@@ -165,7 +165,6 @@ sidebar_position: 9
 
 <!-- ![](https://s.immersivetranslate.com/static/official-static/assets/opera-allow-search.png) -->
 
-
 ## Legendas Bilíngues no YouTube
 
 **P:** As Legendas Bilíngues do YouTube em Chinês Tradicional não São Exibidas
@@ -178,10 +177,12 @@ sidebar_position: 9
 <summary>Como limpar o cache com Tampermonkey?</summary>
 
 Limpe o cache do site correspondente nas ferramentas do desenvolvedor do navegador.
+
 </details>
 
 <details>
 <summary>A solicitação de endereço da interface personalizada do Tampermonkey falhou?</summary>
 
 Declare as permissões no início do script do Tampermonkey, seguindo o modelo de outros nomes de domínio, por exemplo: `@connect api.google.com`.
+
 </details>

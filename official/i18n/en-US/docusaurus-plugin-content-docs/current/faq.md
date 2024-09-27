@@ -11,6 +11,7 @@ For the sake of page readability, immersive translation by default only translat
 Open the floating ball panel (long press on mobile) -> Click on more in the bottom right corner -> Select all areas
 
 ## Floating Bubble Not Displayed in Youtube (or Other) Apps on Mobile
+
 Browser plugins can only run in browsers and cannot be used in other apps.
 
 - Clicking on YouTube in an iOS browser directly opens the App.

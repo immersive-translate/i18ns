@@ -22,6 +22,7 @@
     - Se recomienda usar solo para las funciones de mejora de entrada y de pasar el ratón por encima
 
 ## Claude
+
 - Despliegue de Claude a ChatGPT usando Docker/Cloudflare [Claude a ChatGPT](https://github.com/jtsang4/claude-to-chatgpt)
 - Ir a la [página de configuración](https://dash.immersivetranslate.com/#general) del plugin y seleccionar openAI para el servicio de traducción
   - api_key: Obtener la [api_key](https://www.nightfall.ai/ai-security-101/anthropic-claude-api-key)

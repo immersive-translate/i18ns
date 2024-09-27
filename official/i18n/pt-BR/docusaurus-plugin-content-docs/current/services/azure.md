@@ -10,10 +10,12 @@
 ## Processo de Cadastro (Requer Paciência)
 
 1. **Conta Azure:**
+
    - Acesse o site do [Microsoft Azure](https://azure.microsoft.com/pt-br/free/ai-services/) e crie uma conta.
    - **Importante:** É necessário um cartão de crédito internacional (Visa/Master) para o cadastro.
 
 2. **Conta de Armazenamento Azure Blob:**
+
    - Acesse [https://portal.azure.com/#create/Microsoft.StorageAccount](https://portal.azure.com/#create/Microsoft.StorageAccount).
    - Crie um novo grupo de recursos e defina o nome da conta.
    - Escolha a região mais próxima (ex: "Ásia Oriental" para Hong Kong).
@@ -28,6 +30,7 @@
 ## Obtenção da Chave de Acesso
 
 1. **Painel do Azure:**
+
    - Acesse o [Painel do Azure](https://portal.azure.com/#home).
    - Vá para a página "Ferramentas de Tradução".
    - No menu à esquerda, em "Gerenciamento de Recursos", clique em "Chaves e Pontos de Extremidade".
@@ -39,7 +42,8 @@
 
 ## Suporte
 
-Em caso de dúvidas: 
+Em caso de dúvidas:
+
 - Consulte a [Documentação de Introdução ao Microsoft Azure Translation](https://learn.microsoft.com/en-us/azure/cognitive-services/translator/document-translation/quickstarts/get-started-with-rest-api?pivots=programming-language-csharp)
 
 - Ou nos envie seu feedback em [https://github.com/immersive-translate/immersive-translate/issues/137](https://github.com/immersive-translate/immersive-translate/issues/137).

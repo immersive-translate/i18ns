@@ -37,7 +37,6 @@
 
  -->
 
-
 ## 前端实习生
 
 工作地点： 远程
@@ -94,4 +93,3 @@
 150-250/天
 
 将简历发送至 [hr@immersivetranslate.com](mailto:hr@immersivetranslate.com)
-

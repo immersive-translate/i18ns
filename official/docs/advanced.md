@@ -74,7 +74,10 @@ sidebar_position: 4
 通过 Injected CSS 可以向全局注入自定义网页样式。可以搭配 `Rules` 的 `translationClasses` 一起使用。
 
 ```css
-.immersive-translate-target-wrapper img { width: 16px; height: 16px }
+.immersive-translate-target-wrapper img {
+  width: 16px;
+  height: 16px;
+}
 ```
 
 也可以像常规的网页样式管理器那样，对网站进行更加个性化的样式设计。（甚至利用 `display:none` 去广告）
@@ -175,6 +178,7 @@ sidebar_position: 4
 介绍一些 Config 常见的字段。
 
 ### 允许渲染普通 HTML 标签
+
 去 [开发设置](https://dash.immersivetranslate.com/#developer) -> Edit Full User Config
 
 编辑 "enableRenderHtmlTag": true
@@ -338,6 +342,7 @@ translationLanguagePattern, 配置总是翻译的语言，以及永不翻译的�
 ### 自定义专业术语的翻译
 
 由于某些翻译引擎对专有名词识别不理想，我们可以自定义专业术语确保它们在翻译过程中不被转换，或者按照我们设置的内容进行翻译。如果希望不对某些专业术语进行翻译，点击 [这里](https://dash.immersivetranslate.com/#advanced) 添加对应单词即可。如果希望将某些专业术语翻译为指定的内容，可以通过以下配置实现：
+
 ```json
 "generalRule": {
     "glossaries": [
@@ -464,17 +469,20 @@ export interface Rule {
 这部分介绍关于 `match` 的匹配方式，怎样来匹配到对应的域名，这里我们讲的是单个 `match` 的，实际匹配的时候 `matches` 是个数组，会尝试让每个 `match` 都去匹配，只要有一个匹配中，就算命中。
 
 首先让我们先确定好输入形式，即我们的 `match` 支持哪些形式的合法输入
+
 - 省略主机号的`url`，如 `immersivetranslate.com`
 - 一个合法的 `url`，有自己的协议，域名，或者路径，如 `https://immersivetranslate.com`
 - 上面都不满足的情况下，会将输入转换成一个正则表达式去处理，在此基础上再去匹配一些特定的规则
 
 确定好输入之后，让我们简单做个分类以更好地区分基本的`url`和带有正则表达式的`url`：
+
 - 匹配单个网站的 `match`，如 `https://immersivetranslate.com` 或者省略协议的 `immersivetranslate.com`
 - 掺有正则表达式特殊符号的 `match`，如 `https://*/*sub.info=*fmoviesz.to*` 这里会匹配特定的搜索`url`参数，这里我们的程序会自动将后面那一串转化为正则表达式以此来匹配对应的`url`，转换之后的结果为`/^https:\/\/[^/]+?\/.*?sub.info=.*?fmoviesz.to.*?\/?$/`。这样做的好处在于大幅降低了配置`match`的复杂性
 
 在区分之后，对于这两类 `match` 我们分开来讲对应的匹配逻辑，在代码中也是如此，这两类的匹配逻辑是分开的。在代码中我们是通过这个表达式 `!match.includes("*") && match.includes("://")` 来区分这两类的 `match` 的
 
 对于匹配单个站点的`match`的字符串，即不含正则表达式相关符号的，需要考虑的问题有三个：
+
 - 对于省略网络协议的match的处理：如 `immersivetranslate.com` 我们会直接判断 `match` 是否等于`url`的 `hostname`，等于则匹配成功，即不会将 `match` 解析为URL，将其作为 `hostname` 来判断
 - 对于多级路由的处理，分为两种情况
   - 完整的 `match`，如 `https://immersivetranslate.com/docs/advanced/`,这类是合法的 URL，我们会将其解析为URL，提取协议，主机名，端口号以及路径名来比较，当全部相等时则匹配成功
@@ -482,15 +490,9 @@ export interface Rule {
 
 当上面的匹配策略都不生效时，就会到我们的兜底匹配，即将其识别为一个正则表达式，我们会对 `match` 进行转换，将其转换成一个合法的正则表达式。这部分的例子可以参照这个
 
- > `https://*/*sub.info=*fmoviesz.to*` ==> `/^https:\/\/[^/]+?\/.*?sub.info=.*?fmoviesz.to.*?\/?$/`
+> `https://*/*sub.info=*fmoviesz.to*` ==> `/^https:\/\/[^/]+?\/.*?sub.info=.*?fmoviesz.to.*?\/?$/`
 
-
-最后总结一下我们的处理逻辑，
-    1.  判断 `url` 的 `hostname` 是否等于 `match` 字符串，等于则匹配成功
-    2.  判断匹配所有的 `url` 的 `match`，例如 `*`，`*://*`等等
-    3.  判断 `match` 是否为一个合法的 `url`，我们会尝试比较 `match` 和 `url` 是否相等。具体比较协议，端口，主机名，路径名，相等则成功
-    4.  判断 `match` 为一个正则表达式，将其转换成一个合法的正则表达式并尝试匹配
-    5.  都不满足的话，则匹配失败
+最后总结一下我们的处理逻辑，1. 判断 `url` 的 `hostname` 是否等于 `match` 字符串，等于则匹配成功 2. 判断匹配所有的 `url` 的 `match`，例如 `*`，`*://*`等等 3. 判断 `match` 是否为一个合法的 `url`，我们会尝试比较 `match` 和 `url` 是否相等。具体比较协议，端口，主机名，路径名，相等则成功 4. 判断 `match` 为一个正则表达式，将其转换成一个合法的正则表达式并尝试匹配 5. 都不满足的话，则匹配失败
 
 ### 翻译服务自定义请求头和请求体参数
 
@@ -544,7 +546,7 @@ export interface Rule {
   }
 ```
 
-> ⚠️ 请注意，若您希望翻译属于同一域名的所有网站，简单使用 *.twitter.com 或 https://twitter.com/ 是无效的。正确的做法应参照上文所示。这是因为 *.twitter.com 仅能匹配子域名如 xxx.twitter.com，而不包括顶级域名本身。
+> ⚠️ 请注意，若您希望翻译属于同一域名的所有网站，简单使用 _.twitter.com 或 https://twitter.com/ 是无效的。正确的做法应参照上文所示。这是因为 _.twitter.com 仅能匹配子域名如 xxx.twitter.com，而不包括顶级域名本身。
 
 ### 网站适配案例
 
@@ -728,4 +730,3 @@ Block 和 inline 的区别，如果想了解更多可以看[这里](https://deve
 
 - block 元素会独占一行，多个相邻的 block 元素会各自新起一行.
 - inline 元素不会独占一行，多个相邻的 inline 元素会排列在同一行里,直到一行排列不下才会新换一行。
-

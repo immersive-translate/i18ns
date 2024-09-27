@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # Instalação
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SHznc5kQCM4?si=RyZYUcjW560Bc57-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Navegador Desktop
@@ -84,6 +85,7 @@ A vantagem da instalação manual é que você não precisa esperar pela revisã
 1. Baixe o pacote zip na página [Releases](https://github.com/immersive-translate/immersive-translate/releases/) do repositório do Immersive Translation no GitHub.
 2. Extraia o .zip para qualquer pasta, como por exemplo: `Documentos/chrome-immersive-translate`.
 3. Para instalar em navegadores chromium, como por exemplo o Google Chrome, acesse `chrome://extensions` na barra de endereço para abrir a janela do Gerenciador de Extensões; Habilite o "Modo do Desenvolvedor", selecione "Carregar sem compactação" e escolha a pasta que você acabou de descompactar.
+
 - Instalação no Navegador Firefox: (1) Digite: `about:debugging#/runtime/this-firefox` na barra de endereço para abrir a janela do Gerenciador de Extensões; (2) Carregue temporariamente o complemento e selecione `firefox/manifest.json`.
 
 ### Como faço para atualizar uma extensão instalada manualmente?

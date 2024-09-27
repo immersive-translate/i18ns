@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # Installation
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SHznc5kQCM4?si=RyZYUcjW560Bc57-" title="YouTube-Video-Player" frameborder="0" allow="Beschleunigungsmesser; Autoplay; Zwischenablage-schreiben; verschlüsselte-Medien; Gyroskop; Bild-in-Bild; Web-Teilen" allowfullscreen></iframe>
 
 ## Desktop-Browser
@@ -12,7 +13,6 @@ sidebar_position: 1
 - Firefox：[Firefox Addon Store Immersive Translate](https://addons.mozilla.org/firefox/addon/immersive-translate/)
 
 > Wenn Sie nicht auf den offiziellen Google Store zugreifen können, können Sie direkt den [neuesten Immersive Translate Chrome Zip-Installer](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip) herunterladen. Nach dem Download entpacken Sie ihn bitte zuerst in einem Ordner, den Sie üblicherweise verwenden, dann geben Sie `chrome://extensions` in die Adressleiste ein, um das Erweiterungsverwaltungsfenster zu öffnen, aktivieren Sie dann den "Entwicklermodus", wählen Sie "Entpackte Erweiterungen laden" und wählen Sie den Ordner, den Sie gerade entpackt haben, und laden Sie ihn. Wählen Sie den Ordner, den Sie gerade extrahiert haben, und laden Sie ihn.
-
 
 ## Safari
 

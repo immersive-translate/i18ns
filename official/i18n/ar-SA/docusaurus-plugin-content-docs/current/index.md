@@ -7,7 +7,6 @@ title: مقدمة
 
 <img src="https://s.immersivetranslate.com/assets/introduce_en.jpg" width="1200"/>
 
-
 ## الميزات
 
 - **قراءة غامرة لمواقع الويب بلغات أجنبية** من خلال التعرف الذكي على منطقة المحتوى الرئيسية لصفحة ويب وترجمتها بلغتين، يوفر Immersive Translate تجربة جديدة لقراءة اللغة الأجنبية، ومن هنا جاء اسم "Immersive Translate".
@@ -25,7 +24,7 @@ title: مقدمة
 يمكنك البقاء على تواصل معنا عبر:
 
 - [تابع الحساب الرسمي لـ Immersive Translate على تويتر](https://twitter.com/immersivetrans)
-- [تقديم تعليقات حول المشكلات](https://github.com/immersive-translate/immersive-translate/issues/)Certainly! 
+- [تقديم تعليقات حول المشكلات](https://github.com/immersive-translate/immersive-translate/issues/)Certainly!
 
 ## الفهارس
 
@@ -40,13 +39,12 @@ title: مقدمة
 ## حالات الاستخدام
 
 <!-- - [تعرف على التغييرات التي حدثت للمستخدم شياو زانغ بعد شهر من استخدام Immersive Translate](#user-xiao-zhangs-story) -->
+
 - [اضغط هنا](/docs/usecase/) لعرض لقطات الشاشة للاستخدام
 - [اضغط هنا لـ](/docs/review/) آراء المستخدمين وتغطية الإعلام
 - [مقدمة فيديو يوتيوب](https://www.youtube.com/watch?v=SHznc5kQCM4&ab_channel=ImmersiveTranslate)
 
 ## التثبيت
-
-
 
 ### متصفح سطح المكتب
 
@@ -118,7 +116,7 @@ title: مقدمة
 
 لذا وُلدت Immersive Translate [ولدت](https://twitter.com/OwenYoungZh/status/1588792579596111872)، ولم أتوقع أنه بمجرد إطلاقها، بدأ عدد لا يحصى من الأشخاص الذين لديهم نفس احتياجاتي في استخدام Immersive Translate لقراءة كميات هائلة من المعلومات بلغة أجنبية بتواتر عالٍ:
 
-[![مخطط تاريخ النجوم](https://api.star-history.com/svg?repos=immersive-translate/immersive-translate\&type=Date)](https://star-history .com/#immersive-translate/immersive-translate\&Date)
+[![مخطط تاريخ النجوم](https://api.star-history.com/svg?repos=immersive-translate/immersive-translate&type=Date)](https://star-history .com/#immersive-translate/immersive-translate\&Date)
 
 ثم نقوم خطوة بخطوة بالتحسين لمختلف احتياجات القراءة، بما في ذلك دعم الترجمة الفورية لملفات PDF، ودعم الترجمة الفورية وإنتاج كتب Epub الإلكترونية، ودعم ملفات الترجمة، وملفات TXT وما إلى ذلك.
 
@@ -134,8 +132,8 @@ title: مقدمة
 - طوروا عادة قراءة المعلومات بلغات أجنبية.
 - في [متجر Chrome](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)، [متجر Edge](https://microsoftedge.microsoft.com/addons/detail/immersive-translate-web-/amkbmndfnliijdhojkpoglbnaaahippg)، [متجر تطبيقات Apple](https://apps.apple.com/app/id6447957425)، [متجر Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate/) لتقييم الإضافة.
 - التالي اختياري:
-<!-- - الاشتراك في [البريد الإلكتروني الرسمي لـ Immersive Translate](https://immersivetranslate.substack.com/) -->
-<!-- - [الانضمام إلى قناة التلغرام](https://t.me/immersivetranslate) -->
+  <!-- - الاشتراك في [البريد الإلكتروني الرسمي لـ Immersive Translate](https://immersivetranslate.substack.com/) -->
+  <!-- - [الانضمام إلى قناة التلغرام](https://t.me/immersivetranslate) -->
 - تابعوا [الحساب الرسمي لـ Immersive Translate على تويتر](https://twitter.com/immersivetrans)
 - المساعدة في [ترجمة](https://crowdin.com/project/immersive-translate) لغة واجهة هذه الإضافة.
 <!-- - المساعدة في الإجابة على أسئلة المستخدمين في [مجموعات التلغرام](https://t.me/+rq848Z09nehlOTgx). -->

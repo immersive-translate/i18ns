@@ -88,6 +88,7 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 Immersion soporta la traducción de archivos de subtítulos en formatos `.srt`, `.ass` y otros. Haz clic en el icono de Immersive Translate, haz clic en [Más], [Traducción de Archivos de Subtítulos], para acceder, y puedes exportar subtítulos bilingües después de la traducción.
 
 <!-- ![subtítulo](https://s.immersivetranslate.com/static/official-static/assets/subtitle.jpg) -->
+
 ![](https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg)
 
 ## Mostrar Solo Traducciones
@@ -107,11 +108,11 @@ Si estás utilizando Tampermonkey, entonces necesitas ir a la [Página de Config
 Bienvenido a Immersive Translate, si tienes alguna pregunta, puedes contactar al equipo de desarrollo en:
 
 <!-- - [Suscríbete a Immersive Translate por correo electrónico](https://immersivetranslate.substack.com/) Obtén las últimas actualizaciones y (beneficios) de manera oportuna. -->
-- [Sigue el feed oficial de Twitter para Immersive Translate](https://twitter.com/immersivetrans)
-<!-- - [Únete al grupo de Telegram](https://t.me/+rq848Z09nehlOTgx) para participar en discusiones sobre características. -->
-<!-- - [Únete al canal de Telegram](https://t.me/immersivetranslate) ¡Recibe las últimas noticias! -->
-- [Retroalimentación sobre problemas](https://github.com/immersive-translate/immersive-translate/issues/)
 
+- [Sigue el feed oficial de Twitter para Immersive Translate](https://twitter.com/immersivetrans)
+  <!-- - [Únete al grupo de Telegram](https://t.me/+rq848Z09nehlOTgx) para participar en discusiones sobre características. -->
+  <!-- - [Únete al canal de Telegram](https://t.me/immersivetranslate) ¡Recibe las últimas noticias! -->
+- [Retroalimentación sobre problemas](https://github.com/immersive-translate/immersive-translate/issues/)
 
 <video
 autoPlay

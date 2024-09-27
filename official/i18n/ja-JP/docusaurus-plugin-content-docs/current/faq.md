@@ -5,13 +5,15 @@ sidebar_position: 9
 # よくある質問
 
 ## [ollama](https://github.com/ollama/ollama) をサポートする方法
+
 Ollama はデフォルトで 127.0.0.1 と 0.0.0.0 からのクロスオリジンリクエストを許可しています。
 
 そのため、このアドレスをプラグインに設定すると403エラーが発生します。
 
 - 解決策
 
-OLLAMA_ORIGINS="*" ollama serve を使用して開始します。
+OLLAMA_ORIGINS="\*" ollama serve を使用して開始します。
+
 - 参考文献
 
 [ollama / OLLAMA_ORIGINSの設定 #2335](https://github.com/ollama/ollama/issues/2335)
@@ -112,6 +114,7 @@ Android で推奨されるユーザースクリプト拡張機能：
 WeChat読書は、第三者の手段を通じてコンテンツを取得することを防ぐために、コンテンツに特別な処理を施しているため、翻訳できません。
 
 ## ウェブページの一部が翻訳されていない
+
 通常、ウェブサイトの管理者が translate="no" や notranslate クラスを使用して、翻訳プラグインがこのエリアを翻訳しないように指定します。
 
 - マウスホバー機能を有効にする
@@ -201,7 +204,7 @@ iOSデバイスで拡張機能を有効にできない場合は、以下の手�
 ## Safariで設定ページを開くとずっとloadingが続く
 
 - iOS
-システム設定 -> Safariブラウザ -> 高度 -> サイトデータ -> 編集 -> immersivetranslate.com を見つけて削除
+  システム設定 -> Safariブラウザ -> 高度 -> サイトデータ -> 編集 -> immersivetranslate.com を見つけて削除
 
 ## より多くの質問（一般的ではない）
 

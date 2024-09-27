@@ -30,7 +30,7 @@ Cuando algunos párrafos pueden tener problemas de reconocimiento, fusionar manu
 
 Debido a que la altura y anchura de la traducción predeterminadas son las mismas que las del párrafo original por defecto, cuando el contenido de la traducción excede el texto original habrá un desbordamiento, en este caso, puedes verlo a través del desplazamiento interno. También puedes arrastrar y soltar en la esquina inferior derecha para agrandar este cuadro de texto adecuadamente para permitir que el contenido se muestre completamente.
 
-<!-- 
+<!--
 
 ## Botones de Estilo de Control
 

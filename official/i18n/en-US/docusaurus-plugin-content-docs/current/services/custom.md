@@ -7,8 +7,6 @@
 Turn on **Enable Beta Testing Features** in `Options > Developer settings`.
 ![](https://s.immersivetranslate.com/assets/turn_on_beta_en.jpeg)
 
-
-
 Then select **Custom API** in `Options > General` to open the configuration page.
 ![](https://s.immersivetranslate.com/assets/select_custon_api_en.jpeg)
 

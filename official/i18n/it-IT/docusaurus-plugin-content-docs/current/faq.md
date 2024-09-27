@@ -15,8 +15,6 @@ sidebar_position: 9
 
 <img src="https://s.immersivetranslate.com/assets/turn_off_automatic_translation_en.jpeg" alt="disattivare la traduzione automatica" width="250" />
 
-
-
 ## Nessun permesso per tradurre la pagina corrente
 
 - Pagina predefinita del browser (nessun indirizzo nella barra degli indirizzi)
@@ -30,7 +28,6 @@ Tocca l'icona di Immersive Translate per aprire il pannello di espansione, tocca
 ## Un punto esclamativo appare sulla pagina
 
 Un punto esclamativo sulla pagina indica che il servizio di traduzione ha incontrato un problema e ha restituito un errore, puoi muovere il mouse sul punto esclamativo per visualizzare l'errore specifico.
-
 
 ### Errore 429
 
@@ -66,12 +63,9 @@ Estensione Grease Monkey consigliata per Safari:
 
 - [Userscripts](https://itunes.apple.com/us/app/userscripts/id1463298887)
 
-
-
 Estensioni Grease Monkey consigliate per Android:
 
 1. Puoi installare l'estensione [Tamper Monkey](https://www.tampermonkey.net/) usando [Firefox Ultima Versione](https://www.mozilla.org/firefox/browsers/mobile/android/).
-
 
 (poiché tali browser non implementano l'API Grease Monkey richiesta)
 
