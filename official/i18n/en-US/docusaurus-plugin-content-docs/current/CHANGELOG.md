@@ -10,8 +10,6 @@ sidebar_position: 6
 - Removed: "SiliconCloud" model qwen1.5-7B-chat (due to official discontinuation)
 - Fixed: Resolved login compatibility issue with Safari plugin on macOS 15
 
-
-
 ## 1.9.7
 
 - Enhanced input support for Baidu, Gmail, and other input fields
