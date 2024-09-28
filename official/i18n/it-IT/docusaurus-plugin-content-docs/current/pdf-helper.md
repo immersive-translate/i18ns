@@ -13,7 +13,8 @@ Se il tuo PDF contiene tabelle e formule matematiche, ci sono requisiti di tradu
 Vedi [qui la documentazione](/docs/usage/#pdf-file-translation) per domande sull'uso di base
 
 Ecco alcuni consigli avanzati per la traduzione di PDF:
-<!-- 
+
+<!--
 ## Sposta per regolare il riquadro di traduzione
 
 ![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-move.png) -->

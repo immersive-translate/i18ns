@@ -50,7 +50,7 @@
 
 - 예시2: ['', '', 'b']
 
-```
+````
    원문: 😁 hello 👏🏻 world
 플레이스홀더 원문: <b0></b0> hello <b1></b1> world
 
@@ -179,4 +179,4 @@ yue: 광동어(전통), Cantones(Traditional)
 zh-CN: 간체 중국어, 简体中文
 zh-TW: 번체 중국어, 繁體中文
 zu: 줄루어, Zulu
-```
+````

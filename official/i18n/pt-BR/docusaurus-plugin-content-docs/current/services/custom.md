@@ -5,13 +5,14 @@ Este guia detalha como implementar a Interface de Tradução Personalizada [Imme
 ## Ativação da Funcionalidade
 
 1. **Configurações do Desenvolvedor:**
+
    - Acesse as configurações do Immersive Translate em `Opções > Configurações do desenvolvedor`.
    - Ative a opção "Ativar Funcionalidades Experimentais".
-![](https://s.immersivetranslate.com/assets/turn_on_beta_en.jpeg)
+     ![](https://s.immersivetranslate.com/assets/turn_on_beta_en.jpeg)
 
 2. **Seleção da API Personalizada:**
    - Em `Opções > Geral`, selecione "API Personalizada" para abrir a página de configuração.
-![](https://s.immersivetranslate.com/assets/select_custon_api_en.jpeg)
+     ![](https://s.immersivetranslate.com/assets/select_custon_api_en.jpeg)
 
 ## Especificação da Requisição
 
@@ -34,14 +35,15 @@ Este guia detalha como implementar a Interface de Tradução Personalizada [Imme
 Placeholders são utilizados para preservar conteúdo não textual (emojis, formatação, etc.) durante a tradução.
 
 - **Especificação:** array de strings.
+
   - 0: Delimitador esquerdo do par (ex: "{").
   - 1: Delimitador direito do par (ex: "}").
   - 2: Separador de tag (opcional, ex: "b").
 
 - **Exemplos:**
   1. `['{', '}']`: Preserva emojis e formatação simples.
-    - Original: 😁 Hallo 👏🏻 Welt
-    - Traduzido: 😁 Olá 👏🏻 Mundo
+  - Original: 😁 Hallo 👏🏻 Welt
+  - Traduzido: 😁 Olá 👏🏻 Mundo
 
 ```
             Original: 😁 Hallo 👏🏻 Welt
@@ -51,9 +53,10 @@ Placeholder Translation: {0} hello {1} world
             Translation: 😁 hello 👏🏻 world
 ```
 
-  2. `['', '', 'b']`: Preserva tags HTML como `<b>`.
-    - Original: 😁 **Hallo** 👏🏻 Welt
-    - Traduzido: 😁 **Olá** 👏🏻 Mundo
+2. `['', '', 'b']`: Preserva tags HTML como `<b>`.
+
+   - Original: 😁 **Hallo** 👏🏻 Welt
+   - Traduzido: 😁 **Olá** 👏🏻 Mundo
 
 ```
             Original: 😁 Hallo 👏🏻 Welt

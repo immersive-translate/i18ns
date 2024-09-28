@@ -129,10 +129,10 @@ Bem-vindo ao Immersive Translate! Em caso de dúvidas, entre em contato com a eq
   playsinline
   width="1200"
   poster="https://s.immersivetranslate.com/static/official-static/assets/site/full_usage_en.jpg">
+
   <source src="https://s.immersivetranslate.com/videos/total-usage-2024-01-18-with-mobile_en.mp4" type="video/mp4"/>
   Você precisa de um navegador que suporte vídeo em HTML5 para visualizar este vídeo.
 </video>
-
 
 ## Saiba Mais
 

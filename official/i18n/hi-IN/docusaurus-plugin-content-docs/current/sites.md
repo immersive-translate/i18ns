@@ -15,7 +15,7 @@
 - [पॉलिटिको](https://www.politico.com/) - पॉलिटिको, अमेरिकी राजनीतिक टिप्पणी और रिपोर्टिंग
 - [द गार्डियन](https://www.theguardian.com/) - यूके में द गार्डियन अखबार, मुफ्त, दान द्वारा संचालित, लाभ कमाने का कोई दबाव नहीं।
 - [डेली टेलीग्राफ](https://www.telegraph.co.uk/) - यूके से
-Here's your markdown content translated into Hindi:
+  Here's your markdown content translated into Hindi:
 
 - [दुनिया का बाकी हिस्सा](https://restofworld.org/) - टेक रिपोर्ट
 - [बोइंग बोइंग](https://boingboing.net/) - एक दिलचस्प ऑनलाइन पत्रिका, तकनीक, राजनीति, जीवन

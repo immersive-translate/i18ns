@@ -3,6 +3,7 @@
 ## Ollama
 
 1. **Instalação:**
+
    - Baixe e instale o Ollama a partir do [site oficial](https://ollama.com/).
    - **MacOS:** Execute `OLLAMA_ORIGINS="*" ollama serve` para permitir acesso de várias origens e iniciar o Ollama.
    - **Windows:**
@@ -22,6 +23,7 @@
 ## Groq
 
 1. **Configuração no Immersive Translate:**
+
    - Na [página de configurações](https://dash.immersivetranslate.com/#general) do plugin, selecione "OpenAI" como serviço de tradução.
    - Preencha os campos:
      - api_key: `api_key` [Obtenha sua chave de API aqui](https://console.groq.com/keys).
@@ -35,9 +37,11 @@
 ## Claude
 
 1. **Implementação:**
+
    - Utilize o projeto [Claude to ChatGPT](https://github.com/jtsang4/claude-to-chatgpt) para implementar o Claude no ChatGPT usando Docker/Cloudflare.
 
 2. **Configuração no Immersive Translate:**
+
    - Na [página de configurações](https://dash.immersivetranslate.com/#general) do plugin, selecione "OpenAI" como serviço de tradução.
    - Preencha os campos:
      - api_key: `api_key` [Obtenha sua chave de API aqui](https://www.nightfall.ai/ai-security-101/anthropic-claude-api-key).

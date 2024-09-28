@@ -24,9 +24,10 @@ Cette extension est gratuite, j'espère que vous pourrez accéder facilement, ag
 Vous pouvez rester en contact avec nous à :
 
 <!-- - [Abonnez-vous à Immersive Translate par e-mail](https://immersivetranslate.substack.com/) Recevez les dernières mises à jour et (avantages) en temps opportun. -->
+
 - [Suivez le fil Twitter officiel d'Immersive Translate](https://twitter.com/immersivetrans)
-<!-- - [Suivez le canal Telegram](https://t.me/immersivetranslate) Recevez les dernières nouvelles ! -->
-<!-- - [Rejoignez le groupe Telegram](https://t.me/+rq848Z09nehlOTgx) pour participer aux discussions sur les fonctionnalités. -->
+  <!-- - [Suivez le canal Telegram](https://t.me/immersivetranslate) Recevez les dernières nouvelles ! -->
+  <!-- - [Rejoignez le groupe Telegram](https://t.me/+rq848Z09nehlOTgx) pour participer aux discussions sur les fonctionnalités. -->
 - [Retours sur les problèmes](https://github.com/immersive-translate/immersive-translate/issues/)
 
 ## catalogues
@@ -42,6 +43,7 @@ Vous pouvez rester en contact avec nous à :
 ## Cas d'utilisation
 
 <!-- - [Découvrez les changements survenus chez l'utilisateur Xiao Zhang après un mois d'utilisation d'Immersive Translate](#user-xiao-zhangs-story) -->
+
 - [cliquez ici](/docs/usecase/) Voir les captures d'écran d'utilisation
 - [cliquez ici pour](/docs/review/) les avis des utilisateurs et la couverture médiatique
 - [Introduction vidéo Youtube](https://www.youtube.com/watch?v=SHznc5kQCM4&ab_channel=ImmersiveTranslate)
@@ -90,7 +92,7 @@ Adresse de Tampermonkey : https://download.immersivetranslate.com/immersive-tran
 
 Ouvrez [cette adresse](https://download.immersivetranslate.com/immersive-translate.user.js) dans un navigateur ayant l'extension Grease Monkey installée pour l'installer. En utilisant **Firefox Android** comme exemple :
 
-1. Téléchargez la [Dernière Version de Firefox](https://www.mozilla.org/firefox/browsers/mobile/android/) 
+1. Téléchargez la [Dernière Version de Firefox](https://www.mozilla.org/firefox/browsers/mobile/android/)
 2. Trouvez [Tamper Monkey](https://www.tampermonkey.net/) dans les add-ons recommandés de Firefox et installez-le.
 3. Installez [Tampermonkey](https://download.immersivetranslate.com/immersive-translate.user.js) pour cette extension (ouvrez ce lien dans votre navigateur Firefox pour voir la page d'installation)
 4. Après l'installation, ouvrez n'importe quelle page web et l'icône de la fenêtre flottante de l'extension Immersive Translate apparaîtra sur le côté droit.
@@ -138,6 +140,7 @@ Vous pouvez toujours faire ces choses pour nous aider maintenant :
 - Ce qui suit est optionnel :
 <!-- - Abonnez-vous à [l'email officiel d'Immersive Translate](https://immersivetranslate.substack.com/) -->
 <!-- - [Rejoignez le canal Telegram](https://t.me/immersivetranslate) -->
+
 - Suivez [le compte Twitter officiel d'Immersive Translate](https://twitter.com/immersivetrans)
 - Aidez à [traduire](https://crowdin.com/project/immersive-translate) la langue de l'interface pour cette extension.
 <!-- - Aidez à répondre aux questions des utilisateurs dans [les groupes Telegram](https://t.me/+rq848Z09nehlOTgx). -->

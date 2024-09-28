@@ -54,14 +54,11 @@ controls
 muted
 poster="https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg" src="https://s.immersivetranslate.com/videos/morefeature_epub_en.mp4"></video>  -->
 
-
-
 ## Traduction de fichiers PDF
 
 1. Si c'est un fichier PDF en ligne, ouvrez-le dans votre navigateur, cliquez sur l'icône d'expansion, puis cliquez sur Traduire le fichier, comme indiqué ci-dessous.
 
 <img src="https://s.immersivetranslate.com/assets/translate_pdf_en.jpeg" alt="traduire pdf" width="250" />
-
 
 2. Si c'est un fichier PDF local, cliquez directement avec le bouton droit sur l'icône de l'extension (ou cliquez avec le bouton gauche sur l'icône de l'extension, puis cliquez sur "Plus" et cliquez sur "Traduire des fichiers PDF locaux"), entrez dans la page, puis cliquez dans le coin supérieur droit de la page pour télécharger votre fichier PDF.
 
@@ -101,6 +98,7 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 Immersion prend en charge la traduction de fichiers de sous-titres aux formats `.srt`, `.ass` et autres. Cliquez sur l'icône de l'extension Immersive Translate, cliquez sur [Plus], [Traduction de fichier de sous-titres], vous pouvez y accéder, et vous pouvez exporter des sous-titres bilingues après la traduction.
 
 <!-- ![sous-titre](https://s.immersivetranslate.com/static/official-static/assets/subtitle.jpg) -->
+
 ![](https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg)
 
 ## Afficher uniquement les traductions
@@ -120,11 +118,11 @@ Si vous utilisez Tampermonkey, vous devez aller à la [Page des paramètres de l
 Bienvenue chez Immersive Translate, si vous avez des questions, vous pouvez contacter l'équipe de développement à :
 
 <!-- - [Abonnez-vous à Immersive Translate par Email](https://immersivetranslate.substack.com/) Recevez les dernières mises à jour et (avantages) en temps opportun. -->
-- [Suivez le fil Twitter officiel d'Immersive Translate](https://twitter.com/immersivetrans)
-<!-- - [Rejoignez le groupe Telegram](https://t.me/+rq848Z09nehlOTgx) pour participer aux discussions sur les fonctionnalités. -->
-<!-- - [Rejoignez le canal Telegram](https://t.me/immersivetranslate) Recevez les dernières nouvelles ! -->
-- [Retour sur les problèmes](https://github.com/immersive-translate/immersive-translate/issues/)
 
+- [Suivez le fil Twitter officiel d'Immersive Translate](https://twitter.com/immersivetrans)
+  <!-- - [Rejoignez le groupe Telegram](https://t.me/+rq848Z09nehlOTgx) pour participer aux discussions sur les fonctionnalités. -->
+  <!-- - [Rejoignez le canal Telegram](https://t.me/immersivetranslate) Recevez les dernières nouvelles ! -->
+- [Retour sur les problèmes](https://github.com/immersive-translate/immersive-translate/issues/)
 
 <video
 autoPlay

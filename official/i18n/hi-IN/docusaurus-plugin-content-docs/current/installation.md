@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # स्थापना
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SHznc5kQCM4?si=RyZYUcjW560Bc57-" title="YouTube वीडियो प्लेयर" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## डेस्कटॉप ब्राउज़र
@@ -74,7 +75,6 @@ Grease Monkey विस्तार वाले ब्राउज़र मे
 1. [Userscripts सफारी प्लगइन](https://itunes.apple.com/us/app/userscripts/id1463298887) स्थापित करें और इसे "किसी भी वेबसाइट के लिए हमेशा एक्सेस की अनुमति दें" अनुमति प्रदान करें।
 2. इस विस्तार के लिए [Tampermonkey](https://download.immersivetranslate.com/immersive-translate.user.js) स्थापित करें (इस लिंक को सफारी ब्राउज़र में खोलें और Userscript विस्तार आइकन पर क्लिक करें ताकि स्थापना पृष्ठ देख सकें)
 3. स्थापना के बाद, कोई भी वेब पेज खोलें और इसे ताज़ा करें, इस विस्तार का एक तैरता हुआ विंडो पृष्ठ के दाईं ओर दिखाई देगा।(यदि आपको तैरते हुए विंडो के प्रकट न होने की समस्याएँ आ रही हैं, तो हम पृष्ठ को अधिक बार ताज़ा करने या इसे प्रभावी होने के लिए सफारी को मजबूरी से पुनः आरंभ करने की सलाह देते हैं)
-
 
 ## मैनुअल स्थापना (नवीनतम विकास सुविधाओं का ट्रैक रखने के लिए)
 

@@ -412,6 +412,7 @@ Die aufregendste Verbesserung des Eingabefelds ist hier:
 - Super-Update!
 
 - Die Funktion "Nur Übersetzungen anzeigen" ist da! Klicken Sie auf [Mehr] -> [Umschalten auf Nur Übersetzungen anzeigen].
+
   - Unterstützt benutzerdefinierte Tastenkürzel, einzustellen in den Interface-Einstellungen -> Tastenkürzel-Einstellungen
 
 - Optimierung des OpenAI-Anfragefrequenz-Limitproblems
@@ -419,6 +420,7 @@ Die aufregendste Verbesserung des Eingabefelds ist hier:
 - ChatGPT verwendet standardmäßig das mobile Modell, das schneller ist!
 
 - Webkern-Parsing-Refactoring, was bedeutet:
+
   - Großflächige Webseitenübersetzung in Sekunden
     - Zum Beispiel: https://pve.proxmox.com/pve-docs/pve-admin-guide.html, was zuvor 30 Sekunden dauerte, wird jetzt in Sekunden umgeblättert.
   - Extrem niedriger Speicherverbrauch für komplexe Webseiten
@@ -426,10 +428,12 @@ Die aufregendste Verbesserung des Eingabefelds ist hier:
   - Anpassung an mehr Webseiten
 
 - Alle Übersetzungen von ShadowRoot-Webseiten werden unterstützt.
+
   - Zum Beispiel: https://bugs.chromium.org/p/chromium/issues/detail?id=418987
   - Zum Beispiel der Kommentarbereich von: https://news.yahoo.com/gma/virginia-mom-facing-charges-6-190600893.html
 
 - Behebung des weißen Bildschirmproblems nach der Übersetzung von Webseiten mit Hydratation wie Next.js.
+
   - Zum Beispiel: https://webpack.js.org/
 
 - Behebung des Problems, dass die Änderung des Maus-Hover-Tastenkürzels ein Neuladen der Seite erforderte, um wirksam zu werden
@@ -439,11 +443,13 @@ Die aufregendste Verbesserung des Eingabefelds ist hier:
 - Viele Updates!
 
 - Die Funktion "Nur Übersetzungen anzeigen" ist eingetroffen! Klicken Sie auf 'Mehr' -> 'Umschalten auf Nur Übersetzungen anzeigen'.
+
   - Unterstützt benutzerdefinierte Tastenkürzel, die in 'Interface-Einstellungen' -> 'Tastenkürzel-Einstellungen' festgelegt werden können
 
 - Optimiert für das OpenAI-Anfrageratenlimit-Problem
 
 - Webkern-Parsing wurde neu aufgebaut, was bedeutet.
+
   - Sofortige Übersetzung für große Webseiten
   - Minimaler Speicherverbrauch für komplexe Webseiten
   - Bessere Kompatibilität mit mehr Webseiten

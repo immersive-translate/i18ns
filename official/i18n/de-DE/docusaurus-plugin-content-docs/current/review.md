@@ -15,7 +15,6 @@ Ich bin sehr glücklich, seit der Veröffentlichung dieser Erweiterung zahlreich
 
 Wenn Ihnen diese Erweiterung auch gefällt, warum hinterlassen Sie nicht auch einen Kommentar, um der Welt zu sagen, dass sie Ihnen gefällt?
 
-
 ## Benutzernachricht
 
 > Es ist zu gut, um wahr zu sein!!! Perfekt für Leute wie mich, die ein wenig Englisch können, aber es dennoch vorziehen, schnell auf Chinesisch zu lesen! Man kann den Originaltext sehen und vergleichen, falls man sich nicht sicher ist, aber an 99% der Stellen ist es gut genug. Außerdem ist die Übersetzungsgeschwindigkeit von OPENAI immer noch zu langsam, und für schnelle Nutzer eignet sich Google Translate besser - Chrome-Nutzer!

@@ -4,7 +4,6 @@ Acceso directo a los servicios de traducción de OpenAI abriendo una membresía 
 
 [Haz clic aquí para la presentación](https://immersivetranslate.com/es/pricing/)
 
-
 ## Obtén una clave API de la plataforma oficial de desarrolladores de OpenAI.
 
 - [Dirección oficial de la API de openAI](https://openai.com/api/)
@@ -47,8 +46,8 @@ Cambia `{tu-nombre-personalizado}` por tu propio subdominio y `{tu-nombre-de-imp
 
 - Esto se puede configurar a través de `Más Configuraciones` con el siguiente punto de entrada
 
-***
+---
 
 <img width="951" alt="Snipaste_2023-04-08_19-29-18" src="https://user-images.githubusercontent.com/5794691/230718739-ff661ce3-04af-4391-8efc-9a5a1c8374b0.png"/>
 
-***
+---

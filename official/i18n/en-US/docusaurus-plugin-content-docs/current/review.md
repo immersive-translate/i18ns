@@ -60,6 +60,6 @@ If you like this extension too, why don't you go and leave a comment telling the
 
 > Good review I've been using the Double Happy + Web Translator script combo for bilingual cross-referencing translations on safari before, and this plugin does it directly, it's simply outstanding!! - Tampermonkey Users
 
-***
+---
 
 <!-- If you have something to say that you want to stay here, [edit](https://github.com/immersive-translate/immersive-translate/edit/main/docs/review.md) this Github source file to \~ -->

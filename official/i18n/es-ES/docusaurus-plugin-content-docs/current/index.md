@@ -24,13 +24,15 @@ Esta extensión es gratuita, espero que puedas acceder de manera fácil, agradab
 Puedes mantenerte en contacto con nosotros en:
 
 <!-- - [Suscríbete a Immersive Translate por correo electrónico](https://immersivetranslate.substack.com/) Obtén las últimas actualizaciones y (beneficios) de manera oportuna. -->
+
 - [Sigue el feed oficial de Twitter para Immersive Translate](https://twitter.com/immersivetrans)
-<!-- - [Sigue el canal de Telegram](https://t.me/immersivetranslate) ¡Recibe las últimas noticias! -->
-<!-- - [Únete al grupo de Telegram](https://t.me/+rq848Z09nehlOTgx) para participar en discusiones sobre características. -->
+  <!-- - [Sigue el canal de Telegram](https://t.me/immersivetranslate) ¡Recibe las últimas noticias! -->
+  <!-- - [Únete al grupo de Telegram](https://t.me/+rq848Z09nehlOTgx) para participar en discusiones sobre características. -->
 
 - [Feedback sobre problemas](https://github.com/immersive-translate/immersive-translate/issues/)
 
 ## catálogos
+
 - [Sitio oficial](https://immersivetranslate.com/es/?force=1)
 - [Instalación](/docs/installation/)
 - [Cómo usar](/docs/usage/)
@@ -42,6 +44,7 @@ Puedes mantenerte en contacto con nosotros en:
 ## Casos de uso
 
 <!-- - [Conoce los cambios que ocurrieron al usuario Xiao Zhang después de un mes de usar Immersive Translate](#user-xiao-zhangs-story) -->
+
 - [haz clic aquí](/docs/usecase/) Ver capturas de pantalla del uso
 - [haz clic aquí para](/docs/review/) opiniones de usuarios y cobertura mediática
 - [Introducción en video de Youtube](https://www.youtube.com/watch?v=SHznc5kQCM4&ab_channel=ImmersiveTranslate)
@@ -138,6 +141,7 @@ Aún puedes hacer estas cosas para ayudarnos ahora:
 - Lo siguiente es opcional:
 <!-- - Suscribirse a [el email oficial de Immersive Translate](https://immersivetranslate.substack.com/) -->
 <!-- - [Unirse al canal de Telegram](https://t.me/immersivetranslate) -->
+
 - Seguir [la cuenta oficial de Twitter de Immersive Translate](https://twitter.com/immersivetrans)
 - Ayudar con la [traducción](https://crowdin.com/project/immersive-translate) del idioma de la interfaz para esta extensión.
 <!-- - Ayudar a responder preguntas de usuarios en [Grupos de Telegram](https://t.me/+rq848Z09nehlOTgx). -->

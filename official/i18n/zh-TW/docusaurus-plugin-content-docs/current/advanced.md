@@ -47,14 +47,8 @@ sidebar_position: 4
 ```json
 {
   "matches": "https://www.instagram.com/*",
-  "selectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ],
-  "atomicBlockSelectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ]
+  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
+  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
 }
 ```
 
@@ -72,12 +66,15 @@ sidebar_position: 4
 透過注入式 CSS 可以向全局注入自定義網頁樣式。可以搭配 `Rules` 的 `translationClasses` 一起使用。
 
 ```css
-.immersive-translate-target-wrapper img { width: 16px; height: 16px }
+.immersive-translate-target-wrapper img {
+  width: 16px;
+  height: 16px;
+}
 ```
 
 也可以像常規的網頁樣式管理器那樣，對網站進行更加個性化的樣式設計。（甚至利用 `display:none` 去廣告）
 
-```css
+````css
 .title {
   color: red;
 }
@@ -164,7 +161,7 @@ sidebar_position: 4
     }
   ]
 }
-```
+````
 
 其中，`rules` 裡的規則字段，可以使用 `generalRule` 裡的全部字段。`rules` 擁有最高優先級，當匹配到特定網站的某一條 `rule` 時，會合併 `generalRule` 和該 `rule` 的規則。
 
@@ -291,7 +288,7 @@ translationLanguagePattern, 配置總是翻譯的語言，以及永不翻譯的�
 
 ### 類 gpt 頁面流消息翻譯
 
-```json
+````json
 {
   "matches": ["chat.openai.com"], //類 gpt 網址
   "excludeSelectors": [".markdown *"],
@@ -323,13 +320,13 @@ translationLanguagePattern, 配置總是翻譯的語言，以及永不翻譯的�
     }
   ]
 }
-```
+````
 
 當前內置的 `rules` 可以在[這裡](https://github.com/immersive-translate/next-immersive-translate/blob/main/docs/buildin_config.json) 找到。
 
 以下挑選部分重要字段進行說明：
 
-```typescript
+````typescript
 export interface Rule {
   // 匹配網站
   id?: string; //系統每個適配的規則都有自己的id,如果用戶想要複用這條規則在此基礎之上變動的話，需要在自己的規則上加上這個相應的id就可以複用了
@@ -407,7 +404,9 @@ export interface Rule {
     streamingChange: boolean; //類 gpt 網頁反復的消息是增量更新還是全量更新。gpt 是增量
   };
 }
-```## 高級自定義選項實戰
+````
+
+## 高級自定義選項實戰
 
 ### 實用小技巧
 
@@ -417,7 +416,7 @@ export interface Rule {
 
 #### 不能用的翻譯服務太多了，如何在插件面板裡只展示能用的翻譯服務
 
-```json
+````json
   "showUnconfiguredTranslationServiceInPopup": false
 ```#### 如何讓不同的站點默認選擇不同的翻譯服務？例如有的網站我想要好一點但要花錢的翻譯效果，有的網站我只需要免費能看的翻譯就行了
 
@@ -434,9 +433,9 @@ export interface Rule {
       "matches":["https://www.sci-hub.se"]
     }
   }
-```
+````
 
-> ⚠️ 請注意，若您希望翻譯屬於同一域名的所有網站，簡單使用 *.twitter.com 或 https://twitter.com/ 是無效的。正確的做法應參照上文所示。這是因為 *.twitter.com 僅能匹配子域名如 xxx.twitter.com，而不包括頂級域名本身。### 網站適配案例
+> ⚠️ 請注意，若您希望翻譯屬於同一域名的所有網站，簡單使用 _.twitter.com 或 https://twitter.com/ 是無效的。正確的做法應參照上文所示。這是因為 _.twitter.com 僅能匹配子域名如 xxx.twitter.com，而不包括頂級域名本身。### 網站適配案例
 
 這部分會介紹一些插件自己對常見的網站的 `rules`，通過實際例子來理解高級自定義選項。同時為了簡潔，這裡只會介紹最常用的字段，比如 `selectors` , `excludeSelectors` 等等，如果你對這部分內容感興趣的話，歡迎聯繫我們，我們會繼續更新相關的內容。
 
@@ -470,6 +469,7 @@ Okay，但是再仔細想想，自然而然就會帶出接下來兩個問題
       "mobile.twitter.com",
       "tweetdeck.twitter.com",
 ```
+
 ```json
 {
   "pro.twitter.com",
@@ -507,7 +507,8 @@ Okay，但是再仔細想想，自然而然就會帶出接下來兩個問題
 }
 }
 ```
-```
+
+````
 - `selector`: 指定翻譯的元素集合
 
   為什麼需要這個字段
@@ -574,24 +575,26 @@ Okay，但是再仔細想想，自然而然就會帶出接下來兩個問題
 
 關於適配規則，當然你也可以自定義規則，進入到插件選項頁面，點擊[開發者設置](https://dash.immersivetranslate.com/#developer)，展開 `Edit User Rules` ，在這裡進行各個網站的自定義適配。下面結合實際規則進行講解
 
-```
+````
+
 [
-  {
-    "selectors.remove": [
-      "[data-testid=\"tweetText\"]"
-    ],
-    "selectors.add": [
-      ""
-    ],
-    "excludeSelectors.add":[
-      ""
-    ],
-    "excludeSelectors.remove":[
-      ""
-    ],
-    "id": "twitter"
-  }
+{
+"selectors.remove": [
+"[data-testid=\"tweetText\"]"
+],
+"selectors.add": [
+""
+],
+"excludeSelectors.add":[
+""
+],
+"excludeSelectors.remove":[
+""
+],
+"id": "twitter"
+}
 ]
+
 ```
 
 這個規則會讓推特頁面的推文不進行翻譯。下面詳細介紹字段的含義
@@ -619,3 +622,4 @@ Block 和 inline 的區別，如果想了解更多可以看[這裡](https://deve
 
 - block 元素會獨佔一行，多個相鄰的 block 元素會各自新起一行.
 - inline 元素不會獨佔一行，多個相鄰的 inline 元素會排列在同一行裡,直到一行排列不下才會新換一行。
+```

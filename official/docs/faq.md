@@ -16,20 +16,20 @@ sidebar_position: 9
 
 iOS：
 
-* [Tamper Monkey 浏览器](https://www.tampermonkey.net/)
-* 安装油猴扩展后的 Safari 浏览器，可安装的油猴扩展：
-  * [Userscripts](https://itunes.apple.com/us/app/userscripts/id1463298887)
-  * [Stay](https://apps.apple.com/cn/app/stay-safari%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BC%B4%E4%BE%A3/id1591620171)：建议直接在 Stay 自带的商店里搜索沉浸式翻译优化脚本下载（针对 Stay 做了特殊优化）。
+- [Tamper Monkey 浏览器](https://www.tampermonkey.net/)
+- 安装油猴扩展后的 Safari 浏览器，可安装的油猴扩展：
+  - [Userscripts](https://itunes.apple.com/us/app/userscripts/id1463298887)
+  - [Stay](https://apps.apple.com/cn/app/stay-safari%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BC%B4%E4%BE%A3/id1591620171)：建议直接在 Stay 自带的商店里搜索沉浸式翻译优化脚本下载（针对 Stay 做了特殊优化）。
 
 Android：
 
-* [Firefox 最新版本](https://www.firefox.com.cn/download/#product-android-release)：安装完成后，再安装 [Tamper Monkey](https://www.tampermonkey.net/) 扩展。
-* [X 浏览器](https://www.xbext.com/?ref=immersive-translate)：安装后，直接打开[沉浸式翻译油猴脚本地址](https://download.immersivetranslate.com/immersive-translate.user.js) 即可安装。
+- [Firefox 最新版本](https://www.firefox.com.cn/download/#product-android-release)：安装完成后，再安装 [Tamper Monkey](https://www.tampermonkey.net/) 扩展。
+- [X 浏览器](https://www.xbext.com/?ref=immersive-translate)：安装后，直接打开[沉浸式翻译油猴脚本地址](https://download.immersivetranslate.com/immersive-translate.user.js) 即可安装。
 
 已知不支持的油猴扩展的浏览器（这类浏览器并没有实现所需的油猴 API）：
 
-* 安卓 Via 浏览器
-* iOS Alook 浏览器
+- 安卓 Via 浏览器
+- iOS Alook 浏览器
 
 ### 3. 在 chrome 上安装插件安装包报错
 
@@ -65,7 +65,7 @@ Android：
 
 系统设置 -> safari浏览器-> 高级 -> 网站数据 -> 编辑 找到 immersivetranslate.com 删除
 
-### 8.  iOS18 安装后进入设置页面登录时跳转到空白页面
+### 8. iOS18 安装后进入设置页面登录时跳转到空白页面
 
 长按悬浮球点击头像去登录。
 
@@ -83,24 +83,24 @@ Android：
 
 ### 2. 手机 App 中不显示悬浮球
 
-* 沉浸式翻译插件为浏览器插件，**只能在浏览器**中运行，无法在其他 app 中使用，不支持其他 App 内部翻译。
+- 沉浸式翻译插件为浏览器插件，**只能在浏览器**中运行，无法在其他 app 中使用，不支持其他 App 内部翻译。
 
-* 在哪个浏览器安装插件即可在哪个浏览器使用，**无法跨浏览器**（如在Safari内安装不可以在Chrome内使用插件）
+- 在哪个浏览器安装插件即可在哪个浏览器使用，**无法跨浏览器**（如在Safari内安装不可以在Chrome内使用插件）
 
 ### 3. iOS 浏览器上点击 YouTube 直接打开 App，无法进入网页翻译
 
- 长按 YouTube 链接弹出悬浮窗选择网页打开。
+长按 YouTube 链接弹出悬浮窗选择网页打开。
 
 ### 4. 如何关闭自动翻译
 
-* 在 Popup 面板或者设置页面取消。
-* 或者通过设置页面修改
+- 在 Popup 面板或者设置页面取消。
+- 或者通过设置页面修改
 
 ### 5. 暂无权限翻译当前页面
 
-* 浏览器默认页(地址栏无地址)
-* 第三方插件页面
-* 谷歌插件禁止了谷歌商店页面
+- 浏览器默认页(地址栏无地址)
+- 第三方插件页面
+- 谷歌插件禁止了谷歌商店页面
 
 ### 6. 如何不显示原文
 
@@ -170,8 +170,8 @@ Android：
 
 ### 17. 如何关闭悬浮球
 
-* 在当前页隐藏：设置为 【永不翻译该网站】 即可
-* 在所有页面隐藏：打开【设置页】-【界面设置】，关闭【在页面上显示悬浮球】即可
+- 在当前页隐藏：设置为 【永不翻译该网站】 即可
+- 在所有页面隐藏：打开【设置页】-【界面设置】，关闭【在页面上显示悬浮球】即可
 
 ### 18. 鼠标悬停 + 快捷键翻译功能无效
 
@@ -188,18 +188,19 @@ Android：
 ### 20. 翻译失败 / 翻译一直转圈
 
 1. 查看失败原因
-   * 如额度达到限制则是会员当月该翻译源额度用尽
-   * 如翻译显示网络错误请先检查自身节点/网络状态
+
+   - 如额度达到限制则是会员当月该翻译源额度用尽
+   - 如翻译显示网络错误请先检查自身节点/网络状态
 
 2. 切换翻译源，长按悬浮球选择其他翻译源
 
 ### 21. Pro会员翻译额度与用量如何查询
 
-* AI翻译（包括OpenAI）500w Token，DeepL 翻译 1500w Token
+- AI翻译（包括OpenAI）500w Token，DeepL 翻译 1500w Token
 
   > OpenAI 的定价是基于 token 的，对于英文文本，1个token大约是4个字符或0.75个单词。通常1000个Token约等于750个英文单词或者400~500个汉字。
 
-* 用量查询地址： [https://immersivetranslate.com/accounts/usage](https://immersivetranslate.com/accounts/usage)
+- 用量查询地址： [https://immersivetranslate.com/accounts/usage](https://immersivetranslate.com/accounts/usage)
 
 ### 22. 各 AI 翻译是否共用额度
 
@@ -233,9 +234,9 @@ YouTube 自带机翻字幕，繁体中文会出现格式错误，导致所有字
 
 ### 1. 如何翻译本地文件
 
-* 方法一：进入[沉浸式翻译文件翻译官网](https://app.immersivetranslate.com/)，也可以点击沉浸式翻译扩展图标，点击【文件翻译】进入。
+- 方法一：进入[沉浸式翻译文件翻译官网](https://app.immersivetranslate.com/)，也可以点击沉浸式翻译扩展图标，点击【文件翻译】进入。
 
-* 方法二：如果使用的是类 Chrome 浏览器，如（Chrome，Arc，Edge 浏览器），还有另一种办法，就是在浏览器中打开扩展管理页面`chrome://extensions`,找到【沉浸式翻译】插件，【允许该扩展访问本地文件】，之后直接在浏览器中打开本地的 HTML 或本地的 PDF 文件，就可以直接右键【翻译】了。
+- 方法二：如果使用的是类 Chrome 浏览器，如（Chrome，Arc，Edge 浏览器），还有另一种办法，就是在浏览器中打开扩展管理页面`chrome://extensions`,找到【沉浸式翻译】插件，【允许该扩展访问本地文件】，之后直接在浏览器中打开本地的 HTML 或本地的 PDF 文件，就可以直接右键【翻译】了。
 
   ![](https://s.immersivetranslate.com/assets/allow-local-file-1.png)
 
@@ -257,7 +258,7 @@ YouTube 自带机翻字幕，繁体中文会出现格式错误，导致所有字
 
 目前 word 文件导出存在一定技术问题，建议保持现有格式，正在持续优化中
 
-### 6. PDF 如何调整最小字号 
+### 6. PDF 如何调整最小字号
 
 这是因为浏览器限制的最小字号，调整浏览器字体到最低，以 chrome 为例：点击 [chrome 字号设置](chrome://settings/fonts?search=%E5%AD%97%E5%8F%B7)
 
@@ -265,9 +266,9 @@ YouTube 自带机翻字幕，繁体中文会出现格式错误，导致所有字
 
 ### 1. 输入框增强不生效
 
-* 已知明确不支持的浏览器：详见 [输入框翻译](https://immersivetranslate.com/docs/input/) 兼容性部分
-* 在网址栏或浏览器初始页无法翻译，仅支持搜索栏，可至 https://www.bing.com/ 测试
-* 加快空格连击速度
+- 已知明确不支持的浏览器：详见 [输入框翻译](https://immersivetranslate.com/docs/input/) 兼容性部分
+- 在网址栏或浏览器初始页无法翻译，仅支持搜索栏，可至 https://www.bing.com/ 测试
+- 加快空格连击速度
 
 ## 支付相关
 
@@ -285,14 +286,9 @@ YouTube 自带机翻字幕，繁体中文会出现格式错误，导致所有字
 
 由于油猴脚本的API限制，沉浸式翻译油猴脚本的缓存会保存在对应网站的缓存里，所以如果要清除的话，可以在浏览器打开相应网站的开发者工具面板，然后清空该网站的缓存。
 
-
-
-
 ### 油猴脚本自定义接口地址请求失败？
 
 油猴脚本要求脚本的所有请求都需要在脚本的开头声明权限，比如：`@connect api.google.com`，所以，如果你需要新增一个非默认的域名，请在油猴脚本开头仿照其他域名进行声明。
-
-
 
 ### 双语字幕如何下载 / 其他网站双语字幕能否下载？
 

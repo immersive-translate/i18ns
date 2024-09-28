@@ -56,14 +56,11 @@ controls
 muted
 poster="https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg" src="https://s.immersivetranslate.com/videos/morefeature_epub_en.mp4"></video>  -->
 
-
-
 ## ترجمة ملفات PDF
 
 1. إذا كان الملف PDF موجودًا على الإنترنت، افتحه في متصفحك، انقر على الأيقونة الموسعة، ثم انقر على ترجمة الملف، كما هو موضح أدناه.
 
 <img src="https://s.immersivetranslate.com/assets/translate_pdf_en.jpeg" alt="ترجمة pdf" width="250" />
-
 
 2. إذا كان الملف PDF محليًا، انقر بزر الفأرة الأيمن مباشرةً على أيقونة الإضافة (أو انقر بزر الفأرة الأيسر على أيقونة الإضافة، ثم انقر على "المزيد" واختر "ترجمة ملفات PDF المحلية")، ادخل إلى الصفحة، ثم انقر على الزاوية العلوية اليمنى من الصفحة لتحميل ملف PDF الخاص بك.
 
@@ -103,6 +100,7 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 تدعم الإضافة ترجمة ملفات الترجمة بصيغ `.srt`، `.ass` وغيرها، انقر على أيقونة إضافة الترجمة الغامرة، انقر على [المزيد]، [ترجمة ملف الترجمة]، يمكنك الوصول إليها، ويمكنك تصدير الترجمات الثنائية اللغة بعد الترجمة.
 
 <!-- ![ترجمة](https://s.immersivetranslate.com/static/official-static/assets/subtitle.jpg) -->
+
 ![](https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg)
 
 ## عرض الترجمات فقط
@@ -122,11 +120,11 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 مرحبًا بك في Immersive Translate، إذا كان لديك أي أسئلة، يمكنك التواصل مع فريق التطوير عبر:
 
 <!-- - [اشترك في Immersive Translate عبر البريد الإلكتروني](https://immersivetranslate.substack.com/) احصل على آخر التحديثات و(المزايا) بشكل مناسب. -->
-- [تابع الحساب الرسمي لـ Immersive Translate على تويتر](https://twitter.com/immersivetrans)
-<!-- - [انضم إلى مجموعة التليجرام](https://t.me/+rq848Z09nehlOTgx) للمشاركة في مناقشات حول الميزات. -->
-<!-- - [انضم إلى قناة التليجرام](https://t.me/immersivetranslate) لتلقي آخر الأخبار! -->
-- [تقديم ملاحظات حول المشاكل](https://github.com/immersive-translate/immersive-translate/issues/)
 
+- [تابع الحساب الرسمي لـ Immersive Translate على تويتر](https://twitter.com/immersivetrans)
+  <!-- - [انضم إلى مجموعة التليجرام](https://t.me/+rq848Z09nehlOTgx) للمشاركة في مناقشات حول الميزات. -->
+  <!-- - [انضم إلى قناة التليجرام](https://t.me/immersivetranslate) لتلقي آخر الأخبار! -->
+- [تقديم ملاحظات حول المشاكل](https://github.com/immersive-translate/immersive-translate/issues/)
 
 <video
 autoPlay

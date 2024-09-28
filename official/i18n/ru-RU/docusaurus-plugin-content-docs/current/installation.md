@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # Установка
+
 <video
 controls style={{width:"100%", maxWidth:"500px"}}
 controls
@@ -16,6 +17,7 @@ src="https://s.immersivetranslate.com/videos/20240119installation.mp4"></video>
 - Браузер Firefox: [Магазин дополнений Firefox Погружающий перевод](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/)
 
 > Если вы не можете получить доступ к официальному магазину Google, вы можете напрямую скачать [последний установочный пакет Chrome Погружающий перевод в формате zip](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip). После скачивания, пожалуйста, сначала распакуйте его в обычную папку, затем введите в адресной строке: `chrome://extensions`, чтобы открыть окно управления расширениями, затем включите "Режим разработчика", выберите "Загрузить распакованное расширение" и выберите только что распакованную папку для успешной установки.
+
 ```
 
 ## Safari
@@ -98,3 +100,4 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-ma
 Скачайте последний пакет установки со [страницы выпусков](https://github.com/immersive-translate/immersive-translate/releases/), удалите содержимое оригинальной папки, затем скопируйте содержимое нового архива в исходную папку и, наконец, на странице управления расширениями нажмите `перезагрузить`.
 
 > Если вы предпочитаете использовать командную строку, вы можете использовать `git clone https://github.com/immersive-translate/immersive-translate.git`, а затем установить `dist/chrome`. Для последующих обновлений достаточно будет выполнить `git pull`.
+```

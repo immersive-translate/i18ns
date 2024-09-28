@@ -1,4 +1,5 @@
 # Gemini
+
 1.4.2+ is hidden and can be enabled in the [Developer Settings](https://dash.immersivetranslate.com/#developer) to display this translation service in beta.
 
 ## Obtaining Gemini API Key

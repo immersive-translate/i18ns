@@ -10,7 +10,6 @@ Você pode se manter conectado conosco por.
 - [Feedback sobre problemas via Issue no Github](https://github.com/immersive-translate/immersive-translate/issues/)
 - [Membros Pro](https://immersivetranslate.com/en/pricing/) podem nos contatar através do endereço de e-mail rápido de suporte ao membro `support@immersivetranslate.com`.
 
-
 - Siga o Immersive Translate no [Twitter](https://twitter.com/immersivetrans)
 - Siga o Immersive Translate no [YouTube](https://www.youtube.com/channel/UCjflHbaIz5bVqv08ZUYMQCA)
 

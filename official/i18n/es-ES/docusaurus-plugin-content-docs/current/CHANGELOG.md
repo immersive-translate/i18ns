@@ -412,6 +412,7 @@ La mejora más emocionante en el cuadro de entrada está aquí:
 - ¡Super actualización!
 
 - ¡La función Mostrar Solo Traducciones está aquí! Haz clic en [Más] -> [Cambiar a mostrar solo traducciones].
+
   - Soporte para atajos personalizados, configurar en ajustes de interfaz -> Configuración de Atajos
 
 - Optimización de la limitación de frecuencia de solicitudes a OpenAI
@@ -419,6 +420,7 @@ La mejora más emocionante en el cuadro de entrada está aquí:
 - ChatGPT por defecto al modelo móvil, ¡que es más rápido!
 
 - Refactorización del análisis del núcleo web, lo que significa:
+
   - Traducción de páginas web a gran escala en segundos
     - Por ejemplo: https://pve.proxmox.com/pve-docs/pve-admin-guide.html, lo que antes tomaba 30 segundos, ahora se hace en segundos.
   - Uso ultra bajo de memoria para páginas web complejas
@@ -426,10 +428,12 @@ La mejora más emocionante en el cuadro de entrada está aquí:
   - Adaptación a más sitios web
 
 - Todas las traducciones de sitios web con ShadowRoot son compatibles.
+
   - Por ejemplo: https://bugs.chromium.org/p/chromium/issues/detail?id=418987
   - Por ejemplo, la sección de comentarios de: https://news.yahoo.com/gma/virginia-mom-facing-charges-6-190600893.html
 
 - Solucionado el problema de pantalla blanca después de la traducción de sitios web con hidratación como Next.js.
+
   - Por ejemplo: https://webpack.js.org/
 
 - Solucionado el problema que requería refrescar la página para que la modificación del atajo de mouse al pasar por encima tomara efecto
@@ -439,11 +443,13 @@ La mejora más emocionante en el cuadro de entrada está aquí:
 - ¡Muchas actualizaciones!
 
 - ¡La función 'Mostrar Solo Traducciones' ha llegado! Haz clic en 'Más' -> 'Cambiar a Mostrar Solo Traducciones'.
+
   - Soporta atajos personalizados, que se pueden configurar en 'Ajustes de Interfaz' -> 'Configuración de Atajos'
 
 - Optimización para el problema de límite de tasa de solicitudes de OpenAI
 
 - El análisis del núcleo web ha sido reconstruido, lo que significa.
+
   - Traducción instantánea para sitios web grandes
   - Uso mínimo de memoria para páginas web complejas
   - Mejor compatibilidad con más sitios web

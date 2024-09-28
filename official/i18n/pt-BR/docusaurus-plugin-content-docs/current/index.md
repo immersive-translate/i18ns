@@ -24,9 +24,10 @@ Esta extensão é de uso gratuito, espero que você possa acessar de forma fáci
 Formas de contato：
 
 <!-- - [Inscreva-se no Immersive Translate por Email](https://immersivetranslate.substack.com/) para receber as últimas atualizações e (benefícios) de forma oportuna. -->
+
 - [Siga o perfil oficial do Immersive Translate no X (Antigo Twitter)](https://x.com/immersivetrans)
-<!-- - [Siga o canal do Telegram](https://t.me/immersivetranslate) para receber as últimas notícias! -->
-<!-- - [Junte-se ao grupo do Telegram](https://t.me/+rq848Z09nehlOTgx) para participar de discussões sobre funcionalidades. -->
+  <!-- - [Siga o canal do Telegram](https://t.me/immersivetranslate) para receber as últimas notícias! -->
+  <!-- - [Junte-se ao grupo do Telegram](https://t.me/+rq848Z09nehlOTgx) para participar de discussões sobre funcionalidades. -->
 - Se estiver com algum problema ou deseja enviar alguma sugestão, nos contate [por aqui](https://github.com/immersive-translate/immersive-translate/issues/).
 
 ## Índice
@@ -42,6 +43,7 @@ Formas de contato：
 ## Casos de Uso
 
 <!-- - [Saiba mais sobre as mudanças que aconteceram com o usuário Xiao Zhang após um mês usando Immersive Translate](#user-xiao-zhangs-story) -->
+
 - [Clique aqui](/docs/usecase/) para ver capturas de tela do uso
 - [Clique aqui para](/docs/review/) ver avaliações de usuários e cobertura da mídia
 - [Vídeo de introdução no YouTube](https://www.youtube.com/watch?v=SHznc5kQCM4&ab_channel=ImmersiveTranslate)
@@ -132,8 +134,8 @@ No momento, não estamos precisando de apoio financeiro, mas você ainda pode no
 - Desenvolva o hábito de ler informações em idiomas estrangeiros.
 - Avalie a extensão na [Chrome Store](https://https://chromewebstore.google.com/detail/immersive-translate-trans/bpoadfkcbjbfhfodiogcnhhhpibjhbnh), [Edge Store](https://microsoftedge.microsoft.com/addons/detail/immersive-translate-web-/amkbmndfnliijdhojkpoglbnaaahippg), [Apple App Store](https://apps.apple.com/app/id6447957425) e [Firefox Store](https://addons.mozilla.org/firefox/addon/immersive-translate/).
 - Opcional:
-<!-- - Inscreva-se no [email oficial do Immersive Translate](https://immersivetranslate.substack.com/) -->
-<!-- - [Junte-se ao canal do Telegram](https://t.me/immersivetranslate) -->
+  <!-- - Inscreva-se no [email oficial do Immersive Translate](https://immersivetranslate.substack.com/) -->
+  <!-- - [Junte-se ao canal do Telegram](https://t.me/immersivetranslate) -->
 - Siga a [conta oficial do Immersive Translate no Twitter](https://twitter.com/immersivetrans)
 - Ajude na [tradução](https://crowdin.com/project/immersive-translate) do idioma da interface desta extensão.
 <!-- - Ajude a responder perguntas de usuários nos [Grupos do Telegram](https://t.me/+rq848Z09nehlOTgx). -->

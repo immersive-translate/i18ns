@@ -248,6 +248,7 @@ sidebar_position: 6
 ## 0.7.1
 
 - Supporto al Miglioramento della Ricerca, quando abilitato, quando cerchi su Google/Google News in cinese, la colonna di destra mostrerà automaticamente i risultati di ricerca delle corrispondenti parole chiave in inglese, che è abilitato per impostazione predefinita.
+
   - Motivo: Abbiamo scoperto che nella ricerca Google, i risultati di ricerca per le parole chiave in cinese e in inglese possono essere molto diversi, con il Miglioramento della Ricerca Tradotta Immersiva abilitato, cerchiamo automaticamente per te le stesse parole chiave in inglese e le visualizziamo sul lato destro. Puoi scegliere di disabilitarlo se non hai bisogno della funzione.
   - Safari non è supportato a causa delle limitazioni dell'API.## 0.6.20
 
@@ -388,6 +389,7 @@ L'aggiornamento più entusiasmante per il box di inserimento è qui:
 - Super aggiornamento!
 
 - La funzione Mostra Solo Traduzioni è qui! Clicca su [Altro] -> [Passa a mostra solo traduzioni].
+
   - Supporto per scorciatoie personalizzate, impostabili in impostazioni interfaccia -> Impostazioni Scorciatoie
 
 - Ottimizzazione del problema di limitazione della frequenza di richiesta OpenAI
@@ -395,6 +397,7 @@ L'aggiornamento più entusiasmante per il box di inserimento è qui:
 - ChatGPT di default al modello mobile, che è più veloce!
 
 - Refactoring del parsing del core web, il che significa:
+
   - Traduzione di pagine web su larga scala in secondi
     - Per esempio: https://pve.proxmox.com/pve-docs/pve-admin-guide.html, che prima richiedeva 30 secondi, ora è istantanea.
   - Uso della memoria ultra-basso per pagine web complesse
@@ -402,10 +405,12 @@ L'aggiornamento più entusiasmante per il box di inserimento è qui:
   - Adattamento a più siti web
 
 - Supportate tutte le traduzioni dei siti web ShadowRoot.
+
   - Per esempio: https://bugs.chromium.org/p/chromium/issues/detail?id=418987
   - Per esempio, la sezione commenti di: https://news.yahoo.com/gma/virginia-mom-facing-charges-6-190600893.html
 
 - Risolto il problema dello schermo bianco dopo la traduzione di siti web con idratazione come Next.js.
+
   - Per esempio: https://webpack.js.org/
 
 - Risolto il problema che richiedeva l'aggiornamento della pagina per rendere effettiva la modifica della scorciatoia al passaggio del mouse
@@ -415,11 +420,13 @@ L'aggiornamento più entusiasmante per il box di inserimento è qui:
 - Tanti aggiornamenti!
 
 - La funzione 'Mostra Solo Traduzioni' è arrivata! Clicca su 'Altro' -> 'Passa a Mostra Solo Traduzioni'.
+
   - Supporta scorciatoie personalizzate, che possono essere impostate in 'Impostazioni Interfaccia' -> 'Impostazioni Scorciatoie'
 
 - Ottimizzato per il problema del limite di frequenza delle richieste OpenAI
 
 - Il parsing del core web è stato ricostruito, il che significa.
+
   - Traduzione istantanea per siti web di grandi dimensioni
   - Uso minimo della memoria per pagine web complesse
   - Migliore compatibilità con più siti web

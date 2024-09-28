@@ -32,6 +32,7 @@ Toca el icono de Immersive Translate para abrir el panel de expansión, toca [M�
 ## Aparece un signo de exclamación en la página
 
 Un signo de exclamación en la página indica que el servicio de traducción ha encontrado un problema y ha devuelto un error, puedes mover tu ratón sobre el signo de exclamación para ver el error específico.
+
 ```
 
 ### Error 429
@@ -176,3 +177,4 @@ Debido a la limitación de la API de Tampermonkeys, la caché de Immersive Trans
 Tampermonkeys requiere que todas las solicitudes desde el script necesiten declarar permisos al inicio del script, por ejemplo: `@connect api.google.com`, así que si necesitas agregar un nuevo nombre de dominio que no sea el predeterminado, por favor decláralo al inicio del Tampermonkey modelado después del otro nombre de dominio.
 </p>
 </details>
+```

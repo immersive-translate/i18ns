@@ -15,7 +15,6 @@ Sono molto felice di aver ricevuto numerosi commenti positivi (e tonnellate di s
 
 Se anche a te piace questa estensione, perché non vai e lasci un commento per dire al mondo che piace anche a te?
 
-
 ## Messaggio dell'utente
 
 > È troppo bello per essere vero!!! Perfetto per chi come me conosce un po' l'inglese ma preferisce comunque leggerlo velocemente in cinese! Puoi vedere il testo originale e confrontarlo se non sei sicuro, ma il 99% dei posti è abbastanza buono. Inoltre, la velocità di traduzione di OPENAI è ancora troppo lenta, e i giocatori veloci sono più adatti per Google Translate - utenti Chrome!
@@ -55,6 +54,6 @@ Se anche a te piace questa estensione, perché non vai e lasci un commento per d
 
 > Buona recensione Ho usato la combo di script Double Happy + Web Translator per traduzioni bilingui incrociate su safari prima, e questo plugin lo fa direttamente, è semplicemente eccezionale!! - Utenti Tampermonkey
 
-***
+---
 
 <!-- Se hai qualcosa da dire che vuoi rimanga qui, [modifica](https://github.com/immersive-translate/immersive-translate/edit/main/docs/review.md) questo file sorgente Github per \~ -->

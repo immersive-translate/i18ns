@@ -14,7 +14,6 @@ Voir la [documentation ici](/docs/usage/#pdf-file-translation) pour les question
 
 Voici quelques astuces avancées pour la traduction de PDF :
 
-
 ### Modifier la boîte
 
 La traduction par défaut est modifiable. Vous pouvez même cliquer sur "Afficher le texte original" dans le panneau, et le contenu de la boîte de texte sera affiché comme le texte original intelligemment reconnu, et vous pouvez à ce moment faire des corrections au texte original dans la boîte de modification. Puis recliquez sur la traduction du panneau
@@ -30,7 +29,6 @@ Lorsque certains paragraphes peuvent avoir des problèmes de reconnaissance, fus
 ### Ajustement de la taille de la zone de texte
 
 Étant donné que la hauteur et la largeur de traduction par défaut sont les mêmes que celles du paragraphe original par défaut, lorsque le contenu de la traduction dépasse le texte original, il y aura un débordement, dans ce cas, vous pouvez le visualiser à travers le défilement interne. Vous pouvez également cliquer et glisser dans le coin inférieur droit pour agrandir cette zone de texte de manière appropriée afin de permettre l'affichage complet du contenu.
-
 
 ### Mode Bandwagon
 
@@ -73,7 +71,6 @@ Si le paragraphe reconnu intelligemment est incorrect, il peut être ajusté man
 - Cliquez sur le panneau de traduction pour afficher le texte original reconnu.
 - Ensuite, ajustez manuellement le paragraphe par rapport au texte original à gauche en copiant et en insérant des sauts de ligne, etc.
 - Lorsque le paragraphe est confirmé comme étant correct, cliquez à nouveau sur Traduire.
-
 
 Comme notre outil dépend du navigateur, la vitesse de téléchargement et les résultats dépendent fortement du navigateur lui-même. Il est donc recommandé de ne pas traiter plus de 300 pages de PDF.
 

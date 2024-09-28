@@ -47,14 +47,8 @@ sidebar_position: 4
 ```json
 {
   "matches": "https://www.instagram.com/*",
-  "selectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ],
-  "atomicBlockSelectors": [
-    "div. ._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ]
+  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
+  "atomicBlockSelectors": ["div. ._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
 }
 ```
 
@@ -332,7 +326,7 @@ translationLanguagePattern، يُهيئ اللغة التي يتم ترجمته�
         "[data-testid=' developerBuiltCardContainer'] > div:nth-child(2)",
         "[data-testid='card.layoutLarge.detail'] > div:nth-child(2)"
       ],
-      "extraInlineSelectors" : ["[data-testid=\"tweetText\"] div"]
+      "extraInlineSelectors": ["[data-testid=\"tweetText\"] div"]
     }
   ]
 }

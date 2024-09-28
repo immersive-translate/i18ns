@@ -7,15 +7,18 @@ Para acesso imediato e simplificado à DeepL, adquira uma [Assinatura Pro do Imm
 ## Obtenção da DeepL API Pro
 
 1. **DeepL API Pro:**
+
    - Acesse o [site oficial da DeepL](https://www.deepl.com/en/pro#developer):
    - **Importante:** Certifique-se de selecionar o plano **DeepL API Pro**, e não o DeepL Pro.
 
 2. **Por que escolher a DeepL?**
+
    - Traduções Inglês ⇄ Chinês 5x mais precisas.
    - Traduções Inglês ⇄ Japonês 6x mais precisas.
    - Tecnologia de ponta com inteligência artificial (redes neurais).
 
 3. **Planos da DeepL API:**
+
    - **DeepL API Free:** 500.000 caracteres gratuitos por mês.
    - **DeepL API Pro:**
      - Tarifa: US$25 por 1 milhão de caracteres.
@@ -38,9 +41,11 @@ Estamos implementando o suporte experimental para o DeepL X (Beta). (De acordo c
 ## Solução de Problemas
 
 1. **"A chave fornecida não está disponível":**
+
    - Verifique se você está utilizando a chave da **DeepL API Pro** e não da DeepL Pro.
 
 2. **"DeepL API Free Retorna 401 Sem Privilégio":**
+
    - Confirme se sua chave termina em `:fx`, indicando que é uma chave da API Free.
 
 3. **"456, Cota do usuário atingida":**

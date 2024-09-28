@@ -23,7 +23,6 @@ sidebar_position: 3
 
 ![twitter1.jpg](https://s.immersivetranslate.com/assets/weaken_style_of_translation_en.jpeg)
 
-
 ## شروحات فيديو لتثبيت Apple iOS Immersive Translate
 
 <video
@@ -38,4 +37,3 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/docs/ios_
 ## لمزيد من الأساليب، يرجى التحقق من شاشة الإعدادات
 
 ![](https://s.immersivetranslate.com/assets/custom_style_en.jpeg)
-

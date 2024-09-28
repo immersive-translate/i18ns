@@ -16,39 +16,48 @@ sidebar_position: 5
 ```html
 <script>
   window.immersiveTranslateConfig = {
-    pageRule: {}
-  }
+    pageRule: {},
+  };
 </script>
 ```
 
 2. 将以下 `script` 代码添加到你的网页 `</head>` 之前
 
 ```html
-<script async src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
+<script
+  async
+  src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"
+></script>
 ```
 
 示例
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Immersive Translate JS SDK</title>
-  <script>
-    window.immersiveTranslateConfig = {
-      pageRule: {}
-    }
-  </script>
-  <script async src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
-</head>
-<body>
-  <div class=".text">
-    <p>Night gathers, and now my watch begins. It shall not end until my death. I shall take no wife, hold no lands,
-      father no children. I shall wear no crowns and win no glory. I shall live and die at my post.</p>
-  </div>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Immersive Translate JS SDK</title>
+    <script>
+      window.immersiveTranslateConfig = {
+        pageRule: {},
+      };
+    </script>
+    <script
+      async
+      src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"
+    ></script>
+  </head>
+  <body>
+    <div class=".text">
+      <p>
+        Night gathers, and now my watch begins. It shall not end until my death.
+        I shall take no wife, hold no lands, father no children. I shall wear no
+        crowns and win no glory. I shall live and die at my post.
+      </p>
+    </div>
+  </body>
 </html>
 ```
 
@@ -60,9 +69,9 @@ sidebar_position: 5
 ```html
 <script>
   window.immersiveTranslateConfig = {
-  pageRule: {
-      "selectors": [".text"],
-      "excludeSelectors": ["nav", "footer"],
+    pageRule: {
+      selectors: [".text"],
+      excludeSelectors: ["nav", "footer"],
     },
   };
 </script>
@@ -82,14 +91,8 @@ sidebar_position: 5
 
 ```json
 {
-  "selectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ],
-  "atomicBlockSelectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ]
+  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
+  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
 }
 ```
 

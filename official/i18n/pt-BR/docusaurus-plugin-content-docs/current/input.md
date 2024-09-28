@@ -27,16 +27,16 @@ Digite `ja Enter English here` para traduzir para o **japonês** e `fr Enter Eng
 
 Comandos de Idioma Comuns:
 
-| Multilinguagem                                                      | Comando |
-| :------------------------------------------------------------------ | :------ |
-| Inglês                                                               | /en     |
-| Chinês (simplificado)                                                | /zh     |
-| Chinês (tradicional)                                                 | /zht    |
-| Japonês                                                               | /ja     |
-| Coreano                                                               | /ko     |
-| Russo                                                                | /ru     |
-| Francês                                                               | /fr     |
-| Espanhol                                                              | /es     |
+| Multilinguagem        | Comando |
+| :-------------------- | :------ |
+| Inglês                | /en     |
+| Chinês (simplificado) | /zh     |
+| Chinês (tradicional)  | /zht    |
+| Japonês               | /ja     |
+| Coreano               | /ko     |
+| Russo                 | /ru     |
+| Francês               | /fr     |
+| Espanhol              | /es     |
 
 Para outros códigos de idioma, consulte [aqui](#language-code).
 

@@ -23,7 +23,8 @@
 
 ## 創建翻譯工具
 
-第三步，創建 [翻譯工具](https://portal.azure.com/#create/Microsoft.CognitiveServicesTextTranslation)  
+第三步，創建 [翻譯工具](https://portal.azure.com/#create/Microsoft.CognitiveServicesTextTranslation)
+
 1. 區域選擇一個離你最近的地區，比如香港區域就是 `East Asia`。
 2. 定價層根據需要選擇，免費用戶可選擇 `Free F0`。免費層不支持文檔翻譯。如有需要可以使用標準 S1 試用。
 3. 剩下的流程只需直接下一步即可。在最後一頁，部署完成後，點擊左下方的藍色按鈕"創建"。## 訪問密鑰

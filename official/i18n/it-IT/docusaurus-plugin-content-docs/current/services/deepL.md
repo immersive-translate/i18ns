@@ -7,6 +7,7 @@
 ## Ottieni l'API ufficiale DeepL tramite DeepL
 
 1. Introduzione ufficiale: [API DeepL](https://www.deepl.com/en/pro#developer)
+
    - Da notare che: [API DeepL](https://www.deepl.com/en/pro#developer) e [DeepL Pro](https://www.deepl.com/pro) sono due tipi di account differenti, e l'account [API DeepL](https://www.deepl.com/en/pro/select-country#developer).
 
 2. [Perché](https://www.deepl.com/en/whydeepl) scegliere DeepL?

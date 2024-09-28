@@ -12,14 +12,17 @@
 1. **Acesse a Plataforma Baidu Qianfan:** Vá para [Baidu Qianfan](https://console.bce.baidu.com/Qianfann/overview) e faça login na sua conta.
 
 2. **Crie seu Aplicativo:**
+
    - No console, clique em "Serviço de Modelo" - "Acesso ao Aplicativo".
    - Clique em "Criar aplicativo".
    - Copie a API Key e a Secret Key geradas.
 
 3. **Integre no Immersive Translate:**
+
    - Cole a API Key e a Secret Key nas configurações do Immersive Translate.
 
 4. **Selecione o Modelo (Opcional):**
+
    - Se desejar usar um modelo diferente do padrão, acesse o [Serviço Online](https://console.bce.baidu.com/Qianfann/ais/console/onlineService) no console do Baidu Qianfan.
    - Passe o mouse sobre o nome do serviço desejado e copie o último roteamento da URL exibida.
    - Cole este roteamento no campo "Nome do Modelo Personalizado" do plugin.

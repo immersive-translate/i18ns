@@ -55,6 +55,6 @@ Si a ti también te gusta esta extensión, ¿por qué no vas y dejas un comentar
 
 > Buena reseña. He estado usando el combo de guión de Traductor Web + Doble Felicidad para traducciones cruzadas bilingües en safari antes, y este complemento lo hace directamente, ¡es simplemente sobresaliente! - Usuarios de Tampermonkey
 
-***
+---
 
 <!-- Si tienes algo que decir que quieres que se quede aquí, [edita](https://github.com/immersive-translate/immersive-translate/edit/main/docs/review.md) este archivo fuente de Github para \~ -->

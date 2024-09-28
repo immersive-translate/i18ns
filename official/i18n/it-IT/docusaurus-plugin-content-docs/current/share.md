@@ -3,6 +3,7 @@ sidebar_position: 3
 ---
 
 # Come posso condividere una pagina bilingue?
+
 <video
 controls style={{width:"100%", maxWidth:"500px"}}
 controls
@@ -26,7 +27,6 @@ Puoi anche attivare la condivisione cliccando sul pulsante di condivisione rapid
 <img src="https://s.immersivetranslate.com/assets/20240119shareBilingualPage_1.jpg" alt="condividi" />
 
 Oppure puoi semplicemente impostare i tasti di scelta rapida specificati in [Impostazioni Interfaccia] [Impostazioni Tasto di Scelta Rapida].
-
 
 ## Come lo attivo sul mio telefono?
 

@@ -56,7 +56,7 @@ Solo entonces me di cuenta de lo importante que es la experiencia de lectura bil
 
 Así que Immersive Translate [nació](https://twitter.com/OwenYoungZh/status/1588792579596111872), y no esperaba que tan pronto como se lanzó, innumerables personas con las mismas necesidades que las mías comenzaran a usar Immersive Translate para leer enormes cantidades de información en idiomas extranjeros con alta frecuencia:
 
-[![Gráfico de Historial de Estrellas](https://api.star-history.com/svg?repos=immersive-translate/immersive-translate\&type=Date)](https://star-history .com/#immersive-translate/immersive-translate\&Date)
+[![Gráfico de Historial de Estrellas](https://api.star-history.com/svg?repos=immersive-translate/immersive-translate&type=Date)](https://star-history .com/#immersive-translate/immersive-translate\&Date)
 
 Luego, paso a paso, optimizamos para diversas necesidades de lectura, incluido el soporte para la traducción en tiempo real de archivos PDF, el soporte para la traducción en tiempo real y producción de e-books Epub, el soporte para archivos de subtítulos, archivos TXT y así sucesivamente.
 

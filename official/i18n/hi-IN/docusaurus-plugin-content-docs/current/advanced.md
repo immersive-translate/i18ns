@@ -336,7 +336,7 @@ Please note, translating code elements like variable names and identifiers from 
         "[data-testid=' developerBuiltCardContainer'] > div:nth-child(2)",
         "[data-testid='card.layoutLarge.detail'] > div:nth-child(2)"
       ],
-      "extraInlineSelectors" : ["[data-testid=\"tweetText\"] div"]
+      "extraInlineSelectors": ["[data-testid=\"tweetText\"] div"]
     }
   ]
 }
@@ -346,7 +346,7 @@ Please note, translating code elements like variable names and identifiers from 
 
 उदाहरण के लिए कुछ महत्वपूर्ण फील्ड्स नीचे चुने गए हैं:
 
-```typescript
+````typescript
 export interface Rule {
   // वेबसाइट का मिलान करें
   id?: string; // प्रत्येक अनुकूलन नियम की अपनी आईडी होती है, यदि उपयोगकर्ता इस परिवर्तन के ऊपर इस नियम का पुन: उपयोग करना चाहते हैं, तो उन्हें अपने नियम में इस संबंधित आईडी को जोड़ना होगा
@@ -405,29 +405,30 @@ Here's the translated content in Hindi:
   // सामग्री से अनुवादित किए जा सकने वाले न्यूनतम अक्षरों की संख्या
   containerMinTextCount?: number; // एक तत्व को अनुवादित किया जाना चाहिए इससे पहले उसमें होने वाले न्यूनतम अक्षरों की संख्या, डिफ़ॉल्ट रूप से 18 होती है
   paragraphMinTextCount?: number; // पैराग्राफ के लिए न्यूनतम अक्षरों की संख्या, सामग्री में होने वाले अक्षरों की संख्या से अधिक होनी चाहिए। कुछ भी इससे बड़ा होगा अनुवादित किया जाएगा
-```
+````
 
 Please note, translating code comments or technical documentation can sometimes lead to nuances being lost or inaccurately represented due to the specific technical terms used. Always review translations in the context of your project to ensure accuracy.
+
 ```markdown
-  paragraphMinWordCount?: संख्या; // मूल पैराग्राफ में शब्दों की न्यूनतम संख्या
+paragraphMinWordCount?: संख्या; // मूल पैराग्राफ में शब्दों की न्यूनतम संख्या
 
-  // लंबे पैराग्राफ के लिए जबरन पंक्ति विराम
-  lineBreakMaxTextCount?: संख्या; // पैराग्राफ में अधिकतम वर्णों की संख्या जिसे लंबे पैराग्राफ का अनुवाद करते समय जबरन तोड़ना पड़े।
+// लंबे पैराग्राफ के लिए जबरन पंक्ति विराम
+lineBreakMaxTextCount?: संख्या; // पैराग्राफ में अधिकतम वर्णों की संख्या जिसे लंबे पैराग्राफ का अनुवाद करते समय जबरन तोड़ना पड़े।
 
-  // अनुवाद शुरू करने का समय।
-  urlChangeDelay?: संख्या; // पृष्ठ में प्रवेश करने के बाद अनुवाद में देरी के लिए कितने मिलीसेकंड। पृष्ठ के आरंभिकीकरण की प्रतीक्षा करने के लिए, यह डिफ़ॉल्ट रूप से 250ms है
-  observeUrlChange?: बूलियन; // जब url पता बदल जाता है तो पता लगाएं और फिर से अनुवाद शुरू करें, डिफ़ॉल्ट रूप से सच है।
+// अनुवाद शुरू करने का समय।
+urlChangeDelay?: संख्या; // पृष्ठ में प्रवेश करने के बाद अनुवाद में देरी के लिए कितने मिलीसेकंड। पृष्ठ के आरंभिकीकरण की प्रतीक्षा करने के लिए, यह डिफ़ॉल्ट रूप से 250ms है
+observeUrlChange?: बूलियन; // जब url पता बदल जाता है तो पता लगाएं और फिर से अनुवाद शुरू करें, डिफ़ॉल्ट रूप से सच है।
 
-  // मोबाइल
-  isShowUserscriptPagePopup?: बूलियन; // मोबाइल उपकरणों पर पृष्ठ पॉपअप दिखाएं। तैरती हुई विंडो, डिफ़ॉल्ट रूप से सच है।
-  fingerCountToToggleTranslagePageWhenTouching?: संख्या; // जब चार उंगलियाँ छूती हैं तो अनुवाद करता है, 0, 2, 3, 4, 5 पर सेट किया जा सकता है
+// मोबाइल
+isShowUserscriptPagePopup?: बूलियन; // मोबाइल उपकरणों पर पृष्ठ पॉपअप दिखाएं। तैरती हुई विंडो, डिफ़ॉल्ट रूप से सच है।
+fingerCountToToggleTranslagePageWhenTouching?: संख्या; // जब चार उंगलियाँ छूती हैं तो अनुवाद करता है, 0, 2, 3, 4, 5 पर सेट किया जा सकता है
 
-  // AI स्ट्रीमिंग अनुवाद
-  aiRule: {
-    streamingSelector: स्ट्रिंग; // gpt वेब पृष्ठ पर अनुवादित हो रहे तत्व को चिह्नित करने के लिए सेलेक्टर
-    messageWrapperSelector: स्ट्रिंग; // संदेश शरीर सेलेक्टर
-    streamingChange: बूलियन; // संदेश को gpt वेब पृष्ठ पुनरावृत्ति के लिए वृद्धिशील रूप से या पूरी तरह से अपडेट किया जाता है या नहीं। gpt वृद्धिशील है
-  };
+// AI स्ट्रीमिंग अनुवाद
+aiRule: {
+streamingSelector: स्ट्रिंग; // gpt वेब पृष्ठ पर अनुवादित हो रहे तत्व को चिह्नित करने के लिए सेलेक्टर
+messageWrapperSelector: स्ट्रिंग; // संदेश शरीर सेलेक्टर
+streamingChange: बूलियन; // संदेश को gpt वेब पृष्ठ पुनरावृत्ति के लिए वृद्धिशील रूप से या पूरी तरह से अपडेट किया जाता है या नहीं। gpt वृद्धिशील है
+};
 }
 
 **अधिक व्याख्या**

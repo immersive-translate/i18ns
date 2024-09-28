@@ -49,14 +49,8 @@ sidebar_position: 4
 ```json
 {
   "matches": "https://www.instagram.com/*",
-  "selectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ],
-  "atomicBlockSelectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ]
+  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
+  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
 }
 ```
 
@@ -74,7 +68,10 @@ sidebar_position: 4
 С помощью внедрённого CSS можно глобально внедрять пользовательские стили веб-страниц. Можно использовать в сочетании с `translationClasses` в `Rules`.
 
 ```css
-.immersive-translate-target-wrapper img { width: 16px; height: 16px }
+.immersive-translate-target-wrapper img {
+  width: 16px;
+  height: 16px;
+}
 ```
 
 Также можно управлять стилями веб-сайтов, как это делается в обычных менеджерах стилей веб-страниц, для более персонализированного дизайна стилей. (Даже можно использовать `display:none` для блокировки рекламы)
@@ -175,6 +172,7 @@ sidebar_position: 4
 Представляем некоторые общие поля в Config.
 
 ### Разрешить рендеринг обычных HTML тегов
+
 Перейдите в [Настройки разработчика](https://dash.immersivetranslate.com/#developer) -> Изменить полную конфигурацию пользователя
 
 Измените "enableRenderHtmlTag": true
@@ -453,7 +451,7 @@ export interface Rule {
   }
 ```
 
-> ⚠️ Обратите внимание, если вы хотите перевести все сайты в одном домене, использование *.twitter.com или https://twitter.com/ будет неэффективным. Правильный подход должен соответствовать примеру, указанному выше. Это связано с тем, что *.twitter.com может совпадать только с поддоменами, например, xxx.twitter.com, но не включает сам домен верхнего уровня.
+> ⚠️ Обратите внимание, если вы хотите перевести все сайты в одном домене, использование _.twitter.com или https://twitter.com/ будет неэффективным. Правильный подход должен соответствовать примеру, указанному выше. Это связано с тем, что _.twitter.com может совпадать только с поддоменами, например, xxx.twitter.com, но не включает сам домен верхнего уровня.
 
 ### Примеры адаптации сайтов
 
@@ -524,6 +522,7 @@ export interface Rule {
   }
 ]
 ```
+
 - `selector`: Указывает набор элементов для перевода
 
   Зачем нужно это поле

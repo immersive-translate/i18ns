@@ -27,16 +27,16 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 Commandes de langue courantes：
 
-| multilinguisme                                                      | commande |
-| ------------------------------------------------------------------- | -------- |
-| Anglais                                                             | /en      |
-| Chinois (Simplifié)                                                 | /zh      |
-| Chinois (Traditionnel)                                              | /zht     |
-| Japonais                                                            | /ja      |
-| Coréen                                                              | /ko      |
-| Russe                                                               | /ru      |
-| Français                                                            | /fr      |
-| Espagnol                                                            | /es      |
+| multilinguisme         | commande |
+| ---------------------- | -------- |
+| Anglais                | /en      |
+| Chinois (Simplifié)    | /zh      |
+| Chinois (Traditionnel) | /zht     |
+| Japonais               | /ja      |
+| Coréen                 | /ko      |
+| Russe                  | /ru      |
+| Français               | /fr      |
+| Espagnol               | /es      |
 
 Pour d'autres codes de langue, voir [ici](#code-de-langue)
 
@@ -45,11 +45,8 @@ Pour d'autres codes de langue, voir [ici](#code-de-langue)
 - Navigateurs explicitement non pris en charge :
 
   - Navigateur Kiwi pour Android (l'optimisation est en cours car il n'est pas possible d'écouter les événements d'entrée mobiles dans ce navigateur)
-  
   - Navigateur Lemur pour Android (incapable d'écouter les événements d'entrée mobiles dans ce navigateur, l'optimisation est à l'étude)
-  
   - Arc Browser
-  
   - Android est actuellement uniquement pris en charge par les tests de Firefox
 
 - Pages explicitement non prises en charge :

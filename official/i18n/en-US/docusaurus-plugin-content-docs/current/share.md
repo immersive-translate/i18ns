@@ -3,6 +3,7 @@ sidebar_position: 3
 ---
 
 # How do I share a bilingual page?
+
 <video
 controls style={{width:"100%", maxWidth:"500px"}}
 controls

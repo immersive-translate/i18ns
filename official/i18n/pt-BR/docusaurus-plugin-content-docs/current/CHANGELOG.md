@@ -31,10 +31,10 @@ sidebar_position: 6
 - Otimização do carregamento de legendas no site TED.
 - Português (Brasil) agora é suportado como idioma de plug-in.
 - Sites suportados para tradução de quadrinhos:
- - [Antbyw](https://www.antbyw.com)
- - [Zerobywzz](https://www.zerobywzz.com)
- - [动漫之家](https://www.idmzj.com)
- - [Jmanga](https://jmanga.org)
+- [Antbyw](https://www.antbyw.com)
+- [Zerobywzz](https://www.zerobywzz.com)
+- [动漫之家](https://www.idmzj.com)
+- [Jmanga](https://jmanga.org)
 
 ## 1.7.5
 
@@ -59,10 +59,10 @@ sidebar_position: 6
 ## 1.6.6
 
 - Adicionado suporte a novos sites para tradução de quadrinhos:
-    - [Mangabuddy](https://mangabuddy.com/)
-    - [Hitomi](https://hitomi.la)
-    - [Yamibo](https://www.yamibo.com)
-    - [Copymanga](https://www.copymanga.site/)
+  - [Mangabuddy](https://mangabuddy.com/)
+  - [Hitomi](https://hitomi.la)
+  - [Yamibo](https://www.yamibo.com)
+  - [Copymanga](https://www.copymanga.site/)
 - As legendas bilíngues do YouTube agora suportam divisão inteligente de frases (Beta) (Somente ao ativar manualmente a tradução imersiva das legendas do YouTube em [Configurações] - [Legendas de Vídeo], e as legendas originais do vídeo são legendas em inglês geradas automaticamente)
 - Adicionado serviço de tradução Tencent [【Hunyuan Large Model】](https://immersivetranslate.com/docs/services/tencent-hunyuan/)
 
@@ -327,20 +327,20 @@ sidebar_position: 6
 
 - **Atualização da Interface do Painel Pop-up:** O novo design visa melhorar a usabilidade e a compreensão. Esta atualização inclui:
 
-    - **Novos recursos no menu principal:**
-        - **Alternância de modo bilíngue/somente tradução:** Agora você pode alternar entre o "Modo de Tradução Bilíngue" e o "Modo Somente Tradução" diretamente no menu principal, localizado à esquerda do botão de tradução.
-        - **Entrada de tradução de documentos:** A entrada para traduzir "arquivos PDF/ePub/legendas" foi movida para o menu principal para acesso rápido.
-        - **Configurações de tradução de vídeo:** A entrada para as configurações de "Tradução de Vídeo" também foi colocada no menu principal para ajustes rápidos.
-        - **Nova entrada para documentação de uso:** Fornece guias de operação detalhados e documentos de ajuda.
+  - **Novos recursos no menu principal:**
+    - **Alternância de modo bilíngue/somente tradução:** Agora você pode alternar entre o "Modo de Tradução Bilíngue" e o "Modo Somente Tradução" diretamente no menu principal, localizado à esquerda do botão de tradução.
+    - **Entrada de tradução de documentos:** A entrada para traduzir "arquivos PDF/ePub/legendas" foi movida para o menu principal para acesso rápido.
+    - **Configurações de tradução de vídeo:** A entrada para as configurações de "Tradução de Vídeo" também foi colocada no menu principal para ajustes rápidos.
+    - **Nova entrada para documentação de uso:** Fornece guias de operação detalhados e documentos de ajuda.
 
 - **Entrada de tradução de documentos integrada:** Agora, você pode traduzir arquivos PDF, ePub e legendas por meio de uma entrada de upload unificada. Basta clicar no botão 【PDF/ePub】 no painel pop-up, sem necessidade de selecionar 【Mais】.
 
 - **Adicionado suporte para 5 sites de vídeo:**
-    - Suporte para legendas de podcasts no Youtube Music.
-    - Adicionado suporte para o site iview.abc.net.au.
-    - Adicionado suporte para o site www.nma.art.
-    - Adicionado suporte para o site creativecloud.adobe.com.
-    - Adicionado suporte para o site [www.masterclass.com](https://www.masterclass.com).
+  - Suporte para legendas de podcasts no Youtube Music.
+  - Adicionado suporte para o site iview.abc.net.au.
+  - Adicionado suporte para o site www.nma.art.
+  - Adicionado suporte para o site creativecloud.adobe.com.
+  - Adicionado suporte para o site [www.masterclass.com](https://www.masterclass.com).
 
 ## 1.1.3
 
@@ -367,15 +367,15 @@ sidebar_position: 6
 
 - **Configurações de Teclas de Atalho:** Adicionado um novo menu de nível superior "Atalhos" e as seguintes funções de teclas de atalho personalizáveis:
 
-    - Designar uma combinação de teclas para traduzir o conteúdo da caixa de entrada atual, complementando o método anterior de pressionar rapidamente a barra de espaço três vezes.
-    - Designar uma combinação de teclas para ativar temporariamente a "tradução direta ao passar o mouse" na página. Pressioná-lo novamente cancelará esta função.
-    - Adicionadas teclas de atalho dedicadas para 6 serviços de tradução (como DeepL, OpenAI, Google, Microsoft, Gemini, Tencent Interactive Translation) para facilitar a alternância temporária entre os serviços de tradução.
+  - Designar uma combinação de teclas para traduzir o conteúdo da caixa de entrada atual, complementando o método anterior de pressionar rapidamente a barra de espaço três vezes.
+  - Designar uma combinação de teclas para ativar temporariamente a "tradução direta ao passar o mouse" na página. Pressioná-lo novamente cancelará esta função.
+  - Adicionadas teclas de atalho dedicadas para 6 serviços de tradução (como DeepL, OpenAI, Google, Microsoft, Gemini, Tencent Interactive Translation) para facilitar a alternância temporária entre os serviços de tradução.
 
 - **Atualização da Interface da Página de Configurações do Plugin:**
 
-    - Em "Configurações Avançadas", uma nova opção foi adicionada para permitir que os usuários especifiquem certas palavras (por exemplo, "LLM") para serem excluídas da tradução.
-    - Em "Configurações Avançadas", uma nova opção foi adicionada para configurar o número mínimo de caracteres necessários para traduzir um parágrafo. O padrão é 4 caracteres, mas pode ser definido para um valor mais alto (por exemplo, 20), para que apenas parágrafos mais longos sejam traduzidos.
-    - Adicionado um tutorial para iniciantes, cobrindo as configurações do botão flutuante, configurações de legendas de vídeo e configurações de foco do mouse.
+  - Em "Configurações Avançadas", uma nova opção foi adicionada para permitir que os usuários especifiquem certas palavras (por exemplo, "LLM") para serem excluídas da tradução.
+  - Em "Configurações Avançadas", uma nova opção foi adicionada para configurar o número mínimo de caracteres necessários para traduzir um parágrafo. O padrão é 4 caracteres, mas pode ser definido para um valor mais alto (por exemplo, 20), para que apenas parágrafos mais longos sejam traduzidos.
+  - Adicionado um tutorial para iniciantes, cobrindo as configurações do botão flutuante, configurações de legendas de vídeo e configurações de foco do mouse.
 
 - **Legendas Bilíngues do YouTube:** Adicionado um acesso rápido na janela de reprodução de vídeo do YouTube para ativar ou ocultar legendas bilíngues (este recurso pode ser desativado).
 
@@ -389,9 +389,9 @@ sidebar_position: 6
 
 - **Correções de Bugs:**
 
-    - Corrigido o problema em que a tradução por mouseover falhava quando a página perdia o foco.
-    - Corrigido o problema em que menos de 3 caracteres no recurso de aprimoramento da caixa de entrada não eram traduzidos.
-    - Corrigido o problema em que alguns diretórios não eram traduzidos durante a produção de Epubs bilíngues.
+  - Corrigido o problema em que a tradução por mouseover falhava quando a página perdia o foco.
+  - Corrigido o problema em que menos de 3 caracteres no recurso de aprimoramento da caixa de entrada não eram traduzidos.
+  - Corrigido o problema em que alguns diretórios não eram traduzidos durante a produção de Epubs bilíngues.
 
 - **Remoção de Recurso:** Removido o recurso de aprimoramento de informações bilíngues (exibindo resultados de pesquisa em inglês nas páginas de pesquisa do Google simultaneamente).
 
@@ -479,7 +479,7 @@ sidebar_position: 6
 
 ## 0.12.2
 
-- Suporte a legendas bilíngues fornecido para mais plataformas de vídeo, agora suportadas: [Youtube](https://www.youtube.com/), [Netflix](https://www.netflix.com), [Udemy](https://www.udemy.com/), [Khanacademy](https://www.khanacademy.org/), [Coursera](https://www\.coursera.org/), [Vimeo](https://vimeo.com/), [Nebula](https://nebula.tv), [Bloomberg](https://www.bloomberg.com), [Bilibili](https://www.bilibili.com/), etc. (Observação: devido a limitações técnicas, alguns sites precisam ser atualizados após a primeira ativação das legendas bilíngues ou é necessário aguardar a conclusão da tradução para que as legendas sejam exibidas).
+- Suporte a legendas bilíngues fornecido para mais plataformas de vídeo, agora suportadas: [Youtube](https://www.youtube.com/), [Netflix](https://www.netflix.com), [Udemy](https://www.udemy.com/), [Khanacademy](https://www.khanacademy.org/), [Coursera](https://www.coursera.org/), [Vimeo](https://vimeo.com/), [Nebula](https://nebula.tv), [Bloomberg](https://www.bloomberg.com), [Bilibili](https://www.bilibili.com/), etc. (Observação: devido a limitações técnicas, alguns sites precisam ser atualizados após a primeira ativação das legendas bilíngues ou é necessário aguardar a conclusão da tradução para que as legendas sejam exibidas).
 - Tamanho do arquivo zip do plugin significativamente otimizado, reduzido pela metade em comparação com o original, download e atualização mais rápidos.
 - Corrigido problema de download de PDF estendido.
 - Adicionado um portal de tradução rápida de PDF no lado direito do site de artigos do [Arxiv](https://arxiv.org/abs/1910.06709), que leva a uma página HTML limpa (suportado apenas por alguns artigos, pois requer que os autores originais enviem o código-fonte, portanto, cerca de 50% dos artigos mostrarão este portal).
@@ -498,9 +498,9 @@ sidebar_position: 6
 ## 0.11.5
 
 - Agora você pode gerar um link público para a página bilíngue traduzida para o Immersive Translate.
- - [Clique](/docs/share/) no ícone de compartilhamento do Immersive Translate para gerá-lo em um clique!
+- [Clique](/docs/share/) no ícone de compartilhamento do Immersive Translate para gerá-lo em um clique!
 - Resolvido o problema de algumas plataformas não reconhecerem se o mouse era suportado ou não.
- - Existem alguns navegadores de desktop que suportam tanto touchscreen quanto mouse, e o Immersive Translate tecnicamente não consegue detectar se tais plataformas suportam mouse, então adicionamos a opção [Forçar Suporte a Mouse] na configuração de [Passar o Mouse].
+- Existem alguns navegadores de desktop que suportam tanto touchscreen quanto mouse, e o Immersive Translate tecnicamente não consegue detectar se tais plataformas suportam mouse, então adicionamos a opção [Forçar Suporte a Mouse] na configuração de [Passar o Mouse].
 
 ## 0.11.2-0.11.4
 
@@ -695,8 +695,8 @@ sidebar_position: 6
 ## 0.7.1
 
 - Suporte ao aprimoramento da pesquisa: quando ativado, ao pesquisar no Google/Google Notícias em chinês, a coluna da direita mostrará automaticamente os resultados da pesquisa de palavras-chave em inglês correspondentes, ativado por padrão.
- - Motivo: Descobrimos que na pesquisa do Google, os resultados da pesquisa para palavras-chave em chinês e inglês podem ser muito diferentes. Com o Aprimoramento da Pesquisa do Immersive Translate ativado, pesquisamos automaticamente as mesmas palavras-chave em inglês para você e as exibimos no lado direito. Você pode optar por desativá-lo se não precisar do recurso.
- - Não suportado pelo Safari devido a limitações de API.
+- Motivo: Descobrimos que na pesquisa do Google, os resultados da pesquisa para palavras-chave em chinês e inglês podem ser muito diferentes. Com o Aprimoramento da Pesquisa do Immersive Translate ativado, pesquisamos automaticamente as mesmas palavras-chave em inglês para você e as exibimos no lado direito. Você pode optar por desativá-lo se não precisar do recurso.
+- Não suportado pelo Safari devido a limitações de API.
 
 ## 0.6.20
 
@@ -735,7 +735,7 @@ sidebar_position: 6
 ## 0.6.14
 
 - Otimização da tradução de PDF, a área de tradução agora pode ser editada/arrastada/excluída.
- - Arraste no canto superior esquerdo, exclua no canto superior direito, redimensione no canto inferior direito.
+- Arraste no canto superior esquerdo, exclua no canto superior direito, redimensione no canto inferior direito.
 - Alinhamento à esquerda da caixa suspensa do Windows.
 - Suporte a chinês tradicional e chinês simplificado.
 
@@ -1216,7 +1216,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 - Correção: elemento de bloco Unkowntags.
 - Correção: sobrescrever elemento translate=no.
-- Correção: correspondência de URL com vários *.
+- Correção: correspondência de URL com vários \*.
 
 ## 0.2.58
 
@@ -1492,8 +1492,8 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.2.6
 
-- Correção: Problema de correspondência de URL de arquivo 
-([#30](https://github.com/immersive-translate/immersive-translate/issues/30)).
+- Correção: Problema de correspondência de URL de arquivo
+  ([#30](https://github.com/immersive-translate/immersive-translate/issues/30)).
 
 ## 0.2.5
 
@@ -1505,8 +1505,8 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.2.3
 
-- Corrige criação múltipla de contexto 
-([#26](https://github.com/immersive-translate/immersive-translate/issues/26)).
+- Corrige criação múltipla de contexto
+  ([#26](https://github.com/immersive-translate/immersive-translate/issues/26)).
 
 ## 0.2.2
 
@@ -1526,8 +1526,8 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 - Corrige PDF de duas colunas.
 - Corrige bug na versão da Chrome/Edge Store.
-- Corrige problema 
-([#21](https://github.com/immersive-translate/immersive-translate/issues/21)).
+- Corrige problema
+  ([#21](https://github.com/immersive-translate/immersive-translate/issues/21)).
 
 ## 0.1.2
 
@@ -1583,7 +1583,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.0.52
 
-- Não traduz parágrafos que possuem apenas elementos de espaço reservado, 
+- Não traduz parágrafos que possuem apenas elementos de espaço reservado,
   por exemplo, a primeira linha em ([https://github.com/nank1ro/solidart](https://github.com/nank1ro/solidart)).
 - Melhora detecção de elementos filho.
 
@@ -1659,8 +1659,8 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.0.36
 
-- Corrige caracteres especiais da Wikipédia 
-([#6](https://github.com/immersive-translate/next-immersive-translate/issues/6)).
+- Corrige caracteres especiais da Wikipédia
+  ([#6](https://github.com/immersive-translate/next-immersive-translate/issues/6)).
 - Corrige tamanho do ícone do userscript.
 - Habilita detecção de idioma de parágrafo em todos os sites.
 
@@ -1669,14 +1669,14 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 - Corrige ir para a próxima página no YouTube.
 - Suporte à página de pesquisa do YouTube.
 - Corrige alternância avançada de opções.
-- Corrige tags img e hidden 
-([#5](https://github.com/immersive-translate/next-immersive-translate/issues/5)).
-- Corrige atualização forçada da Pesquisa Google 
-([#4](https://github.com/immersive-translate/next-immersive-translate/issues/4)).
-- Suporte a resultados em tabela do Google 
-([#3](https://github.com/immersive-translate/next-immersive-translate/issues/3)).
-- Corrige problema de página em branco na Wikipédia 
-([#2](https://github.com/immersive-translate/next-immersive-translate/issues/2)).
+- Corrige tags img e hidden
+  ([#5](https://github.com/immersive-translate/next-immersive-translate/issues/5)).
+- Corrige atualização forçada da Pesquisa Google
+  ([#4](https://github.com/immersive-translate/next-immersive-translate/issues/4)).
+- Suporte a resultados em tabela do Google
+  ([#3](https://github.com/immersive-translate/next-immersive-translate/issues/3)).
+- Corrige problema de página em branco na Wikipédia
+  ([#2](https://github.com/immersive-translate/next-immersive-translate/issues/2)).
 
 ## 0.0.34
 
@@ -1687,7 +1687,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ### Outros
 
-- Suporte para definir modo de tradução imediata, permitindo que a página seja traduzida o mais 
+- Suporte para definir modo de tradução imediata, permitindo que a página seja traduzida o mais
   rápido possível.
 - Suporte para definir a área da página a ser traduzida, permitindo traduzir mais áreas.
 - Suporte para definir a quantidade inicial de texto a ser traduzida imediatamente.

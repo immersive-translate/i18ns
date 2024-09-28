@@ -27,16 +27,16 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 Gängige Sprachbefehle：
 
-| Mehrsprachigkeit                                                    | Befehl  |
-| ------------------------------------------------------------------- | ------- |
-| Englisch                                                            | /en     |
-| Chinesisch (Vereinfacht)                                            | /zh     |
-| Chinesisch (Traditionell)                                           | /zht    |
-| Japanisch                                                           | /ja     |
-| Koreanisch                                                          | /ko     |
-| Russisch                                                            | /ru     |
-| Französisch                                                         | /fr     |
-| Spanisch                                                            | /es     |
+| Mehrsprachigkeit          | Befehl |
+| ------------------------- | ------ |
+| Englisch                  | /en    |
+| Chinesisch (Vereinfacht)  | /zh    |
+| Chinesisch (Traditionell) | /zht   |
+| Japanisch                 | /ja    |
+| Koreanisch                | /ko    |
+| Russisch                  | /ru    |
+| Französisch               | /fr    |
+| Spanisch                  | /es    |
 
 Für andere Sprachcodes siehe [hier](#language-code)
 

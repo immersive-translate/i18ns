@@ -1,4 +1,5 @@
 # Géminis
+
 1.4.2+ está oculto y se puede habilitar en la [Configuración del Desarrollador](https://dash.immersivetranslate.com/#developer) para mostrar este servicio de traducción en beta.
 
 ## Obtención de la clave API de Géminis

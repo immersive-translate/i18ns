@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # Instalación
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SHznc5kQCM4?si=RyZYUcjW560Bc57-" title="Reproductor de vídeos de YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Navegador de Escritorio
@@ -64,7 +65,7 @@ Abre [esta dirección](https://download.immersivetranslate.com/immersive-transla
 
 **Firefox para Android**
 
-1. Descarga [Firefox Última Versión](https://www.mozilla.org/firefox/browsers/mobile/android/) 
+1. Descarga [Firefox Última Versión](https://www.mozilla.org/firefox/browsers/mobile/android/)
 2. Busca [Tamper Monkey](https://www.tampermonkey.net/) en los complementos recomendados de Firefox e instálalo.
 3. Instala [Tampermonkey](https://download.immersivetranslate.com/immersive-translate.user.js) para esta extensión (abre este enlace en tu navegador Firefox para ver la página de instalación)
 4. Después de la instalación, abre cualquier página web y el icono de la ventana flotante de la extensión Immersive Translate aparecerá en el lado derecho.

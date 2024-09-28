@@ -27,7 +27,6 @@ Esta seção lista serviços de tradução compatíveis com o Immersive Translat
 17. [Youdao Translator](https://fanyi.youdao.com/) | [Guia de Configuração](./services/youdao.md) | **API:** `https://openapi.youdao.com/api`
 18. [Interface de tradução personalizada](https://github.com/immersive-translate/ImmersiveL) | [Guia de Configuração](./services/custom.md)
 
-
 ## Aviso de isenção ou limitação de responsabilidade
 
 Todas as tarifas dos serviços de tradução acima são cobradas pelo provedor do serviço e não têm relação com esta extensão.

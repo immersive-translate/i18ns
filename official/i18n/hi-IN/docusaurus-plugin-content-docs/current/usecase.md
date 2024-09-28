@@ -19,11 +19,9 @@ sidebar_position: 3
 
 ![](https://s.immersivetranslate.com/assets/introduce_en.jpg)
 
-
 ## ट्विटर, अनुवाद की शैली को कमजोर करना
 
 ![twitter1.jpg](https://s.immersivetranslate.com/assets/weaken_style_of_translation_en.jpeg)
-
 
 ## Apple iOS स्थापना इमर्सिव अनुवाद वीडियो ट्यूटोरियल
 

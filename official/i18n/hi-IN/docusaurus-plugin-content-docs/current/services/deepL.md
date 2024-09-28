@@ -7,6 +7,7 @@
 ## DeepL के माध्यम से आधिकारिक DeepL API प्राप्त करें
 
 1. आधिकारिक परिचय：[DeepL API](https://www.deepl.com/en/pro#developer)
+
    - ध्यान दें कि： [DeepL API](https://www.deepl.com/en/pro#developer) और [DeepL Pro](https://www.deepl.com/pro) दो अलग-अलग खाता प्रकार हैं, और [DeepL API](https://www.deepl.com/en/pro/select-country#developer) खाता।
 
 2. [क्यों](https://www.deepl.com/en/whydeepl) DeepL चुनें?

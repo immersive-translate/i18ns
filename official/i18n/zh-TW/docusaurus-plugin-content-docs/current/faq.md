@@ -11,6 +11,7 @@ sidebar_position: 9
 打開懸浮球面板(移動端長按)->點擊右下角更多->選擇全部區域
 
 ## 手機上 Youtube（或其他）APP 不顯示懸浮球
+
 瀏覽器插件只能在瀏覽器中運行，無法在其他 app 中使用
 
 - iOS 瀏覽器上點擊 YouTube 直接打開 App
@@ -186,7 +187,7 @@ YouTube 自帶機翻字幕，繁體中文會出現格式錯誤，導致所有字
 ## Safari 打開設置頁面 一直loading
 
 - iOS
-系統設置 -> safari瀏覽器-> 高級 -> 網站數據 -> 編輯 找到 immersivetranslate.com 刪除## 更多問題（非常見）
+  系統設置 -> safari瀏覽器-> 高級 -> 網站數據 -> 編輯 找到 immersivetranslate.com 刪除## 更多問題（非常見）
 
 <details>
 <summary>油猴腳本如何清空緩存？</summary>

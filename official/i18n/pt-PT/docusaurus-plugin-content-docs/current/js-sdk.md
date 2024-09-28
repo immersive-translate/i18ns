@@ -24,30 +24,35 @@ The Immersive Translate JS SDK helps you implement bilingual translation on your
 <script src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
 ```
 
-
 Example
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Immersive Translate JS SDK</title>
-  <script>
-    window.immersiveTranslateConfig = {
-      pageRule: {}
-    }
-  </script>
-  <script async src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
-</head>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Immersive Translate JS SDK</title>
+    <script>
+      window.immersiveTranslateConfig = {
+        pageRule: {},
+      };
+    </script>
+    <script
+      async
+      src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"
+    ></script>
+  </head>
 
-<body>
-  <div>
-    <p>Night gathers, and now my watch begins. It shall not end until my death. I shall take no wife, hold no lands,
-      father no children. I shall wear no crowns and win no glory. I shall live and die at my post.</p>
-  </div>
-</body>
+  <body>
+    <div>
+      <p>
+        Night gathers, and now my watch begins. It shall not end until my death.
+        I shall take no wife, hold no lands, father no children. I shall wear no
+        crowns and win no glory. I shall live and die at my post.
+      </p>
+    </div>
+  </body>
 </html>
 ```
 
@@ -58,8 +63,8 @@ With `pageRule`, you can customize the configuration of the website, deciding wh
 ```js
 initImmersiveTranslate({
   pageRule: {
-    "selectors": [".text"],
-    "excludeSelectors": ["nav", "footer"],
+    selectors: [".text"],
+    excludeSelectors: ["nav", "footer"],
   },
 });
 ```
@@ -76,14 +81,8 @@ If you want to translate a specific area and consider an element as a whole with
 
 ```json
 {
-  "selectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ],
-  "atomicBlockSelectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ]
+  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
+  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
 }
 ```
 

@@ -30,6 +30,7 @@ sidebar_position: 12
 - **沉浸式翻譯**使用**Adjust**進行廣告投放及效果分析，**Adjust SDK**會收集無法直接識別用戶的去身份化的數據，包括**設備標識碼（IMEI，Android ID、OAID）**、曝光、點擊等廣告數據。關於Adjust的更多信息可訪問[官網](https://www.adjust.com/)及[隱私協議](https://www.adjust.com/terms/privacy-policy/)
 
 ## 關於 Safari 擴展的權限說明
+
 當您在 Safari 瀏覽器中啓用沉浸式翻譯擴展時，將會看到一個權限提醒，內容為：「該擴展可以閱讀，修改敏感信息，包括銀行卡資訊等」。我們理解這可能會引起您的擔憂，因此希望提供一些背景信息和我們對您隱私的承諾：
 
 **1. 這個提示是什麼意思？**

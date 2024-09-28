@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # Installation
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SHznc5kQCM4?si=RyZYUcjW560Bc57-" title="Lecteur vidéo YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Navigateur de bureau
@@ -72,7 +73,6 @@ Ouvrez [cette adresse](https://download.immersivetranslate.com/immersive-transla
 1. Installez le [plugin safari Userscripts](https://itunes.apple.com/us/app/userscripts/id1463298887) et accordez-lui la permission "Toujours autoriser l'accès à n'importe quel site web".
 2. Installez [Tampermonkey](https://download.immersivetranslate.com/immersive-translate.user.js) pour cette extension (ouvrez ce lien dans le navigateur Safari et cliquez sur l'icône de l'extension Userscript pour voir la page d'installation)
 3. Après l'installation, ouvrez n'importe quelle page web et rafraîchissez-la, une fenêtre flottante de cette extension apparaîtra sur le côté droit de la page. (Si vous rencontrez des problèmes avec les fenêtres flottantes qui n'apparaissent pas, nous recommandons de rafraîchir la page plus souvent ou de forcer le redémarrage de Safari pour que cela prenne effet)
-
 
 ## Installation manuelle (pour suivre les dernières fonctionnalités de développement)
 

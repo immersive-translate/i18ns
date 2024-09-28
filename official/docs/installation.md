@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # 安装
+
 <video
 controls style={{width:"100%", maxWidth:"500px"}}
 controls
@@ -46,11 +47,9 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-ma
 
 ## 安卓
 
-
 ### 通过沉浸式翻译官方安卓浏览器安装
 
 点击下载[沉浸式翻译安卓浏览器 APK](https://immersivetranslate.com/android/)，或者在 [Google Play 应用商店安装](https://play.google.com/store/apps/details?id=com.immersivetranslate.browser&utm_campaign=official)，该版本已经预装了沉浸式翻译扩展，安装之后即可直接使用。（注意，如遇到部分国产手机在安装时提示的安全风险（这是统一的提示），请选择【我已知晓安全风险】【继续安装】）
-
 
 ### 通过 Edge（微软） 安卓浏览器安装
 
@@ -62,7 +61,6 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-ma
 ![](https://s.immersivetranslate.com/assets/uploads/edge-immersive-aNFLnF.JPEG)
 
 （注意⚠️：Edge 安卓浏览器目前只能通过上述方式安装沉浸式翻译扩展，不支持在 [Edge 扩展商店页面](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-CN&gl=CN)安装）
-
 
 ### 其他安卓浏览器
 

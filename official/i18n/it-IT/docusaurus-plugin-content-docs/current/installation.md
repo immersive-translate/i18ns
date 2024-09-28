@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # Installazione
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SHznc5kQCM4?si=RyZYUcjW560Bc57-" title="Lettore video di YouTube" frameborder="0" allow="accelerometro; autoplay; scrittura appunti; media criptati; giroscopio; picture-in-picture; condivisione web" allowfullscreen></iframe>
 
 ## Browser Desktop
@@ -12,6 +13,7 @@ sidebar_position: 1
 - Firefox: [Firefox Addon Store Immersive Translate](https://addons.mozilla.org/firefox/addon/immersive-translate/)
 
 > Se non riesci ad accedere allo store ufficiale di Google, puoi scaricare direttamente l'[ultimo installer zip di Immersive Translate per Chrome](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip), dopo aver scaricato, per favore prima estrailo in una cartella che usi di solito, poi digita: `chrome://extensions` nella barra degli indirizzi per aprire la finestra di gestione delle estensioni, poi abilita "Modalità Sviluppatore", seleziona "Carica Estensioni Decompressa", e scegli la cartella che hai appena decompresso e caricato. Seleziona la cartella che hai appena estratto e caricala.
+
 ```
 
 ## Safari
@@ -94,3 +96,4 @@ Il vantaggio dell'installazione manuale è che non devi aspettare la revisione d
 Scarica l'ultimo installatore dalla [Pagina di Rilascio](https://github.com/immersive-translate/immersive-translate/releases/), elimina il contenuto della cartella originale, poi copia il contenuto dell'ultimo archivio zip nella cartella originale, e infine sulla pagina di gestione delle estensioni clicca `Ricarica`.
 
 > Se sei abituato alla riga di comando, puoi usare `git clone https://github.com/immersive-translate/immersive-translate.git`, poi installare `dist/chrome` e sarai in grado di sincronizzare con `git pull` ogni volta.
+```

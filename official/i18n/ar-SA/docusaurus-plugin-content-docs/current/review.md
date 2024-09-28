@@ -36,7 +36,7 @@ sidebar_position: 8
 > التأثيرات الخاصة للترجمات هي السمة البارزة في الفصل - مستخدمو متصفح Edge
 
 > تعمل بشكل جيد!! يمكنك ترجمة الصفحة الويب بأكملها ومع ذلك الاحتفاظ بالنص الأصلي، الترجمة سريعة ودقيقة، أحببتها! شكرًا للمطورين! - مستخدمو متصفح Edge
-Certainly! Here are the translations of the provided reviews into Arabic:
+> Certainly! Here are the translations of the provided reviews into Arabic:
 
 > جيد جدًا، جدًا، الترجمات الثنائية اللغة أفضل بكثير من الترجمات الفردية - مستخدم كروم
 
@@ -56,6 +56,6 @@ Certainly! Here are the translations of the provided reviews into Arabic:
 
 > مراجعة جيدة لقد كنت أستخدم مزيج سكريبت Double Happy + Web Translator للترجمات الثنائية اللغة على سفاري قبل ذلك، وهذه الإضافة تقوم بذلك مباشرة، إنها ببساطة ممتازة!! - مستخدمو Tampermonkey
 
-***
+---
 
 <!-- إذا كان لديك شيء تريد أن يبقى هنا، [عدل](https://github.com/immersive-translate/immersive-translate/edit/main/docs/review.md) هذا الملف المصدري في Github لـ \~ -->
