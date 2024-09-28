@@ -4,6 +4,12 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.9.8
+
+- 新增：翻译服务“智普GLM翻译”
+- 移除：“SiliconCloud翻译”模型qwen1.5-7B-chat（由于官方不再支持）
+- 修复：解决 macOS 15 上 Safari 插件的登录兼容性问题
+
 ## 1.9.7
 
 - 输入增强支持百度，gmail等输入框
