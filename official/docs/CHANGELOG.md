@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ## 1.9.8
 
-- 新增：翻译服务“智普GLM翻译”
+- 新增：翻译服务“智谱GLM翻译”
 - 移除：“SiliconCloud翻译”模型qwen1.5-7B-chat（由于官方不再支持）
 - 修复：解决 macOS 15 上 Safari 插件的登录兼容性问题
 
