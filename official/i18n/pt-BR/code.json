@@ -1190,7 +1190,7 @@
     "message": "Cópia bem-sucedida"
   },
   "page.zipinstall.step1Title": {
-    "message": "Baixe o pacote de instalação crx da tradução imersiva e descompacte-o (o arquivo crx está na pasta descompactada)."
+    "message": "Baixe o pacote de instalação Immersive Translate crx e descompacte-o (o arquivo crx está na pasta descompactada)."
   },
   "page.zipinstall.step2Title": {
     "message": "Abra a página \"Gerenciar extensões\" no Chrome e ative o \"Modo de desenvolvedor\"."

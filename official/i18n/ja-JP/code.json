@@ -1193,7 +1193,7 @@
     "message": "コピー成功"
   },
   "page.zipinstall.step1Title": {
-    "message": "没入型翻訳crxインストールパッケージをダウンロードし、解凍してください（crxファイルは解凍したフォルダ内にあります）。"
+    "message": "Immersive Translate crx インストールパッケージをダウンロードして解凍してください（crxファイルは解凍したフォルダ内にあります）。"
   },
   "page.zipinstall.step2Title": {
     "message": "Chromeの【拡張機能を管理】ページを開き、【開発者モード】をオンにしてください。"
