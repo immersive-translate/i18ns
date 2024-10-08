@@ -38,7 +38,6 @@ sidebar_position: 15
 | [nmaArt](https://www.nma.art/)                                     | New Masters Academy 是一個在線藝術教育平台，提供世界知名藝術家和教師製作的高質量指導性影片，涵蓋繪畫、雕塑、藝術史等。                                                                                   |
 | [Developer Apple](https://developer.apple.com)                     | Apple 開發者是 Apple 面向開發者的平台。它提供如文檔、教程和工具等資源，用於開發適配 iOS、macOS、watchOS 和 tvOS 的軟件。它也提供 Apple 開發者技術的最新新聞和更新。                                      |
 | [egghead.io](https://egghead.io/)                                  | egghead.io 是一個在線學習平台，專注於提供高水平的 Web 開發和編程教程。它的課程內容涵蓋 JavaScript、React、Angular、Vue 等多種前端技術。                                                                  |
-| [Mubi](https://mubi.com/)                                          | Mubi 是一種流媒體服務，成員可以觀看優質、手工選定的電影。每天都會上新電影，用戶可以看到世界各地的經典舊片、扣人心弦的新片，以及電影節獲獎影片。                                                          |
 | [Viu](https://www.viu.com/)                                        | Viu 是亞洲的在線影片流媒體服務，提供各種電視節目和電影，其內容範圍從韓國和日本的電視劇到印度和阿拉伯國家的內容都有。                                                                                     |
 | [LinkedIn](https://cn.linkedin.com/)                               | LinkedIn 是全球最大的專業網絡平台，用戶可以在這裡建立職業身份、發現商業機會、拓展人脈網絡，還能獲取行業資訊、分享觀點和找到理想的工作。                                                                  |
 | [Kanopy](https://www.kanopy.com/)                                  | Kanopy 是一個免費的電影流媒體服務，它與各大學和公共圖書館合作，向用戶提供大量的教育和藝術電影。                                                                                                          |

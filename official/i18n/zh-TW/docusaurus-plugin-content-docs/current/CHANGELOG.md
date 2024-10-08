@@ -4,6 +4,12 @@ sidebar_position: 6
 
 # 更新日誌
 
+## 1.9.8
+
+- 新增：翻譯服務「智普GLM翻譯」
+- 移除：「SiliconCloud翻譯」模型qwen1.5-7B-chat（由於官方不再支持）
+- 修復：解決 macOS 15 上 Safari 插件的登錄兼容性問題
+
 ## 1.9.7
 
 - 輸入增強支援Gmail輸入框
