@@ -1193,7 +1193,7 @@
     "message": "복사 성공"
   },
   "page.zipinstall.step1Title": {
-    "message": "다운로드 몰입형 번역 crx 설치 패키지를 받고 압축을 풀어주세요(crx 파일은 압축 해제된 폴더 안에 있습니다)."
+    "message": "다운로드하십시오 몰입형 번역 crx 설치 패키지를 압축 해제하십시오 (crx 파일은 압축 해제된 폴더에 있습니다)."
   },
   "page.zipinstall.step2Title": {
     "message": "Chrome의 [확장 프로그램 관리] 페이지를 열고 [개발자 모드]를 켜십시오."

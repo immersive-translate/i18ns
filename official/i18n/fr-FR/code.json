@@ -1193,7 +1193,7 @@
     "message": "Copie réussie"
   },
   "page.zipinstall.step1Title": {
-    "message": "Téléchargez le package d'installation de traduction immersive crx et décompressez-le (le fichier crx se trouve dans le dossier décompressé)."
+    "message": "Téléchargez le paquet d'installation crx de la traduction immersive et décompressez-le (le fichier crx se trouve dans le dossier décompressé)."
   },
   "page.zipinstall.step2Title": {
     "message": "Ouvrez la page \"Gérer les extensions\" de Chrome et activez le \"Mode développeur\"."
