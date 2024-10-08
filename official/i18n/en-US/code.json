@@ -1190,7 +1190,7 @@
     "message": "Copy successful"
   },
   "page.zipinstall.step1Title": {
-    "message": "Download the immersive translation crx installation package and unzip it (the crx file is in the unzipped folder)."
+    "message": "Download the Immersive Translate crx installation package and unzip it (the crx file is in the unzipped folder)."
   },
   "page.zipinstall.step2Title": {
     "message": "Open the \"Manage Extensions\" page in Chrome and turn on \"Developer Mode\"."
