@@ -1193,7 +1193,7 @@
     "message": "複製成功"
   },
   "page.zipinstall.step1Title": {
-    "message": "下載沉浸式翻譯 crx 安裝包，並解壓縮（crx 檔案在解壓縮的文件夾裡）。"
+    "message": "下載沉浸式翻譯 crx 安裝包，並解壓（下載的文件為 zip 格式，解壓到本地文件夾後即可看到 crx 文件）。"
   },
   "page.zipinstall.step2Title": {
     "message": "打開chrome的【 管理擴展程式 】頁面，並打開【 開發者模式 】"

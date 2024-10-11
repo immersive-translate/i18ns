@@ -1193,7 +1193,7 @@
     "message": "Kopieren erfolgreich"
   },
   "page.zipinstall.step1Title": {
-    "message": "Laden Sie das immersive Übersetzungspaket crx herunter und entpacken Sie es (die crx-Datei befindet sich im entpackten Ordner)."
+    "message": "Laden Sie das Installationspaket für Immersive Translate crx herunter und entpacken Sie es (die crx-Datei befindet sich im entpackten Ordner)."
   },
   "page.zipinstall.step2Title": {
     "message": "Öffnen Sie die Seite \"Erweiterungen verwalten\" in Chrome und aktivieren Sie den \"Entwicklermodus\"."

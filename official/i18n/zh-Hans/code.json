@@ -1277,7 +1277,7 @@
     "message": "复制成功"
   },
   "page.zipinstall.step1Title": {
-    "message": "下载沉浸式翻译 crx 安装包，并解压（crx 文件在解压的文件夹里)。"
+    "message": "下载沉浸式翻译 crx 安装包，并解压（下载的文件为 zip 格式，解压到本地文件夹后即可看到 crx 文件)。"
   },
   "page.zipinstall.step2Title": {
     "message": "打开chrome的【 管理扩展程序 】页面，并打开【 开发者模式 】"
