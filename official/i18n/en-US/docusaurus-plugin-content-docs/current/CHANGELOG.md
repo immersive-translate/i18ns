@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.10.1 (2024-10-11)
+## 1.10.2 (2024-10-11)
 
 - Added: Image translation (Beta version)
 - Added: Forece Enable Mouse Support mode (Enable this feature only if the mouse hover function is unavailable on tablet devices) **Settings** -> **Advanced Settings** -> **Forece Enable Mouse Support**
