@@ -4,13 +4,23 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.9.8
+## 1.10.1 (2024-10-11)
+
+- Added: Image translation (Beta version)
+- Added: Forece Enable Mouse Support mode (Enable this feature only if the mouse hover function is unavailable on tablet devices) **Settings** -> **Advanced Settings** -> **Forece Enable Mouse Support**
+- Added: Display error message when video subtitle translation fails
+- Fixed: Rich text translation issue [#2163](https://github.com/immersive-translate/immersive-translate/issues/2163)
+- Improved: Addressed issues where the translation button might not work during PDF translation
+- Improved: Enhanced the rendering of translated formulas
+- Improved: Language selection list
+
+## 1.9.8 (2024-09-28)
 
 - Added: Translation service "Zhipu BigModel"
 - Removed: "SiliconCloud" model qwen1.5-7B-chat (due to official discontinuation)
 - Fixed: Resolved login compatibility issue with Safari plugin on macOS 15
 
-## 1.9.7
+## 1.9.7 (2024-09-20)
 
 - Enhanced input support for Baidu, Gmail, and other input fields
 - Support for anthropic-dangerous-direct-browser-access request header for Claude Anthropic API
@@ -18,27 +28,27 @@ sidebar_position: 6
 - DeepX supports rich text translation
 - Fixed the issue with custom AI experts not syncing
 
-## 1.9.6
+## 1.9.6 (2024-09-13)
 
 - [PDF Pro](https://app.immersivetranslate.com/pdf-pro/) supports formula copying (right-click on the formula to see the copy menu)
 - Fixed the issue of bilingual subtitles display for multiple videos on the same Twitter page
 - Fixed some bugs
 
-## 1.9.3
+## 1.9.3 (2024-09-05)
 
 - The option for bilingual comparison/translation-only display has been moved to general settings.
 - By default, the system will remember the mode toggled by clicking the icon in the panel for bilingual comparison or translation-only display. To switch temporarily, click "More" -> "Switch to translation-only display" in the panel.
 - By default, translating Simplified Chinese to Traditional Chinese and vice versa will use the translation-only mode, rather than the bilingual comparison mode.
 - Fixed some bugs.
 
-## 1.9.1
+## 1.9.1 (2024-09-03)
 
 - Support for configuring exceptions for languages and websites in bilingual contrast or translation-only mode (configure in Settings page -> Advanced Settings). For example: If your default translation mode is bilingual contrast, but you do not wish Traditional Chinese to also use bilingual contrast, then you can add Traditional Chinese to the exception languages for bilingual contrast, so Traditional Chinese will use translation-only mode for translation. Similarly, if your default translation mode is translation-only, but you wish a certain language or website to use bilingual contrast mode, you can also add that language or website to the exception languages.
 - Fixed an issue where the input box in Tiktok private message interface was translated incorrectly
 - Fixed an issue where comics on Read Comic Online could not be translated
 - Fixed an issue where the 【Advanced Settings -> Minimum number of characters required for translating a paragraph】 did not take effect in some cases
 
-## 1.8.4
+## 1.8.4 (2024-08-30)
 
 - DeepL translation service now officially supports Traditional Chinese as a target language (previously, translating into Traditional Chinese with DeepL involved an additional third-party Simplified to Traditional Chinese conversion process).
 - Optimized rich text translation performance.
