@@ -54,7 +54,9 @@ title: 介紹
 - [點此查看](/docs/review/) 用戶的評價以及媒體報道
 - [Youtube 影片介紹](https://www.youtube.com/watch?v=IZiwEtLGTk0)
 
-## 安裝### 桌面瀏覽器
+## 安裝
+
+### 桌面瀏覽器
 
 - 微軟 Edge 瀏覽器： [Edge 商店沉浸式翻譯](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)
 - Google Chrome 瀏覽器：[Chrome 商店沉浸式翻譯](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
@@ -68,17 +70,31 @@ title: 介紹
 <img src="https://immersivetranslate.com/assets/immersive-app-store.png" width="150" alt="app store qrcode" />
 </div>
 
-> 說明：首次安裝後需要在 safari 瀏覽器-> 管理擴展->**啟用沉浸式翻譯擴展**，並且授予其**始終允許訪問所有網站**的權限，有疑問可以查看[影片教程](https://immersivetranslate.com/assets/safari-installation-intro.mp4)：## 安卓
+> 說明：首次安裝後需要在 safari 瀏覽器-> 管理擴展->**啟用沉浸式翻譯擴展**，並且授予其**始終允許訪問所有網站**的權限，有疑問可以查看[影片教程](https://immersivetranslate.com/assets/safari-installation-intro.mp4)：
 
-點擊下載[沉浸式翻譯安卓瀏覽器](https://immersivetranslate.com/android/)，該版本已經預裝了沉浸式翻譯擴展，安裝之後即可直接使用。（注意，如遇到部分國產手機在安裝時提示的安全風險（這是統一的提示），請選擇【我已知曉安全風險】【繼續安裝】）
+## 安卓
+
+### 通過沉浸式翻譯官方安卓瀏覽器安裝
+
+點擊下載[沉浸式翻譯安卓瀏覽器 APK](https://immersivetranslate.com/android/)，或者在 [Google Play 應用商店安裝](https://play.google.com/store/apps/details?id=com.immersivetranslate.browser&utm_campaign=official)，該版本已經預裝了沉浸式翻譯擴展，安裝之後即可直接使用。（注意，如遇到部分國產手機在安裝時提示的安全風險（這是統一的提示），請選擇【我已知曉安全風險】【繼續安裝】）
+
+### 通過 Edge（微軟） 安卓瀏覽器安裝
+
+[Edge 安卓瀏覽器](https://microsoftedgewelcome.microsoft.com/emmx/ImmersiveTranslateCollaboration)目前已支持安裝瀏覽器擴展，沉浸式翻譯是 Edge 安卓瀏覽器的首批推薦擴展之一，在 Edge 瀏覽器上安裝沉浸式翻譯擴展非常簡單
+
+1. 首先[掃碼下載安裝 Edge 瀏覽器](https://microsoftedgewelcome.microsoft.com/emmx/ImmersiveTranslateCollaboration) (或者在應用商店搜索 Edge 瀏覽器並安裝)
+2. 打開 Edge 安裝瀏覽器，點擊菜單 -> 【擴展】，在列表裡找到沉浸式翻譯，點擊安裝即可，如下圖所示：
+   ![](https://s.immersivetranslate.com/assets/uploads/edge-immersive-aNFLnF.JPEG)
+   （注意⚠️：Edge 安卓瀏覽器目前只能通過上述方式安裝沉浸式翻譯擴展，不支持在 [Edge 擴展商店頁面](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-CN&gl=CN)安裝）
+
+### 其他安卓瀏覽器
 
 你也可以嘗試使用其他的安卓瀏覽器安裝沉浸式翻譯，比如
 
-- [Firefox 瀏覽器 Beta 版 或者 Nightly 版本](https://www.mozilla.org/zh-CN/firefox/channel/android/)
+- [Firefox 瀏覽器](https://www.mozilla.org/zh-CN/firefox/channel/android/)
 - [狐猴瀏覽器](https://lemurbrowser.com/app/zh/)
 - [Kiwi 瀏覽器](https://kiwibrowser.com/)
-
-安裝後，直接在附加組件 / chrome 商店搜索[沉浸式翻譯](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)即可安裝。
+  安裝後，直接在附加組件 / chrome 商店搜索[沉浸式翻譯](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)即可安裝。
 
 ### 透過油猴腳本安裝
 

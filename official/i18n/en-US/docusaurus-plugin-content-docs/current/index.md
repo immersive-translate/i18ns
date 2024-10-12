@@ -75,14 +75,11 @@ You can keep in touch with us at：
 
 ## Android
 
-Click to download [Immersive Translate Android Browser](/android/), after downloading, you need to enable [Immersive Translate] manually in [Extensions], please check the following tutorial：
-
-<!-- <video controls style={{width:"100%", maxWidth:"350px"}} src="https://s.immersivetranslate.com/videos/android-installation.mp4"></video> -->
-
-> Description：Immersive Translate Browser is built based on [Firefox's official Android browser](https://www.mozilla.org/firefox/browsers/mobile/android/), only the Immersive Translate extension is added to the list of Firefox's original extensions, and all other features are the same as Firefox's! It is built on Firefox's original list of extensions, all other features are the same as Firefox, [source code open source here](https://github.com/immersive-translate/firefox-android)
+Click to download the [Immersive Translate Android Browser APK](https://immersivetranslate.com/android/), or install it from the [Google Play Store](https://play.google.com/store/apps/details?id=com.immersivetranslate.browser&utm_campaign=official). This version comes pre-installed with the Immersive Translate extension, so you can use it immediately after installation. (Note: If some Chinese-brand phones prompt a security risk during installation (this is a standard prompt), please select [I acknowledge the security risk] [Continue installation])
 
 You can also try installing Immersive Translate with other Android browsers, such as those that support Firefox extensions or Chrome extensions, such as
 
+- [Edge Browser](https://www.microsoft.com/edge/emmx/immersivetranslatecollaboration)
 - [Firefox Beta Version or Nightly Version](https://www.mozilla.org/firefox/channel/android/)
 - [Lemur Browser](https://lemurbrowser.com/)
 - [Kiwi Browser](https://kiwibrowser.com/)
