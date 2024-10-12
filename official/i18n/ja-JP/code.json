@@ -1317,5 +1317,11 @@
   },
   "page.pricing.header.limitedTimeDiscount": {
     "message": "現在Pro会員に登録すると<strong>期間限定割引</strong>が適用されます👇"
+  },
+  "page.index.downloadBtn.edgeBrowser": {
+    "message": "Edge browser (Android)"
+  },
+  "page.index.downloadBtn.edgeBrowser.tag": {
+    "message": "Install from built-in store"
   }
 }
