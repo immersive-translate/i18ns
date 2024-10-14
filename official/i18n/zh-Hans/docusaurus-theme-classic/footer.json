@@ -113,5 +113,8 @@
   },
   "link.item.visible.xiaohongshu": {
     "message": "true"
+  },
+  "link.item.visible.zhTWVisible": {
+    "message": "true"
   }
 }
