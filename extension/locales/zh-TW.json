@@ -425,7 +425,7 @@
   "subtitle.disabledSubtitleDescription": "如果沉浸式翻譯的影片字幕和其他擴充功能有衝突，你可以選擇永遠停用沉浸式翻譯的影片字幕功能或者移除其他衝突的擴充功能",
   "subtitle.autoEnableSubtitleDescription": "啟用後，當前已支援的所有影音平台播放影片時，會自動顯示雙語字幕。",
   "subtitle.preTranslation": "使用沉浸式翻譯來翻譯 Youtube 字幕",
-  "subtitle.preTranslationDescription": "啟用後會優先用下面指定的翻譯服務提前翻譯字幕，關閉則優先使用原視頻自帶的機翻字幕；請注意，當原視頻沒有對應的譯文字幕時，無論是否啟用這個選項，都會使用下面指定的翻譯服務來翻譯字幕。",
+  "subtitle.preTranslationDescription": "啟用後會優先用下面指定的翻譯服務提前翻譯字幕，關閉則優先使用原影片自帶的機翻字幕；請注意，當原影片沒有對應的譯文字幕時，無論是否啟用這個選項，都會使用下面指定的翻譯服務來翻譯字幕。",
   "subtitle.humanSubtitlesPreferred": "優先使用人工字幕",
   "subtitle.humanSubtitlesPreferredDescription": "當影片有目標語言人工字幕時，優先使用人工字幕（推薦）",
   "subtitle.bilingual": "雙語字幕",

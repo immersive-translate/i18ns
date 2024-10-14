@@ -62,11 +62,11 @@ sidebar_position: 15
 | [Piped.Video](https://piped.video/)                                | Piped.Video 是一個開源的YouTube客戶端，它允許用戶以隱私友好和廣告免費的方式觀看YouTube影片。                                                                                                             |
 | [Plex.TV](https://piped.video/)                                    | Plex.TV 是一個流媒體服務平台，它允許用戶將自己的電影，電視節目，音樂和照片集中存儲，並在任何設備上進行播放。                                                                                             |
 | [University of Southampton](https://southampton.cloud.panopto.eu/) | 南安普頓大學是英國的一所公立研究型大學，提供各種本科和研究生課程，包括工程、醫學、社會科學等。它的研究實力在全球範圍內都有很高的評價。                                                                   |
-| [VK Video](https://vk.com/video)                                   | VK Video 是社交網絡服務 VK 的一部分，用戶可以在此上傳、分享和觀看視頻。內容包括電影、電視節目、音樂視頻和用戶生成的內容等。                                                                              |
+| [VK Video](https://vk.com/video)                                   | VK Video 是社交網絡服務 VK 的一部分，用戶可以在此上傳、分享和觀看影片。內容包括電影、電視節目、音樂影片和用戶生成的內容等。                                                                              |
 | [COMSOL](https://www.comsol.com/video)                             | COMSOL 是一款用於模擬物理現象的軟件。它提供了多物理場、化學反應、流體動力學等多種模塊，廣泛應用於工程、科研等領域。                                                                                      |
-| [The Motion Magic](https://themotionmagic.com/)                    | The Motion Magic 是一個提供高質量動畫和視覺效果服務的公司。他們的作品包括電影、電視、廣告和音樂視頻等。                                                                                                  |
-| [SVT Play](https://www.svtplay.se/)                                | SVT Play 是瑞典電視公司的在線視頻服務，提供新聞、電視節目、電影等內容的實時播放和點播。                                                                                                                  |
-| [Osmosis](https://www.osmosis.org/)                                | Osmosis 是一個在線學習平台，專注於醫學和健康科學領域。它提供了大量的視頻教程、學習計劃和測驗，幫助學生更有效地學習。                                                                                     |
+| [The Motion Magic](https://themotionmagic.com/)                    | The Motion Magic 是一個提供高質量動畫和視覺效果服務的公司。他們的作品包括電影、電視、廣告和音樂影片等。                                                                                                  |
+| [SVT Play](https://www.svtplay.se/)                                | SVT Play 是瑞典電視公司的在線影片服務，提供新聞、電視節目、電影等內容的實時播放和點播。                                                                                                                  |
+| [Osmosis](https://www.osmosis.org/)                                | Osmosis 是一個在線學習平台，專注於醫學和健康科學領域。它提供了大量的影片教程、學習計劃和測驗，幫助學生更有效地學習。                                                                                     |
 | [dr.dk](https://www.dr.dk/)                                        | dr.dk 是丹麥廣播公司的官方網站，提供新聞、電視和廣播節目的在線播放。它是丹麥最大的新聞提供者和公共服務媒體。                                                                                             |
 
 [查看更多 & 反饋適配需求](https://github.com/immersive-translate/immersive-translate/issues/1179)

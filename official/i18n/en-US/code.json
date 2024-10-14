@@ -449,6 +449,12 @@
   "page.index.downloadBtn.android": {
     "message": "Android Browser"
   },
+  "page.index.downloadBtn.edgeBrowser": {
+    "message": "Edge browser (Android)"
+  },
+  "page.index.downloadBtn.edgeBrowser.tag": {
+    "message": "Install from built-in store"
+  },
   "page.index.supportservice.title": {
     "message": "Supports 10+ Translation Services"
   },

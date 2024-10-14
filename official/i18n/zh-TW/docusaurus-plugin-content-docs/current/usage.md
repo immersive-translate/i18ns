@@ -8,7 +8,7 @@ sidebar_position: 2
 
 <video
   controls
-  poster="https://immersivetranslate.com/assets/price/video-poster-zh-TW.png"
+  poster="https://s.immersivetranslate.com/assets/r2-uploads/video-poster-zh-TW2-qcLrFyk-pK_aF4QG.png"
   src="https://s.immersivetranslate.com/assets/uploads/full-intro-zh-TW-TQk3WC.mp4"
 />
 

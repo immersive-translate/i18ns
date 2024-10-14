@@ -1327,5 +1327,11 @@
   },
   "page.pricing.header.limitedTimeDiscount": {
     "message": "Agora, ao se tornar um membro Pro, você pode aproveitar um <strong>desconto por tempo limitado</strong> 👇"
+  },
+  "page.index.downloadBtn.edgeBrowser": {
+    "message": "Edge browser (Android)"
+  },
+  "page.index.downloadBtn.edgeBrowser.tag": {
+    "message": "Install from built-in store"
   }
 }

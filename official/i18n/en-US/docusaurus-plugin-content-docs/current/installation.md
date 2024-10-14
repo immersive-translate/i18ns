@@ -43,15 +43,16 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/docs/macO
 
 ## Android
 
-Click to download [Immersive Translate Android Browser](/android/), you need to enable [Immersive Translate] manually in [Extensions] after downloading：
+Click to download the [Immersive Translate Android Browser APK](https://immersivetranslate.com/android/), or install it from the [Google Play Store](https://play.google.com/store/apps/details?id=com.immersivetranslate.browser&utm_campaign=official). This version comes pre-installed with the Immersive Translate extension, so you can use it immediately after installation. (Note: If some Chinese-brand phones prompt a security risk during installation (this is a standard prompt), please select [I acknowledge the security risk] [Continue installation])
 
-You can try installing Immersive Translate with other Android browsers, such as those that support Firefox extensions or Chrome extensions, such as
+You can also try installing Immersive Translate with other Android browsers, such as those that support Firefox extensions or Chrome extensions, such as
 
-- [Firefox Beta or Nightly](https://www.mozilla.org/firefox/channel/android/)
-- [Lemur Browser](https://lemurbrowser.com/app/)
+- [Edge Browser](https://www.microsoft.com/edge/emmx/immersivetranslatecollaboration)
+- [Firefox Beta Version or Nightly Version](https://www.mozilla.org/firefox/channel/android/)
+- [Lemur Browser](https://lemurbrowser.com/)
 - [Kiwi Browser](https://kiwibrowser.com/)
 
-Once installed, search for [Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) directly in the chrome store to install it.
+Once installed, search for [Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) directly in the add-ons / chrome store to install it.
 
 ## Installation via Tampermonkey
 

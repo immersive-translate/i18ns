@@ -1317,5 +1317,11 @@
   },
   "page.pricing.header.limitedTimeDiscount": {
     "message": "지금 Pro 회원을 개통하시면 <strong>한정 시간 할인</strong>을 받으실 수 있습니다 👇"
+  },
+  "page.index.downloadBtn.edgeBrowser": {
+    "message": "Edge browser (Android)"
+  },
+  "page.index.downloadBtn.edgeBrowser.tag": {
+    "message": "Install from built-in store"
   }
 }

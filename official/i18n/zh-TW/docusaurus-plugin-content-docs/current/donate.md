@@ -12,7 +12,7 @@ The content you've provided seems to be a part of a markdown file's metadata, sp
 - 以下為可選項：
 - 訂閱[沉浸式翻譯官方郵件](https://immersivetranslate.substack.com/)
 - [加入 Telegram 頻道](https://t.me/immersivetranslate)
-- 關注[沉浸式翻譯官方推特賬號](https://twitter.com/immersivetran)
+- 關注[沉浸式翻譯官方Twitter賬號](https://x.com/immersivetrans)
 - 幫忙[貢獻文檔](https://immersivetranslate.com/),點擊右上角編輯按鈕即可。
 - 幫忙[翻譯](https://crowdin.com/project/immersive-translate)該擴展的界面語言。
 - 幫忙解答用戶在[Telegram 群組](https://t.me/+rq848Z09nehlOTgx)

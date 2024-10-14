@@ -1317,5 +1317,11 @@
   },
   "page.pricing.header.limitedTimeDiscount": {
     "message": "現在開通Pro會員可享受<strong>限時折扣</strong> 👇"
+  },
+  "page.index.downloadBtn.edgeBrowser": {
+    "message": "Edge瀏覽器（安卓）"
+  },
+  "page.index.downloadBtn.edgeBrowser.tag": {
+    "message": "需在內置擴展商店安裝"
   }
 }

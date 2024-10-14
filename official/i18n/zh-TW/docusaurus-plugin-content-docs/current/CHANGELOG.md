@@ -24,14 +24,14 @@ sidebar_position: 6
 
 - 輸入增強支援Gmail輸入框
 - 支援 Claude Anthropic API 的 anthropic-dangerous-direct-browser-access 請求頭
-- 支援 Hulu、Bloomberg、Domestika 視頻字幕下載
+- 支援 Hulu、Bloomberg、Domestika 影片字幕下載
 - DeepX 支援富文本翻譯
 - 修復自定義 AI 專家無法同步的問題
 
 ## 1.9.6 (2024-09-13)
 
 - [PDF Pro](https://app.immersivetranslate.com/pdf-pro/) 支援公式複製（在公式上右鍵即可看到複製的菜單）
-- 修復推特同一網頁多個視頻的雙語字幕顯示問題
+- 修復推特同一網頁多個影片的雙語字幕顯示問題
 - 修復一些 Bug
 
 ## 1.9.3 (2024-09-05)
@@ -67,7 +67,7 @@ sidebar_position: 6
 - 現在可以用右鍵翻譯輸入框裡的文本了：選中任何網頁上的輸入框文本，右鍵選擇翻譯，沉浸式翻譯會自動將選中的文本翻譯為輸入框的目標語言，方便快速將輸入框裡的母語翻譯為其他語言。
 - 現在可以在沉浸式翻譯的懸浮球裡快速反饋網頁的翻譯問題了，翻譯網頁後，如果有問題，可以點擊懸浮球右側的【反饋】按鈕，填寫問題描述，我們會儘快處理。
 - Epub 文件現在支持富文本翻譯了（即可以保留每個段落原文的格式，比如鏈接，粗體等）
-- 支持 Microsoft Teams 網頁版視頻會議的實時雙語字幕了（打開 Teams 會議鏈接，在沉浸式翻譯面板開啟雙語字幕後再次刷新即可）
+- 支持 Microsoft Teams 網頁版影片會議的實時雙語字幕了（打開 Teams 會議鏈接，在沉浸式翻譯面板開啟雙語字幕後再次刷新即可）
 - 優化英文版愛奇藝 (iq.com) 的雙語字幕
 - 為 arxiv 上更多的論文提供排版優化的雙語翻譯
 - 由於 Youtube 網站限制，Chrome 油猴腳本不再支持 Youtube 雙語字幕，請使用[插件版](https://immersivetranslate.com/)。
@@ -114,7 +114,7 @@ sidebar_position: 6
 ## 1.7.5
 
 - Youtube 字幕顯示允許複製
-- 優化部分視頻站點的字幕顯示
+- 優化部分影片站點的字幕顯示
 - 優化漫畫翻譯速度
 
 ## 1.7.2
@@ -138,7 +138,7 @@ sidebar_position: 6
   - [Hitomi](https://hitomi.la)
   - [Yamibo](https://www.yamibo.com)
   - [Copymanga](https://www.copymanga.site/)
-- Youtube 雙語字幕支持智能分句（Beta）（僅在【設置】-【視頻字幕】中手動啟用沉浸式翻譯翻譯Youtube字幕，且原視頻字幕為自動生成的英文字幕才生效）
+- Youtube 雙語字幕支持智能分句（Beta）（僅在【設置】-【影片字幕】中手動啟用沉浸式翻譯翻譯Youtube字幕，且原影片字幕為自動生成的英文字幕才生效）
 - 翻譯服務新增騰訊【混元大模型】(https://immersivetranslate.com/docs/services/tencent-hunyuan/)
 
 ## 1.6.5
@@ -242,7 +242,7 @@ sidebar_position: 6
 - 支持在設置->翻譯服務頁面選擇默認翻譯服務
 - 修復 OpenAI SystemPrompt 佔位符替換
 - 修復自定義用戶規則合併問題
-- 修復 Netflix 部分視頻字幕顯示異常 [#1630](https://github.com/immersive-translate/immersive-translate/issues/1630)
+- 修復 Netflix 部分影片字幕顯示異常 [#1630](https://github.com/immersive-translate/immersive-translate/issues/1630)
 - 修復頻繁通過色盤修改譯文顏色失效 [#1628](https://github.com/immersive-translate/immersive-translate/issues/1628)
 
 ## 1.4.9
