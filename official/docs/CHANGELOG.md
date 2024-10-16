@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ## 1.10.2 (2024-10-11)
 
-- 新增：图片翻译（Beta版）
+- 新增：图片翻译Beta版 (仅支持会员可用，非油猴版本)，在【设置】->【开发者】-> 【开启beta】
 - 新增：仅鼠标模式（仅当平板设备的鼠标hover功能失效时才需开启此功能）【设置】->【进阶设置】->【启用仅鼠标模式】
 - 新增：视频字幕翻译失败后，显示错误信息
 - 修复：富文本翻译问题 [#2163](https://github.com/immersive-translate/immersive-translate/issues/2163)
