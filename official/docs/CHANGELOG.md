@@ -8,7 +8,7 @@ sidebar_position: 6
 
 - 新增：当源语言和目标语言一致时显示警告提示
 - 修复：富文本空白字符翻译问题 [#2175](https://github.com/immersive-translate/immersive-translate/issues/2175)
-- 优化：网页内嵌iframe里的输入增强，鼠标悬停功能
+- 优化：网页内嵌iframe里的输入增强和鼠标悬停功能
 
 ## 1.10.2 (2024-10-11)
 

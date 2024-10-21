@@ -8,7 +8,7 @@ sidebar_position: 6
 
 - Added: Display a warning when the source language and target language are the same
 - Fixed: Rich text whitespace character translation issue [#2175](https://github.com/immersive-translate/immersive-translate/issues/2175)
-- Improved: Enhanced input within embedded iframes on webpages, mouse hover functionality
+- Improved: Input enhancement and mouse hover functionality within embedded iframes on webpages
 
 ## 1.10.2 (2024-10-11)
 
