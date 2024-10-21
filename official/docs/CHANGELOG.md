@@ -4,6 +4,12 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.10.3 (2024-10-21)
+
+- 新增：当源语言和目标语言一致时显示警告提示
+- 修复：富文本空白字符翻译问题 [#2175](https://github.com/immersive-translate/immersive-translate/issues/2175)
+- 优化：网页内嵌iframe里的输入增强，鼠标悬停功能
+
 ## 1.10.2 (2024-10-11)
 
 - 新增：图片翻译Beta版 (仅支持会员可用，非油猴版本)，在【设置】->【开发者】-> 【开启beta】
