@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # 更新日誌
 
-## 1.10.3 (2024-10-21)
+## 1.10.4 (2024-10-22)
 
 - 新增：當源語言和目標語言一致時顯示警告提示
 - 修復：富文本空白字符翻譯問題 [#2175](https://github.com/immersive-translate/immersive-translate/issues/2175)
