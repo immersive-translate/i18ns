@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.10.4 (2024-10-22)
+## 1.10.5 (2024-10-23)
 
 - Added: Display a warning when the source language and target language are the same
 - Fixed: Rich text whitespace character translation issue [#2175](https://github.com/immersive-translate/immersive-translate/issues/2175)
