@@ -10,7 +10,7 @@ sidebar_position: 6
 - Improved: Reduce installation package size
 - Improved: Netflix subtitle display solution
 
-## 1.10.5 (2024-10-21)
+## 1.10.5 (2024-10-23)
 
 - Added: Display a warning when the source language and target language are the same
 - Fixed: Rich text whitespace character translation issue [#2175](https://github.com/immersive-translate/immersive-translate/issues/2175)

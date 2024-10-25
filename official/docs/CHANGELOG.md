@@ -10,7 +10,7 @@ sidebar_position: 6
 - 优化：减小安装包大小
 - 优化：奈飞字幕显示方案调优
 
-## 1.10.5 (2024-10-21)
+## 1.10.5 (2024-10-23)
 
 - 新增：当源语言和目标语言一致时显示警告提示
 - 修复：富文本空白字符翻译问题 [#2175](https://github.com/immersive-translate/immersive-translate/issues/2175)

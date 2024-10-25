@@ -10,7 +10,7 @@ sidebar_position: 6
 - 優化：減小安裝包大小
 - 優化：Netflix字幕顯示方案調優
 
-## 1.10.5 (2024-10-21)
+## 1.10.5 (2024-10-23)
 
 - 新增：當源語言和目標語言一致時顯示警告提示
 - 修復：富文本空白字符翻譯問題 [#2175](https://github.com/immersive-translate/immersive-translate/issues/2175)
