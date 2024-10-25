@@ -2,7 +2,7 @@
 
 Immersive Translate offers an easy-to-join affiliate program where anyone can [apply here by yourself](https://immersive-translate.getrewardful.com). After applying, you will receive a unique referral link. Using this link, you can recommend Immersive Translate to your friends or your audience. If your friend upgrades to be a Pro member of Immersive Translate within 30 days, you will earn a 20% commission out of it. Additionally, anyone who purchases through your link will enjoy a 5% perpetual discount.
 
-So, for each annual membership, you will earn $19.99 (20% of $99.99), and for monthly membership, you will earn $1.99 (20% of $9.99).
+So, for each annual membership, you will earn $16.79 (20% of $83.99), and for monthly membership, you will earn $1.99 (20% of $9.99).
 
 If you have any questions, you can contact us [here](https://letterbird.co/immersivetranslate).
 

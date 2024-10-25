@@ -4,7 +4,13 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.10.3 (2024-10-21)
+## 1.10.6 (2024-10-25)
+
+- Fixed: Issue with input enhancement shortcut keys not triggering
+- Improved: Reduce installation package size
+- Improved: Netflix subtitle display solution
+
+## 1.10.5 (2024-10-21)
 
 - Added: Display a warning when the source language and target language are the same
 - Fixed: Rich text whitespace character translation issue [#2175](https://github.com/immersive-translate/immersive-translate/issues/2175)
