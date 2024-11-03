@@ -230,6 +230,24 @@ YouTube 自带机翻字幕，繁体中文会出现格式错误，导致所有字
 1. 确保已经开启 Bilibili 的内置字幕。
 2. 确保沉浸式翻译的目标语言与 Bilibili 内置字幕的语言不同，以触发翻译功能。
 
+### 4. Netflix 字幕翻译用原始字幕样式
+
+- 进入【[开发者设置](https://dash.immersivetranslate.com/#developer)】 找到 【Edit User Rules】
+  添加如下规则
+
+```json
+[
+  {
+    "id": "netflix",
+    "subtitleRule.add": {
+      "attachRule": {
+        "appendSelector": ""
+      }
+    }
+  }
+]
+```
+
 ## 文件翻译相关
 
 ### 1. 如何翻译本地文件
