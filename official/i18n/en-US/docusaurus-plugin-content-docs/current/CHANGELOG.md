@@ -4,9 +4,17 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.11.1 (2024-11-05)
+
+- Added: Real-time meeting **Subtitles Translation** now supports activation via "float ball", available on Zoom, Google Meet, and Microsoft Teams.
+- Fixed: Synchronized subtitle timing issues on YouTube after watching ads.
+- Fixed: Display issues with the right-click translation menu in Safari on MacOS 15.
+- Fixed: Problems with Ctrl+Z undo functionality in the **Enhanced input** on certain websites.
+
+
 ## 1.10.6 (2024-10-25)
 
-- Fixed: Issue with input enhancement shortcut keys not triggering
+- Fixed: Issue with **Enhanced input** shortcut keys not triggering
 - Improved: Reduce installation package size
 - Improved: Netflix subtitle display solution
 
