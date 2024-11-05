@@ -11,7 +11,6 @@ sidebar_position: 6
 - Fixed: Display issues with the right-click translation menu in Safari on MacOS 15.
 - Fixed: Problems with Ctrl+Z undo functionality in the **Enhanced input** on certain websites.
 
-
 ## 1.10.6 (2024-10-25)
 
 - Fixed: Issue with **Enhanced input** shortcut keys not triggering
