@@ -48,6 +48,12 @@ sidebar_position: 2
 
 <img src="https://s.immersivetranslate.com/static/official-static/assets/video-subtitle.png" alt="browser action" width="250" />
 
+## 在线会议翻译
+
+此为[Youtube 双语字幕](#youtube-双语字幕)的衍生功能，都是字幕翻译，适用于Zoom、Google Meet和Microsoft Teams的在线会议。开启双语字幕翻译后在使用在线会议时会自动翻译字幕。
+
+使用说明：首先需要开启在线会议提供的字幕功能，然后点击沉浸式翻译面板，选中【自动开启双语字幕】即可开启。如果您选择的设置在没有生效，一般刷新页面即可。
+
 ## Epub 电子书阅读和双语导出
 
 点击插件图标 —> 更多，选择“阅读电子书”（支持 Epub，Mobi 等常见格式）或者“制作双语 Epub 电子书”。
@@ -94,6 +100,25 @@ sidebar_position: 2
   controls
   src="https://s.immersivetranslate.com/videos/immpersive-translate-input-translation-demo-202307044.mp4"
 />
+
+## 漫画翻译(Beta)
+
+![manga translate](https://s.immersivetranslate.com/static/extension/images/popup-manga-guide.png)
+
+漫画翻译仅[Pro 会员](https://immersivetranslate.com/auth/pricing/?utm_source=officialSite&utm_medium=usageDoc&utm_campaign=usageDocManga)可用，Pro用户可在【设置】->【漫画/图片】中自定义功能。
+
+使用说明：在当前已支持的漫画网站里，网页快捷翻译悬浮球下方会出现一个漫画翻译的按钮，点击即可开启漫画翻译，当前已支持以下网站的漫画翻译：[Pixiv](https://www.pixiv.net/manga), [MANGA Plus by SHUEISHA](https://mangaplus.shueisha.co.jp), [Zebrack by SHUEISHA](https://zebrack-comic.shueisha.co.jp/), [ReadComicOnline](https://readcomiconline.li), [ReadComic](https://readcomic.me), [COMIC FUZ](https://comic-fuz.com/), [MangaDex](https://mangadex.org/), [Yamibo](https://www.yamibo.com/site/manga), [ShonenJumpPlus](https://shonenjumpplus.com), [Heros Web](https://viewer.heros-web.com/), [Comic Days](https://comic-days.com/), [Comic Top](https://comic-top.com), [ComicWalker](https://comic-walker.com/), [Web Ace](https://web-ace.jp/), [MANGABUDDY](https://mangabuddy.com/), [E-Hentai](https://e-hentai.org/), [nHentai](https://nhentai.net), [Antbyw](https://www.antbyw.com), [动漫之家](https://www.idmzj.com), [Jmanga](https://jmanga.org), [Twitter Comic](https://twicomi.com/manga*), [Wnacg](https://wnacg.com), [MangaZ](https://vw.mangaz.com), [PASH UP](https://pash-up.jp), [COLAMANGA](https://www.colamanga.com), [GANGAN ONLINE](https://www.ganganonline.com), [BATOTO](https://battwo.com), [Asura Scans](https://asuracomic.net), [All Manga](https://allmanga.to), [Manhwaclan](https://manhwaclan.com), [CoroCoro](https://www.corocoro.jp), [Yymanhua](https://yymanhua.com), [Manhwatop](https://manhwatop.com), [Palcy](https://palcy.jp/), [Comic-Trail](https://comic-trail.com/), [Mangaflame](https://mangaflame.org/), [Templetoons](https://templetoons.com/), [Batocomic](https://batocomic.net/), [Comic-action](https://comic-action.com/), [腾讯动漫](https://m.ac.qq.com/), [Mangajikan](https://www.mangajikan.com/), [komiku](https://Komiku.com/), [KL](https://klz9.com), [Mangakoinu](https://www.mangakoinu.com/), [Sololevelingmangafree](https://www.sololevelingmangafree.com/)
+
+
+[请求支持更多网站或反馈问题](https://github.com/immersive-translate/immersive-translate/issues/1809)
+
+## 图片翻译(Beta)
+
+![image translate](https://s.immersivetranslate.com/static/extension/images/image_tansalte_intro-qkKVLH.png)
+
+图片翻译仅 [Pro 会员](https://immersivetranslate.com/auth/pricing/?utm_source=officialSite&utm_medium=usageDoc&utm_campaign=usageDocImage) 可用，Pro用户可在【设置】->【漫画/图片】中自定义功能。
+
+在任何图片上点击鼠标右键并选择“翻译图片”即可进行翻译。此外，如您已设置鼠标悬停翻译段落快捷键，也可以直接使用鼠标悬停的快捷键翻译图片。为了方便使用，您也可以启用下方的鼠标悬停快捷翻译按钮，启用之后，将鼠标悬停在任何图片上，即可看到“快捷翻译”按钮，点击此按钮即可进行翻译。
 
 ## 字幕文件翻译
 

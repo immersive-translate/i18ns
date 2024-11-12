@@ -40,6 +40,12 @@ Open a random video https://youtube.com/watch?v=EWX0bbGAd0k , click the Immersiv
 
 <img src="https://s.immersivetranslate.com/assets/video_subtitle_en.jpeg" alt="video subtitle" width="250" />
 
+## Online Meeting Translation
+
+This is a derivative feature of [YouTube Bilingual Subtitles](#youtube-bilingual-subtitles), both providing subtitle translation, and is applicable to online meetings on Zoom, Google Meet, and Microsoft Teams. Once bilingual subtitle translation is enabled, subtitles will be automatically translated during online meetings.
+
+Instructions: First, enable the subtitle feature provided by the online meeting platform, then click on the immersive translation panel and select [Automatically Enable Bilingual Subtitles] to activate it. If the settings you selected do not take effect, usually refreshing the page will resolve the issue.
+
 ## Epub eBook reading and bilingual exporting
 
 Click the plugin icon -> PDF/ePub (supports Epub, Mobi and other common formats)
@@ -90,6 +96,25 @@ You can translate the text you want in any text input box, check out the video d
 controls
 src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 />
+
+## Manga Translation (Beta)
+
+![manga translate](https://s.immersivetranslate.com/static/extension/images/popup-manga-guide.png)
+
+Manga translation is available only for [Pro members](https://immersivetranslate.com/auth/pricing/?utm_source=officialSite&utm_medium=usageDoc&utm_campaign=usageDocManga). Pro users can customize this feature in [Settings] -> [Manga/Image].
+
+Instructions: On supported manga websites, a manga translation button will appear below the webpage quick translation floating ball. Click to enable manga translation. The following websites are currently supported for manga translation: [Pixiv](https://www.pixiv.net/manga), [MANGA Plus by SHUEISHA](https://mangaplus.shueisha.co.jp), [Zebrack by SHUEISHA](https://zebrack-comic.shueisha.co.jp/), [ReadComicOnline](https://readcomiconline.li), [ReadComic](https://readcomic.me), [COMIC FUZ](https://comic-fuz.com/), [MangaDex](https://mangadex.org/), [Yamibo](https://www.yamibo.com/site/manga), [ShonenJumpPlus](https://shonenjumpplus.com), [Heros Web](https://viewer.heros-web.com/), [Comic Days](https://comic-days.com/), [Comic Top](https://comic-top.com), [ComicWalker](https://comic-walker.com/), [Web Ace](https://web-ace.jp/), [MANGABUDDY](https://mangabuddy.com/), [E-Hentai](https://e-hentai.org/), [nHentai](https://nhentai.net), [Antbyw](https://www.antbyw.com), [idmzj](https://www.idmzj.com), [Jmanga](https://jmanga.org), [Twitter Comic](https://twicomi.com/manga*), [Wnacg](https://wnacg.com), [MangaZ](https://vw.mangaz.com), [PASH UP](https://pash-up.jp), [COLAMANGA](https://www.colamanga.com), [GANGAN ONLINE](https://www.ganganonline.com), [BATOTO](https://battwo.com), [Asura Scans](https://asuracomic.net), [All Manga](https://allmanga.to), [Manhwaclan](https://manhwaclan.com), [CoroCoro](https://www.corocoro.jp), [Yymanhua](https://yymanhua.com), [Manhwatop](https://manhwatop.com), [Palcy](https://palcy.jp/), [Comic-Trail](https://comic-trail.com/), [Mangaflame](https://mangaflame.org/), [Templetoons](https://templetoons.com/), [Batocomic](https://batocomic.net/), [Comic-action](https://comic-action.com/), [Tencent Comics](https://m.ac.qq.com/), [Mangajikan](https://www.mangajikan.com/), [komiku](https://Komiku.com/), [KL](https://klz9.com), [Mangakoinu](https://www.mangakoinu.com/), [Sololevelingmangafree](https://www.sololevelingmangafree.com/)
+
+
+[Request support for more websites or provide feedback](https://github.com/immersive-translate/immersive-translate/issues/1809)
+
+## Image Translation (Beta)
+
+![image translate](https://s.immersivetranslate.com/static/extension/images/image_tansalte_intro-qkKVLH.png)
+
+Image translation is available only for [Pro members](https://immersivetranslate.com/auth/pricing/?utm_source=officialSite&utm_medium=usageDoc&utm_campaign=usageDocImage). Pro users can customize this feature in [Settings] -> [Manga/Image].
+
+Right-click on any image and select "Translate Image" to perform translation. Additionally, if you have set the mouse hover paragraph translation shortcut key, you can directly use the hover shortcut key to translate images. For convenience, you can also enable the mouse hover quick translation button below. Once enabled, hovering over any image will display the "Quick Translate" button, which you can click to translate the image.
 
 ## Translation of subtitle files
 

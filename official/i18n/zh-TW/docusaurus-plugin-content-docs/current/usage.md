@@ -38,11 +38,19 @@ sidebar_position: 2
 
 <div align="center">
 <img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
-</div>## Youtube 雙語字幕
+</div>
+
+## Youtube 雙語字幕
 
 隨便打開一個影片 <https://youtube.com/watch?v=EWX0bbGAd0k> ，點擊沉浸式翻譯面板，然後選中【自動開啟雙語字幕】即可開啟。如果您選擇的設置在影片中沒有生效，一般刷新頁面即可。
 
 <img src="https://s.immersivetranslate.com/static/official-static/assets/video-subtitle.png" alt="browser action" width="250" />
+
+## 在線會議翻譯
+
+此為 [YouTube 雙語字幕](#youtube-雙語字幕)的衍生功能，都是字幕翻譯，適用於 Zoom、Google Meet 和 Microsoft Teams 的在線會議。開啟雙語字幕翻譯後，在使用在線會議時會自動翻譯字幕。
+
+使用說明：首先需要開啟在線會議提供的字幕功能，然後點擊沉浸式翻譯面板，選中【自動開啟雙語字幕】即可開啟。如果您選擇的設置未生效，通常刷新頁面即可。
 
 ## Epub 電子書閱讀和雙語導出
 
@@ -87,7 +95,27 @@ sidebar_position: 2
 <video
   controls
   src="https://s.immersivetranslate.com/videos/immpersive-translate-input-translation-demo-202307044.mp4"
-/>## 字幕檔翻譯
+/>
+
+## 漫畫翻譯 (Beta)
+
+<!-- ![manga translate](https://s.immersivetranslate.com/static/extension/images/popup-manga-guide.png) -->
+
+漫畫翻譯僅[Pro 會員](https://immersivetranslate.com/auth/pricing/?utm_source=officialSite&utm_medium=usageDoc&utm_campaign=usageDocManga)可用，Pro 用戶可在【設定】->【漫畫/圖片】中自定義功能。
+
+使用說明：在當前已支持的漫畫網站裡，網頁快捷翻譯懸浮球下方會出現一個漫畫翻譯的按鈕，點擊即可開啟漫畫翻譯，當前已支持以下網站的漫畫翻譯：[Pixiv](https://www.pixiv.net/manga), [MANGA Plus by SHUEISHA](https://mangaplus.shueisha.co.jp), [Zebrack by SHUEISHA](https://zebrack-comic.shueisha.co.jp/), [ReadComicOnline](https://readcomiconline.li), [ReadComic](https://readcomic.me), [COMIC FUZ](https://comic-fuz.com/), [MangaDex](https://mangadex.org/), [Yamibo](https://www.yamibo.com/site/manga), [ShonenJumpPlus](https://shonenjumpplus.com), [Heros Web](https://viewer.heros-web.com/), [Comic Days](https://comic-days.com/), [Comic Top](https://comic-top.com), [ComicWalker](https://comic-walker.com/), [Web Ace](https://web-ace.jp/), [MANGABUDDY](https://mangabuddy.com/), [E-Hentai](https://e-hentai.org/), [nHentai](https://nhentai.net), [Antbyw](https://www.antbyw.com), [動漫之家](https://www.idmzj.com), [Jmanga](https://jmanga.org), [Twitter Comic](https://twicomi.com/manga*), [Wnacg](https://wnacg.com), [MangaZ](https://vw.mangaz.com), [PASH UP](https://pash-up.jp), [COLAMANGA](https://www.colamanga.com), [GANGAN ONLINE](https://www.ganganonline.com), [BATOTO](https://battwo.com), [Asura Scans](https://asuracomic.net), [All Manga](https://allmanga.to), [Manhwaclan](https://manhwaclan.com), [CoroCoro](https://www.corocoro.jp), [Yymanhua](https://yymanhua.com), [Manhwatop](https://manhwatop.com), [Palcy](https://palcy.jp/), [Comic-Trail](https://comic-trail.com/), [Mangaflame](https://mangaflame.org/), [Templetoons](https://templetoons.com/), [Batocomic](https://batocomic.net/), [Comic-action](https://comic-action.com/), [騰訊動漫](https://m.ac.qq.com/), [Mangajikan](https://www.mangajikan.com/), [komiku](https://Komiku.com/), [KL](https://klz9.com), [Mangakoinu](https://www.mangakoinu.com/), [Sololevelingmangafree](https://www.sololevelingmangafree.com/)
+
+[請求支持更多網站或反饋問題](https://github.com/immersive-translate/immersive-translate/issues/1809)
+
+## 圖片翻譯 (Beta)
+
+![image translate](https://s.immersivetranslate.com/static/extension/images/image_tansalte_intro-qkKVLH.png)
+
+圖片翻譯僅 [Pro 會員](https://immersivetranslate.com/auth/pricing/?utm_source=officialSite&utm_medium=usageDoc&utm_campaign=usageDocImage) 可用，Pro 用戶可在【設定】->【漫畫/圖片】中自定義功能。
+
+在任何圖片上點擊滑鼠右鍵並選擇“翻譯圖片”即可進行翻譯。此外，如您已設置滑鼠懸停翻譯段落快捷鍵，也可以直接使用滑鼠懸停的快捷鍵翻譯圖片。為了方便使用，您也可以啟用下方的滑鼠懸停快捷翻譯按鈕，啟用之後，將滑鼠懸停在任何圖片上，即可看到“快捷翻譯”按鈕，點擊此按鈕即可進行翻譯。
+
+## 字幕檔翻譯
 
 沉浸式支援`.srt`, `.ass` 等格式的字幕檔翻譯，點擊沉浸式翻譯擴展圖標，點擊【更多】，【字幕檔翻譯】，即可進入，翻譯後可以導出雙語字幕。
 
