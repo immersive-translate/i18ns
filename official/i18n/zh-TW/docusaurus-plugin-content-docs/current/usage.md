@@ -58,7 +58,7 @@ sidebar_position: 2
 
 點擊查看[影片教程](https://www.bilibili.com/video/BV1CM41137CJ/?spm_id_from=333.999.0.0)
 
-![](https://s.immersivetranslate.com/static/official-static/assets/epub.png)
+![epub](https://s.immersivetranslate.com/static/official-static/assets/epub.png)
 
 ## PDF 文件翻譯
 
@@ -76,7 +76,7 @@ sidebar_position: 2
 
 比如在【基本設置】，拉到最下面，我們可以修改 **譯文樣式**：
 
-![](https://s.immersivetranslate.com/static/official-static/assets/config.png)
+![config](https://s.immersivetranslate.com/static/official-static/assets/config.png)
 
 ## 鼠標懸停翻譯
 

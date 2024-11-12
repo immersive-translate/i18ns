@@ -26,7 +26,7 @@ Alternatively, you can right-click in a web page and select [Translate Web Page/
 
 If you prefer shortcuts, you can also use shortcuts for translation, here is the default shortcut：
 
-```
+```txt
 Alt+A: Translate/toggle the original text, click to translate, then click again to show the original text.
 
 Alt+W: Translate the whole page instead of the default Smart Translate content area.
@@ -52,7 +52,7 @@ Click the plugin icon -> PDF/ePub (supports Epub, Mobi and other common formats)
 
 <!-- Click to view [video tutorial](https://www.bilibili.com/video/BV1CM41137CJ/?spm_id_from=333.999.0.0) -->
 
-![](https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg)
+![doc_en](https://s.immersivetranslate.com/static/official-static/assets/site/doc_en.jpg)
 
 <!-- <video
 controls style={{width:"100%", maxWidth:"500px"}}
@@ -82,7 +82,7 @@ For example, in [Interface Settings], we can modify **Translation Style**：
 
 Immersion supports automatic translation of a paragraph by hovering over it, but it is not enabled by default.You need to enable it in the panel：
 
-![](https://s.immersivetranslate.com/static/official-static/assets/site/mouse_en.jpg)
+![mouse_en](https://s.immersivetranslate.com/static/official-static/assets/site/mouse_en.jpg)
 
 Once enabled, you can press the `Shift` key while hovering over a paragraph to see the bilingual translation：
 
@@ -104,7 +104,6 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 Manga translation is available only for [Pro members](https://immersivetranslate.com/auth/pricing/?utm_source=officialSite&utm_medium=usageDoc&utm_campaign=usageDocManga). Pro users can customize this feature in [Settings] -> [Manga/Image].
 
 Instructions: On supported manga websites, a manga translation button will appear below the webpage quick translation floating ball. Click to enable manga translation. The following websites are currently supported for manga translation: [Pixiv](https://www.pixiv.net/manga), [MANGA Plus by SHUEISHA](https://mangaplus.shueisha.co.jp), [Zebrack by SHUEISHA](https://zebrack-comic.shueisha.co.jp/), [ReadComicOnline](https://readcomiconline.li), [ReadComic](https://readcomic.me), [COMIC FUZ](https://comic-fuz.com/), [MangaDex](https://mangadex.org/), [Yamibo](https://www.yamibo.com/site/manga), [ShonenJumpPlus](https://shonenjumpplus.com), [Heros Web](https://viewer.heros-web.com/), [Comic Days](https://comic-days.com/), [Comic Top](https://comic-top.com), [ComicWalker](https://comic-walker.com/), [Web Ace](https://web-ace.jp/), [MANGABUDDY](https://mangabuddy.com/), [E-Hentai](https://e-hentai.org/), [nHentai](https://nhentai.net), [Antbyw](https://www.antbyw.com), [idmzj](https://www.idmzj.com), [Jmanga](https://jmanga.org), [Twitter Comic](https://twicomi.com/manga*), [Wnacg](https://wnacg.com), [MangaZ](https://vw.mangaz.com), [PASH UP](https://pash-up.jp), [COLAMANGA](https://www.colamanga.com), [GANGAN ONLINE](https://www.ganganonline.com), [BATOTO](https://battwo.com), [Asura Scans](https://asuracomic.net), [All Manga](https://allmanga.to), [Manhwaclan](https://manhwaclan.com), [CoroCoro](https://www.corocoro.jp), [Yymanhua](https://yymanhua.com), [Manhwatop](https://manhwatop.com), [Palcy](https://palcy.jp/), [Comic-Trail](https://comic-trail.com/), [Mangaflame](https://mangaflame.org/), [Templetoons](https://templetoons.com/), [Batocomic](https://batocomic.net/), [Comic-action](https://comic-action.com/), [Tencent Comics](https://m.ac.qq.com/), [Mangajikan](https://www.mangajikan.com/), [komiku](https://Komiku.com/), [KL](https://klz9.com), [Mangakoinu](https://www.mangakoinu.com/), [Sololevelingmangafree](https://www.sololevelingmangafree.com/)
-
 
 [Request support for more websites or provide feedback](https://github.com/immersive-translate/immersive-translate/issues/1809)
 
