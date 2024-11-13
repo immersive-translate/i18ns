@@ -4,6 +4,12 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.11.2 (2024-11-13)
+
+- 修复：Facebook在仅译文模式下，点击seemore后导致内容消失的问题
+- 优化：改进Twitter多行双语对照翻译的显示效果。
+- 优化：改进面板中翻译服务下拉列表的UI。
+
 ## 1.11.1 (2024-11-05)
 
 - 新增：实时会议的【字幕翻译】新增悬浮球触发支持，适用于Zoom、Google Meet和Microsoft Teams。

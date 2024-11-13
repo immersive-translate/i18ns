@@ -4,6 +4,12 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.11.2 (2024-11-13)
+
+Fixed: Issue where content disappears after clicking "see more" in Facebook's translation-only mode.
+Improved: Enhanced display of multiline bilingual translations on Twitter.
+Improved: Updated the UI of the translation service dropdown list in the panel.
+
 ## 1.11.1 (2024-11-05)
 
 - Added: Real-time meeting **Subtitles Translation** now supports activation via "float ball", available on Zoom, Google Meet, and Microsoft Teams.
