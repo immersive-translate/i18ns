@@ -65,10 +65,13 @@ sidebar_position: 5
 
 - `pageRule`
   可以对网站进行自定义配置，决定哪些内容是否需要被翻译，或调整网页样式等。
+- `isAutoTranslate`
+  立即自动翻译
 
 ```html
 <script>
   window.immersiveTranslateConfig = {
+    isAutoTranslate: true,
     pageRule: {
       selectors: [".text"],
       excludeSelectors: ["nav", "footer"],
