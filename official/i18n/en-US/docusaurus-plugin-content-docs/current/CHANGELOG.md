@@ -4,6 +4,10 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.11.4 (2024-11-16)
+
+- Fixed: Issue with formula translation caused by the "Twitter Translation Improvement" in version 1.11.2.
+
 ## 1.11.2 (2024-11-13)
 
 Fixed: Issue where content disappears after clicking "see more" in Facebook's translation-only mode.
