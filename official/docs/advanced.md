@@ -341,7 +341,7 @@ translationLanguagePattern, 配置总是翻译的语言，以及永不翻译的�
 
 ### 自定义专业术语的翻译
 
-由于某些翻译引擎对专有名词识别不理想，我们可以自定义专业术语确保它们在翻译过程中不被转换，或者按照我们设置的内容进行翻译。如果希望不对某些专业术语进行翻译，点击 [这里](https://dash.immersivetranslate.com/#advanced) 添加对应单词即可。如果希望将某些专业术语翻译为指定的内容，可以通过以下配置实现：
+由于某些翻译引擎对专有名词识别不理想，我们可以自定义专业术语确保它们在翻译过程中不被转换，或者按照我们设置的内容进行翻译。如果希望不对某些专业术语进行翻译，点击 [这里](https://dash.immersivetranslate.com/#advanced) 添加对应单词即可。如果希望将某些专业术语翻译为指定的内容，可以通过在 [这里](https://dash.immersivetranslate.com/#developer) - Edit Full User Config 输入以下配置实现：
 
 ```json
 "generalRule": {
