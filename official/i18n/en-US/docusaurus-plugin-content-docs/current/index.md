@@ -42,7 +42,7 @@ You can keep in touch with us at：
 - [How to use](/docs/usage/)
 - [Request for translation services](/docs/services/)
 - [Advanced Custom Configuration](/docs/advanced/)
-- [Update log](/docs/CHANGELOG/)
+- [Change log](/docs/CHANGELOG/)
 - [Online document](/docs/)
 
 ## Use Cases

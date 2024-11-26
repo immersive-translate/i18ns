@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.11.6 (2024-11-22)
+## 1.11.7 (2024-11-25)
 
 - Added: Bing/Google now supports Khmer (Cambodian).
 - Added: Allow incomplete ePub files to continue translating from where they left off upon re-import.
