@@ -528,7 +528,7 @@
     "message": "视频双语字幕"
   },
   "page.index.usageCase.video.desc": {
-    "message": "支持60+视频站，自动双语字幕"
+    "message": "支持100+视频站，自动双语字幕"
   },
   "page.index.usageCase.twitter.desc": {
     "message": "使用“沉浸式翻译”，轻松浏览信息"
@@ -746,7 +746,7 @@
     "message": "在线视频双语字幕翻译功能介绍-沉浸式翻译"
   },
   "page.features.videoSubtitle.content.description": {
-    "message": "免费的在线视频双语字幕翻译服务，支持60+主流视频网站（ Youtube , NetFlix , Twitter Spaces , HBO Max , Vimeo , Khan Academy , Coursera , Udemy , Bloomberg , Nebula , Bilibili , TED等数十家主流视频站点，还在持续增加中）。支持100+语言的字幕对照翻译并根据视频进程实时展示，比如你可以中英文字幕对照的观看Youtube和NetFlix的视频，即时字幕自动生成实时翻译，双语对照字幕带你跨越语言障碍，与全球各种语言的思想碰撞。"
+    "message": "免费的在线视频双语字幕翻译服务，支持100+主流视频网站（ Youtube , NetFlix , Twitter Spaces , HBO Max , Vimeo , Khan Academy , Coursera , Udemy , Bloomberg , Nebula , Bilibili , TED等数十家主流视频站点，还在持续增加中）。支持100+语言的字幕对照翻译并根据视频进程实时展示，比如你可以中英文字幕对照的观看Youtube和NetFlix的视频，即时字幕自动生成实时翻译，双语对照字幕带你跨越语言障碍，与全球各种语言的思想碰撞。"
   },
   "page.features.videoSubtitle.content.supportSite": {
     "message": "已支持站点"

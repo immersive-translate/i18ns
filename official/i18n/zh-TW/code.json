@@ -468,10 +468,10 @@
     "message": "PDF論文閱讀"
   },
   "page.index.usageCase.video": {
-    "message": "視訊雙語字幕"
+    "message": "影片雙語字幕"
   },
   "page.index.usageCase.video.desc": {
-    "message": "支援60+視訊站，自動雙語字幕"
+    "message": "支援100+影片站，自動雙語字幕"
   },
   "page.index.usageCase.twitter.desc": {
     "message": "使用“沉浸式翻譯”，輕鬆瀏覽訊息"
@@ -683,13 +683,13 @@
     "message": "沉浸式翻譯擴展提供免費的视讯双语字幕(影音雙語字幕)譯服務，支持主流影片網站（ Youtube , NetFlix , Twitter Spaces , HBO Max , Vimeo , Khan Academy , Coursera , Udemy , Bloomberg , Nebula , Bilibili , TED , FrontendMasters , CodeWithChris , edX , Skillshare , BBC , Disney+ , ARD Mediathek , ITV , Domestika , ArtStation , ZDF , MasterClass , Mindvalley , iview , nmaArt , CreativeCloudAdobe , Developer Apple , egghead.io等）"
   },
   "page.features.videoSubtitle.page.description": {
-    "message": "視訊雙語翻譯,youtub翻譯,視訊雙語字幕,視訊翻譯擴展"
+    "message": "影片雙語翻譯,youtub翻譯,影片雙語字幕,影片翻譯擴展"
   },
   "page.features.videoSubtitle.content.title": {
-    "message": "視訊雙語字幕翻譯-沉浸式翻譯"
+    "message": "影片雙語字幕翻譯-沉浸式翻譯"
   },
   "page.features.videoSubtitle.content.description": {
-    "message": "免費的線上影片雙語字幕翻譯服務，支援60+主流影片網站（ Youtube , NetFlix , Twitter Spaces , HBO Max , Vimeo , Khan Academy , Coursera , Udemy , Bloomberg , Nebula , Bilibili , TED等數十家主流影片站點， 還在持續增加中）。 支援100+語言的字幕對照翻譯並根據影片進程實時展示，比如你可以中英文字幕對照的觀看Youtube和NetFlix的影片，即時字幕自動生成實時翻譯，雙語對照字幕帶你跨越語言障礙，與全球各種 語言的思想碰撞。"
+    "message": "免費的線上影片雙語字幕翻譯服務，支援100+主流影片網站（ Youtube , NetFlix , Twitter Spaces , HBO Max , Vimeo , Khan Academy , Coursera , Udemy , Bloomberg , Nebula , Bilibili , TED等數十家主流影片站點， 還在持續增加中）。 支援100+語言的字幕對照翻譯並根據影片進程實時展示，比如你可以中英文字幕對照的觀看Youtube和NetFlix的影片，即時字幕自動生成實時翻譯，雙語對照字幕帶你跨越語言障礙，與全球各種 語言的思想碰撞。"
   },
   "page.features.videoSubtitle.content.supportSite": {
     "message": "已支援站點"
@@ -701,13 +701,13 @@
     "message": "快速便捷"
   },
   "page.features.videoSubtitle.content.introduction1.desc": {
-    "message": "幾乎可以即時取得視訊字幕的翻譯，幫助你快速理解外語影片的內容。"
+    "message": "幾乎可以即時取得影片字幕的翻譯，幫助你快速理解外語影片的內容。"
   },
   "page.features.videoSubtitle.content.introduction2.title": {
     "message": "多語言支援"
   },
   "page.features.videoSubtitle.content.introduction2.desc": {
-    "message": "不再局限於視訊站提供單一字幕語言，支援多種語言對的翻譯。"
+    "message": "不再局限於影片站提供單一字幕語言，支援多種語言對的翻譯。"
   },
   "page.features.videoSubtitle.content.introduction3.title": {
     "message": "簡單易用"
@@ -719,7 +719,7 @@
     "message": "跨平台相容"
   },
   "page.features.videoSubtitle.content.introduction4.desc": {
-    "message": "除部分視訊站不支援行動字幕外，擴展支援多端使用（如手機、平板電腦、電腦等）。"
+    "message": "除部分影片站不支援行動字幕外，擴展支援多端使用（如手機、平板電腦、電腦等）。"
   },
   "page.features.usage": {
     "message": "使用場景"
