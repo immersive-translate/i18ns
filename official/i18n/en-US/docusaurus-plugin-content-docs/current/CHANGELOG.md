@@ -12,7 +12,7 @@ sidebar_position: 6
 - Fixed: Shortcut keys becoming ineffective when toggling the "**Hover Translation**" feature on or off.
 - Improved: Enhanced display of multiline bilingual translation on Twitter and Youtube.
 - Improved: Rich text translation is turned off by default in bilingual mode to improve translation quality.
-- Improved: Added the option to customize the "**Enable Sidebar & Navbar Translation**" in "**Advanced Settings**".
+- ~~Improved: Added the option to customize the "**Enable Sidebar & Navbar Translation**" in "**Advanced Settings**".~~
 - Improved: Images are no longer translated in "**Hover - immediately translate this paragraph**" mode.
 
 ## 1.11.4 (2024-11-16)
