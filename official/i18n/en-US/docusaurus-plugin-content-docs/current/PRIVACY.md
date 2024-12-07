@@ -1,3 +1,4 @@
+![IMG_20241012_093431](https://github.com/user-attachments/assets/3e750ae4-b6e5-41ec-b251-17be8405172f)
 ---
 sidebar_position: 12
 ---
