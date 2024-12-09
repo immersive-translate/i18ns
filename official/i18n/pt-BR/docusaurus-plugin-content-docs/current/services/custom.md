@@ -146,7 +146,7 @@ ny: Nyanja (Chichewa)
 otq: Otomi de Querétaro
 pa: Punjabi
 pl: Polonês
-ps: Pashto
+ps: Afghan/Pashto
 pt: Português (Portugal, Brasil)
 ro: Romeno
 ru: Russo

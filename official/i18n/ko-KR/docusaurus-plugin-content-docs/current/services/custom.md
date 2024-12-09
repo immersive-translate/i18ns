@@ -137,7 +137,7 @@ ny: 치체와어, Nyanz(Chichewa)
 otq: 케레타로 오토미어, Querétaro Otomi
 pa: 펀자브어, Punjabi
 pl: 폴란드어, Polish
-ps: 파슈토어, Pashto
+ps: 파슈토어, Afghan/Pashto
 pt: 포르투갈어(Portugal,Brazil)
 ro: 루마니아어, Romanian
 ru: 러시아어, Russian

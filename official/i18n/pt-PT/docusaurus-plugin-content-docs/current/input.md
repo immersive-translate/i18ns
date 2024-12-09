@@ -167,7 +167,7 @@ Todos os códigos de idioma são os seguintes:
 - Otomi, otq, Otomi de Querétaro
 - Punjabi, pa, Punjabi
 - Polonês, pl, Polonês
-- Pashto, ps, Pashto
+- Afghan/Pashto, ps, Afghan/Pashto
 - Português, pt, Português (Portugal, Brasil)
 - Romeno, ro, Romeno
 - Russo, ru, Russo

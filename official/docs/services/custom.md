@@ -138,7 +138,7 @@ ny: 奇切瓦语, Nyanz(Chichewa)
 otq: 奥托米语, Querétaro Otomi
 pa: 旁遮普语, Punjabi
 pl: 波兰语, Polish
-ps: 普什图语, Pashto
+ps: 阿富汗/普什图语, Afghan/Pashto
 pt: 葡萄牙语, Portuguese(Portugal,Brazil)
 ro: 罗马尼亚语, Romanian
 ru: 俄罗斯语, Russian

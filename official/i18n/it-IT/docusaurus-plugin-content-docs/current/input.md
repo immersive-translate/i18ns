@@ -160,7 +160,7 @@ Tutti i codici lingua sono i seguenti:
 - Otomi, otq, Otomi di Querétaro
 - Punjabi, pa, Punjabi
 - Polacco, pl, Polacco
-- Pashto, ps, Pashto
+- Afghan/Pashto, ps, Afghan/Pashto
 - Portoghese, pt, Portoghese (Portogallo, Brasile)
 - Rumeno, ro, Rumeno
 - Russo, ru, Russo

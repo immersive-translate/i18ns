@@ -164,7 +164,7 @@ All language codes are as follows：
 - Otomi, otq, Querétaro Otomi
 - Punjabi, pa, Punjabi
 - Polish, pl, Polish
-- Pashto, ps, Pashto
+- Afghan/Pashto, ps, Afghan/Pashto
 - Portuguese, pt, Portuguese (Portugal, Brazil)
 - Romanian, ro, Romanian
 - Russian, ru, Russian

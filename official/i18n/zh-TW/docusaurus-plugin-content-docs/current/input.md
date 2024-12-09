@@ -157,7 +157,7 @@ sidebar_position: 3
 - 奧托米語, otq, Querétaro Otomi
 - 旁遮普語, pa, Punjabi
 - 波蘭語, pl, Polish
-- 普什圖語, ps, Pashto
+- 阿富汗/普什圖語, ps, Afghan/Pashto
 - 葡萄牙語, pt, Portuguese (Portugal, Brazil)
 - 羅馬尼亞語, ro, Romanian
 - 俄羅斯語, ru, Russian

@@ -138,7 +138,7 @@ ny: Чичева (Чичева), Nyanz(Chichewa)
 otq: Отоми Керетаро, Querétaro Otomi
 pa: Пенджабский, Punjabi
 pl: Польский, Polish
-ps: Пушту, Pashto
+ps: Пушту, Afghan/Pashto
 pt: Португальский (Португалия, Бразилия), Portuguese(Portugal,Brazil)
 ro: Румынский, Romanian
 ru: Русский, Russian

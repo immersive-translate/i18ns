@@ -165,7 +165,7 @@ Please note, some technical terms and commands like `/en`, `/zh`, etc., are kept
 - Otomi, otq, क्वेरेटारो ओटोमी
 - Punjabi, pa, पंजाबी
 - Polish, pl, पोलिश
-- Pashto, ps, पश्तो
+- Afghan/Pashto, ps, पश्तो
 - Portuguese, pt, पुर्तगाली (पुर्तगाल, ब्राज़ील)
 - Romanian, ro, रोमानियाई
 - Russian, ru, रूसी

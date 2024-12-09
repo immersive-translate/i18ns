@@ -140,7 +140,7 @@ ny: Nyanz(Chichewa)
 otq: Querétaro Otomi
 pa: Punjabi
 pl: Polish
-ps: Pashto
+ps: Afghan/Pashto
 pt: Portuguese(Portugal,Brazil)
 ro: Romanian
 ru: Russian
