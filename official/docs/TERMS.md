@@ -2,141 +2,126 @@
 sidebar_position: 13
 ---
 
-# Terms and Conditions
+# 沉浸式翻译用户服务条款
 
-Last updated: August 05, 2024
+最后更新：2024年8月5日
 
-Please read these terms and conditions carefully before using Our Service.
+在使用我们的服务之前，请仔细阅读《沉浸式翻译用户服务条款》。
 
-## Interpretation and Definitions
+## 解释和定义
 
-### Interpretation
+### 解释
 
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+就本条款而言：
 
-### Definitions
+- **关联公司**指控制一方、被一方控制或与一方共同受控制的实体，其中“控制”指拥有50％或更多的股份、股权利益或其他有权选举董事或其他管理机构的证券。
 
-For the purposes of these Terms and Conditions:
+- **国家/地区**指：中国
+- **公司**（在本条款中称为“公司”、“我们”、“我们”或“我们的”）指沉浸式翻译。
 
-- **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+- **设备**指可以访问服务的任何设备，如计算机、手机或数字平板。
 
-- **Country** refers to: China
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Immersive Translate.
+- **服务**指沉浸式翻译提供的翻译服务。
 
-- **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+- **沉浸式翻译用户服务条款**（也称为“本条款”）指构成您和公司之间关于使用服务的完整条款。本条款是在[TermsFeed Terms and Conditions Generator](https://www.termsfeed.com/terms-conditions-generator/)的帮助下创建的。
+- **第三方社交媒体服务**指由第三方提供的任何服务或内容（包括数据、信息、产品或服务），该服务或内容可能通过服务显示、包含或提供。
+- **网站**指从[https://immersivetranslate.com](https://immersivetranslate.com)访问的沉浸式翻译。
+- **您**指访问或使用服务的个人，或代表该个人访问或使用服务的公司或其他法律实体，视情况而定。
 
-- **Service** refers to the Website.
+## 用户须知
 
-- **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the [TermsFeed Terms and Conditions Generator](https://www.termsfeed.com/terms-conditions-generator/).
-- **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
-- **Website** refers to Immersive Translate, accessible from [https://immersivetranslate.com](https://immersivetranslate.com)
-- **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+本条款明确了使用此服务的使用规范。这些条款明确了所有用户在使用服务时的权利和责任。
 
-## Acknowledgment
+您对服务的访问和使用取决于您接受并遵守这些条款。这些条款适用于所有访问或使用服务的访客、用户和其他人。
 
-These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
+通过访问或使用服务，您同意受这些条款的约束。如果您不同意这些条款的任何部分，则您可以选择不使用服务。
 
-Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
+您对服务的访问和使用还取决于您接受并遵守公司的隐私政策。我们的隐私政策描述了我们在您使用应用程序或网站时如何收集、使用和披露您的个人信息的政策和程序，并告诉您您的隐私权利以及法律如何保护您。在使用我们的服务之前，请仔细阅读我们的[隐私政策](https://immersivetranslate.com/docs/PRIVACY/)。
 
-By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
+## Pro会员
 
-You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.
+(a) 沉浸式翻译提供Pro会员资格，授予会员访问高级功能和服务的权限。
 
-Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
+(b) Pro会员的费用、福利和持续时间将在我们的网站或平台上明确列出。
 
-## Pro Membership
+(c) 一旦购买，Pro会员资格不可转让，且不能与他人共享。
 
-(a) Immersive Translate offers a Pro Membership which grants members access to premium features and services.
+## 退款
 
-(b) The cost, benefits, and duration of the Pro Membership will be clearly outlined on our website or platform.
+我们已实施针对订阅类型和您的帐户状态的明确退款政策。
 
-(c) Once purchased, the Pro Membership is non-transferable and cannot be shared with others.
+**月度订阅**：在初始购买后24小时内可以申请退款。申请时，请提供您退款请求的原因。
 
-## Refunds
+**年度订阅**：可以在初始购买后72小时内提出退款请求。在您的申请中须包含退款请求的原因。请注意，超出此时间框架提交的请求将不予退款。
 
-We have implemented distinct refund policies tailored to the type of subscription and the status of your account.
+在这两种订阅类型中，只有在用户未大量使用我们的翻译服务时，才可能全额退款。这意味着，如果您已使用了为您的订阅期分配的大部分翻译额度，则您可能无法获得全额退款。我们将根据具体情况评估使用情况，以确保公平并防止滥用我们的服务。
 
-**Monthly Subscriptions:** Eligible for a refund request within 24 hours following the initial purchase. When applying, please provide the reason for your refund request.
+虽然我们严格执行我们的政策，但在某些特殊情况下，我们可能无法处理您的退款。我们的目标是确保我们的退款政策对所有用户都是公平的。
 
-**Annual Subscriptions:** Refund requests can be made within 72 hours of the initial purchase. It's necessary to include the reason for your refund request in your application. Please note, no refunds will be issued for requests submitted beyond this timeframe.
+如果您满足退款条件，我们将在7-10个工作日内处理并通知您。如果您之前已经获得了我们的退款，我们保留拒绝额外退款请求的权利。这是为了防止我们的退款系统被滥用，以促进客户之间的公平使用。
 
-In both subscription types, refunds are only possible if the user has not extensively used our translation services. This means that if a significant portion of the translation word count allocated for your subscription period has been used, you may not be eligible for a refund. We assess usage on a case-by-case basis to ensure fairness and to prevent abuse of our services.
+**退款流程**：如果您满足退款条件，请通过<support@immersivetranslate.com>与我们联系。我们的客户服务团队将审查您的请求并指导您完成退款流程。
 
-While we strictly enforce our policies, there may be instances where we are unable to process your refund due to discrepancies in your account. Our goal is to ensure our refund policy is equitable for all users.
+## 链接到其他网站
 
-Should you qualify for a refund, we aim to process it and notify you within 7-10 business days. However, it's important to understand that if you have previously been granted a refund for our services, we reserve the right to refuse additional refund requests. This exclusion is in place to prevent misuse of our refund system and to promote fair usage among our customers.
+我们的服务可能包含链接到第三方网站或服务，这些网站或服务不受公司拥有或控制。
 
-**Refund Process:** If you believe you are eligible for a refund, please contact us at support@immersivetranslate.com. Our customer service team will review your request and guide you through the refund process.
+公司对任何第三方网站或服务的内容、隐私政策或做法没有控制权，也不承担任何责任。您进一步确认并同意，对于您在任何此类网站或服务上使用或依赖的内容、商品或服务所造成或声称造成的任何损害或损失，公司不承担任何直接或间接责任。
 
-## Links to Other Websites
+我们强烈建议您阅读您访问的任何第三方网站或服务的条款以及隐私政策。
 
-Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.
+## 终止
 
-The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
+我们可以立即终止或暂停您的访问权限，无需事先通知或承担责任，无论出于何种原因，包括但不限于您违反这些条款。
 
-We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
+终止后，您使用服务的权利将立即终止。
 
-## Termination
+## 责任限制
 
-We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
+尽管您可能会遭受损害，公司及其任何供应商在本条款项下的全部责任以及您对上述所有事项的唯一补救措施应限于您通过服务实际支付的金额或600元人民币（如果您未通过服务购买任何东西）。
 
-Upon termination, Your right to use the Service will cease immediately.
+在适用法律允许的最大范围内，无论出于何种原因，无论是由于使用或无法使用服务、第三方软件和/或第三方硬件与服务一起使用，或者与本条款的任何其他相关，公司或其供应商均不对任何特殊、偶然、间接或结果性损害承担责任（包括但不限于利润损失、数据或其他信息的损失、业务中断、人身伤害、隐私权的丧失），即使公司或任何供应商已被告知此类损害的可能性，即使补救措施未能实现其根本目的。
 
-## Limitation of Liability
+请注意，某些地区不允许排除隐含保证或限制偶然或间接损害的责任，因此上述部分限制可能不适用于您。在这些地区，我们双方的责任将限制至法律允许的最大程度。
 
-Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.
+## “按现状”和“按可用”免责声明
 
-To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
+服务是按“现状”和“可用”基础提供给您的，这意味着服务可能会有各种缺陷和故障，我们不提供任何形式的保证。在适用法律允许的最大范围内，公司本身以及代表其关联公司及其各自的许可方和服务提供者，明确放弃对服务的所有明示、暗示、法定或其他形式的保证，包括所有暗示的适销性、特定用途适用性、所有权和不侵权的保证，以及可能因交易、履行过程或行业惯例而产生的保证。在不限制上述内容的前提下，公司不提供任何保证或承诺，并且不对服务能否满足您的要求、达到任何预期结果、与任何其他软件、应用、系统或服务兼容或协同工作、无中断运行、符合任何性能或可靠性标准或无错误，或任何错误或缺陷能或将被纠正，作出任何陈述。
 
-Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
+在不限制上述内容的前提下，公司或任何公司的提供商均不作任何种类的明示或暗示的陈述或保证：(i) 关于服务的运营或可用性，或其上的信息、内容和材料或产品；(ii) 服务将不受中断或无错误；(iii) 关于通过服务提供的任何信息或内容的准确性、可靠性或时效性； (iv) 服务、其服务器、内容或代表公司发送的电子邮件不含病毒、脚本、特洛伊木马、蠕虫、恶意软件、定时炸弹或其他有害组件。
 
-## "AS IS" and "AS AVAILABLE" Disclaimer
+某些司法管辖区不允许排除某些类型的保证或限制消费者的适用法定权利，因此上述部分或全部排除和限制可能不适用于您。但在这种情况下，本节中设置的排除和限制应在适用法律允许的最大范围内实施。
 
-The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
+## 适用法律
 
-Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
+您使用本服务的行为应遵循您所在国家/地区的法律，不考虑法律冲突规则。此外，您对应用程序的使用可能还需遵守其他地方性、区域性、国家性或国际性的法律。
 
-Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
+## 争议解决
 
-## Governing Law
+如果您对服务有任何疑虑或争议，您同意首先通过联系公司非正式解决争议。
 
-The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
+## 可分割性和放弃
 
-# Disputes Resolution
+### 可分割性
 
-If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.
+如果这些条款的任何规定被认为是不可执行的或无效的，则该条款将在适用法律允许的最大范围内被更改并解释，以尽可能实现该条款的目标，其余条款将继续完全有效。
 
-## For European Union (EU) Users
+### 放弃
 
-If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.
+除非另有明确说明，一方未行使任何权利或要求履行义务，并不影响其在未来任何时间行使该权利或要求履行的权利。同样，不因一次违约而放弃权利，也不应视为放弃任何后续违约。
 
-## United States Legal Compliance
+## 翻译解释
 
-You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
+如果我们已将这些条款翻译并提供给您使用我们的服务，则您同意在发生争议的情况下，原始英文文本应当占据优势。
 
-# Severability and Waiver
+## 更改这些条款
 
-### Severability
+我们保留随时修改或替换这些条款的权利，且由我们自行决定。如果修订内容重大，我们将尽合理努力至少提前30天通知任何新条款生效。什么属于构成重大变更将由我们自行决定。
 
-If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
+在这些修订生效后，如果您继续访问或使用我们的服务，即表示您同意受经修订的条款约束。如果您不同意新的条款，无论是全部还是部分，请停止使用网站和服务。
 
-### Waiver
+## 联系我们
 
-Except as provided herein, the failure to exercise a right or to require performance of an obligation under these Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall the waiver of a breach constitute a waiver of any subsequent breach.
+如果您对这些条款有任何疑问，您可以通过以下方式联系我们：
 
-## Translation Interpretation
-
-These Terms and Conditions may have been translated if We have made them available to You on our Service.
-You agree that the original English text shall prevail in the case of a dispute.
-
-## Changes to These Terms and Conditions
-
-We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
-
-By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
-
-## Contact Us
-
-If you have any questions about these Terms and Conditions, You can contact us:
-
-- By email: support@immersivetranslate.com
+- 通过电子邮件：<support@immersivetranslate.com>
