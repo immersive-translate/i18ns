@@ -10,7 +10,6 @@
   "endAuto": "تمدید خودکار",
   "lineBreakMaxTextCount": "حداکثر تعداد کاراکترهای مجاز در هر جمله پس از شکست خط",
   "translate-pdf": "برای ترجمه PDF کلیک کنید",
-}
   "noSupportTranslate-pdf": "اسکریپت پشتیبانی نمی شود، لطفا از افزونه استفاده کنید",
   "translate-firefox-local-pdf": "برای بارگیری PDF کلیک کنید",
   "enableLineBreak": "فعال کردن شکست خط خودکار بند بلند",
@@ -254,7 +253,7 @@
   "languages.auto": "به طور خودکار",
   "syncToCloud": "همگام‌سازی با فضای ابری",
   "syncToCloudDescription": "پس از فعال‌سازی، می‌توانید تنظیمات را بین مرورگرها/اسکریپت‌های مختلف همگام‌سازی کنید، بر اساس آخرین زمان تغییر",
-  "syncToAccount": "همگام سازی با Immersive Translation Cloud"
+  "syncToAccount": "همگام سازی با Immersive Translation Cloud",
   "syncToAccountButton": "فوراً با ابر همگام سازی کنید",
   "syncToAccountDescription": "به طور خودکار پیکربندی ها را بین دستگاه های مختلف بر اساس آخرین زمان تغییر همگام سازی کنید.",
   "successSyncConfigInAccount": "با موفقیت با ابر همگام بمانید",
