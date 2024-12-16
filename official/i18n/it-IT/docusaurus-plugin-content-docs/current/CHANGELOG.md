@@ -4,6 +4,105 @@ sidebar_position: 6
 
 # Registro delle modifiche
 
+## 1.12.3 (2024-12-13)
+
+
+- Aggiunto: **Traduzione Contestuale AI** può migliorare l'accuratezza della traduzione di contenuti professionali. (Disponibile solo per membri Pro) **Opzioni** -> **Generale** -> **Abilita Traduzione Contestuale AI**
+- Corretto: Alcuni bug nell'effetto di traduzione multilinea su Twitter.
+- Corretto: Problemi con la traduzione di alcune formule a causa del testo ricco
+- Migliorato: Durante la traduzione su **x.com**, i video con sottotitoli avranno automaticamente i sottotitoli bilingue tradotti.
+- Migliorato: I video senza sottotitoli mostreranno un'icona di traduzione e forniranno un motivo per cui la traduzione non è possibile.
+
+## 1.11.7 (2024-11-25)
+
+- Aggiunto: Bing/Google ora supporta il Khmer (Cambogiano).
+- Aggiunto: Permette ai file ePub incompleti di continuare la traduzione da dove si erano interrotti al reimporto.
+- Corretto: Problema con la traduzione delle immagini di Twitter nel browser Safari.
+- Corretto: Tasti di scelta rapida che diventano inefficaci quando si attiva o disattiva la funzione "**Traduzione al passaggio del mouse**".
+- Migliorato: Visualizzazione migliorata della traduzione bilingue multilinea su Twitter e Youtube.
+- Migliorato: La traduzione del testo ricco è disattivata per impostazione predefinita in modalità bilingue per migliorare la qualità della traduzione.
+- ~~Migliorato: Aggiunta l'opzione per personalizzare "**Abilita Traduzione Barra Laterale & Navigazione**" nelle "**Impostazioni Avanzate**".~~
+- Migliorato: Le immagini non vengono più tradotte in modalità "**Passaggio del mouse - traduci immediatamente questo paragrafo**".
+
+## 1.11.4 (2024-11-16)
+
+- Corretto: Problema con la traduzione delle formule causato dal "Miglioramento della traduzione di Twitter" nella versione 1.11.2.
+
+## 1.11.2 (2024-11-13)
+
+- Corretto: Problema in cui il contenuto scompare dopo aver cliccato su "vedi altro" nella modalità solo traduzione di Facebook.
+- ~~Migliorato: Visualizzazione migliorata delle traduzioni bilingue multilinea su Twitter.~~
+- Migliorato: Aggiornata l'interfaccia utente dell'elenco a discesa del servizio di traduzione nel pannello.
+
+## 1.11.1 (2024-11-05)
+
+- Aggiunto: La **Traduzione dei Sottotitoli** delle riunioni in tempo reale ora supporta l'attivazione tramite "palla fluttuante", disponibile su Zoom, Google Meet e Microsoft Teams.
+- Corretto: Problemi di sincronizzazione dei sottotitoli su YouTube dopo la visualizzazione degli annunci.
+- Corretto: Problemi di visualizzazione con il menu di traduzione del tasto destro in Safari su MacOS 15.
+- Corretto: Problemi con la funzionalità Ctrl+Z per annullare nell'**Input Migliorato** su alcuni siti web.
+
+## 1.10.6 (2024-10-25)
+
+- Corretto: Problema con i tasti di scelta rapida dell'**Input Migliorato** che non si attivavano
+- Migliorato: Riduzione della dimensione del pacchetto di installazione
+- Migliorato: Soluzione per la visualizzazione dei sottotitoli Netflix
+
+## 1.10.5 (2024-10-23)
+
+- Aggiunto: Visualizzazione di un avviso quando la lingua di origine e la lingua di destinazione sono le stesse
+- Corretto: Problema di traduzione dei caratteri spazio nel testo ricco [#2175](https://github.com/immersive-translate/immersive-translate/issues/2175)
+- Migliorato: Miglioramento dell'input e funzionalità del passaggio del mouse all'interno degli iframe incorporati nelle pagine web
+
+## 1.10.2 (2024-10-11)
+
+- Aggiunto: Traduzione delle immagini (versione Beta)
+- Aggiunto: Modalità Forza Abilitazione Supporto Mouse (Abilita questa funzione solo se la funzione di passaggio del mouse non è disponibile sui dispositivi tablet) **Impostazioni** -> **Impostazioni Avanzate** -> **Forza Abilitazione Supporto Mouse**
+- Aggiunto: Visualizzazione del messaggio di errore quando la traduzione dei sottotitoli video fallisce
+- Corretto: Problema di traduzione del testo ricco [#2163](https://github.com/immersive-translate/immersive-translate/issues/2163)
+- Migliorato: Risolti i problemi in cui il pulsante di traduzione potrebbe non funzionare durante la traduzione PDF
+- Migliorato: Migliorato il rendering delle formule tradotte
+- Migliorato: Lista di selezione della lingua
+
+## 1.9.8 (2024-09-28)
+
+- Aggiunto: Servizio di traduzione "Zhipu BigModel"
+- Rimosso: Modello "SiliconCloud" qwen1.5-7B-chat (a causa della discontinuazione ufficiale)
+- Corretto: Risolto il problema di compatibilità del login con il plugin Safari su macOS 15
+
+## 1.9.7 (2024-09-20)
+
+
+- Supporto input migliorato per Baidu, Gmail e altri campi di input
+- Supporto per l'header della richiesta anthropic-dangerous-direct-browser-access per l'API Claude Anthropic
+- Supporto per il download dei sottotitoli dai video di Hulu, Bloomberg e Domestika
+- DeepX supporta la traduzione del testo ricco
+- Risolto il problema della mancata sincronizzazione degli esperti AI personalizzati
+
+## 1.9.6 (2024-09-13)
+
+- [PDF Pro](https://app.immersivetranslate.com/pdf-pro/) supporta la copia delle formule (fare clic con il tasto destro sulla formula per vedere il menu di copia)
+- Risolto il problema della visualizzazione dei sottotitoli bilingue per più video sulla stessa pagina Twitter
+- Risolti alcuni bug
+
+## 1.9.3 (2024-09-05)
+
+- L'opzione per la visualizzazione confronto bilingue/solo traduzione è stata spostata nelle impostazioni generali.
+- Per impostazione predefinita, il sistema ricorderà la modalità attivata cliccando sull'icona nel pannello per il confronto bilingue o la visualizzazione solo traduzione. Per cambiare temporaneamente, cliccare su "Altro" -> "Passa alla visualizzazione solo traduzione" nel pannello.
+- Per impostazione predefinita, la traduzione dal cinese semplificato al tradizionale e viceversa utilizzerà la modalità solo traduzione, anziché la modalità confronto bilingue.
+- Risolti alcuni bug.
+
+## 1.9.1 (2024-09-03)
+
+- Supporto per la configurazione delle eccezioni per lingue e siti web in modalità contrasto bilingue o solo traduzione (configurare nella pagina Impostazioni -> Impostazioni Avanzate). Per esempio: Se la tua modalità di traduzione predefinita è il contrasto bilingue, ma non desideri che il cinese tradizionale utilizzi anche il contrasto bilingue, puoi aggiungere il cinese tradizionale alle lingue di eccezione per il contrasto bilingue, così il cinese tradizionale utilizzerà la modalità solo traduzione per la traduzione. Allo stesso modo, se la tua modalità di traduzione predefinita è solo traduzione, ma desideri che una certa lingua o sito web utilizzi la modalità contrasto bilingue, puoi anche aggiungere quella lingua o sito web alle lingue di eccezione.
+- Risolto un problema in cui la casella di input nell'interfaccia dei messaggi privati di Tiktok veniva tradotta in modo errato
+- Risolto un problema in cui i fumetti su Read Comic Online non potevano essere tradotti
+- Risolto un problema in cui le 【Impostazioni Avanzate -> Numero minimo di caratteri richiesti per tradurre un paragrafo】 non avevano effetto in alcuni casi
+
+## 1.8.4 (2024-08-30)
+
+- Il servizio di traduzione DeepL ora supporta ufficialmente il cinese tradizionale come lingua di destinazione (in precedenza, la traduzione in cinese tradizionale con DeepL comportava un ulteriore processo di conversione da cinese semplificato a tradizionale di terze parti).
+- Ottimizzate le prestazioni di traduzione del testo ricco.
+
 ## 0.12.8
 
 - Riparazione dei sottotitoli originali del video non visualizzati quando "Il sito corrente è impostato per non tradurre mai".

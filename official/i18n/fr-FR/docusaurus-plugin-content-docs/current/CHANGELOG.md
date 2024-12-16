@@ -4,6 +4,97 @@ sidebar_position: 6
 
 # Journal des modifications
 
+## 1.12.3 (2024-12-13)
+
+- Ajouté : La **Traduction Contextuelle IA** peut améliorer la précision de la traduction du contenu professionnel. (Disponible uniquement pour les membres Pro) **Options** -> **Général** -> **Activer la Traduction Contextuelle IA**
+- Corrigé : Certains bugs dans l'effet de traduction multiligne sur Twitter.
+- Corrigé : Problèmes avec la traduction de certaines formules en raison du texte formaté
+- Amélioré : Lors de la traduction sur **x.com**, les vidéos avec sous-titres auront automatiquement des sous-titres bilingues traduits.
+- Amélioré : Les vidéos sans sous-titres afficheront une icône de traduction et fourniront une raison pour laquelle la traduction n'est pas possible.
+
+## 1.11.7 (2024-11-25)
+
+- Ajouté : Bing/Google prend maintenant en charge le khmer (cambodgien).
+- Ajouté : Permet aux fichiers ePub incomplets de continuer la traduction là où ils se sont arrêtés lors de la réimportation.
+- Corrigé : Problème avec la traduction des images Twitter dans le navigateur Safari.
+- Corrigé : Raccourcis clavier devenant inefficaces lors de l'activation ou la désactivation de la fonction "**Traduction au Survol**".
+- Amélioré : Affichage amélioré de la traduction bilingue multiligne sur Twitter et Youtube.
+- Amélioré : La traduction du texte formaté est désactivée par défaut en mode bilingue pour améliorer la qualité de la traduction.
+- ~~Amélioré : Ajout de l'option de personnalisation "**Activer la Traduction de la Barre Latérale et de la Navigation**" dans les "**Paramètres Avancés**".~~
+- Amélioré : Les images ne sont plus traduites en mode "**Survol - traduire immédiatement ce paragraphe**".
+
+## 1.11.4 (2024-11-16)
+
+- Corrigé : Problème avec la traduction des formules causé par l'"Amélioration de la Traduction Twitter" dans la version 1.11.2.
+
+## 1.11.2 (2024-11-13)
+
+- Corrigé : Problème où le contenu disparaît après avoir cliqué sur "voir plus" en mode traduction uniquement sur Facebook.
+- ~~Amélioré : Affichage amélioré des traductions bilingues multilignes sur Twitter.~~
+- Amélioré : Interface de la liste déroulante des services de traduction mise à jour dans le panneau.
+
+## 1.11.1 (2024-11-05)
+
+- Ajouté : La **Traduction des Sous-titres** pour les réunions en temps réel prend maintenant en charge l'activation via "balle flottante", disponible sur Zoom, Google Meet et Microsoft Teams.
+- Corrigé : Problèmes de synchronisation du timing des sous-titres sur YouTube après avoir regardé des publicités.
+- Corrigé : Problèmes d'affichage du menu de traduction du clic droit dans Safari sur MacOS 15.
+- Corrigé : Problèmes avec la fonctionnalité Ctrl+Z Annuler dans l'**Entrée Améliorée** sur certains sites.
+
+## 1.10.6 (2024-10-25)
+
+- Corrigé : Problème avec les raccourcis clavier de l'**Entrée Améliorée** ne se déclenchant pas
+- Amélioré : Réduction de la taille du paquet d'installation
+- Amélioré : Solution d'affichage des sous-titres Netflix
+
+## 1.10.5 (2024-10-23)
+
+- Ajouté : Afficher un avertissement lorsque la langue source et la langue cible sont identiques
+- Corrigé : Problème de traduction des caractères d'espacement dans le texte formaté [#2175](https://github.com/immersive-translate/immersive-translate/issues/2175)
+- Amélioré : Amélioration de l'entrée et de la fonctionnalité de survol dans les iframes intégrés sur les pages web
+
+## 1.10.2 (2024-10-11)
+
+- Ajouté : Support de traduction des sous-titres pour [Masterclass](https://masterclass.com)
+- Corrigé : Problème avec la traduction de certains éléments sur le site Notion
+- Corrigé : Problème avec la traduction de certains éléments sur le site Discord
+- Amélioré : Optimisation de la traduction des sous-titres sur YouTube
+
+## 1.9.8 (2024-09-28)
+
+- Ajouté : Support de traduction des sous-titres pour [Brilliant](https://brilliant.org)
+- Corrigé : Problème avec la traduction de certains éléments sur le site Twitter
+- Amélioré : Optimisation de la traduction des sous-titres sur Netflix
+
+## 1.9.7 (2024-09-20)
+
+- Ajouté : Support de traduction des sous-titres pour [Domestika](https://www.domestika.org)
+- Corrigé : Problème avec la traduction de certains éléments sur le site Reddit
+- Amélioré : Optimisation de la traduction des sous-titres sur YouTube
+
+## 1.9.6 (2024-09-13)
+
+- Ajouté : Support de traduction des sous-titres pour [Pluralsight](https://www.pluralsight.com)
+- Corrigé : Problème avec la traduction de certains éléments sur le site LinkedIn
+- Amélioré : Optimisation de la traduction des sous-titres sur Vimeo
+
+## 1.9.3 (2024-09-05)
+
+- Ajouté : Support de traduction des sous-titres pour [Skillshare](https://www.skillshare.com)
+- Corrigé : Problème avec la traduction de certains éléments sur le site Facebook
+- Amélioré : Optimisation de la traduction des sous-titres sur Udemy
+
+## 1.9.1 (2024-09-03)
+
+- Ajouté : Support de traduction des sous-titres pour [Coursera](https://www.coursera.org)
+- Corrigé : Problème avec la traduction de certains éléments sur le site Instagram
+- Amélioré : Optimisation de la traduction des sous-titres sur TED
+
+## 1.8.4 (2024-08-30)
+
+- Ajouté : Support de traduction des sous-titres pour [edX](https://www.edx.org)
+- Corrigé : Problème avec la traduction de certains éléments sur le site YouTube
+- Amélioré : Optimisation de la traduction des sous-titres sur Khan Academy
+
 ## 0.12.8
 
 - Réparation du problème où les sous-titres vidéo originaux ne s'affichent pas lorsque "Le site actuel est réglé pour ne jamais traduire".

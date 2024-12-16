@@ -4,12 +4,251 @@ sidebar_position: 6
 
 # Registro de cambios
 
-## 0.12.8
+## 1.12.3 (2024-12-13)
 
-- Reparación de que los subtítulos originales del video no se muestran cuando "El sitio actual está configurado para nunca traducir".
-- Reparación del conflicto con algunos complementos que causan el retorno infinito de la página.
-- Reparación de la no traducción de algunos párrafos después de activar los saltos de línea de párrafos largos.
-- Corregido [Cuando se activa temporalmente la traducción de páginas web durante mucho tiempo, hacer clic en el panel [Traducir siempre este sitio web] no cancela la traducción siempre #1172](https://github.com/immersive-translate/immersive-translate/issues/1172)
+- Añadido: La **Traducción Consciente del Contexto con IA** puede mejorar la precisión de la traducción de contenido profesional. (Disponible solo para miembros Pro) **Opciones** -> **General** -> **Habilitar Traducción Consciente del Contexto con IA**
+- Corrección: Algunos errores en el efecto de traducción multilínea en Twitter.
+- Corrección: Problemas con la traducción de ciertas fórmulas debido al texto enriquecido
+- Mejora: Al traducir en **x.com**, los videos con subtítulos tendrán automáticamente subtítulos bilingües traducidos.
+- Mejora: Los videos sin subtítulos mostrarán un icono de traducción y proporcionarán una razón por la que no es posible la traducción.
+
+## 1.11.7 (2024-11-25)
+
+- Añadido: Bing/Google ahora soporta Khmer (Camboyano).
+- Añadido: Permitir que los archivos ePub incompletos continúen la traducción desde donde se quedaron al reimportarlos.
+- Corrección: Problema con la traducción de imágenes de Twitter en el navegador Safari.
+- Corrección: Las teclas de acceso rápido se vuelven inefectivas al activar o desactivar la función de **Traducción al Pasar el Ratón**.
+- Mejora: Mejorada la visualización de traducción bilingüe multilínea en Twitter y Youtube.
+- Mejora: La traducción de texto enriquecido está desactivada por defecto en modo bilingüe para mejorar la calidad de la traducción.
+- ~~Mejora: Añadida la opción para personalizar la "**Traducción de Barra Lateral y Barra de Navegación**" en "**Configuración Avanzada**".~~
+- Mejora: Las imágenes ya no se traducen en el modo "**Pasar el Ratón - traducir inmediatamente este párrafo**".
+
+## 1.11.4 (2024-11-16)
+
+- Corrección: Problema con la traducción de fórmulas causado por la "Mejora de traducción de Twitter" en la versión 1.11.2.
+
+## 1.11.2 (2024-11-13)
+
+- Corrección: Problema donde el contenido desaparece después de hacer clic en "ver más" en el modo de solo traducción de Facebook.
+- ~~Mejora: Mejorada la visualización de traducciones bilingües multilínea en Twitter.~~
+- Mejora: Actualizada la interfaz de usuario de la lista desplegable de servicios de traducción en el panel.
+
+## 1.11.1 (2024-11-05)
+
+- Añadido: La **Traducción de Subtítulos** para reuniones en tiempo real ahora soporta activación vía "bola flotante", disponible en Zoom, Google Meet y Microsoft Teams.
+- Corrección: Problemas de sincronización de subtítulos en YouTube después de ver anuncios.
+- Corrección: Problemas de visualización del menú de traducción con clic derecho en Safari en MacOS 15.
+- Corrección: Problemas con la funcionalidad Ctrl+Z para deshacer en la **Mejora de entrada** en ciertos sitios web.
+
+## 1.10.6 (2024-10-25)
+
+- Corrección: Problema con las teclas de acceso rápido de **Mejora de entrada** que no se activaban
+- Mejora: Reducción del tamaño del paquete de instalación
+- Mejora: Solución de visualización de subtítulos de Netflix
+
+## 1.10.5 (2024-10-23)
+
+- Añadido: Mostrar advertencia cuando el idioma de origen y destino son el mismo
+- Corrección: Problema de traducción de caracteres en blanco en texto enriquecido [#2175](https://github.com/immersive-translate/immersive-translate/issues/2175)
+- Mejora: Mejora de entrada y funcionalidad de pasar el ratón dentro de iframes incrustados en páginas web
+
+## 1.10.2 (2024-10-11)
+
+- Añadido: Traducción de imágenes (versión Beta)
+- Añadido: Modo Solo Ratón (habilitar esta función solo si la función de pasar el ratón no está disponible en dispositivos tablet) **Configuración** -> **Configuración Avanzada** -> **Habilitar Modo Solo Ratón**
+- Añadido: Mostrar mensaje de error cuando falla la traducción de subtítulos de video
+- Corrección: Problema de traducción de texto enriquecido [#2163](https://github.com/immersive-translate/immersive-translate/issues/2163)
+- Mejora: Abordados problemas donde el botón de traducción podría no funcionar durante la traducción de PDF
+- Mejora: Mejorado el renderizado de fórmulas traducidas
+- Mejora: Lista de selección de idiomas
+
+## 1.9.8 (2024-09-28)
+
+- Añadido: Servicio de traducción "Zhipu BigModel"
+- Eliminado: Modelo "SiliconCloud" qwen1.5-7B-chat (debido a la discontinuación oficial)
+- Corrección: Resuelto problema de compatibilidad de inicio de sesión con el plugin de Safari en macOS 15
+
+## 1.9.7 (2024-09-20)
+
+- Soporte de entrada mejorada para campos de entrada de Baidu, Gmail y otros
+- Soporte para el encabezado de solicitud anthropic-dangerous-direct-browser-access para Claude Anthropic API
+- Soporte para descargar subtítulos de videos de Hulu, Bloomberg y Domestika
+- DeepX soporta traducción de texto enriquecido
+- Corregido el problema de no sincronización de expertos AI personalizados
+
+## 1.9.6 (2024-09-13)
+
+- [PDF Pro](https://app.immersivetranslate.com/pdf-pro/) soporta copia de fórmulas (haz clic derecho en la fórmula para ver el menú de copia)
+- Corregido el problema de visualización de subtítulos bilingües para múltiples videos en la misma página de Twitter
+- Corregidos algunos errores
+
+## 1.9.3 (2024-09-05)
+
+- La opción para comparación bilingüe/mostrar solo traducción se ha movido a configuración general
+- Por defecto, el sistema recordará el modo alternado haciendo clic en el icono en el panel para comparación bilingüe o mostrar solo traducción. Para cambiar temporalmente, haz clic en "Más" -> "Cambiar a mostrar solo traducción" en el panel
+- Por defecto, la traducción de Chino Simplificado a Tradicional y viceversa usará el modo de solo traducción, en lugar del modo de comparación bilingüe
+- Corregidos algunos errores
+
+## 1.9.1 (2024-09-03)
+
+- Soporte para configurar excepciones de idiomas y sitios web en modo de comparación bilingüe o solo traducción (configurar en página de Configuración -> Configuración Avanzada). Por ejemplo: Si tu modo de traducción predeterminado es comparación bilingüe, pero no deseas usar comparación bilingüe para Chino Tradicional, entonces puedes agregar Chino Tradicional a los idiomas de excepción para comparación bilingüe, así el Chino Tradicional usará el modo de solo traducción. De manera similar, si tu modo de traducción predeterminado es solo traducción, pero deseas que cierto idioma o sitio web use el modo de comparación bilingüe, también puedes agregar ese idioma o sitio web a los idiomas de excepción
+- Corregido problema de traducción incorrecta del cuadro de entrada en la interfaz de mensajes privados de Tiktok
+- Corregido problema donde los cómics en Read Comic Online no se podían traducir
+- Corregido problema donde la [Configuración Avanzada -> Número mínimo de caracteres requeridos para traducir un párrafo] no tenía efecto en algunos casos
+
+## 1.8.4 (2024-08-30)
+
+- El servicio de traducción DeepL ahora soporta oficialmente Chino Tradicional como idioma de destino (anteriormente, traducir a Chino Tradicional con DeepL involucraba un proceso adicional de conversión de terceros de Simplificado a Tradicional)
+- Optimizado el rendimiento de traducción de texto enriquecido
+
+## 1.8.3
+
+- Google Meet ahora soporta subtítulos bilingües para reuniones en vivo: Simplemente abre el enlace de la reunión, activa los subtítulos bilingües en el panel de traducción inmersiva, y luego actualiza la página para experimentarlo
+- Añadidas las opciones para "Reportar problemas de traducción de la página web actual" y "Activar/desactivar rápidamente la bola flotante" en las opciones adicionales del panel
+- Después de ajustar la posición de los subtítulos bilingües de YouTube, el sistema recordará automáticamente la nueva posición
+- Optimizada la lógica de caché del plugin, ahora limpia automáticamente los datos de caché que tienen más de 30 días
+- Optimizados los bloques de código dentro de párrafos para una restauración más precisa del texto original
+- Mejorado el manejo de "palabras no traducibles" en configuración avanzada
+
+## 1.8.2
+
+- Ahora puedes traducir texto en cuadros de entrada con clic derecho: Selecciona cualquier texto en un cuadro de entrada en una página web, haz clic derecho para elegir traducir, y la traducción inmersiva traducirá automáticamente el texto seleccionado al idioma objetivo del cuadro de entrada, haciendo conveniente traducir rápidamente texto en idioma nativo a otros idiomas en cuadros de entrada
+- Ahora puedes reportar rápidamente problemas de traducción de páginas web en la bola flotante de traducción inmersiva. Después de traducir una página web, si hay algún problema, puedes hacer clic en el botón [Retroalimentación] en el lado derecho de la bola flotante, llenar la descripción del problema, y lo trataremos lo antes posible
+- Los archivos Epub ahora soportan traducción de texto enriquecido (es decir, preservar el formato del texto original de cada párrafo, como enlaces, negrita, etc.)
+- Soporte para subtítulos bilingües en tiempo real en reuniones de video de la versión web de Microsoft Teams (Abre el enlace de la reunión Teams, activa los subtítulos bilingües en el panel de traducción inmersiva, y luego actualiza)
+- Optimizados los subtítulos bilingües para la versión en inglés de iQIYI (iq.com)
+- Proporcionados más artículos de arXiv con diseño de traducción bilingüe optimizado
+- Debido a restricciones del sitio web de Youtube, el script de Chrome Tampermonkey ya no soporta subtítulos bilingües. Por favor usa la [versión del plugin](https://immersivetranslate.com/)
+
+## 1.8.1
+
+- Corregidos problemas de traducción con el script Tampermonkey SiliconCloud
+- La traducción Claude ahora soporta Tibetano y permite configuración del parámetro Temperature
+- La página de detalles de expertos AI muestra los prompts utilizados por el experto
+- La configuración de accesos directos ahora permite asignar teclas de acceso rápido únicas para cualquier servicio de traducción
+- Optimizada la detección para traducciones de artículos arXiv
+
+## 1.7.9
+
+- Corregidos problemas con la traducción de texto enriquecido para servicios de traducción como Google, DeepL (por ejemplo, páginas que muestran directamente `<button>` etc.)
+- Corregido el problema donde el acceso directo bilingüe para videos de YouTube no se podía desactivar
+
+## 1.7.8
+
+- DeepL, Microsoft Translate, Google Translate, OpenAI, Claude, Gemini y otros servicios de traducción soportan traducción manteniendo el formato del texto original (por ejemplo, enlaces, negrita, etc.)
+- Después de seleccionar el texto, el menú de clic derecho cambiará a [Traducir el texto], al hacer clic en él puedes saltar automáticamente a la página de Traducción de Texto de Immersive Translation
+
+## 1.7.7
+
+- Optimizado el control de frecuencia de solicitudes del servicio de traducción
+- Recientemente, las solicitudes domésticas del servicio de traducción de Microsoft han sido inestables, cuando ocurre un error, detectará automáticamente los servicios de traducción actualmente disponibles y permitirá a los usuarios cambiar rápidamente
+- Optimizados los mensajes de error de red
+- Corregida la configuración de color de texto que no soportaba vista previa RGBA [#1435](https://github.com/immersive-translate/immersive-translate/issues/1435)
+- Corregido el problema donde la página de instalación exitosa siempre se mostraba al actualizar la versión del plugin de Safari
+- Microsoft agregó soporte para vietnamita
+- Corregido el problema donde los subtítulos traducidos no se mostraban en el sitio edx
+
+## 1.7.6
+
+- La traducción de subtítulos de video ahora soporta [pluto](https://pluto.tv/), [STARZ](https://www.starz.com/), [Paramount Plus](https://www.paramountplus.com/), [Rotten Tomatoes](https://www.rottentomatoes.com/), [Dailymotion](https://www.dailymotion.com/), [FMovies](https://fmoviesz.to/), [AniWatch](https://aniwatch.to/), [iQIYI](https://www.iq.com/), [Youku](https://www.youku.tv/), [movie-web](https://movie-web.app/). También soporta la traducción de algunos videos con subtítulos CC en Twitter
+- Optimización de ventanas emergentes de error, las ventanas emergentes de error de problemas de red detectarán automáticamente servicios de traducción gratuitos válidos
+- Corregida la reproducción en pantalla completa de YouTube en el soporte inmersivo de la APP iOS
+- Corregido el problema de traducción de párrafos en Perplexity.ai [#707](https://github.com/immersive-translate/immersive-translate/issues/707)
+
+## 1.7.5
+
+- La traducción de subtítulos de video ahora soporta [Kanopy](https://www.kanopy.com/), [RachelsEnglishAcademy](https://www.rachelsenglishacademy.com/), [Hulu](https://www.hulu.com/), [Three.js Journey](https://threejs-journey.com/)
+- Corregido el problema donde algunos usuarios Pro no podían cambiar la configuración en el navegador Chrome
+- Soporte para mostrar subtítulos bilingües de YouTube en modo pantalla completa en iOS
+
+## 1.7.4
+
+- La traducción de subtítulos de video ahora soporta las plataformas [LinkedIn](https://www.linkedin.com/) y [Viu](https://www.viu.com/)
+- Añadidos más accesos directos de subtítulos de video para más plataformas
+- Soporte para mostrar solo traducción para configuraciones específicas de sitio web/idioma
+
+## 1.7.3
+
+- Optimizado el problema de visualización de traducción de subtítulos CC de videos de Twitter
+- El servicio DeepL ahora soporta árabe
+- El servicio Caiyun ahora soporta coreano, español, francés y ruso
+- El servicio OpenAI ahora soporta dongbeihua
+- El panel de detección automática ahora muestra el idioma del texto original
+- Ajustada la descripción de accesos directos del panel en dispositivos móviles
+
+## 1.7.2
+
+- Corregido el problema donde no se podía cerrar el panel de control en dispositivos móviles
+
+## 1.7.1
+
+- Soporte de plataforma de subtítulos de video para [DeepLearning.ai](https://learn.deeplearning.ai)
+- Soporte para problemas de visualización RTL en árabe, hebreo, etc. en traducción de páginas web y subtítulos de video
+- Corregida la traducción al hebreo de Gemini
+- Corregido el problema donde algunos subtítulos en chino tradicional de YouTube no se mostraban correctamente
+- Corregido el problema de visualización de subtítulos de Twitter en Safari
+- Corregida la tecla de acceso rápido para traducir inmediatamente al final de la página
+
+## 1.6.4
+
+- Corregido el problema donde los marcadores de posición no se reemplazaban correctamente en la creación de ePub
+- Soporte de traducción de subtítulos de video para [Unreal Sensei](https://www.unrealsenseiacademy.com/)
+
+## 1.6.3
+
+- Optimizado el control de frecuencia de solicitudes del servicio de traducción
+- Recientemente, las solicitudes domésticas del servicio de traducción de Microsoft han sido inestables, cuando ocurre un error, detectará automáticamente los servicios de traducción actualmente disponibles y permitirá a los usuarios cambiar rápidamente
+- Optimizados los mensajes de error de red
+- Corregida la configuración de color de texto que no soportaba vista previa RGBA [#1435](https://github.com/immersive-translate/immersive-translate/issues/1435)
+- Corregido el problema donde la página de instalación exitosa siempre se mostraba al actualizar la versión del plugin de Safari
+- Microsoft agregó soporte para vietnamita
+- Corregido el problema donde los subtítulos traducidos no se mostraban en el sitio edx
+
+## 1.6.2
+
+- La traducción de subtítulos de video ahora soporta [pluto](https://pluto.tv/), [STARZ](https://www.starz.com/), [Paramount Plus](https://www.paramountplus.com/), [Rotten Tomatoes](https://www.rottentomatoes.com/), [Dailymotion](https://www.dailymotion.com/), [FMovies](https://fmoviesz.to/), [AniWatch](https://aniwatch.to/), [iQIYI](https://www.iq.com/), [Youku](https://www.youku.tv/), [movie-web](https://movie-web.app/). También soporta la traducción de algunos videos con subtítulos CC en Twitter
+- Optimización de ventanas emergentes de error, las ventanas emergentes de error de problemas de red detectarán automáticamente servicios de traducción gratuitos válidos
+- Corregida la reproducción en pantalla completa de YouTube en el soporte inmersivo de la APP iOS
+- Corregido el problema de traducción de párrafos en Perplexity.ai [#707](https://github.com/immersive-translate/immersive-translate/issues/707)
+
+## 1.6.1
+
+- La traducción de subtítulos de video ahora soporta [Kanopy](https://www.kanopy.com/), [RachelsEnglishAcademy](https://www.rachelsenglishacademy.com/), [Hulu](https://www.hulu.com/), [Three.js Journey](https://threejs-journey.com/)
+- Corregido el problema donde algunos usuarios Pro no podían cambiar la configuración en el navegador Chrome
+- Soporte para mostrar subtítulos bilingües de YouTube en modo pantalla completa en iOS
+
+## 1.6.0
+
+- La traducción de subtítulos de video ahora soporta las plataformas [LinkedIn](https://www.linkedin.com/) y [Viu](https://www.viu.com/)
+- Añadidos más accesos directos de subtítulos de video para más plataformas
+- Soporte para mostrar solo traducción para configuraciones específicas de sitio web/idioma
+
+## 1.5.3
+
+- Optimizado el problema de visualización de traducción de subtítulos CC de videos de Twitter
+- El servicio DeepL ahora soporta árabe
+- El servicio Caiyun ahora soporta coreano, español, francés y ruso
+- El servicio OpenAI ahora soporta dongbeihua
+- El panel de detección automática ahora muestra el idioma del texto original
+- Ajustada la descripción de accesos directos del panel en dispositivos móviles
+
+## 1.5.2
+
+- Corregido el problema donde no se podía cerrar el panel de control en dispositivos móviles
+
+## 1.5.1
+
+- Soporte de plataforma de subtítulos de video para [DeepLearning.ai](https://learn.deeplearning.ai)
+- Soporte para problemas de visualización RTL en árabe, hebreo, etc. en traducción de páginas web y subtítulos de video
+- Corregida la traducción al hebreo de Gemini
+- Corregido el problema donde algunos subtítulos en chino tradicional de YouTube no se mostraban correctamente
+- Corregido el problema de visualización de subtítulos de Twitter en Safari
+- Corregida la tecla de acceso rápido para traducir inmediatamente al final de la página
+
+## 1.4.7
+
+- Corregido el problema donde los marcadores de posición no se reemplazaban correctamente en la creación de ePub
+- Soporte de traducción de subtítulos de video para [Unreal Sensei](https://www.unrealsenseiacademy.com/)
 
 ## 0.12.7
 
