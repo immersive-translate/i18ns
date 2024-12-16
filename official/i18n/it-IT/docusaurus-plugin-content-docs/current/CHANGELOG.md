@@ -6,7 +6,6 @@ sidebar_position: 6
 
 ## 1.12.3 (2024-12-13)
 
-
 - Aggiunto: **Traduzione Contestuale AI** può migliorare l'accuratezza della traduzione di contenuti professionali. (Disponibile solo per membri Pro) **Opzioni** -> **Generale** -> **Abilita Traduzione Contestuale AI**
 - Corretto: Alcuni bug nell'effetto di traduzione multilinea su Twitter.
 - Corretto: Problemi con la traduzione di alcune formule a causa del testo ricco
@@ -70,7 +69,6 @@ sidebar_position: 6
 - Corretto: Risolto il problema di compatibilità del login con il plugin Safari su macOS 15
 
 ## 1.9.7 (2024-09-20)
-
 
 - Supporto input migliorato per Baidu, Gmail e altri campi di input
 - Supporto per l'header della richiesta anthropic-dangerous-direct-browser-access per l'API Claude Anthropic
