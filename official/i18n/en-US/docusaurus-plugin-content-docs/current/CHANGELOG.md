@@ -4,9 +4,9 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.12.3 (2024-12-13)
+## 1.12.4 (2024-12-13)
 
-- Added: **AI Context-Aware Translation** can improve the accuracy of professional content translation. (Available only to Pro members) **Options** -> **Grneral** -> **Enable AI Context-Aware Translation**
+- Added: **AI Context-Aware Translation** can improve the accuracy of professional content translation. (Available only to Pro members，supported exclusively by OpenAI models) **Options** -> **Grneral** -> **Enable AI Context-Aware Translation**
 - Fix: Some bugs in the multi-line translation effect on Twitter.
 - Fix: Issues with the translation of certain formulas due to rich text
 - Improved: When translating on **x.com**, videos with subtitles will automatically have bilingual subtitles translated.
