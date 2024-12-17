@@ -4,6 +4,97 @@ sidebar_position: 6
 
 # Registro de Mudanças
 
+## 1.12.3 (2024-12-13)
+
+- Adicionado: **Tradução Contextual com IA** pode melhorar a precisão da tradução de conteúdo profissional. (Disponível apenas para membros Pro) **Opções** -> **Geral** -> **Ativar Tradução Contextual com IA**
+- Corrigido: Alguns bugs no efeito de tradução multilinha no Twitter.
+- Corrigido: Problemas com a tradução de certas fórmulas devido ao texto formatado
+- Melhorado: Ao traduzir no **x.com**, vídeos com legendas terão automaticamente legendas bilíngues traduzidas.
+- Melhorado: Vídeos sem legendas exibirão um ícone de tradução e fornecerão um motivo pelo qual a tradução não é possível.
+
+## 1.11.7 (2024-11-25)
+
+- Adicionado: Bing/Google agora suporta Khmer (Cambojano).
+- Adicionado: Permitir que arquivos ePub incompletos continuem traduzindo de onde pararam ao serem reimportados.
+- Corrigido: Problema com a tradução de imagens do Twitter no navegador Safari.
+- Corrigido: Teclas de atalho tornando-se ineficazes ao alternar o recurso "**Tradução ao Passar o Mouse**".
+- Melhorado: Exibição aprimorada de tradução bilíngue multilinha no Twitter e Youtube.
+- Melhorado: Tradução de texto formatado está desativada por padrão no modo bilíngue para melhorar a qualidade da tradução.
+- ~~Melhorado: Adicionada a opção de personalizar "**Ativar Tradução de Barra Lateral e Navegação**" em "**Configurações Avançadas**".~~
+- Melhorado: Imagens não são mais traduzidas no modo "**Passar o Mouse - traduzir imediatamente este parágrafo**".
+
+## 1.11.4 (2024-11-16)
+
+- Corrigido: Problema com tradução de fórmulas causado pela "Melhoria de Tradução do Twitter" na versão 1.11.2.
+
+## 1.11.2 (2024-11-13)
+
+- Corrigido: Problema onde o conteúdo desaparece após clicar em "ver mais" no modo somente tradução do Facebook.
+- ~~Melhorado: Exibição aprimorada de traduções bilíngues multilinha no Twitter.~~
+- Melhorado: Atualizada a interface da lista suspensa de serviços de tradução no painel.
+
+## 1.11.1 (2024-11-05)
+
+- Adicionado: **Tradução de Legendas** para reuniões em tempo real agora suporta ativação via "bola flutuante", disponível no Zoom, Google Meet e Microsoft Teams.
+- Corrigido: Problemas de sincronização de tempo das legendas no YouTube após assistir anúncios.
+- Corrigido: Problemas de exibição do menu de tradução do botão direito no Safari no MacOS 15.
+- Corrigido: Problemas com a funcionalidade de desfazer Ctrl+Z na **Entrada Aprimorada** em certos sites.
+
+## 1.10.6 (2024-10-25)
+
+- Corrigido: Problema com teclas de atalho da **Entrada Aprimorada** não acionando
+- Melhorado: Reduzir tamanho do pacote de instalação
+- Melhorado: Solução de exibição de legendas da Netflix
+
+## 1.10.5 (2024-10-23)
+
+- Adicionado: Exibir um aviso quando o idioma de origem e o idioma de destino são os mesmos
+- Corrigido: Problema de tradução de caracteres de espaço em texto formatado [#2175](https://github.com/immersive-translate/immersive-translate/issues/2175)
+- Melhorado: Aprimoramento de entrada e funcionalidade de passar o mouse dentro de iframes incorporados em páginas web
+
+## 1.10.2 (2024-10-11)
+
+- Adicionado: Suporte para tradução de legendas para [Masterclass](https://masterclass.com)
+- Corrigido: Problema com tradução de alguns elementos no site do Notion
+- Corrigido: Problema com tradução de alguns elementos no site do Discord
+- Melhorado: Otimização da tradução de legendas no YouTube
+
+## 1.9.8 (2024-09-28)
+
+- Adicionado: Suporte para tradução de legendas para [Brilliant](https://brilliant.org)
+- Corrigido: Problema com tradução de alguns elementos no site do Twitter
+- Melhorado: Otimização da tradução de legendas na Netflix
+
+## 1.9.7 (2024-09-20)
+
+- Adicionado: Suporte para tradução de legendas para [Domestika](https://www.domestika.org)
+- Corrigido: Problema com tradução de alguns elementos no site do Reddit
+- Melhorado: Otimização da tradução de legendas no YouTube
+
+## 1.9.6 (2024-09-13)
+
+- Adicionado: Suporte para tradução de legendas para [Pluralsight](https://www.pluralsight.com)
+- Corrigido: Problema com tradução de alguns elementos no site do LinkedIn
+- Melhorado: Otimização da tradução de legendas no Vimeo
+
+## 1.9.3 (2024-09-05)
+
+- Adicionado: Suporte para tradução de legendas para [Skillshare](https://www.skillshare.com)
+- Corrigido: Problema com tradução de alguns elementos no site do Facebook
+- Melhorado: Otimização da tradução de legendas no Udemy
+
+## 1.9.1 (2024-09-03)
+
+- Adicionado: Suporte para tradução de legendas para [Coursera](https://www.coursera.org)
+- Corrigido: Problema com tradução de alguns elementos no site do Instagram
+- Melhorado: Otimização da tradução de legendas no TED
+
+## 1.8.4 (2024-08-30)
+
+- Adicionado: Suporte para tradução de legendas para [edX](https://www.edx.org)
+- Corrigido: Problema com tradução de alguns elementos no site do YouTube
+- Melhorado: Otimização da tradução de legendas no Khan Academy
+
 ## 0.12.8
 
 - Correção de legendas de vídeo originais não exibidas quando "O site atual está configurado para nunca traduzir".

@@ -4,6 +4,103 @@ sidebar_position: 6
 
 # Änderungsprotokoll
 
+## 1.12.3 (2024-12-13)
+
+- Hinzugefügt: **KI-kontextbewusste Übersetzung** kann die Genauigkeit der Übersetzung von professionellen Inhalten verbessern. (Nur für Pro-Mitglieder verfügbar) **Optionen** -> **Allgemein** -> **KI-kontextbewusste Übersetzung aktivieren**
+- Behoben: Einige Fehler bei der mehrzeiligen Übersetzung auf Twitter.
+- Behoben: Probleme mit der Übersetzung bestimmter Formeln aufgrund von Rich-Text
+- Verbessert: Bei der Übersetzung auf **x.com** werden Videos mit Untertiteln automatisch zweisprachig übersetzt.
+- Verbessert: Videos ohne Untertitel zeigen ein Übersetzungssymbol an und geben einen Grund an, warum keine Übersetzung möglich ist.
+
+## 1.11.7 (2024-11-25)
+
+- Hinzugefügt: Bing/Google unterstützt jetzt Khmer (Kambodschanisch).
+- Hinzugefügt: Ermöglicht unvollständigen ePub-Dateien, die Übersetzung beim erneuten Import an der Stelle fortzusetzen, wo sie aufgehört haben.
+- Behoben: Problem mit der Übersetzung von Twitter-Bildern im Safari-Browser.
+- Behoben: Tastenkombinationen werden unwirksam beim Ein- oder Ausschalten der Funktion "**Hover-Übersetzung**".
+- Verbessert: Verbesserte Anzeige der mehrzeiligen zweisprachigen Übersetzung auf Twitter und Youtube.
+- Verbessert: Rich-Text-Übersetzung ist im zweisprachigen Modus standardmäßig deaktiviert, um die Übersetzungsqualität zu verbessern.
+- ~~Verbessert: Option zur Anpassung der "**Aktivierung der Seitenleisten- & Navigationsleisten-Übersetzung**" in "**Erweiterte Einstellungen**" hinzugefügt.~~
+- Verbessert: Bilder werden im Modus "**Hover - diesen Absatz sofort übersetzen**" nicht mehr übersetzt.
+
+## 1.11.4 (2024-11-16)
+
+- Behoben: Problem mit der Formelübersetzung, verursacht durch die "Twitter-Übersetzungsverbesserung" in Version 1.11.2.
+
+## 1.11.2 (2024-11-13)
+
+- Behoben: Problem, bei dem Inhalte nach dem Klicken auf "mehr anzeigen" im nur-Übersetzungs-Modus von Facebook verschwinden.
+- ~~Verbessert: Verbesserte Anzeige von mehrzeiligen zweisprachigen Übersetzungen auf Twitter.~~
+- Verbessert: Aktualisierte Benutzeroberfläche der Übersetzungsdienst-Dropdown-Liste im Panel.
+
+## 1.11.1 (2024-11-05)
+
+- Hinzugefügt: Echtzeit-Meeting **Untertitel-Übersetzung** unterstützt jetzt die Aktivierung über "Schwebefeld", verfügbar auf Zoom, Google Meet und Microsoft Teams.
+- Behoben: Synchronisierungsprobleme mit Untertitel-Timing auf YouTube nach dem Ansehen von Werbung.
+- Behoben: Anzeigeprobleme mit dem Rechtsklick-Übersetzungsmenü in Safari unter MacOS 15.
+- Behoben: Probleme mit der Strg+Z Rückgängig-Funktion in der **Erweiterten Eingabe** auf bestimmten Websites.
+
+## 1.10.6 (2024-10-25)
+
+- Behoben: Problem mit **Erweiterten Eingabe** Tastenkombinationen, die nicht ausgelöst wurden
+- Verbessert: Reduzierung der Installationspaketgröße
+- Verbessert: Netflix-Untertitel-Anzeigelösung
+
+## 1.10.5 (2024-10-23)
+
+- Hinzugefügt: Anzeige einer Warnung, wenn Quell- und Zielsprache identisch sind
+- Behoben: Rich-Text-Leerzeichenzeichen-Übersetzungsproblem [#2175](https://github.com/immersive-translate/immersive-translate/issues/2175)
+- Verbessert: Eingabeverbesserung und Maus-Hover-Funktionalität innerhalb eingebetteter iframes auf Webseiten
+
+## 1.10.2 (2024-10-11)
+
+- Hinzugefügt: Bildübersetzung (Beta-Version)
+- Hinzugefügt: Mausunterstützung erzwingen-Modus (Aktivieren Sie diese Funktion nur, wenn die Maus-Hover-Funktion auf Tablet-Geräten nicht verfügbar ist) **Einstellungen** -> **Erweiterte Einstellungen** -> **Mausunterstützung erzwingen**
+- Hinzugefügt: Anzeige einer Fehlermeldung, wenn die Video-Untertitel-Übersetzung fehlschlägt
+- Behoben: Rich-Text-Übersetzungsproblem [#2163](https://github.com/immersive-translate/immersive-translate/issues/2163)
+- Verbessert: Behebung von Problemen, bei denen der Übersetzungsbutton während der PDF-Übersetzung möglicherweise nicht funktioniert
+- Verbessert: Verbesserte Darstellung übersetzter Formeln
+- Verbessert: Sprachauswahlliste
+
+## 1.9.8 (2024-09-28)
+
+- Hinzugefügt: Übersetzungsdienst "Zhipu BigModel"
+- Entfernt: "SiliconCloud" Modell qwen1.5-7B-chat (aufgrund offizieller Einstellung)
+- Behoben: Behobenes Login-Kompatibilitätsproblem mit Safari-Plugin unter macOS 15
+
+## 1.9.7 (2024-09-20)
+
+- Verbesserte Eingabeunterstützung für Baidu, Gmail und andere Eingabefelder
+- Unterstützung für anthropic-dangerous-direct-browser-access Request-Header für Claude Anthropic API
+- Unterstützung für das Herunterladen von Untertiteln von Hulu, Bloomberg und Domestika Videos
+- DeepX unterstützt Rich-Text-Übersetzung
+- Behebung des Problems mit der Nicht-Synchronisierung benutzerdefinierter KI-Experten
+
+## 1.9.6 (2024-09-13)
+
+- [PDF Pro](https://app.immersivetranslate.com/pdf-pro/) unterstützt Formelkopieren (Rechtsklick auf die Formel zum Anzeigen des Kopiermenüs)
+- Behebung des Problems mit der Anzeige zweisprachiger Untertitel für mehrere Videos auf derselben Twitter-Seite
+- Behebung einiger Fehler
+
+## 1.9.3 (2024-09-05)
+
+- Die Option für zweisprachigen Vergleich/nur-Übersetzung-Anzeige wurde in die allgemeinen Einstellungen verschoben.
+- Standardmäßig merkt sich das System den Modus, der durch Klicken auf das Symbol im Panel für zweisprachigen Vergleich oder nur-Übersetzung-Anzeige umgeschaltet wurde. Zum temporären Umschalten klicken Sie im Panel auf "Mehr" -> "Zu nur-Übersetzung-Anzeige wechseln".
+- Standardmäßig wird bei der Übersetzung von vereinfachtem Chinesisch nach traditionellem Chinesisch und umgekehrt der nur-Übersetzung-Modus verwendet, nicht der zweisprachige Vergleichsmodus.
+- Behebung einiger Fehler.
+
+## 1.9.1 (2024-09-03)
+
+- Unterstützung für die Konfiguration von Ausnahmen für Sprachen und Websites im zweisprachigen Kontrast- oder nur-Übersetzung-Modus (konfigurieren Sie dies in Einstellungen -> Erweiterte Einstellungen). Zum Beispiel: Wenn Ihr Standard-Übersetzungsmodus zweisprachiger Kontrast ist, Sie aber nicht möchten, dass traditionelles Chinesisch auch zweisprachigen Kontrast verwendet, dann können Sie traditionelles Chinesisch zu den Ausnahmesprachen für zweisprachigen Kontrast hinzufügen, sodass traditionelles Chinesisch den nur-Übersetzung-Modus für die Übersetzung verwendet. Ebenso können Sie, wenn Ihr Standard-Übersetzungsmodus nur-Übersetzung ist, aber Sie möchten, dass eine bestimmte Sprache oder Website den zweisprachigen Kontrast-Modus verwendet, diese Sprache oder Website zu den Ausnahmesprachen hinzufügen.
+- Behebung eines Problems, bei dem das Eingabefeld in der Tiktok-Privatnachrichten-Schnittstelle falsch übersetzt wurde
+- Behebung eines Problems, bei dem Comics auf Read Comic Online nicht übersetzt werden konnten
+- Behebung eines Problems, bei dem die 【Erweiterte Einstellungen -> Mindestanzahl von Zeichen für die Übersetzung eines Absatzes】 in einigen Fällen nicht wirksam wurde
+
+## 1.8.4 (2024-08-30)
+
+- Der DeepL-Übersetzungsdienst unterstützt jetzt offiziell traditionelles Chinesisch als Zielsprache (zuvor beinhaltete die Übersetzung in traditionelles Chinesisch mit DeepL einen zusätzlichen Drittanbieter-Konvertierungsprozess von vereinfachtem zu traditionellem Chinesisch).
+- Optimierte Rich-Text-Übersetzungsleistung.
+
 ## 0.12.8
 
 - Behebung, dass die Original-Video-Untertitel nicht angezeigt werden, wenn "Aktuelle Seite ist so eingestellt, dass sie nie übersetzt wird".

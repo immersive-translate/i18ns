@@ -4,6 +4,103 @@ sidebar_position: 6
 
 # Registro de Alterações
 
+## 1.12.3 (2024-12-13)
+
+- Adicionado: **Tradução Contextual com IA** pode melhorar a precisão da tradução de conteúdo profissional. (Disponível apenas para membros Pro) **Opções** -> **Geral** -> **Ativar Tradução Contextual com IA**
+- Correção: Alguns bugs no efeito de tradução multilinha no Twitter.
+- Correção: Problemas com a tradução de certas fórmulas devido ao texto rico
+- Melhoria: Ao traduzir no **x.com**, vídeos com legendas terão automaticamente legendas bilíngues traduzidas.
+- Melhoria: Vídeos sem legendas exibirão um ícone de tradução e fornecerão um motivo pelo qual a tradução não é possível.
+
+## 1.11.7 (2024-11-25)
+
+- Adicionado: Bing/Google agora suporta Khmer (Cambojano).
+- Adicionado: Permitir que arquivos ePub incompletos continuem traduzindo de onde pararam após reimportação.
+- Corrigido: Problema com a tradução de imagens do Twitter no navegador Safari.
+- Corrigido: Teclas de atalho se tornando ineficazes ao alternar o recurso "**Tradução ao Passar o Mouse**".
+- Melhorado: Aprimorada a exibição de tradução bilíngue multilinha no Twitter e Youtube.
+- Melhorado: Tradução de texto rico está desativada por padrão no modo bilíngue para melhorar a qualidade da tradução.
+- ~~Melhorado: Adicionada a opção de personalizar "**Ativar Tradução de Barra Lateral e Navegação**" em "**Configurações Avançadas**".~~
+- Melhorado: Imagens não são mais traduzidas no modo "**Passar o Mouse - traduzir este parágrafo imediatamente**".
+
+## 1.11.4 (2024-11-16)
+
+- Corrigido: Problema com tradução de fórmulas causado pela "Melhoria de Tradução do Twitter" na versão 1.11.2.
+
+## 1.11.2 (2024-11-13)
+
+- Corrigido: Problema onde o conteúdo desaparece após clicar em "ver mais" no modo somente tradução do Facebook.
+- ~~Melhorado: Aprimorada a exibição de traduções bilíngues multilinha no Twitter.~~
+- Melhorado: Atualizada a interface do usuário da lista suspensa de serviços de tradução no painel.
+
+## 1.11.1 (2024-11-05)
+
+- Adicionado: **Tradução de Legendas** em reuniões em tempo real agora suporta ativação via "bola flutuante", disponível no Zoom, Google Meet e Microsoft Teams.
+- Corrigido: Problemas de sincronização de tempo das legendas no YouTube após assistir anúncios.
+- Corrigido: Problemas de exibição do menu de tradução do botão direito no Safari no MacOS 15.
+- Corrigido: Problemas com a funcionalidade de desfazer Ctrl+Z no **Input Aprimorado** em certos sites.
+
+## 1.10.6 (2024-10-25)
+
+- Corrigido: Problema com teclas de atalho do **Input Aprimorado** não acionando
+- Melhorado: Redução do tamanho do pacote de instalação
+- Melhorado: Solução de exibição de legendas da Netflix
+
+## 1.10.5 (2024-10-23)
+
+- Adicionado: Exibir um aviso quando o idioma de origem e o idioma de destino são os mesmos
+- Corrigido: Problema de tradução de caracteres de espaço em branco em texto rico [#2175](https://github.com/immersive-translate/immersive-translate/issues/2175)
+- Melhorado: Aprimoramento de entrada e funcionalidade de mouse hover dentro de iframes incorporados em páginas web
+
+## 1.10.2 (2024-10-11)
+
+- Adicionado: Tradução de imagens (versão Beta)
+- Adicionado: Modo de Suporte ao Mouse Forçado (Ative este recurso apenas se a função de hover do mouse não estiver disponível em dispositivos tablet) **Configurações** -> **Configurações Avançadas** -> **Forçar Ativação do Suporte ao Mouse**
+- Adicionado: Exibir mensagem de erro quando a tradução de legendas de vídeo falhar
+- Corrigido: Problema de tradução de texto rico [#2163](https://github.com/immersive-translate/immersive-translate/issues/2163)
+- Melhorado: Resolvidos problemas onde o botão de tradução poderia não funcionar durante a tradução de PDF
+- Melhorado: Aprimorada a renderização de fórmulas traduzidas
+- Melhorado: Lista de seleção de idiomas
+
+## 1.9.8 (2024-09-28)
+
+- Adicionado: Serviço de tradução "Zhipu BigModel"
+- Removido: Modelo "SiliconCloud" qwen1.5-7B-chat (devido à descontinuação oficial)
+- Corrigido: Resolvido problema de compatibilidade de login com o plugin Safari no macOS 15
+
+## 1.9.7 (2024-09-20)
+
+- Melhorado: Suporte aprimorado para campos de entrada do Baidu, Gmail e outros
+- Adicionado: Suporte ao cabeçalho de requisição anthropic-dangerous-direct-browser-access para API Claude Anthropic
+- Adicionado: Suporte para download de legendas de vídeos do Hulu, Bloomberg e Domestika
+- Melhorado: DeepX agora suporta tradução de texto rico
+- Corrigido: Problema de não sincronização de especialistas AI personalizados
+
+## 1.9.6 (2024-09-13)
+
+- [PDF Pro](https://app.immersivetranslate.com/pdf-pro/) agora suporta cópia de fórmulas (clique com o botão direito na fórmula para ver o menu de cópia)
+- Corrigido: Problema de exibição de legendas bilíngues para múltiplos vídeos na mesma página do Twitter
+- Corrigido: Alguns bugs
+
+## 1.9.3 (2024-09-05)
+
+- A opção para exibição de comparação bilíngue/apenas tradução foi movida para as configurações gerais.
+- Por padrão, o sistema lembrará o modo alternado ao clicar no ícone no painel para exibição de comparação bilíngue ou apenas tradução. Para alternar temporariamente, clique em "Mais" -> "Alternar para exibição apenas de tradução" no painel.
+- Por padrão, a tradução do Chinês Simplificado para Tradicional e vice-versa usará o modo apenas tradução, em vez do modo de comparação bilíngue.
+- Corrigido: Alguns bugs.
+
+## 1.9.1 (2024-09-03)
+
+- Suporte para configurar exceções para idiomas e sites no modo de contraste bilíngue ou apenas tradução (configure na página de Configurações -> Configurações Avançadas). Por exemplo: Se seu modo de tradução padrão é contraste bilíngue, mas você não deseja que o Chinês Tradicional também use contraste bilíngue, então você pode adicionar o Chinês Tradicional às línguas de exceção para contraste bilíngue, assim o Chinês Tradicional usará o modo apenas tradução para tradução. Da mesma forma, se seu modo de tradução padrão é apenas tradução, mas você deseja que um determinado idioma ou site use o modo de contraste bilíngue, você também pode adicionar esse idioma ou site às línguas de exceção.
+- Corrigido: Problema onde a caixa de entrada na interface de mensagem privada do Tiktok era traduzida incorretamente
+- Corrigido: Problema onde quadrinhos no Read Comic Online não podiam ser traduzidos
+- Corrigido: Problema onde a 【Configurações Avançadas -> Número mínimo de caracteres necessários para traduzir um parágrafo】 não tinha efeito em alguns casos
+
+## 1.8.4 (2024-08-30)
+
+- O serviço de tradução DeepL agora suporta oficialmente o Chinês Tradicional como idioma de destino (anteriormente, traduzir para o Chinês Tradicional com DeepL envolvia um processo adicional de conversão de terceiros do Chinês Simplificado para Tradicional).
+- Otimizado: Desempenho da tradução de texto rico.
+
 ## 1.7.9
 
 - Corrigido o problema com traduções de texto rico nos serviços de tradução Google, DeepL, etc. (por exemplo, a página exibe diretamente `<button>`, etc.)
