@@ -4,6 +4,12 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.12.5 Preview (2024-12-13)
+
+- Fix: Issue where the mouse hover function loads the wrong translation service under certain conditions.
+- Fix: Issue where temporarily enabling bilingual subtitles on YouTube does not work.
+- Optimization: Removed the deprecated gemini-1.0-pro model.
+
 ## 1.12.4 (2024-12-13)
 
 - Added: **AI Context-Aware Translation** can improve the accuracy of professional content translation. (Available only to Pro members，supported exclusively by OpenAI models) **Options** -> **Grneral** -> **Enable AI Context-Aware Translation**
