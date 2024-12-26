@@ -4,10 +4,12 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.12.5 Preview (2024-12-13)
+## 1.12.6 Preview (2024-12-26)
 
 - Fix: Issue where the mouse hover function loads the wrong translation service under certain conditions.
 - Fix: Issue where temporarily enabling bilingual subtitles on YouTube does not work.
+- Fix: After switching translation services, the translation service in "**Enhanced Input Box**" does not update.
+- Fix: The "**YouTube Enable Bilingual**" switch in the settings page is not working.
 - Optimization: Removed the deprecated gemini-1.0-pro model.
 
 ## 1.12.4 (2024-12-13)
