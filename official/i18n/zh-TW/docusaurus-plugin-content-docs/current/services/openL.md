@@ -1,3 +1,3 @@
 # OpenL
 
-相關連結：[OpenL密鑰申請教程](https://docs.openl.club/#/)
+相關連結：[OpenL 金鑰申請教學](https://docs.openl.club/#/)

@@ -1,3 +1,3 @@
 # 小牛翻譯
 
-請直接查看：[小牛翻譯官方文檔](https://niutrans.com/documents/contents/question/1)
+請直接檢視：[小牛翻譯官方文件](https://niutrans.com/documents/contents/question/1)
