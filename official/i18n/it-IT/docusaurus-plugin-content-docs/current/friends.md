@@ -4,7 +4,9 @@ Immersive Translate offre un programma di affiliazione facile da unirsi dove chi
 
 Quindi, per ogni abbonamento annuale, guadagnerai $19.99 (20% di $99.99), e per l'abbonamento mensile, guadagnerai $1.99 (20% di $9.99).
 
-Se hai domande, puoi contattarci [qui](https://letterbird.co/immersivetranslate).## Creator che Amiamo Collaborare
+Se hai domande, puoi contattarci [qui](https://letterbird.co/immersivetranslate).
+
+## Creator che Amiamo Collaborare
 
 - Hai utilizzato Immersive Translate ed ne sei un fan.
 - Hai il tuo pubblico, che include ma non è limitato a pubblico proveniente da questi social media come TikTok, Twitter, canali YouTube, Blog ecc.

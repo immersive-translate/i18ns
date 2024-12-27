@@ -26,7 +26,10 @@ Você tem a capacidade de deletar sua Conta, e deve entender que, ao deletar sua
 
 ## Consentimento
 
-- Ao usar nosso aplicativo, você concorda com a coleta e uso dos seus dados conforme descrito nesta política.## Sobre a Aplicação Móvel
+- Ao usar nosso aplicativo, você concorda com a coleta e uso dos seus dados conforme descrito nesta política.
+
+## Sobre a Aplicação Móvel
+
 - A aplicação móvel **Immersive Translate** é desenvolvida com base no Firefox. Além de aderir aos termos mencionados deste acordo, por favor, consulte a política de privacidade da Mozilla para o Navegador Firefox em [Aviso de Privacidade do Firefox](https://www.mozilla.org/privacy/firefox/).
 - **Immersive Translate** utiliza o **Adjust** para entregar e analisar campanhas publicitárias. O **SDK do Adjust** coleta dados não pessoalmente identificáveis que não podem ser usados para identificar diretamente os usuários, incluindo **identificadores de dispositivo (IMEI, Android ID, OAID), impressões de anúncios e cliques**. Para mais informações sobre o Adjust, por favor, visite o [Site do Adjust](https://www.adjust.com/) e a [Política de Privacidade do Adjust](https://www.adjust.com/terms/privacy-policy/).
 

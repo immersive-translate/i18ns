@@ -31,7 +31,9 @@ Você ainda pode fazer estas coisas para nos ajudar agora:
 
 <div align="center">
 <img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
-</div>## Uma nota mais longa
+</div>
+
+## Uma nota mais longa
 
 Oi, eu sou o Owen, e eu mesmo me beneficiei das ferramentas gratuitas desenvolvidas por inúmeros voluntários no passado, o que levou a tanto conhecimento vitalício, o que reforçou minha crença de que o acesso **IGUAL** à informação é o direito mais importante que qualquer um de nós deveria ter. Então, eu criei várias ferramentas bilíngues gratuitas para ajudar as pessoas a acessarem mais efetivamente (enquanto aguardo o dia em que possamos nos afastar desses auxílios)
 
@@ -58,7 +60,9 @@ Então o Immersive Translate [nasceu](https://twitter.com/OwenYoungZh/status/158
 
 Então, passo a passo, otimizamos para várias necessidades de leitura, incluindo suporte para tradução em tempo real de arquivos PDF, suporte para tradução em tempo real e produção de e-books Epub, suporte para arquivos de legendas, arquivos TXT e assim por diante.
 
-Nos últimos cinco meses, o Immersive Translate ajudou 400.000 usuários a adquirirem o hábito de olhar para informações em um idioma estrangeiro, o que é um testemunho do papel crítico que uma boa ferramenta pode desempenhar na quebra de barreiras de informação. Agradeço a todos que ajudaram com o Immersive Translate no passado, continuaremos a trazer a experiência do Immersive Translate para mais pessoas, para que mais pessoas possam desfrutar dos dividendos da tecnologia.## Links
+Nos últimos cinco meses, o Immersive Translate ajudou 400.000 usuários a adquirirem o hábito de olhar para informações em um idioma estrangeiro, o que é um testemunho do papel crítico que uma boa ferramenta pode desempenhar na quebra de barreiras de informação. Agradeço a todos que ajudaram com o Immersive Translate no passado, continuaremos a trazer a experiência do Immersive Translate para mais pessoas, para que mais pessoas possam desfrutar dos dividendos da tecnologia.
+
+## Links
 
 - [Instalação](/docs/installation)
 - [Como usar](/docs/usage)

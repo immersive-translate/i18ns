@@ -26,7 +26,9 @@ Você também pode acionar o compartilhamento clicando no botão de compartilham
 
 <img src="https://s.immersivetranslate.com/assets/20240119shareBilingualPage_1.jpg" alt="compartilhar" />
 
-Ou você pode simplesmente definir as teclas de atalho especificadas em [Configurações de Interface] [Configurações de Tecla de Atalho].## Como eu ativo isso no meu celular?
+Ou você pode simplesmente definir as teclas de atalho especificadas em [Configurações de Interface] [Configurações de Tecla de Atalho].
+
+## Como eu ativo isso no meu celular?
 
 Também é possível ativar no celular clicando no botão de compartilhamento rápido na página:
 
