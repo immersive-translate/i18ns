@@ -25,6 +25,7 @@
     - 建議僅在滑鼠懸停和輸入增強功能處使用
 
 ## Claude
+
 - Docker/Cloudflare 部署 [Claude to ChatGPT](https://github.com/jtsang4/claude-to-chatgpt)
 - 進入外掛的[設定頁面](https://dash.immersivetranslate.com/#general)，翻譯服務選擇 OpenAI
   - api_key: 取得[api_key](https://www.nightfall.ai/ai-security-101/anthropic-claude-api-key)

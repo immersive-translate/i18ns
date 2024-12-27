@@ -172,6 +172,7 @@ sidebar_position: 4
 介紹一些 Config 常見的欄位。
 
 ### 允許渲染普通 HTML 標籤
+
 去 [開發設定](https://dash.immersivetranslate.com/#developer) -> Edit Full User Config
 
 編輯 "enableRenderHtmlTag": true

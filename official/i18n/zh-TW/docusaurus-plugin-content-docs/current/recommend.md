@@ -15,6 +15,7 @@ CWS（中文詞分隔器）是一個多功能工具，可以幫助你透過讀�
   - 提供簡單的筆記功能：加標籤、備註、高亮，實現簡單的文獻管理
 
 ## 貨幣轉換
+
 - [Universal Automatic Currency Converter](https://chromewebstore.google.com/detail/hbjagjepkeogombomfeefdmjnclgojli?hl=zh-TW&utm_source=ext_sidebar) 外掛
   - 支援超過 170 種貨幣及其符號等價物，從 fixer.io 和 openexchangerates.org 取得匯率
   - 智慧貨幣偵測，捕獲大多數（如果不是全部）符號的所有內容，從美元、英鎊和歐元到歐元、美元、英鎊到“美元”
