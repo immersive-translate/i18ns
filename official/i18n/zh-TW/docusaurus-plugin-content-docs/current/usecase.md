@@ -30,7 +30,9 @@ sidebar_position: 3
 
 ## PDF 文件翻譯
 
-![pdf](https://s.immersivetranslate.com/static/official-static/assets/pdf.png)## 蘋果 iOS 安裝沉浸式翻譯影片教程
+![pdf](https://s.immersivetranslate.com/static/official-static/assets/pdf.png)
+
+## 蘋果 iOS 安裝沉浸式翻譯影片教學
 
 <video
 controls
@@ -40,7 +42,7 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-in
 
 - [Bilibili](https://www.bilibili.com/video/BV1CM41137CJ/)
 
-## 更多樣式請查看設置界面
+## 更多樣式請檢視設定介面
 
 ![](https://s.immersivetranslate.com/static/official-static/assets/config1.png)
 
