@@ -3,6 +3,7 @@
 ## Ativação do Gemini
 
 1. **Configurações do Desenvolvedor:**
+
    - Acesse as [Configurações do Desenvolvedor](https://dash.immersivetranslate.com/#developer) no Immersive Translate.
    - Expanda a seção "Edit Full User Config", e procure ou adicione a seguinte linha:
 
