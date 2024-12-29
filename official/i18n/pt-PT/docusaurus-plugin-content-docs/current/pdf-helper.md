@@ -29,7 +29,9 @@ Quando alguns parágrafos são reconhecidos em uma posição incorreta, você po
 
 ### Excluir caixa de texto
 
-Quando alguns parágrafos podem ter problemas de reconhecimento, manualmente fundir o parágrafo anterior, este parágrafo pode ser redundante, desta vez você pode clicar neste botão para excluí-lo!### Ajustando o tamanho da caixa de texto
+Quando alguns parágrafos podem ter problemas de reconhecimento, manualmente fundir o parágrafo anterior, este parágrafo pode ser redundante, desta vez você pode clicar neste botão para excluí-lo!
+
+### Ajustando o tamanho da caixa de texto
 
 Porque a altura e largura padrão da tradução são as mesmas do parágrafo original por padrão, quando o conteúdo da tradução excede o texto original, haverá um transbordamento, nesse caso, você pode visualizá-lo através da rolagem interna. Você também pode arrastar e soltar no canto inferior direito para aumentar essa caixa de texto apropriadamente, permitindo que o conteúdo seja totalmente exibido.
 
@@ -53,7 +55,9 @@ Isso pode ser desativado quando sentimos que a distância entre os parágrafos s
 
 Este objetivo é na verdade semelhante ao acima, porque há um certo espaçamento entre cada linha de texto para garantir a legibilidade do texto traduzido.
 
-Se a tela for pequena e o espaçamento entre os parágrafos superior e inferior pode não ser suficiente para mostrar o transbordamento do texto traduzido, você pode ativar este item e remover o espaçamento entre as linhas de texto, para que o texto dos parágrafos possa ser totalmente exibido### Indentação do cabeçalho do parágrafo
+Se a tela for pequena e o espaçamento entre os parágrafos superior e inferior pode não ser suficiente para mostrar o transbordamento do texto traduzido, você pode ativar este item e remover o espaçamento entre as linhas de texto, para que o texto dos parágrafos possa ser totalmente exibido
+
+### Indentação do cabeçalho do parágrafo
 
 Devido à complexidade dos diversos layouts de PDF, não é possível identificar inteligentemente se um parágrafo está em conformidade com as características de indentação, mas se não houver indentação, então você pode achar que olhar para o parágrafo do artigo é um pouco complicado. Assim, para este tipo de parágrafo no artigo, o usuário pode ativá-lo e o primeiro parágrafo de cada parágrafo será indentado para mostrar
 

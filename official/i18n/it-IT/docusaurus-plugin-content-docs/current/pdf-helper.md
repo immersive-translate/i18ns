@@ -29,7 +29,9 @@ Quando alcuni paragrafi sono riconosciuti in una posizione errata, puoi sceglier
 
 ### Elimina riquadro di testo
 
-Quando alcuni paragrafi possono avere problemi di riconoscimento, unisci manualmente il paragrafo precedente, questo paragrafo può essere ridondante, in questo momento puoi fare clic su questo pulsante per eliminarlo!### Ridimensionamento della dimensione del riquadro di testo
+Quando alcuni paragrafi possono avere problemi di riconoscimento, unisci manualmente il paragrafo precedente, questo paragrafo può essere ridondante, in questo momento puoi fare clic su questo pulsante per eliminarlo!
+
+### Ridimensionamento della dimensione del riquadro di testo
 
 Poiché l'altezza e la larghezza della traduzione predefinite sono le stesse del paragrafo originale per impostazione predefinita, quando il contenuto della traduzione supera il testo originale ci sarà un sovrappiù, in questo caso è possibile visualizzarlo attraverso lo scorrimento interno. È anche possibile trascinare e rilasciare nell'angolo in basso a destra per ingrandire adeguatamente questo riquadro di testo in modo da consentire la visualizzazione completa del contenuto.
 
@@ -53,7 +55,9 @@ Questo può essere disattivato quando riteniamo che la distanza tra i paragrafi 
 
 Questo obiettivo è in realtà simile a quello sopra, perché c'è una certa spaziatura tra ogni riga di testo al fine di garantire la leggibilità del testo tradotto.
 
-Se lo schermo è piccolo e lo spazio tra i paragrafi superiori e inferiori potrebbe non essere sufficiente per mostrare il sovrappiù del testo tradotto, è possibile attivare questa voce e rimuovere la spaziatura delle righe di testo, in modo che il testo dei paragrafi possa essere completamente visualizzato### Indentazione dell'intestazione del paragrafo
+Se lo schermo è piccolo e lo spazio tra i paragrafi superiori e inferiori potrebbe non essere sufficiente per mostrare il sovrappiù del testo tradotto, è possibile attivare questa voce e rimuovere la spaziatura delle righe di testo, in modo che il testo dei paragrafi possa essere completamente visualizzato
+
+### Indentazione dell'intestazione del paragrafo
 
 A causa della complessità dei vari layout PDF, non è possibile identificare in modo intelligente se un paragrafo sia in linea con le caratteristiche dell'indentazione, ma se non vi è indentazione, allora potrebbe risultare un po' difficile leggere il paragrafo dell'articolo. Quindi, per questo tipo di paragrafo, l'utente può attivarlo e il primo rigo di ogni paragrafo sarà indentato per mostrare
 

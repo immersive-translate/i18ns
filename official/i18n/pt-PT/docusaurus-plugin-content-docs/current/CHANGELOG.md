@@ -115,7 +115,9 @@ sidebar_position: 6
 - Correção do problema de que a tradução do YouTube/Web of Science etc. não é sensível ao alternar abas.
 - Hoverball no celular agora suporta operação de pressão longa, pressão curta para traduzir, pressão longa para abrir o painel.
 - Traduzir ebooks bilíngues agora também traduzirá o índice.
-- O recurso de Melhoria de Pesquisa (algumas páginas de resultados de pesquisa bilíngues do Google Search) agora não é ativado por padrão e será removido na próxima versão.## 0.12.5
+- O recurso de Melhoria de Pesquisa (algumas páginas de resultados de pesquisa bilíngues do Google Search) agora não é ativado por padrão e será removido na próxima versão.
+
+## 0.12.5
 
 - Correção na criação de eBooks em Epub a partir do painel ao clicar em traduções que não funcionava
 
@@ -131,7 +133,9 @@ sidebar_position: 6
 
 ## 0.12.3
 
-- Correção para o recurso [desativar permanentemente as legendas de vídeo] que não estava funcionando [#1175](https://github.com/immersive-translate/immersive-translate/issues/1175)## 0.12.2
+- Correção para o recurso [desativar permanentemente as legendas de vídeo] que não estava funcionando [#1175](https://github.com/immersive-translate/immersive-translate/issues/1175)
+
+## 0.12.2
 
 - Suporte a legendas bilíngues é fornecido para mais plataformas de vídeo, que agora são suportadas: [Youtube](https://www.youtube.com/), [Netflix](https://www.netflix.com), [Udemy](https://www.udemy.com/), [Khanacademy](https://www.khanacademy.org/), [Coursera](https://www.coursera.org/), [Vimeo](https://vimeo.com/), [Nebula](https://nebula.tv), [Bloomberg](https://www.bloomberg.com), [Bilibili](https://www.bilibili.com/), etc. (Observe que, devido a limitações técnicas, alguns sites precisam atualizar a página após ativar as legendas bilíngues pela primeira vez, ou esperar que a tradução seja concluída para exibir as legendas bilíngues).
 - Otimização significativa do tamanho do arquivo zip do plugin, reduzido pela metade em comparação com o original, download e atualização mais rápidos.
@@ -139,7 +143,9 @@ sidebar_position: 6
 - Adicionado um portal de tradução rápida de PDF ao lado direito do site de artigos do [Arxiv](https://arxiv.org/abs/1910.06709), que leva a uma página HTML limpa (apenas suportado por alguns artigos, já que requer que os autores originais submetam o código-fonte, então, aproximadamente 50% dos artigos mostrarão este portal)
 - Páginas de PDF online sem a extensão .pdf agora podem ir diretamente para a página de tradução de PDF clicando no hoverball na página.
 - Correção de alguns problemas de aprimoramento de caixa de entrada sob o Safari
-- Otimização da detecção de idioma no Grease Monkey e Safari## 0.11.6
+- Otimização da detecção de idioma no Grease Monkey e Safari
+
+## 0.11.6
 
 - Adicionadas 11 novas línguas de interface para o plugin e o site oficial, agora as línguas de interface suportadas chegam a 14, incluindo Chinês Simplificado, Chinês Tradicional, Inglês, Japonês, Coreano, Russo, Espanhol, Português, Hindi, Italiano, Alemão, Francês, Árabe e Persa.
 - Modificar o compartilhamento bilíngue (modo de atualização) adicionado na última versão para compartilhamento de snapshot de página bilíngue, de modo que o conteúdo compartilhado seja mais original, bem como de adaptabilidade mais ampla.
@@ -171,7 +177,9 @@ sidebar_position: 6
 
 ## 0.10.9
 
-- Corrigir alguns problemas menores## 0.10.8
+- Corrigir alguns problemas menores
+
+## 0.10.8
 
 - Suporte para configuração de botões de tradução rápida hoverball (suporte tanto para PC quanto para celular)
 - Otimização do Julgamento de Idioma do Grease Monkey
@@ -229,7 +237,9 @@ sidebar_position: 6
 
 ## 0.9.5
 
-- Correções de bugs em eBooks online## 0.9.4
+- Correções de bugs em eBooks online
+
+## 0.9.4
 
 - Otimização na detecção de aprimoramento de entrada para reduzir toques falsos
 - Tradução online de e-books e legendas
@@ -269,7 +279,9 @@ sidebar_position: 6
 - Otimização da Detecção de Idioma
 - Recursos Beta: API Personalizada (Beta ativado nas configurações do desenvolvedor)
 - Suporte para Tradução AliCloud
-- Correção de alguns bugs## 0.8.0
+- Correção de alguns bugs
+
+## 0.8.0
 
 - Sistemas de Usuário Suportados
 - Suporta [Ativar Assinatura Pro](/pricing), que permite aos usuários desfrutar das traduções do Deepl e OpenAI e das configurações de sincronização na nuvem.
@@ -303,7 +315,9 @@ sidebar_position: 6
 - O PDF finalmente suporta a exportação de versões bilíngues! Você pode clicar no botão [Salvar] para exportar o arquivo PDF traduzido bilíngue.
 - As regras personalizadas agora suportam a fusão com as regras padrão integradas, por exemplo: `{"id": "youtube", "selectors.add":["#test"]}` significa adicionar um `#test` aos seletores existentes, `selectors` significa substituir o padrão, `selectors.remove` significa deletar um dos seletores padrão, e `selectors.remove` significa deletar um dos seletores padrão, e `selectors.remove` significa deletar um dos seletores padrão. remove um dos seletores padrão.
 - Ícone do Safari atualizado, um pouco maior.
-- Outras Correções de Bugs## 0.7.8
+- Outras Correções de Bugs
+
+## 0.7.8
 
 - Correções de Bugs
 
@@ -341,7 +355,9 @@ sidebar_position: 6
 - Suporte à Melhoria de Pesquisa, quando habilitado, ao pesquisar no Google/Google News em chinês, a coluna da direita mostrará automaticamente os resultados da pesquisa das correspondentes palavras-chave em inglês, o que é habilitado por padrão.
 
   - Razão: Descobrimos que, na pesquisa do Google, os resultados da pesquisa para palavras-chave em chinês e inglês podem ser muito diferentes, com a Melhoria de Pesquisa Traduzida Imersiva habilitada, automaticamente buscamos as mesmas palavras-chave em inglês para você e as exibimos no lado direito. Você pode escolher desabilitá-la se não precisar do recurso.
-  - Safari não é suportado devido a limitações da API.## 0.6.20
+  - Safari não é suportado devido a limitações da API.
+
+## 0.6.20
 
 - Modificar as configurações padrão: Devido ao grande número de feedback de usuários que não usarão a ferramenta de tradução após a instalação, a expectativa deles em relação à ferramenta de tradução é que ela traduza automaticamente páginas da web em inglês após a instalação. Portanto, a partir desta versão, para usuários chineses, a opção de traduzir páginas em inglês por padrão foi ativada (se o usuário tiver uma configuração prévia do idioma que sempre será traduzido, então ela será respeitada, e a mudança apenas modifica as configurações iniciais da extensão), e se precisar ser cancelada, pode ser facilmente cancelada no [Painel popup ou página de configurações](/docs/faq/#%E5%A6%82%E4%BD%95%E5%85%B3%E9%97%AD%E8%87%AA%E5%8A%A8%E7%BF%BB%E8%AF%91)
 
@@ -373,7 +389,9 @@ sidebar_position: 6
 ## 0.6.15
 
 - Reparar o problema de, ao abrir arquivos PDF, o painel de extensão indicar que não há permissões.
-- Corrigir o problema de o aprimoramento da caixa de entrada não ser ativado quando o site está configurado para nunca traduzir.## 0.6.14
+- Corrigir o problema de o aprimoramento da caixa de entrada não ser ativado quando o site está configurado para nunca traduzir.
+
+## 0.6.14
 
 - Otimização da tradução em PDF, agora a área de tradução pode ser editada/arrastada/deletada
   - Arraste no canto superior esquerdo, delete no canto superior direito, altere o tamanho no canto inferior direito
@@ -417,7 +435,9 @@ sidebar_position: 6
 
 ## 0.6.3
 
-A linguagem padrão para tradução da caixa de entrada agora pode omitir o espaço, ou seja, //Hello World também pode ser traduzido.## 0.6.2
+A linguagem padrão para tradução da caixa de entrada agora pode omitir o espaço, ou seja, //Hello World também pode ser traduzido.
+
+## 0.6.2
 
 A mais empolgante melhoria na caixa de entrada está aqui:
 
@@ -454,7 +474,9 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 
 - Funcionalidade: Estilo de Tradução de Linha Dividida adiciona uma linha vertical dividida para traduções de linha única
 - Correção: Casos muito raros de divisão de parágrafos.
-- Uma ótima página de orientação de configuração inicial para novos usuários iOS.## 0.5.11
+- Uma ótima página de orientação de configuração inicial para novos usuários iOS.
+
+## 0.5.11
 
 - Suporte à tradução de legendas apenas para exportação de traduções
 - Correção: Alguns elementos não são reconhecidos ao passar o mouse
@@ -475,7 +497,9 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 
 ## 0.5.8
 
-- Corrige o problema que: configuração temporária da duração da tradução do site não tem efeito.## 0.5.7
+- Corrige o problema que: configuração temporária da duração da tradução do site não tem efeito.
+
+## 0.5.7
 
 - Super atualização!
 
@@ -528,7 +552,9 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 
 - Corrigido o problema onde alterar o atalho de passar o mouse exigia uma atualização da página para ter efeito
 
-- Corrigido o problema com o reconhecimento de quebras de linha em arquivos TXT.## 0.5.6
+- Corrigido o problema com o reconhecimento de quebras de linha em arquivos TXT.
+
+## 0.5.6
 
 - Correção: problema de popup de nova aba no macOS.
 - Novidade: Nova página de guia para novo usuário.
@@ -580,7 +606,9 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 
 - Novidade: Permitir que terceiros enviem evento de documento para chamar `toggleTranslatePage`
 - Novidade: App iOS adiciona botão de habilitar extensão e link para comunidades
-- UI: Campo de configurações do OpenAI usa seleção em vez de caixa de entrada de texto.## 0.4.5
+- UI: Campo de configurações do OpenAI usa seleção em vez de caixa de entrada de texto.
+
+## 0.4.5
 
 - Correção: problema com a extensão do safari no iOS 15.0.
 - Correção: atalhos da extensão do safari no macOS.
@@ -617,7 +645,9 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 ## 0.3.15
 
 - UI: permitir sem chave de API para openai
-- UI: permitir a redefinição do Open AI para as configurações padrão## 0.3.14
+- UI: permitir a redefinição do Open AI para as configurações padrão
+
+## 0.3.14
 
 - Dependência: Atualizar o pdf.js para a versão mais recente
 - Correção: cor de fundo da seleção de pdf
@@ -671,7 +701,9 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 
 - Correção: exportação de ebook por userscript
 - Recurso: adicionar ponto final da API personalizada para OpenAI
-- Recurso: adicionar opções temporárias de tempo de site de tradução em `Configurações Avançadas`## 0.3.4
+- Recurso: adicionar opções temporárias de tempo de site de tradução em `Configurações Avançadas`
+
+## 0.3.4
 
 - CI: Construção falhou
 
@@ -712,7 +744,9 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 
 ## 0.2.83
 
-- Recurso: Permitir que o Formulário de entrada de senha mostre a senha.## 0.2.82
+- Recurso: Permitir que o Formulário de entrada de senha mostre a senha.
+
+## 0.2.82
 
 - Correção: Alguns sites usam `span` para estilos, então usamos `font` em vez de span para o invólucro do alvo da tradução
 - Correção: Limite máximo de tokens do OpenAI, alterar o máximo de caracteres de 1500 para 1300.
@@ -767,7 +801,9 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 
 ## 0.2.71
 
-- Correção: permissão de userscript do Open AI## 0.2.70
+- Correção: permissão de userscript do Open AI
+
+## 0.2.70
 
 - Correção: Espaço reservado para Open AI
 
@@ -813,7 +849,9 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 - Correção: mudança de transparência de 0.4 para 0.618 [#147](https://github.com/immersive-translate/immersive-translate/pull/147)
 - Correção: dicas de atalhos de popup
 - Desempenho: de solicitações seriais para concorrentes
-- Melhoria na detecção de contagem em japonês## 0.2.62
+- Melhoria na detecção de contagem em japonês
+
+## 0.2.62
 
 - Novidade: Adicionada a regra waitForSelectors, para corrigir alguns sites como o reddit
 
@@ -876,7 +914,9 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 
 - Uso do esbuild mais recente
 - Uso da versão mais recente do deno
-- CI: envio do código-fonte para o Firefox## 0.2.51
+- CI: envio do código-fonte para o Firefox
+
+## 0.2.51
 
 - Correção da necessidade de login no Google Auth no Chrome/Firefox
 - Substituição dos links do serviço de tradução
@@ -943,7 +983,9 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 
 - Suporte a atalhos para mostrar a tradução da máscara
 - Suporte à ativação de recursos beta no painel do desenvolvedor
-- Correção dos atalhos na extensão móvel## 0.2.38
+- Correção dos atalhos na extensão móvel
+
+## 0.2.38
 
 - Suporte ao carregamento de tema
 - Correção do getpocket.com
@@ -1017,7 +1059,9 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 
 ## 0.2.25
 
-- Suporte à tradução de iframe, como o e-mail do QQ, tweet embutido.## 0.2.24
+- Suporte à tradução de iframe, como o e-mail do QQ, tweet embutido.
+
+## 0.2.24
 
 - Adicionar temporariamente site de tradução por um tempo
 - Corrigir API do navegador do userscript do stay.app
@@ -1095,7 +1139,9 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 - Remover importmap
 - Corrigir tradução dos menus de contexto
 - Restaurar página quando a opção de nunca traduzir este site estiver ativada
-- Adicionar descrição para adicionar URL## 0.2.8
+- Adicionar descrição para adicionar URL
+
+## 0.2.8
 
 - Detectar o idioma do agente de usuário para o idioma da interface
 - Corrigir bug de quebra de linha.
@@ -1176,7 +1222,9 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 
 ## 0.0.57
 
-- Mudar UI do popup, para uso mais fácil## 0.0.56
+- Mudar UI do popup, para uso mais fácil
+
+## 0.0.56
 
 - Correção do tempo de espera do Chrome
 - Correção do erro de divisão de frases.
@@ -1250,7 +1298,9 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 ## 0.0.42
 
 - Correção da tag BR
-- Tratar tags de bloco conforme regras## 0.0.41
+- Tratar tags de bloco conforme regras
+
+## 0.0.41
 
 - Correção na verificação de elemento inline
 - Adição de opção de log de depuração para desenvolvedores
@@ -1305,7 +1355,9 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 - Suporte à definição da área da página que precisa ser traduzida. Assim, você pode traduzir mais áreas.
 - Suporte à definição da contagem dos primeiros x textos para traduzir imediatamente.
 - Correção na tradução duplicada ao mudar a tradução
-- Melhoria na UI do popup## 0.0.33
+- Melhoria na UI do popup
+
+## 0.0.33
 
 - Suporte a mais idiomas, zh-TW, en
 
@@ -1379,7 +1431,9 @@ A mais empolgante melhoria na caixa de entrada está aqui:
 
 ## 0.0.13
 
-- Suporte a userscript## 0.0.4.8
+- Suporte a userscript
+
+## 0.0.4.8
 
 - Corrigir ordem do código.
 - Suporte a interface de popup básica

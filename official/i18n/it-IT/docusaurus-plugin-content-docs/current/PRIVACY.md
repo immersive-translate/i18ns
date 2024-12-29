@@ -26,7 +26,10 @@ Hai la possibilità di cancellare il tuo Account, e dovresti capire che con la c
 
 ## Consenso
 
-- Utilizzando la nostra app, accetti la raccolta e l'uso dei tuoi dati come descritto in questa politica.## Informazioni sull'Applicazione Mobile
+- Utilizzando la nostra app, accetti la raccolta e l'uso dei tuoi dati come descritto in questa politica.
+
+## Informazioni sull'Applicazione Mobile
+
 - L'applicazione mobile **Immersive Translate** è sviluppata sulla base di Firefox. Oltre ad aderire ai termini di questo accordo menzionati in precedenza, si prega di fare riferimento alla politica sulla privacy di Mozilla per il Browser Firefox all'indirizzo [Avviso sulla Privacy di Firefox](https://www.mozilla.org/privacy/firefox/).
 - **Immersive Translate** utilizza **Adjust** per fornire e analizzare le campagne pubblicitarie. Il **SDK di Adjust** raccoglie dati non personalmente identificabili che non possono essere utilizzati per identificare direttamente gli utenti, inclusi **identificatori di dispositivo (IMEI, Android ID, OAID), impressioni pubblicitarie e clic**. Per maggiori informazioni su Adjust, si prega di visitare il [Sito Web di Adjust](https://www.adjust.com/) e la [Politica sulla Privacy di Adjust](https://www.adjust.com/terms/privacy-policy/).
 

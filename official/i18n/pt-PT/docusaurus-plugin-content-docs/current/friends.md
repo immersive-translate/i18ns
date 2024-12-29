@@ -4,7 +4,9 @@ Immersive Translate oferece um programa de afiliados fácil de aderir onde qualq
 
 Portanto, para cada assinatura anual, você ganhará $19.99 (20% de $99.99), e para a assinatura mensal, você ganhará $1.99 (20% de $9.99).
 
-Se você tiver alguma dúvida, pode nos contatar [aqui](https://letterbird.co/immersivetranslate).## Criadores Com Quem Adoramos Colaborar
+Se você tiver alguma dúvida, pode nos contatar [aqui](https://letterbird.co/immersivetranslate).
+
+## Criadores Com Quem Adoramos Colaborar
 
 - Você tem usado o Immersive Translate e é fã dele.
 - Você tem sua própria audiência, incluindo, mas não limitado a, audiências dessas redes sociais como TikTok, Twitter, canais no YouTube, Blogs etc.

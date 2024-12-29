@@ -38,7 +38,9 @@ Comandi Comuni per le Lingue：
 | Francese              | /fr     |
 | Spagnolo              | /es     |
 
-Per altri codici lingua vedi [qui](#codice-lingua)## Compatibilità
+Per altri codici lingua vedi [qui](#codice-lingua)
+
+## Compatibilità
 
 - Browser noti per essere esplicitamente non supportati:
 
@@ -79,7 +81,9 @@ Questo perché la casella di risposta di qura non può inserire più di 2 spazi,
 
 - Casella di input non risponde
   - Verificare la compatibilità di quanto sopra
-  - Andare su https://www.google.com e provarlo, gli spazi sono più veloci## Codice Lingua
+  - Andare su https://www.google.com e provarlo, gli spazi sono più veloci
+
+## Codice Lingua
 
 Tutti i codici lingua sono i seguenti:
 
