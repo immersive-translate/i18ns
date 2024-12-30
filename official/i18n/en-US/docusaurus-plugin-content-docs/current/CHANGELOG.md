@@ -10,7 +10,6 @@ sidebar_position: 6
 - Improved: Improved descriptions for Traditional Chinese user interface language.
 - Improved: Layout adjustment for right-to-left languages in panels and settings pages.
 
-
 ## 1.12.6 Preview (2024-12-26)
 
 - Fix: Issue where the mouse hover function loads the wrong translation service under certain conditions.
