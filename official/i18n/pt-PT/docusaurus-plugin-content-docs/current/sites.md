@@ -4,7 +4,9 @@
 
 - [Kadaza](https://www.kadaza.com/) - site de navegação estrangeiro, fácil para você navegar rapidamente pelos principais sites mainstream
 - [Buzzing](https://www.buzzing.cc) - Uma rápida olhada bilíngue nas notícias populares do exterior
-- [Navegação de Imigração Digital](https://shuziyimin.org/) - Navegação de sites estrangeiros organizada pela Imigração Digital## Notícias/Revistas
+- [Navegação de Imigração Digital](https://shuziyimin.org/) - Navegação de sites estrangeiros organizada pela Imigração Digital
+
+## Notícias/Revistas
 
 - [New Yorker](https://www.newyorker.com/) - The New Yorker, reportagens e comentários políticos e culturais.
 - [The Atlantic](https://www.theatlantic.com/) - The Atlantic, a histórica revista, "Nossa percepção do mundo é unilateral e provisória, sujeita a análise, escrutínio e revisão."
@@ -19,7 +21,9 @@
 - [The Intercept](https://theintercept.com/) - The Intercept, um meio de comunicação online fundado pelo eBay.
 - [Mcsweeneys](https://www.mcsweeneys.net/) - Uma Revista Online de Humor e Sátira
 - [Semafor](https://www.semafor.com/) - O artigo de notícias é um formato antigo, projetado para mais de um século de jornais impressos, mas está mostrando sua idade. Muitas notícias - até mesmo algumas das melhores notícias de hoje - entrelaçam fatos e análises tão intimamente que os leitores têm dificuldade em distinguir os dois. Os artigos nem sempre são honestos ao fornecer pontos de vista opostos. Além disso, geralmente são contados de uma única perspectiva. Tudo isso torna difícil para os leitores, com tempo limitado, acreditar - ou mesmo entender - o quadro geral. Assim, reconstruímos a forma da história no que chamamos de Semaform. Este formato separa fatos indiscutíveis da análise dos jornalistas sobre esses fatos, fornecendo um ponto de vista diferente e mais abrangente e compartilhando a forte cobertura de outros meios de comunicação sobre o tópico.
-- [Noema Magazine - Reflexões](https://www.noemamag.com/) - Publica artigos, entrevistas, relatórios, vídeos e obras de arte na interseção de filosofia, governança, geopolítica, economia, tecnologia e cultura. Ao fazer isso, nossa abordagem única é sair do âmbito usual e cruzar barreiras disciplinares, sociais e culturais. Da inteligência artificial e a crise climática ao futuro da democracia e do capitalismo, a Noema Magazine busca uma compreensão mais profunda dos desafios mais prementes do século 21.## Relatório Detalhado
+- [Noema Magazine - Reflexões](https://www.noemamag.com/) - Publica artigos, entrevistas, relatórios, vídeos e obras de arte na interseção de filosofia, governança, geopolítica, economia, tecnologia e cultura. Ao fazer isso, nossa abordagem única é sair do âmbito usual e cruzar barreiras disciplinares, sociais e culturais. Da inteligência artificial e a crise climática ao futuro da democracia e do capitalismo, a Noema Magazine busca uma compreensão mais profunda dos desafios mais prementes do século 21.
+
+## Relatório Detalhado
 
 - [Grid](https://www.grid.news/) - Opiniões e reportagens mais aprofundadas.
 - [pudding](https://pudding.cool/) - Pudding relata que a tipografia é confortável e explica as coisas visualmente.
@@ -42,7 +46,9 @@
 - [Vox](https://www.youtube.com/c/Vox/featured) - Um blogueiro no Youtube que compartilha explicações sobre todo tipo de coisas, como o Talibã, como o Novo Vírus da Coroa, etc., com vídeos de muito alta qualidade.
 - [Vídeo Aula - Grupo do Reddit](https://www.reddit.com/r/lectures/)
 - [Assistir e Aprender - Grupo do Reddit](https://www.reddit.com/r/WatchandLearn/)
-- [Vídeo Downbeat - Grupo do Reddit](https://www.reddit.com/r/mealtimevideos/)## Colunas
+- [Vídeo Downbeat - Grupo do Reddit](https://www.reddit.com/r/mealtimevideos/)
+
+## Colunas
 
 - [Cal Newport](https://www.newyorker.com/contributors/cal-newport) - Autores de Trabalho Profundo
 - [Lista de obras de colunistas do New Yorker](https://www.newyorker.com/news/our-columnists)
@@ -54,7 +60,9 @@
 - [Austin Kleon](https://austinkleon.substack.com/) - Roubando Autores Como um Artista
 - [Paul Graham](http://paulgraham.com/articles.html) - Fundador da YC
 - [Gwern](https://www.gwern.net/index) - Autor e pesquisador americano
-- [Espere, mas Por Que](https://waitbutwhy.com/homepage) - Um blog hospedado por Tim Urban, Espere, Mas Por Que é um blog que cobre uma ampla gama de tópicos, desde ciência e tecnologia até filosofia e sociedade. O blog foi fundado por Tim Urban e Andrew Finn em 2013 e, desde então, ganhou uma enorme audiência com mais de 24 milhões de leitores em 195 países. O blog é conhecido por suas postagens profundas e bem pesquisadas, que muitas vezes incluem ilustrações feitas à mão. A prioridade do blog é publicar uma nova postagem toda terça-feira, mas eles também publicam postagens menores ocasionalmente. O objetivo do blog é explorar o mundo e compartilhar conhecimento de uma maneira divertida e envolvente.## Relacionado a Produtos
+- [Espere, mas Por Que](https://waitbutwhy.com/homepage) - Um blog hospedado por Tim Urban, Espere, Mas Por Que é um blog que cobre uma ampla gama de tópicos, desde ciência e tecnologia até filosofia e sociedade. O blog foi fundado por Tim Urban e Andrew Finn em 2013 e, desde então, ganhou uma enorme audiência com mais de 24 milhões de leitores em 195 países. O blog é conhecido por suas postagens profundas e bem pesquisadas, que muitas vezes incluem ilustrações feitas à mão. A prioridade do blog é publicar uma nova postagem toda terça-feira, mas eles também publicam postagens menores ocasionalmente. O objetivo do blog é explorar o mundo e compartilhar conhecimento de uma maneira divertida e envolvente.
+
+## Relacionado a Produtos
 
 - [Tendências no Product Hunt (producthunt-trending.js.org)](https://producthunt-trending.js.org/?range=monthly) -
   Produtos organizados por mês, ano.
@@ -70,7 +78,9 @@
 
 ## Dados
 
-- [Centro de Pesquisas Pew](https://www.pewresearch.org/) - Centro de Pesquisas Pew, Estatísticas, Pesquisa de Análise de Questionários## Tecnologia
+- [Centro de Pesquisas Pew](https://www.pewresearch.org/) - Centro de Pesquisas Pew, Estatísticas, Pesquisa de Análise de Questionários
+
+## Tecnologia
 
 - [Hacker News](https://news.ycombinator.com/news) - Comunidade de Tecnologia de Alta Qualidade
   - [Hacker News Search](https://hn.algolia.com/) - pesquisa
@@ -100,7 +110,9 @@
 
 ## Sociais
 
-- [Micro.blog](https://micro.blog/) - Plataforma de Blogging Leve Paga## Misturada
+- [Micro.blog](https://micro.blog/) - Plataforma de Blogging Leve Paga
+
+## Misturada
 
 - [Uma página agrega múltiplos feeds de notícias](https://upstract.com/) - Upstract
 - [Notícias agregadas bem desenhadas](https://spike.news/) - Spike
@@ -131,7 +143,9 @@
 ## Mídia em língua inglesa gerida por uma equipe chinesa
 
 - [Radii](https://radii.co/about) - Reportando sobre Jovens Chineses em Inglês (Contando a História dos Jovens Chineses para o Mundo)
-- [Sixthtone](https://www.sixthtone.com/) - Sixthtone, notícias relacionadas à China sob a perspectiva das pessoas envolvidas## Escrita Chinesa
+- [Sixthtone](https://www.sixthtone.com/) - Sixthtone, notícias relacionadas à China sob a perspectiva das pessoas envolvidas
+
+## Escrita Chinesa
 
 - [The Initium News](https://theinitium.com/) - theinitium
 - [thenewslens](https://www.thenewslens.com/) - Revisão Crítica, Mídia Independente de Taiwan

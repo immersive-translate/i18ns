@@ -3,13 +3,16 @@
 ## Ativação do Gemini
 
 1. **Configurações do Desenvolvedor:**
+
    - Acesse as [Configurações do Desenvolvedor](https://dash.immersivetranslate.com/#developer) no Immersive Translate.
    - Expanda a seção "Edit Full User Config", e procure ou adicione a seguinte linha:
+
      ```json
      "gemini": {
       "provider": "pro",
       "visible": false
      ```
+
    - Mude o valor de `"visible"` para `true` para exibir o serviço Gemini.
 
 ## Obtenção da Chave de API

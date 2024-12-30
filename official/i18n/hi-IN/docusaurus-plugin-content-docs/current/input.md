@@ -40,7 +40,9 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 अन्य भाषा कोडों के लिए [यहाँ](#language-code) देखें
 
-Please note, some technical terms and commands like `/en`, `/zh`, etc., are kept unchanged as they are used in a specific context and are part of the software's command language.## संगतता
+Please note, some technical terms and commands like `/en`, `/zh`, etc., are kept unchanged as they are used in a specific context and are part of the software's command language.
+
+## संगतता
 
 - जिन ब्राउज़रों को स्पष्ट रूप से असमर्थित जाना जाता है:
 
@@ -84,7 +86,9 @@ Please note, some technical terms and commands like `/en`, `/zh`, etc., are kept
 
 - इनपुट बॉक्स प्रतिक्रिया नहीं दे रहा
   - ऊपर दी गई संगतता की जाँच करें
-  - https://www.google.com पर जाएँ और इसे आज़माएँ, स्पेस तेज़ हैं## भाषा कोड
+  - https://www.google.com पर जाएँ और इसे आज़माएँ, स्पेस तेज़ हैं
+
+## भाषा कोड
 
 सभी भाषा कोड निम्नलिखित हैं:
 

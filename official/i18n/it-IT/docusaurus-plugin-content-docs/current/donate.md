@@ -31,7 +31,9 @@ Puoi comunque fare queste cose per aiutarci ora:
 
 <div align="center">
 <img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
-</div>## Una nota più lunga
+</div>
+
+## Una nota più lunga
 
 Ciao, sono Owen, e personalmente ho beneficiato degli strumenti gratuiti sviluppati da innumerevoli volontari in passato, il che ha portato a tanta conoscenza per tutta la vita, rafforzando la mia convinzione che l'accesso **UGUALE** alle informazioni sia il diritto più importante che tutti noi dovremmo avere. Quindi, ho creato molti strumenti bilingui gratuiti per aiutare le persone ad accedere più efficacemente (aspettando con impazienza il giorno in cui potremo allontanarci da questi aiuti)
 
@@ -58,7 +60,9 @@ Quindi Immersive Translate [è nato](https://twitter.com/OwenYoungZh/status/1588
 
 Poi passo dopo passo ottimizziamo per varie esigenze di lettura, incluso il supporto per la traduzione in tempo reale di file PDF, il supporto per la traduzione in tempo reale e la produzione di e-book Epub, il supporto per file di sottotitoli, file TXT e così via.
 
-Solo negli ultimi cinque mesi, Immersive Translate ha aiutato 400.000 utenti ad abituarsi a guardare le informazioni in una lingua straniera, il che è una testimonianza del ruolo critico che un buon strumento può svolgere nell'abbattere le barriere informative. Grazie a tutti coloro che hanno aiutato con Immersive Translate in passato, continueremo a portare l'esperienza di Immersive Translate a più persone, affinché più persone possano godere dei dividendi della tecnologia.## Collegamenti
+Solo negli ultimi cinque mesi, Immersive Translate ha aiutato 400.000 utenti ad abituarsi a guardare le informazioni in una lingua straniera, il che è una testimonianza del ruolo critico che un buon strumento può svolgere nell'abbattere le barriere informative. Grazie a tutti coloro che hanno aiutato con Immersive Translate in passato, continueremo a portare l'esperienza di Immersive Translate a più persone, affinché più persone possano godere dei dividendi della tecnologia.
+
+## Collegamenti
 
 - [Installazione](/docs/installation)
 - [Come utilizzare](/docs/usage)

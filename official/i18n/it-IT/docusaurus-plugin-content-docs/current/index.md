@@ -5,7 +5,9 @@ title: Introduzione
 
 Un'estensione di traduzione di pagine web **gratuita, efficace, senza fronzoli, rivoluzionaria, acclamata, alimentata da intelligenza artificiale, bilingue** per aiutarti a colmare efficacemente il divario informativo, disponibile sul tuo telefono!
 
-<img src="https://s.immersivetranslate.com/assets/introduce_en.jpg" width="1200"/>## Funzionalità
+<img src="https://s.immersivetranslate.com/assets/introduce_en.jpg" width="1200"/>
+
+## Funzionalità
 
 - **Lettura immersiva di siti web in lingua straniera** Riconoscendo in modo intelligente l'area principale di contenuto di una pagina web e traducendola bilingue, Immersive Translate offre una nuova esperienza di lettura in lingua straniera, da qui il nome "Immersive Translate".
 - **Potente traduttore per caselle di input** trasforma la casella di input su qualsiasi pagina web in un traduttore multilingue, sbloccando istantaneamente conversazioni bilingui in tempo reale con Google Search, ChatGPT e altro ancora.
@@ -22,7 +24,9 @@ Questa estensione è gratuita, spero che tu possa accedere facilmente, piacevolm
 Puoi rimanere in contatto con noi su:
 
 - [Segui il feed Twitter ufficiale di Immersive Translate](https://twitter.com/immersivetrans)
-- [Feedback sui problemi](https://github.com/immersive-translate/immersive-translate/issues/)## cataloghi
+- [Feedback sui problemi](https://github.com/immersive-translate/immersive-translate/issues/)
+
+## cataloghi
 
 - [Sito ufficiale](https://immersivetranslate.com/en/?force=1)
 - [Installazione](/docs/installation/)
@@ -58,7 +62,9 @@ Puoi rimanere in contatto con noi su:
 <img src="https://immersivetranslate.com/assets/immersive-app-store.png" width="150" alt="qrcode app store" />
 </div>
 
-> Istruzioni: Dopo la prima installazione, devi abilitare l'estensione Immersive Translate in safari -> Gestisci Estensioni -> **Abilita l'Estensione Immersive Translate** e concedile **Sempre l'Accesso a Tutti i Siti Web**, se hai domande, puoi guardare il [video tutorial](https://s.immersivetranslate.com/videos/ios_safari_turorial_en.mp4)## Android
+> Istruzioni: Dopo la prima installazione, devi abilitare l'estensione Immersive Translate in safari -> Gestisci Estensioni -> **Abilita l'Estensione Immersive Translate** e concedile **Sempre l'Accesso a Tutti i Siti Web**, se hai domande, puoi guardare il [video tutorial](https://s.immersivetranslate.com/videos/ios_safari_turorial_en.mp4)
+
+## Android
 
 Clicca per scaricare il [Browser Immersive Translate per Android](/android/), dopo il download, devi abilitare manualmente [Immersive Translate] in [Estensioni], si prega di controllare il seguente tutorial:
 
@@ -72,7 +78,9 @@ Puoi anche provare ad installare Immersive Translate con altri browser Android, 
 - [Lemur Browser](https://lemurbrowser.com/)
 - [Kiwi Browser](https://kiwibrowser.com/)
 
-Una volta installato, cerca direttamente [Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) negli add-on / chrome store per installarlo.### Installazione tramite Tampermonkey
+Una volta installato, cerca direttamente [Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) negli add-on / chrome store per installarlo.
+
+### Installazione tramite Tampermonkey
 
 Se non riesci a installare l'estensione ufficiale per Immersive Translate nel modo sopra descritto (raccomandiamo di usare l'estensione ufficiale per una migliore performance e più funzionalità), puoi installare Tampermonkey nel seguente modo:
 
@@ -85,7 +93,9 @@ Apri [questo indirizzo](https://download.immersivetranslate.com/immersive-transl
 3. Installa [Tampermonkey](https://download.immersivetranslate.com/immersive-translate.user.js) per questa estensione (apri questo link nel tuo browser Firefox per vedere la pagina di installazione)
 4. Dopo l'installazione, apri qualsiasi pagina web e l'icona della finestra fluttuante dell'estensione Immersive Translate apparirà sul lato destro.
 
-<!--## Una nota più dettagliata
+<!--
+
+## Una nota più dettagliata
 
 Ciao, sono Owen, e in passato ho beneficiato personalmente degli strumenti gratuiti sviluppati da innumerevoli volontari e ho acquisito così tanta conoscenza per tutta la vita che ciò rafforza la mia convinzione che l'accesso **UGUALE** alle informazioni sia il diritto più importante che tutti noi abbiamo. Quindi, ho creato molti strumenti bilingue gratuiti per aiutare le persone ad accedere più efficacemente (aspettando con ansia il giorno in cui potremo allontanarci da questi aiuti)
 
@@ -112,7 +122,9 @@ Quindi Immersive Translate [è nato](https://twitter.com/OwenYoungZh/status/1588
 
 Poi abbiamo ottimizzato passo dopo passo per varie esigenze di lettura, inclusi il supporto per la traduzione in tempo reale di file PDF, il supporto per la traduzione in tempo reale e la produzione di e-book Epub, il supporto per file di sottotitoli, file TXT e così via.
 
-I tempi sono duri, e sappiamo che non tutti possono permettersi di pagare per sempre più strumenti e contenuti, quindi stiamo rendendo questo strumento disponibile gratuitamente per tutti coloro che ne hanno bisogno, e crediamo fermamente che l'accesso uguale alle informazioni sia il diritto più meritato che tutti noi abbiamo.## Descrizione della Sponsorizzazione
+I tempi sono duri, e sappiamo che non tutti possono permettersi di pagare per sempre più strumenti e contenuti, quindi stiamo rendendo questo strumento disponibile gratuitamente per tutti coloro che ne hanno bisogno, e crediamo fermamente che l'accesso uguale alle informazioni sia il diritto più meritato che tutti noi abbiamo.
+
+## Descrizione della Sponsorizzazione
 
 Non abbiamo più bisogno di supporto finanziario al momento, ma puoi comunque aiutarci facendo queste cose:
 
