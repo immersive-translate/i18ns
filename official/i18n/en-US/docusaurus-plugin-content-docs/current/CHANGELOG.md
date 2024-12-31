@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.12.7 Preview (2024-12-30)
+## 1.12.7 Release (2024-12-30)
 
 - Improved: Bing/Google now support Portuguese (Brazil).
 - Improved: Improved descriptions for Traditional Chinese user interface language.

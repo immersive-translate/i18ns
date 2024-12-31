@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.12.7 Preview (2024-12-30)
+## 1.12.7 Release (2024-12-30)
 
 - 优化：bing/google支持葡萄牙语(巴西)。
 - 优化：繁体用户界面语言描述。
