@@ -308,6 +308,10 @@ YouTube 自带机翻字幕，繁体中文会出现格式错误，导致所有字
 
 油猴脚本要求脚本的所有请求都需要在脚本的开头声明权限，比如：`@connect api.google.com`，所以，如果你需要新增一个非默认的域名，请在油猴脚本开头仿照其他域名进行声明。
 
+### 浏览器报错 “create menu error Error: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)”？
+
+这个错误通常与浏览器本身的缓存或本地存储有关，具体是在创建或访问文件 `MANIFEST-000001` 时发生的。在确保磁盘充足的情况下，您可以通过重装浏览器解决该问题。
+
 ### 双语字幕如何下载 / 其他网站双语字幕能否下载？
 
 - 目前仅支持在电脑端进行字幕下载。
