@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.12.8 Preview (2025-3-3)
+## 1.12.8 Preview (2025-1-3)
 
 - 修复: iOS 18.3 设置页无法正常显示。
 - 修复: 推特翻译时缺少空行。

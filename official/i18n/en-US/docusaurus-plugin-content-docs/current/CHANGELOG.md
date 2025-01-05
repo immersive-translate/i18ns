@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.12.8 Preview (2025-3-3)
+## 1.12.8 Preview (2025-1-3)
 
 - Fix: the issue where the iOS 18.3 settings page cannot display properly.
 - Fix: the lack of empty lines when translating tweets.
