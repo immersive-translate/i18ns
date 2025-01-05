@@ -1323,5 +1323,11 @@
   },
   "page.index.downloadBtn.edgeBrowser.tag": {
     "message": "Install from built-in store"
+  },
+  "page.index.downloadBtn.miniProgram": {
+    "message": "वीचैट मिनी प्रोग्राम"
+  },
+  "page.index.downloadBtn.miniProgram.tag": {
+    "message": "दस्तावेज़ अनुवाद"
   }
 }

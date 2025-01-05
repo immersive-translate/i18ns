@@ -1323,5 +1323,11 @@
   },
   "page.index.downloadBtn.edgeBrowser.tag": {
     "message": "需在內建擴充套件商店安裝"
+  },
+  "page.index.downloadBtn.miniProgram": {
+    "message": "微信小程序"
+  },
+  "page.index.downloadBtn.miniProgram.tag": {
+    "message": "文件翻譯"
   }
 }

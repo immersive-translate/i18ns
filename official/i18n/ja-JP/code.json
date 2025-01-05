@@ -1323,5 +1323,11 @@
   },
   "page.index.downloadBtn.edgeBrowser.tag": {
     "message": "Install from built-in store"
+  },
+  "page.index.downloadBtn.miniProgram": {
+    "message": "微信ミニプログラム"
+  },
+  "page.index.downloadBtn.miniProgram.tag": {
+    "message": "文書翻訳"
   }
 }

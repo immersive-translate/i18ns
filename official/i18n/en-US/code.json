@@ -1323,5 +1323,11 @@
   },
   "page.pricing.header.limitedTimeDiscount": {
     "message": "Sign up for Pro membership now and enjoy a <strong>limited-time discount</strong> 👇"
+  },
+  "page.index.downloadBtn.miniProgram": {
+    "message": "WeChat Mini Program"
+  },
+  "page.index.downloadBtn.miniProgram.tag": {
+    "message": "Doc Translation"
   }
 }

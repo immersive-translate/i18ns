@@ -506,6 +506,12 @@
   "page.index.downloadBtn.edgeBrowser.tag": {
     "message": "需在内置扩展商店安装"
   },
+  "page.index.downloadBtn.miniProgram": {
+    "message": "微信小程序"
+  },
+  "page.index.downloadBtn.miniProgram.tag": {
+    "message": "文档翻译"
+  },
   "page.index.supportservice.title": {
     "message": "已支持10+翻译服务"
   },
