@@ -204,7 +204,7 @@ Android：
 
 ### 21. Pro会员翻译额度与用量如何查询
 
-- AI翻译（包括OpenAI）500w Token，DeepL 翻译 1500w Token
+- AI翻译（包括OpenAI）500w Token，DeepL 翻译 2000w Token
 
   > OpenAI 的定价是基于 token 的，对于英文文本，1个token大约是4个字符或0.75个单词。通常1000个Token约等于750个英文单词或者400~500个汉字。
 
@@ -212,7 +212,7 @@ Android：
 
 ### 22. 各 AI 翻译是否共用额度
 
-是的，Openai，Gemini，Claude 共用 AI 翻译 500w token 限额。
+是的，Openai，Gemini，Claude 共用 AI 翻译 2000w token 限额。
 
 ## 视频翻译相关
 
