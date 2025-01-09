@@ -78,7 +78,7 @@
     "description": "The label of footer link with label=Telegram 用户群 linking to https://t.me/+rq848Z09nehlOTgx"
   },
   "link.item.html.main": {
-    "message": "<div class=\"footer-info-tw\"><div class=\"footer-title-tw\"><img src=\"https://s.immersivetranslate.com/static/official-static/img/logo.png\"/>Immersive Translate</div><div class=\"footer-desc\">원클릭으로 이중 언어 읽기를 시작하고 정보 습득 효율성을 높이세요.<a class=\"install\" href=\"https://immersivetranslate.com/\" target=\"_blank\">즉시 설치</a></div><div class=\"footer-address footer-margin-top\" style=\"text-decoration: underline; color:\"><a style=\"color: #ffffff;\" href=\"https://immersivetranslate.com/docs/PRIVACY/\" target=\"_blank\">개인정보 보호정책</a></div></div>"
+    "message": "<div class=\"footer-info-tw\">© 2025 FUNSTORY. Al LIMITED<div class=\"footer-title-tw\" style=\"margin-top: 10px\"><img src=\"https://s.immersivetranslate.com/static/official-static/img/logo.png\"/>Immersive Translate</div><div class=\"footer-desc\">원클릭으로 이중 언어 읽기를 시작하고 정보 습득 효율성을 높이세요.<a class=\"install\" href=\"https://immersivetranslate.com/\" target=\"_blank\">즉시 설치</a></div><div class=\"footer-address footer-margin-top\" style=\"text-decoration: underline; color:\"><a style=\"color: #ffffff;\" href=\"https://immersivetranslate.com/docs/PRIVACY/\" target=\"_blank\">개인정보 보호정책</a></div></div>"
   },
   "link.item.html.end": {
     "message": ""
