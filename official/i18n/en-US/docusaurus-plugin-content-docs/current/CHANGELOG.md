@@ -10,7 +10,7 @@ sidebar_position: 6
 - Fixed: The issue where **Mouse Hover Translation** does not work on some websites.
 - Optimization: DeepLx now supports Arabic.
 - Optimization: Improved original language recognition. Previously, pages containing multiple languages might not get translated, but now they are translated correctly.
-- Optimization: For Twitter, multiline content translations will not wrap by default; wrapping occurs only if it exceeds 10 lines or 1000 characters. This can be set to wrap by default via settings under **Advanced Settings** -> **Enable automatic line wrapping for long paragraphs**.
+- Optimization: For Twitter, multiline content translations are set to not wrap by default. Wrapping will occur only when content exceeds 10 lines or 1000 characters. Wrapping can be enabled through settings **Advanced Settings** -> **Enable automatic line wrapping for long paragraphs**.
 
 ## 1.12.8 Preview (2025-01-03)
 
