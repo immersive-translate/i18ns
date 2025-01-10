@@ -1064,13 +1064,13 @@
     "message": "立即下載"
   },
   "page.index.downloadBtn.installExtension": {
-    "message": "安裝瀏覽器擴充套件"
+    "message": "安裝瀏覽器插件（桌面端使用）"
   },
   "page.index.downloadBtn.orUseOnMobile": {
-    "message": "或者直接在手機上使用"
+    "message": "或者直接在手機/平板上使用"
   },
   "page.index.downloadBtn.useOnMobile": {
-    "message": "在手機上使用"
+    "message": "在手機/平板上使用"
   },
   "page.index.downloadBtn.macSafari": {
     "message": "Mac Safari 擴充套件"

@@ -1061,13 +1061,13 @@
     "message": "Baixar agora"
   },
   "page.index.downloadBtn.installExtension": {
-    "message": "Install browser plugin"
+    "message": "Install browser plugin (For desktop use)"
   },
   "page.index.downloadBtn.orUseOnMobile": {
-    "message": "Or use it directly on the mobile phone."
+    "message": "Or use it directly on your phone/tablet."
   },
   "page.index.downloadBtn.useOnMobile": {
-    "message": "Using on the mobile phone"
+    "message": "Use on mobile/tablet"
   },
   "page.index.downloadBtn.macSafari": {
     "message": "Mac Safari"

@@ -1064,13 +1064,13 @@
     "message": "즉시 다운로드"
   },
   "page.index.downloadBtn.installExtension": {
-    "message": "브라우저 플러그인 설치"
+    "message": "브라우저 플러그인 설치(데스크탑 사용)"
   },
   "page.index.downloadBtn.orUseOnMobile": {
-    "message": "혹은 바로 휴대폰에서 사용하세요."
+    "message": "또는 휴대폰/태블릿에서 직접 사용"
   },
   "page.index.downloadBtn.useOnMobile": {
-    "message": "휴대폰에서 사용하기"
+    "message": "휴대폰/태블릿에서 사용"
   },
   "page.index.downloadBtn.macSafari": {
     "message": "Mac Safari 확장 기능"
