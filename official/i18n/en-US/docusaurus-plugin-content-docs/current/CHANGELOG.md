@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.13.1 Preview (2024-01-10)
+## 1.13.1 Preview (2025-01-10)
 
 - Added: When the translated text and the original text belong to the same writing system, display the translation using a specialized style.
 - Fixed: The issue where **Mouse Hover Translation** does not work on some websites.
@@ -12,7 +12,7 @@ sidebar_position: 6
 - Optimization: Improved original language recognition. Previously, pages containing multiple languages might not get translated, but now they are translated correctly.
 - Optimization: For Twitter, multiline content translations will not wrap by default; wrapping occurs only if it exceeds 10 lines or 1000 characters. This can be set to wrap by default via settings under **Advanced Settings** -> **Enable automatic line wrapping for long paragraphs**.
 
-## 1.12.8 Preview (2025-1-3)
+## 1.12.8 Preview (2025-01-03)
 
 - Fix: the issue where the iOS 18.3 settings page cannot display properly.
 - Fix: the lack of empty lines when translating tweets.
