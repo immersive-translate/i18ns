@@ -11,8 +11,7 @@ loop
 muted
 plays-inline
 width="1200px"
-poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src="https://s.immersivetranslate.com/immersive-translate-intro-demo-2023-06-17.mp4" type="video/mp4"/>このビデオを見るにはHTML5ビデオをサポートするブラウザが必要です。
-</video>
+poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src="https://s.immersivetranslate.com/immersive-translate-intro-demo-2023-06-17.mp4" type="video/mp4"/>このビデオを見るにはHTML5ビデオをサポートするブラウザが必要です。</video>
 
 ## 主要特徴
 
@@ -95,7 +94,7 @@ poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src
 
 もし公式の拡張機能を上記の方法でインストールできない場合（公式の拡張機能の使用を推奨します。パフォーマンスが良く、機能も豊富です）、以下の方法でTampermonkeyスクリプトをインストールできます：
 
-TampermonkeyスクリプトのURL： <https://download.immersivetranslate.com/immersive-translate.user.js>
+TampermonkeyスクリプトのURL： https://download.immersivetranslate.com/immersive-translate.user.js
 
 Tampermonkey拡張機能をインストールしたブラウザで[このURL](https://download.immersivetranslate.com/immersive-translate.user.js)を開くと、インストールできます。**Android版Firefoxブラウザ**を例にとると：
 

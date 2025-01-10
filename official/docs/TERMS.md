@@ -60,7 +60,7 @@ sidebar_position: 13
 
 如果您满足退款条件，我们将在7-10个工作日内处理并通知您。如果您之前已经获得了我们的退款，我们保留拒绝额外退款请求的权利。这是为了防止我们的退款系统被滥用，以促进客户之间的公平使用。
 
-**退款流程**：如果您满足退款条件，请通过<support@immersivetranslate.com>与我们联系。我们的客户服务团队将审查您的请求并指导您完成退款流程。
+**退款流程**：如果您满足退款条件，请通过[support@immersivetranslate.com](mailto:support@immersivetranslate.com)与我们联系。我们的客户服务团队将审查您的请求并指导您完成退款流程。
 
 ## 链接到其他网站
 
@@ -124,4 +124,4 @@ sidebar_position: 13
 
 如果您对这些条款有任何疑问，您可以通过以下方式联系我们：
 
-- 通过电子邮件：<support@immersivetranslate.com>
+- 通过电子邮件：[support@immersivetranslate.com](mailto:support@immersivetranslate.com)

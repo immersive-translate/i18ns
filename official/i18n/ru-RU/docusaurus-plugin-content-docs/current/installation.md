@@ -63,7 +63,7 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-ma
 
 Если вы не можете установить официальное расширение для погружающегося перевода указанными выше способами, вы можете установить его через пользовательский скрипт Greasemonkey следующим образом:
 
-Адрес пользовательского скрипта Greasemonkey: <https://download.immersivetranslate.com/immersive-translate.user.js>
+Адрес пользовательского скрипта Greasemonkey: https://download.immersivetranslate.com/immersive-translate.user.js
 
 Откройте [этот адрес](https://download.immersivetranslate.com/immersive-translate.user.js) в браузере, где уже установлено расширение Greasemonkey, чтобы установить. Ниже приведены несколько браузеров, поддерживающих пользовательские скрипты Greasemonkey:
 

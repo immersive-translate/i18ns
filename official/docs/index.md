@@ -108,7 +108,7 @@ title: 介绍
 
 如果你无法通过以上的方式安装沉浸式翻译的官方扩展(推荐使用官方扩展，性能更好，功能也更丰富)，你可以通过以下方式安装油猴脚本：
 
-油猴脚本地址： <https://download.immersivetranslate.com/immersive-translate.user.js>
+油猴脚本地址： https://download.immersivetranslate.com/immersive-translate.user.js
 
 在已安装油猴扩展的浏览器中打开[该地址](https://download.immersivetranslate.com/immersive-translate.user.js) 即可安装。以**安卓火狐浏览器**为例：
 

@@ -13,15 +13,15 @@
 - method: POST
 - content-type: application/json
 - body
-  - source_lang: 源 {语言代码}
-  - target_lang: 目标 {语言代码}
+  - source_lang: 源 \{语言代码\}
+  - target_lang: 目标 \{语言代码\}
   - text_list: 翻译文本字符串的数组
 
 ## 响应
 
 - response
   - translations: 数组
-    - detected_source_lang: 翻译原文本 {语言代码}
+    - detected_source_lang: 翻译原文本 \{语言代码\}
     - text: 已翻译的文本
 
 ## 保留占位符

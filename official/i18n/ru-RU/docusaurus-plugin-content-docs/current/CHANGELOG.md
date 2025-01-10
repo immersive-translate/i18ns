@@ -698,8 +698,8 @@ sidebar_position: 6
 
 ## 0.6.0
 
-- Первая версия июня, переехали с предыдущего личного поддомена <https://immersive-translate.owenyoung.com> на новый домен
-  <https://immersivetranslate.com/>
+- Первая версия июня, переехали с предыдущего личного поддомена https://immersive-translate.owenyoung.com на новый домен
+  https://immersivetranslate.com/
 - В функциональности почти нет изменений (в следующей версии будут новые функции!)
 
 ## 0.5.17
@@ -759,19 +759,19 @@ sidebar_position: 6
 - По умолчанию ChatGPT теперь использует модель mobile, что работает быстрее!
 - Перестроение ядра анализа веб-страниц, это означает:
   - Мгновенный перевод крупных веб-страниц.
-    - Например: <https://pve.proxmox.com/pve-docs/pve-admin-guide.html>, ранее требовалось
+    - Например: https://pve.proxmox.com/pve-docs/pve-admin-guide.html, ранее требовалось
       30 секунд, теперь переводит мгновенно.
   - Очень низкое потребление памяти при работе со сложными веб-страницами.
     - Например:
-      <https://www.wsj.com/articles/global-stocks-markets-dow-news-05-05-2023-cb142c76?mod=hp_lead_pos1>
+      https://www.wsj.com/articles/global-stocks-markets-dow-news-05-05-2023-cb142c76?mod=hp_lead_pos1
   - Улучшенная совместимость с большим количеством веб-сайтов.
 - Поддержка перевода всех веб-сайтов с ShadowRoot.
-  - Например: <https://bugs.chromium.org/p/chromium/issues/detail?id=418987>
+  - Например: https://bugs.chromium.org/p/chromium/issues/detail?id=418987
   - Например:
-    <https://news.yahoo.com/gma/virginia-mom-facing-charges-6-190600893.html>
+    https://news.yahoo.com/gma/virginia-mom-facing-charges-6-190600893.html
     в разделе комментариев.
 - Исправлена проблема с белым экраном после перевода веб-сайтов с гидратацией, таких как Next.js.
-  - Например: <https://webpack.js.org/>
+  - Например: https://webpack.js.org/
 - Исправлена проблема, когда изменение горячей клавиши для наведения мыши требовало обновления страницы, чтобы вступить в силу.
 - Исправлена проблема с распознаванием переносов строк в файлах TXT.
 
@@ -1262,7 +1262,7 @@ sidebar_position: 6
 
 - Поддержка перевода inline iframe в userscript.
 - Поддержка перевода shadowroot. Например:
-  <https://www.foxnews.com/politics/minnesota-senate-passes-abortion-bill-opponents-call-most-extreme-nation>
+  https://www.foxnews.com/politics/minnesota-senate-passes-abortion-bill-opponents-call-most-extreme-nation
   Область беседы.
 - также проверка правила синхронизации во всплывающем окне
 

@@ -595,8 +595,7 @@ export interface Rule {
 
 適応ルールについては、もちろんカスタムルールを設定することもできます。プラグインのオプションページに進み、[開発者設定](https://dash.immersivetranslate.com/#developer)をクリックして、`Edit User Rules` を展開し、ここで各ウェブサイトのカスタム適応を行います。以下は実際のルールを組み合わせて説明します。
 
-```
-
+```json
 [
 {
 "selectors.remove": [

@@ -7,9 +7,9 @@
 - Ir a la [página de configuración](https://dash.immersivetranslate.com/#general) del plugin, y seleccionar openAI para el servicio de traducción
   - api_key: ollama
   - Modelo personalizado: llama2, [otros modelos](https://ollama.com/library)
-  - URL personalizada: <http://localhost:11434/v1/chat/completions>
+  - URL personalizada: http://localhost:11434/v1/chat/completions
 - Documentos de referencia relacionados
-  - <https://github.com/ollama/ollama/issues/2335>
+  - https://github.com/ollama/ollama/issues/2335
 
 ## Groq
 
@@ -27,7 +27,7 @@
 - Ir a la [página de configuración](https://dash.immersivetranslate.com/#general) del plugin y seleccionar openAI para el servicio de traducción
   - api_key: Obtener la [api_key](https://www.nightfall.ai/ai-security-101/anthropic-claude-api-key)
   - Modelo personalizado: claude-instant-1, claude-2
-  - Dirección URL personalizada: <http://localhost:8000/v1/chat/completions>
+  - Dirección URL personalizada: http://localhost:8000/v1/chat/completions
   - Ver [Límites de Frecuencia](https://docs.anthropic.com/claude/reference/rate-limits) para las limitaciones de frecuencia
   - Notas
     - Tener en cuenta la exportación de IP

@@ -30,10 +30,10 @@ Immersive Translate relies on the following open source libraries, thanks to the
 
     The MIT License
 
-    Copyright JS Foundation and other contributors <https://js.foundation/>
+    Copyright JS Foundation and other contributors https://js.foundation/
 
     Based on Underscore.js, copyright Jeremy Ashkenas, DocumentCloud and
-    Investigative Reporters & Editors <http://underscorejs.org/>
+    Investigative Reporters & Editors http://underscorejs.org/
 
     This software consists of voluntary contributions made by many individuals.
     For exact contribution history, see the revision history available at

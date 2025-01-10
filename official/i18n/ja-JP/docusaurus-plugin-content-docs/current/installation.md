@@ -61,7 +61,7 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-ma
 
 もし公式のイマーシブ翻訳エクステンションを上記の方法でインストールできない場合は、以下の方法でタンパク質スクリプトをインストールできます：
 
-タンパク質スクリプトのアドレス： <https://download.immersivetranslate.com/immersive-translate.user.js>
+タンパク質スクリプトのアドレス： https://download.immersivetranslate.com/immersive-translate.user.js
 
 タンパク質エクステンションがインストールされているブラウザで[このアドレス](https://download.immersivetranslate.com/immersive-translate.user.js)を開くとインストールできます。以下はタンパク質スクリプトをサポートするいくつかのブラウザです：
 

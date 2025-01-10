@@ -25,7 +25,7 @@
 
 ## Azure OpenAI
 
-OpenAI 翻譯服務同時也相容 Azure OpenAI 介面，先在 Azure 控制檯建立 OpenAI 服務，再進入 Azure AI Studio: <https://oai.azure.com>, 建立一個 gpt-35-turbo 的 deployment，記住 deployment name
+OpenAI 翻譯服務同時也相容 Azure OpenAI 介面，先在 Azure 控制檯建立 OpenAI 服務，再進入 Azure AI Studio: https://oai.azure.com, 建立一個 gpt-35-turbo 的 deployment，記住 deployment name
 
 部署 gpt-35-turbo 模型之後，開啟沉浸式翻譯的 OpenAI 設定頁面：
 

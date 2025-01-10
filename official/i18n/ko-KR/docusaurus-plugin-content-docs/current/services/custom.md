@@ -13,15 +13,15 @@
 - method: POST
 - content-type: application/json
 - body
-  - source_lang: 소스 {언어 코드}
-  - target_lang: 대상 {언어 코드}
+  - source_lang: 소스 \{언어 코드\}
+  - target_lang: 대상 \{언어 코드\}
   - text_list: 번역할 텍스트 문자열 배열
 
 ## 응답
 
 - response
   - translations: 배열
-    - detected_source_lang: 감지된 소스 텍스트 {언어 코드}
+    - detected_source_lang: 감지된 소스 텍스트 \{언어 코드\}
     - text: 번역된 텍스트
 
 ## 플레이스홀더 유지

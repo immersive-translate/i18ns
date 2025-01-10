@@ -13,15 +13,15 @@
 - method: POST
 - content-type: application/json
 - body
-  - source_lang: исходный {код языка}
-  - target_lang: целевой {код языка}
+  - source_lang: исходный \{код языка\}
+  - target_lang: целевой \{код языка\}
   - text_list: массив строк текста для перевода
 
 ## Ответ
 
 - response
   - translations: массив
-    - detected_source_lang: обнаруженный исходный язык {код языка}
+    - detected_source_lang: обнаруженный исходный язык \{код языка\}
     - text: переведенный текст
 
 ## Сохранение заполнителей

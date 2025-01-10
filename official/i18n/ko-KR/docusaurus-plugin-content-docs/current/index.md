@@ -11,8 +11,7 @@ loop
 muted
 plays-inline
 width="1200px"
-poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src="https://s.immersivetranslate.com/immersive-translate-intro-demo-2023-06-17.mp4" type="video/mp4"/>이 비디오를 보려면 HTML5 비디오를 지원하는 브라우저가 필요합니다.
-</video>
+poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src="https://s.immersivetranslate.com/immersive-translate-intro-demo-2023-06-17.mp4" type="video/mp4"/>이 비디오를 보려면 HTML5 비디오를 지원하는 브라우저가 필요합니다.</video>
 
 ## 주요 특징
 
@@ -95,7 +94,7 @@ poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src
 
 공식 확장 프로그램을 위의 방법으로 설치할 수 없는 경우(공식 확장 프로그램 사용을 권장합니다. 성능이 더 우수하고 기능도 더 풍부합니다), 다음 방법으로 탬퍼몽키 스크립트를 설치할 수 있습니다:
 
-탬퍼몽키 스크립트 주소: <https://download.immersivetranslate.com/immersive-translate.user.js>
+탬퍼몽키 스크립트 주소: https://download.immersivetranslate.com/immersive-translate.user.js
 
 탬퍼몽키 확장 프로그램이 설치된 브라우저에서 [이 주소](https://download.immersivetranslate.com/immersive-translate.user.js)를 열어 설치할 수 있습니다. **안드로이드 파이어폭스 브라우저**를 예로 들면:
 

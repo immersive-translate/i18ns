@@ -792,7 +792,7 @@ sidebar_position: 6
 
 ## 0.6.0
 
-- 6月の最初のバージョンは、以前の個人のサブドメイン<https://immersive-translate.owenyoung.com>から新しいドメイン<https://immersivetranslate.com/>に移行しました。
+- 6月の最初のバージョンは、以前の個人のサブドメインhttps://immersive-translate.owenyoung.comから新しいドメインhttps://immersivetranslate.com/に移行しました。
 - 機能面では基本的に変更はありません（次のバージョンで新機能が登場します！）
 
 ## 0.5.17
@@ -852,15 +852,15 @@ sidebar_position: 6
 - ChatGPTのデフォルトをmobileモデルに変更、より高速に！
 - ウェブコアの解析を再構築、これは以下を意味します：
   - 大規模なウェブサイトの即時翻訳
-    - 例：<https://pve.proxmox.com/pve-docs/pve-admin-guide.html>、以前は30秒かかっていましたが、今は即座に翻訳
+    - 例：https://pve.proxmox.com/pve-docs/pve-admin-guide.html、以前は30秒かかっていましたが、今は即座に翻訳
   - 複雑なウェブページのメモリ使用量が非常に低い
-    - 例：<https://www.wsj.com/articles/global-stocks-markets-dow-news-05-05-2023-cb142c76?mod=hp_lead_pos1>
+    - 例：https://www.wsj.com/articles/global-stocks-markets-dow-news-05-05-2023-cb142c76?mod=hp_lead_pos1
   - より多くのウェブサイトに対応
 - ShadowRootを使用するすべてのウェブサイトの翻訳に対応
-  - 例：<https://bugs.chromium.org/p/chromium/issues/detail?id=418987>
-  - 例：<https://news.yahoo.com/gma/virginia-mom-facing-charges-6-190600893.html>のコメントセクション
+  - 例：https://bugs.chromium.org/p/chromium/issues/detail?id=418987
+  - 例：https://news.yahoo.com/gma/virginia-mom-facing-charges-6-190600893.htmlのコメントセクション
 - Next.jsなどの水和を伴うウェブサイトを翻訳した後の白い画面の問題を修正
-  - 例：<https://webpack.js.org/>
+  - 例：https://webpack.js.org/
 - マウスホバーのショートカットを変更した後、ページをリフレッシュする必要があった問題を修正
 - TXTファイルの改行認識の問題を修正。
 
@@ -1352,7 +1352,7 @@ Please note, the translation is provided as is and might not capture nuanced mea
 
 - ユーザースクリプトのインラインiframe翻訳をサポート。
 - shadowroot翻訳をサポート。例えば：
-  <https://www.foxnews.com/politics/minnesota-senate-passes-abortion-bill-opponents-call-most-extreme-nation>
+  https://www.foxnews.com/politics/minnesota-senate-passes-abortion-bill-opponents-call-most-extreme-nation
   会話エリア。
 - ポップアップで同期ルールもチェック
 

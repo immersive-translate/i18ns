@@ -25,7 +25,7 @@
 
 ## Azure OpenAI
 
-Сервис перевода OpenAI также совместим с интерфейсом Azure OpenAI. Сначала создайте сервис OpenAI в консоли Azure, затем перейдите в Azure AI Studio: <https://oai.azure.com>, создайте deployment для gpt-35-turbo, запомните имя deployment.
+Сервис перевода OpenAI также совместим с интерфейсом Azure OpenAI. Сначала создайте сервис OpenAI в консоли Azure, затем перейдите в Azure AI Studio: https://oai.azure.com, создайте deployment для gpt-35-turbo, запомните имя deployment.
 
 После развертывания модели gpt-35-turbo, откройте страницу настроек OpenAI для погруженного перевода:
 

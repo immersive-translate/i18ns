@@ -596,8 +596,7 @@ Okay，但是再仔細想想，自然而然就會帶出接下來兩個問題
 
 關於適配規則，當然你也可以自訂規則，進入到外掛選項頁面，點選[開發者設定](https://dash.immersivetranslate.com/#developer)，展開 `Edit User Rules` ，在這裡進行各個網站的自訂適配。下面結合實際規則進行講解
 
-````
-
+```json
 [
 {
 "selectors.remove": [

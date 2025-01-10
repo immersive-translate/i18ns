@@ -11,8 +11,7 @@ loop
 muted
 plays-inline
 width="1200px"
-poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src="https://s.immersivetranslate.com/immersive-translate-intro-demo-2023-06-17.mp4" type="video/mp4"/>Вам необходим браузер, поддерживающий HTML5 видео, для просмотра этого видео.
-</video>
+poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src="https://s.immersivetranslate.com/immersive-translate-intro-demo-2023-06-17.mp4" type="video/mp4"/>Вам необходим браузер, поддерживающий HTML5 видео, для просмотра этого видео.</video>
 
 ```
 
@@ -97,7 +96,7 @@ poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src
 
 Если вы не можете установить официальное расширение для погружающегося перевода другими способами (рекомендуется использовать официальное расширение для лучшей производительности и более широкого функционала), вы можете установить его через пользовательский скрипт Greasemonkey следующим образом:
 
-Адрес пользовательского скрипта Greasemonkey: <https://download.immersivetranslate.com/immersive-translate.user.js>
+Адрес пользовательского скрипта Greasemonkey: https://download.immersivetranslate.com/immersive-translate.user.js
 
 Откройте [этот адрес](https://download.immersivetranslate.com/immersive-translate.user.js) в браузере, где уже установлено расширение Greasemonkey, чтобы установить скрипт. Например, для **Firefox на Android**:
 

@@ -36,8 +36,8 @@ Placeholders são utilizados para preservar conteúdo não textual (emojis, form
 
 - **Especificação:** array de strings.
 
-  - 0: Delimitador esquerdo do par (ex: "{").
-  - 1: Delimitador direito do par (ex: "}").
+  - 0: Delimitador esquerdo do par (ex: "\{").
+  - 1: Delimitador direito do par (ex: "\}").
   - 2: Separador de tag (opcional, ex: "b").
 
 - **Exemplos:**

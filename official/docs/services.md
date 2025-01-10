@@ -13,9 +13,9 @@
 - [DeepSeek](./services/deepseek.md)
   - API 接口：https://api.deepseek.com/chat/completions
 - [Gemini](./services/gemini.md)
-  - API 接口：https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}
+  - API 接口：https://generativelanguage.googleapis.com/v1beta/models/\{model\}:generateContent?key=\{key\}
 - [OpenL](./services/openL.md)
-  - API 接口：https://api.openl.club/services/${codename}/translate
+  - API 接口：https://api.openl.club/services/\{codename}/translate
 - [Open AI (Azure OpenAI)](./services/openai.md)
   - API 接口：https://openai-api.immersivetranslate.com/v1/chat/completions
 - [微软 Azure 翻译](./services/azure.md)
@@ -23,7 +23,7 @@
 - [阿里云百炼大模型](./services/aliyun-bailian.md)
   - API 接口：https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
 - [阿里云翻译](./services/aliyun.md)
-  - API 接口：https://{service}.aliyuncs.com?{paramsString}
+  - API 接口：https://\{service\}.aliyuncs.com?\{paramsString\}
 - [百度千帆大模型](./services/baidu-qianfan.md)
   - API 接口：https://aip.baidubce.com/rpc/2.0/ai_custom/v1/wenxinworkshop/chat/{model}?access_token={key}
 - [字节跳动豆包大模型](./services/doubao.md)

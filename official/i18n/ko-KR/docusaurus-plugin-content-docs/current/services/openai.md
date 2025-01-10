@@ -25,7 +25,7 @@ OpenAI 번역 서비스를 직접 사용하려면 [침습적 번역 Pro 멤버�
 
 ## Azure OpenAI
 
-OpenAI 번역 서비스는 Azure OpenAI 인터페이스와도 호환됩니다. 먼저 Azure 콘솔에서 OpenAI 서비스를 생성한 다음, <https://oai.azure.com>에 접속하여 Azure AI Studio에서 gpt-35-turbo deployment를 생성하고, deployment name을 기억하세요.
+OpenAI 번역 서비스는 Azure OpenAI 인터페이스와도 호환됩니다. 먼저 Azure 콘솔에서 OpenAI 서비스를 생성한 다음, https://oai.azure.com에 접속하여 Azure AI Studio에서 gpt-35-turbo deployment를 생성하고, deployment name을 기억하세요.
 
 gpt-35-turbo 모델을 배포한 후, OpenAI 설정 페이지에서 번역 설정을 엽니다:
 

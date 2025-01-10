@@ -34,7 +34,7 @@ sidebar_position: 2
 
 ## Youtube 二言語字幕
 
-任意のビデオを開く <https://youtube.com/watch?v=EWX0bbGAd0k> 、没入型翻訳パネルをクリックし、【自動的に二言語字幕を開始】を選択して開始します。選択した設定がビデオで有効になっていない場合は、通常、ページを更新すると良いでしょう。
+任意のビデオを開く https://youtube.com/watch?v=EWX0bbGAd0k 、没入型翻訳パネルをクリックし、【自動的に二言語字幕を開始】を選択して開始します。選択した設定がビデオで有効になっていない場合は、通常、ページを更新すると良いでしょう。
 
 <img src="https://s.immersivetranslate.com/static/official-static/assets/video-subtitle.png" alt="browser action" width="250" />
 
@@ -122,8 +122,7 @@ loop
 muted
 plays-inline
 width="1200px"
-poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src="https://immersivetranslate.com/assets/immersive-translate-intro-demo.mp4" type="video/mp4"/>このビデオを見るにはHTML5ビデオをサポートするブラウザが必要です。
-</video>
+poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src="https://immersivetranslate.com/assets/immersive-translate-intro-demo.mp4" type="video/mp4"/>このビデオを見るにはHTML5ビデオをサポートするブラウザが必要です。</video>
 
 Note: The translation provided is intended for general communication and understanding. The specific names and terms related to the services (like "沈没翻訳" for "Immersive Translation") have been translated for a general understanding and might not reflect an official localized name if one exists.
 

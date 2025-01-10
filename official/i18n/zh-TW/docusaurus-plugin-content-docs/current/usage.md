@@ -42,7 +42,7 @@ sidebar_position: 2
 
 ## Youtube 雙語字幕
 
-隨便開啟一個影片 <https://youtube.com/watch?v=EWX0bbGAd0k> ，點選沉浸式翻譯面板，然後選中【自動開啟雙語字幕】即可開啟。如果您選擇的設定在影片中沒有生效，一般重新整理頁面即可。
+隨便開啟一個影片 https://youtube.com/watch?v=EWX0bbGAd0k ，點選沉浸式翻譯面板，然後選中【自動開啟雙語字幕】即可開啟。如果您選擇的設定在影片中沒有生效，一般重新整理頁面即可。
 
 <img src="https://s.immersivetranslate.com/static/official-static/assets/video-subtitle.png" alt="browser action" width="250" />
 
@@ -154,8 +154,7 @@ loop
 muted
 plays-inline
 width="1200px"
-poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src="https://immersivetranslate.com/assets/immersive-translate-intro-demo.mp4" type="video/mp4"/>您需要一個支援 HTML5 影片的瀏覽器才能檢視此影片。
-</video>
+poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src="https://immersivetranslate.com/assets/immersive-translate-intro-demo.mp4" type="video/mp4"/>您需要一個支援 HTML5 影片的瀏覽器才能檢視此影片。</video>
 
 ## 了解更多
 

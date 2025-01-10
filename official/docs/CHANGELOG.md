@@ -993,8 +993,8 @@ sidebar_position: 6
 ## 0.6.0
 
 - 6
-  月的第一个版本，从之前的个人子域名<https://immersive-translate.owenyoung.com>迁移到了新的域名
-  <https://immersivetranslate.com/>
+  月的第一个版本，从之前的个人子域名https://immersive-translate.owenyoung.com迁移到了新的域名
+  https://immersivetranslate.com/
 - 功能方面基本没有变化(下一个版本将会有新特性！)
 
 ## 0.5.17
@@ -1055,19 +1055,19 @@ sidebar_position: 6
 - ChatGPT 默认改为 mobile 模型，更快！
 - 网页核心解析重构，这意味着：
   - 大型网页秒翻译
-    - 比如： <https://pve.proxmox.com/pve-docs/pve-admin-guide.html>, 之前需要
+    - 比如： https://pve.proxmox.com/pve-docs/pve-admin-guide.html, 之前需要
       30 秒，现在秒翻
   - 复杂网页占用内存超低
     - 比如：
-      <https://www.wsj.com/articles/global-stocks-markets-dow-news-05-05-2023-cb142c76?mod=hp_lead_pos1>
+      https://www.wsj.com/articles/global-stocks-markets-dow-news-05-05-2023-cb142c76?mod=hp_lead_pos1
   - 对更多网站的适配
 - 支持了所有 ShadowRoot 的网站翻译
-  - 比如： <https://bugs.chromium.org/p/chromium/issues/detail?id=418987>
+  - 比如： https://bugs.chromium.org/p/chromium/issues/detail?id=418987
   - 比如：
-    <https://news.yahoo.com/gma/virginia-mom-facing-charges-6-190600893.html>
+    https://news.yahoo.com/gma/virginia-mom-facing-charges-6-190600893.html
     的评论区
 - 修复之前 Next.js 等具有水合作用的网站翻译后白屏的问题
-  - 比如： <https://webpack.js.org/>
+  - 比如： https://webpack.js.org/
 - 修复了修改鼠标悬停的快捷键需要刷新页面才生效的问题
 - 修复了 TXT 文件 换行识别的问题。
 
@@ -1601,7 +1601,7 @@ sidebar_position: 6
 
 - Support userscript inline iframe translation.
 - Support shadowroot translation. For example:
-  <https://www.foxnews.com/politics/minnesota-senate-passes-abortion-bill-opponents-call-most-extreme-nation>
+  https://www.foxnews.com/politics/minnesota-senate-passes-abortion-bill-opponents-call-most-extreme-nation
   Conversation area.
 - also check sync rule on popup
 

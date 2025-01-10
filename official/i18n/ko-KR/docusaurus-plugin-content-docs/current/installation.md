@@ -61,7 +61,7 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-ma
 
 공식 확장 프로그램을 위의 방법으로 설치할 수 없는 경우, 다음 방법을 통해 탬퍼몽키 스크립트를 설치할 수 있습니다:
 
-탬퍼몽키 스크립트 주소: <https://download.immersivetranslate.com/immersive-translate.user.js>
+탬퍼몽키 스크립트 주소: https://download.immersivetranslate.com/immersive-translate.user.js
 
 탬퍼몽키 확장 프로그램이 설치된 브라우저에서 [이 주소](https://download.immersivetranslate.com/immersive-translate.user.js)를 열어 설치할 수 있습니다. 다음은 몇 가지 탬퍼몽키 스크립트를 지원하는 브라우저를 소개합니다:
 

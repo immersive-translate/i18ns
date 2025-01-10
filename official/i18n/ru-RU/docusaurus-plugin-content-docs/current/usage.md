@@ -34,7 +34,7 @@ sidebar_position: 2
 
 ## Youtube с двуязычными субтитрами
 
-Просто откройте любое видео <https://youtube.com/watch?v=EWX0bbGAd0k>, нажмите на панель погружения в перевод, а затем выберите 【Автоматически включать двуязычные субтитры】, чтобы их активировать. Если выбранные вами настройки не работают в видео, обычно помогает обновление страницы.
+Просто откройте любое видео https://youtube.com/watch?v=EWX0bbGAd0k, нажмите на панель погружения в перевод, а затем выберите 【Автоматически включать двуязычные субтитры】, чтобы их активировать. Если выбранные вами настройки не работают в видео, обычно помогает обновление страницы.
 
 <img src="https://s.immersivetranslate.com/static/official-static/assets/video-subtitle.png" alt="действие в браузере" width="250" />
 
@@ -122,8 +122,7 @@ loop
 muted
 plays-inline
 width="1200px"
-poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src="https://immersivetranslate.com/assets/immersive-translate-intro-demo.mp4" type="video/mp4"/>Вам необходим браузер, поддерживающий HTML5 видео, для просмотра этого видео.
-</video>
+poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src="https://immersivetranslate.com/assets/immersive-translate-intro-demo.mp4" type="video/mp4"/>Вам необходим браузер, поддерживающий HTML5 видео, для просмотра этого видео.</video>
 
 ## Узнать больше
 
