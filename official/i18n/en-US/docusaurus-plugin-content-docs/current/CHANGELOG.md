@@ -4,6 +4,14 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.13.1 Preview (2024-01-10)
+
+- Added: When the translated text and the original text belong to the same writing system, display the translation using a specialized style.
+- Fixed: The issue where **Mouse Hover Translation** does not work on some websites.
+- Optimization: DeepLx now supports Arabic.
+- Optimization: Improved original language recognition. Previously, pages containing multiple languages might not get translated, but now they are translated correctly.
+- Optimization: For Twitter, multiline content translations will not wrap by default; wrapping occurs only if it exceeds 10 lines or 1000 characters. This can be set to wrap by default via settings under **Advanced Settings** -> **Enable automatic line wrapping for long paragraphs**.
+
 ## 1.12.8 Preview (2025-1-3)
 
 - Fix: the issue where the iOS 18.3 settings page cannot display properly.
@@ -16,7 +24,7 @@ sidebar_position: 6
 - Improved: Improved descriptions for Traditional Chinese user interface language.
 - Improved: Layout adjustment for right-to-left languages in panels and settings pages.
 
-## 1.12.6 Preview (2024-12-26)
+## 1.12.6 (2024-12-26)
 
 - Fix: Issue where the mouse hover function loads the wrong translation service under certain conditions.
 - Fix: Issue where temporarily enabling bilingual subtitles on YouTube does not work.
