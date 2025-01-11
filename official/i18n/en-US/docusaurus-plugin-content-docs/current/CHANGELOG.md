@@ -4,13 +4,13 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.13.1 Preview (2025-01-10)
+## 1.13.2 Preview (2025-01-10)
 
 - Added: When the translated text and the original text belong to the same writing system, display the translation using a specialized style.
 - Fixed: The issue where **Mouse Hover Translation** does not work on some websites.
 - Optimization: DeepLx now supports Arabic.
 - Optimization: Improved original language recognition. Previously, pages containing multiple languages might not get translated, but now they are translated correctly.
-- Optimization: For Twitter, multiline content translations are set to not wrap by default. Wrapping will occur only when content exceeds 10 lines or 1000 characters. Wrapping can be enabled through settings **Advanced Settings** -> **Enable automatic line wrapping for long paragraphs**.
+- Optimization: For Twitter, multiline content translations are set to not wrap by default. Wrapping will occur only when content exceeds 10 lines or 1000 characters. Wrapping can be enabled through settings [**Advanced Settings**](https://dash.immersivetranslate.com/#advanced) -> **Enable automatic line wrapping for long paragraphs**.
 
 ## 1.12.8 Preview (2025-01-03)
 
