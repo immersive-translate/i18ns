@@ -1,5 +1,6 @@
 ---
 sidebar_position: 13
+custom_edit_url: null
 ---
 
 # Terms and Conditions

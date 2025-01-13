@@ -1,5 +1,6 @@
 ---
 sidebar_position: 12
+custom_edit_url: null
 ---
 
 # 개인정보 처리방침

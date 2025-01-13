@@ -7,7 +7,7 @@ sidebar_position: 6
 ## 1.13.4 Preview (2025-01-13)
 
 - Added: Pro members can now directly use the **Zhipu 4 Plus** model.
-- Improved: Improved Gemini translation.
+- Improved: Gemini translation.
 
 ## 1.13.1 (2025-01-10)
 
