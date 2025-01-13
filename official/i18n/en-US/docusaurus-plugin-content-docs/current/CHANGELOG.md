@@ -4,15 +4,20 @@ sidebar_position: 6
 
 # Change Log
 
-## 1.13.1 Preview (2025-01-10)
+## 1.13.4 Preview (2025-01-13)
+
+- Added: Pro members can now directly use the **Zhipu 4 Plus** model.
+- Improved: Improved Gemini translation.
+
+## 1.13.1 (2025-01-10)
 
 - Added: When the translated text and the original text belong to the same writing system, display the translation using a specialized style.
 - Fixed: The issue where **Mouse Hover Translation** does not work on some websites.
-- Optimization: DeepLx now supports Arabic.
-- Optimization: Improved original language recognition. Previously, pages containing multiple languages might not get translated, but now they are translated correctly.
-- Optimization: For Twitter, multiline content translations are set to not wrap by default. Wrapping will occur only when content exceeds 10 lines or 1000 characters. Wrapping can be enabled through settings **Advanced Settings** -> **Enable automatic line wrapping for long paragraphs**.
+- Improved: DeepLx now supports Arabic.
+- Improved: Improved original language recognition. Previously, pages containing multiple languages might not get translated, but now they are translated correctly.
+- Improved: For Twitter, multiline content translations are set to not wrap by default. Wrapping will occur only when content exceeds 10 lines or 1000 characters. Wrapping can be enabled through settings **Advanced Settings** -> **Enable automatic line wrapping for long paragraphs**.
 
-## 1.12.8 Preview (2025-01-03)
+## 1.12.8 (2025-01-03)
 
 - Fix: the issue where the iOS 18.3 settings page cannot display properly.
 - Fix: the lack of empty lines when translating tweets.
