@@ -4,6 +4,11 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.13.5 Release (2025-01-14)
+
+- Improved: Compatible with the Gemini 2.0 thinking model.
+- Improved: Supports bold style in translation-only mode.
+
 ## 1.13.4 Preview (2025-01-13)
 
 - Added: Pro members can now directly use the **Zhipu 4 Plus** model.
