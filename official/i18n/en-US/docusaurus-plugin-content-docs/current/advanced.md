@@ -186,7 +186,7 @@ Introducing some of Config's common fields.
 
 ### Configuration of translation services
 
-Use `translationService` to select the default translation engine, which currently supports：.
+Use `translationService` to select the default translation engine, which currently supports:.
 
 ```typescript
 | "tencent"
@@ -254,7 +254,7 @@ translationLanguagePattern, configures the language that is always translated an
 
 ### Translation display format
 
-`translationTheme` is the display format of the translation, and currently supports the following styles：
+`translationTheme` is the display format of the translation, and currently supports the following styles:
 
 ```typescript
 | "none"
@@ -271,7 +271,7 @@ translationLanguagePattern, configures the language that is always translated an
 | "thinDashed".
 ```
 
-Corresponding Chinese name：
+Corresponding Chinese name:
 
 ```json
 {
@@ -340,7 +340,7 @@ Corresponding Chinese name：
 
 The current built-in `rules` can be found [here](https://github.com/immersive-translate/next-immersive-translate/blob/main/docs/buildin_config.json).
 
-Some of the important fields are selected below for illustration：
+Some of the important fields are selected below for illustration:
 
 ```typescript
 export interface Rule {

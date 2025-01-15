@@ -25,7 +25,7 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 ## Commands
 
-Common Language Commands：
+Common Language Commands:
 
 | multilingualism      | command |
 | -------------------- | ------- |
@@ -42,7 +42,7 @@ For other language codes see [here](#language-code)
 
 ## Compatibility
 
-- Browsers known to be explicitly unsupported：
+- Browsers known to be explicitly unsupported:
 
 - Android Kiwi Browser (optimization is underway as it is not possible to listen to mobile input events in this browser)
 
@@ -52,7 +52,7 @@ For other language codes see [here](#language-code)
 
 - Android is currently only supported by Firefox testing
 
-- Pages known to be explicitly unsupported：
+- Pages known to be explicitly unsupported:
 
   - Browser default page
   - Lark Document
@@ -61,7 +61,7 @@ For other language codes see [here](#language-code)
   - Input boxes for third-party plug-ins
   - Chrome Web Store Input Box
 
-- The rest are theoretically supported, e.g.：
+- The rest are theoretically supported, e.g.:
   - Google Search
   - Twitter
   - Discord
@@ -85,7 +85,7 @@ This is because the qura reply box can't enter more than 2 spaces, so you need t
 
 ## Language Code
 
-All language codes are as follows：
+All language codes are as follows:
 
 - Afrikaans, af, Afrikaans
 - Amharic, am, Amharic

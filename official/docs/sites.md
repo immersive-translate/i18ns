@@ -20,7 +20,7 @@
 - [Newstatesman - 新政治家](https://www.newstatesman.com/) - 英国领先的进步政治和文化杂志
 - [The Intercept](https://theintercept.com/) - 拦截，ebay 创办的在线媒体。
 - [Mcsweeneys](https://www.mcsweeneys.net/) - 幽默与讽刺的在线杂志
-- [Semafor](https://www.semafor.com/) - 新闻文章是一种古老的格式，是为一个多世纪的印刷报纸设计的，但它的年龄正在显现。太多的新闻--即使是当今一些最好的新闻--将事实和分析紧密地交织在一起，以至于读者难以分辨两者的区别。文章并不总是诚实地提供相反的观点。 而且，它们通常是从一个单一的角度来讲述。所有这些使时间有限的读者很难相信--甚至理解--大局。因此，我们将故事形式重建为我们所称的 Semaform。这种形式将无可争议的事实与记者对这些事实的分析分开，提供不同的和更全面的观点，并分享其他媒体对该主题的有力报道。
+- [Semafor](https://www.semafor.com/) - 新闻文章是一种古老的格式，是为一个多世纪的印刷报纸设计的，但它的年龄正在显现。太多的新闻--即使是当今一些最好的新闻--将事实和分析紧密地交织在一起，以至于读者难以分辨两者的区别。文章并不总是诚实地提供相反的观点。而且，它们通常是从一个单一的角度来讲述。所有这些使时间有限的读者很难相信--甚至理解--大局。因此，我们将故事形式重建为我们所称的 Semaform。这种形式将无可争议的事实与记者对这些事实的分析分开，提供不同的和更全面的观点，并分享其他媒体对该主题的有力报道。
 - [Noema 杂志 - 思考](https://www.noemamag.com/) - 发表有关哲学、治理、地缘政治、经济、技术和文化交叉领域的文章、采访、报道、视频和艺术作品。在这样做的过程中，我们独特的方法是走出通常的领域，跨越学科、社会隔离和文化界限。从人工智能和气候危机到民主和资本主义的未来，Noema 杂志寻求对 21 世纪最紧迫挑战的更深入理解。
 
 ## 深度报道
@@ -34,7 +34,7 @@
 - [真 Reddit 小组](https://old.reddit.com/r/TrueReddit/)
 - [Meta Filter](https://www.metafilter.com/) - 一个任何人都可以做出贡献的博客，里面有很多有趣的链接。
 - [Soylentnews](https://soylentnews.org/) - 科技相关的报道集合
-- [Bear Blog Trending](https://bearblog.dev/discover/) - Bear,一个小众的独立博客平台
+- [Bear Blog Trending](https://bearblog.dev/discover/) - Bear，一个小众的独立博客平台
 
 ## 专人维护的 Reading List
 
@@ -60,12 +60,12 @@
 - [Austin Kleon](https://austinkleon.substack.com/) - 像艺术家一样偷窃作者
 - [Paul Graham](http://paulgraham.com/articles.html) - YC 创始人
 - [Gwern](https://www.gwern.net/index) - 美国作家和研究员
-- [Wait but Why](https://waitbutwhy.com/homepage) - Tim Urban 主持的博客，Wait But Why 是一个涵盖广泛主题的博客，从科学和技术到哲学和社会。该博客由蒂姆-乌尔班和安德鲁-芬恩于 2013 年创办，此后获得了大量的追随者，在 195 个国家拥有超过 2400 万读者。该博客以其深入和精心研究的文章而闻名，这些文章通常包括手绘插图。该博客的首要任务是每周二发表一篇新文章，但他们也会偶尔发表小型文章。该博客的目标是探索世界，并以一种有趣和吸引人的方式分享知识。
+- [Wait but Why](https://waitbutwhy.com/homepage) - Tim Urban 主持的博客，Wait But Why 是一个涵盖广泛主题的博客，从科学和技术到哲学和社会。该博客由蒂姆 - 乌尔班和安德鲁 - 芬恩于 2013 年创办，此后获得了大量的追随者，在 195 个国家拥有超过 2400 万读者。该博客以其深入和精心研究的文章而闻名，这些文章通常包括手绘插图。该博客的首要任务是每周二发表一篇新文章，但他们也会偶尔发表小型文章。该博客的目标是探索世界，并以一种有趣和吸引人的方式分享知识。
 
 ## 产品相关
 
 - [Product Hunt Trending (producthunt-trending.js.org)](https://producthunt-trending.js.org/?range=monthly) -
-  Product 按月，年排序.
+  Product 按月，年排序。
 - [r/SideProject - A community for sharing side projects (reddit.com)](https://www.reddit.com/r/SideProject/) - Reddit 业余项目小组
 - [Product Hunt](https://www.producthunt.com/) - Product Hunt，产品猎人
 - [Hacker News Show](https://news.ycombinator.com/show) - Hacker News 产品自荐
@@ -143,7 +143,7 @@
 ## 中国团队运营的英文媒体
 
 - [Radii](https://radii.co/about) - 用英文报道中国年轻人（向世界讲好中国年轻人故事）
-- [Sixthtone](https://www.sixthtone.com/) - 第六音,以当事人视角报道中国相关新闻
+- [Sixthtone](https://www.sixthtone.com/) - 第六音，以当事人视角报道中国相关新闻
 
 ## 其他人的推荐
 

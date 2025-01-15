@@ -25,7 +25,7 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 ## Comandos
 
-Comandos Comuns de Idioma：
+Comandos Comuns de Idioma:
 
 | multilinguismo        | comando |
 | --------------------- | ------- |

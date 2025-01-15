@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # 加入用户群
 
-你可以通过以下方式和我们保持链接:
+你可以通过以下方式和我们保持链接：
 
 - 如果遇到问题，首先推荐[查看常见问题](/docs/faq/)，以及搜索已有的[Github 问题列表](https://github.com/immersive-translate/immersive-translate/issues/)
 - [通过 Github Issue 反馈问题](https://github.com/immersive-translate/immersive-translate/issues/)

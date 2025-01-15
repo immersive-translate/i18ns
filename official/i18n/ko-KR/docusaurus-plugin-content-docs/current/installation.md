@@ -47,7 +47,7 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-ma
 
 ## 안드로이드
 
-[침몰식 번역 안드로이드 브라우저](https://immersivetranslate.com/android/)를 다운로드하십시오. 이 버전은 이미 침몰식 번역 확장 프로그램이 설치되어 있으며 설치 후 바로 사용할 수 있습니다. (주의: 일부 국산 휴대폰에서 설치 시 보안 위험 경고가 표시될 수 있습니다(이는 일반적인 경고입니다). [안전 위험을 인지했습니다] [계속 설치]를 선택하십시오.)
+[침몰식 번역 안드로이드 브라우저](https://immersivetranslate.com/android/)를 다운로드하십시오. 이 버전은 이미 침몰식 번역 확장 프로그램이 설치되어 있으며 설치 후 바로 사용할 수 있습니다. (주의: 일부 국산 휴대폰에서 설치 시 보안 위험 경고가 표시될 수 있습니다 (이는 일반적인 경고입니다). [안전 위험을 인지했습니다] [계속 설치]를 선택하십시오.)
 
 다른 안드로이드 브라우저에서 침몰식 번역을 설치하여 사용해 볼 수도 있습니다. 예를 들어:
 
@@ -68,14 +68,14 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-ma
 **안드로이드 파이어폭스 브라우저**
 
 1. [Firefox 최신 버전](https://www.firefox.com.cn/download/#product-android-release)을 다운로드합니다.
-2. Firefox의 추가 기능 추천에서 [Tamper Monkey](https://www.tampermonkey.net/)를 찾아 설치합니다.
-3. 이 확장 프로그램의 [탬퍼몽키 스크립트](https://download.immersivetranslate.com/immersive-translate.user.js)를 설치합니다(파이어폭스 브라우저에서 이 링크를 열면 설치 페이지가 나타납니다).
+2. Firefox 의 추가 기능 추천에서 [Tamper Monkey](https://www.tampermonkey.net/)를 찾아 설치합니다.
+3. 이 확장 프로그램의 [탬퍼몽키 스크립트](https://download.immersivetranslate.com/immersive-translate.user.js)를 설치합니다 (파이어폭스 브라우저에서 이 링크를 열면 설치 페이지가 나타납니다).
 4. 설치 후, 임의의 웹페이지를 열면 오른쪽에 침몰식 번역 확장 프로그램의 부유창 아이콘이 나타납니다.
 
 **애플 사파리 브라우저[Userscripts](https://itunes.apple.com/us/app/userscripts/id1463298887)**
 
 1. [Userscripts 사파리 확장 프로그램](https://itunes.apple.com/us/app/userscripts/id1463298887)을 설치하고 "모든 웹사이트에 대해 항상 접근 허용" 권한을 부여합니다.
-2. 이 확장 프로그램의 [탬퍼몽키 스크립트](https://download.immersivetranslate.com/immersive-translate.user.js)를 설치합니다(사파리 브라우저에서 이 링크를 열고 Userscript 확장 프로그램 아이콘을 클릭하면 설치 페이지가 나타납니다).
+2. 이 확장 프로그램의 [탬퍼몽키 스크립트](https://download.immersivetranslate.com/immersive-translate.user.js)를 설치합니다 (사파리 브라우저에서 이 링크를 열고 Userscript 확장 프로그램 아이콘을 클릭하면 설치 페이지가 나타납니다).
 3. 설치 후, 임의의 웹페이지를 새로고침하면 웹페이지 오른쪽에 이 확장 프로그램의 부유창이 나타납니다.(부유창이 나타나지 않는 경우, 페이지를 여러 번 새로고침하거나 사파리를 강제로 재시작하여 적용되도록 합니다)
 
 설치 중에 궁금한 점이 있으면 [YouTube 비디오 튜토리얼](https://www.youtube.com/watch?v=IWOFFWDfZGY)을 참조하세요.

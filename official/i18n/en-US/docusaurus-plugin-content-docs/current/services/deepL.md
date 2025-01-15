@@ -6,9 +6,9 @@
 
 ## Get the official DeepL API via DeepL
 
-1. Official Introduction：[DeepL API](https://www.deepl.com/en/pro#developer)
+1. Official Introduction:[DeepL API](https://www.deepl.com/en/pro#developer)
 
-   - Note that： [DeepL API](https://www.deepl.com/en/pro#developer) and [DeepL Pro](https://www.deepl.com/pro) are two different account types, and the [DeepL API](https://www.deepl.com/en/pro/select-country#developer) account.
+   - Note that: [DeepL API](https://www.deepl.com/en/pro#developer) and [DeepL Pro](https://www.deepl.com/pro) are two different account types, and the [DeepL API](https://www.deepl.com/en/pro/select-country#developer) account.
 
 2. [Why](https://www.deepl.com/en/whydeepl) choose DeepL?
 
@@ -19,14 +19,14 @@
 3. The Deepl API is divided into [Free API and Pro API](https://www.deepl.com/en/pro#developer)
 
    - The Free API provides 500,000 free characters per month.
-   - The [official fee](https://www.deepl.com/en/pro#developer) for the Pro API is：$25 per 1 million characters.
-   - For a high-frequency user, the amount of characters consumed in a month is about 10 million characters, and the price is about：250 USD
+   - The [official fee](https://www.deepl.com/en/pro#developer) for the Pro API is:$25 per 1 million characters.
+   - For a high-frequency user, the amount of characters consumed in a month is about 10 million characters, and the price is about: 250 USD
 
 4. To register for an account and open the [DeepL API](https://www.deepl.com/en/pro#developer).
 
 <!-- ## Build your own DeepL API
 
-We're experimenting with support for our own DeeplX service in the Beta feature (but it's not well suited as a web translation service, as tested.Due to the huge amount of API requests for web page translation, if you build this service, please make sure to do a good job of load balancing), the following is how to turn on the experimental features of the instructions：
+We're experimenting with support for our own DeeplX service in the Beta feature (but it's not well suited as a web translation service, as tested.Due to the huge amount of API requests for web page translation, if you build this service, please make sure to do a good job of load balancing), the following is how to turn on the experimental features of the instructions:
 
 1. Enabling Beta Testing Features in Developer Settings
 2. Find DeepLX (Beta) in Basic Settings and enter the self-built DeepL API URL, e.g. http\://your-domain/translate

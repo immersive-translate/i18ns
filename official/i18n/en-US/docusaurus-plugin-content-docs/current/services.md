@@ -28,6 +28,6 @@ The number of characters is calculated based on the length of the characters in 
 
 > To be clear, I'm not someone who thinks lots of government agencies should be abolished (maybe a few), but we should always question our institutions, as this strengthens the bedrock of democracy. institutions, as this strengthens the bedrock of democracy.
 
-Such a long article that seems hard to read：[Algorithms Unlocked: How They're Shaping Our Everyday Lives | by Two Techie Vibes | Jan, 2023 | Medium](https://twotechievibes.medium.com/algorithms-unlocked-how-they're-shaping-our-everyday-lives-6261fa1dbad), which is about 10,000 characters long.
+Such a long article that seems hard to read:[Algorithms Unlocked: How They're Shaping Our Everyday Lives | by Two Techie Vibes | Jan, 2023 | Medium](https://twotechievibes.medium.com/algorithms-unlocked-how-they're-shaping-our-everyday-lives-6261fa1dbad), which is about 10,000 characters long.
 
 I hope these two examples give you a sense of the character count.

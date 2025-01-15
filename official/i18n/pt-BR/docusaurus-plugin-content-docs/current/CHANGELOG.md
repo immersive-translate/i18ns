@@ -94,7 +94,7 @@ sidebar_position: 6
 - Suporte para configurar exceções para idiomas e sites no modo de contraste bilíngue ou apenas tradução (configure na página de Configurações -> Configurações Avançadas). Por exemplo: Se seu modo de tradução padrão é contraste bilíngue, mas você não deseja que o Chinês Tradicional também use contraste bilíngue, então você pode adicionar o Chinês Tradicional às línguas de exceção para contraste bilíngue, assim o Chinês Tradicional usará o modo apenas tradução para tradução. Da mesma forma, se seu modo de tradução padrão é apenas tradução, mas você deseja que um determinado idioma ou site use o modo de contraste bilíngue, você também pode adicionar esse idioma ou site às línguas de exceção.
 - Corrigido: Problema onde a caixa de entrada na interface de mensagem privada do Tiktok era traduzida incorretamente
 - Corrigido: Problema onde quadrinhos no Read Comic Online não podiam ser traduzidos
-- Corrigido: Problema onde a 【Configurações Avançadas -> Número mínimo de caracteres necessários para traduzir um parágrafo】 não tinha efeito em alguns casos
+- Corrigido: Problema onde a [Configurações Avançadas -> Número mínimo de caracteres necessários para traduzir um parágrafo] não tinha efeito em alguns casos
 
 ## 1.8.4 (2024-08-30)
 
@@ -116,7 +116,7 @@ sidebar_position: 6
 
 ## 1.7.7
 
-- Adoção do algoritmo de divisão de frases inteligente por IA para legendas em inglês geradas automaticamente no YouTube 【Disponível para Pro】
+- Adoção do algoritmo de divisão de frases inteligente por IA para legendas em inglês geradas automaticamente no YouTube [Disponível para Pro]
 - Otimização da tradução por clique com o botão direito para "Traduzir para xx idioma de destino"
 - Suporte à integração imersiva do [JS SDK](https://immersivetranslate.com/docs/js-sdk/) para sites de terceiros
 - Otimização da exibição de legendas do Hulu
@@ -214,7 +214,7 @@ sidebar_position: 6
 
 ## 1.5.7
 
-- Suporte para adicionar serviços de tradução de IA personalizados compatíveis com OpenAI, acessível na parte inferior da página 【Configurações】->【Serviços de Tradução】.
+- Suporte para adicionar serviços de tradução de IA personalizados compatíveis com OpenAI, acessível na parte inferior da página [Configurações]->[Serviços de Tradução].
 - Corrigido um problema em que as legendas bilíngues não funcionavam na plataforma de vídeo Domestika no Safari.
 
 ## 1.5.6
@@ -409,7 +409,7 @@ sidebar_position: 6
 
 ## 1.1.6
 
-- **Tradução de Parágrafos Específicos no Celular:** A versão móvel agora suporta a tradução de parágrafos específicos e adicionou uma variedade de operações de atalho, incluindo deslizar para a esquerda, deslizar para a direita, tocar duas vezes, tocar três vezes e gestos de toque com vários dedos. Estes não estão ativados por padrão e exigem que o usuário selecione ativamente o gesto de disparo na página de configurações em 【Mouse Hover】.
+- **Tradução de Parágrafos Específicos no Celular:** A versão móvel agora suporta a tradução de parágrafos específicos e adicionou uma variedade de operações de atalho, incluindo deslizar para a esquerda, deslizar para a direita, tocar duas vezes, tocar três vezes e gestos de toque com vários dedos. Estes não estão ativados por padrão e exigem que o usuário selecione ativamente o gesto de disparo na página de configurações em [Mouse Hover].
 - **Atualização da Versão Padrão do Gemini:** A versão padrão agora é `v1beta`.
 - **Correção da Tradução do Chinês Clássico:** Corrigida a funcionalidade de tradução do chinês clássico da Microsoft e OpenAI.
 - **Otimização da Tradução do Japonês:** Otimizada a tradução do japonês do OpenAI para melhorar a precisão e fluência.
@@ -430,7 +430,7 @@ sidebar_position: 6
     - **Configurações de tradução de vídeo:** A entrada para as configurações de "Tradução de Vídeo" também foi colocada no menu principal para ajustes rápidos.
     - **Nova entrada para documentação de uso:** Fornece guias de operação detalhados e documentos de ajuda.
 
-- **Entrada de tradução de documentos integrada:** Agora, você pode traduzir arquivos PDF, ePub e legendas por meio de uma entrada de upload unificada. Basta clicar no botão 【PDF/ePub】 no painel pop-up, sem necessidade de selecionar 【Mais】.
+- **Entrada de tradução de documentos integrada:** Agora, você pode traduzir arquivos PDF, ePub e legendas por meio de uma entrada de upload unificada. Basta clicar no botão [PDF/ePub] no painel pop-up, sem necessidade de selecionar [Mais].
 
 - **Adicionado suporte para 5 sites de vídeo:**
   - Suporte para legendas de podcasts no Youtube Music.

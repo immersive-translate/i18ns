@@ -11,8 +11,8 @@
 ## 화폐 변환
 
 - [Universal Automatic Currency Converter](https://chromewebstore.google.com/detail/hbjagjepkeogombomfeefdmjnclgojli?hl=zh-CN&utm_source=ext_sidebar) 플러그인
-  - 170종 이상의 화폐와 그 상징적 가치를 지원하며, fixer.io와 openexchangerates.org에서 환율을 가져옵니다.
-  - 지능적인 화폐 감지 기능으로 대부분(모두는 아니더라도)의 상징들을 포착하여, 달러, 파운드, 유로부터 유로, 달러, 파운드까지 "달러"를 포함합니다.
+  - 170 종 이상의 화폐와 그 상징적 가치를 지원하며, fixer.io 와 openexchangerates.org 에서 환율을 가져옵니다.
+  - 지능적인 화폐 감지 기능으로 대부분 (모두는 아니더라도) 의 상징들을 포착하여, 달러, 파운드, 유로부터 유로, 달러, 파운드까지 "달러"를 포함합니다.
 
 ## 단어 강조 표시
 

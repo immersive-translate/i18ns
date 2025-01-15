@@ -38,7 +38,7 @@
 
 3. Имя модели необходимо выбрать вручную как пользовательскую модель, измените на: `gpt-35-turbo`,
 
-> Если у вас возникнут вопросы, вы можете открыть PlayGround в Azure AI Studio, нажать 【View Code】, ниже будет указан окончательный 【EndPoint】 и 【Key】, как показано на изображении:
+> Если у вас возникнут вопросы, вы можете открыть PlayGround в Azure AI Studio, нажать [View Code], ниже будет указан окончательный [EndPoint] и [Key], как показано на изображении:
 
 ![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/azure-openai-key.jpg)
 

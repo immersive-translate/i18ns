@@ -12,7 +12,7 @@ sidebar_position: 3
 
 <img src="https://s.immersivetranslate.com/assets/preview.jpeg" alt="drafts" />
 
-公開後、QRコードをスキャンして携帯電話で確認するか、好きなプラットフォームで共有することもできます。
+公開後、QR コードをスキャンして携帯電話で確認するか、好きなプラットフォームで共有することもできます。
 
 ## 他のトリガー方法
 

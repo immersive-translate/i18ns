@@ -44,7 +44,7 @@ sidebar_position: 6
 
 ## 1.12.4 (2024-12-13)
 
-- Added: **AI Context-Aware Translation** can improve the accuracy of professional content translation. (Available only to Pro members，supported exclusively by OpenAI models) **Options** -> **Grneral** -> **Enable AI Context-Aware Translation**
+- Added: **AI Context-Aware Translation** can improve the accuracy of professional content translation. (Available only to Pro members, supported exclusively by OpenAI models) **Options** -> **Grneral** -> **Enable AI Context-Aware Translation**
 - Fix: Some bugs in the multi-line translation effect on Twitter.
 - Fix: Issues with the translation of certain formulas due to rich text
 - Improved: When translating on **x.com**, videos with subtitles will automatically have bilingual subtitles translated.
@@ -132,7 +132,7 @@ sidebar_position: 6
 - Support for configuring exceptions for languages and websites in bilingual contrast or translation-only mode (configure in Settings page -> Advanced Settings). For example: If your default translation mode is bilingual contrast, but you do not wish Traditional Chinese to also use bilingual contrast, then you can add Traditional Chinese to the exception languages for bilingual contrast, so Traditional Chinese will use translation-only mode for translation. Similarly, if your default translation mode is translation-only, but you wish a certain language or website to use bilingual contrast mode, you can also add that language or website to the exception languages.
 - Fixed an issue where the input box in Tiktok private message interface was translated incorrectly
 - Fixed an issue where comics on Read Comic Online could not be translated
-- Fixed an issue where the 【Advanced Settings -> Minimum number of characters required for translating a paragraph】 did not take effect in some cases
+- Fixed an issue where the [Advanced Settings -> Minimum number of characters required for translating a paragraph] did not take effect in some cases
 
 ## 1.8.4 (2024-08-30)
 
@@ -181,7 +181,7 @@ sidebar_position: 6
 
 ## 1.7.7
 
-- Adopt AI intelligent sentence splitting algorithm for auto-generated English subtitles on YouTube 【Pro Available】
+- Adopt AI intelligent sentence splitting algorithm for auto-generated English subtitles on YouTube [Pro Available]
 - Optimize the right-click translation to "Translate to xx target language"
 - Support immersive [JS SDK](https://immersivetranslate.com/docs/js-sdk/) integration for third-party websites
 - Optimize Hulu subtitle display
@@ -279,7 +279,7 @@ sidebar_position: 6
 
 ## 1.5.7
 
-- Support for adding custom AI translation services compatible with OpenAI, accessible at the bottom of the 【Settings】->【Translation Services】page.
+- Support for adding custom AI translation services compatible with OpenAI, accessible at the bottom of the [Settings]->[Translation Services] page.
 - Fixed an issue where bilingual subtitles did not work on the Domestika video platform in Safari.
 
 ## 1.5.6
@@ -474,7 +474,7 @@ sidebar_position: 6
 
 ## 1.1.6
 
-- **Mobile Support for Translating Specific Paragraphs:** The mobile version now supports translating specified paragraphs and has added a variety of shortcut operations, including swiping left, swiping right, double-tapping, triple-tapping, and multi-finger touch gestures. These are not enabled by default and require the user to actively select the triggering gesture in the settings page under 【Mouse Hover】.
+- **Mobile Support for Translating Specific Paragraphs:** The mobile version now supports translating specified paragraphs and has added a variety of shortcut operations, including swiping left, swiping right, double-tapping, triple-tapping, and multi-finger touch gestures. These are not enabled by default and require the user to actively select the triggering gesture in the settings page under [Mouse Hover].
 - **Gemini Default Version Update:** The default version is now `v1beta`.
 - **Fixed Classical Chinese Translation:** Fixed the Classical Chinese translation functionality of Microsoft and OpenAI.
 - **Japanese Translation Optimization:** Further optimized OpenAI's Japanese translation to improve accuracy and fluency.
@@ -495,7 +495,7 @@ sidebar_position: 6
     - **Video translation settings:** The entry for "Video Translation" settings has also been placed in the main menu for quick adjustments.
     - **New entry for usage documentation:** Provides detailed operation guides and help documents.
 
-- **Integrated document translation entry:** Now, you can translate PDF, ePub, and subtitle files through a unified upload entry. Simply click the 【PDF/ePub】button in the Popup panel, no need to select 【More】anymore.
+- **Integrated document translation entry:** Now, you can translate PDF, ePub, and subtitle files through a unified upload entry. Simply click the [PDF/ePub] button in the Popup panel, no need to select [More] anymore.
 
 - **Added support for 5 video websites:**
   - Support for subtitles of podcasts on Youtube Music.
@@ -641,7 +641,7 @@ sidebar_position: 6
 
 ## 0.12.2
 
-- Bilingual subtitle support is provided for more video platforms, which are now supported： [Youtube](https://www.youtube.com/), [Netflix](https://www.netflix.com), [Udemy](https://www.udemy.com/), [Khanacademy] (https://www\.khanacademy.org/), [Coursera] (https://www\.coursera.org/), [Vimeo] (https://vimeo.com/), [Nebula] (https://nebula.tv), [Bloomberg](https://www.bloomberg.com), [Bilibili](https://www.bilibili.com/), etc. (Note that due to the technical limitations of：, some websites need to refresh the page after turning on the bilingual subtitles for the first time or wait for the translation to complete to display the bilingual subtitles). (Note that due to technical limitations, some websites need to refresh the page after opening the bilingual subtitles for the first time, or need to wait for the translation to complete to display the bilingual subtitles)
+- Bilingual subtitle support is provided for more video platforms, which are now supported: [Youtube](https://www.youtube.com/), [Netflix](https://www.netflix.com), [Udemy](https://www.udemy.com/), [Khanacademy] (https://www\.khanacademy.org/), [Coursera] (https://www\.coursera.org/), [Vimeo] (https://vimeo.com/), [Nebula] (https://nebula.tv), [Bloomberg](https://www.bloomberg.com), [Bilibili](https://www.bilibili.com/), etc. (Note that due to the technical limitations of：, some websites need to refresh the page after turning on the bilingual subtitles for the first time or wait for the translation to complete to display the bilingual subtitles). (Note that due to technical limitations, some websites need to refresh the page after opening the bilingual subtitles for the first time, or need to wait for the translation to complete to display the bilingual subtitles)
 - Significantly optimized plugin zip size, cut in half compared to the original, download and update faster.
 - Fix Extended PDF download issues
 - Added a quick-translate PDF portal to the right side of the [Arxiv](https://arxiv.org/abs/1910.06709) paper site, which goes to a clean HTML page (only supported by some papers, since it requires the original authors to submit the source code, so roughly 50% of the papers will show this portal)
@@ -750,13 +750,13 @@ sidebar_position: 6
 
 ## 0.9.3
 
-- Input Box Translation：displays a pop-up reminder when it is used for the first time, and the user can choose to disable it this time or permanently to avoid accidental touches.
+- Input Box Translation: displays a pop-up reminder when it is used for the first time, and the user can choose to disable it this time or permanently to avoid accidental touches.
 - PDF only translation export speed optimization, if you choose to export only the translation, you can directly call the system PDF preview to export, faster.
 - Deeplx supports multiple URLs, just split them with .
 
 ## 0.9.2
 
-- The PDF translation tool is migrated to the online version： https://app.immersivetranslate.com/pdf/ , so that Grease Monkey and Safari can use PDF translation, and problems can be better iterated without the need to issue a version to solve the problem.
+- The PDF translation tool is migrated to the online version: https://app.immersivetranslate.com/pdf/ , so that Grease Monkey and Safari can use PDF translation, and problems can be better iterated without the need to issue a version to solve the problem.
 - POPUP UI optimization, the panel is more beautiful!
 
 ## 0.9.1
@@ -781,7 +781,7 @@ sidebar_position: 6
 ## 0.8.1
 
 - Language Detection Optimization
-- Beta Features：Custom API (Beta enabled in developer settings)
+- Beta Features: Custom API (Beta enabled in developer settings)
 - Support for AliCloud Translation
 - Fixed some bugs
 
@@ -805,7 +805,7 @@ sidebar_position: 6
 
 ## 0.7.11- 0.7.14
 
-- Fix：Gmail Translate All Regions issue
+- Fix: Gmail Translate All Regions issue
 - Temporarily disable Safari's PDF export function due to Safari's restriction on plug-in downloads (bug).
 - Fix some other problems
 
@@ -817,7 +817,7 @@ sidebar_position: 6
 ## 0.7.9
 
 - PDF finally supports the export of bilingual versions!You can click the [Save] button to export the translated bilingual PDF file.
-- Custom rules now support merging with the default built-in rules, e.g.：`{"id": "youtube", "selectors.add":["#test"]}` means adding a `#test` to the existing selectors, `selectors` means overriding the default, `selectors.remove` means deleting one of the default selectors, and `selectors.remove` means deleting one of the default selectors, and `selectors.remove` means deleting one of the default selectors. removes one of the default selectors.
+- Custom rules now support merging with the default built-in rules, e.g.:`{"id": "youtube", "selectors.add":["#test"]}` means adding a `#test` to the existing selectors, `selectors` means overriding the default, `selectors.remove` means deleting one of the default selectors, and `selectors.remove` means deleting one of the default selectors, and `selectors.remove` means deleting one of the default selectors. removes one of the default selectors.
 - Updated Safari icon, a little bigger.
 - Other Bug Fixes
 
@@ -852,17 +852,17 @@ sidebar_position: 6
 
 ## 0.7.2
 
-- Input Box Enhancement：allows to omit the prefix // and trigger the translation of the entire input box with 3 spaces, or you can turn this option off in the settings page.
+- Input Box Enhancement: allows to omit the prefix // and trigger the translation of the entire input box with 3 spaces, or you can turn this option off in the settings page.
 
 ## 0.7.1
 
 - Support Search Enhancement, when enabled, when you search in Google/Google News in Chinese, the right column will automatically show the search results of corresponding English keywords, which is enabled by default.
-  - Reason：We found that in Google search, the search results for Chinese keywords and English keywords can be very different, with the Immersive Translated Search Enhancement enabled, we automatically search for the same keywords in English for you and display them on the right side.You can choose to disable it if you don't need the feature.
+  - Reason: We found that in Google search, the search results for Chinese keywords and English keywords can be very different, with the Immersive Translated Search Enhancement enabled, we automatically search for the same keywords in English for you and display them on the right side.You can choose to disable it if you don't need the feature.
   - Safari is not supported due to API limitations.
 
 ## 0.6.20
 
-- Modify the default settings：Due to a large number of users' feedback that they will not use the translation tool after installation, their expectation of the translation tool is that it will automatically translate English web pages after installation, so from this version onwards, for Chinese users, the option of translating English pages by default has been turned on (if the user has had a previous setting of the language that will always be translated, then it will be honored, and the change only modifies the initial settings of the extension), and it needs to be canceled, the can be easily canceled in [Popup panel or settings page](/docs/faq/#%E5%A6%82%E4%BD%95%E5%85%B3%E9%97%AD%E8%87%AA%E5%8A%A8%E7%BF%BB%E8%AF%91)
+- Modify the default settings: Due to a large number of users' feedback that they will not use the translation tool after installation, their expectation of the translation tool is that it will automatically translate English web pages after installation, so from this version onwards, for Chinese users, the option of translating English pages by default has been turned on (if the user has had a previous setting of the language that will always be translated, then it will be honored, and the change only modifies the initial settings of the extension), and it needs to be canceled, the can be easily canceled in [Popup panel or settings page](/docs/faq/#%E5%A6%82%E4%BD%95%E5%85%B3%E9%97%AD%E8%87%AA%E5%8A%A8%E7%BF%BB%E8%AF%91)
 
 ## 0.6.19
 
@@ -927,7 +927,7 @@ sidebar_position: 6
 
 ## 0.6.6
 
-- Fix for： some areas not translating (quora)
+- Fix for: some areas not translating (quora)
 
 ## 0.6.5
 
@@ -942,10 +942,10 @@ The default language for input box translation can now omit the space, i.e. //He
 
 ## 0.6.2
 
-The most exciting input box enhancement is here：
+The most exciting input box enhancement is here:
 
-- Type： // Hello World into the input box on any web page, then triple-click the space bar to translate the paragraph into English
-- You can also specify the translation to a certain language： /ja Hello World, then triple-click the space bar to translate the paragraph into Japanese
+- Type: // Hello World into the input box on any web page, then triple-click the space bar to translate the paragraph into English
+- You can also specify the translation to a certain language: /ja Hello World, then triple-click the space bar to translate the paragraph into Japanese
 
 [Click here for a quick 30-second introduction](/docs/input/)
 
@@ -956,51 +956,51 @@ The most exciting input box enhancement is here：
 
 ## 0.5.17
 
-- Fix the problem that： bilingual eBooks do not have pictures after exporting
+- Fix the problem that: bilingual eBooks do not have pictures after exporting
 
 ## 0.5.16
 
-- Fix： openai translation issue in Traditional Chinese
+- Fix: openai translation issue in Traditional Chinese
 
 ## 0.5.15
 
-- Optimize： The minimum number of characters in a paragraph that triggers translation was modified to a minimum of 4 characters to reduce confusion, while using other features to avoid translating the navigation and end areas of the site.
-- Fix： Github details not translating after expanding.
+- Optimize: The minimum number of characters in a paragraph that triggers translation was modified to a minimum of 4 characters to reduce confusion, while using other features to avoid translating the navigation and end areas of the site.
+- Fix: Github details not translating after expanding.
 
 ## 0.5.14
 
-- Fix the problem that images on some web pages of： become bigger after copying
-- Fix： medium comment section not translating
-- Fixed the problem that images on some pages of： were copied incorrectly
+- Fix the problem that images on some web pages of: become bigger after copying
+- Fix: medium comment section not translating
+- Fixed the problem that images on some pages of: were copied incorrectly
 
 ## 0.5.12
 
-- Feature： Split Line Translation Style adds a vertical split line for single line translations
-- Fix： Very rare cases of paragraph splitting.
+- Feature: Split Line Translation Style adds a vertical split line for single line translations
+- Fix: Very rare cases of paragraph splitting.
 - A great first-time setup orientation page for new iOS users.
 
 ## 0.5.11
 
 - Subtitle translation support for exporting translations only
-- Fix： Some elements are not recognized by mouse hovering
-- Fix：tweet partial line breaks not recognized
-- Fix：eBook authoring style not working
+- Fix: Some elements are not recognized by mouse hovering
+- Fix: tweet partial line breaks not recognized
+- Fix: eBook authoring style not working
 
 ## 0.5.10
 
-- Fix： tweet line breaks not recognized
-- Fix： Reddit detail page returns some paragraphs that cannot be translated
-- Fixed an issue with： where some of the Code tags were not recognized correctly.
+- Fix: tweet line breaks not recognized
+- Fix: Reddit detail page returns some paragraphs that cannot be translated
+- Fixed an issue with: where some of the Code tags were not recognized correctly.
 
 ## 0.5.9
 
-- Fixes paragraph breaks in some cases at：
-- Fix： Tampermonkey Toggle Only Shows Translations
-- Fix： eBook online reading style not working issue
+- Fixes paragraph breaks in some cases at:
+- Fix: Tampermonkey Toggle Only Shows Translations
+- Fix: eBook online reading style not working issue
 
 ## 0.5.8
 
-- Fix the issue that： temporary setting of website translation duration does not take effect.
+- Fix the issue that: temporary setting of website translation duration does not take effect.
 
 ## 0.5.7
 
@@ -1014,22 +1014,22 @@ The most exciting input box enhancement is here：
 
 - ChatGPT defaults to the mobile model, which is faster!
 
-- Web core parsing refactoring, which means：
+- Web core parsing refactoring, which means:
 
   - Large-scale web page translation in seconds
-    - For example,： https://pve.proxmox.com/pve-docs/pve-admin-guide.html, which took 30 seconds before, is now flipped in seconds.
+    - For example,: https://pve.proxmox.com/pve-docs/pve-admin-guide.html, which took 30 seconds before, is now flipped in seconds.
   - Ultra-low memory usage for complex web pages
-    - For example： https://www\.wsj.com/articles/global-stocks-markets-dow-news-05-05-2023-cb142c76?mod=hp_lead_pos1
+    - For example: https://www\.wsj.com/articles/global-stocks-markets-dow-news-05-05-2023-cb142c76?mod=hp_lead_pos1
   - Adaptation to more websites
 
 - All translations of ShadowRoot's website are supported.
 
-  - For example： https://bugs.chromium.org/p/chromium/issues/detail?id=418987
-  - For example, the comment section of： https://news.yahoo.com/gma/virginia-mom-facing-charges-6-190600893.html
+  - For example: https://bugs.chromium.org/p/chromium/issues/detail?id=418987
+  - For example, the comment section of: https://news.yahoo.com/gma/virginia-mom-facing-charges-6-190600893.html
 
 - Fix the white screen problem after translation of websites with hydration such as Next.js.
 
-  - For example： https://webpack.js.org/
+  - For example: https://webpack.js.org/
 
 - Fixed the issue that modifying the mouse hover shortcut needed to refresh the page to take effect
 

@@ -21,7 +21,7 @@ title: 介绍
 - **深度定制优化主流网站** 针对 Google、Twitter、Reddit、YouTube、彭博社、华尔街日报等主流网站进行优化，无论是搜索、社交还是获取资讯，都更加流畅高效。
 - **全平台支持** 除了各大桌面端浏览器，移动设备也可享受同样的沉浸式翻译体验。在 iOS Safari、安卓 Kiwi 浏览器等移动端浏览器上轻松实现双语浏览 Twitter,Reddit
   等社交媒体。
-- **支持 10+种翻译服务** 在沉浸式翻译中，你可以选择超过 10 种翻译服务，如 Deepl、OpenAI、微软翻译、谷歌翻译、腾讯翻译等等，这份名单还在不断增加中。
+- **支持 10+ 种翻译服务** 在沉浸式翻译中，你可以选择超过 10 种翻译服务，如 Deepl、OpenAI、微软翻译、谷歌翻译、腾讯翻译等等，这份名单还在不断增加中。
 
 [**点击立即安装**](/docs/installation/)
 
@@ -83,7 +83,7 @@ title: 介绍
 
 点击下载[沉浸式翻译安卓浏览器 APK](https://immersivetranslate.com/android/)，或者在 [Google Play 应用商店安装](https://play.google.com/store/apps/details?id=com.immersivetranslate.browser&utm_campaign=official)，该版本已经预装了沉浸式翻译扩展，安装之后即可直接使用。（注意，如遇到部分国产手机在安装时提示的安全风险（这是统一的提示），请选择【我已知晓安全风险】【继续安装】）
 
-### 通过 Edge（微软） 安卓浏览器安装
+### 通过 Edge（微软）安卓浏览器安装
 
 [Edge 安卓浏览器](https://microsoftedgewelcome.microsoft.com/emmx/ImmersiveTranslateCollaboration)目前已支持安装浏览器扩展，沉浸式翻译是 Edge 安卓浏览器的首批推荐扩展之一，在 Edge 浏览器上安装沉浸式翻译扩展非常简单
 
@@ -106,9 +106,9 @@ title: 介绍
 
 ### 通过油猴脚本安装
 
-如果你无法通过以上的方式安装沉浸式翻译的官方扩展(推荐使用官方扩展，性能更好，功能也更丰富)，你可以通过以下方式安装油猴脚本：
+如果你无法通过以上的方式安装沉浸式翻译的官方扩展 (推荐使用官方扩展，性能更好，功能也更丰富)，你可以通过以下方式安装油猴脚本：
 
-油猴脚本地址： https://download.immersivetranslate.com/immersive-translate.user.js
+油猴脚本地址：https://download.immersivetranslate.com/immersive-translate.user.js
 
 在已安装油猴扩展的浏览器中打开[该地址](https://download.immersivetranslate.com/immersive-translate.user.js) 即可安装。以**安卓火狐浏览器**为例：
 

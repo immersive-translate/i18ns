@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # 高度なカスタマイズオプション
 
-拡張機能の設定ページ -> 開発者設定 -> User Config で、UIでは編集できないより多くのカスタマイズ設定を編集できます。これは上級ユーザー向けで、パラメータの詳細な説明は最後にあります。現在組み込まれている `config` は[こちら](https://dash.immersivetranslate.com/#developer)で確認できます。`Click to expand the final config` をクリックしてください。
+拡張機能の設定ページ -> 開発者設定 -> User Config で、UI では編集できないより多くのカスタマイズ設定を編集できます。これは上級ユーザー向けで、パラメータの詳細な説明は最後にあります。現在組み込まれている `config` は[こちら](https://dash.immersivetranslate.com/#developer)で確認できます。`Click to expand the final config` をクリックしてください。
 
 ## ユーザールール
 
@@ -63,9 +63,9 @@ sidebar_position: 4
 }
 ```
 
-## 注入されたCSS
+## 注入された CSS
 
-注入されたCSSを使用すると、カスタムWebページスタイルをグローバルに注入できます。`Rules`の`translationClasses`と一緒に使用することもできます。
+注入された CSS を使用すると、カスタム Web ページスタイルをグローバルに注入できます。`Rules`の`translationClasses`と一緒に使用することもできます。
 
 ```css
 .immersive-translate-target-wrapper img {
@@ -74,7 +74,7 @@ sidebar_position: 4
 }
 ```
 
-また、通常のWebページスタイルマネージャーのように、ウェブサイトにさらに個性的なスタイルを設計することもできます。（`display:none`を使用して広告を非表示にすることも可能です）
+また、通常の Web ページスタイルマネージャーのように、ウェブサイトにさらに個性的なスタイルを設計することもできます。（`display:none`を使用して広告を非表示にすることも可能です）
 
 ```css
 .title {
@@ -171,9 +171,9 @@ Config を通じて、翻訳サービスや特定の言語オプションなど�
 
 Config の一般的なフィールドについていくつか紹介します。
 
-### 通常のHTMLタグのレンダリングを許可する
+### 通常の HTML タグのレンダリングを許可する
 
-[開発者設定](https://dash.immersivetranslate.com/#developer) に移動 -> Full User Configを編集
+[開発者設定](https://dash.immersivetranslate.com/#developer) に移動 -> Full User Config を編集
 
 "enableRenderHtmlTag": true を編集
 
@@ -200,9 +200,9 @@ Config の一般的なフィールドについていくつか紹介します。
 | "openl"
 ```
 
-`translationServices` を使用して、各翻訳サービスの `apikey` を設定します。異なるサービスプロバイダーでは必要なパラメーターが異なります。それらのAPIキーは、それぞれの公式ウェブサイトの開発者センターで申請できます。
+`translationServices` を使用して、各翻訳サービスの `apikey` を設定します。異なるサービスプロバイダーでは必要なパラメーターが異なります。それらの API キーは、それぞれの公式ウェブサイトの開発者センターで申請できます。
 
-例えば、腾讯翻訳君の場合、`secretId`, `secretKey` を設定する必要があります。腾讯クラウドでAPIキーを申請することができ、毎月500万文字まで無料です。具体的な申請プロセスは[こちら](/docs/services/tencent)を参照してください。
+例えば、腾讯翻訳君の場合、`secretId`, `secretKey` を設定する必要があります。腾讯クラウドで API キーを申請することができ、毎月 500 万文字まで無料です。具体的な申請プロセスは[こちら](/docs/services/tencent)を参照してください。
 
 ```json
 "translationServices": {
@@ -220,11 +220,11 @@ Config の一般的なフィールドについていくつか紹介します。
 
 `matches` フィールドは、特定のウェブサイトでこの翻訳サービスを使用するためのものです。
 
-`limit` フィールドは、この翻訳サービスの1秒あたりの最大リクエスト数を指定します（一部のサービスでは、1秒あたりの最大リクエスト数に制限があります）。
+`limit` フィールドは、この翻訳サービスの 1 秒あたりの最大リクエスト数を指定します（一部のサービスでは、1 秒あたりの最大リクエスト数に制限があります）。
 
-`maxTextGroupLengthPerRequest` フィールドは、1回のリクエストでの最大段落数です。
+`maxTextGroupLengthPerRequest` フィールドは、1 回のリクエストでの最大段落数です。
 
-`maxTextLengthPerRequest` フィールドは、1回のリクエストでの最大文字数です。
+`maxTextLengthPerRequest` フィールドは、1 回のリクエストでの最大文字数です。
 
 `apiUrl` は、翻訳インターフェースのアドレスをカスタマイズするために使用できます。
 
@@ -235,7 +235,7 @@ Config の一般的なフィールドについていくつか紹介します。
 - `matches` は常に翻訳するウェブサイトを指定します。
 - `excludeMatches` は決して翻訳しないウェブサイトを指定します。
 
-設定値はドメイン名または `*` を含むURLである可能性があります。例：`www.google.com/mail/*`
+設定値はドメイン名または `*` を含む URL である可能性があります。例：`www.google.com/mail/*`
 
 ```json
 "translationUrlPattern": {
@@ -299,11 +299,11 @@ translationLanguagePattern は、常に翻訳する言語と、決して翻訳�
 }
 ```
 
-### GPT風ページのストリームメッセージ翻訳
+### GPT 風ページのストリームメッセージ翻訳
 
 ```json
 {
-  "matches": ["chat.openai.com"], // GPT風のウェブサイトアドレス
+  "matches": ["chat.openai.com"], // GPT 風のウェブサイトアドレス
   "excludeSelectors": [".markdown *"],
   "aiRule": {
     "streamingSelector": ".result-streaming.markdown",
@@ -315,7 +315,7 @@ translationLanguagePattern は、常に翻訳する言語と、決して翻訳�
 
 ### ルール
 
-`rules` は配列オブジェクトで、特定のウェブサイトに対するルールを設定できます。例えば、Twitterで特定のエリアのみを翻訳するように設定することができます：
+`rules` は配列オブジェクトで、特定のウェブサイトに対するルールを設定できます。例えば、Twitter で特定のエリアのみを翻訳するように設定することができます：
 
 ```json
 {
@@ -344,10 +344,10 @@ translationLanguagePattern は、常に翻訳する言語と、決して翻訳�
 ```typescript
 export interface Rule {
   // ウェブサイトをマッチング
-  id?: string; // システムにはそれぞれの適応ルールに対してidがあり、ユーザーがこのルールを再利用して変更したい場合、自分のルールにこのidを追加することで再利用できます
-  matches?: string | string[]; // このRuleはここで指定されたウェブサイトにのみマッチします。
+  id?: string; // システムにはそれぞれの適応ルールに対して id があり、ユーザーがこのルールを再利用して変更したい場合、自分のルールにこの id を追加することで再利用できます
+  matches?: string | string[]; // この Rule はここで指定されたウェブサイトにのみマッチします。
   excludeMatches?: string | string[]; // 特定のウェブサイトを除外します。
-  selectorMatches?: string | string[]; // セレクターでマッチングし、すべてのURLを指定する必要はありません
+  selectorMatches?: string | string[]; // セレクターでマッチングし、すべての URL を指定する必要はありません
   excludeSelectorMatches?: string | string[]; // 除外ルール、上記と同じです。
 
   // 翻訳範囲を指定
@@ -370,7 +370,7 @@ export interface Rule {
 ```
 
 ```javascript
-  atomicBlockTags?: string | string[]; // エリアTagセレクタ、上記と同じ
+  atomicBlockTags?: string | string[]; // エリア Tag セレクタ、上記と同じ
 
   // Block または Inline
   extraBlockSelectors?: string | string[]; // 追加のセレクタ、マッチした要素は block 要素として扱われ、独立した行になります。
@@ -387,8 +387,8 @@ export interface Rule {
   globalAttributes?: Record<string, Record<string, string>>; // ページ要素の属性を変更
 
   // 埋め込みスタイル
-  injectedCss?: string | string[]; // CSSスタイルを埋め込む
-  additionalInjectedCss?: string | string[]; // CSSスタイルを追加、上書きではなく。
+  injectedCss?: string | string[]; // CSS スタイルを埋め込む
+  additionalInjectedCss?: string | string[]; // CSS スタイルを追加、上書きではなく。
 
   // コンテキスト
   wrapperPrefix?: string; // 翻訳エリアのプレフィックス、デフォルトは smart、文字数に基づいて改行するかどうかを決定。
@@ -396,10 +396,10 @@ export interface Rule {
 
   // 翻訳改行文字数
   blockMinTextCount?: number; // 翻訳テキストを block として扱う最小文字数、それ以外の場合は inline 要素。
-  blockMinWordCount?: number; // 上記と同じ。常に改行させたい場合は、0を入力。
+  blockMinWordCount?: number; // 上記と同じ。常に改行させたい場合は、0 を入力。
 
   // 翻訳可能な最小文字数
-  containerMinTextCount?: number; // スマート認識時、翻訳される要素が含むべき最小文字数、デフォルトは18
+  containerMinTextCount?: number; // スマート認識時、翻訳される要素が含むべき最小文字数、デフォルトは 18
   paragraphMinTextCount?: number; // オリジナル段落の最小文字数、この数を超える内容は翻訳される
   paragraphMinWordCount?: number; // オリジナル段落の最小単語数
 
@@ -407,12 +407,12 @@ export interface Rule {
   lineBreakMaxTextCount?: number; // 長い段落の翻訳を開始する際、強制的に分行される最大文字数。
 
   // 翻訳開始のタイミング
-  urlChangeDelay?: number; // ページに入った後、何ミリ秒遅延して翻訳を開始するか。ページの初期化を待つため、現在のデフォルトは250msです
-  observeUrlChange?: boolean; // URLアドレスが変更されたときに、再度翻訳を開始するかどうか、デフォルトはtrueです。
+  urlChangeDelay?: number; // ページに入った後、何ミリ秒遅延して翻訳を開始するか。ページの初期化を待つため、現在のデフォルトは 250ms です
+  observeUrlChange?: boolean; // URL アドレスが変更されたときに、再度翻訳を開始するかどうか、デフォルトは true です。
 
   // モバイル端末
-  isShowUserscriptPagePopup?: boolean; // モバイルデバイス上でページ内ポップアップを表示するか、デフォルトはtrueです。
-  fingerCountToToggleTranslagePageWhenTouching?: number; // 4本指タッチで翻訳、0、2、3、4、5に設定可能
+  isShowUserscriptPagePopup?: boolean; // モバイルデバイス上でページ内ポップアップを表示するか、デフォルトは true です。
+  fingerCountToToggleTranslagePageWhenTouching?: number; // 4 本指タッチで翻訳、0、2、3、4、5 に設定可能
 
   // AI streaming 翻訳
   aiRule: {
@@ -439,7 +439,7 @@ export interface Rule {
 
 #### 異なるサイトがデフォルトで異なる翻訳サービスを選択するにはどうすればよいですか？例えば、あるサイトではお金を払ってでも良い翻訳品質を求め、別のサイトでは無料で読める翻訳で十分だと思うかもしれません。
 
-注意してください、これは「翻訳サービス」という設定です。これはGoogle翻訳を設定しており、Twitterに関連するサイトの翻訳にはすべてこれを使用するようにしています。Google翻訳は無料で、Twitterはサーフィン用なので、理解できればそれで十分です。
+注意してください、これは「翻訳サービス」という設定です。これは Google 翻訳を設定しており、Twitter に関連するサイトの翻訳にはすべてこれを使用するようにしています。Google 翻訳は無料で、Twitter はサーフィン用なので、理解できればそれで十分です。
 
 さらに詳しく見ると、`deepl`の翻訳サービスも設定されています。これは`deepl`に、誤りの許容率が低く、高精度が求められる学術サイト`scihub`の翻訳を専門にさせています。
 
@@ -454,7 +454,7 @@ export interface Rule {
   }
 ```
 
-> ⚠️ 注意してください。同一ドメインのすべてのサイトを翻訳する場合、_.twitter.comやhttps://twitter.com/を単純に使用するのは無効です。上記のように正しく設定する必要があります。これは、_.twitter.comがxxx.twitter.comのようなサブドメインにのみ一致し、トップレベルドメイン自体は含まれないためです。
+> ⚠️ 注意してください。同一ドメインのすべてのサイトを翻訳する場合、_.twitter.com や https://twitter.com/を単純に使用するのは無効です。上記のように正しく設定する必要があります。これは、_.twitter.com が xxx.twitter.com のようなサブドメインにのみ一致し、トップレベルドメイン自体は含まれないためです。
 
 ### ウェブサイトの適応事例
 
@@ -479,7 +479,7 @@ export interface Rule {
 
 以下に、没入型翻訳によるサイトの適応作業を紹介します。
 
-以下はTwitterのRulesです。簡潔にするため、いくつかの重要なフィールドに焦点を当て、残りのフィールドは上述の`Rules`と組み合わせて理解できます。
+以下は Twitter の Rules です。簡潔にするため、いくつかの重要なフィールドに焦点を当て、残りのフィールドは上述の`Rules`と組み合わせて理解できます。
 
 ```json
 [
@@ -508,7 +508,7 @@ export interface Rule {
       "[data-testid='birdwatch-pivot'] div[dir=ltr]"
     ],
     "excludeSelectors": [
-      // CSSセレクタによって選択された翻訳されない要素
+      // CSS セレクタによって選択された翻訳されない要素
       "[aria-describedby][role=button]",
       "header",
       "[data-testid='radioGroupplayback_rate'] div",
@@ -534,19 +534,19 @@ export interface Rule {
 
   例を挙げると
 
-  - Twitterで`selector`を指定しない場合、ページ内のすべての英語テキストを翻訳しようとします。以下の画像のように、ユーザーのニックネームは翻訳する必要がないことが多いです。
+  - Twitter で`selector`を指定しない場合、ページ内のすべての英語テキストを翻訳しようとします。以下の画像のように、ユーザーのニックネームは翻訳する必要がないことが多いです。
 
   ![ユーザーホームページ](https://s.immersivetranslate.com/assets/siteDocs/twitterUser.png)
 
   フィールドの意味
 
   - ```
-      "selectors": [ // 翻訳されるCSSセレクタの集合
+      "selectors": [ // 翻訳される CSS セレクタの集合
       "[data-testid=\"tweetText\"]",
     ]
     ```
 
-  この配列の各項目はCSSセレクタで、ページ内で翻訳が必要な要素を選択します。ここでは、最初のセレクタを例に、以下の画像のように、すべてのツイート要素にヒットします。
+  この配列の各項目は CSS セレクタで、ページ内で翻訳が必要な要素を選択します。ここでは、最初のセレクタを例に、以下の画像のように、すべてのツイート要素にヒットします。
 
   ![ツイート](https://s.immersivetranslate.com/assets/siteDocs/tweet.png)
 
@@ -555,13 +555,13 @@ export interface Rule {
   このフィールドが必要な理由
 
   - 翻訳するためのセレクタだけでは不十分で、マッチした要素が翻訳不要である可能性があるため、両者に重複する部分が存在するかもしれません。そのため、翻訳不要な要素を除外するためのフィールドを設定する必要があります。
-  - ページの構造が非常に複雑であるため、このように2つの設定項目を提供することで、設定をより柔軟にします。
-  - 関連する優先順位は、同じセレクターに対しては、selectors > excludeSelectorsで、残りはCSSの優先順位によって比較されます。
+  - ページの構造が非常に複雑であるため、このように 2 つの設定項目を提供することで、設定をより柔軟にします。
+  - 関連する優先順位は、同じセレクターに対しては、selectors > excludeSelectors で、残りは CSS の優先順位によって比較されます。
 
   フィールドの意味
 
   - ```
-      "excludeSelectors": [ // 翻訳されないCSSセレクタによって選択された要素
+      "excludeSelectors": [ // 翻訳されない CSS セレクタによって選択された要素
       "[aria-describedby][role=button]",
     ],
     ```
@@ -573,8 +573,8 @@ export interface Rule {
 
   このフィールドが必要な理由
 
-  - 元のウェブページのCSSスタイルのため、翻訳の表示効果が良くない場合があります。例えば、切り取られたり、改行されないなどの効果が発生することがあります。
-  - このフィールドを通じて、原生のウェブページのCSS属性を直接変更することで、問題を解決するための強力な解決策を提供します。
+  - 元のウェブページの CSS スタイルのため、翻訳の表示効果が良くない場合があります。例えば、切り取られたり、改行されないなどの効果が発生することがあります。
+  - このフィールドを通じて、原生のウェブページの CSS 属性を直接変更することで、問題を解決するための強力な解決策を提供します。
 
   フィールドの意味
 
@@ -589,51 +589,40 @@ export interface Rule {
 
   `-webkit-line-clamp` この属性は表示行数を制御し、余分な行は切り取られます。`unset`に設定することで、この属性によって翻訳文が切り取られることがないようにします。
 
-```
-
 ### カスタムウェブサイト適応
 
 適応ルールについては、もちろんカスタムルールを設定することもできます。プラグインのオプションページに進み、[開発者設定](https://dash.immersivetranslate.com/#developer)をクリックして、`Edit User Rules` を展開し、ここで各ウェブサイトのカスタム適応を行います。以下は実際のルールを組み合わせて説明します。
 
 ```json
 [
-{
-"selectors.remove": [
-"[data-testid=\"tweetText\"]"
-],
-"selectors.add": [
-""
-],
-"excludeSelectors.add":[
-""
-],
-"excludeSelectors.remove":[
-""
-],
-"id": "twitter"
-}
+  {
+    "selectors.remove": ["[data-testid=\"tweetText\"]"],
+    "selectors.add": [""],
+    "excludeSelectors.add": [""],
+    "excludeSelectors.remove": [""],
+    "id": "twitter"
+  }
 ]
-
 ```
 
-このルールは、Twitterページのツイートを翻訳しないようにします。以下でフィールドの意味を詳しく説明します。
+このルールは、Twitter ページのツイートを翻訳しないようにします。以下でフィールドの意味を詳しく説明します。
 
-`id` は、沈没式翻訳が現在定義している関連サイトの集合で、各 `id` は関連するサイトに対応しています。`id` の利点は2つあります。
+`id` は、沈没式翻訳が現在定義している関連サイトの集合で、各 `id` は関連するサイトに対応しています。`id` の利点は 2 つあります。
 
 - `id` を使用すると、沈没式翻訳の以前の適応ルールを継承でき、その基盤の上で追加や削除を行うことができます。
 - `id` を使用すると、煩雑なマッチングフィールドを書く必要がなくなります。
 
 以下は、沈没式翻訳の内蔵サービスの一般的な `id` のいくつかを紹介します。
 
-- `"isEbook"` epubリーダーページの設定
-- `"isEbookBuilder"` epubバイリンガルブック生成ページの設定
-- `"pdf"` PDFバイリンガル対照翻訳ページの設定
+- `"isEbook"` epub リーダーページの設定
+- `"isEbookBuilder"` epub バイリンガルブック生成ページの設定
+- `"pdf"` PDF バイリンガル対照翻訳ページの設定
 
 完全な `id` コレクションは、[開発者設定](https://dash.immersivetranslate.com/#developer)の `Click to expand the final config` で見つけることができます。
 
-`selectors` は、翻訳が必要なCSSセレクタを指定するために使用されます。既存の基盤の上で追加や削除を行うために、子項目 `.add` `.remove` の使用を推奨します。
+`selectors` は、翻訳が必要な CSS セレクタを指定するために使用されます。既存の基盤の上で追加や削除を行うために、子項目 `.add` `.remove` の使用を推奨します。
 
-`excludeSelectors` は、翻訳が不要なCSSセレクタを除外するために使用されます。同様に、子項目 `.add` `.remove` を使用して、既存の基盤の上で追加や削除を行うことを推奨します。
+`excludeSelectors` は、翻訳が不要な CSS セレクタを除外するために使用されます。同様に、子項目 `.add` `.remove` を使用して、既存の基盤の上で追加や削除を行うことを推奨します。
 
 **さらに詳しく**
 
@@ -641,4 +630,3 @@ export interface Rule {
 
 - ブロック要素は一行を占有し、隣接する複数のブロック要素はそれぞれ新しい行を開始します。
 - インライン要素は一行を占有せず、隣接する複数のインライン要素は同一行に並び、一行に収まりきらなくなるまで新しい行には移りません。
-```

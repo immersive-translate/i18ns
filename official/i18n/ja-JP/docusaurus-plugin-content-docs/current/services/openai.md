@@ -1,1 +1,1 @@
-# Open AI（Azure OpenAI）
+# Open AI (Azure OpenAI)

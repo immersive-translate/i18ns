@@ -27,7 +27,7 @@ Você ainda pode nos ajudar das seguintes formas:
 <img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-contact3.jpg" width="200" alt="qq"/>
 </div>
 
-- Leia o QR code abaixo para entrar no número público oficial do WeChat：
+- Leia o QR code abaixo para entrar no número público oficial do WeChat:
 
 <div align="center">
 <img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>

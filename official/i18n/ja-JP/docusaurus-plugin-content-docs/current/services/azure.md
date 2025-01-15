@@ -3,7 +3,7 @@
 ## 簡単な説明
 
 1. 公式ウェブサイト：[マイクロソフト Azure 翻訳](https://learn.microsoft.com/ja-jp/azure/cognitive-services/translator/text-translation-overview)
-2. 公式説明：毎月200万文字までの翻訳は無料です。毎月200万文字を超える場合は、10ドル/100万文字の料金がかかります。詳細は[価格説明](https://azure.microsoft.com/ja-jp/pricing/details/cognitive-services/translator/)を参照してください。
+2. 公式説明：毎月 200 万文字までの翻訳は無料です。毎月 200 万文字を超える場合は、10 ドル/100 万文字の料金がかかります。詳細は[価格説明](https://azure.microsoft.com/ja-jp/pricing/details/cognitive-services/translator/)を参照してください。
 
 ## 登録プロセス
 
@@ -33,9 +33,9 @@
 
 ## アクセスキー
 
-デプロイが成功した後、[Azureダッシュボード](https://portal.azure.com/#home)にアクセスし、**翻訳ツール**のページに入ります。左側のメニューからリソース管理の`キーとエンドポイント`を選択し、キーを見つけます。Microsoftは2つのキーを提供しており、どちらか一方を選択して、沈没型エクステンション - Microsoft翻訳の`APIKEY`に入力します。
+デプロイが成功した後、[Azure ダッシュボード](https://portal.azure.com/#home)にアクセスし、**翻訳ツール**のページに入ります。左側のメニューからリソース管理の`キーとエンドポイント`を選択し、キーを見つけます。Microsoft は 2 つのキーを提供しており、どちらか一方を選択して、沈没型エクステンション - Microsoft 翻訳の`APIKEY`に入力します。
 
-キーの下には`位置/リージョン`の情報もあります。例えば`eastasia`など、これも沈没型エクステンション - Microsoft翻訳の`region`に入力する必要があります。
+キーの下には`位置/リージョン`の情報もあります。例えば`eastasia`など、これも沈没型エクステンション - Microsoft 翻訳の`region`に入力する必要があります。
 
 ## よくある質問
 

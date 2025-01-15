@@ -4,7 +4,7 @@
 
 [몰입형 번역 모델](https://github.com/immersive-translate/ImmersiveL)은 사용자 정의 인터페이스를 지원합니다.
 
-【설정】페이지에서 개발자 모드를 활성화하고 【Beta】기능을 사용하면 번역 서비스에서 다음을 볼 수 있습니다:
+【설정】페이지에서 개발자 모드를 활성화하고【Beta】기능을 사용하면 번역 서비스에서 다음을 볼 수 있습니다:
 
 ![](https://s.immersivetranslate.com/assets/20231026-125902.jpeg)
 
@@ -38,7 +38,7 @@
 
 #### 예시
 
-- 예시1: ['{', '}']
+- 예시 1: ['{', '}']
 
 ```
    원문: 😁 hello 👏🏻 world
@@ -48,7 +48,7 @@
    번역문: 😁 안녕하세요 👏🏻 세계
 ```
 
-- 예시2: ['', '', 'b']
+- 예시 2: ['', '', 'b']
 
 ````
    원문: 😁 hello 👏🏻 world
@@ -138,7 +138,7 @@ otq: 케레타로 오토미어, Querétaro Otomi
 pa: 펀자브어, Punjabi
 pl: 폴란드어, Polish
 ps: 파슈토어, Afghan/Pashto
-pt: 포르투갈어(Portugal,Brazil)
+pt: 포르투갈어 (Portugal,Brazil)
 ro: 루마니아어, Romanian
 ru: 러시아어, Russian
 sd: 신디어, Sindhi
@@ -150,8 +150,8 @@ sn: 쇼나어, Shona
 so: 소말리아어, Somali
 sq: 알바니아어, Albanian
 sr: 세르비아어, Serbian
-sr-Cyrl: 세르비아어(키릴 문자), Serbia(Cyrillic)
-sr-Latn: 세르비아어(라틴 문자), Serbia(Latin)
+sr-Cyrl: 세르비아어 (키릴 문자), Serbia(Cyrillic)
+sr-Latn: 세르비아어 (라틴 문자), Serbia(Latin)
 st: 세소토어, Sesotho
 su: 순다어, Sundanese
 sv: 스웨덴어, Swedish
@@ -161,7 +161,7 @@ te: 텔루구어, Telugu
 tg: 타지크어, Tajik
 th: 태국어, Thai
 tlh: 클링곤어, Klingon
-tlh-Qaak: 클링곤어(piqaD), Klingo(piqaD)
+tlh-Qaak: 클링곤어 (piqaD), Klingo(piqaD)
 to: 통가어, Tongan
 tr: 터키어, Turkish
 ty: 타히티어, Tahiti
@@ -175,7 +175,7 @@ xh: 반투어, Bantu
 yi: 이디시어, Yiddish
 yo: 요루바어, Yoruba
 yua: 유카탄 마야어, Yucatan Mayan
-yue: 광동어(전통), Cantones(Traditional)
+yue: 광동어 (전통), Cantones(Traditional)
 zh-CN: 간체 중국어, 简体中文
 zh-TW: 번체 중국어, 繁體中文
 zu: 줄루어, Zulu

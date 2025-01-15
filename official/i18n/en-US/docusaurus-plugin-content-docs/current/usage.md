@@ -18,13 +18,13 @@ After installing the plugin, top the Immersive Translate Browser icon in the upp
 
 <img src="https://s.immersivetranslate.com/assets/browser_panel_en.jpg" alt="browser action" width="250" />
 
-Or, just click on the Immersive Translate shortcut icon on the right side of the page：
+Or, just click on the Immersive Translate shortcut icon on the right side of the page:
 
 <img src="https://s.immersivetranslate.com/assets/translate_this_page.jpeg" alt="translate this page" width="250" />
 
 Alternatively, you can right-click in a web page and select [Translate Web Page/Show Original Text] to translate it.
 
-If you prefer shortcuts, you can also use shortcuts for translation, here is the default shortcut：
+If you prefer shortcuts, you can also use shortcuts for translation, here is the default shortcut:
 
 ```txt
 Alt+A: Translate/toggle the original text, click to translate, then click again to show the original text.
@@ -80,17 +80,17 @@ For example, in [Interface Settings], we can modify **Translation Style**：
 
 ## Mouse Hover Translation
 
-Immersion supports automatic translation of a paragraph by hovering over it, but it is not enabled by default.You need to enable it in the panel：
+Immersion supports automatic translation of a paragraph by hovering over it, but it is not enabled by default.You need to enable it in the panel:
 
 ![mouse_en](https://s.immersivetranslate.com/static/official-static/assets/site/mouse_en.jpg)
 
-Once enabled, you can press the `Shift` key while hovering over a paragraph to see the bilingual translation：
+Once enabled, you can press the `Shift` key while hovering over a paragraph to see the bilingual translation:
 
 ![mouse hover](https://s.immersivetranslate.com/static/official-static/assets/mouse-hover.gif)
 
 ## Input Box Enhancement
 
-You can translate the text you want in any text input box, check out the video demo at：
+You can translate the text you want in any text input box, check out the video demo at:
 
 <video
 controls
@@ -137,7 +137,7 @@ If you are using Tampermonkey, then you need to go to the [Online Web Version Se
 
 ## Contact Us
 
-Welcome to Immersive Translate, if you have any questions, you can contact the development team at：
+Welcome to Immersive Translate, if you have any questions, you can contact the development team at:
 
 <!-- - [Subscribe to Immersive Translate by Email](https://immersivetranslate.substack.com/) Get the latest updates and (benefits) in a timely manner. -->
 

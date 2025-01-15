@@ -2,14 +2,14 @@
 
 ## Brief Statement
 
-1. Official website：[Translated by Microsoft Azure](https://learn.microsoft.com/en-us/azure/cognitive-services/translator/text-translation-overview)
-2. Official Description：Translations are free up to 2 million words per month, if you exceed 2 million words per month, we will charge you at a rate of $10 / 1 million words.For more details, please refer to [Pricing Note](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/translator/)
+1. Official website:[Translated by Microsoft Azure](https://learn.microsoft.com/en-us/azure/cognitive-services/translator/text-translation-overview)
+2. Official Description: Translations are free up to 2 million words per month, if you exceed 2 million words per month, we will charge you at a rate of $10 / 1 million words.For more details, please refer to [Pricing Note](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/translator/)
 
 ## Registration Process
 
 The registration process is more cumbersome than other translation services and requires patience.
 
-Reference Link：[Microsoft Azure Translation Getting Started Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/translator/document-translation/quickstarts/get-started-with-rest-api?pivots=programming-language-csharp)
+Reference Link:[Microsoft Azure Translation Getting Started Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/translator/document-translation/quickstarts/get-started-with-rest-api?pivots=programming-language-csharp)
 
 ## Sign up for an Azure account
 

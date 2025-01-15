@@ -8,7 +8,7 @@ sidebar_position: 8
 
 ## 快速直达
 
-- [Chrome 商店用户评价页面](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) - 点击 Review ，选择全部语言
+- [Chrome 商店用户评价页面](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) - 点击 Review，选择全部语言
 - [Edge 商店用户评价页面](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg) - 向下滑动
 - [Firefox 商店用户评价页面](https://addons.mozilla.org/en-US/firefox/addon/immersive-translate/reviews/)
 - [苹果 App Store 页面](https://apps.apple.com/cn/app/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/id6447957425)
@@ -22,11 +22,11 @@ sidebar_position: 8
 
 ## 用户留言
 
-> 太好使了！！！完美适配我这种刚好懂一点英语但还是更喜欢用中文快速看完的！有不清楚的地方直接可以看到原文，对照一下，但 99%的地方已经够用了 另外，OPENAI 的翻译速度还是太慢了，速度型选手更适合 google 翻译 - Chrome 浏览器用户
+> 太好使了！！！完美适配我这种刚好懂一点英语但还是更喜欢用中文快速看完的！有不清楚的地方直接可以看到原文，对照一下，但 99% 的地方已经够用了 另外，OPENAI 的翻译速度还是太慢了，速度型选手更适合 google 翻译 - Chrome 浏览器用户
 
 > 真的非常好用，大多数网页格式都能兼容支持。显示双语，既能够看到英语原文，学习专业单词的表达方式，又能避免小翻译错误。这个插件对我的帮助很大，非常感谢！ - Chrome 浏览器用户
 
-> 很棒, 支持很多翻译服务, 实现也很优雅 谷歌翻译完全够用, 在哲学方面的书, 翻译水准完全比得上专业方向的研一, 尤其是中英双语对照的情况基本上不会有太大问题; 德中的话感觉 DeepL 更好些. - Chrome 浏览器用户
+> 很棒，支持很多翻译服务，实现也很优雅 谷歌翻译完全够用，在哲学方面的书，翻译水准完全比得上专业方向的研一，尤其是中英双语对照的情况基本上不会有太大问题; 德中的话感觉 DeepL 更好些。- Chrome 浏览器用户
 
 > 推荐我用的英文翻译工具：沉浸式双语网页翻译扩展。以前我用 Chrome 自带的网页翻译功能，它有两个缺点：无法结合上下文，会翻错单词；翻译法律文本那种很长、很绕的从句，结果基本看不懂。现在我用中英对照来解决上面这俩问题。-[@倪爽](https://twitter.com/nishuang/status/1623576540389822465)
 
@@ -34,9 +34,9 @@ sidebar_position: 8
 
 > 超级好用，绝对是目前为止最好用的翻译插件，没有之一！一切都是想像中的样子！比那些收费才能用的好用得多！ - Edge 浏览器用户
 
-> 强烈推荐这个网页翻译插件，和其他插件翻译整个网页相比，这个插件的优势是可以同时显示双语，中英文对照, 免费使用。配合任何 epub 在线阅读网站对照翻译阅读书也非常方便。也支持了 Deepl 等翻译服务。开发者 @OwenYoungZh - [@viggo](https://twitter.com/decohack/status/1622175776274792449)
+> 强烈推荐这个网页翻译插件，和其他插件翻译整个网页相比，这个插件的优势是可以同时显示双语，中英文对照，免费使用。配合任何 epub 在线阅读网站对照翻译阅读书也非常方便。也支持了 Deepl 等翻译服务。开发者 @OwenYoungZh - [@viggo](https://twitter.com/decohack/status/1622175776274792449)
 
-> 一个非常赞的浏览器网页翻页插件: 沉浸式双语网页翻译扩展 -Immersive Translate, 智能识别网页主内容区，增强译文的阅读体验, 支持 Deepl, 谷歌等 10+ 种常见的翻译服务 - [@A 姐分享](https://twitter.com/abskoop/status/1619619066511241216)
+> 一个非常赞的浏览器网页翻页插件：沉浸式双语网页翻译扩展 -Immersive Translate, 智能识别网页主内容区，增强译文的阅读体验，支持 Deepl, 谷歌等 10+ 种常见的翻译服务 - [@A 姐分享](https://twitter.com/abskoop/status/1619619066511241216)
 
 > 译文的特殊效果是同类产品的亮点 - Edge 浏览器用户
 

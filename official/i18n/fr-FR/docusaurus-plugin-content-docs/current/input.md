@@ -25,7 +25,7 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 ## Commandes
 
-Commandes de langue courantes：
+Commandes de langue courantes:
 
 | multilinguisme         | commande |
 | ---------------------- | -------- |

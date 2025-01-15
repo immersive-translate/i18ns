@@ -2,8 +2,8 @@
 
 ## Brief Statement
 
-1. Official Website：[Machine Translation_Ali AI Translation_Document Image Translation - AliCloud](https://www.aliyun.com/product/ai/alimt)
-2. Official Tariff Description：[Payment Models and Specific Pricing for Machine Translation_Machine Translation-AliCloud Help Center](https://help.aliyun.com/document_detail/197134.html)
+1. Official Website:[Machine Translation_Ali AI Translation_Document Image Translation - AliCloud](https://www.aliyun.com/product/ai/alimt)
+2. Official Tariff Description:[Payment Models and Specific Pricing for Machine Translation_Machine Translation-AliCloud Help Center](https://help.aliyun.com/document_detail/197134.html)
 3. The first 1 million characters per month of Machine Translation General Edition are free of charge, and the exceeding portion will be charged at $50 per million characters; the first 1 million characters per month of Machine Translation Professional Edition are free of charge, and the exceeding portion will be charged at $60 per million characters.Please keep an eye on the usage limit to avoid unexpected chargebacks.
 
 ## Application Steps

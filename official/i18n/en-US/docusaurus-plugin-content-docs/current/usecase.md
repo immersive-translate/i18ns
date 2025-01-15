@@ -15,7 +15,7 @@ sidebar_position: 3
   src="https://s.immersivetranslate.com/videos/morefeature_epub_en.mp4"
 />
 
-## General articles, translations without style：
+## General articles, translations without style:
 
 ![](https://s.immersivetranslate.com/assets/introduce_en.jpg)
 

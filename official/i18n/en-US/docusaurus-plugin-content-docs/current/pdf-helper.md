@@ -12,7 +12,7 @@ If your PDF contains tables and mathematical formulas that require higher qualit
 
 See [documentation here](/docs/usage/#pdf-file-translation) for basic usage questions
 
-Here are some advanced PDF translation tips：
+Here are some advanced PDF translation tips:
 
 <!--
 ## Move to adjust the translation box

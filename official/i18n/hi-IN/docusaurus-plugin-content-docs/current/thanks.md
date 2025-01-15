@@ -4,7 +4,7 @@ sidebar_position: 11
 
 # प्रायोजक
 
-निम्नलिखित प्रत्येक प्रायोजक का उनके समर्थन के लिए बहुत धन्यवाद：
+निम्नलिखित प्रत्येक प्रायोजक का उनके समर्थन के लिए बहुत धन्यवाद:
 
 <p>
 <object style={{width:"100%"}} type="image/svg+xml" data="https://s.immersivetranslate.com/static/official-static/assets/sponsorkit/sponsors.svg?v=c863abade62b2e79f5d5703535aeade9c682fa12"><a target="_blank" href="/docs/donate">

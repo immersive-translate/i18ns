@@ -8,12 +8,12 @@ Times are tough, and we know that not everyone can afford to pay for more and mo
 
 We are no longer in need of financial support at this time (many thanks to [each of the previous sponsors](/docs/thanks))
 
-You can still do these things to help us now：
+You can still do these things to help us now:
 
 - Recommend Immersive Translate to friends and family around you and help more people break down information barriers.
 - Develop the habit of reading information in foreign languages
 - In the [Chrome Store](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh), [Edge Store](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg), [Apple App Store](https://apps.apple.com/app/id6447957425), [Firefox Store](https://addons.mozilla.org/firefox/addon/immersive-translate/) to evaluate the extension.
-- The following is optional：
+- The following is optional:
 - Subscribe to [the official Immersive Translate email](https://immersivetranslate.substack.com/)
 - [Join the Telegram channel](https://t.me/immersivetranslate)
 - Follow [the official Twitter account of Immersive Translate](https://twitter.com/immersivetran)
@@ -21,13 +21,13 @@ You can still do these things to help us now：
 - Help with [translation](https://crowdin.com/project/immersive-translate) the interface language for this extension.
 - Helpful answers for users in [Telegram group](https://t.me/+rq848Z09nehlOTgx)
 - Help answer user questions in [Github Issue](https://github.com/immersive-translate/immersive-translate/issues).
-- Scan the QR code below to join the official WeChat exchange group to help answer users' questions：
+- Scan the QR code below to join the official WeChat exchange group to help answer users' questions:
 
 <div align="center">
 <img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-contact3.jpg" width="200" alt="qq"/>
 </div>
 
-- Scan the QR code below to follow the official WeChat public number：
+- Scan the QR code below to follow the official WeChat public number:
 
 <div align="center">
 <img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
@@ -39,7 +39,7 @@ Hi, I'm Owen, and I myself have benefited from the free tools developed by count
 
 To date, Immersive Translate has helped more than 400,000 people get into the habit of reading information in a foreign language.
 
-Before Immersive Translate：
+Before Immersive Translate:
 
 - Ordinary translation tools display the translation directly, and you need to switch back and forth between the original and the translation when you encounter something that doesn't make sense.
 - Ordinary translation tools only support their own translation engines, which are of questionable quality and limited in the languages they support
@@ -47,7 +47,7 @@ Before Immersive Translate：
 
 So many people only use translation tools to view information when it's most necessary, and I used the translation that came with my system for quite a while -- until after I read a bilingual copy of Little Women.
 
-I just realized how important the bilingual reading experience is：
+I just realized how important the bilingual reading experience is:
 
 - I can read the original message.
 - I can also quickly look at the translation and when I read something that doesn't make sense, I immediately check the original text

@@ -8,8 +8,8 @@ sidebar_position: 1
 
 ## Desktop Browser
 
-- Microsoft Edge Browser： [Edge Store Immersive Translate](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)
-- Google Chrome：[Chrome Store Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
+- Microsoft Edge Browser: [Edge Store Immersive Translate](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)
+- Google Chrome:[Chrome Store Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
 - Firefox：[Firefox Addon Store Immersive Translate](https://addons.mozilla.org/firefox/addon/immersive-translate/)、[Firefox Addon Store Immersive Translate Beta](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 
 > If you can't access the official Google Store, you can directly download the [Latest Immersive Translate Chrome zip installer](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip), after downloading, please first Unzip it to a folder you usually use, then type：`chrome://extensions` in the address bar to open the extension management window, then enable "Developer Mode", select "Load Unzipped Extensions", and choose the folder you just unzipped and loaded. Select the folder you just extracted and load it.
@@ -22,7 +22,7 @@ sidebar_position: 1
 <img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="app store qrcode"/>
 </div>
 
-> Instructions：After the first installation, you need to enable the Immersive Translate extension\*\* in safari -> Manage Extensions -> **Enable Immersive Translate Extension** and grant it **Always Allow Access to All Websites**, if you have any questions, you can view the following video tutorial：
+> Instructions: After the first installation, you need to enable the Immersive Translate extension\*\* in safari -> Manage Extensions -> **Enable Immersive Translate Extension** and grant it **Always Allow Access to All Websites**, if you have any questions, you can view the following video tutorial：
 
 ### iOS Safari
 
@@ -56,11 +56,11 @@ Once installed, search for [Immersive Translate](https://chrome.google.com/webst
 
 ## Installation via Tampermonkey
 
-If you can't install the official extension for Immersive Translates in the way described above, you can install Tampermonkeys by：
+If you can't install the official extension for Immersive Translates in the way described above, you can install Tampermonkeys by:
 
-Tampermonkey Address： https://download.immersivetranslate.com/immersive-translate.user.js
+Tampermonkey Address: https://download.immersivetranslate.com/immersive-translate.user.js
 
-Open [this address](https://download.immersivetranslate.com/immersive-translate.user.js) in a browser that has the Grease Monkey extension installed to install it.Here are a few browsers that support Tampermonkey：
+Open [this address](https://download.immersivetranslate.com/immersive-translate.user.js) in a browser that has the Grease Monkey extension installed to install it.Here are a few browsers that support Tampermonkey:
 
 **Firefox for Android**
 
@@ -81,14 +81,14 @@ Open [this address](https://download.immersivetranslate.com/immersive-translate.
 
 ## Manual installation (to keep track of the latest development features)
 
-The advantage of manual installation is that you don't have to wait for the store to review it and you can experience the features of the latest development version immediately：
+The advantage of manual installation is that you don't have to wait for the store to review it and you can experience the features of the latest development version immediately:
 
 1. Download the zip package at [release page](https://github.com/immersive-translate/immersive-translate/releases/)
 2. Extract the zip to a common folder, such as `Documents/chrome-immersive-translate`.
 3. installation
 
 - Install：(1) Type：`chrome://extensions` in the address bar to open the Extension Manager window; (2) Open "Developer Mode", select "Load Unzipped Extensions", and choose the folder you just unzipped to load. the folder you just unzipped and load it.
-- Firefox Browser Installation：(1) Type： `about:debugging#/runtime/this-firefox` in the address bar to open the Extension Manager window; (2) Temporarily load the add-on and select `firefox/manifest.json`.
+- Firefox Browser Installation:(1) Type: `about:debugging#/runtime/this-firefox` in the address bar to open the Extension Manager window; (2) Temporarily load the add-on and select `firefox/manifest.json`.
 
 ### How do I update a manually installed extension?
 

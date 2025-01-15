@@ -18,10 +18,10 @@
 - [The Rest of World](https://restofworld.org/) - 科学技術の報道。
 - [Boing Boing](https://boingboing.net/) - 面白いオンライン雑誌、科学技術、政治、生活。
 - [Newstatesman - 新政治家](https://www.newstatesman.com/) - イギリスをリードする進歩的な政治と文化の雑誌。
-- [The Intercept](https://theintercept.com/) - インターセプト、eBayの創設者が立ち上げたオンラインメディア。
+- [The Intercept](https://theintercept.com/) - インターセプト、eBay の創設者が立ち上げたオンラインメディア。
 - [Mcsweeneys](https://www.mcsweeneys.net/) - ユーモアと風刺のオンライン雑誌。
 - [Semafor](https://www.semafor.com/) - ニュース記事は古い形式で、何世紀にもわたる印刷新聞のために設計されたものですが、その年齢が現れています。多くのニュース--今日の最高のニュースでさえも--事実と分析を密接に絡め合わせているため、読者は両者の違いを見分けるのが難しいです。記事は常に反対の見解を正直に提供するわけではありません。また、通常は一つの視点から語られます。これらすべてが、限られた時間の読者にとって信頼すること--さらには大局を理解することさえも難しくしています。そのため、私たちは物語の形式を私たちが「Semaform」と呼ぶものに再構築しました。この形式は、異論のない事実とそれらの事実に対する記者の分析を分け、異なるかつより包括的な視点を提供し、その主題に関する他のメディアの有力な報道を共有します。
-- [Noema 雑誌 - 思考](https://www.noemamag.com/) - 哲学、治理、地政学、経済、技術、文化の交差点に関する記事、インタビュー、報道、ビデオ、アート作品を発表しています。これを行う過程で、私たちのユニークなアプローチは、通常の領域を超えて、学問分野、社会的隔たり、文化的境界を越えることです。人工知能や気候危機から民主主義や資本主義の未来まで、Noema雑誌は21世紀の最も緊急の課題に対するより深い理解を求めています。
+- [Noema 雑誌 - 思考](https://www.noemamag.com/) - 哲学、治理、地政学、経済、技術、文化の交差点に関する記事、インタビュー、報道、ビデオ、アート作品を発表しています。これを行う過程で、私たちのユニークなアプローチは、通常の領域を超えて、学問分野、社会的隔たり、文化的境界を越えることです。人工知能や気候危機から民主主義や資本主義の未来まで、Noema 雑誌は 21 世紀の最も緊急の課題に対するより深い理解を求めています。
 
 ## 深度報道
 
@@ -43,33 +43,33 @@
 
 ## 動画
 
-- [Vox](https://www.youtube.com/c/Vox/featured) - YouTube上で様々な事柄について解説するブロガーです。例えば、タリバンや新型コロナウイルスなど、動画の品質が非常に高いです。
-- [ビデオ講義 - Redditグループ](https://www.reddit.com/r/lectures/)
-- [視聴して学ぶ - Redditグループ](https://www.reddit.com/r/WatchandLearn/)
-- [食事中の動画 - Redditグループ](https://www.reddit.com/r/mealtimevideos/)
+- [Vox](https://www.youtube.com/c/Vox/featured) - YouTube 上で様々な事柄について解説するブロガーです。例えば、タリバンや新型コロナウイルスなど、動画の品質が非常に高いです。
+- [ビデオ講義 - Reddit グループ](https://www.reddit.com/r/lectures/)
+- [視聴して学ぶ - Reddit グループ](https://www.reddit.com/r/WatchandLearn/)
+- [食事中の動画 - Reddit グループ](https://www.reddit.com/r/mealtimevideos/)
 
 ## 専門コラム
 
 - [Cal Newport](https://www.newyorker.com/contributors/cal-newport) - 「ディープワーク」の著者
 - [ニューヨーカーのコラムニスト作品リスト](https://www.newyorker.com/news/our-columnists)
-- [Tynanのブログ](https://tynan.com/) - 財産、投資について
+- [Tynan のブログ](https://tynan.com/) - 財産、投資について
 - [Noah](https://noahpinion.substack.com/)
-- [Tyler Cowenのコラム](https://www.bloomberg.com/opinion/authors/AS6n2t3d_iA/tyler-cowen) - 経済に関連
+- [Tyler Cowen のコラム](https://www.bloomberg.com/opinion/authors/AS6n2t3d_iA/tyler-cowen) - 経済に関連
 - [Adam Grant](https://adamgrant.bulletin.com/)
 - [Austin Kleon](https://austinkleon.substack.com/) - 「アーティストのように盗め」の著者
-- [Paul Graham](http://paulgraham.com/articles.html) - YCの創設者
+- [Paul Graham](http://paulgraham.com/articles.html) - YC の創設者
 - [Gwern](https://www.gwern.net/index) - アメリカの作家兼研究者
-- [Wait but Why](https://waitbutwhy.com/homepage) - Tim Urbanが主催するブログ。Wait But Whyは、科学技術から哲学、社会に至るまで幅広いテーマを扱うブログです。このブログは、ティム・アーバンとアンドリュー・フィンによって2013年に設立され、以来、195の国で2400万人以上の読者を獲得するほどの大きなフォロワーを集めました。深く、丁寧に研究された記事で知られており、これらの記事には通常、手描きのイラストが含まれています。このブログの主なミッションは、毎週火曜日に新しい記事を投稿することですが、時々、短い記事も投稿します。このブログの目標は、世界を探求し、知識を面白く、魅力的な方法で共有することです。
+- [Wait but Why](https://waitbutwhy.com/homepage) - Tim Urban が主催するブログ。Wait But Why は、科学技術から哲学、社会に至るまで幅広いテーマを扱うブログです。このブログは、ティム・アーバンとアンドリュー・フィンによって 2013 年に設立され、以来、195 の国で 2400 万人以上の読者を獲得するほどの大きなフォロワーを集めました。深く、丁寧に研究された記事で知られており、これらの記事には通常、手描きのイラストが含まれています。このブログの主なミッションは、毎週火曜日に新しい記事を投稿することですが、時々、短い記事も投稿します。このブログの目標は、世界を探求し、知識を面白く、魅力的な方法で共有することです。
 
 ## 製品関連
 
 - [Product Hunt Trending (producthunt-trending.js.org)](https://producthunt-trending.js.org/?range=monthly) -
-  月別、年別のProductランキング。
-- [r/SideProject - サイドプロジェクトを共有するコミュニティ (reddit.com)](https://www.reddit.com/r/SideProject/) - Redditのサイドプロジェクトグループ
+  月別、年別の Product ランキング。
+- [r/SideProject - サイドプロジェクトを共有するコミュニティ (reddit.com)](https://www.reddit.com/r/SideProject/) - Reddit のサイドプロジェクトグループ
 - [Product Hunt](https://www.producthunt.com/) - Product Hunt、製品ハンター
-- [Hacker News Show](https://news.ycombinator.com/show) - Hacker Newsの製品自慢
+- [Hacker News Show](https://news.ycombinator.com/show) - Hacker News の製品自慢
 - [Website Hunt](https://www.websitehunt.co/) - 素晴らしいウェブサイトを発見
-- [Track Awesome-Selfhosted](https://www.trackawesomelist.com) - Github上の最新のAwesomeプロジェクトを追跡
+- [Track Awesome-Selfhosted](https://www.trackawesomelist.com) - Github 上の最新の Awesome プロジェクトを追跡
 
 ## 意見
 
@@ -89,7 +89,7 @@
 - [Hacker News の編集者による厳選](https://news.ycombinator.com/invited)
 - [Wired - ワイヤードマガジン](https://www.wired.com/) - テクノロジー関連の報道
 - [Ars Technica](https://arstechnica.com/) - 最高品質のテクノロジー報道サイト
-- [500以上のプログラマーブログを集約したタイムライン](https://engineeringblogs.xyz/)
+- [500 以上のプログラマーブログを集約したタイムライン](https://engineeringblogs.xyz/)
 - [Tildes](https://tildes.net/) - オープンソースのアグリゲーター
   - [説明](https://blog.tildes.net/announcing-tildes)
 - [brutalist](https://brutalist.report/) - 最も権威のある報道を集約
@@ -121,7 +121,7 @@
 
 - [Current Affairs 時事](https://www.currentaffairs.org/)
 - [Inbox world](https://inboxworld.io/) - 受信箱の世界、投票でソートされた高品質なメーリングリスト。
-- [The Browser](https://thebrowser.com/) - 毎日読む価値のある5つの記事を推薦
+- [The Browser](https://thebrowser.com/) - 毎日読む価値のある 5 つの記事を推薦
   - [アーカイブ](https://thebrowser.com/archive/)
 - [Inbox World](https://inboxworld.io/) - 購読推薦
 - [laskie](https://laskie.substack.com/) - 会社の時間を節約し、より多くのお金を稼ぐための製品やサービスを作ります。起業関連、企業管理関連
@@ -148,8 +148,8 @@
 - [The Initium News](https://theinitium.com/) - 端伝媒、中国語の独立メディア
 - [thenewslens](https://www.thenewslens.com/) - キーレビュー、台湾の独立メディア
 - [中国 - 歴史と未来](https://www.chinese-future.org/) - ヨーロッパに基づくブログプラットフォームで、いくつかのコラム作品を掲載
-- [歪脳](https://www.wainao.me/) - 歪脳は、中国語を話す若い世代のために特別に設計されたニュースマガジンです。独立した思考を奨励することを基本とし、視聴者と読者に世界を見る別の視点を提供することを目指しています。本部はアメリカの首都、ワシントンD.C.にあり、アメリカのグローバルメディア局（USAGM）によって公共の専門資金からの助成で設立され、すべてのコンテンツの編集制作は完全に独立して行われます。
-- [Matters](https://matters.news/) - UGGコミュニティ、コンテンツはブロックチェーンにホストされ、端伝媒の元総編集長である張洁平によって設立されました。
+- [歪脳](https://www.wainao.me/) - 歪脳は、中国語を話す若い世代のために特別に設計されたニュースマガジンです。独立した思考を奨励することを基本とし、視聴者と読者に世界を見る別の視点を提供することを目指しています。本部はアメリカの首都、ワシントン D.C.にあり、アメリカのグローバルメディア局（USAGM）によって公共の専門資金からの助成で設立され、すべてのコンテンツの編集制作は完全に独立して行われます。
+- [Matters](https://matters.news/) - UGG コミュニティ、コンテンツはブロックチェーンにホストされ、端伝媒の元総編集長である張洁平によって設立されました。
 
 ## 中文 Newsletter
 
@@ -158,4 +158,4 @@
 
 ## 他人のおすすめ
 
-- [Hacker News以外でどのようなニュース情報を見ていますか](https://news.ycombinator.com/item?id=36175315)
+- [Hacker News 以外でどのようなニュース情報を見ていますか](https://news.ycombinator.com/item?id=36175315)

@@ -2,8 +2,8 @@
 
 ## Brief Statement
 
-1. Official Website：[Machine Translation _ Intelligent Translation _ Automatic Translation - Tencent Cloud](https://cloud.tencent.com/product/tmt)
-2. Official Tariff Description：[Machine Translation Billing Overview-Purchase Guide-Document Center-Tencent Cloud](https://cloud.tencent.com/document/product/551/35017)
+1. Official Website:[Machine Translation _ Intelligent Translation _ Automatic Translation - Tencent Cloud](https://cloud.tencent.com/product/tmt)
+2. Official Tariff Description:[Machine Translation Billing Overview-Purchase Guide-Document Center-Tencent Cloud](https://cloud.tencent.com/document/product/551/35017)
 3. The paid version is free for the first 5 million characters per month, beyond that, you will be charged at $58 per million characters, so please pay attention to the usage limit to avoid accidental chargebacks.
 
 ## Application Steps

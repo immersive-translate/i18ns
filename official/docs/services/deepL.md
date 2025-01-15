@@ -1,6 +1,6 @@
 # DeepL
 
-## 通过开通[沉浸式翻译Pro会员](https://immersivetranslate.com/pricing/) 后直接使用DeepL翻译服务（推荐）
+## 通过开通[沉浸式翻译 Pro 会员](https://immersivetranslate.com/pricing/) 后直接使用 DeepL 翻译服务（推荐）
 
 [点此查看介绍](https://immersivetranslate.com/pricing/)
 
@@ -17,8 +17,8 @@
 3. Deepl API 分为 [Free API 和 Pro API](https://www.deepl.com/zh/pro#developer)
 
    - 其中 Free API 每月提供 50 万免费字符额度。
-   - Pro API 的[官方费用](https://www.deepl.com/zh/pro#developer)是：每 100 万字符 25 美元 。
-   - 对于高频使用的用户，一个月消耗的字符量大约是 1000 万字符， 价格大约为：250 美元
+   - Pro API 的[官方费用](https://www.deepl.com/zh/pro#developer)是：每 100 万字符 25 美元。
+   - 对于高频使用的用户，一个月消耗的字符量大约是 1000 万字符，价格大约为：250 美元
 
 4. 注册账号和开通 [DeepL API](https://www.deepl.com/zh/pro#developer)，需要提供一张 DeepL [支持的国家或地区](https://support.deepl.com/hc/zh-cn/articles/360020016339-DeepL-Pro%E5%9C%A8%E6%88%91%E6%89%80%E5%9C%A8%E5%9B%BD%E5%AE%B6%E6%97%A0%E6%B3%95%E8%AE%A2%E9%98%85)发行的 VISA 或 MASTER 信用卡，可惜的是，目前国内发行的任何信用卡（包括双币卡和外币卡）均不被支持。
 
@@ -40,7 +40,7 @@
 
 ### 1. 填入的密钥不可用。
 
-DeepL API Pro 和 DeepL Pro 是两种账户，可以在沉浸式翻译里使用的 Auth Key 是 DeepL API 账户， 请点击这里查看[DeepL API Pro](https://www.deepl.com/zh/pro/select-country#developer)
+DeepL API Pro 和 DeepL Pro 是两种账户，可以在沉浸式翻译里使用的 Auth Key 是 DeepL API 账户，请点击这里查看[DeepL API Pro](https://www.deepl.com/zh/pro/select-country#developer)
 
 ### 2. Deepl Free API 提示 401,403 无权限
 

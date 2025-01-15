@@ -25,7 +25,7 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 ## Comandos
 
-Comandos Comunes de Idioma：
+Comandos Comunes de Idioma:
 
 | multilingüismo       | comando |
 | -------------------- | ------- |
@@ -42,7 +42,7 @@ Para otros códigos de idioma vea [aquí](#código-de-idioma)
 
 ## Compatibilidad
 
-- Navegadores conocidos por ser explícitamente no compatibles：
+- Navegadores conocidos por ser explícitamente no compatibles:
 
   - Navegador Kiwi de Android (la optimización está en curso ya que no es posible escuchar eventos de entrada móvil en este navegador)
 
@@ -52,7 +52,7 @@ Para otros códigos de idioma vea [aquí](#código-de-idioma)
 
   - Actualmente, Android solo es compatible con la prueba de Firefox
 
-- Páginas conocidas por ser explícitamente no compatibles：
+- Páginas conocidas por ser explícitamente no compatibles:
 
   - Página predeterminada del navegador
   - Búsqueda de Baidu
@@ -64,7 +64,7 @@ Para otros códigos de idioma vea [aquí](#código-de-idioma)
   - Cuadros de entrada para complementos de terceros
   - Cuadro de Entrada de la Tienda Web de Chrome
 
-- El resto son teóricamente compatibles, por ejemplo：
+- El resto son teóricamente compatibles, por ejemplo:
   - Búsqueda de Google
   - Twitter
   - Discord

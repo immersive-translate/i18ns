@@ -6,9 +6,9 @@
 
 ## DeepL के माध्यम से आधिकारिक DeepL API प्राप्त करें
 
-1. आधिकारिक परिचय：[DeepL API](https://www.deepl.com/en/pro#developer)
+1. आधिकारिक परिचय:[DeepL API](https://www.deepl.com/en/pro#developer)
 
-   - ध्यान दें कि： [DeepL API](https://www.deepl.com/en/pro#developer) और [DeepL Pro](https://www.deepl.com/pro) दो अलग-अलग खाता प्रकार हैं, और [DeepL API](https://www.deepl.com/en/pro/select-country#developer) खाता।
+   - ध्यान दें कि: [DeepL API](https://www.deepl.com/en/pro#developer) और [DeepL Pro](https://www.deepl.com/pro) दो अलग-अलग खाता प्रकार हैं, और [DeepL API](https://www.deepl.com/en/pro/select-country#developer) खाता।
 
 2. [क्यों](https://www.deepl.com/en/whydeepl) DeepL चुनें?
 
@@ -19,8 +19,8 @@
 3. Deepl API को [निःशुल्क API और प्रो API](https://www.deepl.com/en/pro#developer) में विभाजित किया गया है
 
    - निःशुल्क API प्रति माह 500,000 मुफ्त वर्ण प्रदान करता है।
-   - प्रो API के लिए [आधिकारिक शुल्क](https://www.deepl.com/en/pro#developer) है：1 मिलियन वर्णों के लिए $25।
-   - एक उच्च-आवृत्ति उपयोगकर्ता के लिए, एक महीने में उपभोग किए गए वर्णों की मात्रा लगभग 10 मिलियन वर्ण है, और मूल्य लगभग है：250 USD
+   - प्रो API के लिए [आधिकारिक शुल्क](https://www.deepl.com/en/pro#developer) है: 1 मिलियन वर्णों के लिए $25।
+   - एक उच्च-आवृत्ति उपयोगकर्ता के लिए, एक महीने में उपभोग किए गए वर्णों की मात्रा लगभग 10 मिलियन वर्ण है, और मूल्य लगभग है: 250 USD
 
 4. एक खाता पंजीकृत करने और [DeepL API](https://www.deepl.com/en/pro#developer) खोलने के लिए।
 

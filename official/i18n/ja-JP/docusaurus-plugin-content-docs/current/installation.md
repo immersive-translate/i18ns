@@ -51,7 +51,7 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-ma
 
 また、他のアンドロイドブラウザで沈没翻訳を試すこともできます。例えば
 
-- [Firefox ブラウザ Beta版 または Nightly版](https://www.mozilla.org/zh-CN/firefox/channel/android/)
+- [Firefox ブラウザ Beta 版 または Nightly 版](https://www.mozilla.org/zh-CN/firefox/channel/android/)
 - [レムールブラウザ](https://lemurbrowser.com/app/zh/)
 - [キーウィブラウザ](https://kiwibrowser.com/)
 
@@ -61,7 +61,7 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-ma
 
 もし公式のイマーシブ翻訳エクステンションを上記の方法でインストールできない場合は、以下の方法でタンパク質スクリプトをインストールできます：
 
-タンパク質スクリプトのアドレス： https://download.immersivetranslate.com/immersive-translate.user.js
+タンパク質スクリプトのアドレス：https://download.immersivetranslate.com/immersive-translate.user.js
 
 タンパク質エクステンションがインストールされているブラウザで[このアドレス](https://download.immersivetranslate.com/immersive-translate.user.js)を開くとインストールできます。以下はタンパク質スクリプトをサポートするいくつかのブラウザです：
 
@@ -92,8 +92,8 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-ma
 2. 圧縮ファイルをよく使用するフォルダーに解凍します。例：`Documents/chrome-immersive-translate`
 3. インストール
 
-- Chrome系ブラウザのインストール：(1) アドレスバーに`chrome://extensions`と入力し、拡張機能管理ウィンドウを開きます；(2) 「開発者モード」をオンにし、「解凍した拡張機能を読み込む」を選択し、解凍したばかりのフォルダを読み込みます。
-- Firefoxブラウザのインストール：(1) アドレスバーに`about:debugging#/runtime/this-firefox`と入力し、拡張機能管理ウィンドウを開きます；(2) 「一時的なアドオンを読み込む」を選択し、`firefox/manifest.json`を選択します。
+- Chrome 系ブラウザのインストール：(1) アドレスバーに`chrome://extensions`と入力し、拡張機能管理ウィンドウを開きます；(2) 「開発者モード」をオンにし、「解凍した拡張機能を読み込む」を選択し、解凍したばかりのフォルダを読み込みます。
+- Firefox ブラウザのインストール：(1) アドレスバーに`about:debugging#/runtime/this-firefox`と入力し、拡張機能管理ウィンドウを開きます；(2) 「一時的なアドオンを読み込む」を選択し、`firefox/manifest.json`を選択します。
 
 ### 手動でインストールした拡張機能を更新する方法は？
 

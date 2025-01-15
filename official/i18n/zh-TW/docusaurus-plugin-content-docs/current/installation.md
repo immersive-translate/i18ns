@@ -73,7 +73,7 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-ma
 
 如果你無法透過以上的方式安裝沉浸式翻譯的官方擴充套件，你可以透過以下方式安裝油猴腳本：
 
-油猴腳本地址： https://download.immersivetranslate.com/immersive-translate.user.js
+油猴腳本地址：https://download.immersivetranslate.com/immersive-translate.user.js
 
 在已安裝油猴擴充套件的瀏覽器中開啟[該地址](https://download.immersivetranslate.com/immersive-translate.user.js) 即可安裝。以下介紹幾個支援油猴腳本的瀏覽器：
 

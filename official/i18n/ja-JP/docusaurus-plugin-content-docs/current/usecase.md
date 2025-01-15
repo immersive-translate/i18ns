@@ -28,7 +28,7 @@ sidebar_position: 3
 
 ![twitter1.jpg](https://s2.loli.net/2023/02/07/sA23c6FerQNnTtY.jpg)
 
-## PDFファイルの翻訳
+## PDF ファイルの翻訳
 
 ![pdf](https://s.immersivetranslate.com/static/official-static/assets/pdf.png)
 

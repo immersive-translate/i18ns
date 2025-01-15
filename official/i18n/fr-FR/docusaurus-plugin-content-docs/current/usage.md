@@ -76,17 +76,17 @@ Par exemple, dans [Paramètres de l'interface], nous pouvons modifier **Style de
 
 ## Traduction au survol de la souris
 
-Immersion prend en charge la traduction automatique d'un paragraphe en le survolant, mais elle n'est pas activée par défaut. Vous devez l'activer dans le panneau：
+Immersion prend en charge la traduction automatique d'un paragraphe en le survolant, mais elle n'est pas activée par défaut. Vous devez l'activer dans le panneau:
 
 ![](https://s.immersivetranslate.com/static/official-static/assets/site/mouse_en.jpg)
 
-Une fois activé, vous pouvez appuyer sur la touche `Shift` tout en survolant un paragraphe pour voir la traduction bilingue：
+Une fois activé, vous pouvez appuyer sur la touche `Shift` tout en survolant un paragraphe pour voir la traduction bilingue:
 
 ![survol de la souris](https://s.immersivetranslate.com/static/official-static/assets/mouse-hover.gif)
 
 ## Amélioration de la boîte de saisie
 
-Vous pouvez traduire le texte que vous souhaitez dans n'importe quelle boîte de saisie de texte, regardez la démo vidéo à：
+Vous pouvez traduire le texte que vous souhaitez dans n'importe quelle boîte de saisie de texte, regardez la démo vidéo à:
 
 <video
 controls

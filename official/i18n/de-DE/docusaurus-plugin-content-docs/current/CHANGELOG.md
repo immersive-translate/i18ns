@@ -94,7 +94,7 @@ sidebar_position: 6
 - Unterstützung für die Konfiguration von Ausnahmen für Sprachen und Websites im zweisprachigen Kontrast- oder nur-Übersetzung-Modus (konfigurieren Sie dies in Einstellungen -> Erweiterte Einstellungen). Zum Beispiel: Wenn Ihr Standard-Übersetzungsmodus zweisprachiger Kontrast ist, Sie aber nicht möchten, dass traditionelles Chinesisch auch zweisprachigen Kontrast verwendet, dann können Sie traditionelles Chinesisch zu den Ausnahmesprachen für zweisprachigen Kontrast hinzufügen, sodass traditionelles Chinesisch den nur-Übersetzung-Modus für die Übersetzung verwendet. Ebenso können Sie, wenn Ihr Standard-Übersetzungsmodus nur-Übersetzung ist, aber Sie möchten, dass eine bestimmte Sprache oder Website den zweisprachigen Kontrast-Modus verwendet, diese Sprache oder Website zu den Ausnahmesprachen hinzufügen.
 - Behebung eines Problems, bei dem das Eingabefeld in der Tiktok-Privatnachrichten-Schnittstelle falsch übersetzt wurde
 - Behebung eines Problems, bei dem Comics auf Read Comic Online nicht übersetzt werden konnten
-- Behebung eines Problems, bei dem die 【Erweiterte Einstellungen -> Mindestanzahl von Zeichen für die Übersetzung eines Absatzes】 in einigen Fällen nicht wirksam wurde
+- Behebung eines Problems, bei dem die [Erweiterte Einstellungen -> Mindestanzahl von Zeichen für die Übersetzung eines Absatzes] in einigen Fällen nicht wirksam wurde
 
 ## 1.8.4 (2024-08-30)
 

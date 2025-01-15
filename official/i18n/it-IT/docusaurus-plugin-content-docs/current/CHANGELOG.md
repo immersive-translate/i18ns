@@ -94,7 +94,7 @@ sidebar_position: 6
 - Supporto per la configurazione delle eccezioni per lingue e siti web in modalità contrasto bilingue o solo traduzione (configurare nella pagina Impostazioni -> Impostazioni Avanzate). Per esempio: Se la tua modalità di traduzione predefinita è il contrasto bilingue, ma non desideri che il cinese tradizionale utilizzi anche il contrasto bilingue, puoi aggiungere il cinese tradizionale alle lingue di eccezione per il contrasto bilingue, così il cinese tradizionale utilizzerà la modalità solo traduzione per la traduzione. Allo stesso modo, se la tua modalità di traduzione predefinita è solo traduzione, ma desideri che una certa lingua o sito web utilizzi la modalità contrasto bilingue, puoi anche aggiungere quella lingua o sito web alle lingue di eccezione.
 - Risolto un problema in cui la casella di input nell'interfaccia dei messaggi privati di Tiktok veniva tradotta in modo errato
 - Risolto un problema in cui i fumetti su Read Comic Online non potevano essere tradotti
-- Risolto un problema in cui le 【Impostazioni Avanzate -> Numero minimo di caratteri richiesti per tradurre un paragrafo】 non avevano effetto in alcuni casi
+- Risolto un problema in cui le [Impostazioni Avanzate -> Numero minimo di caratteri richiesti per tradurre un paragrafo] non avevano effetto in alcuni casi
 
 ## 1.8.4 (2024-08-30)
 

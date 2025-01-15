@@ -25,10 +25,10 @@
 
 ## 文字数についての簡単な説明
 
-文字数は、翻訳の元の言語の文字の長さを基準に計算されます。スペース、句読点なども文字数に含まれます。ほとんどのサービスでは、漢字、英字、句読点、改行記号などがすべて1文字としてカウントされます。例えば、マスクのこのツイートは32語、196文字あります。
+文字数は、翻訳の元の言語の文字の長さを基準に計算されます。スペース、句読点なども文字数に含まれます。ほとんどのサービスでは、漢字、英字、句読点、改行記号などがすべて 1 文字としてカウントされます。例えば、マスクのこのツイートは 32 語、196 文字あります。
 
 > To be clear, I’m not someone who thinks lots of government agencies should be abolished (maybe a few), but we should always question our institutions, as this strengthens the bedrock of democracy.
 
-このように、読み終わるのが難しそうな長文：[Algorithms Unlocked: How They’re Shaping Our Everyday Lives | by Two Techie Vibes | Jan, 2023 | Medium](https://twotechievibes.medium.com/algorithms-unlocked-how-theyre-shaping-our-everyday-lives-6261fa1dbad)は、約1万文字あります。
+このように、読み終わるのが難しそうな長文：[Algorithms Unlocked: How They’re Shaping Our Everyday Lives | by Two Techie Vibes | Jan, 2023 | Medium](https://twotechievibes.medium.com/algorithms-unlocked-how-theyre-shaping-our-everyday-lives-6261fa1dbad)は、約 1 万文字あります。
 
-これら2つの例が、文字数についての感覚的な理解を深めるのに役立つことを願っています。
+これら 2 つの例が、文字数についての感覚的な理解を深めるのに役立つことを願っています。

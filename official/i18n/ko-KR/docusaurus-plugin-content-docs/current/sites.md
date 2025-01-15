@@ -20,8 +20,8 @@
 - [Newstatesman - 뉴스테이츠맨](https://www.newstatesman.com/) - 영국의 선도적인 진보적 정치 및 문화 잡지
 - [The Intercept](https://theintercept.com/) - 인터셉트, eBay 창립자가 만든 온라인 미디어.
 - [Mcsweeneys](https://www.mcsweeneys.net/) - 유머와 풍자의 온라인 잡지
-- [Semafor](https://www.semafor.com/) - 뉴스 기사는 수세기 동안 인쇄된 신문을 위해 설계된 오래된 형식이며, 그 나이가 드러나고 있다. 너무 많은 뉴스 - 심지어 오늘날 가장 좋은 뉴스조차도 - 사실과 분석을 밀접하게 엮어서 독자가 둘 사이의 차이를 구분하기 어렵게 만든다. 기사는 항상 반대되는 관점을 정직하게 제공하지 않는다. 게다가, 그들은 종종 단일 관점에서만 이야기한다. 이 모든 것이 시간이 제한된 독자가 - 심지어 이해하기조차 - 큰 그림을 믿기 어렵게 만든다. 따라서, 우리는 이야기 형식을 우리가 Semaform이라고 부르는 것으로 재구성했다. 이 형식은 논란의 여지가 없는 사실과 기자가 이러한 사실에 대해 분석을 분리하고, 다양하고 더 포괄적인 관점을 제공하며, 해당 주제에 대한 다른 미디어의 유력한 보도를 공유한다.
-- [Noema 잡지 - 사유](https://www.noemamag.com/) - 철학, 거버넌스, 지정학, 경제, 기술 및 문화 교차 분야에 관한 기사, 인터뷰, 보도, 비디오 및 예술 작품을 게시한다. 이를 통해, 우리의 독특한 접근 방식은 보통의 영역을 벗어나 학제 간, 사회적 격리 및 문화적 경계를 넘어서는 것이다. 인공 지능과 기후 위기부터 민주주의와 자본주의의 미래에 이르기까지, Noema 잡지는 21세기 가장 시급한 도전에 대한 더 깊은 이해를 추구한다.
+- [Semafor](https://www.semafor.com/) - 뉴스 기사는 수세기 동안 인쇄된 신문을 위해 설계된 오래된 형식이며, 그 나이가 드러나고 있다. 너무 많은 뉴스 - 심지어 오늘날 가장 좋은 뉴스조차도 - 사실과 분석을 밀접하게 엮어서 독자가 둘 사이의 차이를 구분하기 어렵게 만든다. 기사는 항상 반대되는 관점을 정직하게 제공하지 않는다. 게다가, 그들은 종종 단일 관점에서만 이야기한다. 이 모든 것이 시간이 제한된 독자가 - 심지어 이해하기조차 - 큰 그림을 믿기 어렵게 만든다. 따라서, 우리는 이야기 형식을 우리가 Semaform 이라고 부르는 것으로 재구성했다. 이 형식은 논란의 여지가 없는 사실과 기자가 이러한 사실에 대해 분석을 분리하고, 다양하고 더 포괄적인 관점을 제공하며, 해당 주제에 대한 다른 미디어의 유력한 보도를 공유한다.
+- [Noema 잡지 - 사유](https://www.noemamag.com/) - 철학, 거버넌스, 지정학, 경제, 기술 및 문화 교차 분야에 관한 기사, 인터뷰, 보도, 비디오 및 예술 작품을 게시한다. 이를 통해, 우리의 독특한 접근 방식은 보통의 영역을 벗어나 학제 간, 사회적 격리 및 문화적 경계를 넘어서는 것이다. 인공 지능과 기후 위기부터 민주주의와 자본주의의 미래에 이르기까지, Noema 잡지는 21 세기 가장 시급한 도전에 대한 더 깊은 이해를 추구한다.
 
 ## 심층 보도
 
@@ -43,7 +43,7 @@
 
 ## 비디오
 
-- [Vox](https://www.youtube.com/c/Vox/featured) - YouTube에서 다양한 주제를 설명하는 콘텐츠를 공유하는 크리에이터입니다. 예를 들어 탈레반, 코로나바이러스 등에 대해 다루며, 비디오 품질이 매우 높습니다.
+- [Vox](https://www.youtube.com/c/Vox/featured) - YouTube 에서 다양한 주제를 설명하는 콘텐츠를 공유하는 크리에이터입니다. 예를 들어 탈레반, 코로나바이러스 등에 대해 다루며, 비디오 품질이 매우 높습니다.
 - [비디오 강의 - Reddit 그룹](https://www.reddit.com/r/lectures/)
 - [보면서 배우기 - Reddit 그룹](https://www.reddit.com/r/WatchandLearn/)
 - [식사 시간 비디오 - Reddit 그룹](https://www.reddit.com/r/mealtimevideos/)
@@ -52,15 +52,15 @@
 
 - [Cal Newport](https://www.newyorker.com/contributors/cal-newport) - 심층 작업의 저자
 - [뉴요커 전문 칼럼니스트 작품 목록](https://www.newyorker.com/news/our-columnists)
-- [Tynan의 블로그](https://tynan.com/) - 부, 투자에 관한 내용
+- [Tynan 의 블로그](https://tynan.com/) - 부, 투자에 관한 내용
 - [Noah](https://noahpinion.substack.com/)
-- [Tyler Cowen의 칼럼](https://www.bloomberg.com/opinion/authors/AS6n2t3d_iA/tyler-cowen) -
+- [Tyler Cowen 의 칼럼](https://www.bloomberg.com/opinion/authors/AS6n2t3d_iA/tyler-cowen) -
   경제 관련
 - [Adam Grant](https://adamgrant.bulletin.com/)
 - [Austin Kleon](https://austinkleon.substack.com/) - 예술가처럼 훔쳐라의 저자
 - [Paul Graham](http://paulgraham.com/articles.html) - YC 창립자
 - [Gwern](https://www.gwern.net/index) - 미국 작가 및 연구원
-- [Wait but Why](https://waitbutwhy.com/homepage) - Tim Urban이 주도하는 블로그, Wait But Why는 과학과 기술부터 철학과 사회에 이르기까지 다양한 주제를 다루는 블로그입니다. 이 블로그는 팀 어번과 앤드류 핀이 2013년에 창립했으며, 이후 195개국에서 2,400만 명 이상의 독자를 보유하며 많은 팔로워를 얻었습니다. 이 블로그는 깊이 있고 잘 연구된 글로 유명하며, 이 글들은 종종 손으로 그린 일러스트를 포함합니다. 이 블로그의 주요 목표는 매주 화요일에 새로운 글을 게시하는 것이지만, 가끔은 소규모 글도 게시합니다. 이 블로그의 목표는 세계를 탐험하고 지식을 재미있고 매력적인 방식으로 공유하는 것입니다.
+- [Wait but Why](https://waitbutwhy.com/homepage) - Tim Urban 이 주도하는 블로그, Wait But Why 는 과학과 기술부터 철학과 사회에 이르기까지 다양한 주제를 다루는 블로그입니다. 이 블로그는 팀 어번과 앤드류 핀이 2013 년에 창립했으며, 이후 195 개국에서 2,400 만 명 이상의 독자를 보유하며 많은 팔로워를 얻었습니다. 이 블로그는 깊이 있고 잘 연구된 글로 유명하며, 이 글들은 종종 손으로 그린 일러스트를 포함합니다. 이 블로그의 주요 목표는 매주 화요일에 새로운 글을 게시하는 것이지만, 가끔은 소규모 글도 게시합니다. 이 블로그의 목표는 세계를 탐험하고 지식을 재미있고 매력적인 방식으로 공유하는 것입니다.
 
 ## 제품 관련
 
@@ -70,7 +70,7 @@
 - [Product Hunt](https://www.producthunt.com/) - Product Hunt, 제품 사냥꾼
 - [Hacker News Show](https://news.ycombinator.com/show) - Hacker News 제품 자랑
 - [Website Hunt](https://www.websitehunt.co/) - 멋진 웹사이트 발견
-- [Track Awesome-Selfhosted](https://www.trackawesomelist.com) - Github에서 최신 Awesome 프로젝트 추적
+- [Track Awesome-Selfhosted](https://www.trackawesomelist.com) - Github 에서 최신 Awesome 프로젝트 추적
 
 ## 의견
 
@@ -90,7 +90,7 @@
 - [Hacker News 편집자 추천](https://news.ycombinator.com/invited)
 - [Wired - 와이어드 매거진](https://www.wired.com/) - 기술 관련 보도
 - [Ars Technica](https://arstechnica.com/) - 최고 품질의 기술 보도 웹사이트
-- [500개 이상의 프로그래머 블로그를 집계한 타임라인](https://engineeringblogs.xyz/)
+- [500 개 이상의 프로그래머 블로그를 집계한 타임라인](https://engineeringblogs.xyz/)
 - [Tildes](https://tildes.net/) - 오픈 소스 집계기
   - [설명](https://blog.tildes.net/announcing-tildes)
 - [brutalist](https://brutalist.report/) - 가장 권위 있는 보도 집계
@@ -122,7 +122,7 @@
 
 - [Current Affairs 시사](https://www.currentaffairs.org/)
 - [Inbox world](https://inboxworld.io/) - 수신함 세계, 투표로 정렬된 고품질 이메일 목록.
-- [The Browser](https://thebrowser.com/) - 매일 읽을 가치가 있는 5개의 기사를 추천
+- [The Browser](https://thebrowser.com/) - 매일 읽을 가치가 있는 5 개의 기사를 추천
   - [아카이브](https://thebrowser.com/archive/)
 - [Inbox World](https://inboxworld.io/) - 구독 추천
 - [laskie](https://laskie.substack.com/) - 우리는 귀하의 회사 시간을 절약하고 더 많은 돈을 벌 수 있도록 제품과 서비스를 만듭니다. 창업 관련, 기업 관리 관련
@@ -141,15 +141,15 @@
 
 ## 중국 팀이 운영하는 영어 미디어
 
-- [Radii](https://radii.co/about) - 영어로 중국 젊은이들에 대해 보도합니다(세계에 중국 젊은이들의 이야기를 잘 전달하기)
-- [Sixthtone](https://www.sixthtone.com/) - 제6음, 당사자의 관점에서 중국 관련 뉴스를 보도합니다
+- [Radii](https://radii.co/about) - 영어로 중국 젊은이들에 대해 보도합니다 (세계에 중국 젊은이들의 이야기를 잘 전달하기)
+- [Sixthtone](https://www.sixthtone.com/) - 제 6 음, 당사자의 관점에서 중국 관련 뉴스를 보도합니다
 
 ## 한국어
 
 - [The Initium News](https://theinitium.com/) - 단전미디어, 중국어 독립 미디어
 - [thenewslens](https://www.thenewslens.com/) - 핵심 리뷰, 대만 독립 미디어
 - [중국 - 역사와 미래](https://www.chinese-future.org/) - 유럽에 기반을 둔 블로그 플랫폼, 일부 칼럼 작품 게재
-- [왜뇌](https://www.wainao.me/) - 중국어를 사용하는 젊은 세대를 위해 맞춤 제작된 뉴스 잡지. 독립적 사고를 장려하며, 관객과 독자에게 세계를 바라보는 또 다른 시각을 제공하기 위해 노력함. 미국 수도 워싱턴 D.C.에 본부를 두고 있으며, 미국 글로벌 미디어 기구(USAGM)의 공공 자금 지원으로 설립되었으며, 모든 콘텐츠는 독립적으로 운영됨.
+- [왜뇌](https://www.wainao.me/) - 중국어를 사용하는 젊은 세대를 위해 맞춤 제작된 뉴스 잡지. 독립적 사고를 장려하며, 관객과 독자에게 세계를 바라보는 또 다른 시각을 제공하기 위해 노력함. 미국 수도 워싱턴 D.C.에 본부를 두고 있으며, 미국 글로벌 미디어 기구 (USAGM) 의 공공 자금 지원으로 설립되었으며, 모든 콘텐츠는 독립적으로 운영됨.
 - [Matters](https://matters.news/) - UGG 커뮤니티, 콘텐츠는 블록체인에 호스팅되며, 단전미디어 전 총편집장 장제핑이 창립함.
 
 ## 한국어 뉴스레터

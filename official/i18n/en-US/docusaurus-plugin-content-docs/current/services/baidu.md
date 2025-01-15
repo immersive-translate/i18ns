@@ -2,9 +2,9 @@
 
 ## Brief Statement
 
-1. Official website：[Baidu Translation Open Platform](https://fanyi-api.baidu.com/)
-2. Official tariff description：[Baidu Translation Universal Translation API Pricing Document](https://fanyi-api.baidu.com/product/112)
-3. Standard, Premium, and Privileged Edition Benefits Description：[General Translation API Version Benefits Adjustment Notice](https://fanyi-api.baidu.com/doc/8)
+1. Official website:[Baidu Translation Open Platform](https://fanyi-api.baidu.com/)
+2. Official tariff description:[Baidu Translation Universal Translation API Pricing Document](https://fanyi-api.baidu.com/product/112)
+3. Standard, Premium, and Privileged Edition Benefits Description:[General Translation API Version Benefits Adjustment Notice](https://fanyi-api.baidu.com/doc/8)
 4. It is recommended to complete the personal certification and switch to the Premium version, which has 1 million characters per month for free.
 
 ## Application Steps

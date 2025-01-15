@@ -2,7 +2,7 @@
 
 ## Brief Statement
 
-1. Official website：[You Dao](http://ai.youdao.com/)
+1. Official website:[You Dao](http://ai.youdao.com/)
 
 ## Application Steps
 

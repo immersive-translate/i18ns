@@ -8,8 +8,8 @@ sidebar_position: 1
 
 ## डेस्कटॉप ब्राउज़र
 
-- माइक्रोसॉफ्ट एज ब्राउज़र： [एज स्टोर इमर्सिव ट्रांसलेट](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)
-- गूगल क्रोम：[क्रोम स्टोर इमर्सिव ट्रांसलेट](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
+- माइक्रोसॉफ्ट एज ब्राउज़र: [एज स्टोर इमर्सिव ट्रांसलेट](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)
+- गूगल क्रोम:[क्रोम स्टोर इमर्सिव ट्रांसलेट](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
 - फायरफॉक्स：[फायरफॉक्स ऐडऑन स्टोर इमर्सिव ट्रांसलेट](https://addons.mozilla.org/firefox/addon/immersive-translate/)
 
 > यदि आप आधिकारिक गूगल स्टोर तक पहुँच नहीं सकते हैं, तो आप सीधे [नवीनतम इमर्सिव ट्रांसलेट क्रोम ज़िप इंस्टॉलर](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip) डाउनलोड कर सकते हैं, डाउनलोड करने के बाद, कृपया पहले इसे एक फोल्डर में अनज़िप करें जिसे आप आमतौर पर उपयोग करते हैं, फिर टाइप करें: `chrome://extensions` एड्रेस बार में एक्सटेंशन प्रबंधन विंडो खोलने के लिए, फिर "डेवलपर मोड" सक्षम करें, "अनज़िप्ड एक्सटेंशन्स लोड करें" चुनें, और उस फोल्डर को चुनें जिसे आपने अभी अनज़िप किया है और लोड किया है। उस फोल्डर का चयन करें जिसे आपने अभी निकाला है और इसे लोड करें।
@@ -22,7 +22,7 @@ sidebar_position: 1
 <img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="ऐप स्टोर क्यूआर कोड"/>
 </div>
 
-> निर्देश：पहली बार स्थापना के बाद, आपको सफारी में इमर्सिव ट्रांसलेट एक्सटेंशन\*\* को सक्षम करना होगा -> एक्सटेंशन प्रबंधित करें -> **इमर्सिव ट्रांसलेट एक्सटेंशन सक्षम करें** और इसे **सभी वेबसाइटों के लिए हमेशा एक्सेस की अनुमति दें**, यदि आपके कोई प्रश्न हैं, तो आप निम्नलिखित वीडियो ट्यूटोरियल देख सकते हैं:
+> निर्देश: पहली बार स्थापना के बाद, आपको सफारी में इमर्सिव ट्रांसलेट एक्सटेंशन\*\* को सक्षम करना होगा -> एक्सटेंशन प्रबंधित करें -> **इमर्सिव ट्रांसलेट एक्सटेंशन सक्षम करें** और इसे **सभी वेबसाइटों के लिए हमेशा एक्सेस की अनुमति दें**, यदि आपके कोई प्रश्न हैं, तो आप निम्नलिखित वीडियो ट्यूटोरियल देख सकते हैं:
 
 ### iOS सफारी
 

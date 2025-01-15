@@ -16,18 +16,18 @@ sidebar_position: 10
 - 以下はオプションです：
 - [沈浸式翻訳公式メール](https://immersivetranslate.substack.com/)を購読する。
 - [Telegram チャンネルに参加する](https://t.me/immersivetranslate)。
-- [沈浸式翻訳公式Twitterアカウントをフォローする](https://twitter.com/immersivetran)。
+- [沈浸式翻訳公式 Twitter アカウントをフォローする](https://twitter.com/immersivetran)。
 - [ドキュメントに貢献する](https://immersivetranslate.com/)、右上の編集ボタンをクリックするだけです。
 - この拡張機能のインターフェース言語を[翻訳する](https://crowdin.com/project/immersive-translate)。
 - [Telegram グループ](https://t.me/+rq848Z09nehlOTgx)でユーザーの質問に答える。
 - [Github Issue](https://github.com/immersive-translate/immersive-translate/issues)でユーザーの質問に答える。
-- 下記のQRコードをスキャンし、公式WeChatグループに参加してユーザーの質問に答える：
+- 下記の QR コードをスキャンし、公式 WeChat グループに参加してユーザーの質問に答える：
 
 <div align="center">
 <img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-contact3.jpg" width="200" alt="qq"/>
 </div>
 
-- 下記のQRコードをスキャンし、公式WeChatアカウントをフォローする：
+- 下記の QR コードをスキャンし、公式 WeChat アカウントをフォローする：
 
 <div align="center">
 <img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
@@ -35,9 +35,9 @@ sidebar_position: 10
 
 ## より長い説明
 
-皆さん、こんにちは。私はOwenです。私自身、過去に数え切れないほどのボランティアが開発した無料ツールの恩恵を受け、一生役立つ知識をたくさん得ることができました。これにより、情報を**平等に**アクセスすることは、私たち一人一人が持つべき最も基本的な権利だという信念がさらに強まりました。そのため、人々がより効果的に情報を得るため（そしていつかはこれらの補助ツールなしで済むことを期待しつつ）、多くの無料のバイリンガルツールを作成しました。
+皆さん、こんにちは。私は Owen です。私自身、過去に数え切れないほどのボランティアが開発した無料ツールの恩恵を受け、一生役立つ知識をたくさん得ることができました。これにより、情報を**平等に**アクセスすることは、私たち一人一人が持つべき最も基本的な権利だという信念がさらに強まりました。そのため、人々がより効果的に情報を得るため（そしていつかはこれらの補助ツールなしで済むことを期待しつつ）、多くの無料のバイリンガルツールを作成しました。
 
-現在までに、沈没式翻訳は40万人以上の人々が外国語の情報を読む習慣を身につけるのを助けてきました。
+現在までに、沈没式翻訳は 40 万人以上の人々が外国語の情報を読む習慣を身につけるのを助けてきました。
 
 沈没式翻訳が登場する前は：
 
@@ -58,9 +58,9 @@ sidebar_position: 10
 
 [![スターヒストリーチャート](https://api.star-history.com/svg?repos=immersive-translate/immersive-translate&type=Date)](https://star-history.com/#immersive-translate/immersive-translate&Date)
 
-その後、PDFファイルのリアルタイム翻訳、Epub電子書籍のリアルタイム翻訳と制作、字幕ファイル、TXTファイルなど、さまざまな読書ニーズに対応するために、一歩一歩最適化を進めてきました。
+その後、PDF ファイルのリアルタイム翻訳、Epub 電子書籍のリアルタイム翻訳と制作、字幕ファイル、TXT ファイルなど、さまざまな読書ニーズに対応するために、一歩一歩最適化を進めてきました。
 
-過去わずか5ヶ月の間に、沈没式翻訳は40万人のユーザーが外国語の情報を見る習慣を身につけるのを助けました。これは、情報の壁を打ち破るための良いツールが果たす重要な役割を十分に証明しています。沈没式翻訳を支援してくれたすべての人に感謝します。私たちはこれからも、より多くの人々に沈没式の翻訳体験を提供し続け、技術がもたらす利益をより多くの人々が享受できるように努めていきます。
+過去わずか 5 ヶ月の間に、沈没式翻訳は 40 万人のユーザーが外国語の情報を見る習慣を身につけるのを助けました。これは、情報の壁を打ち破るための良いツールが果たす重要な役割を十分に証明しています。沈没式翻訳を支援してくれたすべての人に感謝します。私たちはこれからも、より多くの人々に沈没式の翻訳体験を提供し続け、技術がもたらす利益をより多くの人々が享受できるように努めていきます。
 
 ## リンク
 

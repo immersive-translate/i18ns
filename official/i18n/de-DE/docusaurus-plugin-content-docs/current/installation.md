@@ -8,8 +8,8 @@ sidebar_position: 1
 
 ## Desktop-Browser
 
-- Microsoft Edge Browser： [Edge Store Immersive Translate](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)
-- Google Chrome：[Chrome Store Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
+- Microsoft Edge Browser: [Edge Store Immersive Translate](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)
+- Google Chrome:[Chrome Store Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
 - Firefox：[Firefox Addon Store Immersive Translate](https://addons.mozilla.org/firefox/addon/immersive-translate/)
 
 > Wenn Sie nicht auf den offiziellen Google Store zugreifen können, können Sie direkt den [neuesten Immersive Translate Chrome Zip-Installer](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip) herunterladen. Nach dem Download entpacken Sie ihn bitte zuerst in einem Ordner, den Sie üblicherweise verwenden, dann geben Sie `chrome://extensions` in die Adressleiste ein, um das Erweiterungsverwaltungsfenster zu öffnen, aktivieren Sie dann den "Entwicklermodus", wählen Sie "Entpackte Erweiterungen laden" und wählen Sie den Ordner, den Sie gerade entpackt haben, und laden Sie ihn. Wählen Sie den Ordner, den Sie gerade extrahiert haben, und laden Sie ihn.

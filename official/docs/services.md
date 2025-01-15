@@ -50,7 +50,7 @@
 
 ## 关于字符数的简单说明
 
-字符数以翻译的源语言字符长度为标准计算。空格, 标点符号等均计入字符。对于大多数服务来说一个汉字，英文字母，标点符号，换行符等都算作一个字符。例如马斯克的这段推特有 32 个词，196 个字符。
+字符数以翻译的源语言字符长度为标准计算。空格，标点符号等均计入字符。对于大多数服务来说一个汉字，英文字母，标点符号，换行符等都算作一个字符。例如马斯克的这段推特有 32 个词，196 个字符。
 
 > To be clear, I’m not someone who thinks lots of government agencies should be abolished (maybe a few), but we should always question our institutions, as this strengthens the bedrock of democracy.
 

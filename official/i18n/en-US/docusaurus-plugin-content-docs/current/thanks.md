@@ -4,7 +4,7 @@ sidebar_position: 11
 
 # Sponsors
 
-Many thanks to each of the following sponsors for their support：
+Many thanks to each of the following sponsors for their support:
 
 <p>
 <object style={{width:"100%"}} type="image/svg+xml" data="https://s.immersivetranslate.com/static/official-static/assets/sponsorkit/sponsors.svg?v=c863abade62b2e79f5d5703535aeade9c682fa12"><a target="_blank" href="/docs/donate">

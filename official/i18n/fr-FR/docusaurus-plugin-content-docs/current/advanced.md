@@ -333,7 +333,7 @@ Nom correspondant en français :
 
 Les `rules` intégrées actuelles peuvent être trouvées [ici](https://github.com/immersive-translate/next-immersive-translate/blob/main/docs/buildin_config.json).
 
-Certains des champs importants sont sélectionnés ci-dessous pour illustration：
+Certains des champs importants sont sélectionnés ci-dessous pour illustration:
 
 ```typescript
 export interface Rule {

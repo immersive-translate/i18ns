@@ -25,7 +25,7 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 ## आदेश
 
-सामान्य भाषा आदेश：
+सामान्य भाषा आदेश:
 
 | बहुभाषीता      | आदेश |
 | -------------- | ---- |

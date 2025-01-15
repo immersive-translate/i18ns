@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # 고급 사용자 정의 옵션
 
-확장 구성 페이지 -> 개발자 설정 -> User Config에서 UI에서 편집할 수 없는 더 많은 사용자 정의 구성을 편집할 수 있습니다. 고급 사용자에게 적합하며, 매개변수 설명은 마지막 설명을 참조하십시오. 현재 내장된 `config`는 [여기](https://dash.immersivetranslate.com/#developer)에서 찾을 수 있으며, `Click to expand the final config`를 클릭하여 찾을 수 있습니다.
+확장 구성 페이지 -> 개발자 설정 -> User Config 에서 UI 에서 편집할 수 없는 더 많은 사용자 정의 구성을 편집할 수 있습니다. 고급 사용자에게 적합하며, 매개변수 설명은 마지막 설명을 참조하십시오. 현재 내장된 `config`는 [여기](https://dash.immersivetranslate.com/#developer)에서 찾을 수 있으며, `Click to expand the final config`를 클릭하여 찾을 수 있습니다.
 
 ## 사용자 규칙
 
@@ -30,9 +30,9 @@ sidebar_position: 4
 
 `excludeSelectors`를 사용하여 요소를 제외시켜 해당 위치를 번역하지 않습니다.
 
-`selectors.add`를 사용하면 기본값에 몇 가지 selectors를 추가합니다.
+`selectors.add`를 사용하면 기본값에 몇 가지 selectors 를 추가합니다.
 
-`selectors.remove`를 사용하면 기본값에서 몇 가지 selectors를 줄입니다.
+`selectors.remove`를 사용하면 기본값에서 몇 가지 selectors 를 줄입니다.
 
 ```json
 [
@@ -44,7 +44,7 @@ sidebar_position: 4
 ]
 ```
 
-특정 영역을 번역할 때 요소를 하나의 전체로 보고, 줄바꿈하지 않으려면 `atomicBlockSelectors` 선택자를 사용할 수 있습니다. 예를 들어, Instagram의 개인 프로필 같은 경우입니다. `atomicBlockSelectors`를 사용하기 전에 먼저 `selectors`로 선택해야 합니다.
+특정 영역을 번역할 때 요소를 하나의 전체로 보고, 줄바꿈하지 않으려면 `atomicBlockSelectors` 선택자를 사용할 수 있습니다. 예를 들어, Instagram 의 개인 프로필 같은 경우입니다. `atomicBlockSelectors`를 사용하기 전에 먼저 `selectors`로 선택해야 합니다.
 
 ```json
 {
@@ -54,7 +54,7 @@ sidebar_position: 4
 }
 ```
 
-번역으로 인해 페이지가 어긋나거나 텍스트가 겹치는 등의 문제가 발생하는 경우, `globalStyles`를 사용하여 웹페이지 스타일을 조정함으로써 수정할 수 있습니다. 예를 들어, YouTube의 제목에서 원래 웹페이지의 최대 높이를 제거하는 경우입니다.
+번역으로 인해 페이지가 어긋나거나 텍스트가 겹치는 등의 문제가 발생하는 경우, `globalStyles`를 사용하여 웹페이지 스타일을 조정함으로써 수정할 수 있습니다. 예를 들어, YouTube 의 제목에서 원래 웹페이지의 최대 높이를 제거하는 경우입니다.
 
 ```json
 {
@@ -65,7 +65,7 @@ sidebar_position: 4
 
 ## 주입된 CSS
 
-Injected CSS를 통해 전역에 사용자 정의 웹 페이지 스타일을 주입할 수 있습니다. `Rules`의 `translationClasses`와 함께 사용할 수 있습니다.
+Injected CSS 를 통해 전역에 사용자 정의 웹 페이지 스타일을 주입할 수 있습니다. `Rules`의 `translationClasses`와 함께 사용할 수 있습니다.
 
 ```css
 .immersive-translate-target-wrapper img {
@@ -84,7 +84,7 @@ Injected CSS를 통해 전역에 사용자 정의 웹 페이지 스타일을 주
 
 ## 사용자 설정
 
-Config를 통해 이 플러그인의 관련 설정을 사용자 정의할 수 있습니다. 예를 들어, 번역 서비스, 특정 언어 번역 옵션 등을 설정할 수 있습니다.
+Config 를 통해 이 플러그인의 관련 설정을 사용자 정의할 수 있습니다. 예를 들어, 번역 서비스, 특정 언어 번역 옵션 등을 설정할 수 있습니다.
 
 ```json
 {
@@ -169,13 +169,13 @@ Config를 통해 이 플러그인의 관련 설정을 사용자 정의할 수 �
 
 여기서, `rules`의 규칙 필드는 `generalRule`의 모든 필드를 사용할 수 있습니다. `rules`는 최우선 순위를 가지며, 특정 사이트의 특정 `rule`에 일치할 때, `generalRule`과 해당 `rule`의 규칙을 합칩니다.
 
-Config의 몇 가지 일반적인 필드를 소개합니다.
+Config 의 몇 가지 일반적인 필드를 소개합니다.
 
 ### 일반 HTML 태그 렌더링 허용
 
 [개발 설정](https://dash.immersivetranslate.com/#developer)으로 이동 -> 전체 사용자 설정 편집
 
-"enableRenderHtmlTag": true로 편집
+"enableRenderHtmlTag": true 로 편집
 
 ### 팝업 패널에 구성되지 않은 번역 서비스 표시 안 함
 
@@ -202,7 +202,7 @@ Config의 몇 가지 일반적인 필드를 소개합니다.
 
 `translationServices`를 사용하여 각 번역 서비스의 `apikey`를 설정하십시오. 서로 다른 서비스 제공업체는 다른 매개변수를 필요로 하며, 그들의 API 키는 각자의 공식 웹사이트 개발자 센터에서 신청할 수 있습니다.
 
-예를 들어, 텐센트 번역기의 경우, `secretId`, `secretKey`를 설정해야 합니다. 텐센트 클라우드에서 API 키를 신청할 수 있으며, 매월 500만 문자까지 무료입니다. 구체적인 신청 과정은 [여기](/docs/services/tencent)를 참조하십시오.
+예를 들어, 텐센트 번역기의 경우, `secretId`, `secretKey`를 설정해야 합니다. 텐센트 클라우드에서 API 키를 신청할 수 있으며, 매월 500 만 문자까지 무료입니다. 구체적인 신청 과정은 [여기](/docs/services/tencent)를 참조하십시오.
 
 ```json
 "translationServices": {
@@ -220,7 +220,7 @@ Config의 몇 가지 일반적인 필드를 소개합니다.
 
 `matches` 필드는 특정 웹사이트에서 해당 번역 서비스를 사용합니다.
 
-`limit` 필드는 해당 번역 서비스의 초당 최대 요청 수를 지정합니다(일부 서비스는 초당 최대 요청 수를 제한할 수 있음).
+`limit` 필드는 해당 번역 서비스의 초당 최대 요청 수를 지정합니다 (일부 서비스는 초당 최대 요청 수를 제한할 수 있음).
 
 `maxTextGroupLengthPerRequest` 필드는 각 요청의 최대 문단 수입니다.
 
@@ -299,11 +299,11 @@ translationLanguagePattern, 항상 번역할 언어와 절대 번역하지 않�
 }
 ```
 
-### GPT와 같은 페이지 스트림 메시지 번역
+### GPT 와 같은 페이지 스트림 메시지 번역
 
 ```json
 {
-  "matches": ["chat.openai.com"], // GPT와 같은 웹사이트
+  "matches": ["chat.openai.com"], // GPT 와 같은 웹사이트
   "excludeSelectors": [".markdown *"],
   "aiRule": {
     "streamingSelector": ".result-streaming.markdown",
@@ -344,25 +344,25 @@ translationLanguagePattern, 항상 번역할 언어와 절대 번역하지 않�
 ```typescript
 export interface Rule {
   // 매칭 웹사이트
-  id?: string; // 시스템의 각 적용 규칙은 고유한 id를 가지며, 사용자가 이 규칙을 재사용하고자 할 때는 해당 id를 자신의 규칙에 추가하여 재사용할 수 있습니다.
-  matches?: string | string[]; // 이 Rule은 여기에 명시된 웹사이트에만 적용됩니다.
+  id?: string; // 시스템의 각 적용 규칙은 고유한 id 를 가지며, 사용자가 이 규칙을 재사용하고자 할 때는 해당 id 를 자신의 규칙에 추가하여 재사용할 수 있습니다.
+  matches?: string | string[]; // 이 Rule 은 여기에 명시된 웹사이트에만 적용됩니다.
   excludeMatches?: string | string[]; // 특정 웹사이트를 제외합니다.
-  selectorMatches?: string | string[]; // 모든 URL을 명시할 필요 없이 선택자로 매칭합니다.
+  selectorMatches?: string | string[]; // 모든 URL 을 명시할 필요 없이 선택자로 매칭합니다.
   excludeSelectorMatches?: string | string[]; // 제외 규칙, 위와 동일합니다.
 
   // 번역 범위 지정
   selectors?: string | string[]; // 매칭된 요소만 번역합니다.
   excludeSelectors?: string | string[]; // 요소를 제외하고, 매칭된 요소는 번역하지 않습니다.
-  excludeTags?: string | string[]; // Tags를 제외하고, 매칭된 Tag는 번역하지 않습니다.
+  excludeTags?: string | string[]; // Tags 를 제외하고, 매칭된 Tag 는 번역하지 않습니다.
 
   // 번역 범위 추가, 덮어쓰지 않음
   additionalSelectors?: string | string[]; // 번역 범위를 추가합니다. 지능형 번역 영역에 번역 위치를 추가합니다.
   additionalExcludeSelectors?: string | string[]; // 추가적으로 요소를 제외하여, 지능형 번역이 특정 위치를 번역하지 않도록 합니다.
-  additionalExcludeTags?: string | string[]; // 추가적으로 Tags를 제외합니다.
+  additionalExcludeTags?: string | string[]; // 추가적으로 Tags 를 제외합니다.
 
   // 원본 유지
   stayOriginalSelectors?: string | string[]; // 매칭된 요소는 원본 상태를 유지합니다. 주로 포럼 웹사이트의 태그에 사용됩니다.
-  stayOriginalTags?: string | string[]; // 매칭된 Tag는 원본 상태를 유지합니다. 예: `code`
+  stayOriginalTags?: string | string[]; // 매칭된 Tag 는 원본 상태를 유지합니다. 예: `code`
 
   // 영역 번역
   atomicBlockSelectors?: string | string[]; // 영역 선택자, 매칭된 요소는 하나의 전체로 간주되며, 분할하여 번역하지 않습니다.
@@ -388,15 +388,15 @@ export interface Rule {
   additionalInjectedCss?: string | string[]; // CSS 스타일을 추가합니다. 기존의 것을 덮어쓰지 않습니다.
 
   // 컨텍스트
-  wrapperPrefix?: string; // 번역문 영역의 접두사, 기본값은 smart로, 글자 수에 따라 줄바꿈 여부를 결정합니다.
+  wrapperPrefix?: string; // 번역문 영역의 접두사, 기본값은 smart 로, 글자 수에 따라 줄바꿈 여부를 결정합니다.
   wrapperSuffix?: string; // 번역문 영역의 접미사
 
   // 번역문 줄바꿈 글자 수
   blockMinTextCount?: number; // 번역문을 블록으로 처리하는 최소 문자 수, 그렇지 않으면 인라인 요소로 처리됩니다.
-  blockMinWordCount?: number; // 위와 동일. 항상 줄바꿈을 원한다면 0을 입력하세요.
+  blockMinWordCount?: number; // 위와 동일. 항상 줄바꿈을 원한다면 0 을 입력하세요.
 
   // 번역 가능한 최소 글자 수
-  containerMinTextCount?: number; // 스마트 인식 시, 요소가 포함해야 하는 최소 문자 수로, 기본값은 18입니다.
+  containerMinTextCount?: number; // 스마트 인식 시, 요소가 포함해야 하는 최소 문자 수로, 기본값은 18 입니다.
   paragraphMinTextCount?: number; // 원문 단락의 최소 문자 수, 이 숫자보다 큰 내용은 번역됩니다.
   paragraphMinWordCount?: number; // 원문 단락의 최소 단어 수
 
@@ -404,18 +404,18 @@ export interface Rule {
   lineBreakMaxTextCount?: number; // 긴 단락 번역 시, 강제로 줄을 나누는 최대 문자 수입니다.
 
   // 번역 시작 타이밍
-  urlChangeDelay?: number; // 페이지 진입 후, 몇 밀리초 후에 번역을 시작할지. 페이지 초기화를 기다리기 위함이며, 현재 기본값은 250ms입니다.
-  observeUrlChange?: boolean; // URL 주소 변경을 감지하여 번역을 다시 시작할지 여부, 기본값은 true입니다.
+  urlChangeDelay?: number; // 페이지 진입 후, 몇 밀리초 후에 번역을 시작할지. 페이지 초기화를 기다리기 위함이며, 현재 기본값은 250ms 입니다.
+  observeUrlChange?: boolean; // URL 주소 변경을 감지하여 번역을 다시 시작할지 여부, 기본값은 true 입니다.
 
   // 모바일
-  isShowUserscriptPagePopup?: boolean; // 모바일 기기에서 페이지 내 팝업을 표시할지 여부, 기본값은 true입니다.
-  fingerCountToToggleTranslagePageWhenTouching?: number; // 네 손가락 터치로 번역, 0, 2, 3, 4, 5로 설정 가능합니다.
+  isShowUserscriptPagePopup?: boolean; // 모바일 기기에서 페이지 내 팝업을 표시할지 여부, 기본값은 true 입니다.
+  fingerCountToToggleTranslagePageWhenTouching?: number; // 네 손가락 터치로 번역, 0, 2, 3, 4, 5 로 설정 가능합니다.
 
   // AI 스트리밍 번역
   aiRule: {
     streamingSelector: string; // gpt 웹페이지에서 번역 중인 요소를 표시하는 선택자
     messageWrapperSelector: string; // 메시지 본문 선택자
-    streamingChange: boolean; // gpt와 같은 웹페이지에서 메시지가 증분 업데이트인지 전체 업데이트인지. gpt는 증분입니다.
+    streamingChange: boolean; // gpt 와 같은 웹페이지에서 메시지가 증분 업데이트인지 전체 업데이트인지. gpt 는 증분입니다.
   };
 }
 ```
@@ -451,13 +451,13 @@ export interface Rule {
   }
 ```
 
-> ⚠️ 주의하세요, 동일한 도메인의 모든 웹사이트를 번역하고자 할 경우, _.twitter.com 또는 https://twitter.com/을 단순 사용하는 것은 효과가 없습니다. 올바른 방법은 위에서 보여준 것과 같아야 합니다. 이는 _.twitter.com이 xxx.twitter.com과 같은 하위 도메인에만 일치하고 최상위 도메인 자체는 포함하지 않기 때문입니다.
+> ⚠️ 주의하세요, 동일한 도메인의 모든 웹사이트를 번역하고자 할 경우, _.twitter.com 또는 https://twitter.com/을 단순 사용하는 것은 효과가 없습니다. 올바른 방법은 위에서 보여준 것과 같아야 합니다. 이는 _.twitter.com 이 xxx.twitter.com 과 같은 하위 도메인에만 일치하고 최상위 도메인 자체는 포함하지 않기 때문입니다.
 
 ### 웹사이트 적응 사례
 
 이 부분에서는 일부 플러그인이 일반적인 웹사이트에 대해 자체적으로 정의한 `rules`를 소개하고, 실제 예시를 통해 고급 사용자 정의 옵션을 이해합니다. 동시에 간결함을 위해, 여기서는 `selectors`, `excludeSelectors` 등 가장 자주 사용되는 필드만을 소개할 것입니다. 이 부분에 관심이 있다면, 저희에게 연락 주시기 바랍니다. 관련 내용을 계속 업데이트할 예정입니다.
 
-소개하기 전에, 매우 중요한 것이 바로 몰입형 번역 플러그인의 작동 원리입니다. 이는 또한 플러그인의 작동 원리이기도 합니다. 이전에는 `HTML`, `CSS`, `JavaScript`의 기본 지식이 필요합니다. 관련 기초는 `MDN` 웹사이트에서 학습할 수 있습니다. 좋습니다, 말을 더하지 않고, 우리가 몰입형 번역의 내부를 살펴보도록 합시다. 플러그인의 작동 메커니즘을 간단히 말하자면, 웹 페이지에 제3자 스크립트를 주입하는 것입니다. 이 스크립트는 웹 페이지의 구조, 스타일, 심지어 행동에 대해 상당히 자유롭게 변경할 수 있습니다.
+소개하기 전에, 매우 중요한 것이 바로 몰입형 번역 플러그인의 작동 원리입니다. 이는 또한 플러그인의 작동 원리이기도 합니다. 이전에는 `HTML`, `CSS`, `JavaScript`의 기본 지식이 필요합니다. 관련 기초는 `MDN` 웹사이트에서 학습할 수 있습니다. 좋습니다, 말을 더하지 않고, 우리가 몰입형 번역의 내부를 살펴보도록 합시다. 플러그인의 작동 메커니즘을 간단히 말하자면, 웹 페이지에 제 3 자 스크립트를 주입하는 것입니다. 이 스크립트는 웹 페이지의 구조, 스타일, 심지어 행동에 대해 상당히 자유롭게 변경할 수 있습니다.
 
 우리의 몰입형 번역 플러그인도 예외는 아닙니다. 몰입형 번역이 무엇을 하는지 간단히 분석해 보겠습니다.
 
@@ -470,13 +470,13 @@ export interface Rule {
 - 번역이 필요한 요소를 어떻게 결정할 것인가? 전체를 번역하면 사용자의 몰입 경험을 해칠 수 있습니다. 예를 들어, 간단하고 명확한 버튼이나 네비게이션 바 같은 경우입니다.
 - 번역 결과를 요소 집합에 삽입하는 것은 원본 웹 페이지의 스타일에 영향을 주지 않으면서, 삽입된 결과가 원본 웹 페이지와 일치하도록 하는 새로운 도전을 가져옵니다.
 
-우리의 `Rules`의 핵심은 위에서 언급한 두 가지 문제를 해결하는 것입니다. 몰입형 번역 플러그인은 시장에 나와 있는 모든 웹 페이지를 대상으로 하기 때문에, 수십만, 심지어 수백만 개의 웹 페이지를 다루게 됩니다. 이러한 웹 페이지들은 페이지 구조와 사용된 기술이 매우 다양합니다. 웹 페이지의 차이로 인해, 모든 웹 사이트 콘텐츠에 적합한 일반적인 로직을 찾는 것은 거의 불가능합니다. 따라서, 각 웹 사이트를 개별적으로 적응하는 것 외에는 해결책이 없어 보입니다. 그런 다음 적응 작업을 더 쉽게 하기 위해, 코드로서의 설정(config-as-code)이라는 개념을 활용하여, 적응 작업을 설정 필드 작업으로 전환했습니다. 이러한 방식의 또 다른 장점은 사용자가 적응 작업에 참여할 수 있다는 것입니다.
+우리의 `Rules`의 핵심은 위에서 언급한 두 가지 문제를 해결하는 것입니다. 몰입형 번역 플러그인은 시장에 나와 있는 모든 웹 페이지를 대상으로 하기 때문에, 수십만, 심지어 수백만 개의 웹 페이지를 다루게 됩니다. 이러한 웹 페이지들은 페이지 구조와 사용된 기술이 매우 다양합니다. 웹 페이지의 차이로 인해, 모든 웹 사이트 콘텐츠에 적합한 일반적인 로직을 찾는 것은 거의 불가능합니다. 따라서, 각 웹 사이트를 개별적으로 적응하는 것 외에는 해결책이 없어 보입니다. 그런 다음 적응 작업을 더 쉽게 하기 위해, 코드로서의 설정 (config-as-code) 이라는 개념을 활용하여, 적응 작업을 설정 필드 작업으로 전환했습니다. 이러한 방식의 또 다른 장점은 사용자가 적응 작업에 참여할 수 있다는 것입니다.
 
 동시에, 설정을 할 때는 아래 몇 가지 필드를 직접 사용하는 것이 좋지 않습니다. 이는 기존의 설정 항목을 덮어쓸 수 있기 때문입니다. 대신 `selector.add`, `excludeSelector.add`와 같은 필드를 사용하여 기존 설정 항목에 대한 수정을 상속 방식으로 진행하는 것이 좋습니다.
 
 이제, 몰입형 번역이 사이트에 대한 적응 작업을 소개할 것입니다.
 
-아래는 트위터의 Rules입니다. 간결함을 위해 몇 가지 핵심 필드에만 초점을 맞출 것이며, 나머지 필드는 위에서 언급한 `Rules`와 함께 이해할 수 있습니다.
+아래는 트위터의 Rules 입니다. 간결함을 위해 몇 가지 핵심 필드에만 초점을 맞출 것이며, 나머지 필드는 위에서 언급한 `Rules`와 함께 이해할 수 있습니다.
 
 ```json
 [
@@ -557,7 +557,7 @@ export interface Rule {
 
   - 단순히 번역할 선택자만으로는 부족하며, 선택된 요소 중에서 번역이 필요 없는 요소가 있을 수 있으므로, 이를 제외하기 위한 필드가 필요합니다.
   - 페이지 구조가 매우 복잡하기 때문에, 이 두 가지 설정을 제공하여 설정을 더 유연하게 만듭니다.
-  - 관련 우선순위는 동일한 선택자에 대해, selectors > excludeSelectors이며, 나머지는 CSS 우선순위에 따라 결정됩니다.
+  - 관련 우선순위는 동일한 선택자에 대해, selectors > excludeSelectors 이며, 나머지는 CSS 우선순위에 따라 결정됩니다.
 
   필드 의미
 
@@ -636,7 +636,7 @@ export interface Rule {
 
 **더 많은 설명**
 
-Block과 inline의 차이점, 더 많은 것을 알고 싶다면 [여기](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements#inline)를 참조하세요.
+Block 과 inline 의 차이점, 더 많은 것을 알고 싶다면 [여기](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements#inline)를 참조하세요.
 
 - block 요소는 한 줄을 독차지하며, 여러 개의 인접한 block 요소는 각각 새로운 줄에서 시작됩니다.
 - inline 요소는 한 줄을 독차지하지 않으며, 여러 개의 인접한 inline 요소는 같은 줄에 배열되며, 한 줄에 배열할 수 없을 때만 새로운 줄로 넘어갑니다.

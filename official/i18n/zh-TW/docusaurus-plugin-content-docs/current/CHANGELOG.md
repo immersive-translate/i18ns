@@ -11,22 +11,22 @@ sidebar_position: 6
 
 ## 1.13.4 Preview (2025-01-13)
 
-- 新增：Pro會員可直接使用**智譜 4 Plus**模型。
-- 優化：Gemini翻譯優化。
+- 新增：Pro 會員可直接使用**智譜 4 Plus**模型。
+- 優化：Gemini 翻譯優化。
 
 ## 1.13.1 (2025-01-10)
 
 - 新增：當譯文與原文屬於相同書寫系統時，使用專門樣式顯示譯文。
 - 修復：有些網站**鼠標懸停翻譯**無效的情況。
-- 優化：Deeplx支持阿拉伯語。
+- 優化：Deeplx 支持阿拉伯語。
 - 優化：原文語種識別優化，當一個頁面包含多個語種內容時，之前會出現不翻譯的情況，現在能正常翻譯了。
-- 優化：推特多行內容譯文預設關閉換行，當內容超過10行或1000字符才會換行。可通過設定開啟換行。[【**進階設置**】](https://dash.immersivetranslate.com/#advanced)->【**開啟長段落自動換行**】。
+- 優化：推特多行內容譯文預設關閉換行，當內容超過 10 行或 1000 字符才會換行。可通過設定開啟換行。[【**進階設置**】](https://dash.immersivetranslate.com/#advanced)->【**開啟長段落自動換行**】。
 
 ## 1.12.8 (2025-1-3)
 
-- 修復: iOS 18.3 設置頁無法正常顯示。
-- 修復: 推特翻譯時缺少空行。
-- 修復: 翻譯長文本時遇到小數點數字被強行分行。
+- 修復：iOS 18.3 設置頁無法正常顯示。
+- 修復：推特翻譯時缺少空行。
+- 修復：翻譯長文本時遇到小數點數字被強行分行。
 
 ## 1.12.7 Release (2024-12-30)
 
@@ -976,7 +976,7 @@ sidebar_position: 6
 ## 0.6.0
 
 - 6
-  月的第一個版本，從之前的個人子域名https://immersive-translate.owenyoung.com遷移到了新的域名
+  月的第一個版本，從之前的個人子域名 https://immersive-translate.owenyoung.com 遷移到了新的域名
   https://immersivetranslate.com/
 - 功能方面基本沒有變化 (下一個版本將會有新特性！)
 
@@ -1038,19 +1038,19 @@ sidebar_position: 6
 - ChatGPT 預設改為 mobile 模型，更快！
 - 網頁核心解析重構，這意味著：
   - 大型網頁秒翻譯
-    - 比如： https://pve.proxmox.com/pve-docs/pve-admin-guide.html, 之前需要
+    - 比如：https://pve.proxmox.com/pve-docs/pve-admin-guide.html, 之前需要
       30 秒，現在秒翻
   - 複雜網頁佔用記憶體超低
     - 比如：
       https://www.wsj.com/articles/global-stocks-markets-dow-news-05-05-2023-cb142c76?mod=hp_lead_pos1
   - 對更多網站的適配
 - 支援了所有 ShadowRoot 的網站翻譯
-  - 比如： https://bugs.chromium.org/p/chromium/issues/detail?id=418987
+  - 比如：https://bugs.chromium.org/p/chromium/issues/detail?id=418987
   - 比如：
     https://news.yahoo.com/gma/virginia-mom-facing-charges-6-190600893.html
     的評論區
 - 修復之前 Next.js 等具有水合作用的網站翻譯後白屏的問題
-  - 比如： https://webpack.js.org/
+  - 比如：https://webpack.js.org/
 - 修復了修改滑鼠懸停的快捷鍵需要重新整理頁面才生效的問題
 - 修復了 TXT 文件 換行識別的問題。
 

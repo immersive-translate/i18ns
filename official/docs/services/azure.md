@@ -13,7 +13,7 @@
 
 ## 注册 Azure 帐户
 
-第一步，注册 [Azure](https://azure.microsoft.com/zh-cn/free/cognitive-services/) 帐户，要求必须绑定国际信用卡(Visa/Master)。如果没有，将无法注册。
+第一步，注册 [Azure](https://azure.microsoft.com/zh-cn/free/cognitive-services/) 帐户，要求必须绑定国际信用卡 (Visa/Master)。如果没有，将无法注册。
 
 ## 注册 Azure Blob 存储帐户
 
@@ -33,9 +33,9 @@
 
 ## 访问密钥
 
-部署成功后，进入[Azure仪表盘](https://portal.azure.com/#home)，进入**翻译工具**的页面，在左侧菜单-资源管理-`密钥和终结点` 找到密钥。微软会提供 2 个密钥，任选其一，将密钥填入沉浸式扩展-微软翻译的 `APIKEY` 里。
+部署成功后，进入[Azure 仪表盘](https://portal.azure.com/#home)，进入**翻译工具**的页面，在左侧菜单 - 资源管理-`密钥和终结点` 找到密钥。微软会提供 2 个密钥，任选其一，将密钥填入沉浸式扩展 - 微软翻译的 `APIKEY` 里。
 
-密钥下方还有一个 `位置/区域` 信息，例如 `eastasia`，也需要填入沉浸式扩展-微软翻译的 `region` 里。
+密钥下方还有一个 `位置/区域` 信息，例如 `eastasia`，也需要填入沉浸式扩展 - 微软翻译的 `region` 里。
 
 ## 常见问题
 

@@ -25,7 +25,7 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 ## Comandi
 
-Comandi Comuni per le Lingue：
+Comandi Comuni per le Lingue:
 
 | multilinguismo        | comando |
 | --------------------- | ------- |

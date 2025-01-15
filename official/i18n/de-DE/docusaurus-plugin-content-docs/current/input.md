@@ -25,7 +25,7 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 ## Befehle
 
-Gängige Sprachbefehle：
+Gängige Sprachbefehle:
 
 | Mehrsprachigkeit          | Befehl |
 | ------------------------- | ------ |

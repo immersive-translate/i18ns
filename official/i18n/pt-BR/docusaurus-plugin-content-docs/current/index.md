@@ -21,7 +21,7 @@ Uma **extensão de tradução de páginas da web bilíngue, gratuita, eficaz, re
 
 Esta extensão é de uso gratuito, espero que você possa acessar de forma fácil, agradável e elegante as ricas informações em idiomas estrangeiros na Internet, não deixe que o idioma se torne uma barreira ❤️
 
-Formas de contato：
+Formas de contato:
 
 <!-- - [Inscreva-se no Immersive Translate por Email](https://immersivetranslate.substack.com/) para receber as últimas atualizações e (benefícios) de forma oportuna. -->
 

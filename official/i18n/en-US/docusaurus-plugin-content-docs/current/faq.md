@@ -68,17 +68,17 @@ You can click on Youtube's own subtitle settings, [Options], and then you can ad
 
 ## Immersive Translate Tampermonkey Supported Browsers
 
-Recommended Grease Monkey extensions for Chrome, Firefox on desktop：
+Recommended Grease Monkey extensions for Chrome, Firefox on desktop:
 
 - [Tamper Monkey](https://www.tampermonkey.net/)
 
-Grease Monkey extension recommended for Safari：
+Grease Monkey extension recommended for Safari:
 
 - [Userscripts](https://itunes.apple.com/us/app/userscripts/id1463298887)
 
 <!-- > If using [Stay](https://apps.apple.com/cn/app/stay-safari%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BC%B4%E4%BE%A3/id1591620171) in Safari , please search for the Immersive Translate Optimization Script to download directly from Stay's own store (optimized specifically for Stay) -->
 
-Recommended Grease Monkey Extensions for Android：
+Recommended Grease Monkey Extensions for Android:
 
 1. You can install the [Tamper Monkey](https://www.tampermonkey.net/) extension using [Firefox Latest Version](https://www.mozilla.org/firefox/browsers/mobile/android/).
 
@@ -181,6 +181,6 @@ Due to the API limitation of Tampermonkeys, the cache of Immersive Translate Tam
 <details>
 <summary>Tampermonkey custom interface address request failed?</summary>
 <p>
-Tampermonkeys require that all requests from the script need to declare permissions at the beginning of the script, e.g.：`@connect api.google.com`, so if you need to add a new domain name that is not the default, please declare it at the beginning of the Tampermonkey modeled after the other domain name.
+Tampermonkeys require that all requests from the script need to declare permissions at the beginning of the script, e.g.:`@connect api.google.com`, so if you need to add a new domain name that is not the default, please declare it at the beginning of the Tampermonkey modeled after the other domain name.
 </p>
 </details>
