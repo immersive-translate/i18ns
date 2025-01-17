@@ -4,6 +4,19 @@ sidebar_position: 6
 
 # 更新日誌
 
+此更新日誌依據開發進度來更新，版本後的日期是代碼合併日期，並不是應用商店的發佈日期（各應用商店提交後的審核時間各異，個別應用商店審核時間可達一週）。目前我們有2個版本推進。
+
+【**Release** 版本】為正式穩定版本，發佈在 [Chrome](https://chromewebstore.google.com/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)，[Edge](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)，[Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate/)，[Apple](https://apps.apple.com/app/id6447957425) 等主流應用商店的都是這個版本。
+
+【**Preview** 版本】為預覽版本，發佈頻率更高，包含一些實驗性功能，相比 Release 版本會有更多的 Bug，主要發佈在[官網提供的油猴腳本](https://download.immersivetranslate.com/immersive-translate.user.js)，[Firefox 應用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)。
+
+## 1.13.6 Preview (2025-01-17)
+
+- 優化：【**AI專家**】可以與【**AI智慧上下文翻譯**】同時使用。
+- 優化：【**圖片翻譯**】兼容weibo.com（僅Chrome，Edge支持）。
+- 優化：界面語言為英語的情況下，【**輸入框增強**】默認目標語言改為中文。
+- 優化：面板上【**更多**】選項中增加商店評價入口。
+
 ## 1.13.5 Release (2025-01-14)
 
 - 優化：兼容 Gemini 2.0 的思維模型。
@@ -17,7 +30,7 @@ sidebar_position: 6
 ## 1.13.1 (2025-01-10)
 
 - 新增：當譯文與原文屬於相同書寫系統時，使用專門樣式顯示譯文。
-- 修復：有些網站**鼠標懸停翻譯**無效的情況。
+- 修復：有些網站【**鼠標懸停翻譯**】無效的情況。
 - 優化：Deeplx 支持阿拉伯語。
 - 優化：原文語種識別優化，當一個頁面包含多個語種內容時，之前會出現不翻譯的情況，現在能正常翻譯了。
 - 優化：推特多行內容譯文預設關閉換行，當內容超過 10 行或 1000 字符才會換行。可通過設定開啟換行。[【**進階設置**】](https://dash.immersivetranslate.com/#advanced)->【**開啟長段落自動換行**】。

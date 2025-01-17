@@ -4,6 +4,23 @@ sidebar_position: 6
 
 # Change Log
 
+此更新日志依据开发进度来更新，版本后的日期是代码合并日期，并不是应用商店的发布日期（各应用商店提审后的审核时间各异，个别应用商店审核时间可达一周），目前我们有2个版本推进。
+
+【**Release** 版本】为正式稳定版本，发布在
+[Chrome](https://chromewebstore.google.com/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)，
+[Edge](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)，
+[Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate/),
+[Apple](https://apps.apple.com/app/id6447957425)等主流应用商店的都是这个版本。
+
+【**Preview** 版本】为预览版本，发布频率更高，包含一些实验性功能，相比Release版本会有更多的Bug，主要发布在[官网提供的油猴脚本](https://download.immersivetranslate.com/immersive-translate.user.js)，[Firefox应用商店的beta版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)。
+
+## 1.13.6 Preview (2025-01-17)
+
+- 优化：【**AI专家**】可以与【**AI智能上下文翻译**】同时使用。
+- 优化：【**图片翻译**】兼容weibo.com（仅Chrome，Edge支持）。
+- 优化：界面语言为英语的情况下，【**输入框增强**】默认目标语言改为中文。
+- 优化：面板上【**更多**】选项中增加商店评价入口。
+
 ## 1.13.5 Release (2025-01-14)
 
 - 优化：兼容 Gemini 2.0 的 thinking 模型。

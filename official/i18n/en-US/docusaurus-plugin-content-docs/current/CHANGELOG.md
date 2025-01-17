@@ -4,6 +4,23 @@ sidebar_position: 6
 
 # Change Log
 
+This changelog is updated according to the development progress. The date after the version is the code merge date, not the release date in the app stores (the review time varies after submission to each app store, with some taking up to a week for review). Currently, we are advancing two versions.
+
+The **Release version** is the official stable version, available on mainstream app stores such as
+ [Chrome](https://chromewebstore.google.com/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh),
+ [Edge](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg),
+ [Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate/),
+ [Apple](https://apps.apple.com/app/id6447957425), etc.
+
+The **Preview version** is published more frequently and includes some experimental features. Compared to the Release version, it may contain more bugs. It is primarily released on our [official website's userscript](https://download.immersivetranslate.com/immersive-translate.user.js) and the [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/).
+
+## 1.13.6 Preview (2025-01-17)
+
+- Improved: **AI Expert** can be used with **AI Context-Aware Translation**.
+- Improved: **Image Translation** is now compatible with weibo.com (supported only on Chrome and Edge).
+- Improved: When the interface language is set to English, the default target language for **Enhanced Input Box** is changed to Chinese.
+- Improved: Added a store review entry in the **More** options on the panel.
+
 ## 1.13.5 Release (2025-01-14)
 
 - Improved: Compatible with the Gemini 2.0 thinking model.
