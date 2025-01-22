@@ -12,7 +12,7 @@ sidebar_position: 6
 
 ## 1.13.7 Preview (2025-01-22)
 
-- 新增：免費的圖片翻譯（目前僅支援PC端的Chrome，Edge瀏覽器）。
+- 新增：免費的圖片翻譯（目前僅支援 PC 端的 Chrome， Edge 瀏覽器）。
 - 修復：Gemini 設置多段翻譯時部分內容漏翻的問題。
 - 優化：YouTube 字幕加載優化。
 
@@ -244,15 +244,15 @@ sidebar_position: 6
   - [Yamibo](https://www.yamibo.com)
   - [Copymanga](https://www.copymanga.site/)
 - Youtube 雙語字幕支援智慧分句（Beta）（僅在【設定】-【影片字幕】中手動啟用沉浸式翻譯翻譯 Youtube 字幕，且原影片字幕為自動生成的英文字幕才生效）
-- 翻譯服務新增騰訊【混元大模型】(https://immersivetranslate.com/docs/services/tencent-hunyuan/)
+- 翻譯服務新增騰訊[混元大模型](https://immersivetranslate.com/docs/services/tencent-hunyuan/)
 
 ## 1.6.5
 
 - 修復漫畫翻譯目標語言為拉丁語系的文字排版問題。
 - 漫畫翻譯新增支援網站：
-  - COMIC FUZCOMICFUZ(https://comic-fuz.com/)
-  - MangaDexMangaDex(https://mangadex.org/)
-  - 快看漫畫快看漫畫 (https://www.kuaikanmanhua.com/)
+  - [COMIC FUZCOMICFUZ](https://comic-fuz.com/)
+  - [MangaDexMangaDex](https://mangadex.org/)
+  - [快看漫畫快看漫畫](https://www.kuaikanmanhua.com/)
 - 修復自訂 AI 服務無法選中 AI 專家的問題。
 
 ## 1.6.4

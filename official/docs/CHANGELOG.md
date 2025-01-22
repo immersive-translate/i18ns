@@ -16,7 +16,7 @@ sidebar_position: 6
 
 ## 1.13.7 Preview (2025-01-22)
 
-- 新增：免费的图片翻译（目前仅PC端的Chrome，Edge浏览器支持）。
+- 新增：免费的图片翻译（目前仅 PC 端的 Chrome ， Edge 浏览器支持）。
 - 修复： Gemini 设置多段翻译时部分内容漏翻的问题。
 - 优化： YouTube 字幕加载优化。
 
