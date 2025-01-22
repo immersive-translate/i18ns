@@ -14,6 +14,12 @@ The **Release version** is the official stable version, available on mainstream 
 
 The **Preview version** is published more frequently and includes some experimental features. Compared to the Release version, it may contain more bugs. It is primarily released on our [official website's userscript](https://download.immersivetranslate.com/immersive-translate.user.js) and the [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/).
 
+## 1.13.7 Preview (2025-01-22)
+
+- Added: Free image translation (currently supported only on Chrome and Edge browsers on PC).
+- Fixed: Issue with Gemini where some content was not translated when setting multi-segment translation.
+- Improved: Optimization of YouTube subtitle loading.
+
 ## 1.13.6 Preview (2025-01-17)
 
 - Improved: **AI Expert** can be used with **AI Context-Aware Translation**.

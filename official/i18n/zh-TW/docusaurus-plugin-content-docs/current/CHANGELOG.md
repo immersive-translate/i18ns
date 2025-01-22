@@ -10,6 +10,12 @@ sidebar_position: 6
 
 【**Preview** 版本】為預覽版本，發佈頻率更高，包含一些實驗性功能，相比 Release 版本會有更多的 Bug，主要發佈在[官網提供的油猴腳本](https://download.immersivetranslate.com/immersive-translate.user.js)，[Firefox 應用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)。
 
+## 1.13.7 Preview (2025-01-22)
+
+- 新增：免費的圖片翻譯（目前僅支援PC端的Chrome，Edge瀏覽器）。
+- 修復：Gemini 設置多段翻譯時部分內容漏翻的問題。
+- 優化：YouTube 字幕加載優化。
+
 ## 1.13.6 Preview (2025-01-17)
 
 - 優化：【**AI專家**】可以與【**AI智慧上下文翻譯**】同時使用。
