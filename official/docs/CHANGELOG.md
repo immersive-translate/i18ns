@@ -13,7 +13,6 @@ sidebar_position: 6
 [Apple](https://apps.apple.com/app/id6447957425) 等主流应用商店的都是这个版本。
 
 【**Preview** 版本】为预览版本，发布频率更高，包含一些实验性功能，相比 Release 版本会有更多的 Bug，主要发布在
-
 - [官网提供的油猴脚本](https://download.immersivetranslate.com/immersive-translate.user.js)
 - [Firefox 应用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
