@@ -12,7 +12,10 @@ The **Release version** is the official stable version, available on mainstream 
 [Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate/),
 [Apple](https://apps.apple.com/app/id6447957425), etc.
 
-The **Preview version** is published more frequently and includes some experimental features. Compared to the Release version, it may contain more bugs. It is primarily released on our [official website's userscript](https://download.immersivetranslate.com/immersive-translate.user.js) and the [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/).
+The **Preview version** is published more frequently and includes some experimental features. Compared to the Release version, it may contain more bugs. It is primarily released on 
+- [official website's userscript](https://download.immersivetranslate.com/immersive-translate.user.js)
+- [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
+- [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
 ## 1.13.7 Preview (2025-01-22)
 
