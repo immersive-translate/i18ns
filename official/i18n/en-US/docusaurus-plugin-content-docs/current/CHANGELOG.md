@@ -19,9 +19,10 @@ The **Preview version** is published more frequently and includes some experimen
 
 ## 1.13.7 Preview (2025-01-22)
 
-- Added: Free image translation (currently supported only on Chrome and Edge browsers on PC).
-- Fixed: Issue with Gemini where some content was not translated when setting multi-segment translation.
-- Improved: Optimization of YouTube subtitle loading.
+- New: Free image translation is now available (currently supported only on PC versions of Chrome and Edge browsers), accessible via the right-click menu.
+- Fixed: Addressed an issue where some content was missed during multi-segment translation in Gemini.
+- Optimized: Improved the loading of YouTube subtitles.
+- New: AI translation service now supports Norwegian.
 
 ## 1.13.6 Preview (2025-01-17)
 

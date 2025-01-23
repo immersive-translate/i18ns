@@ -508,10 +508,7 @@ export interface Rule {
         "anthropic-dangerous-direct-browser-access": "true"
       },
       "bodyConfigs": {
-        "max_tokens": 2048,
-        "stop_sequences": [
-          "</translation>"
-        ],
+        "max_tokens": 2048
       }
     }
   ...
@@ -544,50 +541,6 @@ export interface Rule {
         }
         ]
       }
-    }
-  ...
-}
-```
-
-### AI 翻译服务自定义对话
-
-在【[开发者设置](https://dash.immersivetranslate.com/#developer)】->【Edit Full User Config】
-
-1. **`preMessages`**：
-   - 在翻译内容之前插入的对话示例。
-   - 用于引导 AI 模型理解翻译任务的上下文。
-
-2. **`appendMessages`**：
-   - 在翻译内容之后插入的对话示例。
-   - 用于补充翻译任务的额外信息或提示。
-
-```
-{
-  ...
-  "translationServices": {
-    "claude": {
-      "preMessages": [
-        {
-          "content": "The library for web and native user interfaces",
-          "role": "user"
-        },
-        {
-          "content": "用于网页和原生用户界面的库",
-          "role": "assistant"
-        },
-        {
-          "content": "Create user interfaces from components",
-          "role": "user"
-        },
-        {
-          "content": "从组件创建用户界面",
-          "role": "assistant"
-        }
-      ],
-      "appendMessages": [{
-        "role": "assistant",
-        "content": "<translation>"
-      }]
     }
   ...
 }
