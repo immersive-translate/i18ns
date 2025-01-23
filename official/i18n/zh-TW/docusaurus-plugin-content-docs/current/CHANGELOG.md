@@ -9,6 +9,7 @@ sidebar_position: 6
 【**Release** 版本】為正式穩定版本，發佈在 [Chrome](https://chromewebstore.google.com/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)，[Edge](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)，[Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate/)，[Apple](https://apps.apple.com/app/id6447957425) 等主流應用商店的都是這個版本。
 
 【**Preview** 版本】為預覽版本，發佈頻率更高，包含一些實驗性功能，相比 Release 版本會有更多的 Bug，主要發佈在
+
 - [官網提供的油猴腳本](https://download.immersivetranslate.com/immersive-translate.user.js)
 - [Firefox 應用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
