@@ -1341,5 +1341,8 @@
   },
   "page.download.context.subtitle": {
     "message": "O Immersive Translate introduz a tradução de contexto potenciada por IA, que compreende o contexto completo e a terminologia antes de traduzir. Esta funcionalidade suporta páginas de artigos (blogs, notícias), e-books, PDF Pro e legendas bilíngues, fornecendo traduções que preservam melhor o significado e a intenção originais. (Atualmente em Beta, disponível para membros Pro através do OpenAI ou Zhipu AI 4 Plus translation.)"
+  },
+  "page.index.usageCase.image.desc": {
+    "message": "Traduzir o conteúdo da imagem com um clique."
   }
 }

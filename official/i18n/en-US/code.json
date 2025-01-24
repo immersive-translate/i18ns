@@ -1341,5 +1341,8 @@
   },
   "page.index.downloadBtn.miniProgram.tag": {
     "message": "Doc Translation"
+  },
+  "page.index.usageCase.image.desc": {
+    "message": "Translate image content with one click"
   }
 }

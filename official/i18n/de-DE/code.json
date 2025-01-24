@@ -1341,5 +1341,8 @@
   },
   "page.download.context.subtitle": {
     "message": "Immersive Translate führt kontextbezogene Übersetzungen mit KI-Unterstützung ein, die den vollständigen Kontext und die Terminologie verstehen, bevor sie übersetzen. Diese Funktion unterstützt Artikel-Seiten (Blogs, Nachrichten), E-Books, PDF Pro und zweisprachige Untertitel und liefert Übersetzungen, die die ursprüngliche Bedeutung und Absicht besser bewahren. (Derzeit in der Beta-Version, verfügbar für Pro-Mitglieder über OpenAI oder Zhipu AI 4 Plus Übersetzung.)"
+  },
+  "page.index.usageCase.image.desc": {
+    "message": "Bilderinhalte mit einem Klick übersetzen"
   }
 }

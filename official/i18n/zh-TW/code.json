@@ -1341,5 +1341,8 @@
   },
   "page.download.context.subtitle": {
     "message": "沉浸式翻譯以創新性的方式推出 AI 智能上下文翻譯功能，系統會先理解全文語境和專業術語再進行翻譯，為您帶來更準確的翻譯體驗。該功能廣泛支持文章類網頁（如博客、新聞）、電子書、PDF Pro 以及雙語字幕等多種內容形式，讓翻譯結果更貼近原文的專業性與表達意圖。（目前該功能處於 Beta 階段，僅向 Pro 會員開放體驗，您可在 OpenAI 或 智譜 4 Plus 翻譯中啟用此功能。）"
+  },
+  "page.index.usageCase.image.desc": {
+    "message": "一鍵翻譯圖片內容"
   }
 }

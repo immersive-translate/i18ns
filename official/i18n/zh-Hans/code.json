@@ -548,6 +548,9 @@
   "page.index.usageCase.pdf.desc": {
     "message": "PDF双语翻译，对照阅读"
   },
+  "page.index.usageCase.image.desc": {
+    "message": "一键翻译图片内容"
+  },
   "page.index.moreFeature.title": {
     "message": "更多功能"
   },

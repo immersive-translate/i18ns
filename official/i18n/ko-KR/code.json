@@ -1341,5 +1341,8 @@
   },
   "page.download.context.subtitle": {
     "message": "Immersive Translate는 번역하기 전에 전체 맥락과 용어를 이해하는 AI 기반 맥락 번역을 도입했습니다. 이 기능은 기사 페이지(블로그, 뉴스), 전자책, PDF Pro 및 이중 언어 자막을 지원하여 원래의 의미와 의도를 더 잘 보존하는 번역을 제공합니다. (현재 베타 버전으로, OpenAI 또는 Zhipu AI 4 Plus 번역을 통해 Pro 회원에게 제공됩니다.)"
+  },
+  "page.index.usageCase.image.desc": {
+    "message": "사진 내용을 한 번의 클릭으로 번역합니다."
   }
 }
