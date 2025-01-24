@@ -1329,5 +1329,17 @@
   },
   "page.index.downloadBtn.miniProgram.tag": {
     "message": "문서 번역"
+  },
+  "page.download.image.title": {
+    "message": "이미지 번역"
+  },
+  "page.download.image.subtitle": {
+    "message": "Immersive Translate는 웹페이지의 모든 이미지(소셜 미디어 스크린샷 및 인포그래픽 등)를 번역할 수 있습니다. 이미지를 마우스 오른쪽 버튼으로 클릭하거나 단축키를 사용하여 마우스를 올리기만 하면 원본의 모양과 느낌을 그대로 유지하면서 자연스럽게 번역된 버전을 얻을 수 있습니다. 고급 OCR 인식 및 Inpaint 기술을 사용하여 원본의 시각적 디자인을 완벽하게 유지하고, 번역된 텍스트를 이미지의 원래 레이아웃과 스타일에 완벽하게 통합하여 외국어 이미지 콘텐츠를 탐색할 때 자연스럽고 원활한 독서 경험을 제공합니다."
+  },
+  "page.download.context.title": {
+    "message": "AI 컨텍스트 번역"
+  },
+  "page.download.context.subtitle": {
+    "message": "Immersive Translate는 번역하기 전에 전체 맥락과 용어를 이해하는 AI 기반 맥락 번역을 도입했습니다. 이 기능은 기사 페이지(블로그, 뉴스), 전자책, PDF Pro 및 이중 언어 자막을 지원하여 원래의 의미와 의도를 더 잘 보존하는 번역을 제공합니다. (현재 베타 버전으로, OpenAI 또는 Zhipu AI 4 Plus 번역을 통해 Pro 회원에게 제공됩니다.)"
   }
 }

@@ -1048,6 +1048,18 @@
   "page.download.ePub.subtitle": {
     "message": "The Immersive Translate extension has made creating bilingual EPUB eBooks easier than ever! Our one-click EPUB eBook translation tool quickly transforms your foreign-language EPUBs into beautifully formatted bilingual or single-language versions, fully compatible with all types of eBook readers. Imagine exporting an EPUB file from AO3, translating it into a bilingual version using Immersive Translate, and then importing it to your Kindle for an innovative and immersive bilingual reading experience, allowing knowledge and enjoyment to flow without boundaries."
   },
+  "page.download.image.title": {
+    "message": "Image Translation"
+  },
+  "page.download.image.subtitle": {
+    "message": "Immersive Translate supports translation of any images on webpages (such as social media screenshots and infographics). Simply right-click or hover over an image (with hotkey), and you'll get a naturally translated version that preserves the original look and feel. Using advanced OCR recognition and Inpaint technology, we perfectly maintain the original visual design, seamlessly integrating translated text into the original layout and style of the image, providing you with a natural and smooth reading experience when browsing foreign language image content."
+  },
+  "page.download.context.title": {
+    "message": "AI Context Translation"
+  },
+  "page.download.context.subtitle": {
+    "message": "Immersive Translate introduces AI-powered context translation that understands the full context and terminology before translating. This feature supports article pages (blogs, news), e-books, PDF Pro, and bilingual subtitles, delivering translations that better preserve the original meaning and intent. (Currently in Beta, available to Pro members via OpenAI or Zhipu AI 4 Plus translation.)"
+  },
   "page.download.mouse.title": {
     "message": "Mouse Hover Translation"
   },

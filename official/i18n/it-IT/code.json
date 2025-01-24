@@ -1329,5 +1329,17 @@
   },
   "page.index.downloadBtn.miniProgram.tag": {
     "message": "Traduzione di documenti"
+  },
+  "page.download.image.title": {
+    "message": "Traduzione di immagini"
+  },
+  "page.download.image.subtitle": {
+    "message": "Immersive Translate supporta la traduzione di qualsiasi immagine presente sulle pagine web (come screenshot di social media e infografiche). Basta fare clic con il tasto destro o passare il mouse sopra un'immagine (con tasto di scelta rapida) e otterrai una versione tradotta in modo naturale che conserva l'aspetto e la sensazione originali. Utilizzando il riconoscimento OCR avanzato e la tecnologia Inpaint, manteniamo perfettamente il design visivo originale, integrando senza soluzione di continuità il testo tradotto nel layout e nello stile originali dell'immagine, offrendoti un'esperienza di lettura naturale e fluida quando navighi nei contenuti di immagini in lingua straniera."
+  },
+  "page.download.context.title": {
+    "message": "Traduzione del contesto AI"
+  },
+  "page.download.context.subtitle": {
+    "message": "Immersive Translate introduce la traduzione contestuale alimentata da AI che comprende il contesto completo e la terminologia prima di tradurre. Questa funzionalità supporta pagine di articoli (blog, notizie), e-book, PDF Pro e sottotitoli bilingui, fornendo traduzioni che preservano meglio il significato e l'intento originali. (Attualmente in Beta, disponibile per i membri Pro tramite OpenAI o Zhipu AI 4 Plus translation.)"
   }
 }
