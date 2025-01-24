@@ -18,7 +18,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.13.7 Preview (2025-01-22)
+## 1.13.8 Release (2025-01-24)
 
 - New: Free image translation is now available (currently supported only on PC versions of Chrome and Edge browsers), accessible via the right-click menu.
 - Fixed: Addressed an issue where some content was missed during multi-segment translation in Gemini.

@@ -18,7 +18,7 @@ sidebar_position: 6
 - [Firefox 应用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.13.7 Preview (2025-01-22)
+## 1.13.8 Release (2025-01-24)
 
 - 新增：免费的图片翻译（目前仅 PC 端的 Chrome，Edge 浏览器支持），可通过右键菜单直接选择翻译。
 - 修复：Gemini 设置多段翻译时部分内容漏翻的问题。
