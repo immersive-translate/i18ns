@@ -8,9 +8,7 @@ sidebar_position: 9
 
 ### 1. Android App，手机安全中心误报
 
-经开发排查这是由于腾讯安全中心误报，已提交申述。目前的临时解决方案是点击取消限制，或者[安装 Edge 浏览器后再安装沉浸式翻译扩展](https://immersivetranslate.com/zh-Hans/docs/installation/#%E9%80%9A%E8%BF%87-edge%E5%BE%AE%E8%BD%AF-%E5%AE%89%E5%8D%93%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%89%E8%A3%85)。
-
-![](https://s.immersivetranslate.com/assets/r2-uploads/android_false_positive-Hn_wg8ML_gqhcV8S.png)
+经开发排查这是由于腾讯安全中心误报，可从 [官网](https://immersivetranslate.com/) 卸载安装最新版本
 
 ## 安装相关
 
@@ -240,8 +238,11 @@ YouTube 自带机翻字幕，繁体中文会出现格式错误，导致所有字
 
 ### 4. Netflix 字幕翻译用原始字幕样式
 
-- 进入【[开发者设置](https://dash.immersivetranslate.com/#developer)】找到【Edit User Rules】
-  添加如下规则
+- 当前 Netflix 采用渐进式翻译方案，字幕样式自托管，不支持人工字幕。
+- 旧方案，需要等到所有字幕翻译完才会显示字幕，支持人工字幕。
+
+如何回退至旧方案，进入【[开发者设置](https://dash.immersivetranslate.com/#developer)】找到【Edit User Rules】
+添加如下规则
 
 ```json
 [
