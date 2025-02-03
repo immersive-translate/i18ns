@@ -236,9 +236,7 @@ sidebar_position: 4
 
 #### openai temperature 设置
 
-openai 的“temperature”参数用于调节语言模型的输出文本的随机性和创造性。设
-
-置较低的温度值（如 0.1 或 0.2）会生成更确定、一致且可预测的文本，而较高的温度值（如 0.8 或 1.0）则使输出更随机、多样化，增加文本的创造性。
+openai 的“temperature”参数用于调节语言模型的输出文本的随机性和创造性。设置较低的温度值（如 0.1 或 0.2）会生成更确定、一致且可预测的文本，而较高的温度值（如 0.8 或 1.0）则使输出更随机、多样化，增加文本的创造性。
 
 具体设置在[开发设置](https://dash.immersivetranslate.com/#developer) -> Edit Full User Config 中，找到 `openai` 对应的字段，插入一条新字段 `temperature` 即可完成设置。
 
@@ -341,20 +339,27 @@ translationLanguagePattern, 配置总是翻译的语言，以及永不翻译的�
 
 ### 自定义专业术语的翻译
 
-由于某些翻译引擎对专有名词识别不理想，我们可以自定义专业术语确保它们在翻译过程中不被转换，或者按照我们设置的内容进行翻译。如果希望不对某些专业术语进行翻译，点击 [这里](https://dash.immersivetranslate.com/#advanced) 添加对应单词即可。如果希望将某些专业术语翻译为指定的内容，可以通过在 [这里](https://dash.immersivetranslate.com/#developer) - Edit Full User Config 输入以下配置实现：
+由于某些翻译引擎对专有名词识别不理想，我们可以自定义专业术语确保它们在翻译过程中不被转换，或者按照我们设置的内容进行翻译。如果希望不对某些专业术语进行翻译，点击 [这里](https://dash.immersivetranslate.com/#advanced) 添加对应单词即可。如果希望将某些专业术语翻译为指定的内容，可以通过在 [这里](https://dash.immersivetranslate.com/#developer) - 【Edit Full User Config】输入以下配置实现：
+
+注意 glossaries 键值 是放到 generalRule 键值下面
+
+```json
+"glossaries": [
+    {
+      "k": "LLM",
+      "v": ""
+    },
+    {
+      "k": "Tactic",
+      "v": "策略"
+    }
+  ]
+```
 
 ```json
 "generalRule": {
-    "glossaries": [
-      {
-        "k": "LLM", // v 为空时则不翻译该单词
-        "v": ""
-      },
-      {
-        "k": "Tactic", // 将 Tactic 翻译为 策略
-        "v": "策略"
-      }
-    ],
+  "glossaries": [...],
+  ...
 }
 ```
 
