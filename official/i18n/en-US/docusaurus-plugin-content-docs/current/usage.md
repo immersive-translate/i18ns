@@ -109,11 +109,21 @@ Instructions: On supported manga websites, a manga translation button will appea
 
 ## Image Translation (Beta)
 
-![image translate](https://s.immersivetranslate.com/static/extension/images/image_tansalte_intro-qkKVLH.png)
+<video
+  controls
+  poster="https://s.immersivetranslate.com/static/extension/images/image_tansalte_intro-qkKVLH.png"
+  src="https://s.immersivetranslate.com/assets/r2-uploads/image_trabslate_en-aOEi7KrcUSKp-vIu.mp4"
+/>
 
-Image translation is available only for [Pro members](https://immersivetranslate.com/auth/pricing/?utm_source=officialSite&utm_medium=usageDoc&utm_campaign=usageDocImage). Pro users can customize this feature in [Settings] -> [Manga/Image].
+Right-click on any image and select "Translate Image" to perform translation. Additionally, if you have set the mouse hover paragraph translation shortcut key, you can directly use the hover shortcut key to translate images. For convenience, you can also enable the mouse hover quick translation button below. Once enabled, hovering over any image will display the "Quick Translate" button, which you can click to translate the image. More customization options can be found in [Settings] -> [Manga/Image].
 
-Right-click on any image and select "Translate Image" to perform translation. Additionally, if you have set the mouse hover paragraph translation shortcut key, you can directly use the hover shortcut key to translate images. For convenience, you can also enable the mouse hover quick translation button below. Once enabled, hovering over any image will display the "Quick Translate" button, which you can click to translate the image.
+### Free Version Image Translation
+
+This is processed directly on the browser side with text recognition, and due to browser technology limitations, it is currently supported only by Chrome and Edge. The recognizable languages are limited to English and some Latin-based languages.
+
+### Pro Version Image Translation
+
+This is processed on the server side with text recognition. It is available for browsers that support **immersive translation** and supports most common languages. Currently, it is available only to [Pro Members](https://immersivetranslate.com/auth/pricing/?utm_source=officialSite&utm_medium=usageDoc&utm_campaign=usageDocImage).
 
 ## Translation of subtitle files
 

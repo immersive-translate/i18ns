@@ -18,6 +18,15 @@ The **Preview version** is published more frequently and includes some experimen
 - [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.14.1 Preview (2025-02-05)
+
+- Fixed: Issue with incorrect language detection in **Enhanced Input Box**.
+- Fixed: Intelligent matching problem of AI experts in custom translation services.
+- Fixed: Google Drive synchronization failure issue on some browsers.
+- Fixed: Translation issue of YouTube live comments.
+- Fixed: Overlapping subtitles issue in some YouTube videos.
+- Improved: Failure in manga translation on sites like shonenjumpplus in Safari browser.
+
 ## 1.13.8 Release (2025-01-24)
 
 - New: Free image translation is now available (currently supported only on PC versions of Chrome and Edge browsers), accessible via the right-click menu.

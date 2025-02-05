@@ -18,6 +18,15 @@ sidebar_position: 6
 - [Firefox 应用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.14.1 Preview (2025-02-05)
+
+- 修复：【**输入框增强**】翻译语言检测出错的问题。
+- 修复：自定义翻译服务的 AI 专家智能匹配问题。
+- 修复：部分浏览器下 Google Drive 同步失败问题。
+- 修复：YouTube live 评论内容的翻译问题。
+- 修复：YouTube 部分视频字幕重叠问题。
+- 优化：Safari 浏览器下 shonenjumpplus 等部分站点的漫画翻译失败问题。
+
 ## 1.13.8 Release (2025-01-24)
 
 - 新增：免费的图片翻译（目前仅 PC 端的 Chrome，Edge 浏览器支持），可通过右键菜单直接选择翻译。
