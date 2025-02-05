@@ -1,4 +1,4 @@
-# 探索網際網路上高質量的內容
+# 探索網際網路上高品質的內容
 
 ## 網站導航
 
@@ -43,7 +43,7 @@
 
 ## 影片
 
-- [Vox](https://www.youtube.com/c/Vox/featured) - Youtube 上的一位博主，分享各種各樣事情的解釋，比如塔利班，比如新冠病毒等等，影片質量非常高。
+- [Vox](https://www.youtube.com/c/Vox/featured) - Youtube 上的一位博主，分享各種各樣事情的解釋，比如塔利班，比如新冠病毒等等，影片品質非常高。
 - [影片講座 - Reddit 小組](https://www.reddit.com/r/lectures/)
 - [觀看並學習 - Reddit 小組](https://www.reddit.com/r/WatchandLearn/)
 - [下飯影片 - Reddit 小組](https://www.reddit.com/r/mealtimevideos/)
@@ -121,7 +121,7 @@
 ## 郵件訂閱
 
 - [Current Affairs 時事](https://www.currentaffairs.org/)
-- [Inbox world](https://inboxworld.io/) - 收件箱世界，投票排序的高質量郵件列表。
+- [Inbox world](https://inboxworld.io/) - 收件箱世界，投票排序的高品質郵件列表。
 - [The Browswer](https://thebrowser.com/) - 每天推薦 5 篇值得閱讀的文章
   - [存檔](https://thebrowser.com/archive/)
 - [Inbox World](https://inboxworld.io/) - 訂閱推薦

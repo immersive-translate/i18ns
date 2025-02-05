@@ -2,13 +2,13 @@
 sidebar_position: 4
 ---
 
-# 高級自定義選項
+# 進階自訂選項
 
-你可以在擴展配置頁面 -> 開發者設定 -> User Config 裡編輯更多 UI 裡無法編輯的自定義配置，適用於高級用戶，參數講解詳見最後的說明。當前內置的 `config` 可以在[這裡](https://dash.immersivetranslate. com/#developer)，點擊 `Click to expand the final config` 找到。
+你可以在擴充套件設定頁面 -> 開發者設定 -> User Config 裡編輯更多 UI 裡無法編輯的自定義設定，適用於進階使用者，參數講解詳見最後的說明。目前內建的 `config` 可以在[這裡](https://dash.immersivetranslate. com/#developer)，點選 `Click to expand the final config` 找到。
 
 ## User Rules
 
-通過 `Rules` 可以對特定的網站進行自定義配置，決定哪些內容是否需要被翻譯，或調整網頁樣式等。
+透過 `Rules` 可以對特定的網站進行自定義設定，決定哪些內容是否需要被翻譯，或調整網頁樣式等。
 
 ```json
 [
@@ -24,13 +24,13 @@ sidebar_position: 4
 ]
 ```
 
-使用 `matches` 來匹配對應的網站。允許通配符，如 `*.google.com`, `www.google.com/test/*`, `file://*`
+使用 `matches` 來匹配對應的網站。允許萬用字元，如 `*.google.com`, `www.google.com/test/*`, `file://*`
 
 使用 `selectors` 會覆蓋智慧翻譯範圍，僅翻譯該選擇器匹配到的元素。
 
 使用 `excludeSelectors` 可以排除元素，不翻譯該位置。
 
-使用 `selectors.add` 會在預設的基礎上添加一些 selectors
+使用 `selectors.add` 會在預設的基礎上新增一些 selectors
 
 使用 `selectors.remove` 會在預設的基礎上減少一些 selectors
 
@@ -44,7 +44,7 @@ sidebar_position: 4
 ]
 ```
 
-如果希望翻譯某個區域時，將元素視為一個整體，不将其分行，可以用 `atomicBlockSelectors` 選擇器。比如 Instagram 的個人資料介紹。
+如果希望翻譯某個區域時，將元素視為一個整體，不將其分行，可以用 `atomicBlockSelectors` 選擇器。比如 Instagram 的個人資料介紹。
 
 ```json
 {
@@ -60,7 +60,7 @@ sidebar_position: 4
 }
 ```
 
-如果譯文導致頁面錯位，文字重疊等邊緣情況，可以使用 `globalStyles` 調整網頁樣式來修復。比如 youtube 的標題，用来移除原網頁的最大高度。
+如果譯文導致頁面錯位，文字重疊等邊緣情況，可以使用 `globalStyles` 調整網頁樣式來修復。比如 youtube 的標題，用來移除原網頁的最大高度。
 
 ```json
 {
@@ -71,7 +71,7 @@ sidebar_position: 4
 
 ## Injected CSS
 
-通過 Injected CSS 可以向全局注入自定義網頁樣式。可以搭配 `Rules` 的 `translationClasses` 一起使用。
+透過 Injected CSS 可以向全域性注入自定義網頁樣式。可以搭配 `Rules` 的 `translationClasses` 一起使用。
 
 ```css
 .immersive-translate-target-wrapper img {
@@ -80,7 +80,7 @@ sidebar_position: 4
 }
 ```
 
-也可以像常规的网页样式管理器那样，对网站进行更加个性化的样式设计。（甚至利用 `display:none` 去广告）
+也可以像常規的網頁樣式管理器那樣，對網站進行更加個性化的樣式設計。（甚至利用 `display:none` 去廣告）
 
 ```css
 .title {
@@ -90,7 +90,7 @@ sidebar_position: 4
 
 ## User Config
 
-通過 Config 可以自訂義此插件的相關配置，如翻譯服務、特定語言翻譯選項等。
+透過 Config 可以自訂義此外掛的相關設定，如翻譯服務、特定語言翻譯選項等。
 
 ```json
 {
@@ -173,9 +173,9 @@ sidebar_position: 4
 }
 ```
 
-其中，`rules` 里的規則字段，可以使用 `generalRule` 里的全部字段。`rules` 拥有最高優先級，當匹配到特定網站的某一條 `rule` 時，會合併 `generalRule` 和該 `rule` 的規則。
+其中，`rules` 裡的規則欄位，可以使用 `generalRule` 裡的全部欄位。`rules` 擁有最高優先順序，當匹配到特定網站的某一條 `rule` 時，會合併 `generalRule` 和該 `rule` 的規則。
 
-介紹一些 Config 常見的字段。
+介紹一些 Config 常見的欄位。
 
 ### 允許渲染普通 HTML 標籤
 
@@ -183,11 +183,11 @@ sidebar_position: 4
 
 編輯 "enableRenderHtmlTag": true
 
-### 不在 popup 面板中顯示未配置的翻譯服務
+### 不在 popup 面板中顯示未設定的翻譯服務
 
 `"showUnconfiguredTranslationServiceInPopup": false`
 
-### 翻譯服務配置
+### 翻譯服務設定
 
 使用 `translationService` 選擇預設的翻譯引擎，目前支援：
 
@@ -206,9 +206,9 @@ sidebar_position: 4
 | "openl"
 ```
 
-使用 `translationServices` 設置各家翻譯服務的 `apikey`，不同供應商所需的參數不同，它們的 API 密鑰均可在各自官網的開發者中心申請。
+使用 `translationServices` 設定各家翻譯服務的 `apikey`，不同供應商所需的參數不同，它們的 API 金鑰均可在各自官網的開發者中心申請。
 
-例如騰訊翻译君，需要配置 `secretId` 和 `secretKey`。你可以前往騰訊云申請 API 密鑰，每月免費字符 500 萬。具體申請流程請參考[這裡](/docs/services/tencent)。
+例如騰訊翻譯君，需要設定 `secretId` 和 `secretKey`。你可以前往騰訊雲申請 API 金鑰，每月免費字元 500 萬。具體申請流程請參考[這裡](/docs/services/tencent)。
 
 ```json
 "translationServices": {
@@ -224,21 +224,21 @@ sidebar_position: 4
 }
 ```
 
-`matches` 字段，為特定網站使用該翻譯服務。
+`matches` 欄位，為特定網站使用該翻譯服務。
 
-`limit` 字段，指定該翻譯服務的每秒最多請求数（有些服務會限制每秒最大請求数）。
+`limit` 欄位，指定該翻譯服務的每秒最多請求數（有些服務會限制每秒最大請求數）。
 
-`maxTextGroupLengthPerRequest` 字段，每次請求最大的段落数。
+`maxTextGroupLengthPerRequest` 欄位，每次請求最大的段落數。
 
-`maxTextLengthPerRequest` 字段，每次請求最大的字符数。
+`maxTextLengthPerRequest` 欄位，每次請求最大的字元數。
 
-`apiUrl` 可以自定義翻譯接口的地址。
+`apiUrl` 可以自定義翻譯介面的地址。
 
-#### OpenAI Temperature 設置
+#### OpenAI Temperature 設定
 
-OpenAI 的「temperature」參數用於調節語言模型輸出文本的隨機性和創造性。設置較低的溫度值（如 0.1 或 0.2）會生成更確定、一致且可預測的文本，而較高的溫度值（如 0.8 或 1.0）則使輸出更隨機、多樣化，增加文本的創造性。
+OpenAI 的「temperature」參數用於調節語言模型輸出文本的隨機性和創造性。設定較低的溫度值（如 0.1 或 0.2）會生成更確定、一致且可預測的文字，而較高的溫度值（如 0.8 或 1.0）則使輸出更隨機、多樣化，增加文字的創造性。
 
-具體設置在[開發者設定](https://dash.immersivetranslate. com/#developer) -> Edit Full User Config 中，找到 `openai` 對應的字段，插入一條新字段 `temperature` 即可完成設置。
+具體設定在[開發者設定](https://dash.immersivetranslate. com/#developer) -> Edit Full User Config 中，找到 `openai` 對應的欄位，插入一條新欄位 `temperature` 即可完成設定。
 
 示例如下：
 
@@ -254,12 +254,12 @@ OpenAI 的「temperature」參數用於調節語言模型輸出文本的隨機�
 
 ### 總是翻譯特定網站
 
-`translationUrlPattern` 配置總是指定翻譯的網站，以及從不翻譯的網站。
+`translationUrlPattern` 設定總是指定翻譯的網站，以及從不翻譯的網站。
 
-- `matches` 配置總是翻譯的網站，
-- `excludeMatches` 配置從不翻譯的網站。
+- `matches` 設定總是翻譯的網站，
+- `excludeMatches` 設定從不翻譯的網站。
 
-配置值可以是域名或帶有 `*` 的網址，例如：`www. google. com/ mail/*`
+設定值可以是域名或帶有 `*` 的網址，例如：`www. google. com/ mail/*`
 
 ```json
 "translationUrlPattern": {
@@ -270,12 +270,12 @@ OpenAI 的「temperature」參數用於調節語言模型輸出文本的隨機�
 
 ### 總是翻譯特定語言
 
-`languagePattern` 配置總是翻譯的语言，以及從不翻譯的语言。
+`languagePattern` 設定總是翻譯的語言，以及從不翻譯的語言。
 
-- `matches` 配置總是翻譯的语言，例如：`en`
-- `excludeMatches` 配置從不翻譯的语言。
+- `matches` 設定總是翻譯的語言，例如：`en`
+- `excludeMatches` 設定從不翻譯的語言。
 
-### 译文顯示格式
+### 譯文顯示格式
 
 `translationTheme` 為翻譯內容的顯示格式，目前支援以下樣式：
 
@@ -294,7 +294,7 @@ OpenAI 的「temperature」參數用於調節語言模型輸出文本的隨機�
 | "thinDashed";
 ```
 
-对应的中文名：
+對應的中文名：
 
 ```json
 {
@@ -313,7 +313,7 @@ OpenAI 的「temperature」參數用於調節語言模型輸出文本的隨機�
 }
 ```
 
-`translationThemePatterns` 可以為不同網站配置不同的譯文樣式
+`translationThemePatterns` 可以為不同網站設定不同的譯文樣式
 
 ```json
 "translationThemePatterns": {
@@ -323,11 +323,11 @@ OpenAI 的「temperature」參數用於調節語言模型輸出文本的隨機�
 }
 ```
 
-### 类 gpt 页面流消息翻译
+### 類 gpt 頁面流訊息翻譯
 
 ```json
 {
-  "matches": ["chat.openai.com"], //类 gpt 网址
+  "matches": ["chat.openai.com"], //類 gpt 網址
   "excludeSelectors": [".markdown *"],
   "aiRule": {
     "streamingSelector": ".result-streaming.markdown",
@@ -339,8 +339,8 @@ OpenAI 的「temperature」參數用於調節語言模型輸出文本的隨機�
 
 ### 自定義專業術語的翻譯
 
-由于某些翻译引擎对专有名词识别不理想，我们可以自定义专业术语确保它们在翻译过程中不被转换，或者按照我们设置的内容进行翻译。如果希望不对某些专业术语进行翻译，点击 [这里](https://dash.immersivetranslate. com/#advanced) 添加对应单词即可。如果希望将某些专业术语翻译为指定的内容，可以通过在 [这里](https://dash.immersivetranslate. com/#developer) - 【Edit Full User Config】输入以下配置实现：  
-注意 glossaries 键值 是放到 generalRule 键值下面
+由於某些翻譯引擎對專有名詞識別不理想，我們可以自定義專業術語確保它們在翻譯過程中不被轉換，或者按照我們設定的內容進行翻譯。如果希望不對某些專業術語進行翻譯，點選 [這裡](https://dash.immersivetranslate. com/#advanced) 新增對應單詞即可。如果希望將某些專業術語翻譯為指定的內容，可以透過在 [這裡](https://dash.immersivetranslate. com/#developer) - 【Edit Full User Config】輸入以下設定實現：  
+注意 glossaries 鍵值 是放到 generalRule 鍵值下面
 
 ```json
 "glossaries": [
@@ -364,7 +364,7 @@ OpenAI 的「temperature」參數用於調節語言模型輸出文本的隨機�
 
 ### Rules
 
-`rules` 為數組物件，可以用來配置針對特殊網站的規則，例如讓 Twitter 只翻譯某一部分區域：
+`rules` 為陣列物件，可以用來設定針對特殊網站的規則，例如讓 Twitter 只翻譯某一部分區域：
 
 ```json
 {
@@ -386,121 +386,121 @@ OpenAI 的「temperature」參數用於調節語言模型輸出文本的隨機�
 }
 ```
 
-目前內置的 `rules` 可以在[這裡](https://github.com/immersive-translate/next-immersive_translate/blob/main/docs/buildin_config.json) 找到。
+目前內建的 `rules` 可以在[這裡](https://github.com/immersive-translate/next-immersive_translate/blob/main/docs/buildin_config.json) 找到。
 
-以下挑選部分重要字段進行說明：
+以下挑選部分重要欄位進行說明：
 
 ```typescript
 export interface Rule {
-  // 匹配网站
-  id?: string; //系统每个适配的规则都有自己的 id，如果用户想要复用这条规则在此基础之上变动的话，需要在自己的规则上加上这个相应的 id 就可以复用了
-  matches?: string | string[]; // 该条 Rule 将仅匹配此处的网站。
-  excludeMatches?: string | string[]; // 排除特定的网站。
-  selectorMatches?: string | string[]; // 用选择器来匹配，而无需指定所有 url
-  excludeSelectorMatches?: string | string[]; // 排除规则，同上。
+  // 匹配網站
+  id?: string; //系統每個適配的規則都有自己的 id，如果使用者想要複用這條規則在此基礎之上變動的話，需要在自己的規則上加上這個相應的 id 就可以複用了
+  matches?: string | string[]; // 該條 Rule 將僅匹配此處的網站。
+  excludeMatches?: string | string[]; // 排除特定的網站。
+  selectorMatches?: string | string[]; // 用選擇器來匹配，而無需指定所有 url
+  excludeSelectorMatches?: string | string[]; // 排除規則，同上。
 
-  // 指定翻译范围
-  selectors?: string | string[]; // 仅翻译匹配到的元素
-  excludeSelectors?: string | string[]; // 排除元素，不翻译匹配的元素
-  excludeTags?: string | string[]; // 排除 Tags，不翻译匹配的 Tag
+  // 指定翻譯範圍
+  selectors?: string | string[]; // 僅翻譯匹配到的元素
+  excludeSelectors?: string | string[]; // 排除元素，不翻譯匹配的元素
+  excludeTags?: string | string[]; // 排除 Tags，不翻譯匹配的 Tag
 
-  // 追加翻译范围，而不是覆盖
-  additionalSelectors?: string | string[]; // 追加翻译范围。在智能翻译的区域，追加翻译位置。
-  additionalExcludeSelectors?: string | string[]; // 追加排除元素，让智能翻译不翻译特定位置。
+  // 追加翻譯範圍，而不是覆蓋
+  additionalSelectors?: string | string[]; // 追加翻譯範圍。在智慧翻譯的區域，追加翻譯位置。
+  additionalExcludeSelectors?: string | string[]; // 追加排除元素，讓智慧翻譯不翻譯特定位置。
   additionalExcludeTags?: string | string[]; // 追加排除 Tags
 
-  // 保持原样
-  stayOriginalSelectors?: string | string[]; // 匹配的元素将保持原样。常用于论坛网站的标签。
-  stayOriginalTags?: string | string[]; // 匹配到的 Tag 将保持原样，比如 `code`
+  // 保持原樣
+  stayOriginalSelectors?: string | string[]; // 匹配的元素將保持原樣。常用於論壇網站的標籤。
+  stayOriginalTags?: string | string[]; // 匹配到的 Tag 將保持原樣，比如 `code`
 
-  // 区域翻译
-  atomicBlockSelectors?: string | string[]; // 区域选择器，匹配的元素将被视为一个整体，不会分段翻译
-  atomicBlockTags?: string | string[]; // 区域 Tag 选择器，同上
+  // 區域翻譯
+  atomicBlockSelectors?: string | string[]; // 區域選擇器，匹配的元素將被視為一個整體，不會分段翻譯
+  atomicBlockTags?: string | string[]; // 區域 Tag 選擇器，同上
 
   // Block or Inline
-  extraBlockSelectors?: string | string[]; // 额外的选择器，匹配的元素将作为 block 元素，独占一行。
-  extraInlineSelectors?: string | string[]; // 额外的选择器，匹配的元素将作为 inline 元素。
+  extraBlockSelectors?: string | string[]; // 額外的選擇器，匹配的元素將作為 block 元素，獨佔一行。
+  extraInlineSelectors?: string | string[]; // 額外的選擇器，匹配的元素將作為 inline 元素。
 
-  inlineTags?: string | string[]; // 匹配的 Tag 将作为 inline 元素
-  preWhitespaceDetectedTags?: string | string[]; // 匹配的 Tag 将自动换行
+  inlineTags?: string | string[]; // 匹配的 Tag 將作為 inline 元素
+  preWhitespaceDetectedTags?: string | string[]; // 匹配的 Tag 將自動換行
 
-  // 译文样式
-  translationClasses?: string | string | string[]; // 为译文添加额外的 Class
+  // 譯文樣式
+  translationClasses?: string | string | string[]; // 為譯文新增額外的 Class
 
-  // 全局样式
-  globalStyles?: Record<string, string>; // 修改页面样式，若译文导致页面错乱，这个很有用。`
-  globalAttributes?: Record<string, Record<string, string>>; // 修改页面元素的属性
+  // 全域性樣式
+  globalStyles?: Record<string, string>; // 修改頁面樣式，若譯文導致頁面錯亂，這個很有用。`
+  globalAttributes?: Record<string, Record<string, string>>; // 修改頁面元素的屬性
 
-  // 嵌入样式
-  injectedCss?: string | string[]; // 嵌入 CSS 样式
-  additionalInjectedCss?: string | string[]; // 追加 CSS 样式，而不是直接覆盖。
+  // 嵌入樣式
+  injectedCss?: string | string[]; // 嵌入 CSS 樣式
+  additionalInjectedCss?: string | string[]; // 追加 CSS 樣式，而不是直接覆蓋。
 
   // 上下文
-  wrapperPrefix?: string; // 译文区域的前缀，默认为 smart，根据字数决定是否换行。
-  wrapperSuffix?: string; // 译文区域的后缀
+  wrapperPrefix?: string; // 譯文區域的字首，預設為 smart，根據字數決定是否換行。
+  wrapperSuffix?: string; // 譯文區域的字尾
 
-  // 译文换行字数
-  blockMinTextCount?: number; // 将译文作为 block 的最小字符数，否则译文为 inline 元素。
-  blockMinWordCount?: number; // 同上。如果希望它们始终换行，可以都填 0.
+  // 譯文換行字數
+  blockMinTextCount?: number; // 將譯文作為 block 的最小字元數，否則譯文為 inline 元素。
+  blockMinWordCount?: number; // 同上。如果希望它們始終換行，可以都填 0.
 
-  // 内容可翻译的最小字数
-  containerMinTextCount?: number; // 智能识别时，元素最少包含的字符数，才会被翻译，默认为 18
-  paragraphMinTextCount?: number; // 原文段落的最小字符数，大于数字的内容将被翻译
-  paragraphMinWordCount?: number; // 原文段落的最小单词数
+  // 內容可翻譯的最小字數
+  containerMinTextCount?: number; // 智慧識別時，元素最少包含的字元數，才會被翻譯，預設為 18
+  paragraphMinTextCount?: number; // 原文段落的最小字元數，大於數字的內容將被翻譯
+  paragraphMinWordCount?: number; // 原文段落的最小單詞數
 
-  // 长段落强制换行字数
-  lineBreakMaxTextCount?: number; // 开启翻译长段落时，强制进行分行的段落最大字符数。
+  // 長段落強制換行字數
+  lineBreakMaxTextCount?: number; // 開啟翻譯長段落時，強制進行分行的段落最大字元數。
 
-  // 启动翻译的时机
-  urlChangeDelay?: number; // 进入页面后，延迟多少毫秒开始翻译。为了等网页的初始化，目前默认为 250ms
-  observeUrlChange?: boolean; // 检测 url 地址发生变化时，再次启动翻译，默认为 true。
+  // 啟動翻譯的時機
+  urlChangeDelay?: number; // 進入頁面後，延遲多少毫秒開始翻譯。為了等網頁的初始化，目前預設為 250ms
+  observeUrlChange?: boolean; // 偵測 url 地址發生變化時，再次啟動翻譯，預設為 true。
 
-  // 移动端
-  isShowUserscriptPagePopup?: boolean; // 在移动设备上展示页面内的浮窗，默认为 true.
-  fingerCountToToggleTranslagePageWhenTouching?: number; // 四指触摸则翻译，可以设置为 0，2，3，4，5
+  // 移動端
+  isShowUserscriptPagePopup?: boolean; // 在移動裝置上展示頁面內的浮窗，預設為 true.
+  fingerCountToToggleTranslagePageWhenTouching?: number; // 四指觸控則翻譯，可以設定為 0，2，3，4，5
 
-  // AI streaming 翻译
+  // AI streaming 翻譯
   aiRule: {
-    streamingSelector: string; //gpt 网页中标记正在翻译元素的选择器
-    messageWrapperSelector: string; // 消息正文选择器
-    streamingChange: boolean; //类 gpt 网页反复的消息是增量更新还是全量更新。gpt 是增量
+    streamingSelector: string; //gpt 網頁中標記正在翻譯元素的選擇器
+    messageWrapperSelector: string; // 訊息正文選擇器
+    streamingChange: boolean; //類 gpt 網頁反覆的訊息是增量更新還是全量更新。gpt 是增量
   };
 }
 ```
 
-### Rules matches 匹配逻辑
+### Rules matches 匹配邏輯
 
-这部分介绍关于 `match` 的匹配方式，怎样来匹配到对应的域名，这里我们讲的是单个 `match` 的，实际匹配的时候 `matches` 是个数组，会尝试让每个 `match` 都去匹配，只要有一个匹配中，就算命中。
+這部分介紹關於 `match` 的匹配方式，怎樣來匹配到對應的域名，這裡我們講的是單個 `match` 的，實際匹配的時候 `matches` 是個陣列，會嘗試讓每個 `match` 都去匹配，只要有一個匹配中，就算命中。
 
-首先让我们先确定好输入形式，即我们的 `match` 支持哪些形式的合法输入
+首先讓我們先確定好輸入形式，即我們的 `match` 支援哪些形式的有效輸入
 
-- 省略主机号的`url`，如 `immersivetranslate. com`
-- 一个合法的 `url`，有自己的协议，域名，或者路径，如 `https://immersivetranslate.com`
-- 上面都不满足的情况下，会将输入转换成一个正则表达式去处理，在此基础上再去匹配一些特定的规则
+- 省略主機號的`url`，如 `immersivetranslate. com`
+- 一個有效的 `url`，有自己的協議，域名，或者路徑，如 `https://immersivetranslate.com`
+- 上面都不滿足的情況下，會將輸入轉換成一個正規表示式去處理，在此基礎上再去匹配一些特定的規則
 
-确定好输入之后，让我们简单做个分类以更好地区分基本的`url`和带有正则表达式的`url`：
+確定好輸入之後，讓我們簡單做個分類以更好地區分基本的`url`和帶有正規表示式的`url`：
 
-- 匹配单个网站的 `match`，如 `https://immersivetranslate.com` 或者省略协议的 `immersivetranslate.com`
-- 掺有正则表达式特殊符号的 `match`，如 `https://*/*sub.info=*fmoviesz.to*` 这里会匹配特定的搜索`url`参数，我们的程序会自动将后面那一串转化为正则表达式以此来匹配对应的`url`，转换之后的结果为`/^https:\/\/[^/]+?\/.*?sub. info=.*?fmoviesz. to.*?\/?$/`。这样做的好处在于大幅降低了配置`match`的复杂性
+- 匹配單個網站的 `match`，如 `https://immersivetranslate.com` 或者省略協議的 `immersivetranslate.com`
+- 摻有正規表示式特殊符號的 `match`，如 `https://*/*sub.info=*fmoviesz.to*` 這裡會匹配特定的搜尋`url`參數，我們的程式會自動將後面那一串轉化為正規表示式以此來匹配對應的`url`，轉換之後的結果為`/^https:\/\/[^/]+?\/.*?sub. info=.*?fmoviesz. to.*?\/?$/`。這樣做的好處在於大幅降低了設定`match`的複雜性
 
-在区分之后，对于这两类 `match` 我们分开来讲对应的匹配逻辑，在代码中也是如此，这两类的匹配逻辑是分开的。在代码中我们是通过这个表达式 `!match.includes("*") && match.includes("://")` 来区分这两类的 `match` 的
+在區分之後，對於這兩類 `match` 我們分開來講對應的匹配邏輯，在程式碼中也是如此，這兩類的匹配邏輯是分開的。在程式碼中我們是透過這個表達式 `!match.includes("*") && match.includes("://")` 來區分這兩類的 `match` 的
 
-对于匹配单个站点的`match`的字符串，即不含正则表达式相关符号的，需要考虑的问题有三个：
+對於匹配單個站點的`match`的字串，即不含正規表示式相關符號的，需要考慮的問題有三個：
 
-- 对于省略网络协议的 match 的处理：如 `immersivetranslate.com` 我们会直接判断 `match` 是否等于`url`的 `hostname`，等于则匹配成功，即不会将 `match` 解析为 URL，将其作为 `hostname` 来判断
-- 对于多级路由的处理，分为两种情况
-  - 完整的 `match`，如 `https://immersivetranslate.com/docs/advanced/`,这类是合法的 URL，我们会将其解析为 URL，提取协议，主机名，端口号以及路径名来比较，当全部相等时则匹配成功
-  - 省略了网络协议的`match`，如 `immersivetranslate.com/docs/advanced/` 由于这类是不合法的 `url`，对于这类会将其归类到正则表达式的逻辑处理里面去
+- 對於省略網路協議的 match 的處理：如 `immersivetranslate.com` 我們會直接判斷 `match` 是否等於`url`的 `hostname`，等於則匹配成功，即不會將 `match` 解析為 URL，將其作為 `hostname` 來判斷
+- 對於多級路由的處理，分為兩種情況
+  - 完整的 `match`，如 `https://immersivetranslate.com/docs/advanced/`,這類是有效的 URL，我們會將其解析為 URL，提取協議，主機名稱，連接埠以及路徑名稱來比較，當全部相等時則匹配成功
+  - 省略了網路協議的`match`，如 `immersivetranslate.com/docs/advanced/` 由於這類是無效的 `url`，對於這類會將其歸類到正規表示式的邏輯處理裡面去
 
-当上面的匹配策略都不生效时，就会到我们的兜底匹配，即将其识别为一个正则表达式，我们会对 `match` 进行转换，将其转换成一个合法的正则表达式。这部分的例子可以参照这个
+當上面的匹配策略都不生效時，就會到我們的兜底匹配，即將其識別為一個正規表示式，我們會對 `match` 進行轉換，將其轉換成一個有效的正規表示式。這部分的例子可以參照這個
 
 > `https://*/*sub.info=*fmoviesz.to*` ==> `/^https:\/\/[^/]+?\/.*?sub.info=.*?fmoviesz.to.*?\/?$/`
 
-最后总结一下我们的处理逻辑，1. 判断 `url` 的 `hostname` 是否等于 `match` 字符串，等于则匹配成功 2. 判断匹配所有的 `url` 的 `match`，例如 `*`，`*://*`等等 3. 判断 `match` 是否为一个合法的 `url`，我们会尝试比较 `match` 和 `url` 是否相等。具体比较协议，端口，主机名，路径名，相等则成功 4. 判断 `match` 为一个正则表达式，将其转换成一个合法的正则表达式并尝试匹配 5. 都不满足的话，则匹配失败
+最後總結一下我們的處理邏輯，1. 判斷 `url` 的 `hostname` 是否等於 `match` 字串，等於則匹配成功 2. 判斷匹配所有的 `url` 的 `match`，例如 `*`，`*://*`等等 3. 判斷 `match` 是否為一個有效的 `url`，我們會嘗試比較 `match` 和 `url` 是否相等。具體比較協議，連接埠，主機名稱，路徑名稱，相等則成功 4. 判斷 `match` 為一個正規表示式，將其轉換成一個有效的正規表示式並嘗試匹配 5. 都不滿足的話，則匹配失敗
 
-### 翻译服务自定义请求头和请求体参数
+### 翻譯服務自定義請求頭和請求體參數
 
-在【[開發者設置](https://dash.immersivetranslate.com/#developer)】->【Edit Full User Config】
+在【[開發者設定](https://dash.immersivetranslate.com/#developer)】->【Edit Full User Config】
 
 ```
 {
@@ -519,9 +519,9 @@ export interface Rule {
 }
 ```
 
-### 自定义多语言提示词
+### 自定義多語言提示詞
 
-下面展示了 openai 对于翻译日语/中文繁体的提示词修改
+下面展示了 openai 對於翻譯日語/中文繁體的提示詞修改
 
 ```
 {
@@ -538,10 +538,10 @@ export interface Rule {
         },
         {
           "id": "auto2zh-TW",
-          "systemPrompt": "你是一個專業的、地道的翻譯引擎。你只返回翻譯的文本，不做任何解釋。",
-          "prompt": "將以下文本翻譯成 {{to}}：\n\n<text>\n{{text}}\n</text>\n\n直接輸出翻譯結果，不要添加任何額外的文本或標籤。",
-          "multiplePrompt": "你將會得到一個包含 \"id\" 和 \"{{imt_source_field}}\" 欄位的 YAML 格式輸入。以下是輸入內容：\n\n<yaml>\n{{yaml}}\n</yaml>\n\n對於 YAML 中的每個條目，將 \"{{imt_source_field}}\" 欄位的內容翻譯成 {{to}}。將翻譯結果寫回每個條目的 \"{{imt_source_field}}\" 欄位。\n\n以下是期望的格式範例：\n\n{{normal_result_yaml_example}}\n\n請直接返回翻譯後的 YAML，不要添加任何額外的標籤。",
-          "subtitlePrompt": "你將會翻譯一組 YAML 格式的影片字幕中的 \"{{imt_sub_source_field}}\" 欄位為 {{to}}。以下是原始字幕的 YAML 格式：\n\n<yaml_subtitles>\n{{yaml}}\n</yaml_subtitles>\n\n請僅翻譯每個字幕條目中的 \"{{imt_sub_source_field}}\" 欄位為簡體中文。不要翻譯或更改 \"id\" 欄位。\n\n以相同的 YAML 格式輸出翻譯後的字幕，每個字幕條目各佔一行。\"id\" 欄位應保持不變，\"{{imt_sub_source_field}}\" 欄位應包含你的 {{to}} 翻譯結果。\n\n請直接返回翻譯後的 YAML，不要添加任何額外的標籤。"
+          "systemPrompt": "你是一個專業的、地道的翻譯引擎。你只返回翻譯的文字，不做任何解釋。",
+          "prompt": "將以下文字翻譯成 {{to}}：\n\n<text>\n{{text}}\n</text>\n\n直接輸出翻譯結果，不要新增任何額外的文字或標籤。",
+          "multiplePrompt": "你將會得到一個包含 \"id\" 和 \"{{imt_source_field}}\" 欄位的 YAML 格式輸入。以下是輸入內容：\n\n<yaml>\n{{yaml}}\n</yaml>\n\n對於 YAML 中的每個條目，將 \"{{imt_source_field}}\" 欄位的內容翻譯成 {{to}}。將翻譯結果寫回每個條目的 \"{{imt_source_field}}\" 欄位。\n\n以下是期望的格式範例：\n\n{{normal_result_yaml_example}}\n\n請直接返回翻譯後的 YAML，不要新增任何額外的標籤。",
+          "subtitlePrompt": "你將會翻譯一組 YAML 格式的影片字幕中的 \"{{imt_sub_source_field}}\" 欄位為 {{to}}。以下是原始字幕的 YAML 格式：\n\n<yaml_subtitles>\n{{yaml}}\n</yaml_subtitles>\n\n請僅翻譯每個字幕條目中的 \"{{imt_sub_source_field}}\" 欄位為簡體中文。不要翻譯或更改 \"id\" 欄位。\n\n以相同的 YAML 格式輸出翻譯後的字幕，每個字幕條目各佔一行。\"id\" 欄位應保持不變，\"{{imt_sub_source_field}}\" 欄位應包含你的 {{to}} 翻譯結果。\n\n請直接返回翻譯後的 YAML，不要新增任何額外的標籤。"
         }
         ]
       }
@@ -550,25 +550,25 @@ export interface Rule {
 }
 ```
 
-## 高级自定义选项实战
+## 進階自訂選項實戰
 
-### 实用小技巧
+### 實用小技巧
 
-这部分会介绍一些即插即用的保姆级配置。
+這部分會介紹一些即插即用的保姆級設定。
 
-将这些配置一键复制，打开[开发者设置](https://dash.immersivetranslate.com/#developer)，展开 `Edit Full User Config` ，复制到最后一项即可，注意不要忘记给前一项加上逗号，以及最后一项不能加逗号
+將這些設定一鍵複製，開啟[開發者設定](https://dash.immersivetranslate.com/#developer)，展開 `Edit Full User Config` ，複製到最後一項即可，注意不要忘記給前一項加上逗號，以及最後一項不能加逗號
 
-#### 不能用的翻译服务太多了，如何在插件面板里只展示能用的翻译服务
+#### 不能用的翻譯服務太多了，如何在外掛面板裡只展示能用的翻譯服務
 
 ```json
   "showUnconfiguredTranslationServiceInPopup": false
 ```
 
-#### 如何让不同的站点默认选择不同的翻译服务？例如有的网站我想要好一点但要花钱的翻译效果，有的网站我只需要免费能看的翻译就行了
+#### 如何讓不同的站點預設選擇不同的翻譯服務？例如有的網站我想要好一點但要花錢的翻譯效果，有的網站我只需要免費能看的翻譯就行了
 
-注意看，眼前这个配置叫翻译服务，他配置了谷歌翻译，让有关推特的相关站点的翻译都使用他去翻译，因为 `google` 翻译是免费的，推特是冲浪的，只要能看懂就行了。
+注意看，眼前這個設定叫翻譯服務，他設定了谷歌翻譯，讓有關推特的相關站點的翻譯都使用他去翻譯，因為 `google` 翻譯是免費的，推特是衝浪的，只要能看懂就行了。
 
-仔细看，他还配置了 `deepl` 的翻译服务，他让 `deepl` 专门去翻译 `scihub` 这种容错率低的需要高精确的学术网站
+仔細看，他還設定了 `deepl` 的翻譯服務，他讓 `deepl` 專門去翻譯 `scihub` 這種容錯率低的需要高精確的學術網站
 
 ```json
   "translationServices": {
@@ -581,32 +581,32 @@ export interface Rule {
   }
 ```
 
-> ⚠️ 请注意，若您希望翻译属于同一域名的所有网站，简单使用 _.twitter.com 或 https://twitter.com/ 是无效的。正确的做法应参照上文所示。这是因为 _.twitter.com 仅能匹配子域名如 xxx.twitter.com，而不包括顶级域名本身。
+> ⚠️ 請注意，若您希望翻譯屬於同一域名的所有網站，簡單使用 _.twitter.com 或 https://twitter.com/ 是無效的。正確的做法應參照上文所示。這是因為 _.twitter.com 僅能匹配子域名如 xxx.twitter.com，而不包括頂級域名本身。
 
 ### 網站適配案例
 
-這部分會介紹一些插件自己對常見網站的 `rules`，通過實際例子來理解高級自定義選項。同時為了簡潔，這裡只會介紹最常用的欄位，比如 `selectors` 、 `excludeSelectors` 等等，如果你對這部分內容感興趣的話，歡迎聯絡我們，我們會繼續更新相關的內容。
+這部分會介紹一些外掛自己對常見網站的 `rules`，透過實際例子來理解進階自訂選項。同時為了簡潔，這裡只會介紹最常用的欄位，比如 `selectors` 、 `excludeSelectors` 等等，如果你對這部分內容感興趣的話，歡迎聯絡我們，我們會繼續更新相關的內容。
 
-在介紹之前，一個非常關鍵的东西就是沉浸式翻譯插件的工作原理，同時也是個插件的工作原理。在此之前，需要有一定的 `HTML` 、`CSS` 、 `JavaScript` 基礎，相關基礎可以在 `MDN` 網站上學習。Okay，話不多說，讓我們走進沉浸式翻譯的內部一探究竟。插件的工作機制簡單來說，就是向網頁中注入第三方腳本，這個腳本可以對網頁結構，樣式，甚至行為進行相當自由地魔改。
+在介紹之前，一個非常關鍵的東西就是沉浸式翻譯外掛的工作原理，同時也是個外掛的工作原理。在此之前，需要有一定的 `HTML` 、`CSS` 、 `JavaScript` 基礎，相關基礎可以在 `MDN` 網站上學習。Okay，話不多說，讓我們走進沉浸式翻譯的內部一探究竟。外掛的工作機制簡單來說，就是向網頁中注入第三方腳本，這個腳本可以對網頁結構，樣式，甚至行為進行相當自由地魔改。
 
-我們的沉浸式翻譯插件也不例外，讓我們來簡單分析一下沉浸式翻譯它幹了個什麼事
+我們的沉浸式翻譯外掛也不例外，讓我們來簡單分析一下沉浸式翻譯它幹了個什麼事
 
-- 獲取需要翻譯的元素集合
-- 翻譯元素集合中的文本
+- 取得需要翻譯的元素集合
+- 翻譯元素集合中的文字
 - 將翻譯的結果插入到元素集合中
 
 Okay，但是再仔細想想，自然而然就會帶出接下來兩個問題
 
-- 我們還需要確定哪些元素需要被翻譯，如果全盤翻譯，往往會破壞用戶的沉浸式體驗，像一些簡單明瞭的按鈕，或者導航欄。
+- 我們還需要確定哪些元素需要被翻譯，如果全盤翻譯，往往會破壞使用者的沉浸式體驗，像一些簡單明瞭的按鈕，或者導航欄。
 - 將翻譯的結果插入到元素集合中也會帶來一個新的挑戰，如何保證插入的結果與原生網頁保持一致，不去影響原生網頁的樣式。
 
-我們的 `Rules` 的核心就是解決上述兩個問題。因為作為插件，沉浸式翻譯面對的是市面上所有的網頁，加起來可能超過幾十萬，甚至數百萬的網頁，這些網頁的頁面結構，使用的技术也是各不相同。因為網頁的不同，導致了一個通用的邏輯是幾乎不可能的，很難找到一套通用的邏輯，能夠去适配所有的網站內容。這樣看來，解決方法似乎只有挨著挨著對每個網站進行單獨的適配。接著為了更方便地適配，我們又利用了配置即代碼的思想，將適配的工作轉換成了配置欄位的工作。這樣的另一個好處就是，用戶也可以參與到适配工作起來。
+我們的 `Rules` 的核心就是解決上述兩個問題。因為作為外掛，沉浸式翻譯面對的是市面上所有的網頁，加起來可能超過幾十萬，甚至數百萬的網頁，這些網頁的頁面結構，使用的技術也是各不相同。因為網頁的不同，導致了一個通用的邏輯是幾乎不可能的，很難找到一套通用的邏輯，能夠去適配所有的網站內容。這樣看來，解決方法似乎只有挨著挨著對每個網站進行單獨的適配。接著為了更方便地適配，我們又利用了設定即程式碼的思想，將適配的工作轉換成了設定欄位的工作。這樣的另一個好處就是，使用者也可以參與到適配工作起來。
 
-同時，在進行配置的時候，最好不要直接使用下面幾個欄位，這樣會導致覆蓋掉原先的配置項，而是采用 `selector.add` 、`excludeSelector.add` 這些欄位以繼承的方式，在原先的配置項的基礎上進行修改。
+同時，在進行設定的時候，最好不要直接使用下面幾個欄位，這樣會導致覆蓋掉原先的設定項，而是採用 `selector.add` 、`excludeSelector.add` 這些欄位以繼承的方式，在原先的設定項的基礎上進行修改。
 
-下面，我們將會介紹沉浸式翻譯對站點的适配工作
+下面，我們將會介紹沉浸式翻譯對站點的適配工作
 
-下面是小.twitter 的 Rules，為了簡潔，我們將關注其中的幾個關鍵欄位，剩余欄位可以結合上文中的 `Rules` 理解
+下面是小.twitter 的 Rules，為了簡潔，我們將關注其中的幾個關鍵欄位，剩餘欄位可以結合上文中的 `Rules` 理解
 
 ```json
 [
@@ -620,7 +620,7 @@ Okay，但是再仔細想想，自然而然就會帶出接下來兩個問題
       "https://platform.twitter.com/embed*"
     ],
     "selectors": [
-      // 指定翻译的元素，只会翻译选择器匹配到的元素
+      // 指定翻譯的元素，只會翻譯選擇器匹配到的元素
       "[data-testid=\"tweetText\"]",
       ".tweet-text",
       ".js-quoted-tweet-text",
@@ -635,7 +635,7 @@ Okay，但是再仔細想想，自然而然就會帶出接下來兩個問題
       "[data-testid='birdwatch-pivot'] div[dir=ltr]"
     ],
     "excludeSelectors": [
-      // 不会翻译的被 CSS 选择器选中的元素
+      // 不會翻譯的被 CSS 選擇器選中的元素
       "[aria-describedby][role=button]",
       "header",
       "[data-testid='radioGroupplayback_rate'] div",
@@ -644,7 +644,7 @@ Okay，但是再仔細想想，自然而然就會帶出接下來兩個問題
       "[class='css-175oi2r r-1wbh5a2 r-dnmrzs']"
     ],
     "globalStyles": {
-      // 全局样式，强制覆盖掉原样式
+      // 全域性樣式，強制覆蓋掉原樣式
       "[data-testid='card.layoutLarge.detail'] > div:nth-child(2)": "-webkit-line-clamp: unset;",
       "[data-testid='card.layoutSmall.detail'] > div:nth-child(2)": "-webkit-line-clamp: unset;",
       "[data-testid='tweetText']": "-webkit-line-clamp: unset;"
@@ -653,72 +653,72 @@ Okay，但是再仔細想想，自然而然就會帶出接下來兩個問題
 ]
 ```
 
-- `selector`: 指定翻译的元素集合
+- `selector`: 指定翻譯的元素集合
 
-  为什么需要这个字段
+  為什麼需要這個欄位
 
-  - 因為不是所有元素都有文字且需要翻譯的，提供這樣一個字段既可以保證性能又可以保證用戶的沉浸式體驗
+  - 因為不是所有元素都有文字且需要翻譯的，提供這樣一個欄位既可以保證效能又可以保證使用者的沉浸式體驗
 
-  举个例子
+  舉個例子
 
-  - 在推特中，如果我们不指定 selector，那么他将会将页面中的所有识别为英文的文字都进行翻译一遍，如下图，用户的昵稱往往是不需要翻譯的。
+  - 在推特中，如果我們不指定 selector，那麼他將會將頁面中的所有識別為英文的文字都進行翻譯一遍，如下圖，使用者的暱稱往往是不需要翻譯的。
 
-  ![用户主页](twitterUser. png)
+  ![使用者主頁](twitterUser. png)
 
-  字段含义
+  欄位含義
 
   ```
-      "selectors": [ // 会被翻译的 CSS 选择器集合
+      "selectors": [ // 會被翻譯的 CSS 選擇器集合
       "[data-testid=\"tweetText\"]",
     ]
   ```
 
-  这里数组的每一项都是一个 CSS 选择器，用来选择页面中的需要翻译的元素，这里我们以第一个选择器为例，如下图所示，第一个选择器命中的是所有推文的元素
+  這裡陣列的每一項都是一個 CSS 選擇器，用來選擇頁面中的需要翻譯的元素，這裡我們以第一個選擇器為例，如下圖所示，第一個選擇器命中的是所有推文的元素
 
   ![tweet](tweet.png)
 
-- `excludeSelectors`: 不会被翻译的元素集合
+- `excludeSelectors`: 不會被翻譯的元素集合
 
-  为什么需要这个字段
+  為什麼需要這個欄位
 
-  - 因為一個僅翻譯的选择器是不夠的，可能會出現，匹配中的元素卻不需要翻譯的，即兩者可能存在重疊的部分，因此需要再設置一個字段來排除掉不需要翻譯的元素
-  - 由于網頁結構是非常複雜的，提供這樣兩個配置項，讓配置更加靈活
-  - 相關的优先級是：對於同等選擇器，selectors > excludeSelectors，剩下的依靠 CSS 優先級來比較
+  - 因為一個僅翻譯的選擇器是不夠的，可能會出現，匹配中的元素卻不需要翻譯的，即兩者可能存在重疊的部分，因此需要再設定一個欄位來排除掉不需要翻譯的元素
+  - 由於網頁結構是非常複雜的，提供這樣兩個設定項，讓設定更加靈活
+  - 相關的優先順序是：對於同等選擇器，selectors > excludeSelectors，剩下的依靠 CSS 優先順序來比較
 
-  字段含義
+  欄位含義
 
   ```
-      "excludeSelectors": [ // 不会翻译的被 CSS 选择器选中的元素
+      "excludeSelectors": [ // 不會翻譯的被 CSS 選擇器選中的元素
       "[aria-describedby][role=button]",
     ],
   ```
 
-  还是看第一个，这里我们排除掉了关注按钮的这个翻译
+  還是看第一個，這裡我們排除掉了關注按鈕的這個翻譯
   ![twitter-follow](twitter-follow.png)
 
-- `globalStyles`：添加全局样式，强制覆盖掉原先的样式
+- `globalStyles`：新增全域性樣式，強制覆蓋掉原先的樣式
 
-  为什么需要这个字段
+  為什麼需要這個欄位
 
-  - 在某些情况下，因为原先网页的相关 CSS 样式，会导致整个的翻译展示效果不是很好，出现被截断，不换行等等效果
-  - 通过这个字段，提供一种暴力的解决方案，直接修改原生网页的 CSS 属性来解决
+  - 在某些情況下，因為原先網頁的相關 CSS 樣式，會導致整個的翻譯展示效果不是很好，出現被截斷，不換行等等效果
+  - 透過這個欄位，提供一種暴力的解決方案，直接修改原生網頁的 CSS 屬性來解決
 
-  字段含义
+  欄位含義
 
   ```
         "globalStyles": {
-      // 全局样式，强制覆盖掉原样式
+      // 全域性樣式，強制覆蓋掉原樣式
       "[data-testid='card.layoutLarge.detail'] > div:nth-child(2)": "-webkit-line-clamp: unset;",
       "[data-testid='card.layoutSmall.detail'] > div:nth-child(2)": "-webkit-line-clamp: unset;",
       "[data-testid='tweetText']": "-webkit-line-clamp: unset;"
     }
   ```
 
-  `-webkit-line-clamp` 这个属性用来控制显示的行数，多余的行会被截断，这里设置成 `unset` ，可以保证译文不会被这个属性所截断
+  `-webkit-line-clamp` 這個屬性用來控制顯示的行數，多餘的行會被截斷，這裡設定成 `unset` ，可以保證譯文不會被這個屬性所截斷
 
-### 自定义网站适配
+### 自定義網站適配
 
-关于适配规则，当然你也可以自定义规则，进入到插件选项页面，点击[开发者设置](https://dash.immersivetranslate.com/#developer)，展开 `Edit User Rules` ，在这里进行各个网站的自定义适配。下面结合实际规则进行讲解
+關於適配規則，當然你也可以自定義規則，進入到外掛選項頁面，點選[開發者設定](https://dash.immersivetranslate.com/#developer)，展開 `Edit User Rules` ，在這裡進行各個網站的自定義適配。下面結合實際規則進行講解
 
 ```
 [
@@ -740,20 +740,20 @@ Okay，但是再仔細想想，自然而然就會帶出接下來兩個問題
 ]
 ```
 
-這個規則會讓推特頁面的推文不進行翻譯。下面詳細介紹字段的含義
+這個規則會讓推特頁面的推文不進行翻譯。下面詳細介紹欄位的含義
 
 `id` 是沉浸式翻譯已經定義好的相關網站的集合，每個 `id` 都對應相關的站點。`id` 的好處有兩個
 
-- 使用 `id` 可以繼承沉浸式翻譯之前的適配規則，用戶可以在這基礎上進行增刪
-- 使用 `id` 就不用寫繁瑣的匹配字段了
+- 使用 `id` 可以繼承沉浸式翻譯之前的適配規則，使用者可以在這基礎上進行增刪
+- 使用 `id` 就不用寫繁瑣的匹配欄位了
 
-下面介紹一些沉浸式翻譯內置服務的常見的 `id`
+下面介紹一些沉浸式翻譯內建服務的常見的 `id`
 
-- `"isEbook"` epub 閱讀器頁面的配置
-- `"isEbookBuilder"` 生成 epub 雙語書頁面的配置
-- `"pdf"` pdf 雙語對照翻譯頁面的配置
+- `"isEbook"` epub 閱讀器頁面的設定
+- `"isEbookBuilder"` 生成 epub 雙語書頁面的設定
+- `"pdf"` pdf 雙語對照翻譯頁面的設定
 
-完整的 `id` 集合可以在[開發者設置](https://dash.immersivetranslate. com/#developer)中，`Click to expand the final config` 中找到
+完整的 `id` 集合可以在[開發者設定](https://dash.immersivetranslate. com/#developer)中，`Click to expand the final config` 中找到
 
 `selectors` 負責指定需要翻譯的 CSS 選擇器，建議使用子項 `.add` `.remove` 在原先的基礎上進行增刪
 
