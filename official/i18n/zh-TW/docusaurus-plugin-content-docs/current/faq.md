@@ -126,7 +126,7 @@ Android：
 
 移動端長按懸浮球，電腦端鼠標移動至懸浮球喚出設置，選擇其他翻譯服務/其他目標語言。
 
-<img src="https://s.immersivetranslate.com/static/official-static/assets/change-lang1.png" alt="description" width="200" style="marginRight:100px"/>
+<img src="https://s.immersivetranslate.com/static/official-static/assets/change-lang1.png" alt="description" width="200" style={{marginRight: "100px"}}/>
 <img src="https://s.immersivetranslate.com/static/official-static/assets/change-lang2.png" alt="description" width="280"/>
 
 ### 9. 谷歌翻譯接口被牆問題
