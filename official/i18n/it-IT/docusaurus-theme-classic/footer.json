@@ -78,7 +78,7 @@
     "description": "The label of footer link with label=Telegram 用户群 linking to https://t.me/+rq848Z09nehlOTgx"
   },
   "link.item.html.main": {
-    "message": "<div class=\"footer-info\"><div class=\"footer-title\"><img src=\"https://s.immersivetranslate.com/static/official-static/img/logo.png\"/>Immersive Translate</div><div class=\"footer-desc\">Consente la lettura bilingue con un solo clic per migliorare l'accesso alle informazioni</div><div id=\"currency-box\"></div><div class=\"footer-copyright\"><a href=\"https://beian.miit.gov.cn/\" target=\"_blank\"> </a>© 2024 Immersive Translate</div></div>"
+    "message": "<div class=\"footer-info\"><div class=\"footer-title\"><img src=\"https://s.immersivetranslate.com/static/official-static/img/logo.png\"/>Immersive Translate</div><div class=\"footer-desc\">Consente la lettura bilingue con un solo clic per migliorare l'accesso alle informazioni</div><div id=\"currency-box\"></div><div class=\"footer-copyright\"><a href=\"https://beian.miit.gov.cn/\" target=\"_blank\"> </a>© 2025 Immersive Translate</div></div>"
   },
   "link.item.html.end": {
     "message": "<div style=\"display:flex;justify-content: space-evenly;\"><div class=\"qrcode\"><img width=\"112\"  src=\"https://s.immersivetranslate.com/static/official-static/assets/iosQRCode.svg\"/><span>App Store</span></div><div class=\"qrcode\"><img width=\"112\" src=\"https://s.immersivetranslate.com/static/official-static/assets/androidQRCode.svg\"/><span>Android</span></div></div>"
