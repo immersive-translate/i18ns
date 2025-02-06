@@ -18,7 +18,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.14.1 Preview (2025-02-05)
+## 1.14.2 Preview (2025-02-05)
 
 - Fixed: Issue with incorrect language detection in **Enhanced Input Box**.
 - Fixed: Intelligent matching problem of AI experts in custom translation services.

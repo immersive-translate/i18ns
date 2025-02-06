@@ -14,7 +14,7 @@ sidebar_position: 6
 - [Firefox 應用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.14.1 Preview (2025-02-05)
+## 1.14.2 Preview (2025-02-05)
 
 - 修復：【輸入框增強】翻譯語言檢測出錯的問題。
 - 修復：自定義翻譯服務的 AI 專家智能匹配問題。
