@@ -3,7 +3,7 @@
 ## 簡要說明
 
 1. 官方網站：[微軟 Azure 翻譯](https://learn.microsoft.com/zh-cn/azure/cognitive-services/translator/text-translation-overview)
-2. 官方說明：每月翻譯 200 萬字之內都是免費的，如果您每月超過 200 萬字，我們會按照 10 美元 / 100 萬字 的費率收費。詳情參考 [定價說明](https://azure.microsoft.com/zh-cn/pricing/details/cognitive-services/translator/)
+2. 官方說明：每月翻譯 200 萬字之內都是免費的，如果您每月超過 200 萬字，我們會按照 10 美元 / 100 萬字 的費率收費。詳細資訊參考 [定價說明](https://azure.microsoft.com/zh-cn/pricing/details/cognitive-services/translator/)
 
 ## 註冊流程
 

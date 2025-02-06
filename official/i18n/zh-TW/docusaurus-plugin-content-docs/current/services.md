@@ -6,16 +6,41 @@
 
 ## **翻譯服務**
 
+- [Claude](./services/claude.md)
+  - API 端點：https://api.anthropic.com/v1/messages
 - [Deepl](./services/deepL.md)
+  - API 端點：https://api.deepl.com/v2/translate
+- [DeepSeek](./services/deepseek.md)
+  - API 端點：https://api.deepseek.com/chat/completions
 - [Gemini](./services/gemini.md)
-- [彩雲小譯](./services/caiyun.md)
-- [騰訊翻譯君](./services/tencent.md)
-- [火山引擎](./services/volcano.md)
-- [百度翻譯](./services/baidu.md)
+  - API 端點：https://generativelanguage.googleapis.com/v1beta/models/\{model\}:generateContent?key=\{key\}
 - [OpenL](./services/openL.md)
+  - API 端點：https://api.openl.club/services/\{codename}/translate
+- [Open AI (Azure OpenAI)](./services/openai.md)
+  - API 端點：https://openai-api.immersivetranslate.com/v1/chat/completions
+- [微軟 Azure 翻譯](./services/azure.md)
+  - API 端點：https://api.cognitive.microsofttranslator.com/translate?x=2
+- [阿里雲百煉](./services/aliyun-bailian.md)
+  - API 端點：https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
+- [阿里雲翻譯](./services/aliyun.md)
+  - API 端點：https://\{service\}.aliyuncs.com?\{paramsString\}
+- [百度千帆](./services/baidu-qianfan.md)
+  - API 端點：https://aip.baidubce.com/rpc/2.0/ai_custom/v1/wenxinworkshop/chat/{model}?access_token={key}
+- [字節跳動豆包](./services/doubao.md)
+  - API 端點：https://ark.cn-beijing.volces.com/api/v3/chat/completions
+- [百度翻譯](./services/baidu.md)
+  - API 端點：https://api.fanyi.baidu.com/api/trans/vip/translate
+- [彩雲小譯](./services/caiyun.md)
+  - API 端點：https://api.interpreter.caiyunai.com/v1/translator
+- [火山引擎](./services/volcano.md)
+  - API 端點：https://translate.volcengine.com/crx/translate/v1/
+- [騰訊翻譯君](./services/tencent.md)
+  - API 端點：https://transmart.qq.com/api/imt
 - [小牛翻譯](./services/niu.md)
+  - API 端點：https://api.niutrans.com/NiuTransServer/translation
 - [有道翻譯](./services/youdao.md)
-- [微軟翻譯](./services/azure.md)
+  - API 端點：https://openapi.youdao.com/api
+- [自訂 API 翻譯](./services/custom.md)
 
 ## 免責宣告
 

@@ -10,7 +10,7 @@ controls
 muted
 src="https://s.immersivetranslate.com/videos/20240119installation.mp4"></video>
 
-## 桌面瀏覽器
+## 電腦版瀏覽器
 
 - 微軟 Edge 瀏覽器： [Edge 商店沉浸式翻譯](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)
 - Google Chrome 瀏覽器：[Chrome 商店沉浸式翻譯](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)

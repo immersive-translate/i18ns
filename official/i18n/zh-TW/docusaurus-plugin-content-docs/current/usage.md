@@ -117,15 +117,15 @@ sidebar_position: 2
   src="https://s.immersivetranslate.com/assets/r2-uploads/image_trabslate_zhTW-rfGF7VsNQOxxOkTG.mp4"
 />
 
-在任何圖片上點擊滑鼠右鍵並選擇「翻譯圖片」即可進行翻譯。此外，若您已設置滑鼠懸停翻譯段落快捷鍵，也可以直接使用滑鼠懸停的快捷鍵翻譯圖片。為了方便使用，您也可以啟用下方的滑鼠懸停快捷翻譯按鈕，啟用之後，將滑鼠懸停在任何圖片上，即可看到「快捷翻譯」按鈕，點擊此按鈕即可進行翻譯，更多自定義選項在【設置】->【漫畫/圖片】中設置。
+在任何圖片上點選滑鼠右鍵並選擇「翻譯圖片」即可進行翻譯。此外，若您已設定滑鼠懸停翻譯段落快捷鍵，也可以直接使用滑鼠懸停的快捷鍵翻譯圖片。為了方便使用，您也可以啟用下方的滑鼠懸停快捷翻譯按鈕，啟用之後，將滑鼠懸停在任何圖片上，即可看到「快捷翻譯」按鈕，點選此按鈕即可進行翻譯，更多自訂選項在【設定】->【漫畫/圖片】中設定。
 
 ### 免費版圖片翻譯
 
-是在瀏覽器端直接處理的文本識別處理，由於瀏覽器技術限制，目前僅 Chrome、Edge 支持，語種僅限英語及部分拉丁語系的語種能識別。
+是在瀏覽器端直接處理的文字識別處理，由於瀏覽器技術限制，目前僅 Chrome、Edge 支援，語種僅限英語及部分拉丁語系的語種能識別。
 
 ### Pro 版圖片翻譯
 
-是在服務端處理的文本識別處理，支持**沉浸式翻譯**的瀏覽器都可使用，大部分常見語種都支持，目前僅 [Pro 會員](https://immersivetranslate.com/auth/pricing/?utm_source=officialSite&utm_medium=usageDoc&utm_campaign=usageDocImage) 可用。
+是在服務端處理的文字識別處理，支援**沉浸式翻譯**的瀏覽器都可使用，大部分常見語種都支援，目前僅 [Pro 會員](https://immersivetranslate.com/auth/pricing/?utm_source=officialSite&utm_medium=usageDoc&utm_campaign=usageDocImage) 可用。
 
 ## 字幕檔翻譯
 

@@ -1064,7 +1064,7 @@
     "message": "立即下載"
   },
   "page.index.downloadBtn.installExtension": {
-    "message": "安裝瀏覽器插件（桌面端使用）"
+    "message": "安裝瀏覽器外掛（桌面端使用）"
   },
   "page.index.downloadBtn.orUseOnMobile": {
     "message": "或者直接在手機/平板上使用"
@@ -1109,7 +1109,7 @@
     "message": "雙欄，三欄效果"
   },
   "pro.advantage.columns.description": {
-    "message": "我們的 PDF 翻譯工具專門設計了對雙欄和三欄配置的支援，能夠識別並適應文件中的複雜配置。這意味著即使是格式最為複雜的學術論文，也能被我們的系統準確解析並翻譯。"
+    "message": "我們的 PDF 翻譯工具專門設計了對雙欄和三欄設定的支援，能夠識別並適應文件中的複雜設定。這意味著即使是格式最為複雜的學術論文，也能被我們的系統準確解析並翻譯。"
   },
   "pro.feat.html": {
     "message": "匯出為 HTML"
@@ -1325,7 +1325,7 @@
     "message": "需在內建擴充套件商店安裝"
   },
   "page.index.downloadBtn.miniProgram": {
-    "message": "微信小程序"
+    "message": "微信小程式"
   },
   "page.index.downloadBtn.miniProgram.tag": {
     "message": "文件翻譯"
@@ -1334,13 +1334,13 @@
     "message": "圖片翻譯"
   },
   "page.download.image.subtitle": {
-    "message": "沉浸式翻譯支援翻譯網頁上的任何圖片（如社交媒體截圖，資訊圖表），只需在圖片上右鍵點擊或鼠標懸停（配合快捷鍵），即可實現原汁原味的圖片翻譯效果。通過領先的 OCR 識別和 Inpaint 技術，我們能完美還原原始圖片的視覺設計，讓翻譯文本自然融入圖片原有的布局和風格中，讓您在瀏覽外語圖片內容時，獲得更自然、流暢的閱讀體驗。"
+    "message": "沉浸式翻譯支援翻譯網頁上的任何圖片（如社交媒體截圖，資訊圖表），只需在圖片上右鍵點選或滑鼠懸停（配合快捷鍵），即可實現原汁原味的圖片翻譯效果。透過領先的 OCR 識別和 Inpaint 技術，我們能完美還原原始圖片的視覺設計，讓翻譯文字自然融入圖片原有的配置和風格中，讓您在瀏覽外語圖片內容時，獲得更自然、流暢的閱讀體驗。"
   },
   "page.download.context.title": {
     "message": "AI 智慧上下文翻譯"
   },
   "page.download.context.subtitle": {
-    "message": "沉浸式翻譯以創新性的方式推出 AI 智能上下文翻譯功能，系統會先理解全文語境和專業術語再進行翻譯，為您帶來更準確的翻譯體驗。該功能廣泛支持文章類網頁（如博客、新聞）、電子書、PDF Pro 以及雙語字幕等多種內容形式，讓翻譯結果更貼近原文的專業性與表達意圖。（目前該功能處於 Beta 階段，僅向 Pro 會員開放體驗，您可在 OpenAI 或 智譜 4 Plus 翻譯中啟用此功能。）"
+    "message": "沉浸式翻譯以創新性的方式推出 AI 智慧上下文翻譯功能，系統會先理解全文語境和專業術語再進行翻譯，為您帶來更準確的翻譯體驗。該功能廣泛支援文章類網頁（如部落格、新聞）、電子書、PDF Pro 以及雙語字幕等多種內容形式，讓翻譯結果更貼近原文的專業性與表達意圖。（目前該功能處於 Beta 階段，僅向 Pro 會員開放體驗，您可在 OpenAI 或 智譜 4 Plus 翻譯中啟用此功能。）"
   },
   "page.index.usageCase.image.desc": {
     "message": "一鍵翻譯圖片內容"

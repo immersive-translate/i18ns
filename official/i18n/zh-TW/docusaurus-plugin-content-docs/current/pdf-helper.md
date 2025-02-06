@@ -8,7 +8,7 @@ sidebar_position: 4
 
 目前由於採用純文字識別技術，所以無法正確處理數學公式，表格等特殊字元。
 
-如果你的 PDF 包含表格和數學公式，對它們有更高質量翻譯要求可以體驗我們的 [PDF PRO](https://app.immersivetranslate.com/pdf-pro/)
+如果你的 PDF 包含表格和數學公式，對它們有更高品質翻譯要求可以體驗我們的 [PDF PRO](https://app.immersivetranslate.com/pdf-pro/)
 
 基本的使用問題請檢視[這裡的文件](/docs/usage/#pdf-%E6%96%87%E4%BB%B6翻譯)
 
