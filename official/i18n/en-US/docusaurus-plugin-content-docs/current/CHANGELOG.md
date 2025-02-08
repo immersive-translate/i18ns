@@ -18,7 +18,12 @@ The **Preview version** is published more frequently and includes some experimen
 - [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.14.3 Release (2025-02-07)
+## 1.14.5 Release (2025-02-08)
+
+- Fixed: Issue where **Mouse Hover Translation** could not translate rich text.
+- Improved: Tampermonkey version now supports YouTube subtitle translation.
+
+## 1.14.4 Release (2025-02-07)
 
 - Fixed: Issue with incorrect language detection in **Enhanced Input Box**.
 - Fixed: Intelligent matching problem of AI experts in custom translation services.

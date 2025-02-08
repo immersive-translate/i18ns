@@ -14,7 +14,12 @@ sidebar_position: 6
 - [Firefox 應用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.14.3 Release (2025-02-07)
+## 1.14.5 Release (2025-02-08)
+
+- 修復：【**滑鼠懸停翻譯**】無法翻譯富文本的問題
+- 優化：油猴版本支持 YouTube 字幕翻譯
+
+## 1.14.4 Release (2025-02-07)
 
 - 修復：【輸入框增強】翻譯語言偵測出錯的問題。
 - 修復：自定義翻譯服務的 AI 專家智慧匹配問題。
