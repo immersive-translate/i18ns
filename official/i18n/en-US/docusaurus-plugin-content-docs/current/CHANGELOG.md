@@ -18,6 +18,12 @@ The **Preview version** is published more frequently and includes some experimen
 - [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.14.8 Release (2025-02-10)
+
+- Fixed: Issue where PDF-Pro long files were not automatically translated.
+- Improved: Microsoft, Google, and Tencent now support Cantonese.
+- Improved: BBC now supports subtitles.
+
 ## 1.14.6 Preview (2025-02-08)
 
 - Fixed: Issue where **Mouse Hover Translation** could not translate rich text.

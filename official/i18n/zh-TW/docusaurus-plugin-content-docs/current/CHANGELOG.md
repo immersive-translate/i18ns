@@ -14,10 +14,16 @@ sidebar_position: 6
 - [Firefox 應用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.14.8 Release (2025-02-10)
+
+- 修復：PDF-Pro 長文件不自動翻譯的問題。
+- 優化：微軟、谷歌、騰訊交互支持粵語。
+- 優化：BBC 支持字幕。
+
 ## 1.14.6 Preview (2025-02-08)
 
-- 修復：【**滑鼠懸停翻譯**】無法翻譯富文本的問題
-- 優化：油猴版本支持 YouTube 字幕翻譯
+- 修復：【**滑鼠懸停翻譯**】無法翻譯富文本的問題。
+- 優化：油猴版本支持 YouTube 字幕翻譯。
 
 ## 1.14.4 Release (2025-02-07)
 
