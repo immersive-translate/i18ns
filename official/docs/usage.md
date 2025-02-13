@@ -15,13 +15,13 @@ sidebar_position: 2
 ## 视频教程(移动端)
 
 <video
-  controls
-  style={{
+controls
+style={{
     width: '100%',
     maxWidth: 480,
   }}
-  poster="https://s.immersivetranslate.com/assets/tutorial_for_mobile_250213.jpg"
-  src="https://s.immersivetranslate.com/assets/tutorial_for_mobile_250213.mp4"
+poster="https://s.immersivetranslate.com/assets/tutorial_for_mobile_250213.jpg"
+src="https://s.immersivetranslate.com/assets/tutorial_for_mobile_250213.mp4"
 />
 
 ## 图文说明
