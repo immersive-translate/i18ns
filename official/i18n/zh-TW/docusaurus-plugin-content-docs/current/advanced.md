@@ -339,7 +339,12 @@ OpenAI 的「temperature」參數用於調節語言模型輸出文本的隨機�
 
 ### 自定義專業術語的翻譯
 
-由於某些翻譯引擎對專有名詞識別不理想，我們可以自定義專業術語確保它們在翻譯過程中不被轉換，或者按照我們設定的內容進行翻譯。如果希望不對某些專業術語進行翻譯，點選 [這裡](https://dash.immersivetranslate. com/#advanced) 新增對應單詞即可。如果希望將某些專業術語翻譯為指定的內容，可以透過在 [這裡](https://dash.immersivetranslate. com/#developer) - 【Edit Full User Config】輸入以下設定實現：  
+當前方案原理是透過讓翻譯服務保留佔位符實現，所以不一定能完全保證替換
+
+由於某些翻譯引擎對專有名詞識別不理想，我們可以自定義專業術語確保它們在翻譯過程中不被轉換，或者按照我們設定的內容進行翻譯。如果希望不對某些專業術語進行翻譯，點選 [這裡](https://dash.immersivetranslate. com/#advanced) 新增對應單詞即可。如果希望將某些專業術語翻譯為指定的內容，可以透過在 [這裡](https://dash.immersivetranslate. com/#developer)
+
+- 【Edit Full User Config】輸入以下設定實現：
+
 注意 glossaries 鍵值 是放到 generalRule 鍵值下面
 
 ```json
