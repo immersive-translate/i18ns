@@ -12,9 +12,19 @@ sidebar_position: 2
   src="https://s.immersivetranslate.com/assets/uploads/full-intro-zh-CN-rYaxVV.mp4"
 />
 
-## 图文说明
+## 视频教程(移动端)
 
-## 使用说明
+<video
+  controls
+  style={{
+    width: '100%',
+    maxWidth: 480,
+  }}
+  poster="https://s.immersivetranslate.com/assets/tutorial_for_mobile_250213.jpg"
+  src="https://s.immersivetranslate.com/assets/tutorial_for_mobile_250213.mp4"
+/>
+
+## 图文说明
 
 安装插件后，【右上角将沉浸式翻译浏览器图标置顶】，然后点击【沉浸式翻译扩展图标】，再点击翻译即可进行翻译：
 
