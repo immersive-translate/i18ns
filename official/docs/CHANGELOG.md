@@ -6,17 +6,23 @@ sidebar_position: 6
 
 此更新日志依据开发进度来更新，版本后的日期是代码合并日期，并不是应用商店的发布日期（各应用商店提审后的审核时间各异，个别应用商店审核时间可达一周），目前我们有 2 个版本推进。
 
-【**Release** 版本】为正式稳定版本，发布在
-[Chrome](https://chromewebstore.google.com/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)，
-[Edge](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)，
-[Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate/),
-[Apple](https://apps.apple.com/app/id6447957425) 等主流应用商店的都是这个版本。
+【**Release** 版本】为正式稳定版本，发布在[Chrome](https://chromewebstore.google.com/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)、[Edge](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)、[Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate/)、[Apple](https://apps.apple.com/app/id6447957425) 等主流应用商店的都是这个版本
 
 【**Preview** 版本】为预览版本，发布频率更高，包含一些实验性功能，相比 Release 版本会有更多的 Bug，主要发布在
 
 - [官网提供的油猴脚本](https://download.immersivetranslate.com/immersive-translate.user.js)
 - [Firefox 应用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
+
+## 1.14.9 Preview (2025-02-14)
+
+- 新增：Pro 会员支持 DeepSeek(v3) 翻译服务
+- 修复：解决用户配置文件大小超过限制的问题
+- 优化：右键菜单项可关闭（进阶设置中操作）
+- 优化：提升油猴和 Safari 对小语种页面的语言识别能力
+- 优化：在线设置页测试服务接口访问
+- 优化：上下文对比预览功能体验改进
+- 优化：触屏和鼠标模式的判断逻辑
 
 ## 1.14.8 Release (2025-02-10)
 

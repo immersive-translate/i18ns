@@ -8,8 +8,23 @@ sidebar_position: 2
 
 <video
   controls
+  muted
   poster="https://immersivetranslate.com/assets/price/video-poster-zh-Hans.png"
   src="https://s.immersivetranslate.com/assets/uploads/full-intro-zh-CN-rYaxVV.mp4"
+/>
+
+## 视频教程 (移动端)
+
+=======
+<video
+controls
+style={{
+    width: '100%',
+    maxWidth: 480,
+  }}
+muted
+poster="https://s.immersivetranslate.com/assets/tutorial_for_mobile_250213.jpg"
+src="https://s.immersivetranslate.com/assets/tutorial_for_mobile_250213.mp4"
 />
 
 ## 图文说明
