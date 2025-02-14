@@ -14,6 +14,16 @@ sidebar_position: 6
 - [Firefox 應用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.14.9 Preview (2025-02-14)
+
+- 新增：Pro 會員支援 DeepSeek(v3) 翻譯服務
+- 修復：解決使用者配置檔案大小超過限制的問題
+- 優化：右鍵選單項可關閉（進階設定中操作）
+- 優化：提升油猴和 Safari 對小語種頁面的語言識別能力
+- 優化：線上設定頁測試服務介面訪問
+- 優化：上下文對比預覽功能體驗改進
+- 優化：觸控和滑鼠模式的判斷邏輯
+
 ## 1.14.8 Release (2025-02-10)
 
 - 修復：PDF-Pro 長文件不自動翻譯的問題。

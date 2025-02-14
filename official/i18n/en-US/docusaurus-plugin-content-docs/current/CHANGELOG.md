@@ -18,6 +18,16 @@ The **Preview version** is published more frequently and includes some experimen
 - [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.14.9 Preview (2025-02-14)
+
+- New: Pro membership supports DeepSeek (v3) translation service
+- Fix: Resolved issue of user configuration file exceeding size limit
+- Optimization: Right-click menu item can be closed (operated in advanced settings)
+- Optimization: Improved language recognition capabilities for Greasemonkey and Safari on pages with minor languages
+- Optimization: Online settings page test service interface access
+- Optimization: Enhanced user experience of context comparison preview feature
+- Optimization: Touch and mouse mode judgment logic
+
 ## 1.14.8 Release (2025-02-10)
 
 - Fixed: Issue where PDF-Pro long files were not automatically translated.
