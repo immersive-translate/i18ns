@@ -1,0 +1,13 @@
+---
+sidebar_position: 6
+---
+
+# Traduction de manga (Bêta)
+
+![manga translate](https://s.immersivetranslate.com/static/extension/images/popup-manga-guide.png)
+
+La fonction de traduction de manga n'est disponible que pour les [membres Pro](https://immersivetranslate.com/auth/pricing/?utm_source=officialSite&utm_medium=usageDoc&utm_campaign=usageDocManga). Les utilisateurs Pro peuvent personnaliser les fonctionnalités dans [Paramètres] -> [Bandes dessinées/Images].
+
+Mode d'emploi : Sur les sites de manga pris en charge, un bouton de traduction de manga apparaîtra sous la bulle flottante de traduction rapide de la page web, cliquez dessus pour commencer la traduction du manga. Actuellement, la traduction de manga est prise en charge sur les sites suivants : [Pixiv](https://www.pixiv.net/manga), [MANGA Plus by SHUEISHA](https://mangaplus.shueisha.co.jp), [Zebrack by SHUEISHA](https://zebrack-comic.shueisha.co.jp/), [ReadComicOnline](https://readcomiconline.li), [ReadComic](https://readcomic.me), [COMIC FUZ](https://comic-fuz.com/), [MangaDex](https://mangadex.org/), [Yamibo](https://www.yamibo.com/site/manga), [ShonenJumpPlus](https://shonenjumpplus.com), [Heros Web](https://viewer.heros-web.com/), [Comic Days](https://comic-days.com/), [Comic Top](https://comic-top.com), [ComicWalker](https://comic-walker.com/), [Web Ace](https://web-ace.jp/), [MANGABUDDY](https://mangabuddy.com/), [E-Hentai](https://e-hentai.org/), [nHentai](https://nhentai.net), [Antbyw](https://www.antbyw.com), [DMZJsee](https://www.idmzj.com), [Jmanga](https://jmanga.org), [Twitter Comic](https://twicomi.com/manga*), [Wnacg](https://wnacg.com), [MangaZ](https://vw.mangaz.com), [PASH UP](https://pash-up.jp), [COLAMANGA](https://www.colamanga.com), [GANGAN ONLINE](https://www.ganganonline.com), [BATOTO](https://battwo.com), [Asura Scans](https://asuracomic.net), [All Manga](https://allmanga.to), [Manhwaclan](https://manhwaclan.com), [CoroCoro](https://www.corocoro.jp), [Yymanhua](https://yymanhua.com), [Manhwatop](https://manhwatop.com), [Palcy](https://palcy.jp/), [Comic-Trail](https://comic-trail.com/), [Mangaflame](https://mangaflame.org/), [Templetoons](https://templetoons.com/), [Batocomic](https://batocomic.net/), [Comic-action](https://comic-action.com/), [Tencent Comics](https://m.ac.qq.com/), [Mangajikan](https://www.mangajikan.com/), [komiku](https://Komiku.com/), [KL](https://klz9.com), [Mangakoinu](https://www.mangakoinu.com/), [Sololevelingmangafree](https://www.sololevelingmangafree.com/)
+
+[Demander la prise en charge de sites supplémentaires ou signaler un problème](https://github.com/immersive-translate/immersive-translate/issues/1809)

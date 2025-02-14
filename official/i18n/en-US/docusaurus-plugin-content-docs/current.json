@@ -4,19 +4,34 @@
     "description": "The label for version current"
   },
   "sidebar.docs.category.pdfHelper": {
-    "message": "PDF Help",
-    "description": "The label for category PDF 帮助 in sidebar docs"
+    "message": "PDF Helper",
+    "description": "The label for category PDF Helper in sidebar docs"
   },
   "sidebar.docs.category.translateServiceAPIApply": {
-    "message": "Translation Services API Request",
-    "description": "The label for category 翻译服务 API 申请 in sidebar docs"
+    "message": "Translation Service API",
+    "description": "The label for category Translation Service API Application in sidebar docs"
+  },
+  "sidebar.docs.category.features": {
+    "message": "Features"
+  },
+  "sidebar.docs.category.developers": {
+    "message": "Developer Resources"
+  },
+  "sidebar.docs.category.faqs": {
+    "message": "FAQs"
+  },
+  "sidebar.docs.category.resources": {
+    "message": "Related Resources"
+  },
+  "sidebar.docs.category.communities": {
+    "message": "Community Support"
   },
   "sidebar.docs.doc.changelog": {
-    "message": "Update Log",
-    "description": "The label for the doc item 更新日志 in sidebar docs, linking to the doc CHANGELOG"
+    "message": "Changelog",
+    "description": "The label for the doc item Changelog in sidebar docs, linking to the doc CHANGELOG"
   },
   "sidebar.docs.doc.recommend": {
     "message": "Editor's Picks",
-    "description": "The label for the doc item 编辑推荐 in sidebar docs"
+    "description": "The label for the doc item Editor's Picks in sidebar docs"
   }
 }
