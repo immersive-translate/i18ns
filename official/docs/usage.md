@@ -13,7 +13,7 @@ sidebar_position: 2
   src="https://s.immersivetranslate.com/assets/uploads/full-intro-zh-CN-rYaxVV.mp4"
 />
 
-## 视频教程(移动端)
+## 视频教程 (移动端)
 
 <video
 controls
