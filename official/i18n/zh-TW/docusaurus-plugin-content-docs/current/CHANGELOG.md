@@ -5,8 +5,7 @@ sidebar_position: 6
 # 更新日誌
 
 此更新日誌依據開發進度來更新，版本後的日期是程式碼合併日期，並不是應用商店的發佈日期（各應用商店提交後的審核時間各異，個別應用商店審核時間可達一週）。目前我們有 2 個版本推進。
-
-【**Release** 版本】為正式穩定版本，發佈在 [Chrome](https://chromewebstore.google.com/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)，[Edge](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)，[Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate/)，[Apple](https://apps.apple.com/app/id6447957425) 等主流應用商店的都是這個版本。
+【**Release** 版本】為正式穩定版本，發佈在 [Chrome](https://chromewebstore.google.com/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)、[Edge](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)、[Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate/)、[Apple](https://apps.apple.com/app/id6447957425) 等主流應用商店的都是這個版本。
 
 【**Preview** 版本】為預覽版本，發佈頻率更高，包含一些實驗性功能，相比 Release 版本會有更多的 Bug，主要發佈在
 
