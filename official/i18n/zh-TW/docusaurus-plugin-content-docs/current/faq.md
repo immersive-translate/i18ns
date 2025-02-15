@@ -218,7 +218,7 @@ Android：
 
 ### 23. 滑鼠模式下確顯示觸摸模式
 
-在[進階設定](https://immersivetranslate.com/docs/advanced)中，開啟僅滑鼠模式即可。1.14.9 版本將優化這個模式判斷
+在[進階設定](https://dash.immersivetranslate.com/#advanced)中，開啟僅滑鼠模式即可。1.14.9 版本將優化這個模式判斷
 
 ## 影片翻譯相關
 
