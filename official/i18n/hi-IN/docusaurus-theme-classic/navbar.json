@@ -74,5 +74,8 @@
   "item.label.getMembership": {
     "message": "सीमित समय के लिए कॉमिक मेंबरशिप प्राप्त करें",
     "description": "Navbar item with label 限时领取漫画会员"
+  },
+  "item.visible.blog": {
+    "message": "सच"
   }
 }

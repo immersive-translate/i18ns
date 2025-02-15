@@ -14,5 +14,24 @@
   "sidebar.docs.doc.changelog": {
     "message": "تغيير السجل",
     "description": "The label for the doc item 更新日志 in sidebar docs, linking to the doc CHANGELOG"
+  },
+  "sidebar.docs.category.features": {
+    "message": "الميزات"
+  },
+  "sidebar.docs.category.developers": {
+    "message": "موارد المطورين"
+  },
+  "sidebar.docs.category.faqs": {
+    "message": "الأسئلة الشائعة"
+  },
+  "sidebar.docs.category.resources": {
+    "message": "الموارد ذات الصلة"
+  },
+  "sidebar.docs.category.communities": {
+    "message": "دعم المجتمع"
+  },
+  "sidebar.docs.doc.recommend": {
+    "message": "اختيارات المحرر",
+    "description": "The label for the doc item 编辑推荐 in sidebar docs"
   }
 }

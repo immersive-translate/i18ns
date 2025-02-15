@@ -70,5 +70,12 @@
   "item.label.Manga": {
     "message": "Tradução de Mangás",
     "description": "Item da barra de navegação com o rótulo 'Tradução de Mangás'"
+  },
+  "item.label.getMembership": {
+    "message": "Reivindique sua assinatura de quadrinhos por tempo limitado",
+    "description": "Navbar item with label 限时领取漫画会员"
+  },
+  "item.visible.blog": {
+    "message": "verdadeiro"
   }
 }

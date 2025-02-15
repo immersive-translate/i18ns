@@ -74,5 +74,8 @@
   "item.label.getMembership": {
     "message": "Recibe la membresía de cómics por tiempo limitado.",
     "description": "Navbar item with label 限时领取漫画会员"
+  },
+  "item.visible.blog": {
+    "message": "verdadero"
   }
 }

@@ -14,5 +14,24 @@
   "sidebar.docs.doc.changelog": {
     "message": "Журнал обновлений",
     "description": "The label for the doc item 更新日志 in sidebar docs, linking to the doc CHANGELOG"
+  },
+  "sidebar.docs.category.features": {
+    "message": "Особенности"
+  },
+  "sidebar.docs.category.developers": {
+    "message": "Разработчик Ресурсы"
+  },
+  "sidebar.docs.category.faqs": {
+    "message": "Часто задаваемые вопросы"
+  },
+  "sidebar.docs.category.resources": {
+    "message": "Связанные ресурсы"
+  },
+  "sidebar.docs.category.communities": {
+    "message": "Общественная поддержка"
+  },
+  "sidebar.docs.doc.recommend": {
+    "message": "Редакторский выбор",
+    "description": "The label for the doc item 编辑推荐 in sidebar docs"
   }
 }

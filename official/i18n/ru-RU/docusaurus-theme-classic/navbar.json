@@ -70,5 +70,12 @@
   "item.label.Manga": {
     "message": "комикс перевод",
     "description": "Navbar item with label 漫画翻译"
+  },
+  "item.label.getMembership": {
+    "message": "Заявите о своем членстве в комикс-клубе, предложение ограничено временем",
+    "description": "Navbar item with label 限时领取漫画会员"
+  },
+  "item.visible.blog": {
+    "message": "истинный"
   }
 }

@@ -14,5 +14,24 @@
   "sidebar.docs.doc.changelog": {
     "message": "Registo de atualização",
     "description": "The label for the doc item 更新日志 in sidebar docs, linking to the doc CHANGELOG"
+  },
+  "sidebar.docs.category.features": {
+    "message": "Características"
+  },
+  "sidebar.docs.category.developers": {
+    "message": "Recursos para Desenvolvedores"
+  },
+  "sidebar.docs.category.faqs": {
+    "message": "Perguntas Frequentes"
+  },
+  "sidebar.docs.category.resources": {
+    "message": "Recursos Relacionados"
+  },
+  "sidebar.docs.category.communities": {
+    "message": "Apoio Comunitário"
+  },
+  "sidebar.docs.doc.recommend": {
+    "message": "Escolhas do Editor",
+    "description": "The label for the doc item 编辑推荐 in sidebar docs"
   }
 }

@@ -74,5 +74,8 @@
   "item.label.getMembership": {
     "message": "한정 시간 만화 회원 가입",
     "description": "Navbar item with label 限时领取漫画会员"
+  },
+  "item.visible.blog": {
+    "message": "진실"
   }
 }

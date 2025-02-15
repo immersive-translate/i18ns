@@ -14,5 +14,24 @@
   "sidebar.docs.doc.changelog": {
     "message": "更新ログ",
     "description": "The label for the doc item 更新日志 in sidebar docs, linking to the doc CHANGELOG"
+  },
+  "sidebar.docs.category.features": {
+    "message": "特徴"
+  },
+  "sidebar.docs.category.developers": {
+    "message": "開発者リソース"
+  },
+  "sidebar.docs.category.faqs": {
+    "message": "よくある質問"
+  },
+  "sidebar.docs.category.resources": {
+    "message": "関連リソース"
+  },
+  "sidebar.docs.category.communities": {
+    "message": "コミュニティサポート"
+  },
+  "sidebar.docs.doc.recommend": {
+    "message": "編集者のおすすめ",
+    "description": "The label for the doc item 编辑推荐 in sidebar docs"
   }
 }

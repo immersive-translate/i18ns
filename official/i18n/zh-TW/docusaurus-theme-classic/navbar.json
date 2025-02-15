@@ -73,5 +73,8 @@
   "item.label.getMembership": {
     "message": "限時領取漫畫會員",
     "description": "Navbar item with label 限时领取漫画会员"
+  },
+  "item.visible.blog": {
+    "message": "真实"
   }
 }

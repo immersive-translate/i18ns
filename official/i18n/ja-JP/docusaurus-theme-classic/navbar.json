@@ -74,5 +74,8 @@
   "item.label.getMembership": {
     "message": "期間限定で漫画会員を受け取る",
     "description": "Navbar item with label 限时领取漫画会员"
+  },
+  "item.visible.blog": {
+    "message": "真実"
   }
 }

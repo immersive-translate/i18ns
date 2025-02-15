@@ -14,5 +14,24 @@
   "sidebar.docs.doc.changelog": {
     "message": "लॉग बदलें",
     "description": "The label for the doc item 更新日志 in sidebar docs, linking to the doc CHANGELOG"
+  },
+  "sidebar.docs.category.features": {
+    "message": "विशेषताएँ"
+  },
+  "sidebar.docs.category.developers": {
+    "message": "डेवलपर संसाधन"
+  },
+  "sidebar.docs.category.faqs": {
+    "message": "सामान्य प्रश्न"
+  },
+  "sidebar.docs.category.resources": {
+    "message": "संबंधित संसाधन"
+  },
+  "sidebar.docs.category.communities": {
+    "message": "सामुदायिक सहायता"
+  },
+  "sidebar.docs.doc.recommend": {
+    "message": "संपादक की पसंद",
+    "description": "The label for the doc item 编辑推荐 in sidebar docs"
   }
 }
