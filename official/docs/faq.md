@@ -218,7 +218,7 @@ Android：
 
 ### 23. 鼠标模式下确显示触摸模式
 
-在[进阶设置](https://immersivetranslate.com/docs/advanced)中，开启仅鼠标模式即可。 1.14.9 版本将优化这个模式判断
+在[进阶设置](https://immersivetranslate.com/docs/advanced)中，开启仅鼠标模式即可。1.14.9 版本将优化这个模式判断
 
 ## 视频翻译相关
 
@@ -327,7 +327,7 @@ YouTube 自带机翻字幕，繁体中文会出现格式错误，导致所有字
 
 ### Edge 浏览器插件打开空白，且浏览器报错 MANIFEST-000001
 
-电脑全局上搜下 amkbmndfnliijdhojkpoglbnaaahippg 沉浸式的扩展id 浏览器的存储文件夹，删除之后，然后再去重试卸载重装
+打开【[文件快速查找应用 (Everything)](https://www.voidtools.com/zh-cn/downloads/)】应用，搜索 `amkbmndfnliijdhojkpoglbnaaahippg` 沉浸式的扩展 id 浏览器的存储文件夹，删除之后，然后再去卸载重装插件
 
 ### 双语字幕如何下载 / 其他网站双语字幕能否下载？
 

@@ -327,7 +327,7 @@ YouTube 內建機翻字幕，繁體中文會出現格式錯誤，導致所有字
 
 ### Edge 瀏覽器插件打開空白，且瀏覽器報錯 MANIFEST-000001
 
-電腦全局上搜下 amkbmndfnliijdhojkpoglbnaaahippg 沉浸式的擴充套件 id 瀏覽器的儲存文件夾，刪除之後，然後再重試卸載重裝
+開啟【[檔案快速查找應用程式 (Everything)](https://www.voidtools.com/zh-cn/downloads/)】應用程式，搜尋 `amkbmndfnliijdhojkpoglbnaaahippg` 沉浸式的擴充套件 id 瀏覽器的儲存資料夾，刪除之後，然後再去解除安裝重新安裝外掛
 
 ### 雙語字幕如何下載 / 其他網站雙語字幕能否下載？
 
