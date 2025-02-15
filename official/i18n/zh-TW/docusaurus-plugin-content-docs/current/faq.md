@@ -212,13 +212,13 @@ Android：
 
 - 用量查詢地址： [https://immersivetranslate.com/accounts/usage](https://immersivetranslate.com/accounts/usage)
 
-### 22. 各 AI 翻譯是否共用額度
+### 22. 為什麼插件谷歌翻譯質量不如谷歌網頁翻譯
 
-是的，Openai，Gemini，Claude 以及 DeepL 相當於 共用 2000w token 限額。
+因為插件調用的谷歌免費 API，是谷歌不會持續維護的舊 API，而谷歌官方網頁的翻譯是在持續維護。理論上質量是不如谷歌官方的，且最近谷歌免費 API 的翻譯質量下降嚴重，建議切換到其他翻譯服務，我們也在積極尋找其他替代方案。相關討論：[#2574](https://github.com/immersivetranslate/immersive-translate/issues/2547)
 
-### 23. 為什麼插件谷歌翻譯質量不如谷歌網頁翻譯
+### 23. 滑鼠模式下確顯示觸摸模式
 
-因為插件調用的谷歌免費 API，是谷歌不會持續維護的舊 API，而谷歌官方網頁的翻譯是在持續維護。理論上質量是不如谷歌官方的，且最近谷歌免費 API 的翻譯質量下降嚴重，建議切換到其他翻譯服務，我們也在積極尋找其他替代方案。
+在[進階設定](https://immersivetranslate.com/docs/advanced)中，開啟僅滑鼠模式即可。1.14.9 版本將優化這個模式判斷
 
 ## 影片翻譯相關
 
@@ -325,9 +325,9 @@ YouTube 內建機翻字幕，繁體中文會出現格式錯誤，導致所有字
 
 油猴腳本要求腳本的所有請求都需要在腳本的開頭宣告權限，比如：`@connect api.google.com`，所以，如果你需要新增一個非預設的域名，請在油猴腳本開頭仿照其他域名進行宣告。
 
-### 瀏覽器報錯“create menu error Error: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)”？
+### Edge 瀏覽器插件打開空白，且瀏覽器報錯 MANIFEST-000001
 
-這個錯誤通常與瀏覽器本身的快取或本機儲存有關，具體是在建立或存取文件 `MANIFEST-000001` 時發生的。在確保磁碟充足的情況下，您可以透過重灌瀏覽器解決該問題。
+電腦全局上搜下 amkbmndfnliijdhojkpoglbnaaahippg 沉浸式的擴充套件 id 瀏覽器的儲存文件夾，刪除之後，然後再重試卸載重裝
 
 ### 雙語字幕如何下載 / 其他網站雙語字幕能否下載？
 

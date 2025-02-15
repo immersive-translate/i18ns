@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# 一般使用问题
+# 常见问题
 
 ## 安全相关
 
@@ -112,9 +112,9 @@ Android：
 - 第三方插件页面
 - 谷歌插件禁止了谷歌商店页面
 
-### 6. 如何不显示原文/仅显示译文
+### 6. 如何不显示原文
 
-点击沉浸式翻译图标，打开扩展面板，在翻译按钮左边，切换仅译文和双语对照模式。
+点击沉浸式翻译图标，打开扩展面板，点击【更多】，【切换到仅译文模式】。
 
 ### 7. 页面出现感叹号
 
@@ -212,13 +212,13 @@ Android：
 
 - 用量查询地址： [https://immersivetranslate.com/accounts/usage](https://immersivetranslate.com/accounts/usage)
 
-### 22. 各 AI 翻译是否共用额度
+### 22. 为什么插件谷歌翻译质量不如谷歌网页翻译
 
-是的，Openai，Gemini，Claude 以及 DeepL 相当于 共用 2000w token 限额。
+因为插件调用的谷歌免费 API，是谷歌不会持续维护的旧 API，而谷歌官方网页的翻译是在持续维护。理论上质量是不如谷歌官方的，且最近谷歌免费 API 的翻译质量下降严重，建议切换到其他翻译服务，我们也在积极寻找其他替代方案。相关讨论：[#2574](https://github.com/immersive-translate/immersive-translate/issues/2547)
 
-### 23. 为什么插件谷歌翻译质量不如谷歌网页翻译
+### 23. 鼠标模式下确显示触摸模式
 
-因为插件调用的谷歌免费 API，是谷歌不会持续维护的旧 API，而谷歌官方网页的翻译是在持续维护。理论上质量是不如谷歌官方的，且最近谷歌免费 API 的翻译质量下降严重，建议切换到其他翻译服务，我们也在积极寻找其他替代方案。
+在[进阶设置](https://immersivetranslate.com/docs/advanced)中，开启仅鼠标模式即可。 1.14.9 版本将优化这个模式判断
 
 ## 视频翻译相关
 
@@ -325,9 +325,9 @@ YouTube 自带机翻字幕，繁体中文会出现格式错误，导致所有字
 
 油猴脚本要求脚本的所有请求都需要在脚本的开头声明权限，比如：`@connect api.google.com`，所以，如果你需要新增一个非默认的域名，请在油猴脚本开头仿照其他域名进行声明。
 
-### 浏览器报错“create menu error Error: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)”？
+### Edge 浏览器插件打开空白，且浏览器报错 MANIFEST-000001
 
-这个错误通常与浏览器本身的缓存或本地存储有关，具体是在创建或访问文件 `MANIFEST-000001` 时发生的。在确保磁盘充足的情况下，您可以通过重装浏览器解决该问题。
+电脑全局上搜下 amkbmndfnliijdhojkpoglbnaaahippg 沉浸式的扩展id 浏览器的存储文件夹，删除之后，然后再去重试卸载重装
 
 ### 双语字幕如何下载 / 其他网站双语字幕能否下载？
 
