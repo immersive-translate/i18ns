@@ -18,7 +18,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.14.9 Preview (2025-02-14)
+## 1.14.10 Release (2025-02-17)
 
 - New: Pro membership supports DeepSeek (v3) translation service
 - Fix: Resolved issue of user configuration file exceeding size limit

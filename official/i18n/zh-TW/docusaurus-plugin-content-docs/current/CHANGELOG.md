@@ -13,7 +13,7 @@ sidebar_position: 6
 - [Firefox 應用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.14.9 Preview (2025-02-14)
+## 1.14.10 Release (2025-02-17)
 
 - 新增：Pro 會員支援 DeepSeek(v3) 翻譯服務
 - 修復：解決使用者配置檔案大小超過限制的問題
