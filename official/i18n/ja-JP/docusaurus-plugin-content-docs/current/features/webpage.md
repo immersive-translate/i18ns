@@ -46,7 +46,7 @@ sidebar_position: 1
 
 イマーシブ翻訳アイコンをクリックし、拡張機能パネルを開き、翻訳ボタンの左側のボタンを使用して翻訳文のみモードとバイリンガル対照モードを切り替えます。
 
-以上がウェブページ翻訳の主な操作です。質問がある場合は、以下のQRコードをスキャンして公式WeChat グループに参加し、直接お問い合わせください：
+以上がウェブページ翻訳の主な操作です。質問がある場合は、以下の QR コードをスキャンして公式 WeChat グループに参加し、直接お問い合わせください：
 
 <div align="center">
 <img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />

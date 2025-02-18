@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # PDF ファイルの翻訳
 
-イマーシブ翻訳の PDF バイリンガル翻訳には2つのバージョンがあります：[無料版](https://app.immersivetranslate.com/file/) と [PDF Pro](https://app.immersivetranslate.com/pdf-pro/)。無料版は標準的な PDF 文書（スキャン版以外）のみに対応していますが、 PDF Pro はより複雑な PDF 文書に対応しており、スキャン版、数式認識、段落ごとのバイリンガル対照機能を備えています。複数列のコンテンツは自動的に単一列に再配置されます。
+イマーシブ翻訳の PDF バイリンガル翻訳には 2 つのバージョンがあります：[無料版](https://app.immersivetranslate.com/file/) と [PDF Pro](https://app.immersivetranslate.com/pdf-pro/)。無料版は標準的な PDF 文書（スキャン版以外）のみに対応していますが、PDF Pro はより複雑な PDF 文書に対応しており、スキャン版、数式認識、段落ごとのバイリンガル対照機能を備えています。複数列のコンテンツは自動的に単一列に再配置されます。
 
 ## 無料版 PDF 翻訳
 
