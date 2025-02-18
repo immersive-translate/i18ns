@@ -13,7 +13,7 @@ sidebar_position: 6
 - [Firefox 應用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.14.11 版本更新 (2025-02-18)
+## 1.14.11 Release (2025-02-18)
 
 - 修復：DeepSeek 自訂 API Key `401: Authentication Fails` 錯誤
 
