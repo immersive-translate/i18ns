@@ -18,6 +18,13 @@ The **Preview version** is published more frequently and includes some experimen
 - [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.14.12 Preview (2025-02-19)
+
+- Optimization: Pause translation immediately clears the request queue
+- Optimization: Filters dirty text in deepl translation service
+- Fix: Invalid sidebar translation in advanced settings
+- Fix: Custom deepseek translation display issue
+
 ## 1.14.11 Release (2025-02-18)
 
 - Fix: DeepSeek custom API Key `401: Authentication Fails` error

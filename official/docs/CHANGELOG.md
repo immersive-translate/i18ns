@@ -14,6 +14,13 @@ sidebar_position: 6
 - [Firefox 应用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.14.12 Preview (2025-02-19)
+
+- 优化：暂停翻译立即清空请求队列
+- 优化：过滤 deepl 翻译服务中出现的脏文本
+- 修复：进阶设置中的侧边栏翻译无效
+- 修复：自定义 deepseek 译文显示问题
+
 ## 1.14.11 Release (2025-02-18)
 
 - 修复：DeepSeek 自定义 API Key `401: Authentication Fails` 错误
