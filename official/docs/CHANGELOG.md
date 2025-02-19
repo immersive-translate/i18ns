@@ -14,7 +14,7 @@ sidebar_position: 6
 - [Firefox 应用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.14.12 Preview (2025-02-19)
+## 1.14.12 Release (2025-02-19)
 
 - 优化：暂停翻译立即清空请求队列
 - 优化：过滤 deepl 翻译服务中出现的脏文本
