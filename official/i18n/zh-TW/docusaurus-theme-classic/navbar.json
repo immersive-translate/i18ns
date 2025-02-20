@@ -76,5 +76,9 @@
   },
   "item.visible.blog": {
     "message": "真实"
+  },
+  "item.label.exchange": {
+    "message": "使用兌換碼",
+    "description": "Navbar item with label 使用兑换码"
   }
 }

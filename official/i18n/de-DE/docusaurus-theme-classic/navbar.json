@@ -77,5 +77,9 @@
   },
   "item.visible.blog": {
     "message": "wahr"
+  },
+  "item.label.exchange": {
+    "message": "Verwenden Sie den Einlösungscode",
+    "description": "Navbar item with label 使用兑换码"
   }
 }
