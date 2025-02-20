@@ -5,7 +5,7 @@ custom_edit_url: null
 
 # Terms and Conditions
 
-Last updated: August 05, 2024
+Last updated: February 19, 2025
 
 Please read these terms and conditions carefully before using Our Service.
 
