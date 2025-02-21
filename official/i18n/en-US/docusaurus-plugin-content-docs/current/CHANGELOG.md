@@ -22,7 +22,6 @@ The **Preview version** is published more frequently and includes some experimen
 
 - Added: Deepseek,Gemini,Cluade support context switch.
 - Fixed: Update terms do not send new translation request.
-- Improved: Text language detection.
 - Improved: Interface language adds Hungarian.
 - Improved: Google translation quality.
 - Improved: Free image formatting.
