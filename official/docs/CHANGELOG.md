@@ -14,26 +14,35 @@ sidebar_position: 6
 - [Firefox 应用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.14.13 Preview (2025-02-21)
+
+- 新增：Deepseek,Gemini,Cluade 支持上下文开关。
+- 修复：更新术语时不发送新翻译请求。
+- 优化：文本的语言检测。
+- 优化：界面语言新增匈牙利语。
+- 优化：谷歌翻译质量。
+- 优化：免费图片排版。
+
 ## 1.14.12 Release (2025-02-19)
 
-- 优化：暂停翻译立即清空请求队列
-- 优化：过滤 deepl 翻译服务中出现的脏文本
-- 修复：进阶设置中的侧边栏翻译无效
-- 修复：自定义 deepseek 译文显示问题
+- 优化：暂停翻译立即清空请求队列。
+- 优化：过滤 deepl 翻译服务中出现的脏文本。
+- 修复：进阶设置中的侧边栏翻译无效。
+- 修复：自定义 deepseek 译文显示问题。
 
 ## 1.14.11 Release (2025-02-18)
 
-- 修复：DeepSeek 自定义 API Key `401: Authentication Fails` 错误
+- 修复：DeepSeek 自定义 API Key `401: Authentication Fails` 错误。
 
 ## 1.14.10 Release (2025-02-17)
 
-- 新增：Pro 会员支持 DeepSeek(v3) 翻译服务
-- 修复：解决用户配置文件大小超过限制的问题
-- 优化：右键菜单项可关闭（进阶设置中操作）
-- 优化：提升油猴和 Safari 对小语种页面的语言识别能力
-- 优化：在线设置页测试服务接口访问
-- 优化：上下文对比预览功能体验改进
-- 优化：触屏和鼠标模式的判断逻辑
+- 新增：Pro 会员支持 DeepSeek(v3) 翻译服务。
+- 修复：解决用户配置文件大小超过限制的问题。
+- 优化：右键菜单项可关闭（进阶设置中操作）。
+- 优化：提升油猴和 Safari 对小语种页面的语言识别能力。
+- 优化：在线设置页测试服务接口访问。
+- 优化：上下文对比预览功能体验改进。
+- 优化：触屏和鼠标模式的判断逻辑。
 
 ## 1.14.8 Release (2025-02-10)
 

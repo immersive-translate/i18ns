@@ -18,26 +18,35 @@ The **Preview version** is published more frequently and includes some experimen
 - [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.14.13 Preview (2025-02-21)
+
+- Added: Deepseek,Gemini,Cluade support context switch.
+- Fixed: Update terms do not send new translation request.
+- Improved: Text language detection.
+- Improved: Interface language adds Hungarian.
+- Improved: Google translation quality.
+- Improved: Free image formatting.
+
 ## 1.14.12 Release (2025-02-19)
 
-- Optimization: Pause translation immediately clears the request queue
-- Optimization: Filters dirty text in deepl translation service
-- Fix: Invalid sidebar translation in advanced settings
-- Fix: Custom deepseek translation display issue
+- Improved: Pause translation immediately clears the request queue.
+- Improved: Filters dirty text in deepl translation service.
+- Fix: Invalid sidebar translation in advanced settings.
+- Fix: Custom deepseek translation display issue.
 
 ## 1.14.11 Release (2025-02-18)
 
-- Fix: DeepSeek custom API Key `401: Authentication Fails` error
+- Fix: DeepSeek custom API Key `401: Authentication Fails` error.
 
 ## 1.14.10 Release (2025-02-17)
 
-- New: Pro membership supports DeepSeek (v3) translation service
-- Fix: Resolved issue of user configuration file exceeding size limit
-- Optimization: Right-click menu item can be closed (operated in advanced settings)
-- Optimization: Improved language recognition capabilities for Greasemonkey and Safari on pages with minor languages
-- Optimization: Online settings page test service interface access
-- Optimization: Enhanced user experience of context comparison preview feature
-- Optimization: Touch and mouse mode judgment logic
+- New: Pro membership supports DeepSeek (v3) translation service.
+- Fix: Resolved issue of user configuration file exceeding size limit.
+- Improved: Right-click menu item can be closed (operated in advanced settings).
+- Improved: Improved language recognition capabilities for Greasemonkey and Safari on pages with minor languages.
+- Improved: Online settings page test service interface access.
+- Improved: Enhanced user experience of context comparison preview feature.
+- Improved: Touch and mouse mode judgment logic.
 
 ## 1.14.8 Release (2025-02-10)
 
