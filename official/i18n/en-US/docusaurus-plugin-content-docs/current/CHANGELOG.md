@@ -18,7 +18,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.14.13 Preview (2025-02-21)
+## 1.14.14 Preview (2025-02-21)
 
 - Added: Deepseek,Gemini,Cluade support context switch.
 - Fixed: Update terms do not send new translation request.

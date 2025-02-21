@@ -14,7 +14,7 @@ sidebar_position: 6
 - [Firefox 应用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.14.13 Preview (2025-02-21)
+## 1.14.14 Preview (2025-02-21)
 
 - 新增：Deepseek,Gemini,Cluade 支持上下文开关。
 - 修复：更新术语时不发送新翻译请求。
