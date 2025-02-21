@@ -30,7 +30,7 @@ sidebar_position: 6
 
 ## 1.14.11 Release (2025-02-18)
 
-- 修復： DeepSeek 自訂 API Key `401: Authentication Fails` 錯誤。
+- 修復：DeepSeek 自訂 API Key `401: Authentication Fails` 錯誤。
 
 ## 1.14.10 Release (2025-02-17)
 
