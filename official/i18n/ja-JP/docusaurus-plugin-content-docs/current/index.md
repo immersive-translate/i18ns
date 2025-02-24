@@ -1,178 +1,122 @@
 ---
 sidebar_position: 1
-title: 紹介
+title: イントロダクション
 ---
 
-**無料で、使いやすく、無駄がなく、革命的で、高く評価されている、AI 駆動のバイリンガル Web ページ翻訳拡張機能**です。情報格差を効果的に解消し、携帯電話でも使用できます！
+**無料で、良質で、無駄のない、革命的で称賛されている、AI駆動のバイリンガルウェブページ翻訳拡張機能**が、情報のギャップを効果的に埋めるお手伝いをします。あなたのスマートフォンでも利用可能です！
 
 <video
-autoPlay
-loop
-muted
-plays-inline
-width="1200px"
-poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src="https://s.immersivetranslate.com/immersive-translate-intro-demo-2023-06-17.mp4" type="video/mp4"/>このビデオを見るには HTML5 ビデオをサポートするブラウザが必要です。</video>
+  controls
+  poster="https://immersivetranslate.com/assets/price/video-poster-en.png"
+  src="https://s.immersivetranslate.com/assets/uploads/en-kefVSe.mp4"
+/>
 
-## 主要特徴
+## 特徴
 
-- **外国語のウェブサイトを没入式で読む** ページの主要なコンテンツエリアをインテリジェントに識別し、二言語で対照的に翻訳することで、新しい外国語読書体験を提供します。これが「没入式翻訳」と呼ばれる理由です。
-- **ビデオの二言語字幕** 没入式は、YouTube、Netflix、TED、Coursera、Khan Academy など、50 以上の主要な海外ビデオサイトの二言語字幕翻訳をサポートします。
-- **強力な入力ボックス翻訳**、任意のウェブページ上の入力ボックスを多言語翻訳器に変え、Google 検索、ChatGPT などのツールで二言語のリアルタイム対話体験をすぐに解放します。
-- **効率的なファイル翻訳** ワンクリックで二言語の電子書籍をエクスポートし、PDF、字幕、TXT などのファイルのリアルタイム二言語翻訳をサポートします。
-- **革新的なマウスホバー翻訳** マウスをウェブページの任意の段落に留めるだけで、対応する翻訳がすぐに段落の下に表示されます。段落は没入式翻訳の設計理念において最小単位と見なされ、その文脈を保持します。これにより、外国語を真に理解し学ぶことができます。
-- **主要なウェブサイトの深いカスタマイズ最適化** Google、Twitter、Reddit、YouTube、ブルームバーグ、ウォールストリートジャーナルなどの主要なウェブサイトを対象に最適化を行い、検索、ソーシャルネットワーキング、情報取得がよりスムーズで効率的になります。
-- **全プラットフォームサポート** デスクトップブラウザだけでなく、モバイルデバイスでも同じ没入式翻訳体験を楽しめます。iOS Safari、Android Kiwi ブラウザなどのモバイルブラウザで、Twitter、Reddit などのソーシャルメディアを二言語で簡単に閲覧できます。
-- **10 種類以上の翻訳サービスをサポート** 没入式翻訳では、Deepl、OpenAI、Microsoft Translator、Google 翻訳、Tencent 翻訳など、10 種類以上の翻訳サービスから選択できます。このリストはまだ増え続けています。
+- **外国語ウェブサイトの没入型読書** ウェブページの主要なコンテンツエリアをインテリジェントに認識し、バイリンガルで翻訳することで、Immersive Translateは新しい外国語読書体験を提供します。そのため「Immersive Translate」と名付けられました。
+- **強力な入力ボックス翻訳機能** どのウェブページの入力ボックスも多言語翻訳機に変え、Google SearchやChatGPTなどとバイリンガルのリアルタイム会話を即座に解放します。
+- **効率的なドキュメント翻訳** ワンクリックでバイリンガルeBookをエクスポートし、PDF、字幕、TXTなどのドキュメントのリアルタイムバイリンガル翻訳をサポートします。
+- **革新的なホバリング翻訳** 任意のウェブページの任意の段落にマウスをホバーするだけで、対応する翻訳が段落の下に即座に表示されます。段落はImmersive Translateのデザインコンセプトにおける最小単位と見なされ、文脈を保持することで、外国語を真に理解し学ぶことができます。
+- **主流ウェブサイト向けに深くカスタマイズおよび最適化** Google、Twitter、Reddit、YouTube、Bloomberg、Wall Street Journalなどの主流ウェブサイト向けに最適化されており、検索、ソーシャル、情報取得がよりスムーズで効率的です。
+- **全プラットフォームサポート** 主要なデスクトップブラウザに加え、モバイルデバイスでも同じImmersive Translate体験を楽しめます。iOS Safari、Android Kiwi Browserなどのモバイルブラウザでのバイリンガルソーシャルメディア閲覧が可能です。
+- **10以上の翻訳サービスをサポート** Immersive Translateでは、Deepl、OpenAI、Microsoft Translate、Google Translate、Tencent Translateなど、10以上の翻訳サービスから選択でき、リストは増え続けています。
 
-[**今すぐインストール**](/docs/installation/)
+[**今すぐインストールをクリック**](/docs/installation/)
 
-この拡張機能は無料で使用できます。皆さんがインターネット上の豊富な外国語情報を簡単に、楽しく、エレガントに取得できるように、言語が障害とならないことを願っています ❤️
+この拡張機能は無料で使用でき、インターネット上の豊富な外国語情報に簡単に、楽しく、エレガントにアクセスできることを願っています。言語が障壁にならないようにしましょう ❤️
 
-以下の方法で私たちと連絡を取ることができます：
+私たちと連絡を取り続けるには：
 
-- [没入式翻訳のメール購読を通じて](https://immersivetranslate.substack.com/) 最新の更新と（特典）をタイムリーに入手してください。
-- [没入式翻訳の公式 Twitter をフォローする](https://twitter.com/immersivetran)
-- [Telegram チャンネルをフォローする](https://t.me/immersivetranslate) 最新情報を受け取る
-- [Telegram グループに参加する](https://t.me/+rq848Z09nehlOTgx) 機能の議論に参加する。
-- [問題をフィードバックする](https://github.com/immersive-translate/immersive-translate/issues/)
-- 下の QR コードをスキャンして、公式 WeChat グループに参加してください
+<!-- - [Subscribe to Immersive Translate by Email](https://immersivetranslate.substack.com/) Get the latest updates and (benefits) in a timely manner. -->
 
-<div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
-</div>
+- [Immersive Translateの公式Twitterフィードをフォロー](https://twitter.com/immersivetrans)
+  <!-- - [Follow the Telegram channel](https://t.me/immersivetranslate) Receive the latest news! -->
+  <!-- - [Join the Telegram group](https://t.me/+rq848Z09nehlOTgx) to participate in discussions about features. -->
+- [問題のフィードバック](https://github.com/immersive-translate/immersive-translate/issues/)
 
-## 目次
+## カタログ
 
-- [公式ウェブサイト](https://immersivetranslate.com/)
+- [公式ウェブサイト](https://immersivetranslate.com/en/?force=1)
 - [インストール](/docs/installation/)
-- [使用方法](/docs/usage/)
-- [翻訳サービスの申請](/docs/services/)
-- [高度なカスタマイズ設定](/docs/advanced/)
-- [更新履歴](/docs/CHANGELOG/)
+- [使い方](/docs/usage/)
+- [翻訳サービスのリクエスト](/docs/services/)
+- [高度なカスタム設定](/docs/advanced/)
+- [変更履歴](/docs/CHANGELOG/)
 - [オンラインドキュメント](/docs/)
 
-## 使用事例
+## ユースケース
 
-- [ユーザーの小張が沈没式翻訳を使用して 1 ヶ月後に起こった変化を知る](#%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AE%E5%B0%8F%E5%BC%B5%E3%81%AE%E6%95%85%E4%BA%8B)
-- [こちら](/docs/usecase/) をクリックして使用スクリーンショットを見る
-- [ここをクリック](/docs/review/) してユーザーの評価とメディアの報道を見る
-- [Youtube ビデオ紹介](https://www.youtube.com/watch?v=IZiwEtLGTk0)
+<!-- - [Learn about the changes that happened to user Xiao Zhang after a month of using Immersive Translate](#user-xiao-zhangs-story) -->
+
+- [こちらをクリック](/docs/usecase/) 使用のスクリーンショットを表示
+- [こちらをクリックして](/docs/review/) ユーザーレビューとメディア報道を確認
+- [YouTubeビデオ紹介](https://www.youtube.com/watch?v=SHznc5kQCM4&ab_channel=ImmersiveTranslate)
 
 ## インストール
 
 ### デスクトップブラウザ
 
-- マイクロソフト Edge ブラウザ： [Edge ストア没入型翻訳](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)
-- Google Chrome ブラウザ：[Chrome ストア没入型翻訳](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
-- Firefox ブラウザ：[Firefox アドオンストア没入型翻訳](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/)
+- Microsoft Edgeブラウザ: [Edge Store Immersive Translate](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)
+- Google Chrome: [Chrome Store Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
+- Firefox: [Firefox Addon Store Immersive Translate](https://addons.mozilla.org/firefox/addon/immersive-translate/)
 
-> Google の公式ストアにアクセスできない場合は、[最新の没入型翻訳 Chrome ブラウザの zip インストールパッケージ](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip) を直接ダウンロードしてください。ダウンロード後、まず一般的に使用するフォルダに解凍し、アドレスバーに `chrome://extensions` を入力して、拡張機能管理ウィンドウを開きます。その後、「デベロッパーモード」を有効にし、「解凍した拡張機能を読み込む」を選択して、解凍したばかりのフォルダを選択すると、正常にインストールできます。
+> 公式のGoogle Storeにアクセスできない場合は、[最新のImmersive Translate Chrome zipインストーラー](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip)を直接ダウンロードできます。ダウンロード後、通常使用するフォルダに解凍し、アドレスバーに`chrome://extensions`と入力して拡張機能管理ウィンドウを開き、「デベロッパーモード」を有効にし、「解凍済み拡張機能を読み込む」を選択し、解凍したフォルダを選択して読み込みます。
 
 ### Safari
 
-- [Apple App Store からインストールするにはこちらをクリック](https://apps.apple.com/app/immersive-translate/id6447957425) **期間限定無料!!!**
+- [こちらをクリックしてApple App Storeストアに移動しインストール](https://apps.apple.com/app/immersive-translate/id6447957425) \*\*期間限定で無料!!!! \*\*
 
 <div align="center">
 <img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="app store qrcode" />
 </div>
 
-> 説明：初回インストール後、Safari ブラウザ -> 拡張機能の管理 -> **沈没式翻訳拡張機能を有効にする** 必要があり、**すべてのウェブサイトに常にアクセスを許可する** 権限を付与する必要があります。疑問がある場合は、[ビデオチュートリアル](https://immersivetranslate.com/assets/safari-installation-intro.mp4) をご覧ください：
+> 説明: 初回インストール後、safariでImmersive Translate拡張機能を有効にする必要があります -> 拡張機能を管理 -> **Immersive Translate拡張機能を有効にする** そして **すべてのウェブサイトへの常時アクセスを許可** を付与します。質問がある場合は、[ビデオチュートリアル](https://s.immersivetranslate.com/videos/ios_safari_turorial_en.mp4)を確認できます。
 
-## アンドロイド
+## Android
 
-[没入型翻訳アンドロイドブラウザ](https://immersivetranslate.com/android/)をダウンロードしてください。このバージョンには、没入型翻訳エクステンションが事前にインストールされており、インストール後すぐに使用できます。（注意：一部の国産スマートフォンでインストール時に表示されるセキュリティリスクに関する警告が出る場合がありますが、これは一般的な警告です。【セキュリティリスクを理解しました】【インストールを続行】を選択してください）
+[Immersive Translate Android Browser APK](https://immersivetranslate.com/android/)をクリックしてダウンロードするか、[Google Play Store](https://play.google.com/store/apps/details?id=com.immersivetranslate.browser&utm_campaign=official)からインストールします。このバージョンにはImmersive Translate拡張機能がプリインストールされているため、インストール後すぐに使用できます。（注: 一部の中国ブランドの携帯電話がインストール中にセキュリティリスクを警告する場合があります（これは標準的な警告です）、[セキュリティリスクを認識しています] [インストールを続行]を選択してください）
 
-また、他のアンドロイドブラウザで没入型翻訳を試すこともできます。例えば
+他のAndroidブラウザでImmersive Translateをインストールすることも試せます。Firefox拡張機能やChrome拡張機能をサポートするブラウザなどです。
 
-- [Firefox ブラウザ Beta 版 または Nightly 版](https://www.mozilla.org/zh-CN/firefox/channel/android/)
-- [レムールブラウザ](https://lemurbrowser.com/app/zh/)
-- [キーウィブラウザ](https://kiwibrowser.com/)
+- [Edgeブラウザ](https://www.microsoft.com/edge/emmx/immersivetranslatecollaboration)
+- [Firefoxベータ版またはナイトリーバージョン](https://www.mozilla.org/firefox/channel/android/)
+- [Lemurブラウザ](https://lemurbrowser.com/)
+- [Kiwiブラウザ](https://kiwibrowser.com/)
 
-インストール後、アドオン / Chrome ストアで[没入型翻訳](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)を検索してインストールできます。
+インストール後、アドオン/Chromeストアで[Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)を直接検索してインストールします。
 
-### Tampermonkey スクリプトのインストール方法
+### Tampermonkeyを介したインストール
 
-もし公式の拡張機能を上記の方法でインストールできない場合（公式の拡張機能の使用を推奨します。パフォーマンスが良く、機能も豊富です）、以下の方法で Tampermonkey スクリプトをインストールできます：
+上記の方法で公式のImmersive Translate拡張機能をインストールできない場合（より良いパフォーマンスと多くの機能を得るために公式の拡張機能を使用することをお勧めします）、以下の方法でTampermonkeyをインストールできます：
 
-Tampermonkey スクリプトの URL：https://download.immersivetranslate.com/immersive-translate.user.js
+Tampermonkeyアドレス: https://download.immersivetranslate.com/immersive-translate.user.js
 
-Tampermonkey 拡張機能をインストールしたブラウザで[この URL](https://download.immersivetranslate.com/immersive-translate.user.js)を開くと、インストールできます。**Android 版 Firefox ブラウザ**を例にとると：
+Grease Monkey拡張機能がインストールされたブラウザで[このアドレス](https://download.immersivetranslate.com/immersive-translate.user.js)を開いてインストールします。**Android Firefox**を例にとります：
 
-1. [Firefox の最新バージョン](https://www.firefox.com.cn/download/#product-android-release)をダウンロードします。
-2. Firefox のアドオン推奨ページで[Tamper Monkey](https://www.tampermonkey.net/)を見つけて、インストールします。
-3. この拡張機能の[Tampermonkey スクリプト](https://download.immersivetranslate.com/immersive-translate.user.js)をインストールします（Firefox ブラウザでこのリンクを開くと、インストールページが表示されます）。
-4. インストール後、任意のウェブページを開くと、右側に沈没式翻訳拡張機能のフローティングアイコンが表示されます。
+1. [Firefox最新バージョン](https://www.mozilla.org/firefox/browsers/mobile/android/)をダウンロード
+2. Firefoxの推奨アドオンで[Tamper Monkey](https://www.tampermonkey.net/)を見つけてインストール
+3. この拡張機能のために[Tampermonkey](https://download.immersivetranslate.com/immersive-translate.user.js)をインストール（このリンクをFirefoxブラウザで開いてインストールページを表示）
+4. インストール後、任意のウェブページを開くと、Immersive Translate拡張機能のフローティングウィンドウアイコンが右側に表示されます。
 
-## より長い説明
+Then we step by step to optimize for various reading needs, including support for real-time translation of PDF files, support for real-time translation and production of Epub e-books, support for subtitle files, TXT files and so on and so forth.
 
-皆さん、こんにちは。私は Owen です。私自身、過去に数多くのボランティアが開発した無料のツールのおかげで、一生役立つ知識をたくさん得ることができました。これにより、情報を**平等**にアクセスすることは、私たち一人一人が持つべき最も重要な権利であるという信念がさらに強まりました。そのため、人々がより効果的に情報を得られるように、多くの無料のバイリンガルツールを作成しました（同時に、いつかこれらの補助ツールなしで済む日が来ることを期待しています）。
+時代は厳しいですが、私たちは誰もがますます多くのツールやコンテンツにお金を払う余裕があるわけではないことを理解しています。そのため、このツールを必要とするすべての人に無料で提供しており、情報への平等なアクセスは私たち全員が最も当然の権利であると固く信じています。
 
-現在までに、沈没式翻訳は**40 万人**以上の人々が外国語の情報を読む習慣を身につけるのを助けてきました。
+## スポンサーシップの説明
 
-沈没式翻訳が登場する前は：
+現時点では財政的な支援は必要ありませんが、次のことを行うことで支援することができます：
 
-- 一般的な翻訳ツールは、翻訳文を直接表示し、不自然な箇所に遭遇したときには原文と翻訳文を行き来する必要がありました。
-- 一般的な翻訳ツールは、自社の翻訳エンジンのみをサポートしており、品質が心配され、サポートされる言語も限られていました。
-- 一般的な翻訳ツールは、ウェブページの翻訳のみをサポートしていましたが、電子書籍、PDF、TXT、字幕ファイルなど、翻訳が必要なファイルはまだたくさんありました。
+今すぐ私たちを助けるために次のことを行うことができます：
 
-そのため、多くの人々は、必要なときにのみ翻訳ツールを使用して情報を見ていました。私も、バイリンガルの「若草物語」を読んだ後まで、システムのデフォルトの翻訳を長く使用していました。
+- 周囲の友人や家族に Immersive Translate を推薦する。
+- 外国語で情報を読む習慣を身につける
+- [Chrome ストア](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)、[Edge ストア](https://microsoftedge.microsoft.com/addons/detail/immersive-translate-web-/amkbmndfnliijdhojkpoglbnaaahippg)、[Apple App Store](https://apps.apple.com/app/id6447957425)、[Firefox ストア](https://addons.mozilla.org/firefox/addon/immersive-translate/) で拡張機能を評価する。
+- 以下は任意です：
+  <!-- - [公式 Immersive Translate メール](https://immersivetranslate.substack.com/) を購読する -->
+  <!-- - [Telegram チャンネルに参加する](https://t.me/immersivetranslate) -->
+- [Immersive Translate の公式 Twitter アカウント](https://twitter.com/immersivetrans) をフォローする
+- この拡張機能のインターフェース言語の[翻訳](https://crowdin.com/project/immersive-translate)を手伝う
+<!-- - [Telegram グループ](https://t.me/+rq848Z09nehlOTgx) でユーザーの質問に答えるのを手伝う。 -->
+- [GitHub Issue](https://github.com/immersive-translate/immersive-translate/issues) でユーザーの質問に答えるのを手伝う。
 
-バイリンガルで読む体験の重要性に気づきました：
-
-- オリジナルの情報を読むことができます。
-- 不自然な箇所に遭遇したときに、すぐに原文を確認しながら、迅速に翻訳文を見ることができます。
-- 読みながら同時に英語を学ぶことができます。
-- 外国語の作品を恐れずに、外国語の作品を読む習慣を身につけることができます。
-
-そのため、沈没式翻訳が[誕生しました](https://twitter.com/OwenYoungZh/status/1588792579596111872)。発表されたばかりで、私と同じニーズを持つ無数の人々が、海量の外国語情報を読むために沈没式翻訳を頻繁に使用し始めました：
-
-[![スターヒストリーチャート](https://api.star-history.com/svg?repos=immersive-translate/immersive-translate&type=Date)](https://star-history.com/#immersive-translate/immersive-translate&Date)
-
-その後、PDF ファイルのリアルタイム翻訳、Epub 電子書籍のリアルタイム翻訳と制作、字幕ファイル、TXT ファイルなど、さまざまな読書ニーズに対応するために、一歩一歩最適化を進めてきました。
-
-時代は厳しいものであり、ますます多くのツールやコンテンツに対して料金を支払う能力がある人はすべてではありません。そのため、必要とするすべての人にこのツールを無料で提供しています。私たちは、情報を平等にアクセスすることは、私たち一人一人が持つべき最も重要な権利であると信じています。
-
-## ユーザー小張の物語
-
-沈没式翻訳を 1 か月使用した後、ユーザー小張のオンライン生活に起こった大きな変化を一緒に見て（想像して）みましょう：
-
-1. まず、彼は国際的に有名なメディアから第一手の情報を得る習慣を身につけました。例えば、ロイター、ニューヨークタイムズ、エコノミスト、アトランティック月刊など、彼がよく訪れるニュースサイトです。kadaza.com と buzzing.cc は彼が最も好んで使用する外国語情報ナビゲーションです。沈没式翻訳の段落対訳機能は彼の読書効率を大幅に向上させ、翻訳品質が悪い場合は、直接原文を参照して情報を理解することができます。
-2. 沈没式翻訳の入力ボックス翻訳機能は、小張に大きな便利さをもたらしました。彼は Google 検索ボックスに「//中国語の質問」を入力し、スペースキーを 3 回連打するだけで、検索ボックス内の質問がすぐに英語に翻訳されます。さらに、検索結果の対訳と組み合わせることで、小張の情報検索効率はかつてない高さに達しました。
-3. AI 時代が到来し、小張は毎日 ChatGPT、Bard、Discord、Telegram などのプラットフォームで機械や実際の人と対話しています。沈没式翻訳は、任意のウェブページの入力ボックスを強力な多言語翻訳器に変えることができるため、小張の中国語の質問はすぐに英語に翻訳されて ChatGPT に送信され、ChatGPT の回答もリアルタイムで中国語に翻訳されます。
-4. 職場では、小張はデスクトップ版の Chrome ブラウザで世界最新の財経科学技術情報を得ることを好みます。彼はブルームバーグ、ヤフーファイナンス、ウォールストリートジャーナル、ファイナンシャルタイムズなどの財経メディアの独占ニュースを密接に追跡しており、最近は NVIDIA とビットコインのパフォーマンスに特に注目しています。沈没式翻訳を利用して、各種財務報告、公告、研究報告を一キーで対訳読みすることで、他の人よりも一歩早く重要な金融情報を得ることができます。
-5. 休憩時には、小張は移動端末（iOS の Safari ブラウザ、Android の Firefox ブラウザなど）で沈没式翻訳を使用し、Twitter、Reddit、YouTube などの国際的な主流ソーシャルメディアを携帯電話で閲覧し、世界中の思想リーダーと衝突交流を行い、重要な情報を正確に捉え、常に知識の最前線に立っています。
-6. 小さな張はまた、英語のウィキペディアの品質が他の言語よりもはるかに高いことを発見しました。そのため、彼は今、興味のあるあらゆる知識を英語のウィキペディアで二言語を使って得ることがよくあります。
-7. 時には、小さな張は arXiv で最新の PDF 論文を読むことがあります。没入型翻訳の独自の PDF ファイルリアルタイム翻訳機能があるため、彼はすぐに最新の学術動向を把握することができます。
-8. 小さな張は読書も大好きで、よく海外の GoodReads の書籍ナビゲーションサイトで最新の書籍を探したり、書評を見たりして、それらの外国語の書籍の中国語版が発売されるのを辛抱強く待っています。しかし、先月から、彼はすでに googlebooks から《Chip War》の外国語版（中国語名《芯片战争》）を直接購入し、没入型翻訳に一括アップロードしてから、Kindle にエクスポートし、二言語の電子書籍の読書を始めました。
-9. 時々、小さな張はアメリカのドラマも追いかけます。以前は、彼はいつも字幕グループの翻訳を辛抱強く待たなければなりませんでしたが、今では、没入型翻訳を利用して、任意の字幕ファイルの二言語字幕を一発で生成し、全世界の視聴者と同時にドラマを追いかけることができます。没入型翻訳は、YouTube のオンラインビデオの字幕のリアルタイム翻訳もサポートしており、小さな張は YouTube で Ted のビデオを見ながら、YouTube のコメントセクションで他の視聴者と交流することができます。
-10. 毎年のブラックフライデーのショッピングフェスティバルは、小さな張が最も期待している世界的な海外ショッピングイベントです。彼は Amazon と Ebay で各製品の特性、価格、そして実際のユーザーの評価を詳細に調査します。没入型翻訳により、これらすべてが容易になり、小さな張は最もコストパフォーマンスの高いショッピング決定を下すことができました。
-
-小さな張のように、1 ヶ月の時間で自分の情報取得効率を大幅に向上させたいですか？今日から、没入型翻訳を使い続けることをお勧めします。あなたはきっと外国語の世界を愛するようになるでしょう。
-
-## スポンサーについての説明
-
-現在、私たちは財政的な支援を必要としていませんが、以下の方法で私たちを支援することができます：
-
-- 身の回りの友人や家族にイマーシブ翻訳を推薦し、より多くの人が情報の壁を破る手助けをする。
-- 外国語の情報を見る習慣をつける
-- [Chrome ストア](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)、[Edge ストア](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-CN&gl=CN)、[Apple App Store](https://apps.apple.com/cn/app/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/id6447957425)、[Firefox ストア](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/)でこの拡張機能を評価する。
-- 以下はオプションです：
-- [イマーシブ翻訳公式メール](https://immersivetranslate.substack.com/)を購読する
-- [Telegram チャンネルに参加する](https://t.me/immersivetranslate)
-- [イマーシブ翻訳公式 Twitter アカウント](https://twitter.com/immersivetran)をフォローする
-- この拡張機能のインターフェース言語を[翻訳する](https://crowdin.com/project/immersive-translate)のを手伝う。
-- [Telegram グループ](https://t.me/+rq848Z09nehlOTgx)でユーザーの質問に答えるのを手伝う。
-- [GitHub Issue](https://github.com/immersive-translate/immersive-translate/issues)でユーザーの質問に答えるのを手伝う。
-- 下記の QR コードをスキャンし、公式 WeChat 交流グループに参加し、ユーザーの疑問に答えるのを手伝う：
-
-<div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
-</div>
-
-- 下記の QR コードをスキャンし、公式 WeChat 公式アカウントをフォローする：
-
-<div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-qrcode.jpg" width="200" alt="wechat" />
-</div>
-
-過去 5 ヶ月間で、イマーシブ翻訳は 40 万人のユーザーが外国語の情報を見る習慣を身につけるのを助け、良いツールが情報の壁を破る上で果たす重要な役割を十分に証明しました。過去にイマーシブ翻訳を支援してくれたすべての人に感謝します。私たちはこれからも、より多くの人にイマーシブな翻訳体験を提供し、より多くの人が技術がもたらす恩恵を享受できるように努めていきます。
+過去5か月間で、Immersive Translate は 400,000 人のユーザーが外国語で情報を見る習慣を身につけるのを助けました。これは、優れたツールが情報の壁を打ち破る上で重要な役割を果たすことを証明しています。過去に Immersive Translate を支援してくれたすべての人に感謝し、私たちは Immersive Translate の体験をより多くの人々に届け続け、より多くの人々が技術の恩恵を享受できるようにします。
