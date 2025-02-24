@@ -75,7 +75,7 @@ poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src
 - [Нажмите здесь, чтобы перейти в магазин Apple App Store и установить](https://apps.apple.com/app/immersive-translate/id6447957425) **Временно бесплатно!!!**
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/immersive-app-store.png" width="150" alt="QR-код магазина приложений" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="QR-код магазина приложений" />
 </div>
 
 > Примечание: После первой установки необходимо в браузере Safari перейти в "Управление расширениями" -> **Включить расширение Immersive Translate** и предоставить ему разрешение на **всегда разрешать доступ ко всем сайтам**. Если у вас возникли вопросы, вы можете посмотреть [видеоурок](https://immersivetranslate.com/assets/safari-installation-intro.mp4):

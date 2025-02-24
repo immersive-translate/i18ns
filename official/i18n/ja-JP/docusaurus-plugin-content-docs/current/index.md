@@ -73,7 +73,7 @@ poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src
 - [Apple App Store からインストールするにはこちらをクリック](https://apps.apple.com/app/immersive-translate/id6447957425) **期間限定無料!!!**
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/immersive-app-store.png" width="150" alt="app store qrcode" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="app store qrcode" />
 </div>
 
 > 説明：初回インストール後、Safari ブラウザ -> 拡張機能の管理 -> **沈没式翻訳拡張機能を有効にする** 必要があり、**すべてのウェブサイトに常にアクセスを許可する** 権限を付与する必要があります。疑問がある場合は、[ビデオチュートリアル](https://immersivetranslate.com/assets/safari-installation-intro.mp4) をご覧ください：

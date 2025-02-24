@@ -59,7 +59,7 @@ title: مقدمة
 - [اضغط هنا للذهاب إلى متجر تطبيقات آبل للتثبيت](https://apps.apple.com/app/immersive-translate/id6447957425) **مجانًا لفترة محدودة!!!!**
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/immersive-app-store.png" width="150" alt="رمز الاستجابة السريعة لمتجر التطبيقات" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="رمز الاستجابة السريعة لمتجر التطبيقات" />
 </div>
 
 > التعليمات: بعد التثبيت الأول، تحتاج إلى تفعيل إضافة الترجمة الغامرة في سفاري -> إدارة الإضافات -> **تفعيل إضافة الترجمة الغامرة** ومنحها **السماح دائمًا بالوصول إلى جميع المواقع الإلكترونية**، إذا كان لديك أي استفسارات، يمكنك مشاهدة [الفيديو التعليمي](https://s.immersivetranslate.com/videos/ios_safari_turorial_en.mp4)

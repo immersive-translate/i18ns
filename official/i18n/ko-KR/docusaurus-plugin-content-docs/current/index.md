@@ -73,7 +73,7 @@ poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src
 - [애플 앱 스토어에서 설치하려면 여기를 클릭하세요](https://apps.apple.com/app/immersive-translate/id6447957425) **한정 시간 무료!!!**
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/immersive-app-store.png" width="150" alt="app store qrcode" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="app store qrcode" />
 </div>
 
 > 설명: 처음 설치 후에는 safari 브라우저 -> 확장 프로그램 관리 -> **침몰식 번역 확장 프로그램 사용**을 활성화하고 **모든 웹사이트에 대한 접근을 항상 허용** 권한을 부여해야 합니다. 질문이 있으면 [비디오 튜토리얼](https://immersivetranslate.com/assets/safari-installation-intro.mp4)을 참조하세요:

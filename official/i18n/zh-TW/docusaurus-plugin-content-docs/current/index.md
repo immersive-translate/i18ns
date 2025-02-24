@@ -71,7 +71,7 @@ title: 介紹
 - [點此進入蘋果 App Store 商店安裝](https://apps.apple.com/app/immersive-translate/id6447957425) **限時免費中!!!**
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/immersive-app-store.png" width="150" alt="app store qrcode" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="app store qrcode" />
 </div>
 
 > 說明：首次安裝後需要在 safari 瀏覽器-> 管理擴充套件->**啟用沉浸式翻譯擴充套件**，並且授予其**始終允許存取所有網站**的權限，有疑問可以檢視[影片教學](https://immersivetranslate.com/assets/safari-installation-intro.mp4)：

@@ -62,7 +62,7 @@ title: परिचय
 - [यहाँ क्लिक करें एप्पल ऐप स्टोर स्टोर पर जाने के लिए और इंस्टॉल करने के लिए](https://apps.apple.com/app/immersive-translate/id6447957425) \*\*सीमित समय के लिए मुफ़्त!!!! \*\*
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/immersive-app-store.png" width="150" alt="ऐप स्टोर क्यूआर कोड" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="ऐप स्टोर क्यूआर कोड" />
 </div>
 
 > निर्देश: पहली बार स्थापना के बाद, आपको सफारी में इमर्सिव ट्रांसलेट एक्सटेंशन सक्षम करने की आवश्यकता है -> एक्सटेंशन्स प्रबंधित करें -> **इमर्सिव ट्रांसलेट एक्सटेंशन सक्षम करें** और इसे **सभी वेबसाइटों के लिए हमेशा एक्सेस की अनुमति दें**, यदि आपके कोई प्रश्न हैं, तो आप [वीडियो ट्यूटोरियल](https://s.immersivetranslate.com/videos/ios_safari_turorial_en.mp4) देख सकते हैं।

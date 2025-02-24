@@ -59,7 +59,7 @@ Puoi rimanere in contatto con noi su:
 - [Clicca qui per andare allo store Apple App Store per installare](https://apps.apple.com/app/immersive-translate/id6447957425) \*\*GRATIS PER UN TEMPO LIMITATO!!!! \*\*
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/immersive-app-store.png" width="150" alt="qrcode app store" />
+<img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="qrcode app store" />
 </div>
 
 > Istruzioni: Dopo la prima installazione, devi abilitare l'estensione Immersive Translate in safari -> Gestisci Estensioni -> **Abilita l'Estensione Immersive Translate** e concedile **Sempre l'Accesso a Tutti i Siti Web**, se hai domande, puoi guardare il [video tutorial](https://s.immersivetranslate.com/videos/ios_safari_turorial_en.mp4)
