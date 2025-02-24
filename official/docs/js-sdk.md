@@ -110,7 +110,7 @@ export interface PageRule {
   // 指定翻译范围
   selectors?: string | string[]; // 仅翻译匹配到的元素
   excludeSelectors?: string | string[]; // 排除元素，不翻译匹配的元素
-  excludeTags?: string | string[]; // 排除 Tags，不翻译匹配的 Tag
+  excludeTags?: string | string[]; // 排除 Tags，不翻译匹配的 Tag 
 
   // 追加翻译范围，而不是覆盖
   additionalSelectors?: string | string[]; // 追加翻译范围。在智能翻译的区域，追加翻译位置。
