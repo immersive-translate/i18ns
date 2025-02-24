@@ -4,27 +4,32 @@ sidebar_position: 5
 
 # JS SDK
 
-The Immersive Translate JS SDK helps you implement bilingual translation on your website.
+Immersive Translate JS SDK は、あなたのウェブサイトでバイリンガル翻訳を実現するのに役立ちます。
 
-## How to Use
+## 使用方法
 
-1. Initialize Immersive Translate:
+> JS SDK をデバッグする前に、Immersive Translate 拡張機能をオフにしてください。
 
-```js
+1. 初期化パラメータを設定します（immersiveTranslateConfig を設定しないと JS SDK の初期化に失敗します。空のオブジェクトを設定することができます）
+
+```html
 <script>
   window.immersiveTranslateConfig = {
-    pageRule: {}
-  }
+    pageRule: {},
+  };
 </script>
 ```
 
-2. Add the following `script` code to your webpage
+2. 以下の `script` コードをあなたのウェブページの `</head>` の前に追加します
 
 ```html
-<script src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
+<script
+  async
+  src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"
+></script>
 ```
 
-Example
+例
 
 ```html
 <!doctype html>
@@ -43,9 +48,8 @@ Example
       src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"
     ></script>
   </head>
-
   <body>
-    <div>
+    <div class=".text">
       <p>
         Night gathers, and now my watch begins. It shall not end until my death.
         I shall take no wife, hold no lands, father no children. I shall wear no
@@ -56,28 +60,34 @@ Example
 </html>
 ```
 
-## Parameters
+## パラメータ
 
-With `pageRule`, you can customize the configuration of the website, deciding which content needs to be translated or adjusting the webpage styles.
+- `pageRule`
+  ウェブサイトをカスタマイズして、どのコンテンツを翻訳するか、またはウェブページのスタイルを調整するかを決定できます。
+- `isAutoTranslate`
+  自動翻訳を即座に実行
 
-```js
-initImmersiveTranslate({
-  pageRule: {
-    selectors: [".text"],
-    excludeSelectors: ["nav", "footer"],
-  },
-});
+```html
+<script>
+  window.immersiveTranslateConfig = {
+    isAutoTranslate: true,
+    pageRule: {
+      selectors: [".text"],
+      excludeSelectors: ["nav", "footer"],
+    },
+  };
+</script>
 ```
 
-Using `selectors` will override the smart translation range, translating only elements matched by the selector.
+`selectors` を使用すると、スマート翻訳の範囲を上書きし、そのセレクターに一致する要素のみを翻訳します。
 
-Using `excludeSelectors` can exclude elements from translation.
+`excludeSelectors` を使用すると、要素を除外し、その位置を翻訳しません。
 
-Using `selectors.add` will add some selectors on top of the default ones.
+`selectors.add` を使用すると、デフォルトにいくつかのセレクターを追加します。
 
-Using `selectors.remove` will remove some selectors from the default ones.
+`selectors.remove` を使用すると、デフォルトからいくつかのセレクターを削除します。
 
-If you want to translate a specific area and consider an element as a whole without breaking it into lines, you can use the `atomicBlockSelectors` selector. Note that you need to select elements using `selectors` before using `atomicBlockSelectors`.
+特定の領域を翻訳する際に、要素を一つの全体として扱い、行ごとに分割しないようにする場合は、`atomicBlockSelectors` セレクターを使用できます。注意すべき点は、`atomicBlockSelectors` を使用する前に、`selectors` を使用して選択する必要があることです。
 
 ```json
 {
@@ -86,74 +96,78 @@ If you want to translate a specific area and consider an element as a whole with
 }
 ```
 
-`pageRule` more parameter explanations:
+`pageRule` の詳細なパラメータ説明：
 
 ```typescript
 export interface PageRule {
-  excludeMatches?: string | string[]; // Exclude specific websites.
-  selectorMatches?: string | string[]; // Match using selectors without specifying all URLs
-  excludeSelectorMatches?: string | string[]; // Exclude rules, same as above.
+  excludeMatches?: string | string[]; // 特定のウェブサイトを除外します。
+  selectorMatches?: string | string[]; // すべての URL を指定せずにセレクターで一致させます。
+  excludeSelectorMatches?: string | string[]; // 除外ルール、上記と同様。
 
-  // Specify translation range
-  selectors?: string | string[]; // Translate only matched elements
-  excludeSelectors?: string | string[]; // Exclude elements, do not translate matched elements
-  excludeTags?: string | string[]; // Exclude tags, do not translate matched tags
 
-  // Add translation range, not override
-  additionalSelectors?: string | string[]; // Add translation range. Add translation positions in smart translation areas.
-  additionalExcludeSelectors?: string | string[]; // Add excluded elements to prevent smart translation in specific positions.
-  additionalExcludeTags?: string | string[]; // Add excluded tags
+```markdown
+  // 指定翻訳範囲
+  selectors?: string | string[]; // 翻訳対象の要素を指定
+  excludeSelectors?: string | string[]; // 除外要素、翻訳しない要素を指定
+  excludeTags?: string | string[]; // 除外タグ、翻訳しないタグを指定
 
-  // Keep original
-  stayOriginalSelectors?: string | string[]; // Matched elements will remain original. Commonly used for tags on forum websites.
-  stayOriginalTags?: string | string[]; // Matched tags will remain original, such as `code`
+  // 翻訳範囲を追加、上書きしない
+  additionalSelectors?: string | string[]; // 翻訳範囲を追加。スマート翻訳のエリアに追加翻訳位置を指定。
+  additionalExcludeSelectors?: string | string[]; // 除外要素を追加し、特定の位置を翻訳しないようにする。
+  additionalExcludeTags?: string | string[]; // 除外タグを追加
 
-  // Region translation
-  atomicBlockSelectors?: string | string[]; // Region selector, matched elements will be considered as a whole, not translated in segments
-  atomicBlockTags?: string | string[]; // Region tag selector, same as above
+  // 原文を保持
+  stayOriginalSelectors?: string | string[]; // 一致する要素は原文のまま保持。フォーラムサイトのタグによく使用される。
+  stayOriginalTags?: string | string[]; // 一致するタグは原文のまま保持、例えば `code`
 
-  // Block or Inline
-  extraBlockSelectors?: string | string[]; // Extra selectors, matched elements will be treated as block elements, occupying one line.
-  extraInlineSelectors?: string | string[]; // Extra selectors, matched elements will be treated as inline elements.
+  // エリア翻訳
+  atomicBlockSelectors?: string | string[]; // エリアセレクター、一致する要素は一つのまとまりとして扱い、分割翻訳しない
+  atomicBlockTags?: string | string[]; // エリアタグセレクター、同上
 
-  inlineTags?: string | string[]; // Matched tags will be treated as inline elements
-  preWhitespaceDetectedTags?: string | string[]; // Matched tags will automatically wrap lines
+  // Block または Inline
+  extraBlockSelectors?: string | string[]; // 追加のセレクター、一致する要素は block 要素として扱い、一行を占有する。
+  extraInlineSelectors?: string | string[]; // 追加のセレクター、一致する要素は inline 要素として扱う。
 
-  // Translation styles
-  translationClasses?: string | string | string[]; // Add extra classes to the translation
+  inlineTags?: string | string[]; // 一致するタグは inline 要素として扱う
+  preWhitespaceDetectedTags?: string | string[]; // 一致するタグは自動で改行される
 
-  // Global styles
-  globalStyles?: Record<string, string>; // Modify page styles, useful when translations cause page disorder.
-  globalAttributes?: Record<string, Record<string, string>>; // Modify attributes of page elements
+  // 翻訳スタイル
+  translationClasses?: string | string | string[]; // 翻訳文に追加のクラスを付与
 
-  // Embedded styles
-  injectedCss?: string | string[]; // Embed CSS styles
-  additionalInjectedCss?: string | string[]; // Add CSS styles instead of directly overriding.
+  // グローバルスタイル
+  globalStyles?: Record<string, string>; // ページスタイルを変更、翻訳文が原因でページが乱れる場合に有用。
+  globalAttributes?: Record<string, Record<string, string>>; // ページ要素の属性を変更
 
-  // Context
-  wrapperPrefix?: string; // Prefix of the translation area, default is smart, decides whether to wrap lines based on the number of characters.
-  wrapperSuffix?: string; // Suffix of the translation area
+  // 埋め込みスタイル
+  injectedCss?: string | string[]; // CSSスタイルを埋め込む
+  additionalInjectedCss?: string | string[]; // CSSスタイルを追加、直接上書きしない。
 
-  // Translation wrapping character count
-  blockMinTextCount?: number; // Minimum character count for translation as a block, otherwise, the translation will be an inline element.
-  blockMinWordCount?: number; // Same as above. To always wrap lines, set both to 0.
+  // コンテキスト
+  wrapperPrefix?: string; // 翻訳文エリアのプレフィックス、デフォルトは smart、文字数に応じて改行を決定。
+  wrapperSuffix?: string; // 翻訳文エリアのサフィックス
 
-  // Minimum character count for translatable content
-  containerMinTextCount?: number; // Minimum character count for elements to be translated during smart recognition, default is 18
-  paragraphMinTextCount?: number; // Minimum character count for original paragraph, content greater than the number will be translated
-  paragraphMinWordCount?: number; // Minimum word count for original paragraph
+  // 翻訳文の改行文字数
+  blockMinTextCount?: number; // 翻訳文を block として扱う最小文字数、それ以外は inline 要素。
+  blockMinWordCount?: number; // 同上。常に改行させたい場合は、両方に 0 を設定。
 
-  // Forced line break character count for long paragraphs
-  lineBreakMaxTextCount?: number; // Maximum character count for forced line break when translating long paragraphs.
+  // コンテンツ翻訳可能な最小文字数
+  containerMinTextCount?: number; // スマート認識時、要素が含む最小文字数、デフォルトは 18
+  paragraphMinTextCount?: number; // 原文段落の最小文字数、これ以上の内容が翻訳される
+  paragraphMinWordCount?: number; // 原文段落の最小単語数
 
-  // Timing to start translation
-  urlChangeDelay?: number; // Delay in milliseconds before starting translation after entering the page. Default is 250ms to wait for webpage initialization.
+  // 長い段落の強制改行文字数
+  lineBreakMaxTextCount?: number; // 長い段落の翻訳を有効にした場合、強制的に分行する段落の最大文字数。
+```
 
-  // AI streaming translation
+```markdown
+  // 翻訳の開始タイミング
+  urlChangeDelay?: number; // ページに入った後、翻訳を開始するまでの遅延時間（ミリ秒）。ウェブページの初期化を待つため、現在はデフォルトで250ms
+
+  // AI streaming 翻訳
   aiRule: {
-    streamingSelector: string; // GPT webpage selector marking the translating element
-    messageWrapperSelector: string; // Message body selector
-    streamingChange: boolean; // Incremental or full update for repeated messages in GPT-like webpages. GPT is incremental
+    streamingSelector: string; // gpt ウェブページで翻訳中の要素を示すセレクタ
+    messageWrapperSelector: string; // メッセージ本文のセレクタ
+    streamingChange: boolean; // gpt ウェブページの繰り返しメッセージがインクリメンタル更新かフル更新か。gpt はインクリメンタル
   };
 }
 ```
