@@ -30,9 +30,9 @@ jobs:
           temperature: 0
           inputFiles: ${{ steps.changed_files.outputs.files }}
           outputFiles: "official/i18n/zh-TW/docusaurus-plugin-content-docs/current/**/*.md"
-          languages: "TraditionalChinese"
+          languages: "繁体中文台湾"
           prompt: |
-            你是一位专业的技术文档翻译专家。
+            你是一位专业的技术文档翻译专家， 请按照台湾的繁体中文习惯来翻译。
             请将以下 Markdown 内容翻译成 {targetLanguage}，并严格遵循以下规则：
 
             1. 保持原有格式：
@@ -46,4 +46,10 @@ jobs:
                - 保持所有技术术语为英文
                - 'Release'、'Preview' 等词保持英文
                - 保持所有版本号和技术规格不变
+               - 将 '扩展' 翻译为 '擴充套件'
+               - 将 '视频' 翻译为 '影片'
+               - 将 '文件' 翻译为 '檔案'
+               - 将 '设置' 翻译为 '設定'
+               - 将 '进阶' 翻译为 '進階'
+               - 将 '插件' 翻译为 '外掛'
           basePath: ${{ secrets.OPENAI_BASE_PATH }}
