@@ -4,11 +4,11 @@ sidebar_position: 5
 
 # JS SDK
 
-The Immersive Translate JS SDK helps you implement bilingual translation on your website.
+يساعدك Immersive Translate JS SDK في تنفيذ الترجمة الثنائية اللغة على موقع الويب الخاص بك.
 
-## How to Use
+## كيفية الاستخدام
 
-1. Initialize Immersive Translate:
+1. تهيئة Immersive Translate:
 
 ```js
 <script>
@@ -18,13 +18,13 @@ The Immersive Translate JS SDK helps you implement bilingual translation on your
 </script>
 ```
 
-2. Add the following `script` code to your webpage
+2. أضف كود `script` التالي إلى صفحة الويب الخاصة بك
 
 ```html
 <script src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
 ```
 
-Example
+مثال
 
 ```html
 <!doctype html>
@@ -56,9 +56,9 @@ Example
 </html>
 ```
 
-## Parameters
+## المعلمات
 
-With `pageRule`, you can customize the configuration of the website, deciding which content needs to be translated or adjusting the webpage styles.
+باستخدام `pageRule`، يمكنك تخصيص تكوين الموقع، وتحديد المحتوى الذي يحتاج إلى الترجمة أو تعديل أنماط صفحة الويب.
 
 ```js
 initImmersiveTranslate({
@@ -69,15 +69,15 @@ initImmersiveTranslate({
 });
 ```
 
-Using `selectors` will override the smart translation range, translating only elements matched by the selector.
+استخدام `selectors` سيقوم بتجاوز نطاق الترجمة الذكي، وترجمة العناصر التي تتطابق مع المحدد فقط.
 
-Using `excludeSelectors` can exclude elements from translation.
+استخدام `excludeSelectors` يمكن أن يستبعد العناصر من الترجمة.
 
-Using `selectors.add` will add some selectors on top of the default ones.
+استخدام `selectors.add` سيضيف بعض المحددات فوق المحددات الافتراضية.
 
-Using `selectors.remove` will remove some selectors from the default ones.
+استخدام `selectors.remove` سيزيل بعض المحددات من المحددات الافتراضية.
 
-If you want to translate a specific area and consider an element as a whole without breaking it into lines, you can use the `atomicBlockSelectors` selector. Note that you need to select elements using `selectors` before using `atomicBlockSelectors`.
+إذا كنت ترغب في ترجمة منطقة معينة واعتبار عنصر ككل دون تقسيمه إلى أسطر، يمكنك استخدام محدد `atomicBlockSelectors`. لاحظ أنك تحتاج إلى تحديد العناصر باستخدام `selectors` قبل استخدام `atomicBlockSelectors`.
 
 ```json
 {
@@ -86,74 +86,74 @@ If you want to translate a specific area and consider an element as a whole with
 }
 ```
 
-`pageRule` more parameter explanations:
+تفسيرات إضافية لمعلمات `pageRule`:
 
 ```typescript
 export interface PageRule {
-  excludeMatches?: string | string[]; // Exclude specific websites.
-  selectorMatches?: string | string[]; // Match using selectors without specifying all URLs
-  excludeSelectorMatches?: string | string[]; // Exclude rules, same as above.
+  excludeMatches?: string | string[]; // استبعاد مواقع ويب محددة.
+  selectorMatches?: string | string[]; // المطابقة باستخدام المحددات دون تحديد جميع عناوين URL
+  excludeSelectorMatches?: string | string[]; // استبعاد القواعد، كما هو موضح أعلاه.
 
-  // Specify translation range
-  selectors?: string | string[]; // Translate only matched elements
-  excludeSelectors?: string | string[]; // Exclude elements, do not translate matched elements
-  excludeTags?: string | string[]; // Exclude tags, do not translate matched tags
+  // تحديد نطاق الترجمة
+  selectors?: string | string[]; // ترجمة العناصر المطابقة فقط
+  excludeSelectors?: string | string[]; // استبعاد العناصر، لا تترجم العناصر المطابقة
+  excludeTags?: string | string[]; // استبعاد العلامات، لا تترجم العلامات المطابقة
 
-  // Add translation range, not override
-  additionalSelectors?: string | string[]; // Add translation range. Add translation positions in smart translation areas.
-  additionalExcludeSelectors?: string | string[]; // Add excluded elements to prevent smart translation in specific positions.
-  additionalExcludeTags?: string | string[]; // Add excluded tags
+  // إضافة نطاق الترجمة، وليس تجاوز
+  additionalSelectors?: string | string[]; // إضافة نطاق الترجمة. إضافة مواقع الترجمة في مناطق الترجمة الذكية.
+  additionalExcludeSelectors?: string | string[]; // إضافة عناصر مستبعدة لمنع الترجمة الذكية في مواقع محددة.
+  additionalExcludeTags?: string | string[]; // إضافة علامات مستبعدة
 
-  // Keep original
-  stayOriginalSelectors?: string | string[]; // Matched elements will remain original. Commonly used for tags on forum websites.
-  stayOriginalTags?: string | string[]; // Matched tags will remain original, such as `code`
+  // الاحتفاظ بالأصل
+  stayOriginalSelectors?: string | string[]; // ستبقى العناصر المطابقة أصلية. تستخدم عادةً للعلامات على مواقع المنتديات.
+  stayOriginalTags?: string | string[]; // ستبقى العلامات المطابقة أصلية، مثل `code`
 
-  // Region translation
-  atomicBlockSelectors?: string | string[]; // Region selector, matched elements will be considered as a whole, not translated in segments
-  atomicBlockTags?: string | string[]; // Region tag selector, same as above
+  // ترجمة المنطقة
+  atomicBlockSelectors?: string | string[]; // محدد المنطقة، ستعتبر العناصر المطابقة ككل، ولن تترجم في أجزاء
+  atomicBlockTags?: string | string[]; // محدد علامة المنطقة، كما هو موضح أعلاه
 
-  // Block or Inline
-  extraBlockSelectors?: string | string[]; // Extra selectors, matched elements will be treated as block elements, occupying one line.
-  extraInlineSelectors?: string | string[]; // Extra selectors, matched elements will be treated as inline elements.
+  // كتلة أو خط
+  extraBlockSelectors?: string | string[]; // محددات إضافية، ستعتبر العناصر المطابقة كعناصر كتلة، تشغل سطرًا واحدًا.
+  extraInlineSelectors?: string | string[]; // محددات إضافية، ستعتبر العناصر المطابقة كعناصر خطية.
 
-  inlineTags?: string | string[]; // Matched tags will be treated as inline elements
-  preWhitespaceDetectedTags?: string | string[]; // Matched tags will automatically wrap lines
+  inlineTags?: string | string[]; // ستعتبر العلامات المطابقة كعناصر خطية
+  preWhitespaceDetectedTags?: string | string[]; // ستقوم العلامات المطابقة بتغليف الأسطر تلقائيًا
 
-  // Translation styles
-  translationClasses?: string | string | string[]; // Add extra classes to the translation
+  // أنماط الترجمة
+  translationClasses?: string | string | string[]; // إضافة فئات إضافية إلى الترجمة
 
-  // Global styles
-  globalStyles?: Record<string, string>; // Modify page styles, useful when translations cause page disorder.
-  globalAttributes?: Record<string, Record<string, string>>; // Modify attributes of page elements
+  // الأنماط العالمية
+  globalStyles?: Record<string, string>; // تعديل أنماط الصفحة، مفيد عندما تتسبب الترجمات في اضطراب الصفحة.
+  globalAttributes?: Record<string, Record<string, string>>; // تعديل سمات عناصر الصفحة
 
-  // Embedded styles
-  injectedCss?: string | string[]; // Embed CSS styles
-  additionalInjectedCss?: string | string[]; // Add CSS styles instead of directly overriding.
+  // الأنماط المدمجة
+  injectedCss?: string | string[]; // تضمين أنماط CSS
+  additionalInjectedCss?: string | string[]; // إضافة أنماط CSS بدلاً من تجاوزها مباشرة.
 
-  // Context
-  wrapperPrefix?: string; // Prefix of the translation area, default is smart, decides whether to wrap lines based on the number of characters.
-  wrapperSuffix?: string; // Suffix of the translation area
+  // السياق
+  wrapperPrefix?: string; // بادئة منطقة الترجمة، الافتراضي هو ذكي، يقرر ما إذا كان سيتم تغليف الأسطر بناءً على عدد الأحرف.
+  wrapperSuffix?: string; // لاحقة منطقة الترجمة
 
-  // Translation wrapping character count
-  blockMinTextCount?: number; // Minimum character count for translation as a block, otherwise, the translation will be an inline element.
-  blockMinWordCount?: number; // Same as above. To always wrap lines, set both to 0.
+  // عدد أحرف تغليف الترجمة
+  blockMinTextCount?: number; // الحد الأدنى لعدد الأحرف للترجمة ككتلة، وإلا ستكون الترجمة كعنصر خطي.
+  blockMinWordCount?: number; // نفس ما سبق. لتغليف الأسطر دائمًا، قم بتعيين كلاهما إلى 0.
 
-  // Minimum character count for translatable content
-  containerMinTextCount?: number; // Minimum character count for elements to be translated during smart recognition, default is 18
-  paragraphMinTextCount?: number; // Minimum character count for original paragraph, content greater than the number will be translated
-  paragraphMinWordCount?: number; // Minimum word count for original paragraph
+  // الحد الأدنى لعدد الأحرف للمحتوى القابل للترجمة
+  containerMinTextCount?: number; // الحد الأدنى لعدد الأحرف للعناصر التي سيتم ترجمتها أثناء التعرف الذكي، الافتراضي هو 18
+  paragraphMinTextCount?: number; // الحد الأدنى لعدد الأحرف للفقرة الأصلية، سيتم ترجمة المحتوى الأكبر من العدد
+  paragraphMinWordCount?: number; // الحد الأدنى لعدد الكلمات للفقرة الأصلية
 
-  // Forced line break character count for long paragraphs
-  lineBreakMaxTextCount?: number; // Maximum character count for forced line break when translating long paragraphs.
+  // عدد أحرف كسر السطر القسري للفقرات الطويلة
+  lineBreakMaxTextCount?: number; // الحد الأقصى لعدد الأحرف لكسر السطر القسري عند ترجمة الفقرات الطويلة.
 
-  // Timing to start translation
-  urlChangeDelay?: number; // Delay in milliseconds before starting translation after entering the page. Default is 250ms to wait for webpage initialization.
+  // توقيت بدء الترجمة
+  urlChangeDelay?: number; // التأخير بالمللي ثانية قبل بدء الترجمة بعد دخول الصفحة. الافتراضي هو 250 مللي ثانية لانتظار تهيئة صفحة الويب.
 
-  // AI streaming translation
+  // الترجمة المتدفقة بالذكاء الاصطناعي
   aiRule: {
-    streamingSelector: string; // GPT webpage selector marking the translating element
-    messageWrapperSelector: string; // Message body selector
-    streamingChange: boolean; // Incremental or full update for repeated messages in GPT-like webpages. GPT is incremental
+    streamingSelector: string; // محدد صفحة GPT الذي يحدد العنصر المترجم
+    messageWrapperSelector: string; // محدد جسم الرسالة
+    streamingChange: boolean; // تحديث تدريجي أو كامل للرسائل المتكررة في صفحات GPT-like. GPT هو تدريجي
   };
 }
 ```
