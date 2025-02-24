@@ -1,0 +1,48 @@
+name: GPT Translate per Commit
+ 
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "official/i18n/en-US/docusaurus-plugin-content-docs/current/**"
+jobs:
+  gpt_translate:
+    runs-on: ubuntu-latest
+ 
+    steps:
+      - name: Checkout repository with two latest commits
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+ 
+      - name: get changed files name
+        id: changed_files
+        run: |
+          echo "files=$(git diff --name-only HEAD^ HEAD | grep '\.md$' | tr '\n' ' ')" >> $GITHUB_OUTPUT
+ 
+      - name: Run GPT Translate
+        uses: FattySpring/gpt-translate@master
+        with:
+          apikey: ${{ secrets.OPENAI_API_KEY }}
+          model: "gpt-4o"
+          max_tokens: 3000
+          inputFiles: ${{ steps.changed_files.outputs.files }}
+          outputFiles: 'official/i18n/ar-SA/docusaurus-plugin-content-docs/current/**/*.md official/i18n/de-DE/docusaurus-plugin-content-docs/current/**/*.md official/i18n/es-ES/docusaurus-plugin-content-docs/current/**/*.md official/i18n/fr-FR/docusaurus-plugin-content-docs/current/**/*.md official/i18n/hi-IN/docusaurus-plugin-content-docs/current/**/*.md official/i18n/it-IT/docusaurus-plugin-content-docs/current/**/*.md official/i18n/ja-JP/docusaurus-plugin-content-docs/current/**/*.md official/i18n/ko-KR/docusaurus-plugin-content-docs/current/**/*.md official/i18n/pt-BR/docusaurus-plugin-content-docs/current/**/*.md official/i18n/pt-PT/docusaurus-plugin-content-docs/current/**/*.md official/i18n/ru-RU/docusaurus-plugin-content-docs/current/**/*.md'
+          languages: 'Arabic German Spanish French Hindi Italian Japanese Korean Portuguese(Brazil) Portuguese(Portugal) Russian'
+          prompt: |
+            你是一位专业的技术文档翻译专家。
+            请将以下 Markdown 内容翻译成 {targetLanguage}，并严格遵循以下规则：
+
+            1. 保持原有格式：
+               - 保持所有 Markdown 语法不变
+               - 保留所有代码块和 HTML 标签
+               - 保持原有的换行和空格
+               - 保持所有链接和 URL 不变
+               - 请不要返回 ```markdown 开头和 ``` 结尾的代码块
+
+            2. 专业术语：
+               - 保持所有技术术语为英文
+               - 'Release'、'Preview' 等词保持英文
+               - 保持所有版本号和技术规格不变
+          basePath: ${{ secrets.OPENAI_BASE_PATH }}
