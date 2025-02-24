@@ -19,14 +19,15 @@ jobs:
       - name: get changed files name
         id: changed_files
         run: |
-          echo "files=$(git diff --name-only HEAD^ HEAD | grep '\.md$' | tr '\n' ' ')" >> $GITHUB_OUTPUT
+          echo "files=$(git diff --name-only HEAD^ HEAD | grep '^official/docs/.*\.md$' | grep -v 'CHANGELOG\.md$' | tr '\n' ' ')" >> $GITHUB_OUTPUT
  
       - name: Run GPT Translate
         uses: FattySpring/gpt-translate@master
         with:
           apikey: ${{ secrets.OPENAI_API_KEY }}
           model: 'gpt-4o-2024-08-06'
-          max_tokens: 3000
+          max_tokens: 5000
+          temperature: 0
           inputFiles: ${{ steps.changed_files.outputs.files }}
           outputFiles: 'official/i18n/zh-TW/docusaurus-plugin-content-docs/current/**/*.md'
           languages: 'TraditionalChinese'

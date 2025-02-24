@@ -19,14 +19,15 @@ jobs:
       - name: get changed files name
         id: changed_files
         run: |
-          echo "files=$(git diff --name-only HEAD^ HEAD | grep '\.md$' | tr '\n' ' ')" >> $GITHUB_OUTPUT
+          echo "files=$(git diff --name-only HEAD^ HEAD | grep '^official/i18n/en-US/docusaurus-plugin-content-docs/current/.*\.md$' | tr '\n' ' ')" >> $GITHUB_OUTPUT
  
       - name: Run GPT Translate
         uses: FattySpring/gpt-translate@master
         with:
           apikey: ${{ secrets.OPENAI_API_KEY }}
           model: "gpt-4o"
-          max_tokens: 3000
+          max_tokens: 5000
+          temperature: 0
           inputFiles: ${{ steps.changed_files.outputs.files }}
           outputFiles: 'official/i18n/ar-SA/docusaurus-plugin-content-docs/current/**/*.md official/i18n/de-DE/docusaurus-plugin-content-docs/current/**/*.md official/i18n/es-ES/docusaurus-plugin-content-docs/current/**/*.md official/i18n/fr-FR/docusaurus-plugin-content-docs/current/**/*.md official/i18n/hi-IN/docusaurus-plugin-content-docs/current/**/*.md official/i18n/it-IT/docusaurus-plugin-content-docs/current/**/*.md official/i18n/ja-JP/docusaurus-plugin-content-docs/current/**/*.md official/i18n/ko-KR/docusaurus-plugin-content-docs/current/**/*.md official/i18n/pt-BR/docusaurus-plugin-content-docs/current/**/*.md official/i18n/pt-PT/docusaurus-plugin-content-docs/current/**/*.md official/i18n/ru-RU/docusaurus-plugin-content-docs/current/**/*.md'
           languages: 'Arabic German Spanish French Hindi Italian Japanese Korean Portuguese(Brazil) Portuguese(Portugal) Russian'
