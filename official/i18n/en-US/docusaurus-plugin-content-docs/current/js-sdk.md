@@ -92,7 +92,7 @@ If you want to translate a specific area and consider an element as a whole with
 export interface PageRule {
   excludeMatches?: string | string[]; // Exclude specific websites.
   selectorMatches?: string | string[]; // Match using selectors without specifying all URLs
-  excludeSelectorMatches?: string | string[]; // Exclude rules, same as above. 
+  excludeSelectorMatches?: string | string[]; // Exclude rules, same as above.
 
   // Specify translation range
   selectors?: string | string[]; // Translate only matched elements
