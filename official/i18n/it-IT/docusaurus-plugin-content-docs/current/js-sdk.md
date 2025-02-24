@@ -4,11 +4,11 @@ sidebar_position: 5
 
 # JS SDK
 
-The Immersive Translate JS SDK helps you implement bilingual translation on your website.
+L'SDK Immersive Translate JS ti aiuta a implementare la traduzione bilingue sul tuo sito web.
 
-## How to Use
+## Come Utilizzare
 
-1. Initialize Immersive Translate:
+1. Inizializza Immersive Translate:
 
 ```js
 <script>
@@ -18,13 +18,13 @@ The Immersive Translate JS SDK helps you implement bilingual translation on your
 </script>
 ```
 
-2. Add the following `script` code to your webpage
+2. Aggiungi il seguente codice `script` alla tua pagina web
 
 ```html
 <script src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"></script>
 ```
 
-Example
+Esempio
 
 ```html
 <!doctype html>
@@ -56,9 +56,9 @@ Example
 </html>
 ```
 
-## Parameters
+## Parametri
 
-With `pageRule`, you can customize the configuration of the website, deciding which content needs to be translated or adjusting the webpage styles.
+Con `pageRule`, puoi personalizzare la configurazione del sito web, decidendo quale contenuto deve essere tradotto o regolando gli stili della pagina web.
 
 ```js
 initImmersiveTranslate({
@@ -69,15 +69,15 @@ initImmersiveTranslate({
 });
 ```
 
-Using `selectors` will override the smart translation range, translating only elements matched by the selector.
+Usare `selectors` sovrascriverà l'intervallo di traduzione intelligente, traducendo solo gli elementi corrispondenti al selettore.
 
-Using `excludeSelectors` can exclude elements from translation.
+Usare `excludeSelectors` può escludere elementi dalla traduzione.
 
-Using `selectors.add` will add some selectors on top of the default ones.
+Usare `selectors.add` aggiungerà alcuni selettori in cima a quelli predefiniti.
 
-Using `selectors.remove` will remove some selectors from the default ones.
+Usare `selectors.remove` rimuoverà alcuni selettori da quelli predefiniti.
 
-If you want to translate a specific area and consider an element as a whole without breaking it into lines, you can use the `atomicBlockSelectors` selector. Note that you need to select elements using `selectors` before using `atomicBlockSelectors`.
+Se vuoi tradurre un'area specifica e considerare un elemento come un tutto senza suddividerlo in righe, puoi usare il selettore `atomicBlockSelectors`. Nota che devi selezionare gli elementi usando `selectors` prima di usare `atomicBlockSelectors`.
 
 ```json
 {
@@ -86,74 +86,74 @@ If you want to translate a specific area and consider an element as a whole with
 }
 ```
 
-`pageRule` more parameter explanations:
+Ulteriori spiegazioni sui parametri di `pageRule`:
 
 ```typescript
 export interface PageRule {
-  excludeMatches?: string | string[]; // Exclude specific websites.
-  selectorMatches?: string | string[]; // Match using selectors without specifying all URLs
-  excludeSelectorMatches?: string | string[]; // Exclude rules, same as above.
+  excludeMatches?: string | string[]; // Escludi siti web specifici.
+  selectorMatches?: string | string[]; // Corrispondenza usando selettori senza specificare tutti gli URL
+  excludeSelectorMatches?: string | string[]; // Escludi regole, come sopra.
 
-  // Specify translation range
-  selectors?: string | string[]; // Translate only matched elements
-  excludeSelectors?: string | string[]; // Exclude elements, do not translate matched elements
-  excludeTags?: string | string[]; // Exclude tags, do not translate matched tags
+  // Specifica l'intervallo di traduzione
+  selectors?: string | string[]; // Traduci solo elementi corrispondenti
+  excludeSelectors?: string | string[]; // Escludi elementi, non tradurre elementi corrispondenti
+  excludeTags?: string | string[]; // Escludi tag, non tradurre tag corrispondenti
 
-  // Add translation range, not override
-  additionalSelectors?: string | string[]; // Add translation range. Add translation positions in smart translation areas.
-  additionalExcludeSelectors?: string | string[]; // Add excluded elements to prevent smart translation in specific positions.
-  additionalExcludeTags?: string | string[]; // Add excluded tags
+  // Aggiungi intervallo di traduzione, non sovrascrivere
+  additionalSelectors?: string | string[]; // Aggiungi intervallo di traduzione. Aggiungi posizioni di traduzione in aree di traduzione intelligente.
+  additionalExcludeSelectors?: string | string[]; // Aggiungi elementi esclusi per prevenire la traduzione intelligente in posizioni specifiche.
+  additionalExcludeTags?: string | string[]; // Aggiungi tag esclusi
 
-  // Keep original
-  stayOriginalSelectors?: string | string[]; // Matched elements will remain original. Commonly used for tags on forum websites.
-  stayOriginalTags?: string | string[]; // Matched tags will remain original, such as `code`
+  // Mantieni originale
+  stayOriginalSelectors?: string | string[]; // Gli elementi corrispondenti rimarranno originali. Comunemente usato per tag su siti web di forum.
+  stayOriginalTags?: string | string[]; // I tag corrispondenti rimarranno originali, come `code`
 
-  // Region translation
-  atomicBlockSelectors?: string | string[]; // Region selector, matched elements will be considered as a whole, not translated in segments
-  atomicBlockTags?: string | string[]; // Region tag selector, same as above
+  // Traduzione regionale
+  atomicBlockSelectors?: string | string[]; // Selettore di regione, gli elementi corrispondenti saranno considerati come un tutto, non tradotti in segmenti
+  atomicBlockTags?: string | string[]; // Selettore di tag di regione, come sopra
 
-  // Block or Inline
-  extraBlockSelectors?: string | string[]; // Extra selectors, matched elements will be treated as block elements, occupying one line.
-  extraInlineSelectors?: string | string[]; // Extra selectors, matched elements will be treated as inline elements.
+  // Blocco o Inline
+  extraBlockSelectors?: string | string[]; // Selettori extra, gli elementi corrispondenti saranno trattati come elementi di blocco, occupando una linea.
+  extraInlineSelectors?: string | string[]; // Selettori extra, gli elementi corrispondenti saranno trattati come elementi inline.
 
-  inlineTags?: string | string[]; // Matched tags will be treated as inline elements
-  preWhitespaceDetectedTags?: string | string[]; // Matched tags will automatically wrap lines
+  inlineTags?: string | string[]; // I tag corrispondenti saranno trattati come elementi inline
+  preWhitespaceDetectedTags?: string | string[]; // I tag corrispondenti avvolgeranno automaticamente le righe
 
-  // Translation styles
-  translationClasses?: string | string | string[]; // Add extra classes to the translation
+  // Stili di traduzione
+  translationClasses?: string | string | string[]; // Aggiungi classi extra alla traduzione
 
-  // Global styles
-  globalStyles?: Record<string, string>; // Modify page styles, useful when translations cause page disorder.
-  globalAttributes?: Record<string, Record<string, string>>; // Modify attributes of page elements
+  // Stili globali
+  globalStyles?: Record<string, string>; // Modifica gli stili della pagina, utile quando le traduzioni causano disordine nella pagina.
+  globalAttributes?: Record<string, Record<string, string>>; // Modifica gli attributi degli elementi della pagina
 
-  // Embedded styles
-  injectedCss?: string | string[]; // Embed CSS styles
-  additionalInjectedCss?: string | string[]; // Add CSS styles instead of directly overriding.
+  // Stili incorporati
+  injectedCss?: string | string[]; // Incorpora stili CSS
+  additionalInjectedCss?: string | string[]; // Aggiungi stili CSS invece di sovrascrivere direttamente.
 
-  // Context
-  wrapperPrefix?: string; // Prefix of the translation area, default is smart, decides whether to wrap lines based on the number of characters.
-  wrapperSuffix?: string; // Suffix of the translation area
+  // Contesto
+  wrapperPrefix?: string; // Prefisso dell'area di traduzione, predefinito è smart, decide se avvolgere le righe in base al numero di caratteri.
+  wrapperSuffix?: string; // Suffisso dell'area di traduzione
 
-  // Translation wrapping character count
-  blockMinTextCount?: number; // Minimum character count for translation as a block, otherwise, the translation will be an inline element.
-  blockMinWordCount?: number; // Same as above. To always wrap lines, set both to 0.
+  // Conteggio caratteri di avvolgimento traduzione
+  blockMinTextCount?: number; // Conteggio minimo di caratteri per la traduzione come blocco, altrimenti, la traduzione sarà un elemento inline.
+  blockMinWordCount?: number; // Come sopra. Per avvolgere sempre le righe, imposta entrambi a 0.
 
-  // Minimum character count for translatable content
-  containerMinTextCount?: number; // Minimum character count for elements to be translated during smart recognition, default is 18
-  paragraphMinTextCount?: number; // Minimum character count for original paragraph, content greater than the number will be translated
-  paragraphMinWordCount?: number; // Minimum word count for original paragraph
+  // Conteggio minimo di caratteri per contenuto traducibile
+  containerMinTextCount?: number; // Conteggio minimo di caratteri per elementi da tradurre durante il riconoscimento intelligente, predefinito è 18
+  paragraphMinTextCount?: number; // Conteggio minimo di caratteri per paragrafo originale, contenuto maggiore del numero sarà tradotto
+  paragraphMinWordCount?: number; // Conteggio minimo di parole per paragrafo originale
 
-  // Forced line break character count for long paragraphs
-  lineBreakMaxTextCount?: number; // Maximum character count for forced line break when translating long paragraphs.
+  // Conteggio caratteri di interruzione forzata per paragrafi lunghi
+  lineBreakMaxTextCount?: number; // Conteggio massimo di caratteri per interruzione forzata quando si traducono paragrafi lunghi.
 
-  // Timing to start translation
-  urlChangeDelay?: number; // Delay in milliseconds before starting translation after entering the page. Default is 250ms to wait for webpage initialization.
+  // Momento per iniziare la traduzione
+  urlChangeDelay?: number; // Ritardo in millisecondi prima di iniziare la traduzione dopo l'ingresso nella pagina. Predefinito è 250ms per attendere l'inizializzazione della pagina web.
 
-  // AI streaming translation
+  // Traduzione in streaming AI
   aiRule: {
-    streamingSelector: string; // GPT webpage selector marking the translating element
-    messageWrapperSelector: string; // Message body selector
-    streamingChange: boolean; // Incremental or full update for repeated messages in GPT-like webpages. GPT is incremental
+    streamingSelector: string; // Selettore di pagina web GPT che segna l'elemento in traduzione
+    messageWrapperSelector: string; // Selettore del corpo del messaggio
+    streamingChange: boolean; // Aggiornamento incrementale o completo per messaggi ripetuti in pagine web simili a GPT. GPT è incrementale
   };
 }
 ```
