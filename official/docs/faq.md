@@ -8,7 +8,7 @@ sidebar_position: 9
 
 ### 1. Android App，手机安全中心误报
 
-经开发排查这是由于腾讯安全中心误报，可从 [官网](https://immersivetranslate.com/) 卸载安装最新版本
+经开发排查这是由于腾讯安全中心误报，可从 [官网](https://immersivetranslate.com/) 卸载安装最新版本。
 
 ## 安装相关
 
