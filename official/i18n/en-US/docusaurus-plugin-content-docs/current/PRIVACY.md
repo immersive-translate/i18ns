@@ -5,11 +5,12 @@ custom_edit_url: null
 
 # PRIVACY
 
-Updated on: September 20, 2024
+Updated on: February 25, 2025
 
 ## Data Collection and Usage
 
 - We will collect information regarding your use of this application, such as usage frequency and the features you use. This data will be aggregated and will not identify any specific individual.
+- When you use the translation services provided by Immersive Translate, we will collect the content you input during the translation process (including text, images, and files). We will analyze and process this information to provide you with convenient and high-quality translation results.
 - We will collect your device information (such as device ID, browser model, and version) to improve our services. The device ID will be used as an anonymous identifier and will not be associated with any of your personal identity information.
 - If you log into the account system, we will need you to provide an email address, which will serve as your unique identifier, login name, and password recovery method.
 - We may collect and use your IP address information to determine your country or region. This information is only used to provide localized service content and product optimization.
