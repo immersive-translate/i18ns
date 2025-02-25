@@ -56,11 +56,11 @@ custom_edit_url: null
 
 用户可以通过设备的设置功能，随时查看和管理应用的权限授予情况。如有任何疑问或需要进一步了解权限使用详情，请随时通过我们的官方渠道联系我们。
 
-## 关于移动端应用的第三方SDK说明
+## 关于移动端应用的第三方 SDK 说明
 
 - **沉浸式翻译**使用**Adjust**进行应用市场广告投放及效果分析，**Adjust SDK**会收集无法直接识别用户的去身份化的数据，包括**设备标识码（IMEI，Android ID、OAID）**、曝光、点击等广告数据。关于 Adjust 的更多信息可访问[官网链接](https://www.adjust.com/)及[隐私协议链接](https://www.adjust.com/terms/privacy-policy/)
 - **沉浸式翻译**使用**Meta Pixel**进行 Facebook 广告投放及效果分析，**Facebook SDK**会收集无法直接识别用户的去身份化的数据，包括**设备标识码（IMEI，Android ID、OAID）**、曝光、点击等广告数据。关于 Meta Pixel 的更多信息可访问[Facebook 隐私协议](https://www.facebook.com/privacy/policy/)及[Meta Pixel 条款与政策](https://developers.facebook.com/docs/meta-pixel/guides/terms-and-policies)
-- **沉浸式翻译**接入了**Google**和**Facebook**的第三方登录SDK，以便为用户提供更便捷的登录方式。当用户选择通过Google或Facebook账号登录时，用户的身份信息（如用户名、邮箱地址等）将由相应的第三方平台提供，并受其隐私政策和服务条款的约束。
+- **沉浸式翻译**接入了**Google**和**Facebook**的第三方登录 SDK，以便为用户提供更便捷的登录方式。当用户选择通过 Google 或 Facebook 账号登录时，用户的身份信息（如用户名、邮箱地址等）将由相应的第三方平台提供，并受其隐私政策和服务条款的约束。
 
 ## 关于 Safari 扩展的权限说明
 

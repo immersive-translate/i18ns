@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # JS SDK
 
-Immersive Translate JS SDK는 웹사이트에서 이중 언어 번역을 구현하는 데 도움을 줍니다.
+Immersive Translate JS SDK 는 웹사이트에서 이중 언어 번역을 구현하는 데 도움을 줍니다.
 
 ## 사용 방법
 
@@ -91,7 +91,7 @@ initImmersiveTranslate({
 ```typescript
 export interface PageRule {
   excludeMatches?: string | string[]; // 특정 웹사이트 제외.
-  selectorMatches?: string | string[]; // 모든 URL을 지정하지 않고 선택자를 사용하여 일치
+  selectorMatches?: string | string[]; // 모든 URL 을 지정하지 않고 선택자를 사용하여 일치
   excludeSelectorMatches?: string | string[]; // 제외 규칙, 위와 동일.
 
   // 번역 범위 지정
@@ -136,10 +136,10 @@ export interface PageRule {
 
   // 번역 줄 감싸기 문자 수
   blockMinTextCount?: number; // 블록으로 번역하기 위한 최소 문자 수, 그렇지 않으면 번역은 인라인 요소가 됩니다.
-  blockMinWordCount?: number; // 위와 동일. 항상 줄을 감싸려면 둘 다 0으로 설정하세요.
+  blockMinWordCount?: number; // 위와 동일. 항상 줄을 감싸려면 둘 다 0 으로 설정하세요.
 
   // 번역 가능한 콘텐츠의 최소 문자 수
-  containerMinTextCount?: number; // 스마트 인식 중 번역할 요소의 최소 문자 수, 기본값은 18입니다.
+  containerMinTextCount?: number; // 스마트 인식 중 번역할 요소의 최소 문자 수, 기본값은 18 입니다.
   paragraphMinTextCount?: number; // 원본 단락의 최소 문자 수, 내용이 이 수보다 크면 번역됩니다.
   paragraphMinWordCount?: number; // 원본 단락의 최소 단어 수
 
@@ -147,13 +147,13 @@ export interface PageRule {
   lineBreakMaxTextCount?: number; // 긴 단락을 번역할 때 강제 줄 바꿈을 위한 최대 문자 수.
 
   // 번역 시작 시점
-  urlChangeDelay?: number; // 페이지에 들어간 후 번역을 시작하기 전의 지연 시간(밀리초). 기본값은 250ms로, 웹페이지 초기화를 기다립니다.
+  urlChangeDelay?: number; // 페이지에 들어간 후 번역을 시작하기 전의 지연 시간 (밀리초). 기본값은 250ms 로, 웹페이지 초기화를 기다립니다.
 
   // AI 스트리밍 번역
   aiRule: {
     streamingSelector: string; // 번역 요소를 표시하는 GPT 웹페이지 선택자
     messageWrapperSelector: string; // 메시지 본문 선택자
-    streamingChange: boolean; // GPT와 같은 웹페이지에서 반복되는 메시지의 증분 또는 전체 업데이트. GPT는 증분입니다.
+    streamingChange: boolean; // GPT 와 같은 웹페이지에서 반복되는 메시지의 증분 또는 전체 업데이트. GPT 는 증분입니다.
   };
 }
 ```

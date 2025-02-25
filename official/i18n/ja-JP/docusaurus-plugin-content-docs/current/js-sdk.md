@@ -4,11 +4,11 @@ sidebar_position: 5
 
 # JS SDK
 
-Immersive Translate JS SDKは、ウェブサイトでバイリンガル翻訳を実装するのに役立ちます。
+Immersive Translate JS SDK は、ウェブサイトでバイリンガル翻訳を実装するのに役立ちます。
 
 ## 使用方法
 
-1. Immersive Translateを初期化します：
+1. Immersive Translate を初期化します：
 
 ```js
 <script>
@@ -91,7 +91,7 @@ initImmersiveTranslate({
 ```typescript
 export interface PageRule {
   excludeMatches?: string | string[]; // 特定のウェブサイトを除外します。
-  selectorMatches?: string | string[]; // すべてのURLを指定せずにセレクタを使用して一致させます。
+  selectorMatches?: string | string[]; // すべての URL を指定せずにセレクタを使用して一致させます。
   excludeSelectorMatches?: string | string[]; // 除外ルール、上記と同様。
 
   // 翻訳範囲を指定
@@ -106,14 +106,14 @@ export interface PageRule {
 
   // オリジナルを保持
   stayOriginalSelectors?: string | string[]; // 一致する要素はオリジナルのままになります。フォーラムウェブサイトのタグによく使用されます。
-  stayOriginalTags?: string | string[]; // 一致するタグはオリジナルのままになります。例えば`code`
+  stayOriginalTags?: string | string[]; // 一致するタグはオリジナルのままになります。例えば `code`
 
   // リージョン翻訳
   atomicBlockSelectors?: string | string[]; // リージョンセレクタ、一致する要素は全体として考慮され、セグメントに分割されません
   atomicBlockTags?: string | string[]; // リージョンタグセレクタ、上記と同様
 
   // ブロックまたはインライン
-  extraBlockSelectors?: string | string[]; // 追加セレクタ、一致する要素はブロック要素として扱われ、1行を占有します。
+  extraBlockSelectors?: string | string[]; // 追加セレクタ、一致する要素はブロック要素として扱われ、1 行を占有します。
   extraInlineSelectors?: string | string[]; // 追加セレクタ、一致する要素はインライン要素として扱われます。
 
   inlineTags?: string | string[]; // 一致するタグはインライン要素として扱われます
@@ -127,8 +127,8 @@ export interface PageRule {
   globalAttributes?: Record<string, Record<string, string>>; // ページ要素の属性を変更
 
   // 埋め込みスタイル
-  injectedCss?: string | string[]; // CSSスタイルを埋め込む
-  additionalInjectedCss?: string | string[]; // 直接上書きせずにCSSスタイルを追加。
+  injectedCss?: string | string[]; // CSS スタイルを埋め込む
+  additionalInjectedCss?: string | string[]; // 直接上書きせずに CSS スタイルを追加。
 
   // コンテキスト
   wrapperPrefix?: string; // 翻訳エリアのプレフィックス、デフォルトはスマートで、文字数に基づいて行を折り返すかどうかを決定します。
@@ -136,10 +136,10 @@ export interface PageRule {
 
   // 翻訳ラッピング文字数
   blockMinTextCount?: number; // ブロックとして翻訳するための最小文字数、それ以外の場合、翻訳はインライン要素になります。
-  blockMinWordCount?: number; // 上記と同様。常に行を折り返すには、両方を0に設定します。
+  blockMinWordCount?: number; // 上記と同様。常に行を折り返すには、両方を 0 に設定します。
 
   // 翻訳可能なコンテンツの最小文字数
-  containerMinTextCount?: number; // スマート認識中に翻訳される要素の最小文字数、デフォルトは18
+  containerMinTextCount?: number; // スマート認識中に翻訳される要素の最小文字数、デフォルトは 18
   paragraphMinTextCount?: number; // オリジナル段落の最小文字数、数値を超えるコンテンツは翻訳されます
   paragraphMinWordCount?: number; // オリジナル段落の最小単語数
 
@@ -147,13 +147,13 @@ export interface PageRule {
   lineBreakMaxTextCount?: number; // 長い段落を翻訳する際の強制改行の最大文字数。
 
   // 翻訳を開始するタイミング
-  urlChangeDelay?: number; // ページに入った後、翻訳を開始するまでの遅延時間（ミリ秒）。デフォルトは250msで、ウェブページの初期化を待ちます。
+  urlChangeDelay?: number; // ページに入った後、翻訳を開始するまでの遅延時間（ミリ秒）。デフォルトは 250ms で、ウェブページの初期化を待ちます。
 
-  // AIストリーミング翻訳
+  // AI ストリーミング翻訳
   aiRule: {
-    streamingSelector: string; // GPTウェブページセレクタ、翻訳中の要素をマーク
+    streamingSelector: string; // GPT ウェブページセレクタ、翻訳中の要素をマーク
     messageWrapperSelector: string; // メッセージボディセレクタ
-    streamingChange: boolean; // GPTのようなウェブページでの繰り返しメッセージのインクリメンタルまたはフルアップデート。GPTはインクリメンタル
+    streamingChange: boolean; // GPT のようなウェブページでの繰り返しメッセージのインクリメンタルまたはフルアップデート。GPT はインクリメンタル
   };
 }
 ```
