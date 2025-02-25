@@ -78,7 +78,7 @@
     "description": "The label of footer link with label=Telegram 用户群 linking to https://t.me/+rq848Z09nehlOTgx"
   },
   "link.item.html.main": {
-    "message": "<div class=\"footer-info-tw\"><div class=\"footer-title-tw\"><img src=\"https://s.immersivetranslate.com/static/official-static/img/logo.png\"/>沉浸式翻譯</div><div class=\"footer-desc\">一鍵開啟雙語閱讀，提升資訊獲取效率<a class=\"install\" href=\"https://immersivetranslate.com/\" target=\"_blank\">立即安裝</a></div><div class=\"footer-address footer-margin-top\" style=\"text-decoration: underline; color:\"><a style=\"color: #ffffff;\" href=\"https://immersivetranslate.com/docs/PRIVACY/\" target=\"_blank\">隱私協議</a></div></div>"
+    "message": "<div class=\"footer-info-tw\"><div class=\"footer-title-tw\"><img src=\"https://s.immersivetranslate.com/static/official-static/img/logo.png\"/>沉浸式翻譯</div><div class=\"footer-desc\">一鍵開啟雙語閱讀，提升資訊獲取效率<a class=\"install\" href=\"https://immersivetranslate.com/\" target=\"_blank\">立即安裝</a></div><div class=\"footer-address footer-margin-top\" style=\"text-decoration: underline; color:\"><a style=\"color: #ffffff;\" href=\"https://immersivetranslate.com/docs/PRIVACY/\" target=\"_blank\">隱私協議</a></div><div id=\"currency-box\"></div></div>"
   },
   "link.item.html.end": {
     "message": ""
