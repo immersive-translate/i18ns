@@ -62,7 +62,6 @@ custom_edit_url: null
 - **沉浸式翻译**使用**Meta Pixel**进行 Facebook 广告投放及效果分析，**Facebook SDK**会收集无法直接识别用户的去身份化的数据，包括**设备标识码（IMEI，Android ID、OAID）**、曝光、点击等广告数据。关于 Meta Pixel 的更多信息可访问[Facebook 隐私协议](https://www.facebook.com/privacy/policy/)及[Meta Pixel 条款与政策](https://developers.facebook.com/docs/meta-pixel/guides/terms-and-policies)
 - **沉浸式翻译**接入了**Google**和**Facebook**的第三方登录SDK，以便为用户提供更便捷的登录方式。当用户选择通过Google或Facebook账号登录时，用户的身份信息（如用户名、邮箱地址等）将由相应的第三方平台提供，并受其隐私政策和服务条款的约束。
 
-
 ## 关于 Safari 扩展的权限说明
 
 当您在 Safari 浏览器中启用沉浸式翻译扩展时，将会看到一个权限提示，内容为：“该扩展可以阅读，修改敏感信息，包括银行卡信息等”。我们理解这可能会引起您的担忧，因此希望提供一些背景信息和我们对您隐私的承诺：
