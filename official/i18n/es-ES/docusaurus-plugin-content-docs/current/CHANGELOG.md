@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Registro de Cambios
 
-Este registro de cambios se actualiza según el progreso del desarrollo. La fecha después de la versión es la fecha de fusión del código, no la fecha de Release en las tiendas de aplicaciones (el tiempo de revisión varía después de la presentación a cada tienda de aplicaciones, algunas pueden tardar hasta una semana en revisar). Actualmente, estamos avanzando con dos versiones.
+Este registro de cambios se actualiza de acuerdo con el progreso del desarrollo. La fecha después de la versión es la fecha de fusión del código, no la fecha de lanzamiento en las tiendas de aplicaciones (el tiempo de revisión varía después de la presentación a cada tienda de aplicaciones, algunas pueden tardar hasta una semana en revisar). Actualmente, estamos avanzando con dos versiones.
 
 La **versión Release** es la versión estable oficial, disponible en las principales tiendas de aplicaciones como
 [Chrome](https://chromewebstore.google.com/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh),
@@ -18,9 +18,9 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 - [versión beta en la tienda de Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.14.16 Preview (2025-02-21)
+## 1.14.16 Release (2025-02-21)
 
-- Añadido: Deepseek, Gemini, Cluade soporte para cambio de contexto.
+- Añadido: Deepseek, Gemini, Claude soportan cambio de contexto.
 - Corregido: Actualizar términos no envía nueva solicitud de traducción.
 - Mejorado: El idioma de la interfaz añade húngaro.
 - Mejorado: Calidad de traducción de Google.
@@ -29,9 +29,9 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 ## 1.14.12 Release (2025-02-19)
 
 - Mejorado: Pausar la traducción limpia inmediatamente la cola de solicitudes.
-- Mejorado: Filtra texto sucio en el servicio de traducción de deepl.
+- Mejorado: Filtra texto sucio en el servicio de traducción deepl.
 - Corregido: Traducción de la barra lateral inválida en configuraciones avanzadas.
-- Corregido: Problema de visualización de traducción personalizada de deepseek.
+- Corregido: Problema de visualización de traducción personalizada deepseek.
 
 ## 1.14.11 Release (2025-02-18)
 
@@ -41,7 +41,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 - Nuevo: Membresía Pro soporta el servicio de traducción DeepSeek (v3).
 - Corregido: Resuelto el problema de que el archivo de configuración del usuario excedía el límite de tamaño.
-- Mejorado: El elemento del menú de clic derecho se puede cerrar (operado en configuraciones avanzadas).
+- Mejorado: El elemento del menú del clic derecho se puede cerrar (operado en configuraciones avanzadas).
 - Mejorado: Mejoradas las capacidades de reconocimiento de idioma para Greasemonkey y Safari en páginas con idiomas menores.
 - Mejorado: Acceso a la interfaz de prueba de la página de configuraciones en línea.
 - Mejorado: Mejorada la experiencia del usuario de la función de vista previa de comparación de contexto.
@@ -69,8 +69,8 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 ## 1.13.8 Release (2025-01-24)
 
-- Nuevo: La traducción de imágenes gratuita ahora está disponible (actualmente solo soportada en las versiones de PC de los navegadores Chrome y Edge), accesible a través del menú de clic derecho.
-- Corregido: Abordado un problema donde se omitía algún contenido durante la traducción de múltiples segmentos en Gemini.
+- Nuevo: La traducción de imágenes gratuita ahora está disponible (actualmente solo soportada en versiones de PC de los navegadores Chrome y Edge), accesible a través del menú del clic derecho.
+- Corregido: Abordado un problema donde se omitía contenido durante la traducción de múltiples segmentos en Gemini.
 - Optimizado: Mejorada la carga de subtítulos de YouTube.
 - Nuevo: El servicio de traducción de IA ahora soporta noruego.
 
@@ -103,7 +103,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 - Corregido: el problema donde la página de configuraciones de iOS 18.3 no se muestra correctamente.
 - Corregido: la falta de líneas vacías al traducir tweets.
-- Corregido: el problema de los números decimales que se rompen en líneas al traducir textos largos.
+- Corregido: el problema de que los números decimales se rompen forzosamente al traducir textos largos.
 
 ## 1.12.7 Release (2024-12-30)
 
@@ -152,7 +152,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 - Añadido: La **Subtitles Translation** en reuniones en tiempo real ahora soporta activación a través de "bola flotante", disponible en Zoom, Google Meet y Microsoft Teams.
 - Corregido: Problemas de sincronización de subtítulos en YouTube después de ver anuncios.
-- Corregido: Problemas de visualización con el menú de traducción de clic derecho en Safari en MacOS 15.
+- Corregido: Problemas de visualización con el menú de traducción del clic derecho en Safari en MacOS 15.
 - Corregido: Problemas con la funcionalidad de deshacer Ctrl+Z en el **Enhanced input** en ciertos sitios web.
 
 ## 1.10.6 (2024-10-25)
@@ -170,7 +170,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 ## 1.10.2 (2024-10-11)
 
 - Añadido: Traducción de imágenes (versión Beta).
-- Añadido: Modo de Soporte de Ratón Forzado (Habilite esta función solo si la función de pasar el ratón no está disponible en dispositivos tablet) **Settings** -> **Advanced Settings** -> **Forece Enable Mouse Support**.
+- Añadido: Modo de Soporte de Ratón Forzado (Habilitar esta función solo si la función de pasar el ratón no está disponible en dispositivos tablet) **Settings** -> **Advanced Settings** -> **Forece Enable Mouse Support**.
 - Añadido: Mostrar mensaje de error cuando la traducción de subtítulos de video falla.
 - Corregido: Problema de traducción de texto enriquecido [#2163](https://github.com/immersive-translate/immersive-translate/issues/2163).
 - Mejorado: Abordados problemas donde el botón de traducción podría no funcionar durante la traducción de PDF.
@@ -188,8 +188,8 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 - Soporte mejorado para la entrada en Baidu, Gmail y otros campos de entrada
 - Soporte para el encabezado de solicitud anthropic-dangerous-direct-browser-access para la API de Claude Anthropic
 - Soporte para descargar subtítulos de videos de Hulu, Bloomberg y Domestika
-- DeepX soporta la traducción de texto enriquecido
-- Se solucionó el problema con los expertos en IA personalizados que no se sincronizaban
+- DeepX soporta traducción de texto enriquecido
+- Se solucionó el problema de que los expertos en IA personalizados no se sincronizaban
 
 ## 1.9.6 (2024-09-13)
 
@@ -206,7 +206,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 ## 1.9.1 (2024-09-03)
 
-- Soporte para configurar excepciones para idiomas y sitios web en modo de contraste bilingüe o solo traducción (configurar en la página de Configuración -> Configuración Avanzada). Por ejemplo: Si su modo de traducción predeterminado es el contraste bilingüe, pero no desea que el chino tradicional también use el contraste bilingüe, entonces puede agregar el chino tradicional a los idiomas de excepción para el contraste bilingüe, de modo que el chino tradicional use el modo solo traducción para la traducción. De manera similar, si su modo de traducción predeterminado es solo traducción, pero desea que un cierto idioma o sitio web use el modo de contraste bilingüe, también puede agregar ese idioma o sitio web a los idiomas de excepción.
+- Soporte para configurar excepciones para idiomas y sitios web en modo de contraste bilingüe o solo traducción (configurar en la página de Configuración -> Configuración Avanzada). Por ejemplo: Si su modo de traducción predeterminado es contraste bilingüe, pero no desea que el chino tradicional también use contraste bilingüe, entonces puede agregar el chino tradicional a los idiomas de excepción para el contraste bilingüe, de modo que el chino tradicional use el modo solo traducción para la traducción. De manera similar, si su modo de traducción predeterminado es solo traducción, pero desea que un cierto idioma o sitio web use el modo de contraste bilingüe, también puede agregar ese idioma o sitio web a los idiomas de excepción.
 - Se solucionó un problema donde el cuadro de entrada en la interfaz de mensajes privados de Tiktok se traducía incorrectamente
 - Se solucionó un problema donde los cómics en Read Comic Online no se podían traducir
 - Se solucionó un problema donde la [Configuración Avanzada -> Número mínimo de caracteres requeridos para traducir un párrafo] no surtía efecto en algunos casos
@@ -228,8 +228,8 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 ## 1.8.2
 
 - Ahora puede traducir texto en cuadros de entrada con el clic derecho: Seleccione cualquier texto en un cuadro de entrada en una página web, haga clic derecho para elegir traducir, y la traducción inmersiva traducirá automáticamente el texto seleccionado al idioma de destino del cuadro de entrada, lo que facilita traducir rápidamente texto en idioma nativo en cuadros de entrada a otros idiomas.
-- Ahora puede informar rápidamente problemas de traducción de páginas web en la bola flotante de traducción inmersiva. Después de traducir una página web, si hay algún problema, puede hacer clic en el botón [Feedback] en el lado derecho de la bola flotante, completar la descripción del problema, y lo resolveremos lo antes posible.
-- Los archivos Epub ahora soportan la traducción de texto enriquecido (es decir, preservando el formato del texto original de cada párrafo, como enlaces, negritas, etc.)
+- Ahora puede informar rápidamente problemas de traducción de páginas web en la bola flotante de traducción inmersiva. Después de traducir una página web, si hay algún problema, puede hacer clic en el botón [Feedback] en el lado derecho de la bola flotante, completar la descripción del problema y lo resolveremos lo antes posible.
+- Los archivos Epub ahora soportan traducción de texto enriquecido (es decir, preservando el formato del texto original de cada párrafo, como enlaces, negritas, etc.)
 - Soporte para subtítulos bilingües en tiempo real en reuniones de video de la versión web de Microsoft Teams (Abra el enlace de la reunión de Teams, active los subtítulos bilingües en el panel de traducción inmersiva y luego actualice)
 - Se optimizaron los subtítulos bilingües para la versión en inglés de iQIYI (iq.com)
 - Se proporcionaron más artículos de arXiv con un diseño de traducción bilingüe optimizado
@@ -266,7 +266,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 ## 1.7.6
 
-- Soporte para personalizar expertos en IA, la entrada está en la parte inferior de la página [Configuración]->[Experto en IA].
+- Soporte para personalizar expertos en IA, la entrada está en la parte inferior de la página de [Configuración]->[Experto en IA].
 - Optimizar la carga de subtítulos en el sitio de TED
 - Portugués (Brasil) es soportado como idioma del complemento.
 - Sitios soportados para la traducción de cómics
@@ -318,7 +318,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 - Cuando se utilizan expertos en IA para "Selección Inteligente", se pueden personalizar diferentes expertos en IA para diferentes sitios web. Esto se puede configurar en [Configuración] -> [Expertos en IA] -> [Ingresar cualquier experto].
 - Se solucionó el problema donde los subtítulos no se mostraban en YouTube en modo "Solo Traducción".
-- Se solucionó el problema de los subtítulos bilingües que no funcionaban en Mubi.
+- Se solucionó el problema de que los subtítulos bilingües no funcionaban en Mubi.
 - Compatible con PDFs abiertos con el complemento Adobe Acrobat.
 - Todos los usuarios pueden [contribuir en línea](https://weblate.immersivetranslate.com/projects/immersive-translate/extension/) a la traducción multilingüe de la interfaz de traducción inmersiva.
 
@@ -368,7 +368,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 - Los miembros Pro admiten servicios de traducción Claude y Gemini listos para usar (Beta)
 - Los subtítulos bilingües de YouTube admiten configuraciones de fuente y peso de fuente
-- Se solucionaron problemas de límite de palabras al ajustar párrafos largos [#86](https://github.com/immersive-translate/immersive-translate/issues/86)
+- Se solucionaron problemas de límites de palabras al ajustar párrafos largos [#86](https://github.com/immersive-translate/immersive-translate/issues/86)
 - Se solucionó el reconocimiento de los idiomas japonés y coreano
 - Se solucionó el problema donde las páginas de Reddit en dispositivos móviles no se traducían al desplazarse
 - Se solucionó la falta de traducciones en algunas páginas con DeepL
@@ -386,7 +386,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 ## 1.5.1
 
-- Soporte para servicios de traducción AI para configurar [AI Expert] para especificar la estrategia de traducción, actualmente una función Beta, que se puede habilitar en [Configuraciones de Desarrollador](https://dash.immersivetranslate.com/#developer) después de habilitar Beta, y el menú [AI Expert] se puede ver después de actualizar.
+- Soporte para servicios de traducción AI para configurar [AI Expert] para especificar la estrategia de traducción, actualmente una función Beta, que se puede habilitar en [Configuración de Desarrollador](https://dash.immersivetranslate.com/#developer) después de habilitar Beta, y el menú [AI Expert] se puede ver después de actualizar.
 - Los servicios de traducción AI ahora pueden personalizar la lista de modelos, como [OpenAI], el sistema solo tiene algunos de los modelos más utilizados integrados. Al hacer clic en la lista desplegable de modelos, el último elemento que ve es [Set More Models], después de configurar, se recordará automáticamente para la conveniencia de los usuarios que prueban diferentes modelos personalizados.
 - Se optimizó la inconsistencia en el diseño de las traducciones en algunos casos.
 - Se agregó un botón de restablecimiento para el estilo de subtítulos de YouTube, que puede restaurar rápidamente al estilo predeterminado.
@@ -400,7 +400,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 - Se solucionó el problema donde YouTube Shorts sin subtítulos siempre muestra subtítulos del video anterior [#1655](https://github.com/immersive-translate/immersive-translate/issues/1655)
 - Se solucionó el problema donde los subtítulos bilingües de YouTube no se podían ajustar hacia arriba y hacia abajo en pantalla completa [#1654](https://github.com/immersive-translate/immersive-translate/issues/1654)
 - Soporte para subtítulos bilingües en [VK Video](https://vk.com/video)
-- Soporte para configuraciones de activación independiente para subtítulos bilingües de video de YouTube (habilitado por defecto para nuevos usuarios)
+- Soporte para configuraciones de activación independientes para subtítulos bilingües de video de YouTube (habilitado por defecto para nuevos usuarios)
 - Se optimizaron los mensajes de error para la traducción de subtítulos bilingües locales
 
 ## 1.4.11
@@ -415,7 +415,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 ## 1.4.9
 
-- Los servicios de traducción ahora están organizados de manera distinta bajo una pestaña separada, lo que permite una visión general completa de todos los servicios de traducción disponibles. Además, los usuarios tienen la flexibilidad de personalizar qué servicios de traducción se muestran. Por defecto, solo se muestra una selección limitada de servicios de traducción, pero los usuarios pueden adaptar sus preferencias de visualización en la sección [More Services](https://dash.immersivetranslate.com/#services).
+- Los servicios de traducción ahora están organizados de manera distinta bajo una pestaña separada, permitiendo una visión general completa de todos los servicios de traducción disponibles. Además, los usuarios tienen la flexibilidad de personalizar qué servicios de traducción se muestran. Por defecto, solo se muestra una selección limitada de servicios de traducción, pero los usuarios pueden adaptar sus preferencias de visualización en la sección [More Services](https://dash.immersivetranslate.com/#services).
 - La página de configuración ahora acomoda ajustes para [estilos de subtítulos de YouTube](https://dash.immersivetranslate.com/#subtitle).
 - Se han realizado mejoras para abordar el problema donde los subtítulos bilingües inmersivos no se mostraban cuando los usuarios configuraban el idioma de los subtítulos a chino en el sitio web de YouTube.
 - Se ha introducido un nuevo atajo para la traducción temporal llamado Claude, que se puede configurar en la [página de Configuración de Atajos](https://dash.immersivetranslate.com/#shortcuts).
@@ -455,7 +455,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 - Se optimizó significativamente la velocidad de traducción de subtítulos de YouTube, y se agregó soporte para cambiar entre el orden chino e inglés, personalizar el color y tamaño de la fuente, etc.
 - La plataforma de subtítulos de video admite [University of Southampton](https://southampton.cloud.panopto.eu)
 - Subtítulos bilingües de Udemy compatibles con la visualización móvil
-- El servicio de traducción Gemini está oculto por defecto, se puede habilitar en configuraciones de desarrollador para mostrar la beta de este servicio de traducción
+- El servicio de traducción Gemini está oculto por defecto, se puede habilitar en la configuración de desarrollador para mostrar la beta de este servicio de traducción
 
 ## 1.3.4
 
@@ -480,7 +480,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 ## 1.3.1
 
-- Soporte para la plataforma de subtítulos de video [DeepLearning.ai](https://learn.deeplearning.ai)
+- La plataforma de subtítulos de video admite [DeepLearning.ai](https://learn.deeplearning.ai)
 - Soporte para la traducción de páginas web y subtítulos de video en idiomas como árabe, hebreo, etc., abordando problemas de visualización RTL (de derecha a izquierda)
 - Se solucionó la traducción de Gemini al hebreo
 - Se solucionó un problema donde algunos subtítulos en chino tradicional en YouTube no se podían mostrar correctamente
@@ -500,25 +500,25 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 - Solucionado el problema donde la configuración del color del texto no soportaba la vista previa RGBA [#1435](https://github.com/immersive-translate/immersive-translate/issues/1435)
 - Solucionado el problema donde al actualizar la versión del plugin de Safari siempre se mostraba la página de éxito de instalación
 - Microsoft añadió soporte para vietnamita
-- Solucionado el problema donde los subtítulos traducidos en el sitio de edx no se mostraban
+- Solucionado el problema donde los subtítulos traducidos en el sitio edx no se mostraban
 
 ## 1.2.2
 
-- Soporte para traducción de subtítulos de video para [pluto](https://pluto.tv/), [STARZ](https://www.starz.com/), [Paramount Plus](https://www.paramountplus.com/), [Rotten Tomatoes](https://www.rottentomatoes.com/), [Dailymotion](https://www.dailymotion.com/), [FMovies](https://fmoviesz.to/), [AniWatch](https://aniwatch.to/), [iQIYI](https://www.iq.com/), [Youku](https://www.youku.tv/), [movie-web](https://movie-web.app/). También soporta la traducción de algunos videos con subtítulos CC en Twitter.
+- Soporte de traducción de subtítulos de video para [pluto](https://pluto.tv/), [STARZ](https://www.starz.com/), [Paramount Plus](https://www.paramountplus.com/), [Rotten Tomatoes](https://www.rottentomatoes.com/), [Dailymotion](https://www.dailymotion.com/), [FMovies](https://fmoviesz.to/), [AniWatch](https://aniwatch.to/), [iQIYI](https://www.iq.com/), [Youku](https://www.youku.tv/), [movie-web](https://movie-web.app/). También soporta la traducción de algunos videos con subtítulos CC en Twitter.
 - Optimización de ventanas emergentes de error, las ventanas emergentes de error de problemas de red detectan automáticamente servicios de traducción gratuitos válidos.
 - Solucionado el soporte de la APP inmersiva de iOS para la reproducción en pantalla completa de YouTube.
 - Solucionado el problema de traducción de párrafos con Perplexity.ai [#707](https://github.com/immersive-translate/immersive-translate/issues/707).
 
 ## 1.2.1
 
-- Soporte para traducción de subtítulos de video para [Kanopy](https://www.kanopy.com/), [RachelsEnglishAcademy](https://www.rachelsenglishacademy.com/), [Hulu](https://www.hulu.com/), [Three.js Journey](https://threejs-journey.com/).
+- Soporte de traducción de subtítulos de video para [Kanopy](https://www.kanopy.com/), [RachelsEnglishAcademy](https://www.rachelsenglishacademy.com/), [Hulu](https://www.hulu.com/), [Three.js Journey](https://threejs-journey.com/).
 - Solucionado un problema donde algunos usuarios Pro no podían modificar configuraciones en el navegador Chrome.
 - Soporte para la visualización de subtítulos bilingües en el modo de pantalla completa de YouTube en iOS.
 
 ## 1.2.0
 
-- Soporte para traducción de subtítulos de video en las plataformas [LinkedIn](https://www.linkedin.com/) y [Viu](https://www.viu.com/).
-- Añadido acceso rápido a subtítulos de video para plataformas adicionales.
+- Soporte para la traducción de subtítulos de video en las plataformas [LinkedIn](https://www.linkedin.com/) y [Viu](https://www.viu.com/).
+- Añadido más acceso rápido a subtítulos de video para plataformas adicionales.
 - Soporte para configurar sitios web/idiomas específicos para mostrar solo el texto traducido.
 - Solucionado un problema donde la página de configuraciones mostraba continuamente la carga en algunos casos en Safari.
 - Soporte para traducir nodos de etiquetas de entrada.
@@ -526,7 +526,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 ## 1.1.9
 
-- Soporte para traducción de subtítulos en YouTube Live y la plataforma [Mubi](https://mubi.com/).
+- Soporte de traducción de subtítulos para YouTube Live y la plataforma [Mubi](https://mubi.com/).
 - Optimización: Página de configuraciones, interfaz de usuario de interacción de lista de URL (para evitar ambigüedades, las casillas de verificación no se muestran por defecto).
 - Soporte para configurar la fuente de traducción en modo solo traducción.
 - Añadido acceso rápido para habilitar subtítulos de video en Netflix, Ted, Bloomberg, Udemy, Coursera.
@@ -536,7 +536,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 ## 1.1.8
 
 - Añadida una opción para que el servicio de traducción secundario siga al servicio de traducción principal
-- Soporte para subtítulos bilingües en [Amazon Prime Video](https://www.primevideo.com)
+- Soporte de subtítulos bilingües para [Amazon Prime Video](https://www.primevideo.com)
 - Optimización adicional de la función de traducción de PDF incrustado en Sci-Hub
 - Solucionado un problema con PDFs en línea que no se abrían correctamente
 - Solucionado el problema con la reproducción continua de subtítulos bilingües en Netflix
@@ -551,7 +551,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 ## 1.1.6
 
-- **Soporte Móvil para Traducir Párrafos Específicos:** La versión móvil ahora soporta la traducción de párrafos especificados y ha añadido una variedad de operaciones de atajo, incluyendo deslizar a la izquierda, deslizar a la derecha, doble toque, triple toque y gestos de toque con varios dedos. Estos no están habilitados por defecto y requieren que el usuario seleccione activamente el gesto de activación en la página de configuraciones bajo [Mouse Hover].
+- **Soporte Móvil para Traducir Párrafos Específicos:** La versión móvil ahora soporta la traducción de párrafos especificados y ha añadido una variedad de operaciones de atajo, incluyendo deslizar a la izquierda, deslizar a la derecha, doble toque, triple toque y gestos de toque con varios dedos. Estos no están habilitados por defecto y requieren que el usuario seleccione activamente el gesto de activación en la página de configuraciones bajo [Pasar el Ratón].
 - **Actualización de la Versión Predeterminada de Gemini:** La versión predeterminada ahora es `v1beta`.
 - **Traducción de Chino Clásico Corregida:** Corregida la funcionalidad de traducción de Chino Clásico de Microsoft y OpenAI.
 - **Optimización de Traducción Japonesa:** Optimizada aún más la traducción japonesa de OpenAI para mejorar la precisión y fluidez.
@@ -585,7 +585,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 - Solucionado el problema de anomalía de visualización del plugin móvil al abrir páginas PDF.
 - Optimizado el efecto de traducción de conversaciones GPT.
-- Soporte para traducción de dominios para Baidu Translate.
+- Soporte de traducción de dominios para Baidu Translate.
 - Añadido un modo solo traducción en la página de configuraciones.
 - Añadida una función de recordatorio al cambiar modos de traducción con atajos.
 - Solucionado el problema donde al traducir campos de entrada que contenían URLs solo se traducían partes del contenido.
@@ -593,7 +593,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 ## 1.1.2
 
 - Solución: El problema donde cambiar servicios de traducción no tenía efecto cuando la página aún no había sido traducida.
-- Optimización: En el proceso de traducción de Epub y PDF, si algún contenido falla en traducirse, ahora es posible cambiar a otro servicio de traducción en el panel sin reiniciar todo el proceso de traducción (la lógica anterior era usar inmediatamente un nuevo servicio de traducción para retraducir todo el libro). Esto significa que a mitad de la traducción, puedes cambiar a un servicio de traducción diferente y hacer clic en [Reintentar Todos los Párrafos Fallidos], después de lo cual el sistema continuará la traducción usando el nuevo servicio.
+- Optimización: En el proceso de traducir Epub y PDF, si algún contenido falla en traducirse, ahora es posible cambiar a otro servicio de traducción en el panel sin reiniciar todo el proceso de traducción (la lógica anterior era usar inmediatamente un nuevo servicio de traducción para retraducir todo el libro). Esto significa que a mitad de la traducción, puedes cambiar a un servicio de traducción diferente y hacer clic en [Reintentar Todos los Párrafos Fallidos], después de lo cual el sistema continuará la traducción usando el nuevo servicio.
 - Optimización: Ajustado el tamaño de fuente de los mensajes de error de traducción para mejorar la legibilidad.
 
 ## 1.1.1
@@ -624,7 +624,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 ### Optimización y Correcciones
 
-- **Optimización de la Interfaz de Usuario**: Rediseñada la interfaz de usuario para los mensajes de error de traducción de página para hacerlos más fáciles de entender. Cuando hay muchos errores, una ventana emergente activamente avisará al usuario.
+- **Optimización de la Interfaz de Usuario**: Rediseñada la interfaz de usuario para los mensajes de error de traducción de página para hacerlos más fáciles de entender. Cuando hay muchos errores, una ventana emergente activamente alertará al usuario.
 
 - **Correcciones de Errores**:
 
@@ -632,7 +632,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
   - Solucionado el problema donde menos de 3 caracteres en la función de mejora del cuadro de entrada no se traducían.
   - Solucionado el problema donde algunos directorios no se traducían durante la producción de Epubs bilingües.
 
-- **Eliminación de Características**: Eliminada la función de mejora de información bilingüe (mostrar resultados de búsqueda en inglés en páginas de búsqueda de Google simultáneamente).
+- **Eliminación de Características**: Eliminada la función de mejora de información bilingüe (mostrando resultados de búsqueda en inglés en páginas de búsqueda de Google simultáneamente).
 
 ### Otras Actualizaciones
 
@@ -647,25 +647,25 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 - Solucionado: Problema con la unión de traducciones de párrafos largos de OpenAI en algunos casos. [#1276](https://github.com/immersive-translate/immersive-translate/issues/1276)
 - Optimizado: Al usar el ratón, el problema donde al perder el foco en la página y luego volver a activarlo se vuelve ineficaz.
-- Solucionado: El problema donde la caché aún existía después de modificar el prompt/modelo en OpenAI.
+- Solucionado: El problema donde la caché aún existía después de modificar el aviso/modelo en OpenAI.
 
 ## 0.12.12
 
 - Actualizado: Optimizado el panel emergente, eliminando algunas opciones para el sitio web actual.
 - Optimizado: Mejorado el proceso de fusión de subtítulos manuales.
 - Optimizado: Configuración automática del idioma objetivo basado en el idioma del navegador.
-- Añadido: Soporte para subtítulos bilingües en la plataforma de aprendizaje [ArtStation](https://www.artstation.com/learning) y [ZDF](https://www.zdf.de/).
+- Añadido: Soporte de subtítulos bilingües para la plataforma de aprendizaje [ArtStation](https://www.artstation.com/learning) y [ZDF](https://www.zdf.de/).
 - Corregido: Resuelto el problema donde los títulos en la página de lista de jstor no se traducían [#1268](https://github.com/immersive-translate/immersive-translate/issues/1268).
 - Corregido: Solucionado el problema donde solo parte del contenido desaparecía en Hacknews [#1264](https://github.com/immersive-translate/immersive-translate/issues/1264).
 
 ## 0.12.11
 
-- Añadido soporte para subtítulos bilingües en las plataformas [HBO Max](https://play.max.com/), [BBC](https://www.bbc.com/), [Disney+](https://www.disneyplus.com), [ARD Mediathek](https://www.ardmediathek.de/), [ITV](https://www.itv.com/), y [Domestika](https://www.domestika.org).
+- Añadido soporte de subtítulos bilingües para las plataformas [HBO Max](https://play.max.com/), [BBC](https://www.bbc.com/), [Disney+](https://www.disneyplus.com), [ARD Mediathek](https://www.ardmediathek.de/), [ITV](https://www.itv.com/), y [Domestika](https://www.domestika.org).
 
 ## 0.12.10
 
 - Corregido el problema de autorización del dominio Gemini bajo el script de Tampermonkey.
-- Soporte para traducción de subtítulos en tiempo real en Twitter Space.
+- Soporte para traducción de subtítulos en tiempo real para Twitter Space.
 - Para versiones anteriores del script de Tampermonkey, ahora se ha añadido un aviso de actualización en la página de configuración.
 
 ## 0.12.9
@@ -679,50 +679,50 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 ## 0.12.8
 
 - Reparado que los subtítulos originales del video no se mostraban cuando "El sitio actual está configurado para nunca traducir".
-- Reparado el conflicto con algunos complementos que causaban un retorno infinito de la página.
+- Reparado el conflicto con algunos complementos que causan un retorno infinito de la página.
 - Reparado la no traducción de algunos párrafos después de activar los saltos de línea de párrafos largos.
 - Corregido [Cuando se activa temporalmente la traducción de la página web durante un largo tiempo, al hacer clic en el panel [Siempre traducir este sitio web] no se cancela la traducción siempre #1172](https://github.com/immersive-translate/immersive-translate/issues/1172)
 
 ## 0.12.7
 
-- Añadidos subtítulos bilingües para soportar las plataformas [TED](https://www.ted.com), [Frontend Masters](https://frontendmasters.com/), [edx](https://www.edx.org/), [CodeWithChris](https://www.edx.org/), [Skillshare](https://www.ted.com) plataformas. https://learn.codewithchris.com/enrollments), [Skillshare](https://www.skillshare.com/) plataformas.
-- La bola flotante ahora está oculta por defecto cuando el video está en pantalla completa.
-- Corregido el problema de clics temblorosos del panel de acción de la bola flotante de la página de Firefox.
+- Subtítulos bilingües añadidos para soportar las plataformas [TED](https://www.ted.com), [Frontend Masters](https://frontendmasters.com/), [edx](https://www.edx.org/), [CodeWithChris](https://www.edx.org/), [Skillshare](https://www.ted.com) plataformas. https://learn.codewithchris.com/enrollments), [Skillshare](https://www.skillshare.com/) plataformas.
+- El hoverball ahora está oculto por defecto cuando el video está en pantalla completa.
+- Corregido el problema de clics temblorosos del panel de acción hoverball de la página de Firefox.
 - Soporte para colaboración bajo el sitio pubmed.ncbi.nlm.nih.gov y el complemento scholarscope.
 - Corregido el problema de temblor de la página de traducción del cuadro de entrada de reddit.
 
 ## 0.12.6
 
 - Corregido el problema de que la traducción de YouTube/Web of Science, etc. no es sensible al cambiar de pestañas.
-- La bola flotante en móviles ahora soporta operación de pulsación larga, pulsación corta para traducir, pulsación larga para abrir el panel.
-- La traducción de libros electrónicos bilingües ahora también traducirá el índice.
+- Hoverball en móvil ahora soporta operación de pulsación larga, pulsación corta para traducir, pulsación larga para abrir el panel.
+- Traducir libros electrónicos bilingües ahora también traducirá el índice.
 - La función de Mejora de Búsqueda (algunas páginas de Google Search muestran resultados de búsqueda bilingües) ahora no está habilitada por defecto y será eliminada en el próximo Release.
 
 ## 0.12.5
 
-- Corregido el problema de que al crear eBooks desde el panel, las traducciones no funcionaban.
+- Corregido el problema de que al crear eBooks desde el panel al hacer clic en traducciones no funcionaba.
 
 ## 0.12.4
 
 - Cuando activas los subtítulos bilingües en el panel, primero se actualizará la página automáticamente (para mostrar subtítulos bilingües con más precisión), y algunos sitios aún requieren que los usuarios hagan clic manualmente en el botón "CC" en el sitio para activar los subtítulos.
 - Optimizar Grease Monkey, detección de idioma de Safari.
-- Proporciona acceso rápido a versiones bilingües de todos los documentos en el sitio de documentos [Arxiv](https://arxiv.org/abs/1910.06709).
-- [Soporte de bola flotante configurado para fijarse a la izquierda #1168](https://github.com/immersive-translate/immersive-translate/issues/1168)
+- Proporciona acceso rápido a versiones bilingües de todos los artículos en el sitio de artículos de [Arxiv](https://arxiv.org/abs/1910.06709).
+- [Soporte de hoverball configurado para estar fijado a la izquierda #1168](https://github.com/immersive-translate/immersive-translate/issues/1168)
 - [Corregir problema de visualización del Modo de Aprendizaje #1180](https://github.com/immersive-translate/immersive-translate/issues/1180)
 - [Activar temporalmente la traducción web durante un tiempo no cancela Siempre Traducir #1172](https://github.com/immersive-translate/immersive-translate/issues/1172)
 - Optimizar problemas de inicialización de archivos PDF.
 
 ## 0.12.3
 
-- Corrección para la función [desactivar permanentemente subtítulos de video] que no funcionaba [#1175](https://github.com/immersive-translate/immersive-translate/issues/1175).
+- Corrección para la función de [desactivar permanentemente subtítulos de video] que no funcionaba [#1175](https://github.com/immersive-translate/immersive-translate/issues/1175).
 
 ## 0.12.2
 
-- Se proporciona soporte para subtítulos bilingües para más plataformas de video, que ahora son compatibles: [Youtube](https://www.youtube.com/), [Netflix](https://www.netflix.com), [Udemy](https://www.udemy.com/), [Khanacademy](https://www.khanacademy.org/), [Coursera](https://www.coursera.org/), [Vimeo](https://vimeo.com/), [Nebula](https://nebula.tv), [Bloomberg](https://www.bloomberg.com), [Bilibili](https://www.bilibili.com/), etc. (Tenga en cuenta que debido a las limitaciones técnicas, algunos sitios web necesitan actualizar la página después de activar los subtítulos bilingües por primera vez o esperar a que se complete la traducción para mostrar los subtítulos bilingües).
+- Se proporciona soporte de subtítulos bilingües para más plataformas de video, que ahora son compatibles: [Youtube](https://www.youtube.com/), [Netflix](https://www.netflix.com), [Udemy](https://www.udemy.com/), [Khanacademy](https://www.khanacademy.org/), [Coursera](https://www.coursera.org/), [Vimeo](https://vimeo.com/), [Nebula](https://nebula.tv), [Bloomberg](https://www.bloomberg.com), [Bilibili](https://www.bilibili.com/), etc. (Tenga en cuenta que debido a las limitaciones técnicas, algunos sitios web necesitan actualizar la página después de activar los subtítulos bilingües por primera vez o esperar a que se complete la traducción para mostrar los subtítulos bilingües).
 - Tamaño del plugin optimizado significativamente, reducido a la mitad en comparación con el original, descarga y actualización más rápida.
 - Corregido problemas de descarga extendida de PDF.
-- Añadido un portal de traducción rápida de PDF al lado derecho del sitio de documentos [Arxiv](https://arxiv.org/abs/1910.06709), que lleva a una página HTML limpia (solo soportado por algunos documentos, ya que requiere que los autores originales envíen el código fuente, por lo que aproximadamente el 50% de los documentos mostrarán este portal).
-- Las páginas PDF en línea sin extensión .pdf ahora pueden saltar directamente a la página de traducción de PDF haciendo clic en la bola flotante en la página.
+- Añadido un portal de traducción rápida de PDF al lado derecho del sitio de artículos de [Arxiv](https://arxiv.org/abs/1910.06709), que lleva a una página HTML limpia (solo soportado por algunos artículos, ya que requiere que los autores originales envíen el código fuente, por lo que aproximadamente el 50% de los artículos mostrarán este portal).
+- Las páginas PDF en línea sin extensión .pdf ahora pueden saltar directamente a la página de traducción de PDF al hacer clic en el hoverball en la página.
 - Corregido algunos problemas de mejora del cuadro de entrada bajo Safari.
 - Optimizar la detección de idioma en Grease Monkey y Safari.
 
@@ -732,14 +732,14 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 - Modificar el compartir bilingüe (modo de actualización) añadido en la última versión a compartir instantáneas de página bilingüe, para que el contenido compartido sea más original, así como una mayor adaptabilidad.
 - Corregido emoji al final del cuadro de entrada de Twitter que no se puede traducir.
 - Corregido la situación donde el contenido de complementos de terceros se traduce en algunos escenarios.
-- Reparado clic no responsivo de la bola flotante en línea de pdf.
+- Reparado clic no responsivo del hoverball en línea de pdf.
 
 ## 0.11.5
 
 - Ahora puedes generar un enlace público a la página bilingüe traducida para Immersive Translate.
   - [Haz clic](/docs/share/) en el Icono de Compartir de Immersive Translate para generarlo con un solo clic.
 - Resuelto el problema de que algunas plataformas no podían reconocer si el ratón era compatible o no.
-  - Hay algunos navegadores de escritorio que soportan tanto pantalla táctil como ratón, y Immersive Translates no puede detectar técnicamente si tales plataformas soportan ratón, por lo que hemos añadido la opción [Forzar Habilitar Soporte de Ratón] en la configuración de [Desplazamiento del Ratón].
+  - Hay algunos navegadores de escritorio que soportan tanto pantalla táctil como ratón, y Immersive Translates no puede detectar técnicamente si tales plataformas soportan ratón, por lo que hemos añadido la opción [Forzar Habilitar Soporte de Ratón] en la configuración de [Mouse Hover].
 
 ## 0.11.2-0.11.4
 
@@ -753,7 +753,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 ## 0.11.0
 
-- Corregido clics temblorosos de la bola flotante de la página.
+- Corregido clics temblorosos del hoverball de la página.
 - Corregido problemas de traducción de Azure.
 
 ## 0.10.9
@@ -762,14 +762,14 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 ## 0.10.8
 
-- Soporte para configurar botones de traducción rápida de la bola flotante (soporte tanto para PC/móvil).
+- Soporte para configurar botones de traducción rápida del hoverball (soporte tanto para PC/móvil).
 - Optimización del juicio de idioma de Grease Monkey.
 - Corregido traducción de archivos txt.
 
 ## 0.10.7
 
-- Soporte de desplazamiento del ratón presionando Ctrl nuevamente para mostrar el texto original.
-- Ignorar idioma nunca traducir en desplazamiento del ratón.
+- Soporte de ratón hover presionar Ctrl de nuevo para mostrar texto original.
+- Ignorar idioma de nunca traducir en Mouse Hover.
 - Optimización de subtítulos bilingües de Youtube.
 
 ## 0.10.6
@@ -784,7 +784,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 ## 0.10.4
 
-- Corregido conflicto de subtítulos de Youtube con el plugin de subtítulos duales (Immersive Translate de traducción de subtítulos de Youtube no está habilitado cuando se detecta el plugin dual de Youtube para evitar conflictos).
+- Corregido conflicto de subtítulos de Youtube con el plugin de subtítulos duales (la traducción de subtítulos de Youtube de Immersive Translate no está habilitada cuando se detecta el plugin dual de Youtube para evitar conflictos).
 - Añadido [Función de Desactivar Permanentemente Subtítulos de Video], si hay otros problemas de conflicto y no deseas habilitar la función de subtítulos bilingües con Immersive Translate.
 - Optimizar saltos de subtítulos.
 
@@ -796,13 +796,13 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 - Soporte perfecto para videos de Youtube con subtítulos bilingües 🎉.
 - Para páginas de artículos, el texto del cuerpo ahora se traducirá primero antes que el resto del contenido de la barra lateral.
-- Optimizar contextualización de traducción de DeepL.
-- Optimizar traducción de archivos de subtítulos de OpenAI para contextualización.
+- Optimizar la contextualización de la traducción de DeepL.
+- Optimizar la traducción de archivos de subtítulos de OpenAI para la contextualización.
 
 ## 0.10.1
 
 - Aumentar la prioridad de la traducción del cuerpo para optimizar la experiencia de traducción.
-- Corregido problema de clic en más texto no traducido.
+- Corregido problema de clic en más texto no traducido en ins.
 
 ## 0.9.8
 
@@ -810,19 +810,19 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 ## 0.9.7
 
-- Corregido traducción automática cuando readwise está resaltado.
+- Corregido auto-traducción cuando readwise está resaltado.
 
 ## 0.9.6
 
-- Corregido limpieza de caché al cerrar sesión del usuario.
+- Corregido limpiar la caché al cerrar sesión del usuario.
 
 ## 0.9.5
 
-- Correcciones de errores de libros electrónicos en línea.
+- Correcciones de errores de eBooks en línea.
 
 ## 0.9.4
 
-- Optimizar detección de mejora de entrada para reducir toques falsos.
+- Optimizar la detección de mejora de entrada para reducir falsos toques.
 - Traducción en línea de libros electrónicos y subtítulos.
 
 ## 0.9.3
@@ -843,7 +843,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 ## 0.8.8
 
 - Soporte de pdf para ajustes de espaciado de líneas y palabras para volver a reconocer párrafos
-- Solución de problemas de desplazamiento automático en la lectura en línea de epub en móviles
+- Solución de problemas de desplazamiento automático en la lectura en línea de epub en dispositivos móviles
 
 ## 0.8.7
 
@@ -864,7 +864,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 ## 0.8.0
 
-- Sistemas de usuario soportados
+- Sistemas de usuario compatibles
 - Soporta [Habilitar Membresía Pro](/pricing), lo que permite a los usuarios disfrutar de traducciones de Deepl y OpenAI y configuraciones de sincronización en la nube.
 - El servicio de traducción al pasar el ratón se puede configurar individualmente
 - El servicio de traducción del cuadro de entrada se puede configurar por separado
@@ -893,8 +893,8 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 ## 0.7.9
 
-- ¡El PDF finalmente admite la exportación de versiones bilingües! Puedes hacer clic en el botón [Guardar] para exportar el archivo PDF bilingüe traducido.
-- Las reglas personalizadas ahora admiten la fusión con las reglas integradas predeterminadas, por ejemplo: `{"id": "youtube", "selectors.add":["#test"]}` significa agregar un `#test` a los selectores existentes, `selectors` significa sobrescribir el predeterminado, `selectors.remove` significa eliminar uno de los selectores predeterminados, y `selectors.remove` significa eliminar uno de los selectores predeterminados.
+- ¡Finalmente, el PDF admite la exportación de versiones bilingües! Puedes hacer clic en el botón [Guardar] para exportar el archivo PDF bilingüe traducido.
+- Las reglas personalizadas ahora admiten la fusión con las reglas integradas predeterminadas, por ejemplo: `{"id": "youtube", "selectors.add":["#test"]}` significa agregar un `#test` a los selectores existentes, `selectors` significa anular el predeterminado, `selectors.remove` significa eliminar uno de los selectores predeterminados, y `selectors.remove` significa eliminar uno de los selectores predeterminados.
 - Icono de Safari actualizado, un poco más grande.
 - Otras correcciones de errores
 
@@ -925,7 +925,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 - Solucionar varios problemas
 - La página de configuración admite la eliminación por lotes de URLs seleccionadas.
 - Soporta habilitar/deshabilitar la traducción de subtítulos de Youtube para evitar conflictos con otros complementos relacionados.
-- Arigato Translator admite la configuración de campos e id de terminología
+- Arigato Translator admite la configuración de campos y terminología id
 
 ## 0.7.2
 
@@ -933,7 +933,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 ## 0.7.1
 
-- Soporte de mejora de búsqueda, cuando está habilitado, cuando buscas en Google/Google News en chino, la columna derecha mostrará automáticamente los resultados de búsqueda de palabras clave en inglés correspondientes, que está habilitado por defecto.
+- Soporte de mejora de búsqueda, cuando está habilitado, cuando buscas en Google/Google News en chino, la columna derecha mostrará automáticamente los resultados de búsqueda de las palabras clave correspondientes en inglés, que está habilitado por defecto.
   - Razón: Descubrimos que en la búsqueda de Google, los resultados de búsqueda para palabras clave en chino y palabras clave en inglés pueden ser muy diferentes, con la mejora de búsqueda traducida inmersiva habilitada, buscamos automáticamente las mismas palabras clave en inglés para ti y las mostramos en el lado derecho. Puedes elegir desactivarlo si no necesitas la función.
   - Safari no es compatible debido a limitaciones de API.
 
@@ -975,7 +975,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 
 - Optimización de traducción de PDF, el área de traducción ahora se puede editar/arrastrar/eliminar
   - Arrastrar arriba a la izquierda, eliminar arriba a la derecha, cambiar tamaño abajo a la derecha
-- Alineación izquierda del cuadro desplegable de Windows
+- Alineación a la izquierda del cuadro desplegable de Windows
 - Soporte para chino tradicional y chino simplificado
 
 ## 0.6.13
@@ -991,7 +991,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 ## 0.6.10
 
 - El modelo predeterminado de OpenAI cambió a la versión 0613
-- Solucionar algunos estilos de cuadro de entrada
+- Solucionar algunos estilos de cuadros de entrada
 - Más inteligente para determinar si es un área de navegación, y si es así, no se realiza la traducción
 - Solucionar posibles ataques de inyección XSS
 
@@ -1019,7 +1019,7 @@ El idioma predeterminado para la traducción del cuadro de entrada ahora puede o
 
 ## 0.6.2
 
-La mejora más emocionante del cuadro de entrada está aquí:
+La mejora del cuadro de entrada más emocionante está aquí:
 
 - Escribe: // Hello World en el cuadro de entrada en cualquier página web, luego haz triple clic en la barra espaciadora para traducir el párrafo al inglés
 - También puedes especificar la traducción a un cierto idioma: /ja Hello World, luego haz triple clic en la barra espaciadora para traducir el párrafo al japonés
@@ -1041,7 +1041,7 @@ La mejora más emocionante del cuadro de entrada está aquí:
 
 ## 0.5.15
 
-- Optimizar: el número mínimo de caracteres en un párrafo que activa la traducción se modificó a un mínimo de 4 caracteres para reducir la confusión, mientras se usan otras características para evitar traducir las áreas de navegación y finalización del sitio.
+- Optimizar: El número mínimo de caracteres en un párrafo que activa la traducción se modificó a un mínimo de 4 caracteres para reducir la confusión, mientras se utilizan otras características para evitar traducir las áreas de navegación y finalización del sitio.
 - Solución: detalles de Github no se traducen después de expandir.
 
 ## 0.5.14
@@ -1052,15 +1052,15 @@ La mejora más emocionante del cuadro de entrada está aquí:
 
 ## 0.5.12
 
-- Característica: el estilo de traducción de línea dividida agrega una línea de división vertical para traducciones de una sola línea
-- Solución: casos muy raros de división de párrafos.
+- Característica: El estilo de traducción de línea dividida agrega una línea dividida vertical para traducciones de una sola línea
+- Solución: Casos muy raros de división de párrafos.
 - Una gran página de orientación de configuración inicial para nuevos usuarios de iOS.
 
 ## 0.5.11
 
 - Soporte de traducción de subtítulos para exportar solo traducciones
-- Solución: algunos elementos no son reconocidos al pasar el ratón
-- Solución: los saltos de línea parciales de tweet no se reconocen
+- Solución: Algunos elementos no son reconocidos al pasar el ratón
+- Solución: los saltos de línea de tweet no se reconocen parcialmente
 - Solución: el estilo de creación de libros electrónicos no funciona
 
 ## 0.5.10
@@ -1089,7 +1089,7 @@ La mejora más emocionante del cuadro de entrada está aquí:
 
 - Optimiza el problema de limitación de frecuencia de solicitudes de OpenAI
 
-- ChatGPT por defecto al modelo móvil, ¡que es más rápido!
+- ChatGPT por defecto usa el modelo móvil, ¡que es más rápido!
 
 - Reestructuración del análisis del núcleo web, lo que significa:
 
@@ -1122,7 +1122,7 @@ La mejora más emocionante del cuadro de entrada está aquí:
 
 - El análisis del núcleo web ha sido reconstruido, lo que significa.
 
-  - Traducción instantánea para grandes sitios web
+  - Traducción instantánea para sitios web grandes
   - Uso mínimo de memoria para páginas web complejas
   - Mejor compatibilidad con más sitios web
 
@@ -1163,7 +1163,7 @@ La mejora más emocionante del cuadro de entrada está aquí:
 
 ## 0.5.0
 
-- Función: Traducir el párrafo actual cuando el ratón se desplaza.
+- Función: Traducir el párrafo actual cuando se desplaza el ratón.
 - Función: Reestructuración de la traducción de PDF, ahora puedes traducir la mayoría de los PDFs con Immersive Translate
 - Corrección: Desactivar el menú contextual no funciona [#428](https://github.com/immersive-translate/immersive-translate/issues/428)
 - Corrección: Evitar la política de seguridad de contenido para [Mastondon](https://mastodon.social/)
@@ -1210,7 +1210,7 @@ La mejora más emocionante del cuadro de entrada está aquí:
 
 ## 0.4.0
 
-- Función: Soporte para traducir archivo de subtítulos local (.srt, .ass, etc.)
+- Función: Soporte para traducir archivo de subtítulos local (.srt,.ass,etc.)
 
 ## 0.3.17
 
@@ -1220,7 +1220,7 @@ La mejora más emocionante del cuadro de entrada está aquí:
 ## 0.3.16
 
 - Corrección: mantener &nbsp; como espacio en blanco.
-- Eliminar: Retirar Papago, ya que [el servicio está caído](https://github.com/immersive-translate/immersive-translate/issues/310)
+- Eliminación: Retirar Papago, ya que [el servicio está caído](https://github.com/immersive-translate/immersive-translate/issues/310)
 
 ## 0.3.15
 
@@ -1238,7 +1238,7 @@ La mejora más emocionante del cuadro de entrada está aquí:
 - Corrección: problema de caracteres específicos del constructor de ebook, como algunas rutas de capítulos son `xxx' xxxx`.
 - UI: plegar opciones personalizadas de openai por defecto.
 - UI: Añadir estado de exportación para exportación de epub.
-- Corrección: mensaje predeterminado de Gpt4
+- Corrección: Gpt4 prompt predeterminado
 
 ## 0.3.12
 
@@ -1250,7 +1250,7 @@ La mejora más emocionante del cuadro de entrada está aquí:
 ## 0.3.11
 
 - Corrección: color de texto en modo oscuro del lector de ebook
-- Corrección: mensaje de openAI
+- Corrección: prompt de openAI
 
 ## 0.3.10
 
@@ -1259,7 +1259,7 @@ La mejora más emocionante del cuadro de entrada está aquí:
 
 ## 0.3.9
 
-- Corrección: el estado de entrada de servicios de traducción de interruptor de UI de Opciones no cambió.
+- Corrección: el estado de entrada de servicios de traducción de interruptor de UI de opciones no cambió.
 
 ## 0.3.8
 
@@ -1290,22 +1290,22 @@ La mejora más emocionante del cuadro de entrada está aquí:
 ## 0.3.3
 
 - Corrección: creador de ebook para Kindle
-- Cambio: color del icono de carga, de negro a azul, para adaptarse a la página web en modo oscuro.
+- Cambio: color del icono de carga, de negro a azul, para adaptar la página web en modo oscuro.
 - Función: Soporte para traducción de html local para extensión
 
 ## 0.3.2
 
 - Corrección: movimiento del cursor de entrada del formulario de opciones.
-- Función: OpenAI soporta apiUrl personalizado para configuración de desarrollo.
+- Función: OpenAI soporta apiUrl personalizado para configuración de desarrollador.
 
 ## 0.3.1
 
 - Función: actualizar icono oscuro a transparencia.
-- Corrección: orden incorrecto para párrafo largo
+- Corrección: Orden incorrecto para párrafo largo
 
 ## 0.3.0
 
-- Versión: A partir de ahora, cambiaremos el número de versión menor una vez al mes, por ejemplo, ahora en marzo, la versión comenzará desde 0.3.0, en abril, el número de versión comenzará desde 0.3.0, en abril, el número de versión comenzará desde 0.4.0, el próximo abril, el número de versión será 1.4.0, y así sucesivamente. Esto se debe a que no tiene sentido que las extensiones sigan Esto se debe a que no tiene sentido que las extensiones sigan la semántica, pero estandarizar los números de versión según las leyes del tiempo es una motivación para el desarrollo para seguir actualizándose, y para que los usuarios encuentren problemas más fácilmente.
+- Versión: A partir de ahora, cambiaremos el número de versión menor una vez al mes, por ejemplo, ahora en marzo, la versión comenzará desde 0.3.0, en abril, el número de versión comenzará desde 0.3.0, en abril, el número de versión comenzará desde 0.4.0, el próximo abril, el número de versión será 1.4.0, y así sucesivamente. Esto se debe a que no tiene sentido que las extensiones sigan Esto se debe a que no tiene sentido que las extensiones sigan la semántica, pero estandarizar los números de versión según las leyes del tiempo es una motivación para el desarrollo para seguir actualizando, y para que los usuarios encuentren problemas más fácilmente.
 - Función: Soporte para icono oscuro para firefox
 
 ## 0.2.86
@@ -1328,14 +1328,14 @@ La mejora más emocionante del cuadro de entrada está aquí:
 
 ## 0.2.82
 
-- Corrección: Algunos sitios usan `span` para estilos, por lo que usamos `font` en lugar de span para el contenedor de destino de traducción
+- Corrección: Algunos sitios usan `span` para estilos, por lo que usamos `font` en lugar de span para el contenedor de objetivo de traducción
 - Corrección: límite máximo de tokens de OpenAI, cambiar caracteres máximos de 1500 a 1300.
 
 ## 0.2.81
 
 - Corrección: m.youtube.com
 - Corrección: formulario de opciones UI
-- Corrección: mensaje de Open AI
+- Corrección: prompt de Open AI
 - Función: Soporte para múltiples claves de OpenAI, usa `,` para separarlas.
 
 ## 0.2.80
@@ -1354,7 +1354,7 @@ La mejora más emocionante del cuadro de entrada está aquí:
 
 ## 0.2.77
 
-- Arreglo: error de múltiples etiquetas de código.[#178](https://github.com/immersive-translate/immersive-translate/issues/178)
+- Arreglo: error de múltiples etiquetas de código. [#178](https://github.com/immersive-translate/immersive-translate/issues/178)
 
 ## 0.2.76
 
@@ -1409,7 +1409,7 @@ La mejora más emocionante del cuadro de entrada está aquí:
 
 ## 0.2.66
 
-- Arreglo: fallo en la traducción de archivos PDF, error desde 0.2.60 por soporte de deepl de zh-CN a zh-TW
+- Arreglo: fallo en la traducción de archivos PDF, error desde 0.2.60 por soportar deepl de zh-CN a zh-TW
 
 ## 0.2.65
 
@@ -1418,18 +1418,18 @@ La mejora más emocionante del cuadro de entrada está aquí:
 
 ## 0.2.64
 
-- Arreglo: elegir servicios de traducción en openl
-- Función: Soporte para opción de traducir título
+- Arreglo: elegir servicios de traducción de openl
+- Función: Soporte para la opción de traducir título
 
 ## 0.2.63
 
-- Función: Soporte para Servicio de Traducción de Azure
-- Función: Soporte para Servicio de Traducción de Papago
+- Función: Soporte para el Servicio de Traducción de Azure
+- Función: Soporte para el Servicio de Traducción de Papago
 - Arreglo: sincronización nativa de Google Drive en Firefox Android.
-- Arreglo: cambiar transparencia de 0.4 a 0.618 [#147] (https://github.com/immersive-translate/immersive-translate/pull/147)
+- Arreglo: cambiar la transparencia de 0.4 a 0.618 [#147] (https://github.com/immersive-translate/immersive-translate/pull/147)
 - Arreglo: consejos de atajos emergentes
 - Rendimiento: solicitudes de serie a concurrencia
-- Mejor para detectar conteo de japonés
+- Mejor para detectar conteo japonés
 
 ## 0.2.62
 
@@ -1438,11 +1438,11 @@ La mejora más emocionante del cuadro de entrada está aquí:
 ## 0.2.61
 
 - Arreglo: userscript es demasiado grande para greasy fork
-- Mejor: reducir tamaño de archivo
+- Mejor: reducir el tamaño del archivo
 
 ## 0.2.60
 
-- Función: Soporte de zh-CN a zh-TW para Deepl
+- Función: Soporte para zh-CN a zh-TW para Deepl
 - Función: Característica de Deepl de Immersive Translate
 - Función: Soporte para zoom de tamaño de fuente personalizado
 - Arreglo: estilo del foro de Steam
@@ -1475,7 +1475,7 @@ La mejora más emocionante del cuadro de entrada está aquí:
 
 ## 0.2.55
 
-- Intentar arreglar charset de API de deepl
+- Intentar arreglar el charset de la API de deepl
 
 ## 0.2.54
 
@@ -1514,12 +1514,12 @@ La mejora más emocionante del cuadro de entrada está aquí:
 
 ## 0.2.48
 
-- Mejor para velocidad, añadiendo minLength a 50 para detección de idioma.
+- Mejor para la velocidad, añadiendo minLength a 50 para detectar el idioma.
 - Arreglo de validación de token de Google Drive.
 
 ## 0.2.47
 
-- Arreglo de API de deepl
+- Arreglo de la API de deepl
 
 ## 0.2.46
 
@@ -1527,8 +1527,8 @@ La mejora más emocionante del cuadro de entrada está aquí:
 
 ## 0.2.45
 
-- Arreglo de innerText de elemento es indefinido
-- Arreglo de traducción de caiyun idioma fuente indefinido
+- Arreglo de innerText de elemento indefinido
+- Arreglo de idioma fuente indefinido en traducción de caiyun
 
 ## 0.2.44
 
@@ -1562,7 +1562,7 @@ La mejora más emocionante del cuadro de entrada está aquí:
 ## 0.2.39
 
 - Soporte para atajos para mostrar traducción de máscara
-- Soporte para habilitar característica beta en panel de desarrollador
+- Soporte para habilitar característica beta en el panel de desarrolladores
 - Arreglo de atajos en extensión móvil
 
 ## 0.2.38
@@ -1594,9 +1594,9 @@ La mejora más emocionante del cuadro de entrada está aquí:
 
 ## 0.2.33
 
-- Soporte para modo de escritura vertical, como japonés.
+- Soporte para modo de escritura vertical, como el japonés.
 - Añadir 3 temas
-- Añadir servicio de traducción Niu
+- Añadir servicio de traducción de Niu
 
 ## 0.2.32
 
@@ -1662,16 +1662,16 @@ La mejora más emocionante del cuadro de entrada está aquí:
 ## 0.2.20
 
 - Arreglo de problema de solicitud de macaco
-- Arreglo de línea de altura de marca de resaltado
+- Arreglo de altura de línea de resaltado de marca
 
 ## 0.2.19
 
 - Arreglo de japonés inteligente de tencent
-- Arreglo de navegador de mundo haikuo
+- Arreglo de navegador mundial de haikuo
 
 ## 0.2.18
 
-- Arreglo de cambio de URL de cliente, permanecer automáticamente en el estado de traducción.
+- Arreglo de cambio de URL de cliente, auto mantener el estado de traducción.
 - Eliminar contenedor lateral como contenedor de traducción.
 - Refactorizar posición emergente.
 
@@ -1690,12 +1690,12 @@ La mejora más emocionante del cuadro de entrada está aquí:
 
 ## 0.2.14
 
-- Arreglo de que safari globalThis.GM no funciona
+- Arreglo de que globalThis.GM no funciona en Safari
 
 ## 0.2.13
 
 - Soporte para arrastrar emergente de Userscript
-- Soporte para tres dedos en dispositivo táctil para activar alternar páginas de traducción
+- Soporte para Tres Dedos en dispositivo táctil para activar alternar páginas de traducción
 - Soporte para ocultar el icono emergente de userscript.
 
 ## 0.2.12
@@ -1754,12 +1754,12 @@ La mejora más emocionante del cuadro de entrada está aquí:
 
 - Arreglar archivo de muestra PDF
 - Arreglar archivo local PDF en Firefox
-- Arreglar atajos PDF
+- Arreglar atajos de PDF
 
 ## 0.2.1
 
 - Soporte para el administrador de atajos de Grease Monkey.
-- Arreglar regex de coincidencia
+- Arreglar coincidencia de regex
 - Arreglar comentarios de YouTube.
 - Arreglar versión compacta móvil de Reddit
 - Arreglar problema de traducción de texto completo
@@ -1780,7 +1780,7 @@ La mejora más emocionante del cuadro de entrada está aquí:
 
 ## 0.0.62
 
-- Arreglar formato PDF, sangría.
+- Arreglar formato de PDF, sangría.
 - Arreglar cambio de elemento preventivo en telegra.ph
 
 ## 0.0.61
@@ -1878,7 +1878,7 @@ La mejora más emocionante del cuadro de entrada está aquí:
 ## 0.0.42
 
 - Arreglar etiqueta BR
-- Tratar etiquetas de bloque según reglas
+- Tratar etiquetas de bloque con reglas
 
 ## 0.0.41
 
@@ -1950,7 +1950,7 @@ La mejora más emocionante del cuadro de entrada está aquí:
 ## 0.0.31
 
 - Soporte para traducir toda la página
-- Soporte para traducir la página inmediatamente
+- Soporte para traducir página inmediatamente
 - Más interfaz de usuario de configuración
 - Reflejar el tema
 - Agregar nuevo icono
