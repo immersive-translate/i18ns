@@ -16,7 +16,7 @@ sidebar_position: 6
 
 ## 1.14.16 Preview (2025-02-21)
 
-- 新增：Deepseek,Gemini,Cluade 支持上下文开关。
+- 新增：Deepseek,Gemini,Claude 支持上下文开关。
 - 修复：更新术语时不发送新翻译请求。
 - 优化：界面语言新增匈牙利语。
 - 优化：谷歌翻译质量。

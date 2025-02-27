@@ -20,7 +20,7 @@ The **Preview version** is published more frequently and includes some experimen
 
 ## 1.14.16 Preview (2025-02-21)
 
-- Added: Deepseek,Gemini,Cluade support context switch.
+- Added: Deepseek,Gemini,Claude support context switch.
 - Fixed: Update terms do not send new translation request.
 - Improved: Interface language adds Hungarian.
 - Improved: Google translation quality.
