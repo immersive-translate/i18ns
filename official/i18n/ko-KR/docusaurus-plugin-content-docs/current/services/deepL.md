@@ -1,51 +1,47 @@
 # DeepL
 
-## [몰입형 번역 Pro 멤버십](https://immersivetranslate.com/pricing/)을 구독한 후 DeepL 번역 서비스를 직접 사용하세요 (추천)
+## [Immersive Translate Pro Membership](https://immersivetranslate.com/en/pricing/)을 열면 DeepL 번역 서비스에 직접 액세스 가능 (추천)
 
-[여기를 클릭하여 소개 보기](https://immersivetranslate.com/pricing/)
+[자세히 알아보기](https://immersivetranslate.com/en/pricing/)
 
-## DeepL 공식을 통해 DeepL API 획득하기
+## DeepL의 공식 API 얻기
 
-1. 공식 소개: [DeepL API](https://www.deepl.com/zh/pro#developer)
-   - 주의: [DeepL API](https://www.deepl.com/zh/pro#developer)와 [DeepL Pro](https://www.deepl.com/pro)는 두 가지 다른 계정 유형입니다. 몰입형 번역에서 사용되는 것은 [DeepL API](https://www.deepl.com/zh/pro/select-country#developer) 계정입니다.
-2. [왜](https://www.deepl.com/zh/whydeepl) DeepL 을 선택해야 할까요?
+1. 공식 소개: [DeepL API](https://www.deepl.com/en/pro#developer)
 
-   - 영어 ⇄ 중국어는 5 배 더 정확합니다.
-   - 영어 ⇄ 일본어는 6 배 더 정확합니다.
-   - 번역 엔진은 인공 지능 기술 (신경망) 을 기반으로 합니다.
+   - 참고: [DeepL API](https://www.deepl.com/en/pro#developer)와 [DeepL Pro](https://www.deepl.com/pro)는 두 가지 다른 계정 유형이며, [DeepL API](https://www.deepl.com/en/pro/select-country#developer) 계정입니다.
 
-3. Deepl API 는 [Free API 와 Pro API](https://www.deepl.com/zh/pro#developer)로 나뉩니다.
+2. [왜](https://www.deepl.com/en/whydeepl) DeepL을 선택해야 하나요?
 
-   - Free API 는 매월 50 만 무료 문자 할당량을 제공합니다.
-   - Pro API 의 [공식 요금](https://www.deepl.com/zh/pro#developer)은: 100 만 문자당 25 달러입니다.
-   - 빈번하게 사용하는 사용자의 경우, 한 달에 대략 1000 만 문자를 소모하며, 가격은 대략 250 달러입니다.
+   - 영어 ⇄ 중국어 5배 더 정확
+   - 영어 ⇄ 일본어 6배 더 정확
+   - 인공지능 기술(신경망)에 기반한 번역 엔진
 
-4. [DeepL API](https://www.deepl.com/zh/pro#developer) 계정을 등록하고 활성화하려면, DeepL 이 [지원하는 국가 또는 지역](https://support.deepl.com/hc/zh-cn/articles/360020016339-DeepL-Pro%E5%9C%A8%E6%88%91%E6%89%80%E5%9C%A8%E5%9B%BD%E5%AE%B6%E6%97%A0%E6%B3%95%E8%AE%A2%E9%98%85)에서 발급한 VISA 또는 MASTER 신용카드를 제공해야 합니다. 유감스럽게도, 현재 중국 내에서 발급된 모든 신용카드 (듀얼 통화 카드 및 외화 카드 포함) 는 지원되지 않습니다.
+3. Deepl API는 [Free API와 Pro API](https://www.deepl.com/en/pro#developer)로 나뉩니다.
 
-## DeepL 번체 중국어
+   - Free API는 매월 500,000개의 무료 문자를 제공합니다.
+   - Pro API의 [공식 요금](https://www.deepl.com/en/pro#developer)은: 1백만 문자당 $25입니다.
+   - 고빈도 사용자의 경우, 한 달에 소비되는 문자 수는 약 1천만 문자이며, 가격은 약 250 USD입니다.
 
-DeepL 의 몰입형 번역 서비스는 번체 중국어도 지원해요! (DeepL 공식적으로 번체 중국어를 지원하지 않기 때문에, 많은 번체 사용자들이 DeepL 의 고품질 번역 서비스를 이용할 수 없었습니다. 이러한 번체 중국어 사용자의 불편을 해소하기 위해, 몰입형 번역 확장은 DeepL 의 간체 중국어를 다시 번체 중국어로 변환할 것입니다.
+4. 계정을 등록하고 [DeepL API](https://www.deepl.com/en/pro#developer)를 여세요.
 
-## 자체 구축 DeepL API
+## 일반적인 문제
 
-우리는 베타 기능에서 자체 구축한 DeeplX 서비스를 실험적으로 지원하고 있습니다 (하지만 테스트 결과, 이 서비스는 웹 페이지 번역 서비스로는 적합하지 않습니다. 웹 페이지 번역은 API 요청량이 매우 많기 때문에, 이 서비스를 구축할 경우 반드시 부하 분산을 잘 준비해야 합니다), 다음은 이 실험 기능을 활성화하는 방법에 대한 설명입니다:
+### 1. 입력한 키가 사용 불가합니다.
 
-1. 개발자 설정에서 베타 테스트 기능을 활성화합니다.
-2. 기본 설정에서 DeepLX(Beta) 를 찾아 자체 구축한 DeepL API URL 을 입력합니다, 예: http://your-domain/translate
+DeepL API Pro와 DeepL Pro는 두 가지 종류의 계정이며, Immersive Translate에서 사용할 수 있는 Auth Key는 DeepL API 계정입니다. [DeepL API Pro](https://www.deepl.com/en/pro/select-country#developer)를 클릭하세요.
 
-> Q: 어떻게 자체 구축하나요?  
-> A: [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX#setup-on-immersive-translate) 또는 [zu1k/deepl](https://github.com/KyleChoy/zotero-pdf-translate/blob/CustomDeepL/README.md)
+### 2. 401, 403 인증 오류 문제 해결
 
-## 자주 묻는 질문
+이러한 오류는 일반적으로 잘못된 유형의 인증 키를 사용할 때 발생합니다. 주의하세요:
 
-### 1. 입력한 키가 사용할 수 없습니다.
+1. DeepL은 두 가지 다른 제품을 제공합니다: DeepL Pro (번역 서비스)와 DeepL API (개발자 인터페이스)
+2. DeepL Pro 계정 설정에서 찾은 키는 API 호출과 **호환되지 않습니다**
+3. API 키를 얻으려면 DeepL API 계정을 별도로 등록해야 합니다
+4. DeepL Free API 키는 `:fx`로 끝나는 것으로 식별됩니다
+5. DeepL Pro API 키는 `:fx` 접미사가 없으며 일반 문자열로 나타납니다
 
-DeepL API Pro 와 DeepL Pro 는 두 가지 계정 유형이며, 몰입형 번역에서 사용할 수 있는 Auth Key 는 DeepL API 계정입니다. 여기를 클릭하여 [DeepL API Pro](https://www.deepl.com/zh/pro/select-country#developer)를 확인하세요.
-
-### 2. Deepl Free API 가 401, 403 권한 없음을 표시합니다.
-
-Deepl Free API 의 Key 는 모두 `:fx`로 끝나며, 다른 것들은 Free API 의 key 가 아닙니다.
+DeepL Pro 번역 서비스가 아닌 DeepL API 서비스에 제대로 등록했는지 확인하세요.
 
 ### 3. 456, 사용자 할당량 초과
 
-사용량이 DeepL 에서 각 사용자에게 설정한 하드 리밋을 초과했습니다. DeepL 의 합리적 사용 정책을 위반했을 수 있으니, 이러한 행위를 피하는 것이 좋습니다. 유료 사용자의 경우, 다음 달에 사용량이 자동으로 리셋됩니다.
+사용량이 DeepL의 공식 사용자당 하드 제한을 초과했습니다. DeepL의 공정 사용 정책을 위반했을 수 있으며, 이러한 행동을 피하는 것이 좋습니다. 유료 구독자인 경우, 사용량은 다음 달에 자동으로 초기화됩니다.

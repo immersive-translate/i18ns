@@ -1,14 +1,14 @@
 # DeepL
 
-## Acesso direto aos serviços de tradução do DeepL após abrir uma [Assinatura Pro do Immersive Translate](https://immersivetranslate.com/en/pricing/) (Recomendado)
+## Acesso direto aos serviços de tradução DeepL após abrir uma [Assinatura Pro do Immersive Translate](https://immersivetranslate.com/en/pricing/) (Recomendado)
 
-[Clique aqui para apresentação](https://immersivetranslate.com/en/pricing/)
+[Saiba Mais](https://immersivetranslate.com/en/pricing/)
 
-## Obtenha a API oficial do DeepL através do DeepL
+## Obtenha a API oficial do DeepL via DeepL
 
-1. Introdução Oficial: [API do DeepL](https://www.deepl.com/en/pro#developer)
+1. Introdução Oficial: [DeepL API](https://www.deepl.com/en/pro#developer)
 
-   - Note que: [API do DeepL](https://www.deepl.com/en/pro#developer) e [DeepL Pro](https://www.deepl.com/pro) são dois tipos diferentes de contas, e a conta [API do DeepL](https://www.deepl.com/en/pro/select-country#developer).
+   - Note que: [DeepL API](https://www.deepl.com/en/pro#developer) e [DeepL Pro](https://www.deepl.com/pro) são dois tipos de contas diferentes, e a conta [DeepL API](https://www.deepl.com/en/pro/select-country#developer).
 
 2. [Por que](https://www.deepl.com/en/whydeepl) escolher o DeepL?
 
@@ -16,35 +16,32 @@
    - Inglês ⇄ Japonês 6x mais preciso
    - Motor de tradução baseado em tecnologia de inteligência artificial (redes neurais)
 
-3. A API do Deepl é dividida em [API Gratuita e API Pro](https://www.deepl.com/en/pro#developer)
+3. A API do DeepL é dividida em [Free API e Pro API](https://www.deepl.com/en/pro#developer)
 
-   - A API Gratuita fornece 500.000 caracteres gratuitos por mês.
-   - A [taxa oficial](https://www.deepl.com/en/pro#developer) para a API Pro é: $25 por 1 milhão de caracteres.
-   - Para um usuário de alta frequência, a quantidade de caracteres consumidos em um mês é de cerca de 10 milhões de caracteres, e o preço é de cerca de: 250 USD
+   - A Free API fornece 500.000 caracteres gratuitos por mês.
+   - A [taxa oficial](https://www.deepl.com/en/pro#developer) para a Pro API é: $25 por 1 milhão de caracteres.
+   - Para um utilizador de alta frequência, a quantidade de caracteres consumidos num mês é de cerca de 10 milhões de caracteres, e o preço é de cerca de: 250 USD
 
-4. Para registrar uma conta e abrir a [API do DeepL](https://www.deepl.com/en/pro#developer).
-
-<!--## Construa sua própria API DeepL
-
-Estamos experimentando o suporte para nosso próprio serviço DeeplX na funcionalidade Beta (mas não é bem adequado como um serviço de tradução web, conforme testado. Devido à enorme quantidade de solicitações de API para tradução de páginas web, se você construir este serviço, por favor, certifique-se de fazer um bom trabalho de balanceamento de carga), a seguir está como ativar os recursos experimentais das instruções:
-
-1. Ativando Recursos de Teste Beta nas Configurações de Desenvolvedor
-2. Encontre DeepLX (Beta) em Configurações Básicas e insira a URL da API DeepL construída por você, por exemplo, http\://seu-dominio/traduzir
-
-> Q: Como posso construir o meu próprio?
->
-> A: [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX#setup-on-immersive-translate) ou [zu1k/deepl](https://github.com/KyleChoy/zotero-pdf-translate/blob/CustomDeepL/README.md) -->
+4. Para registar uma conta e abrir a [DeepL API](https://www.deepl.com/en/pro#developer).
 
 ## problemas comuns
 
 ### 1. A chave preenchida não está disponível.
 
-DeepL API Pro e DeepL Pro são dois tipos de contas, a Auth Key que pode ser usada no Immersive Translate é a conta da DeepL API, por favor clique aqui para [DeepL API Pro](https://www.deepl.com/en/pro/select-country#) desenvolvedor)
+DeepL API Pro e DeepL Pro são dois tipos de contas, a Chave de Autenticação que pode ser usada no Immersive Translate é a conta DeepL API, por favor clique aqui para [DeepL API Pro](https://www.deepl.com/en/pro/select-country#developer)
 
-### 2. Deepl Free API Indica 401 Sem Privilégio
+### 2. Resolução de Erros de Autenticação 401, 403
 
-As chaves da API Free da Deepl terminam todas em `:fx`, qualquer outra coisa não é uma chave de API Free.
+Esses erros ocorrem tipicamente quando está a usar o tipo errado de chave de autenticação. Por favor, note:
 
-### 3. 456, Cota para usuário foi atingida.
+1. DeepL oferece dois produtos diferentes: DeepL Pro (serviço de tradução) e DeepL API (interface de desenvolvedor)
+2. As chaves encontradas nas configurações da sua conta DeepL Pro são **incompatíveis** com chamadas de API
+3. Precisa de se registar especificamente para uma conta DeepL API para obter uma chave de API
+4. As chaves da DeepL Free API são identificadas por terminarem com `:fx`
+5. As chaves da DeepL Pro API não têm o sufixo `:fx` e aparecem como uma sequência regular de caracteres
 
-O uso excedeu o limite máximo oficial por usuário da DeepL, você pode ter violado a política de uso justo da DeepL e é aconselhado a evitar tal comportamento. Se você é um assinante pago, o uso será automaticamente reiniciado no próximo mês.
+Por favor, assegure-se de que se registou corretamente para o serviço DeepL API, não apenas para o serviço de tradução DeepL Pro.
+
+### 3. 456, Limite de quota para o utilizador foi atingido.
+
+O uso excedeu o limite oficial imposto por utilizador do DeepL, pode ter violado a política de uso justo do DeepL e é aconselhado a evitar tal comportamento. Se for um assinante pago, o uso será automaticamente reiniciado no próximo mês.
