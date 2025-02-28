@@ -2,11 +2,11 @@
 
 目前有 2 種方式使用 DeepL 翻譯服務：
 
-## 1. 透過開通[沉浸式翻譯 Pro 會員](https://immersivetranslate.com/pricing/) 後直接使用 DeepL 翻譯服務（推薦）
+## 1. 通過開通[沉浸式翻譯 Pro 會員](https://immersivetranslate.com/pricing/) 後直接使用 DeepL 翻譯服務（推薦）
 
 [點此查看介紹](https://immersivetranslate.com/pricing/)
 
-## 2. 透過 DeepL 官方獲取 DeepL API
+## 2. 通過 DeepL 官方獲取 DeepL API
 
 1. 官方介紹：[DeepL API ](https://www.deepl.com/zh/pro#developer)
    - 注意： [DeepL API](https://www.deepl.com/zh/pro#developer) 和 [DeepL Pro](https://www.deepl.com/pro) 是兩種不同的帳戶類型，在沉浸式翻譯裡使用的是 [DeepL API](https://www.deepl.com/zh/pro/select-country#developer) 帳戶。
@@ -14,7 +14,7 @@
 
    - 英語 ⇄ 中文 5 倍更準確
    - 英語 ⇄ 日語 6 倍更準確
-   - 翻譯引擎基於人工智慧技術（神經網路）
+   - 翻譯引擎基於人工智慧技術（神經網絡）
 
 3. Deepl API 分為 [Free API 和 Pro API](https://www.deepl.com/zh/pro#developer)
 
