@@ -44,13 +44,13 @@ DeepL API Pro 和 DeepL Pro 是兩種帳戶，可以在沉浸式翻譯裡使用�
 
 出現這類錯誤可能是因為您使用了錯誤的密鑰類型。請注意：
 
-1. DeepL有兩種不同的產品：DeepL Pro（翻譯服務）和DeepL API（開發接口）
-2. DeepL Pro帳戶中看到的密鑰**不適用**於API調用
-3. 您需要專門註冊DeepL API帳戶並獲取API密鑰
+1. DeepL 有兩種不同的產品：DeepL Pro（翻譯服務）和 DeepL API（開發接口）
+2. DeepL Pro 帳戶中看到的密鑰**不適用**於 API 調用
+3. 您需要專門註冊 DeepL API 帳戶並獲取 API 密鑰
 4. DeepL Free API Key 的標識是以`:fx`結尾的
 5. DeepL Pro API Key 的標識沒有`:fx`，就是正常的一串密鑰
 
-請確保您已正確註冊了DeepL API 服務，而不僅僅是DeepL Pro翻譯服務。
+請確保您已正確註冊了 DeepL API 服務，而不僅僅是 DeepL Pro 翻譯服務。
 
 ### 3. 456, Quota for user has been reached.
 

@@ -40,7 +40,7 @@
    - Translation Services: 翻訳サービス
    - Page Rules: ページルール
    - Input Field: 入力フィールド
-   - PDF Translation: PDF翻訳
+   - PDF Translation: PDF 翻訳
    - Video Subtitles: 動画字幕
    - Hover Translation: ホバー翻訳
    - Translation Theme: 翻訳テーマ
