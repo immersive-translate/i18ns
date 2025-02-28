@@ -14,24 +14,24 @@ Die **Release-Version** ist die offizielle stabile Version, verfügbar in den g�
 
 Die **Preview-Version** wird häufiger veröffentlicht und enthält einige experimentelle Funktionen. Im Vergleich zur Release-Version kann sie mehr Fehler enthalten. Sie wird hauptsächlich veröffentlicht auf
 
-- [offizielle Website's Userscript](https://download.immersivetranslate.com/immersive-translate.user.js)
+- [Benutzerskript der offiziellen Website](https://download.immersivetranslate.com/immersive-translate.user.js)
 - [Beta-Version im Firefox-Store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.14.16 Preview (2025-02-21)
+## 1.14.16 Release (2025-02-21)
 
-- Hinzugefügt: Deepseek, Gemini, Cluade unterstützen Kontextwechsel.
+- Hinzugefügt: Deepseek, Gemini, Claude unterstützen Kontextwechsel.
 - Behoben: Aktualisierte Begriffe senden keine neue Übersetzungsanfrage.
 - Verbessert: Schnittstellensprache fügt Ungarisch hinzu.
-- Verbessert: Google Übersetzungsqualität.
+- Verbessert: Google-Übersetzungsqualität.
 - Verbessert: Kostenlose Bildformatierung.
 
 ## 1.14.12 Release (2025-02-19)
 
 - Verbessert: Übersetzungspause leert sofort die Anforderungswarteschlange.
-- Verbessert: Filtert schmutzigen Text im Deepl-Übersetzungsdienst.
+- Verbessert: Filtert schmutzigen Text im deepl Übersetzungsdienst.
 - Behoben: Ungültige Seitenleistenübersetzung in den erweiterten Einstellungen.
-- Behoben: Anzeigeproblem bei benutzerdefinierter Deepseek-Übersetzung.
+- Behoben: Anzeigeproblem bei benutzerdefinierter deepseek Übersetzung.
 
 ## 1.14.11 Release (2025-02-18)
 
@@ -42,8 +42,8 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 - Neu: Pro-Mitgliedschaft unterstützt DeepSeek (v3) Übersetzungsdienst.
 - Behoben: Problem mit der Überschreitung der Größenbeschränkung der Benutzerkonfigurationsdatei gelöst.
 - Verbessert: Rechtsklick-Menüeintrag kann geschlossen werden (in den erweiterten Einstellungen bedienbar).
-- Verbessert: Verbesserte Spracherkennungsfähigkeiten für Greasemonkey und Safari auf Seiten mit Minderheitensprachen.
-- Verbessert: Online-Einstellungsseite Testdienstschnittstellenzugriff.
+- Verbessert: Verbesserte Spracherkennungsfähigkeiten für Greasemonkey und Safari auf Seiten mit kleineren Sprachen.
+- Verbessert: Zugriff auf die Testdienstschnittstelle der Online-Einstellungsseite.
 - Verbessert: Verbesserte Benutzererfahrung der Kontextvergleichsvorschau-Funktion.
 - Verbessert: Logik zur Beurteilung von Touch- und Mausmodus.
 
@@ -77,7 +77,7 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 ## 1.13.6 Preview (2025-01-17)
 
 - Verbessert: **AI Expert** kann mit **AI Context-Aware Translation** verwendet werden.
-- Verbessert: **Image Translation** ist jetzt kompatibel mit weibo.com (nur auf Chrome und Edge unterstützt).
+- Verbessert: **Bildübersetzung** ist jetzt kompatibel mit weibo.com (nur auf Chrome und Edge unterstützt).
 - Verbessert: Wenn die Schnittstellensprache auf Englisch eingestellt ist, wird die Standardsprache für **Enhanced Input Box** auf Chinesisch geändert.
 - Verbessert: Ein Store-Bewertungseintrag wurde in den **Mehr** Optionen im Panel hinzugefügt.
 
@@ -96,8 +96,8 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 - Hinzugefügt: Wenn der übersetzte Text und der Originaltext demselben Schriftsystem angehören, wird die Übersetzung in einem spezialisierten Stil angezeigt.
 - Behoben: Das Problem, bei dem **Mouse Hover Translation** auf einigen Websites nicht funktioniert.
 - Verbessert: DeepLx unterstützt jetzt Arabisch.
-- Verbessert: Verbesserte Erkennung der Originalsprache. Zuvor wurden Seiten mit mehreren Sprachen möglicherweise nicht übersetzt, jetzt werden sie korrekt übersetzt.
-- Verbessert: Für Twitter werden mehrzeilige Inhaltsübersetzungen standardmäßig nicht umbrochen. Ein Umbruch erfolgt nur, wenn der Inhalt 10 Zeilen oder 1000 Zeichen überschreitet. Der Umbruch kann über die Einstellungen **Erweiterte Einstellungen** -> **Automatisches Zeilenumbruch für lange Absätze aktivieren** aktiviert werden.
+- Verbessert: Verbesserte Erkennung der Originalsprache. Früher wurden Seiten mit mehreren Sprachen möglicherweise nicht übersetzt, jetzt werden sie korrekt übersetzt.
+- Verbessert: Für Twitter sind mehrzeilige Inhaltsübersetzungen standardmäßig so eingestellt, dass sie nicht umbrochen werden. Ein Umbruch erfolgt nur, wenn der Inhalt 10 Zeilen oder 1000 Zeichen überschreitet. Der Umbruch kann über die Einstellungen **Erweiterte Einstellungen** -> **Automatisches Zeilenumbruch für lange Absätze aktivieren** aktiviert werden.
 
 ## 1.12.8 (2025-01-03)
 
@@ -114,7 +114,7 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 ## 1.12.6 (2024-12-26)
 
 - Behoben: Problem, bei dem die Maus-Hover-Funktion unter bestimmten Bedingungen den falschen Übersetzungsdienst lädt.
-- Behoben: Problem, bei dem das temporäre Aktivieren von zweisprachigen Untertiteln auf YouTube nicht funktioniert.
+- Behoben: Problem, bei dem das vorübergehende Aktivieren von zweisprachigen Untertiteln auf YouTube nicht funktioniert.
 - Behoben: Nach dem Wechseln der Übersetzungsdienste wird der Übersetzungsdienst in der "**Enhanced Input Box**" nicht aktualisiert.
 - Behoben: Der "**YouTube Enable Bilingual**" Schalter auf der Einstellungsseite funktioniert nicht.
 - Verbessert: Das veraltete gemini-1.0-pro Modell wurde entfernt.
@@ -133,10 +133,10 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 - Hinzugefügt: Unvollständige ePub-Dateien können nach dem erneuten Importieren dort weiter übersetzt werden, wo sie aufgehört haben.
 - Behoben: Problem mit der Übersetzung von Twitter-Bildern im Safari-Browser.
 - Behoben: Tastenkombinationen werden unwirksam, wenn die "**Hover Translation**" Funktion ein- oder ausgeschaltet wird.
-- Verbessert: Verbesserte Anzeige von mehrzeiligen zweisprachigen Übersetzungen auf Twitter und YouTube.
+- Verbessert: Verbesserte Anzeige der mehrzeiligen zweisprachigen Übersetzung auf Twitter und YouTube.
 - Verbessert: Rich-Text-Übersetzung ist im zweisprachigen Modus standardmäßig deaktiviert, um die Übersetzungsqualität zu verbessern.
 - ~~Verbessert: Die Option zum Anpassen der "**Enable Sidebar & Navbar Translation**" in "**Advanced Settings**" hinzugefügt.~~
-- Verbessert: Bilder werden im "**Hover - sofort diesen Absatz übersetzen**" Modus nicht mehr übersetzt.
+- Verbessert: Bilder werden im Modus "**Hover - sofort diesen Absatz übersetzen**" nicht mehr übersetzt.
 
 ## 1.11.4 (2024-11-16)
 
@@ -144,16 +144,16 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 
 ## 1.11.2 (2024-11-13)
 
-- Behoben: Problem, bei dem Inhalte nach dem Klicken auf "mehr sehen" im Nur-Übersetzungsmodus von Facebook verschwinden.
-- ~~Verbessert: Verbesserte Anzeige von mehrzeiligen zweisprachigen Übersetzungen auf Twitter.~~
+- Behoben: Problem, bei dem Inhalte verschwinden, nachdem man im Nur-Übersetzungsmodus von Facebook auf "mehr sehen" klickt.
+- ~~Verbessert: Verbesserte Anzeige der mehrzeiligen zweisprachigen Übersetzungen auf Twitter.~~
 - Verbessert: Aktualisierte Benutzeroberfläche der Dropdown-Liste des Übersetzungsdienstes im Panel.
 
 ## 1.11.1 (2024-11-05)
 
-- Hinzugefügt: Echtzeit-Meeting **Subtitles Translation** unterstützt jetzt die Aktivierung über "float ball", verfügbar auf Zoom, Google Meet und Microsoft Teams.
+- Hinzugefügt: Echtzeit-Meeting **Untertitelübersetzung** unterstützt jetzt die Aktivierung über "Schwebeball", verfügbar auf Zoom, Google Meet und Microsoft Teams.
 - Behoben: Synchronisierte Untertitel-Timing-Probleme auf YouTube nach dem Ansehen von Werbung.
 - Behoben: Anzeigeprobleme mit dem Rechtsklick-Übersetzungsmenü in Safari auf MacOS 15.
-- Behoben: Probleme mit der Rückgängig-Funktionalität von Ctrl+Z im **Enhanced input** auf bestimmten Websites.
+- Behoben: Probleme mit der Rückgängig-Funktionalität von Strg+Z im **Enhanced input** auf bestimmten Websites.
 
 ## 1.10.6 (2024-10-25)
 
@@ -164,16 +164,16 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 ## 1.10.5 (2024-10-23)
 
 - Hinzugefügt: Warnung anzeigen, wenn die Quellsprache und die Zielsprache gleich sind
-- Behoben: Rich-Text-Leerzeichen-Zeichen-Übersetzungsproblem [#2175](https://github.com/immersive-translate/immersive-translate/issues/2175)
+- Behoben: Rich-Text-Leerzeichen-Übersetzungsproblem [#2175](https://github.com/immersive-translate/immersive-translate/issues/2175)
 - Verbessert: Eingabeverbesserung und Maus-Hover-Funktionalität innerhalb eingebetteter iframes auf Webseiten
 
 ## 1.10.2 (2024-10-11)
 
 - Hinzugefügt: Bildübersetzung (Beta-Version)
-- Hinzugefügt: Forece Enable Mouse Support Modus (Aktivieren Sie diese Funktion nur, wenn die Maus-Hover-Funktion auf Tablet-Geräten nicht verfügbar ist) **Einstellungen** -> **Erweiterte Einstellungen** -> **Forece Enable Mouse Support**
+- Hinzugefügt: Modus "Mausunterstützung erzwingen" aktivieren (Aktivieren Sie diese Funktion nur, wenn die Maus-Hover-Funktion auf Tablet-Geräten nicht verfügbar ist) **Einstellungen** -> **Erweiterte Einstellungen** -> **Mausunterstützung erzwingen**
 - Hinzugefügt: Fehlermeldung anzeigen, wenn die Video-Untertitelübersetzung fehlschlägt
 - Behoben: Rich-Text-Übersetzungsproblem [#2163](https://github.com/immersive-translate/immersive-translate/issues/2163)
-- Verbessert: Probleme behoben, bei denen die Übersetzungsschaltfläche während der PDF-Übersetzung möglicherweise nicht funktioniert
+- Verbessert: Probleme behoben, bei denen die Übersetzungsschaltfläche bei der PDF-Übersetzung möglicherweise nicht funktioniert
 - Verbessert: Verbesserte Darstellung von übersetzten Formeln
 - Verbessert: Sprachauswahlliste
 
@@ -181,7 +181,7 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 
 - Hinzugefügt: Übersetzungsdienst "Zhipu BigModel"
 - Entfernt: "SiliconCloud" Modell qwen1.5-7B-chat (aufgrund offizieller Einstellung)
-- Behoben: Kompatibilitätsproblem mit dem Safari-Plugin auf macOS 15 gelöst
+- Behoben: Kompatibilitätsproblem mit dem Safari-Plugin auf macOS 15 beim Anmelden gelöst
 
 ## 1.9.7 (2024-09-20)
 
@@ -199,49 +199,49 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 
 ## 1.9.3 (2024-09-05)
 
-- Die Option für zweisprachigen Vergleich/Übersetzung-Only-Anzeige wurde in die allgemeinen Einstellungen verschoben.
-- Standardmäßig merkt sich das System den Modus, der durch Klicken auf das Symbol im Panel für zweisprachigen Vergleich oder Übersetzung-Only-Anzeige umgeschaltet wird. Um vorübergehend zu wechseln, klicken Sie im Panel auf "Mehr" -> "Wechseln zu Übersetzung-Only-Anzeige".
-- Standardmäßig wird beim Übersetzen von Vereinfachtem Chinesisch in Traditionelles Chinesisch und umgekehrt der Übersetzung-Only-Modus verwendet, anstatt des zweisprachigen Vergleichsmodus.
+- Die Option für den zweisprachigen Vergleich/Übersetzungsanzeige wurde in die allgemeinen Einstellungen verschoben.
+- Standardmäßig merkt sich das System den Modus, der durch Klicken auf das Symbol im Panel für den zweisprachigen Vergleich oder die Übersetzungsanzeige umgeschaltet wird. Um vorübergehend zu wechseln, klicken Sie im Panel auf "Mehr" -> "Wechseln zur Übersetzungsanzeige".
+- Standardmäßig wird beim Übersetzen von Vereinfachtem Chinesisch ins Traditionelle Chinesisch und umgekehrt der Übersetzungsmodus anstelle des zweisprachigen Vergleichsmodus verwendet.
 - Einige Fehler behoben.
 
 ## 1.9.1 (2024-09-03)
 
-- Unterstützung für die Konfiguration von Ausnahmen für Sprachen und Websites im zweisprachigen Kontrast- oder Übersetzung-Only-Modus (Konfiguration auf der Einstellungsseite -> Erweiterte Einstellungen). Zum Beispiel: Wenn Ihr Standardübersetzungsmodus zweisprachiger Kontrast ist, Sie aber nicht möchten, dass Traditionelles Chinesisch auch den zweisprachigen Kontrast verwendet, können Sie Traditionelles Chinesisch zu den Ausnahmesprachen für den zweisprachigen Kontrast hinzufügen, sodass Traditionelles Chinesisch den Übersetzung-Only-Modus für die Übersetzung verwendet. Ebenso, wenn Ihr Standardübersetzungsmodus Übersetzung-Only ist, Sie aber möchten, dass eine bestimmte Sprache oder Website den zweisprachigen Kontrastmodus verwendet, können Sie diese Sprache oder Website auch zu den Ausnahmesprachen hinzufügen.
+- Unterstützung für die Konfiguration von Ausnahmen für Sprachen und Websites im zweisprachigen Kontrast- oder Übersetzungsmodus (Konfiguration auf der Einstellungsseite -> Erweiterte Einstellungen). Zum Beispiel: Wenn Ihr Standardübersetzungsmodus der zweisprachige Kontrast ist, Sie aber nicht möchten, dass Traditionelles Chinesisch ebenfalls den zweisprachigen Kontrast verwendet, können Sie Traditionelles Chinesisch zu den Ausnahmesprachen für den zweisprachigen Kontrast hinzufügen, sodass Traditionelles Chinesisch den Übersetzungsmodus verwendet. Ebenso, wenn Ihr Standardübersetzungsmodus der Übersetzungsmodus ist, Sie aber möchten, dass eine bestimmte Sprache oder Website den zweisprachigen Kontrastmodus verwendet, können Sie diese Sprache oder Website ebenfalls zu den Ausnahmesprachen hinzufügen.
 - Behebung eines Problems, bei dem das Eingabefeld in der Tiktok-Privatnachrichtenschnittstelle falsch übersetzt wurde
 - Behebung eines Problems, bei dem Comics auf Read Comic Online nicht übersetzt werden konnten
-- Behebung eines Problems, bei dem die [Erweiterte Einstellungen -> Mindestanzahl von Zeichen, die für die Übersetzung eines Absatzes erforderlich sind] in einigen Fällen nicht wirksam war
+- Behebung eines Problems, bei dem die [Erweiterten Einstellungen -> Mindestanzahl von Zeichen, die für die Übersetzung eines Absatzes erforderlich sind] in einigen Fällen nicht wirksam waren
 
 ## 1.8.4 (2024-08-30)
 
 - Der DeepL-Übersetzungsdienst unterstützt jetzt offiziell Traditionelles Chinesisch als Zielsprache (zuvor war das Übersetzen ins Traditionelle Chinesisch mit DeepL mit einem zusätzlichen Drittanbieterprozess zur Umwandlung von Vereinfachtem in Traditionelles Chinesisch verbunden).
-- Optimierte Leistung der Rich Text-Übersetzung.
+- Optimierung der Leistung der Rich Text-Übersetzung.
 
 ## 1.8.3
 
 - Google Meet unterstützt jetzt zweisprachige Untertitel für Live-Meetings: Jetzt können Sie die Funktion für zweisprachige Untertitel in Google Meet-Meetings genießen. Öffnen Sie einfach den Meeting-Link, aktivieren Sie die zweisprachigen Untertitel im immersiven Übersetzungspanel und aktualisieren Sie dann die Seite, um es zu erleben.
-- Hinzugefügt die Option "Übersetzungsprobleme der aktuellen Webseite melden" und die Option "Schwebeball schnell ein-/ausschalten" in den weiteren Optionen des Panels.
-- Nachdem die Position der zweisprachigen YouTube-Untertitel angepasst wurde, merkt sich das System automatisch die neue Position.
-- Optimierte Cache-Logik des Plugins, jetzt werden automatisch Cache-Daten gelöscht, die älter als 30 Tage sind.
-- Optimierte Codeblöcke innerhalb von Absätzen für eine genauere Wiederherstellung des Originaltextes.
-- Verbesserte Handhabung von "nicht übersetzbaren Wörtern" in den erweiterten Einstellungen.
+- Hinzufügen der Option "Übersetzungsprobleme der aktuellen Webseite melden" und der Option "Schwebeball schnell ein-/ausschalten" in den weiteren Optionen des Panels.
+- Nach dem Anpassen der Position der zweisprachigen YouTube-Untertitel merkt sich das System automatisch die neue Position.
+- Optimierung der Cache-Logik des Plugins, jetzt wird der Cache automatisch gelöscht, der älter als 30 Tage ist.
+- Optimierung von Codeblöcken innerhalb von Absätzen für eine genauere Wiederherstellung des Originaltextes.
+- Verbesserung der Handhabung von "nicht übersetzbaren Wörtern" in den erweiterten Einstellungen.
 
 ## 1.8.2
 
-- Sie können jetzt Text in Eingabefeldern mit einem Rechtsklick übersetzen: Wählen Sie einen beliebigen Text in einem Eingabefeld auf einer Webseite aus, klicken Sie mit der rechten Maustaste, um die Übersetzung auszuwählen, und die immersive Übersetzung wird den ausgewählten Text automatisch in die Zielsprache des Eingabefelds übersetzen, was es bequem macht, schnell nativen Text in Eingabefeldern in andere Sprachen zu übersetzen.
+- Sie können jetzt Text in Eingabefeldern mit einem Rechtsklick übersetzen: Wählen Sie einen beliebigen Text in einem Eingabefeld auf einer Webseite aus, klicken Sie mit der rechten Maustaste, um die Übersetzung auszuwählen, und die immersive Übersetzung wird den ausgewählten Text automatisch in die Zielsprache des Eingabefelds übersetzen, was es bequem macht, schnell Text in Eingabefeldern in andere Sprachen zu übersetzen.
 - Sie können jetzt schnell Übersetzungsprobleme von Webseiten im schwebenden Ball der immersiven Übersetzung melden. Nach der Übersetzung einer Webseite, wenn es Probleme gibt, können Sie auf die [Feedback]-Schaltfläche auf der rechten Seite des schwebenden Balls klicken, die Problembeschreibung ausfüllen, und wir werden es so schnell wie möglich bearbeiten.
 - Epub-Dateien unterstützen jetzt die Übersetzung von Rich Text (d.h. die Beibehaltung des Formats des Originaltextes jedes Absatzes, wie Links, Fett, etc.)
 - Unterstützung für Echtzeit-Zweisprachige Untertitel in Microsoft Teams Webversion Video-Meetings (Öffnen Sie den Teams-Meeting-Link, schalten Sie die zweisprachigen Untertitel im immersiven Übersetzungspanel ein und aktualisieren Sie dann)
-- Optimierte zweisprachige Untertitel für die englische Version von iQIYI (iq.com)
+- Optimierung der zweisprachigen Untertitel für die englische Version von iQIYI (iq.com)
 - Bereitstellung von mehr arXiv-Papieren mit optimiertem zweisprachigem Übersetzungslayout
 - Aufgrund von Einschränkungen der Youtube-Website unterstützt das Chrome Tampermonkey-Skript keine zweisprachigen YouTube-Untertitel mehr. Bitte verwenden Sie die [Plugin-Version](https://immersivetranslate.com/).
 
 ## 1.8.1
 
 - Behebung von Übersetzungsproblemen mit dem Tampermonkey-Skript SiliconCloud
-- Claude-Übersetzung unterstützt jetzt Tibetisch und erlaubt die Konfiguration des Temperaturparameters
+- Claude-Übersetzung unterstützt jetzt Tibetisch und ermöglicht die Konfiguration des Temperaturparameters
 - Die Detailseite des KI-Experten zeigt die vom Experten verwendeten Eingabeaufforderungen an
 - In den Shortcut-Einstellungen können jetzt eindeutige Tastenkombinationen für jeden Übersetzungsdienst zugewiesen werden
-- Optimierte Erkennung für arXiv-Papierübersetzungen
+- Optimierung der Erkennung von arXiv-Papierübersetzungen
 
 ## 1.7.9
 
@@ -251,25 +251,25 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 ## 1.7.8
 
 - DeepL, Microsoft Translate, Google Translate, OpenAI, Claude, Gemini und andere Übersetzungsdienste unterstützen die Übersetzung zur Beibehaltung des Originaltextformats (z.B. Links, Fett, etc.)
-- Nach der Auswahl des Textes ändert sich das Rechtsklick-Menü zu [Text übersetzen], bei dem Sie automatisch zur Immersive Translation Textübersetzungsseite springen können
+- Nach der Auswahl des Textes ändert sich das Rechtsklick-Menü zu [Text übersetzen], klicken Sie darauf, um automatisch zur Immersive Translation Textübersetzungsseite zu springen
 - Neuer kostenloser Übersetzungsdienst für große Modelle: SiliconCloud, verfügbar für alle Benutzer.
-- Hinzugefügt Zero-One-Thing großes Modell Übersetzung, das nach der Registrierung auf der Zero-One-Thing-Plattform durch Ausfüllen des API-Schlüssels verwendet werden kann.
-- Neuer Benutzer-Feedback-Button für Manga-Übersetzung (nach der Übersetzung eines Mangas klicken Sie auf die [Feedback]-Schaltfläche auf der rechten Seite des schwebenden Balls, um Feedback zur Übersetzungsqualität zu geben).
+- Hinzufügen der Zero-One-Thing großen Modellübersetzung, die nach der Registrierung auf der Zero-One-Thing-Plattform durch Eingabe des API-Schlüssels verwendet werden kann.
+- Neuer Benutzer-Feedback-Button für Manga-Übersetzungen (nach der Übersetzung eines Mangas klicken Sie auf die [Feedback]-Schaltfläche auf der rechten Seite des schwebenden Balls, um Feedback zur Übersetzungsqualität zu geben).
 
 ## 1.7.7
 
-- Übernahme des KI-intelligenten Satzteilungsalgorithmus für automatisch generierte englische Untertitel auf YouTube [Pro Verfügbar]
+- Einführung eines KI-intelligenten Satztrennungsalgorithmus für automatisch generierte englische Untertitel auf YouTube [Pro Verfügbar]
 - Optimierung der Rechtsklick-Übersetzung zu "Übersetzen in xx Zielsprache"
 - Unterstützung der immersiven [JS SDK](https://immersivetranslate.com/docs/js-sdk/) Integration für Drittanbieter-Websites
 - Optimierung der Hulu-Untertitelanzeige
-- Unterstützung der ZOOM-Webversion Meeting-Untertitelübersetzung
+- Unterstützung der ZOOM-Webversion-Meeting-Untertitelübersetzung
 
 ## 1.7.6
 
 - Unterstützung für die Anpassung von KI-Experten, der Eingang befindet sich unten auf der Seite [Einstellungen]->[KI-Experte].
 - Optimierung des Untertitelladens auf der TED-Website
 - Portugiesisch (Brasilien) wird als Plugin-Sprache unterstützt.
-- Unterstützte Seiten für Comic-Übersetzung
+- Unterstützte Seiten für Comic-Übersetzungen
   - [Antbyw](https://www.antbyw.com)
   - [Zerobywzz](https://www.zerobywzz.com)
   - [动漫之家](https://www.idmzj.com)
@@ -278,17 +278,17 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 ## 1.7.5
 
 - Aktiviertes Kopieren von YouTube-Untertiteln
-- Optimierte Untertitelanzeige auf einigen Videoseiten
-- Verbesserte Manga-Übersetzungsgeschwindigkeit
+- Optimierung der Untertitelanzeige auf einigen Videoseiten
+- Verbesserung der Manga-Übersetzungsgeschwindigkeit
 
 ## 1.7.2
 
-- Behebung des Comic-Übersetzungsfehlers im Firefox-Browser.
+- Behebung des Fehlers bei der Comic-Übersetzung im Firefox-Browser.
 
 ## 1.7.1
 
-- Verbesserte Übersetzungsgeschwindigkeit für Comic-Übersetzungen
-- Unterstützung für neue Seiten in Comic-Übersetzungen hinzugefügt:
+- Verbesserung der Übersetzungsgeschwindigkeit für Comic-Übersetzungen
+- Unterstützung neuer Seiten in Comic-Übersetzungen hinzugefügt:
   - [ShonenJumpPlus](https://shonenjumpplus.com)
   - [Heros Web](https://viewer.heros-web.com/)
   - [Comic Days](https://comic-days.com/)
@@ -297,18 +297,18 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 
 ## 1.6.6
 
-- Unterstützung für neue Seiten für Comic-Übersetzung hinzugefügt:
+- Unterstützung neuer Seiten für Comic-Übersetzungen hinzugefügt:
   - [Mangabuddy](https://mangabuddy.com/)
   - [Hitomi](https://hitomi.la)
   - [Yamibo](https://www.yamibo.com)
   - [Copymanga](https://www.copymanga.site/)
-- Zweisprachige YouTube-Untertitel unterstützen jetzt intelligentes Satzteilen (Beta) (Nur wenn die immersive Übersetzung von YouTube-Untertiteln manuell in [Einstellungen] - [Video-Untertitel] aktiviert wird und die Originalvideo-Untertitel automatisch generierte englische Untertitel sind)
-- Hinzugefügt Übersetzungsdienst Tencent [【Hunyuan Large Model】](https://immersivetranslate.com/docs/services/tencent-hunyuan/)
+- YouTube zweisprachige Untertitel unterstützen jetzt intelligentes Satztrennen (Beta) (Nur wenn die immersive Übersetzung von YouTube-Untertiteln manuell in [Einstellungen] - [Video-Untertitel] aktiviert wird und die Originalvideo-Untertitel automatisch generierte englische Untertitel sind)
+- Hinzufügen des Übersetzungsdienstes Tencent [【Hunyuan Large Model】](https://immersivetranslate.com/docs/services/tencent-hunyuan/)
 
 ## 1.6.5
 
-- Behebung der Textlayout-Probleme von Comic-Übersetzungen für Sprachen im lateinischen Schriftsystem.
-- Neue unterstützte Seiten für Comic-Übersetzung:
+- Behebung der Textlayout-Probleme bei Comic-Übersetzungen für Sprachen im lateinischen Schriftsystem.
+- Neue unterstützte Seiten für Comic-Übersetzungen:
   - COMIC FUZCOMICFUZ(https://comic-fuz.com/)
   - MangaDexMangaDex(https://mangadex.org/)
   - KuaiKan ComicsKuaiKanComics(https://www.kuaikanmanhua.com/)
@@ -316,15 +316,15 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 
 ## 1.6.4
 
-- Wenn KI-Experten für "Intelligente Auswahl" verwendet werden, können verschiedene KI-Experten für verschiedene Websites angepasst werden. Dies kann in [Einstellungen] -> [KI-Experten] -> [Beliebigen Experten eingeben] eingestellt werden.
-- Behebung des Problems, bei dem Untertitel in YouTube im "Übersetzung-Only"-Modus nicht angezeigt werden.
+- Wenn KI-Experten für die "Intelligente Auswahl" verwendet werden, können verschiedene KI-Experten für verschiedene Websites angepasst werden. Dies kann in [Einstellungen] -> [KI-Experten] -> [Beliebigen Experten eingeben] eingestellt werden.
+- Behebung des Problems, bei dem Untertitel in YouTube im "Nur Übersetzung"-Modus nicht angezeigt werden.
 - Behebung des Problems, dass zweisprachige Untertitel auf Mubi nicht funktionierten.
 - Kompatibel mit PDFs, die mit dem Adobe Acrobat-Plugin geöffnet wurden.
 - Alle Benutzer können [online beitragen](https://weblate.immersivetranslate.com/projects/immersive-translate/extension/) zur mehrsprachigen Übersetzung der immersiven Überschnittstelle.
 
 ## 1.6.3
 
-- Neue Funktion: Manga-Übersetzung (Beta), auf unterstützten Manga-Websites erscheint eine Manga-Übersetzungsschaltfläche unter dem schwebenden Ball für die schnelle Übersetzung der Webseite. Durch Klicken darauf wird die Manga-Übersetzung aktiviert. Diese Funktion ist für Pro-Mitglieder verfügbar (500 Seiten pro Monat, zusätzliche Pakete können gekauft werden), derzeit werden die folgenden Seiten unterstützt:
+- Neue Funktion: Manga-Übersetzung (Beta), auf unterstützten Manga-Websites erscheint ein Manga-Übersetzungsbutton unter dem schnellen Übersetzungs-Schwebeball der Webseite. Durch Klicken darauf wird die Manga-Übersetzung aktiviert. Diese Funktion ist für Pro-Mitglieder verfügbar (500 Seiten pro Monat, zusätzliche Pakete können erworben werden), derzeit werden die folgenden Seiten unterstützt:
   - [MANGA Plus by SHUEISHA](https://mangaplus.shueisha.co.jp)
   - [Zebrack by SHUEISHA](https://zebrack-comic.shueisha.co.jp)
   - [E-Hentai](https://e-hentai.org)
@@ -332,7 +332,7 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 
 ## 1.6.2
 
-- Neue Funktion: Manga-Übersetzung (Beta), auf unterstützten Manga-Websites erscheint ein Manga-Übersetzungsknopf unterhalb des Schnellübersetzungs-Schwebeballs der Webseite. Durch Klicken darauf wird die Manga-Übersetzung aktiviert. Diese Funktion ist für Pro-Mitglieder verfügbar (500 Seiten pro Monat, zusätzliche Pakete können erworben werden) und unterstützt derzeit die folgenden Seiten:
+- Neue Funktion: Manga-Übersetzung (Beta), auf unterstützten Manga-Websites erscheint ein Manga-Übersetzungsknopf unterhalb des schwebenden Balls für die schnelle Webseitenübersetzung. Durch Klicken darauf wird die Manga-Übersetzung aktiviert. Diese Funktion steht Pro-Mitgliedern zur Verfügung (500 Seiten pro Monat, zusätzliche Pakete können erworben werden) und unterstützt derzeit die folgenden Seiten:
   - [MANGA Plus by SHUEISHA](https://mangaplus.shueisha.co.jp)
   - [Zebrack by SHUEISHA](https://zebrack-comic.shueisha.co.jp)
   - [E-Hentai](https://e-hentai.org)
@@ -342,12 +342,12 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 - Neue Funktion: Unterstützung für den zweisprachigen Vergleichsmodus mit Übersetzung zuerst und Originaltext danach, der auf der Einstellungsseite -> erweiterte Einstellungen aktiviert werden kann.
 - Benutzerdefinierte AI-Modellliste unterstützt die `-all` Syntax, die alle voreingestellten Modelle löschen kann.
 - Bei zweisprachigen Videountertiteln wird der Originaltext automatisch in vereinfachtes Chinesisch umgewandelt, wenn die Zielsprache vereinfachtes Chinesisch ist und der Originaltext traditionelles Chinesisch ist, und umgekehrt.
-- Behebung des Problems, dass die Schwebeball-Verknüpfung unter iOS 18 nicht übersetzen konnte.
+- Behebung des Problems, dass die schwebende Ballverknüpfung unter iOS 18 nicht übersetzen konnte.
 - Behebung des Problems, dass benutzerdefinierte Prompts unwirksam waren, wenn zu viele verwendet wurden.
 
 ## 1.6.1
 
-- Unterstützt Baidu Qianfan large model platform, Alibaba Bailian large model platform, DeepSeek large model platform.
+- Unterstützt Baidu Qianfan große Modellplattform, Alibaba Bailian große Modellplattform, DeepSeek große Modellplattform.
 - Behebung des Problems, dass das Ändern der Zielsprache und anderer Einstellungen im Popup-Panel beim Klicken auf den Übersetzungs-Schwebeball zurückgesetzt wurde.
 
 ## 1.5.8
@@ -366,8 +366,8 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 
 ## 1.5.4
 
-- Pro-Mitglieder unterstützen die sofortige Nutzung von Claude und Gemini Übersetzungsdiensten (Beta)
-- YouTube zweisprachige Untertitel unterstützen Schriftart- und Schriftstärkeeinstellungen
+- Pro-Mitglieder unterstützen die sofortige Nutzung von Claude- und Gemini-Übersetzungsdiensten (Beta)
+- YouTube zweisprachige Untertitel unterstützen Schriftart- und Schriftgewichtseinstellungen
 - Behebung von Wortgrenzenproblemen beim Umbruch langer Absätze [#86](https://github.com/immersive-translate/immersive-translate/issues/86)
 - Behebung der Erkennung von japanischen und koreanischen Sprachen
 - Behebung des Problems, dass Reddit-Seiten auf mobilen Geräten beim Scrollen nicht übersetzt wurden
@@ -381,7 +381,7 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 - Behebung des Problems, dass Änderungen am allgemeinen Experten-Prompt den angegebenen AI-Experten-Prompt überschrieben [#1692](https://github.com/immersive-translate/immersive-translate/issues/1692)
 - AI benutzerdefinierter Modellname unterstützt erweiterte Syntax, verwenden Sie +, um ein Modell hinzuzufügen, verwenden Sie -, um ein Modell auszublenden, und verwenden Sie model_name=display_name, um den Anzeigenamen des Modells anzupassen, z.B.: +gpt-3.5-turbo,-gpt-4,gpt-4-turbo=gpt-4-super
 - Behebung des Fehlers, der von Gemini zurückgegeben wurde
-- Ausblenden des Schwebeballs beim Drucken der Seite
+- Ausblenden des schwebenden Balls beim Drucken der Seite
 - Behebung der Schriftgröße, die sich nicht proportional skaliert, wenn YouTube im Vollbildmodus ist [#1681](https://github.com/immersive-translate/immersive-translate/issues/1681)
 
 ## 1.5.1
@@ -408,7 +408,7 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 - Kompatibel mit der Übersetzung des Bing Copilot-Seiteneingabefelds
 - YouTube-Untertitelstilsteuerung unterstützt Randgestaltung
 - Unterstützung für die Auswahl des Standardübersetzungsdienstes auf der Seite Einstellungen -> Übersetzungsdienst
-- Behebung des OpenAI SystemPrompt-Platzhalterersatzes
+- Behebung des OpenAI SystemPrompt Platzhalterersatzes
 - Behebung des Problems beim Zusammenführen benutzerdefinierter Benutzerregeln
 - Behebung der abnormalen Untertiteldarstellung für einige Netflix-Videos [#1630](https://github.com/immersive-translate/immersive-translate/issues/1630)
 - Behebung des Problems, dass häufige Änderungen der Übersetzungsfarbe über die Farbpalette unwirksam waren [#1628](https://github.com/immersive-translate/immersive-translate/issues/1628)
@@ -451,7 +451,7 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 ## 1.4.2
 
 - Unterstützung für den Claude-Übersetzungsdienst
-- Optimierung der OpenAI-Multi-Prompt-Wörter, Unterstützung des YAML-Formats, das die Flexibilität und Benutzerfreundlichkeit der Konfiguration verbessert
+- Optimierung der OpenAI-Multi-Prompt-Wörter, Unterstützung des YAML-Formats, was die Flexibilität und Benutzerfreundlichkeit der Konfiguration verbessert
 - Deutliche Optimierung der Übersetzungsgeschwindigkeit von YouTube-Untertiteln und Unterstützung für das Umschalten zwischen chinesischer und englischer Reihenfolge, Anpassung der Schriftfarbe und -größe usw.
 - Video-Untertitelplattform unterstützt [University of Southampton](https://southampton.cloud.panopto.eu)
 - Udemy zweisprachige Untertitel kompatibel mit mobiler Anzeige
@@ -500,7 +500,7 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 - Behoben: Das Problem, dass die Konfiguration der Textfarbe keine RGBA-Vorschau unterstützte [#1435](https://github.com/immersive-translate/immersive-translate/issues/1435)
 - Behoben: Das Problem, dass beim Upgrade der Safari-Plugin-Version immer die Installations-Erfolgsseite angezeigt wurde
 - Microsoft hat Unterstützung für Vietnamesisch hinzugefügt
-- Behoben: Das Problem, dass übersetzte Untertitel auf der edx-Website nicht angezeigt wurden
+- Behoben: Das Problem, dass übersetzte Untertitel auf der edx-Seite nicht angezeigt wurden
 
 ## 1.2.2
 
@@ -531,7 +531,7 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 - Unterstützung für die Einstellung der Übersetzungs-Schriftart im Nur-Übersetzungsmodus.
 - Hinzugefügt: Schnellzugriff für die Aktivierung von Video-Untertiteln auf Netflix, Ted, Bloomberg, Udemy, Coursera.
 - Behoben: Einige übersetzte Stile (wie Unterstreichungen) waren in Safari nicht wirksam.
-- Behoben: Während der Seitenübersetzung wurde das Problem behoben, dass das Überfahren der Maus keine erneute Übersetzung auslöste.
+- Behoben: Während der Seitenübersetzung wurde das Problem, dass das Überfahren der Maus keine erneute Übersetzung auslöste.
 
 ## 1.1.8
 
@@ -551,7 +551,7 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 
 ## 1.1.6
 
-- **Mobile Unterstützung für die Übersetzung spezifischer Absätze:** Die mobile Version unterstützt jetzt die Übersetzung spezifischer Absätze und hat eine Vielzahl von Schnellzugriffsoperationen hinzugefügt, einschließlich Wischen nach links, Wischen nach rechts, Doppeltippen, Dreifachtippen und Mehrfinger-Touch-Gesten. Diese sind standardmäßig nicht aktiviert und erfordern, dass der Benutzer aktiv die auslösende Geste auf der Einstellungsseite unter [Maus-Hover] auswählt.
+- **Mobile Unterstützung für die Übersetzung spezifischer Absätze:** Die mobile Version unterstützt jetzt die Übersetzung spezifischer Absätze und hat eine Vielzahl von Schnellzugriffsoperationen hinzugefügt, darunter Wischen nach links, Wischen nach rechts, Doppeltippen, Dreifachtippen und Multi-Finger-Touch-Gesten. Diese sind standardmäßig nicht aktiviert und erfordern, dass der Benutzer aktiv die auslösende Geste auf der Einstellungsseite unter [Maus-Hover] auswählt.
 - **Gemini Standardversion Update:** Die Standardversion ist jetzt `v1beta`.
 - **Behoben: Klassische Chinesisch-Übersetzung:** Behoben: Die klassische Chinesisch-Übersetzungsfunktionalität von Microsoft und OpenAI.
 - **Japanische Übersetzungsoptimierung:** Weiter optimiert: OpenAI's japanische Übersetzung zur Verbesserung der Genauigkeit und Flüssigkeit.
@@ -567,19 +567,19 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 - **Popup-Panel-UI-Upgrade:** Das neue Design zielt darauf ab, die Benutzerfreundlichkeit und Verständlichkeit zu verbessern. Dieses Update umfasst:
 
   - **Neue Funktionen im Hauptmenü:**
-    - **Zweisprachiger/Nur-Übersetzungsmodus-Schalter:** Sie können jetzt direkt im Hauptmenü zwischen "Zweisprachiger Übersetzungsmodus" und "Nur-Übersetzungsmodus" wechseln, links neben der Übersetzungstaste.
+    - **Zweisprachiger/Nur-Übersetzungsmodus-Schalter:** Sie können jetzt direkt im Hauptmenü zwischen "Zweisprachiger Übersetzungsmodus" und "Nur-Übersetzungsmodus" wechseln, links neben der Übersetzungsschaltfläche.
     - **Dokumentenübersetzungseintrag:** Der Eintrag für die Übersetzung von "PDF/ePub/Untertitel-Dateien" wurde für den schnellen Zugriff ins Hauptmenü verschoben.
     - **Video-Übersetzungseinstellungen:** Der Eintrag für "Video-Übersetzung" Einstellungen wurde ebenfalls ins Hauptmenü für schnelle Anpassungen platziert.
     - **Neuer Eintrag für Benutzerdokumentation:** Bietet detaillierte Bedienungsanleitungen und Hilfedokumente.
 
-- **Integrierter Dokumentenübersetzungseintrag:** Jetzt können Sie PDF-, ePub- und Untertitel-Dateien über einen einheitlichen Upload-Eintrag übersetzen. Klicken Sie einfach auf die [PDF/ePub] Schaltfläche im Popup-Panel, ohne [Mehr] auswählen zu müssen.
+- **Integrierter Dokumentenübersetzungseintrag:** Jetzt können Sie PDF-, ePub- und Untertitel-Dateien über einen einheitlichen Upload-Eintrag übersetzen. Klicken Sie einfach auf die [PDF/ePub]-Schaltfläche im Popup-Panel, ohne [Mehr] auswählen zu müssen.
 
 - **Unterstützung für 5 Video-Websites hinzugefügt:**
   - Unterstützung für Untertitel von Podcasts auf Youtube Music.
-  - Unterstützung für die iview.abc.net.au Website hinzugefügt.
-  - Unterstützung für die www.nma.art Website hinzugefügt.
-  - Unterstützung für die creativecloud.adobe.com Website hinzugefügt.
-  - Unterstützung für die www.masterclass.com Website hinzugefügt.
+  - Unterstützung für die iview.abc.net.au-Website hinzugefügt.
+  - Unterstützung für die www.nma.art-Website hinzugefügt.
+  - Unterstützung für die creativecloud.adobe.com-Website hinzugefügt.
+  - Unterstützung für die www.masterclass.com-Website hinzugefügt.
 
 ## 1.1.3
 
@@ -604,16 +604,16 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 
 ### Neue Funktionen
 
-- **Tastenkombinationseinstellungen**: Hinzugefügt: Ein neues oberes Menü "Verknüpfungen" und die folgenden anpassbaren Tastenkombinationsfunktionen:
+- **Verknüpfungseinstellungen**: Hinzugefügt: Ein neues oberes Menü "Verknüpfungen" und die folgenden anpassbaren Verknüpfungsfunktionen:
 
   - Bestimmen Sie eine Kombination von Tasten, um den Inhalt des aktuellen Eingabefelds zu übersetzen, als Ergänzung zur vorherigen Methode, dreimal schnell die Leertaste zu drücken.
   - Bestimmen Sie eine Kombination von Tasten, um "direkte Übersetzung bei Maus-Hover" auf der Seite vorübergehend zu aktivieren. Durch erneutes Drücken wird diese Funktion aufgehoben.
-  - Hinzugefügt: Spezielle Tastenkombinationen für 6 Übersetzungsdienste (wie DeepL, OpenAI, Google, Microsoft, Gemini, Tencent Interactive Translation), um den temporären Wechsel zwischen Übersetzungsdiensten zu erleichtern.
+  - Hinzugefügt: Spezielle Verknüpfungstasten für 6 Übersetzungsdienste (wie DeepL, OpenAI, Google, Microsoft, Gemini, Tencent Interactive Translation), um den temporären Wechsel zwischen Übersetzungsdiensten zu erleichtern.
 
 - **Plugin-Einstellungsseite UI-Update**:
 
   - In "Erweiterte Einstellungen" wurde eine neue Option hinzugefügt, die es Benutzern ermöglicht, bestimmte Wörter (z.B. "LLM") von der Übersetzung auszuschließen.
-  - In "Erweiterte Einstellungen" wurde eine neue Option hinzugefügt, um die Mindestanzahl von Zeichen zu konfigurieren, die erforderlich sind, um einen Absatz zu übersetzen. Der Standardwert ist 4 Zeichen, kann jedoch höher eingestellt werden (z.B. 20), sodass nur längere Absätze übersetzt werden.
+  - In "Erweiterte Einstellungen" wurde eine neue Option hinzugefügt, um die minimale Anzahl von Zeichen zu konfigurieren, die erforderlich sind, um einen Absatz zu übersetzen. Der Standardwert ist 4 Zeichen, kann aber höher eingestellt werden (z.B. 20), sodass nur längere Absätze übersetzt werden.
   - Hinzugefügt: Ein Tutorial für Anfänger, das schwebende Ball-Einstellungen, Video-Untertitel-Einstellungen und Maus-Hover-Einstellungen abdeckt.
 
 - **YouTube Zweisprachige Untertitel**: Hinzugefügt: Ein Schnellzugriff im YouTube-Video-Wiedergabefenster, um zweisprachige Untertitel zu aktivieren oder auszublenden (diese Funktion kann deaktiviert werden).
@@ -630,24 +630,24 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 
   - Behoben: Das Problem, dass die Maus-Hover-Übersetzung fehlschlug, wenn die Seite den Fokus verlor.
   - Behoben: Das Problem, dass weniger als 3 Zeichen in der Eingabefeld-Verbesserungsfunktion nicht übersetzt wurden.
-  - Behoben: Das Problem, dass einige Verzeichnisse während der Produktion von zweisprachigen Epubs nicht übersetzt wurden.
+  - Behoben: Das Problem, dass einige Verzeichnisse bei der Erstellung von zweisprachigen Epubs nicht übersetzt wurden.
 
 - **Feature-Entfernung**: Entfernt: Die zweisprachige Informationsverbesserungsfunktion (gleichzeitige Anzeige von englischen Suchergebnissen auf Google-Suchseiten).
 
 ### Weitere Updates
 
-- **openAI Konfigurationsupdate**: Unterstützt jetzt die Einstellung der Anzahl der Konfigurationen pro Sekunde in Dezimalzahlen, wie 0,5, was 1 Anfrage alle 2 Sekunden bedeutet.
+- **openAI Konfigurationsupdate**: Unterstützt jetzt die Einstellung der Anzahl der Konfigurationen pro Sekunde in Dezimalzahlen, wie 0.5, was 1 Anfrage alle 2 Sekunden bedeutet.
 
 ## 0.12.14
 
 - Behoben: Das Problem der Erkennung der Standardsprache auf einigen Maschinen nach der ersten Installation.
-- Optimierung: Die Standardreihenfolge der Webseitentitel wird auf [Chinesisch - Englisch] geändert.
+- Optimierung: Die Standardreihenfolge der Webseitentitel wurde auf [Chinesisch - Englisch] geändert.
 
 ## 0.12.13
 
 - Behoben: Problem mit der OpenAI-Übersetzung langer Absätze in einigen Fällen. [#1276](https://github.com/immersive-translate/immersive-translate/issues/1276)
 - Optimiert: Bei Verwendung von Maus-Hover, das Problem, dass der Fokus auf der Seite verloren geht und dann das erneute Auslösen unwirksam wird.
-- Behoben: Das Problem, dass der Cache nach der Änderung des Prompts/Modells in OpenAI weiterhin vorhanden ist.
+- Behoben: Das Problem, dass der Cache nach der Änderung des Prompts/Modells in OpenAI weiterhin vorhanden war.
 
 ## 0.12.12
 
@@ -685,7 +685,7 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 
 ## 0.12.7
 
-- Zweisprachige Untertitel hinzugefügt zur Unterstützung der [TED](https://www.ted.com), [Frontend Masters](https://frontendmasters.com/), [edx](https://www.edx.org/), [CodeWithChris](https://www.edx.org/), [Skillshare](https://www.ted.com) Plattformen. https://learn.codewithchris.com/enrollments), [Skillshare](https://www.skillshare.com/) Plattformen
+- Zweisprachige Untertitel hinzugefügt zur Unterstützung von [TED](https://www.ted.com), [Frontend Masters](https://frontendmasters.com/), [edx](https://www.edx.org/), [CodeWithChris](https://www.edx.org/), [Skillshare](https://www.ted.com) Plattformen. https://learn.codewithchris.com/enrollments), [Skillshare](https://www.skillshare.com/) Plattformen
 - Der Hoverball ist jetzt standardmäßig ausgeblendet, wenn das Video im Vollbildmodus ist.
 - Problem mit ruckelndem Klicken im Firefox-Seiten-Hoverball-Aktionspanel behoben.
 - Unterstützung für Zusammenarbeit unter der pubmed.ncbi.nlm.nih.gov Seite und dem scholarscope Plugin
@@ -709,19 +709,19 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 - Bietet schnellen Zugriff auf zweisprachige Versionen aller Papiere auf der [Arxiv](https://arxiv.org/abs/1910.06709) Papierseite.
 - [Hoverball-Unterstützung konfiguriert, um links fixiert zu werden #1168](https://github.com/immersive-translate/immersive-translate/issues/1168)
 - [Fix Learning Mode Anzeigeproblem #1180](https://github.com/immersive-translate/immersive-translate/issues/1180)
-- [Vorübergehendes Aktivieren der Webseitenübersetzung für eine bestimmte Zeit hebt die Immer-Übersetzung nicht auf #1172](https://github.com/immersive-translate/immersive-translate/issues/1172)
+- [Vorübergehendes Aktivieren der Webseitenübersetzung für eine bestimmte Zeit hebt die immer Übersetzung nicht auf #1172](https://github.com/immersive-translate/immersive-translate/issues/1172)
 - Optimierung von PDF-Datei-Initialisierungsproblemen
 
 ## 0.12.3
 
-- Fix für [permanentes Deaktivieren der Video-Untertitel] Funktion, die nicht funktioniert [#1175](https://github.com/immersive-translate/immersive-translate/issues/1175)
+- Fix für [permanentes Deaktivieren der Video-Untertitel] Funktion funktioniert nicht [#1175](https://github.com/immersive-translate/immersive-translate/issues/1175)
 
 ## 0.12.2
 
 - Zweisprachige Untertitelunterstützung wird für mehr Video-Plattformen bereitgestellt, die jetzt unterstützt werden: [Youtube](https://www.youtube.com/), [Netflix](https://www.netflix.com), [Udemy](https://www.udemy.com/), [Khanacademy] (https://www\.khanacademy.org/), [Coursera] (https://www\.coursera.org/), [Vimeo] (https://vimeo.com/), [Nebula] (https://nebula.tv), [Bloomberg](https://www.bloomberg.com), [Bilibili](https://www.bilibili.com/), etc. (Beachten Sie, dass aufgrund technischer Einschränkungen einige Websites die Seite nach dem ersten Einschalten der zweisprachigen Untertitel aktualisieren müssen oder warten müssen, bis die Übersetzung abgeschlossen ist, um die zweisprachigen Untertitel anzuzeigen). (Beachten Sie, dass aufgrund technischer Einschränkungen einige Websites die Seite nach dem ersten Öffnen der zweisprachigen Untertitel aktualisieren müssen oder warten müssen, bis die Übersetzung abgeschlossen ist, um die zweisprachigen Untertitel anzuzeigen)
 - Plugin-Zip-Größe erheblich optimiert, im Vergleich zum Original halbiert, schnellerer Download und Update.
 - Problem mit erweitertem PDF-Download behoben
-- Ein schnelles Übersetzungs-PDF-Portal wurde auf der rechten Seite der [Arxiv](https://arxiv.org/abs/1910.06709) Papierseite hinzugefügt, das zu einer sauberen HTML-Seite führt (nur von einigen Papieren unterstützt, da es den Originalautoren erfordert, den Quellcode einzureichen, sodass ungefähr 50% der Papiere dieses Portal anzeigen)
+- Ein Schnellübersetzungs-PDF-Portal auf der rechten Seite der [Arxiv](https://arxiv.org/abs/1910.06709) Papierseite hinzugefügt, das zu einer sauberen HTML-Seite führt (nur von einigen Papieren unterstützt, da es erfordert, dass die Originalautoren den Quellcode einreichen, sodass ungefähr 50% der Papiere dieses Portal anzeigen)
 - Online-PDF-Seiten ohne .pdf-Erweiterung können jetzt direkt zur PDF-Übersetzungsseite springen, indem Sie auf den Hoverball auf der Seite klicken.
 - Einige Eingabefeld-Verbesserungsprobleme unter Safari behoben
 - Optimierung der Spracherkennung in Grease Monkey und Safari
@@ -748,8 +748,8 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 ## 0.11.1
 
 - Das Standardmodell für OpenAI-Übersetzungen ist: GPT3.5-turbo-1106.
-- Der chinesische Prompt für OpenAI wurde optimiert, jetzt weniger anfällig für Halluzinationen!
-- Die Länge der OpenAI-Prompts wurde von 90 auf 40 reduziert, was noch mehr Traffic spart.
+- Optimierte den chinesischen Prompt für OpenAI, jetzt weniger anfällig für Halluzinationen!
+- Die Länge der OpenAI-Prompts von 90 auf 40 reduziert, um noch mehr Traffic zu sparen.
 
 ## 0.11.0
 
@@ -770,12 +770,12 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 
 - Maus-Hover-Unterstützung, erneut Strg drücken, um den Originaltext anzuzeigen
 - Maus-Hover ignoriert nie zu übersetzende Sprache
-- Youtube zweisprachige Untertiteloptimierung
+- Youtube-Zweisprachige Untertitel-Optimierung
 
 ## 0.10.6
 
 - Youtube-Untertitelunterstützung nur für Übersetzungen
-- Grease Monkey Low Version Update Alert hinzufügen
+- Grease Monkey Niedrigversion-Update-Warnung hinzufügen
 - Problem behoben, dass lokale txt-Dateien nicht übersetzt werden können
 
 ## 0.10.5
@@ -784,7 +784,7 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 
 ## 0.10.4
 
-- Problem mit Youtube-Untertitelkonflikt mit Dual-Subtitle-Plugin behoben (Immersive Translate der Youtube-Untertitelübersetzung ist nicht aktiviert, wenn das Youtube-Dual-Plugin erkannt wird, um Konflikte zu vermeiden)
+- Problem mit Youtube-Untertitelkonflikt mit Dual-Untertitel-Plugin behoben (Immersive Translate der Youtube-Untertitelübersetzung ist nicht aktiviert, wenn das Youtube-Dual-Plugin erkannt wird, um Konflikte zu vermeiden)
 - [Funktion zum dauerhaften Deaktivieren von Video-Untertiteln] hinzugefügt, wenn es andere Konfliktprobleme gibt und Sie die zweisprachige Untertitelfunktion mit Immersive Translate nicht aktivieren möchten.
 - Optimierung von Untertitelumbrüchen
 
@@ -795,14 +795,14 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 ## 0.10.3
 
 - Perfekte Unterstützung für Youtube-Videos mit zweisprachigen Untertiteln 🎉.
-- Für Artikelseiten wird jetzt zuerst der Haupttext übersetzt, bevor der Rest des Seitenleisteninhalts übersetzt wird
+- Bei Artikelseiten wird jetzt zuerst der Haupttext übersetzt, bevor der Rest des Seitenleisteninhalts übersetzt wird
 - Optimierung der DeepL-Übersetzungskontextualisierung
 - Optimierung der OpenAI-Übersetzung von Untertiteldateien für Kontextualisierung
 
 ## 0.10.1
 
 - Priorität der Haupttextübersetzung erhöhen, um das Übersetzungserlebnis zu optimieren
-- Problem mit ins Klick mehr Text nicht übersetzt behoben
+- Problem behoben, dass ins Klick mehr Text nicht übersetzt wird
 
 ## 0.9.8
 
@@ -827,13 +827,13 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 
 ## 0.9.3
 
-- Eingabefeld-Übersetzung: zeigt eine Pop-up-Erinnerung an, wenn es zum ersten Mal verwendet wird, und der Benutzer kann wählen, ob er es diesmal oder dauerhaft deaktivieren möchte, um versehentliche Berührungen zu vermeiden.
-- PDF-Übersetzungsexportgeschwindigkeit optimiert, wenn Sie sich entscheiden, nur die Übersetzung zu exportieren, können Sie direkt die System-PDF-Vorschau aufrufen, um schneller zu exportieren.
+- Übersetzung der Eingabebox: zeigt eine Pop-up-Erinnerung an, wenn sie zum ersten Mal verwendet wird, und der Benutzer kann wählen, ob er sie dieses Mal oder dauerhaft deaktivieren möchte, um versehentliche Berührungen zu vermeiden.
+- Optimierung der Exportgeschwindigkeit nur für PDF-Übersetzungen, wenn Sie sich entscheiden, nur die Übersetzung zu exportieren, können Sie direkt die System-PDF-Vorschau aufrufen, um schneller zu exportieren.
 - Deeplx unterstützt mehrere URLs, einfach mit trennen.
 
 ## 0.9.2
 
-- Das PDF-Übersetzungstool wird auf die Online-Version migriert: https://app.immersivetranslate.com/pdf/ , sodass Grease Monkey und Safari PDF-Übersetzungen verwenden können, und Probleme können besser iteriert werden, ohne eine Version herausgeben zu müssen, um das Problem zu lösen.
+- Das PDF-Übersetzungstool wird auf die Online-Version migriert: https://app.immersivetranslate.com/pdf/ , sodass Grease Monkey und Safari PDF-Übersetzungen verwenden können und Probleme besser iteriert werden können, ohne eine Version herausgeben zu müssen, um das Problem zu lösen.
 - POPUP UI-Optimierung, das Panel ist schöner!
 
 ## 0.9.1
@@ -843,16 +843,16 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 ## 0.8.8
 
 - PDF unterstützt Zeilenabstand und Wortabstandsanpassungen zur erneuten Erkennung von Absätzen
-- Problembehebung beim automatischen Scrollen beim Online-Lesen von Epub auf mobilen Geräten
+- Behebung des automatischen Scrollens bei der mobilen Online-Lesung von Epub
 
 ## 0.8.7
 
-- PDF-Unterstützung für den Download von Übersetzungen
+- PDF-Unterstützung nur für Übersetzungsdownloads
 - Behebung des Safari-Google-Anmeldeproblems
 
 ## 0.8.2 - 0.8.6
 
-- Ermöglicht das Einstellen des Intervalls zwischen Eingabeverbesserungskombinationen
+- Ermöglicht das Einstellen des Intervalls zwischen den Auslösern der Eingabeverbesserungskombination
 - Behebung einiger Fehler
 
 ## 0.8.1
@@ -867,7 +867,7 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 - Unterstützte Benutzersysteme
 - Unterstützt [Enable Pro Membership](/pricing), wodurch Benutzer Deepl- und OpenAI-Übersetzungen sowie Cloud-Synchronisationseinstellungen genießen können.
 - Maus-Hover-Übersetzungsdienst kann individuell eingestellt werden
-- Eingabefeld-Übersetzungsdienst kann separat eingerichtet werden
+- Eingabebox-Übersetzungsdienst kann separat eingerichtet werden
 - PDF-Übersetzungsoptimierung
 - Behebung einiger Fehler
 
@@ -878,7 +878,7 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 
 ## 0.7.15
 
-- Wir wurden von Apple benachrichtigt, dass OpenAI-Übersetzungen vorübergehend aus iOS und macOS entfernt wurden, und wir versuchen, es in China neu zu starten.
+- Wir wurden von Apple benachrichtigt, dass OpenAI-Übersetzungen vorübergehend aus iOS und macOS entfernt wurden, und wir versuchen, sie in China neu zu starten.
 
 ## 0.7.11- 0.7.14
 
@@ -911,7 +911,7 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 
 ## 0.7.6
 
-- Eingabeerweiterte Unterstützung für Übersetzungsergebnisse ctrl+z Rückgängig
+- Eingabeverbesserte Unterstützung für Übersetzungsergebnisse ctrl+z Rückgängig
 - Unterstützung der Übersetzung im Flying Book-Dokumentlesemodus
 - Anpassung https://pi.ai/talk
 
@@ -929,7 +929,7 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 
 ## 0.7.2
 
-- Eingabefeld-Verbesserung: ermöglicht das Weglassen des Präfixes // und das Auslösen der Übersetzung des gesamten Eingabefelds mit 3 Leerzeichen, oder Sie können diese Option auf der Einstellungsseite deaktivieren.
+- Eingabebox-Verbesserung: ermöglicht das Weglassen des Präfixes // und das Auslösen der Übersetzung des gesamten Eingabefelds mit 3 Leerzeichen, oder Sie können diese Option auf der Einstellungsseite deaktivieren.
 
 ## 0.7.1
 
@@ -950,7 +950,7 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 
 ## 0.6.18
 
-- Behebung des Safari-Popup-Breite-Überlaufproblems.
+- Behebung des Überlaufproblems der Safari-Popup-Breite.
 - Optimierung des Erstellungsprozesses
 
 ## 0.6.17
@@ -969,13 +969,13 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 ## 0.6.15
 
 - Behebung des Problems, dass beim Öffnen von PDF-Dateien das Erweiterungspanel anzeigt, dass keine Berechtigungen vorhanden sind.
-- Behebung des Problems, dass die Eingabefeldverbesserung nicht aktiviert ist, wenn die Website auf "nie übersetzen" eingestellt ist.
+- Behebung des Problems, dass die Eingabebox-Verbesserung nicht aktiviert ist, wenn die Website auf "nie übersetzen" eingestellt ist.
 
 ## 0.6.14
 
 - PDF-Übersetzungsoptimierung, der Übersetzungsbereich kann jetzt bearbeitet/gezogen/gelöscht werden
   - Ziehen oben links, löschen oben rechts, Größe ändern unten rechts
-- Windows-Dropdown-Box-Linksausrichtung
+- Windows-Dropdown-Box linksbündig
 - Unterstützung für Traditionelles Chinesisch und Vereinfachtes Chinesisch
 
 ## 0.6.13
@@ -986,21 +986,21 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 ## 0.6.12
 
 - Behebung, dass Epub-Übersetzungsbilder in einigen Browsern kleiner werden
-- Optimierte Eingabefeldübersetzung, funktioniert jetzt reibungslos in Bard!
+- Optimierte Eingabebox-Übersetzung, funktioniert jetzt reibungslos in Bard!
 
 ## 0.6.10
 
 - OpenAI-Standardmodell auf Version 0613 geändert
-- Behebung einiger Eingabefeldstile
+- Behebung einiger Eingabebox-Stile
 - Intelligenteres Erkennen, ob es sich um einen Navigationsbereich handelt, und wenn ja, wird keine Übersetzung durchgeführt
 - Behebung möglicher XSS-Injektionsangriffe
 
 ## 0.6.8
 
 - Das Erweiterungspanel kann jetzt nicht unterstützte Seiten anzeigen (z.B. Seiten ohne Berechtigungen und nicht-HTML-Seiten)
-- Eingabefeldverbesserung zur Anzeige des Ladezustands in der Übersetzung
+- Eingabebox-Verbesserung zur Anzeige des Ladezustands in der Übersetzung
 - Aktualisierung der Standardladefarben in Übersetzungen
-- Wenn das Eingabefeld ohne Präfix konfiguriert ist, unterstützt es die Übersetzung `ja Hello` ins Japanische und `English Hello` ins Englische.
+- Wenn die Eingabebox ohne Präfix konfiguriert ist, unterstützt sie die Übersetzung `ja Hello` ins Japanische und `English Hello` ins Englische.
 
 ## 0.6.6
 
@@ -1009,19 +1009,19 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 ## 0.6.5
 
 - Google Bard-Optimierung
-- Eingabefeldübersetzung unterstützt die direkte Übersetzung des gesamten Textfelds ohne Präfixe.
-- Optimierung des Problems, dass OpenAI-Übersetzungen gedankenlos Punkte hinzufügen, (wenn im Originaltext kein Punkt erkannt wird, wenn OpenAI einen Punkt zurückgibt, dann entfernen)
+- Eingabebox-Übersetzung unterstützt die direkte Übersetzung des gesamten Textfelds ohne Präfixe.
+- Optimierung des Problems, dass OpenAI-Übersetzungen gedankenlos Punkte hinzufügen (wenn im Originaltext kein Punkt erkannt wird, wird er entfernt, wenn OpenAI einen Punkt zurückgibt)
 - Probleme mit Safari-Untertiteldateien, die nicht erkannt werden
 
 ## 0.6.3
 
-Die Standardsprache für die Eingabefeldübersetzung kann jetzt das Leerzeichen weglassen, d.h. //Hello World kann ebenfalls übersetzt werden.
+Die Standardsprache für die Eingabebox-Übersetzung kann jetzt das Leerzeichen weglassen, d.h. //Hello World kann ebenfalls übersetzt werden.
 
 ## 0.6.2
 
-Die aufregendste Eingabefeldverbesserung ist da:
+Die aufregendste Eingabebox-Verbesserung ist da:
 
-- Geben Sie: // Hello World in das Eingabefeld auf einer beliebigen Webseite ein, dann dreifach auf die Leertaste klicken, um den Absatz ins Englische zu übersetzen
+- Geben Sie: // Hello World in die Eingabebox auf einer beliebigen Webseite ein, dann dreifach auf die Leertaste klicken, um den Absatz ins Englische zu übersetzen
 - Sie können auch die Übersetzung in eine bestimmte Sprache angeben: /ja Hello World, dann dreifach auf die Leertaste klicken, um den Absatz ins Japanische zu übersetzen
 
 [Klicken Sie hier für eine schnelle 30-Sekunden-Einführung](/docs/input/)
@@ -1029,7 +1029,7 @@ Die aufregendste Eingabefeldverbesserung ist da:
 ## 0.6.0
 
 - Erste Veröffentlichung im Juni, migriert von der vorherigen persönlichen Subdomain https://immersive-translate.owenyoung.com zur neuen Domain https://immersivetranslate.com/
-- Die Funktionalität bleibt weitgehend unverändert (neue Funktionen werden in der nächsten Version verfügbar sein!)
+- Die Funktionalität ist weitgehend unverändert (neue Funktionen werden in der nächsten Version verfügbar sein!)
 
 ## 0.5.17
 
@@ -1041,7 +1041,7 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 ## 0.5.15
 
-- Optimierung: Die Mindestanzahl von Zeichen in einem Absatz, die die Übersetzung auslöst, wurde auf mindestens 4 Zeichen geändert, um Verwirrung zu reduzieren, während andere Funktionen verwendet werden, um die Navigation und Endbereiche der Website nicht zu übersetzen.
+- Optimierung: Die Mindestanzahl von Zeichen in einem Absatz, die die Übersetzung auslöst, wurde auf mindestens 4 Zeichen geändert, um Verwirrung zu reduzieren, während andere Funktionen verwendet werden, um die Übersetzung der Navigations- und Endbereiche der Website zu vermeiden.
 - Behebung: Github-Details werden nach dem Erweitern nicht übersetzt.
 
 ## 0.5.14
@@ -1054,7 +1054,7 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 - Funktion: Split Line Translation Style fügt eine vertikale Trennlinie für einzeilige Übersetzungen hinzu
 - Behebung: Sehr seltene Fälle von Absatztrennungen.
-- Eine großartige Ersteinrichtungsorientierungsseite für neue iOS-Benutzer.
+- Eine großartige erste Einrichtungseinführungsseite für neue iOS-Benutzer.
 
 ## 0.5.11
 
@@ -1091,7 +1091,7 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 - ChatGPT verwendet standardmäßig das mobile Modell, das schneller ist!
 
-- Neugestaltung der Web-Kern-Parsing, was bedeutet:
+- Neugestaltung der Web-Kernanalyse, was bedeutet:
 
   - Großflächige Webseitenübersetzung in Sekunden
     - Zum Beispiel: https://pve.proxmox.com/pve-docs/pve-admin-guide.html, die vorher 30 Sekunden dauerte, wird jetzt in Sekunden umgeschaltet.
@@ -1114,13 +1114,13 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 - Viele Updates!
 
-- Die Funktion "Nur Übersetzung anzeigen" ist angekommen! Klicken Sie auf "Mehr" -> "Umschalten, um nur Übersetzungen anzuzeigen".
+- Die Funktion "Nur Übersetzung anzeigen" ist da! Klicken Sie auf "Mehr" -> "Umschalten, um nur Übersetzungen anzuzeigen".
 
   - Unterstützt benutzerdefinierte Tastenkombinationen, die in "Schnittstelleneinstellungen" -> "Tastenkombinationen" festgelegt werden können
 
 - Optimiert für das OpenAI-Anfrageratenlimitproblem
 
-- Der Web-Kern-Parsing wurde neu aufgebaut, was bedeutet.
+- Der Web-Kern wurde neu aufgebaut, was bedeutet.
 
   - Sofortige Übersetzung für große Websites
   - Minimaler Speicherverbrauch für komplexe Webseiten
@@ -1242,10 +1242,10 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 ## 0.3.12
 
-- Feature: Wir können jetzt die Hintergrundfarbe des Marker-Übersetzungsthemas anpassen.
+- Feature: Wir können jetzt die Hintergrundfarbe des Markierungsübersetzungsthemas anpassen.
 - Behebung: postMessage beim Initialisieren der Seite brach einige Websites, jetzt tun wir dies nur, wenn wir wirklich Seiten übersetzen
 - Behebung: E-Book-Fortschrittsproblem.
-- Behebung: Besser für das Aufteilen langer Absätze, 1,5 Milliarden, 25,5%, Herr wird nicht als Grenze betrachtet
+- Behebung: Besser für das Aufteilen langer Absätze, 1,5 Milliarden, 25,5%, Mr. wird nicht als Grenze betrachtet
 
 ## 0.3.11
 
@@ -1264,7 +1264,7 @@ Die aufregendste Eingabefeldverbesserung ist da:
 ## 0.3.8
 
 - UI: Ladefarbe transparenter
-- Behebung: E-Book-Sprache erkennen.
+- Behebung: Erkennung der E-Book-Sprache.
 - Feature: Übersetzungsfortschritt für E-Book-Builder hinzufügen und ein schönes Konfetti nach dem Erfolg.
 - Feature: Alle fehlgeschlagenen Absätze für die Schaltfläche "Erneut versuchen" erneut versuchen.
 - Behebung: Deepl-Fehlerbehandlung
@@ -1324,12 +1324,12 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 ## 0.2.83
 
-- Feature: Erlauben Sie die Eingabe von Passwortformularen, um das Passwort anzuzeigen.
+- Feature: Erlauben Sie die Passwort-Eingabe im Formular, um das Passwort anzuzeigen.
 
 ## 0.2.82
 
 - Behebung: Einige Websites verwenden `span` für Stile, daher verwenden wir `font` anstelle von span für den Übersetzungsziel-Wrapper
-- Behebung: OpenAI maximale Token-Limit, ändern Sie die maximale Zeichenanzahl von 1500 auf 1300.
+- Behebung: OpenAI maximale Token-Limit, ändern Sie die maximalen Zeichen von 1500 auf 1300.
 
 ## 0.2.81
 
@@ -1409,7 +1409,7 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 ## 0.2.66
 
-- Fix: PDF-Datei Übersetzung fehlgeschlagen, Fehler ab 0.2.60 für die Unterstützung von Deepl von zh-CN zu zh-TW
+- Fix: PDF-Datei Übersetzung fehlgeschlagen, Fehler aus 0.2.60 für die Unterstützung von Deepl von zh-CN zu zh-TW
 
 ## 0.2.65
 
@@ -1426,10 +1426,10 @@ Die aufregendste Eingabefeldverbesserung ist da:
 - Feat: Unterstützung für Azure Übersetzungsdienst
 - Feat: Unterstützung für Papago Übersetzungsdienst
 - Fix: Native Firefox Android Google Drive Synchronisation.
-- Fix: Änderung der Transparenz von 0.4 auf 0.618 [#147] (https://github.com/immersive-translate/immersive-translate/pull/147)
+- Fix: Transparenz von 0.4 auf 0.618 ändern [#147] (https://github.com/immersive-translate/immersive-translate/pull/147)
 - Fix: Popup-Shortcuts-Tipps
 - Leistung: Serielle zu gleichzeitigen Anfragen
-- Besser für die Erkennung der japanischen Zählung
+- Besser für die Erkennung der japanischen Anzahl
 
 ## 0.2.62
 
@@ -1445,7 +1445,7 @@ Die aufregendste Eingabefeldverbesserung ist da:
 - Feat: Unterstützung für zh-CN zu zh-TW für Deepl
 - Feat: Immersive Translate Deepl Feature
 - Feat: Unterstützung für benutzerdefinierte Schriftgröße Zoom
-- Fix: Steam Forum Stil
+- Fix: Steam-Forum-Stil
 - Fix: Globaler Stil nicht geändert, nachdem dynamische Elemente generiert wurden
 - Fix: Ausschlusspriorität fördern
 - UI: Über-Seite ändern
@@ -1459,7 +1459,7 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 ## 0.2.58
 
-- Feat: Unterstützung für benutzerdefinierte Übersetzungstextfarbe, Rahmenfarbe.
+- Feat: Unterstützung für benutzerdefinierte Übersetzungstextfarbe, Randfarbe.
 
 ## 0.2.57
 
@@ -1467,10 +1467,10 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 ## 0.2.56
 
-- Fix doppelte Übersetzung für Inline-Elemente mit Code-Element.
-- Fix unbekannte Tags Inline/Block-Überprüfung
+- Fix: Doppelte Übersetzung für Inline-Elemente mit Code-Element.
+- Fix: Unbekannte Tags Inline/Block-Überprüfung
 - Feat: Unterstützung für injiziertes CSS auf Entwicklerboard
-- Feat: AuthKey, Appid AppSecret trimmen
+- Feat: AuthKey, appid appSecret trimmen
 - Besser: Einstellungsseite in neuem Tab öffnen (aber nicht für Stay)
 
 ## 0.2.55
@@ -1480,13 +1480,13 @@ Die aufregendste Eingabefeldverbesserung ist da:
 ## 0.2.54
 
 - Entfernen der Tabs-Berechtigung für Chrome Store Ablehnung
-- Fix Übersetzung der gesamten Seite, Fußzeile wird ignoriert
+- Fix: Ganze Seite übersetzen, Fußzeile wird ignoriert
 - Notizen zur Über-Seite hinzufügen
 - Unterstützung für benutzerdefinierte URL aus eingebauter Konfiguration
 
 ## 0.2.53
 
-- Fix Userscript Google Drive Synchronisationsfehler.
+- Fix: Userscript Google Drive Synchronisationsfehler.
 
 ## 0.2.52
 
@@ -1498,99 +1498,99 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 ## 0.2.51
 
-- Fix Google Auth benötigt Anmeldung auf Chrome/Firefox
-- Ersetzen der Links zum Übersetzungsdienst
+- Fix: Google Auth benötigt Anmeldung auf Chrome/Firefox
+- Ersetzen der Links des Übersetzungsdienstes
 - Besser für Berechtigungen.
 - Minify entfernen.
 
 ## 0.2.50
 
-- Fix Google Drive Upload-Problem (wirklich) [#81](https://github.com/immersive-translate/immersive-translate/issues/81)
+- Fix: Google Drive Upload-Problem (wirklich) [#81](https://github.com/immersive-translate/immersive-translate/issues/81)
 
 ## 0.2.49
 
 - Entfernen der Shortcuts alt+d, alt+s, da sie möglicherweise mit nativen Shortcuts in Konflikt stehen.
-- Fix Google Drive Upload-Problem [#81](https://github.com/immersive-translate/immersive-translate/issues/81)
+- Fix: Google Drive Upload-Problem [#81](https://github.com/immersive-translate/immersive-translate/issues/81)
 
 ## 0.2.48
 
-- Besser für Geschwindigkeit, durch Hinzufügen von minLength auf 50 für die Spracherkennung.
-- Fix Google Drive Token-Validierung.
+- Besser für Geschwindigkeit, indem minLength auf 50 für die Spracherkennung gesetzt wird.
+- Fix: Google Drive Token validieren.
 
 ## 0.2.47
 
-- Fix Deepl API
+- Fix: Deepl API
 
 ## 0.2.46
 
-- Fix Blockmarkierung
+- Fix: Blockmarkierung
 
 ## 0.2.45
 
-- Fix Element innerText ist undefiniert
-- Fix Caiyun Übersetzung undefinierte Quellsprache
+- Fix: Element innerText ist undefiniert
+- Fix: Caiyun Übersetzung undefinierte Quellsprache
 
 ## 0.2.44
 
-- Fix Userscript Umschaltmaske
-- Fix Umschaltmaskenlogik
+- Fix: Userscript Umschaltmaske
+- Fix: Umschaltmaskenlogik
 
 ## 0.2.43
 
-- Fix Userscript Umschaltmaske mit Touch-Event.
-- Fix Geschwindigkeit (durch Entfernen von sleep(300))
+- Fix: Userscript Umschaltmaske mit Touch-Event.
+- Fix: Geschwindigkeit (durch Entfernen von sleep(300))
 
 ## 0.2.42
 
-- Fix Maskenhover, wenn Maske erneut umgeschaltet wird.
+- Fix: Maskenhover, wenn Maske erneut umgeschaltet wird.
 - Masken-Shortcuts für Mobilgeräte hinzufügen
-- Fix Userscript Cloud-Synchronisationsproblem
+- Fix: Userscript Cloud-Synchronisationsproblem
 - Erweiterte Optionsseite ins linke Menü verschieben.
 - Wiederholungslogik für Übersetzungsdienst hinzufügen
 
 ## 0.2.41
 
-- Fix Userscript Niu Übersetzung
-- Fix XHTML Übersetzung
+- Fix: Userscript Niu Übersetzung
+- Fix: XHTML Übersetzung
 
 ## 0.2.40
 
-- Fix Beta-Feature-Anzeige
-- Fix Popup-Einstellungsseite auf neuer Tab-Seite
-- Fix Übersetzungsplatzhalter ersetzen
+- Fix: Beta-Feature-Anzeige
+- Fix: Popup-Einstellungsseite auf neuer Tab-Seite
+- Fix: Übersetzungsplatzhalter ersetzen
 
 ## 0.2.39
 
 - Unterstützung für Shortcuts zur Anzeige der Maskenübersetzung
-- Unterstützung für Aktivierung von Beta-Features im Entwicklerpanel
-- Fix Shortcuts in mobiler Erweiterung
+- Unterstützung für die Aktivierung von Beta-Features im Entwicklerpanel
+- Fix: Shortcuts in mobiler Erweiterung
 
 ## 0.2.38
 
 - Unterstützung für Lade-Theme
-- Fix getpocket.com
-- Fix Aside-Fußzeile für Body-Bereich
-- Fix Import/Export-Symbol
+- Fix: getpocket.com
+- Fix: Nebenfußzeile für Körperbereich
+- Fix: Import/Export-Symbol
 
 ## 0.2.37
 
-- Fix Frame-Ausschlussmarkierung
+- Fix: Frame-Ausschlussmarkierung
 
 ## 0.2.36
 
-- Unterstützung für Synchronisation mit Google Drive
+- Unterstützung für die Synchronisation mit Google Drive
 
 ## 0.2.35
 
-- Fix Japanisch rb, rt Tag ignorieren.
+- Fix: Japanische rb, rt Tag ignorieren.
 - Besser für Popup-UI mehr
 - Besser für schlechte Userscript-Tipps
 - Beitrag zur Über-Seite hinzufügen
-- Fix Volc Übersetzung für automatische Spracherkennung
+- Fix: Volc Übersetzung für automatische Spracherkennung
 
 ## 0.2.34
 
-- Fix Mehrsprachige Geschwindigkeit
+- Fix: Mehrsprachige Geschwindigkeit
 
 ## 0.2.33
 
@@ -1600,14 +1600,14 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 ## 0.2.32
 
-- Fix PDF Grundübersetzung
-- Fix Popup wählt einen nicht konfigurierten Dienst aus, gehe zur Optionsseite.
-- Fix bleibt offene Einstellungen.
-- Fix Mehrsprachige Erkennungsgeschwindigkeit
+- Fix: PDF-Grundübersetzung
+- Fix: Popup wählt einen nicht konfigurierten Dienst aus, geht zur Optionsseite.
+- Fix: Bleiben Sie offene Einstellungen.
+- Fix: Mehrsprachige Erkennungsgeschwindigkeit
 
 ## 0.2.31
 
-- Fix dynamisches iframe CSS-Injektion
+- Fix: Dynamisches iframe CSS-Injekt
 
 ## 0.2.30
 
@@ -1619,8 +1619,8 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 ## 0.2.29
 
-- Fix Facebook Übersetzung
-- Unterstützung für Anzeige der Kontextmenüoption.
+- Fix: Facebook Übersetzung
+- Unterstützung für die Anzeige der Kontextmenüoption.
 
 ## 0.2.28
 
@@ -1630,11 +1630,11 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 - Unterstützung für Inline-iframe-Übersetzung. (Nur für Erweiterung, nicht verfügbar für
   Userscript)
-- Fix Mehrsprachige Übersetzung
+- Fix: Mehrsprachige Übersetzung
 
 ## 0.2.26
 
-- Fix Firefox Android Addon
+- Fix: Firefox Android Addon
 - Erweiterte Einstellungen für Übersetzungsneuzeile hinzufügen
 
 ## 0.2.25
@@ -1644,41 +1644,41 @@ Die aufregendste Eingabefeldverbesserung ist da:
 ## 0.2.24
 
 - Temporäre Übersetzungsseite für eine Weile hinzufügen
-- Fix stay.app Userscript Browser-API
-- Fix stay.app Optionsseite
+- Fix: stay.app Userscript Browser-API
+- Fix: stay.app Optionsseite
 
 ## 0.2.23
 
-- Fix Mehrsprachige Seitenübersetzung
+- Fix: Mehrsprachige Seitenübersetzung
 
 ## 0.2.22
 
-- Fix Userscript-Build
+- Fix: Userscript-Build
 
 ## 0.2.21
 
-- Fix Firefox Online-PDF-Übersetzung
+- Fix: Firefox Online-PDF-Übersetzung
 
 ## 0.2.20
 
-- Fix Macaque Anforderungsproblem
-- Fix Markierung Hervorhebung Zeilenhöhe
+- Fix: Macaque-Anfrageproblem
+- Fix: Markieren Sie die Hervorhebungslinie Höhe
 
 ## 0.2.19
 
-- Fix Tencent Smart Japanisch
-- Fix Haikuo World Browser
+- Fix: Tencent Smart Japanisch
+- Fix: Haikuo World Browser
 
 ## 0.2.18
 
-- Fix Client-URL-Änderung, automatisches Beibehalten des Übersetzungsstatus.
-- Entfernen des Aside-Containers als Übersetzungscontainer.
-- Refaktorierung der Popup-Position.
+- Fix: Client-URL-Änderung, Übersetzungsstatus automatisch beibehalten.
+- Entfernen des Nebencontainers als Übersetzungscontainer.
+- Popup-Position umgestalten.
 
 ## 0.2.17
 
-- Änderung der Hervorhebung zu Markierung
-- Hinzufügen von Highlight-Übersetzungsthema
+- Hervorhebung in Markierung ändern
+- Übersetzungsthema "Hervorhebung" hinzufügen
 
 ## 0.2.16
 
@@ -1686,16 +1686,16 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 ## 0.2.15
 
-- Fix Touch-Bounce-Problem
+- Fix: Touch-Bounce-Problem
 
 ## 0.2.14
 
-- Fix Safari globalThis.GM funktioniert nicht
+- Fix: Safari globalThis.GM funktioniert nicht
 
 ## 0.2.13
 
 - Unterstützung für Userscript-Popup-Draging
-- Unterstützung für Drei-Finger-Touch-Geräte, um Seitenübersetzung umzuschalten
+- Unterstützung für drei Finger auf Touch-Gerät, um Umschaltübersetzungsseiten auszulösen
 - Unterstützung für das Ausblenden des Userscript-Popup-Symbols.
 
 ## 0.2.12
@@ -1710,25 +1710,25 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 ## 0.2.10
 
-- Fix PDF Zeilenhöhe Abstand
+- Fix: PDF-Zeilenhöhe Abstand
 
 ## 0.2.9
 
-- Fix Ausschlusselemente Markierung
-- Fix Deno Typüberprüfung
+- Fix: Ausschlusselemente markieren
+- Fix: Deno-Typüberprüfung
 - Importmap entfernen
-- Fix Kontextmenüs Übersetzung
+- Fix: Kontextmenüs Übersetzung
 - Seite wiederherstellen, wenn diese Seite nie übersetzt wird
 - Beschreibung für URL hinzufügen
 
 ## 0.2.8
 
 - Erkennung der Benutzeragentensprache für die Schnittstellensprache
-- Fix Zeilenumbruchfehler.
+- Fix: Zeilenumbruchfehler.
 
 ## 0.2.7
 
-- Fix Grease Monkey Anfrage
+- Fix: Grease Monkey Anfrage
 
 ## 0.2.6
 
@@ -1775,7 +1775,7 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 - Veröffentlichung als Firefox-Addon
 - Veröffentlichung für Edge
-- Behebung des PDF-Randes.
+- Behebung des PDF-Rands.
 - Änderung der PDF-Beispieldatei
 
 ## 0.0.62
@@ -1786,7 +1786,7 @@ Die aufregendste Eingabefeldverbesserung ist da:
 ## 0.0.61
 
 - Behebung des Schließens von Span-Elementen.
-- Behebung der Berechtigungen für frühe Browser
+- Behebung der Berechtigung für frühe Browser
 
 ## 0.0.60
 
@@ -1811,7 +1811,7 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 ## 0.0.55
 
-- Behebung der Anzeige von Elementen mit "display none".
+- Behebung der Anzeige von Elementen mit "display:none".
 - Refactoring der Elementmarkierung
 
 ## 0.0.54
@@ -1826,7 +1826,7 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 ## 0.0.52
 
-- Keine Übersetzung von Absätzen, die nur Platzhalterelemente enthalten, zum
+- Keine Übersetzung von Absätzen, die nur Platzhalterelemente enthalten, z.B.
   [Beispiel](https://github.com/nank1ro/solidart), die erste Zeile.
 - Bessere Erkennung von Kindelementen.
 
@@ -1851,7 +1851,7 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 ## 0.0.47
 
-- Neuschreiben von Nachrichten mit Hintergrund, Verwendung von connect anstelle von sendMessage
+- Umschreiben von Nachrichten mit Hintergrund, Verwendung von connect anstelle von sendMessage
 - Hinzufügen von Unterstützung für mobiles Reddit
 - Behebung von Leerzeichen in Artikeln
 
@@ -1866,7 +1866,7 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 ## 0.0.44
 
-- Behebung von Tencent-Fehlern bei der Trennung.
+- Behebung von Fehlern bei der Trennung von Tencent.
 - Behebung von Inline-Sup-Element-Fehlern.
 - Bessere Unterstützung für Twitter
 
@@ -1892,7 +1892,7 @@ Die aufregendste Eingabefeldverbesserung ist da:
 ## 0.0.38
 
 - Unterstützung von Cache-Ergebnissen für Userscript
-- Hinzufügen von Optionen-UI
+- Hinzufügen der Optionen-UI
 - Unterstützung der Erkennung weiterer Inhaltscontainer
 
 ## 0.0.37
@@ -1930,7 +1930,7 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 ### Sonstiges
 
-- Unterstützung des sofortigen Übersetzungsmodus, damit Sie die Webseite so schnell wie möglich übersetzen können.
+- Unterstützung des sofortigen Übersetzungsmodus, damit Sie die Webseite so schnell wie möglich übersetzen lassen können.
 - Unterstützung der Festlegung des zu übersetzenden Seitenbereichs, damit Sie mehr Bereiche übersetzen können.
 - Unterstützung der Festlegung der ersten x Textanzahl zur sofortigen Übersetzung.
 - Behebung der doppelten Übersetzung bei Änderung der Übersetzung
@@ -1973,7 +1973,7 @@ Die aufregendste Eingabefeldverbesserung ist da:
 
 ## 0.0.27
 
-- Unterstützung des Übersetzungsthemas
+- Unterstützung des translationTheme
 
 ## 0.0.26
 
@@ -1993,11 +1993,11 @@ Die aufregendste Eingabefeldverbesserung ist da:
 ## 0.0.22
 
 - Unterstützung von deeplx
-- Behebung mehrfacher Übersetzungen beim Wechseln des Dienstes
+- Behebung mehrfacher Übersetzungen beim Wechsel des Dienstes
 
 ## 0.0.21
 
-- Behebung, dass einige Span-Tags Blockelemente sind
+- Behebung einiger span-Tags als Blockelemente
 
 ## 0.0.20
 

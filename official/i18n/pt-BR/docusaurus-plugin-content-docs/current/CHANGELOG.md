@@ -4,9 +4,9 @@ sidebar_position: 6
 
 # Registro de Alterações
 
-Este registro de alterações é atualizado de acordo com o progresso do desenvolvimento. A data após a versão é a data de mesclagem do código, não a data de release nas lojas de aplicativos (o tempo de revisão varia após a submissão a cada loja de aplicativos, com algumas levando até uma semana para revisão). Atualmente, estamos avançando duas versões.
+Este registro de alterações é atualizado de acordo com o progresso do desenvolvimento. A data após a versão é a data de mesclagem do código, não a data de release nas lojas de aplicativos (o tempo de revisão varia após a submissão para cada loja de aplicativos, com algumas levando até uma semana para revisão). Atualmente, estamos avançando duas versões.
 
-A **versão Release** é a versão estável oficial, disponível nas principais lojas de aplicativos, como
+A **versão Release** é a versão estável oficial, disponível nas principais lojas de aplicativos como
 [Chrome](https://chromewebstore.google.com/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh),
 [Edge](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg),
 [Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate/),
@@ -18,9 +18,9 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 - [versão beta na loja do Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.14.16 Preview (2025-02-21)
+## 1.14.16 Release (2025-02-21)
 
-- Adicionado: Suporte para troca de contexto em Deepseek, Gemini, Cluade.
+- Adicionado: Suporte para troca de contexto em Deepseek, Gemini, Claude.
 - Corrigido: Atualizar termos não envia nova solicitação de tradução.
 - Melhorado: Idioma da interface adiciona húngaro.
 - Melhorado: Qualidade da tradução do Google.
@@ -35,7 +35,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 ## 1.14.11 Release (2025-02-18)
 
-- Corrigido: Erro `401: Authentication Fails` na API Key personalizada do DeepSeek.
+- Corrigido: Erro `401: Authentication Fails` na chave API personalizada do DeepSeek.
 
 ## 1.14.10 Release (2025-02-17)
 
@@ -60,7 +60,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 ## 1.14.4 Release (2025-02-07)
 
-- Corrigido: Problema com detecção incorreta de idioma na **Caixa de Entrada Aprimorada**.
+- Corrigido: Problema com detecção de idioma incorreta na **Caixa de Entrada Aprimorada**.
 - Corrigido: Problema de correspondência inteligente de especialistas em IA em serviços de tradução personalizados.
 - Corrigido: Problema de falha de sincronização do Google Drive em alguns navegadores.
 - Corrigido: Problema de tradução de comentários ao vivo do YouTube.
@@ -76,9 +76,9 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 ## 1.13.6 Preview (2025-01-17)
 
-- Melhorado: **Especialista em IA** pode ser usado com **Tradução com Consciência de Contexto de IA**.
+- Melhorado: **AI Expert** pode ser usado com **AI Context-Aware Translation**.
 - Melhorado: **Tradução de Imagem** agora é compatível com weibo.com (suportado apenas no Chrome e Edge).
-- Melhorado: Quando o idioma da interface é definido como inglês, o idioma de destino padrão para a **Caixa de Entrada Aprimorada** é alterado para chinês.
+- Melhorado: Quando o idioma da interface é definido para inglês, o idioma alvo padrão para a **Caixa de Entrada Aprimorada** é alterado para chinês.
 - Melhorado: Adicionada uma entrada de avaliação da loja nas opções **Mais** no painel.
 
 ## 1.13.5 Release (2025-01-14)
@@ -121,7 +121,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 ## 1.12.4 (2024-12-13)
 
-- Adicionado: **Tradução com Consciência de Contexto de IA** pode melhorar a precisão da tradução de conteúdo profissional. (Disponível apenas para membros Pro, suportado exclusivamente por modelos OpenAI) **Opções** -> **Geral** -> **Habilitar Tradução com Consciência de Contexto de IA**
+- Adicionado: **AI Context-Aware Translation** pode melhorar a precisão da tradução de conteúdo profissional. (Disponível apenas para membros Pro, suportado exclusivamente por modelos OpenAI) **Opções** -> **Geral** -> **Habilitar AI Context-Aware Translation**
 - Corrigido: Alguns bugs no efeito de tradução multilinha no Twitter.
 - Corrigido: Problemas com a tradução de certas fórmulas devido a texto rico.
 - Melhorado: Ao traduzir no **x.com**, vídeos com legendas terão automaticamente legendas bilíngues traduzidas.
@@ -131,12 +131,12 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 - Adicionado: Bing/Google agora suportam Khmer (cambodjano).
 - Adicionado: Permitir que arquivos ePub incompletos continuem a tradução de onde pararam após reimportação.
-- Corrigido: Problema com a tradução de imagens do Twitter no navegador Safari.
-- Corrigido: Teclas de atalho se tornando ineficazes ao alternar o recurso "**Tradução ao Passar o Mouse**".
+- Corrigido: Problema com tradução de imagens do Twitter no navegador Safari.
+- Corrigido: Teclas de atalho se tornando ineficazes ao alternar o recurso "**Hover Translation**" ligado ou desligado.
 - Melhorado: Exibição aprimorada de tradução bilíngue multilinha no Twitter e YouTube.
 - Melhorado: Tradução de texto rico é desativada por padrão no modo bilíngue para melhorar a qualidade da tradução.
-- ~~Melhorado: Adicionada a opção de personalizar a "**Habilitar Tradução da Barra Lateral & Navbar**" em "**Configurações Avançadas**".~~
-- Melhorado: Imagens não são mais traduzidas no modo "**Passar o Mouse - traduzir imediatamente este parágrafo**".
+- ~~Melhorado: Adicionada a opção de personalizar a "**Habilitar Tradução de Barra Lateral & Navbar**" em "**Configurações Avançadas**".~~
+- Melhorado: Imagens não são mais traduzidas no modo "**Hover - traduzir imediatamente este parágrafo**".
 
 ## 1.11.4 (2024-11-16)
 
@@ -163,7 +163,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 ## 1.10.5 (2024-10-23)
 
-- Adicionado: Exibir um aviso quando o idioma de origem e o idioma de destino forem os mesmos.
+- Adicionado: Exibir um aviso quando o idioma de origem e o idioma alvo forem os mesmos.
 - Corrigido: Problema de tradução de caracteres de espaço em branco em texto rico [#2175](https://github.com/immersive-translate/immersive-translate/issues/2175).
 - Melhorado: Aprimoramento de entrada e funcionalidade de passar o mouse dentro de iframes incorporados em páginas da web.
 
@@ -186,7 +186,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 ## 1.9.7 (2024-09-20)
 
 - Suporte aprimorado para entrada em campos de Baidu, Gmail e outros
-- Suporte para o cabeçalho de solicitação anthropic-dangerous-direct-browser-access para a API Claude Anthropic
+- Suporte para o cabeçalho de solicitação anthropic-dangerous-direct-browser-access para a Claude Anthropic API
 - Suporte para download de legendas de vídeos do Hulu, Bloomberg e Domestika
 - DeepX suporta tradução de texto rico
 - Corrigido o problema de sincronização de especialistas em IA personalizados
@@ -206,14 +206,14 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 ## 1.9.1 (2024-09-03)
 
-- Suporte para configurar exceções para idiomas e sites no modo de contraste bilíngue ou apenas tradução (configure na página de Configurações -> Configurações Avançadas). Por exemplo: Se o seu modo de tradução padrão for contraste bilíngue, mas você não deseja que o Chinês Tradicional também use contraste bilíngue, então você pode adicionar o Chinês Tradicional aos idiomas de exceção para contraste bilíngue, assim o Chinês Tradicional usará o modo apenas de tradução. Da mesma forma, se o seu modo de tradução padrão for apenas tradução, mas você deseja que um determinado idioma ou site use o modo de contraste bilíngue, você também pode adicionar esse idioma ou site aos idiomas de exceção.
+- Suporte para configurar exceções para idiomas e sites no modo de contraste bilíngue ou apenas tradução (configure na página de Configurações -> Configurações Avançadas). Por exemplo: Se o seu modo de tradução padrão for contraste bilíngue, mas você não deseja que o Chinês Tradicional também use contraste bilíngue, então você pode adicionar o Chinês Tradicional aos idiomas de exceção para contraste bilíngue, para que o Chinês Tradicional use o modo apenas de tradução. Da mesma forma, se o seu modo de tradução padrão for apenas tradução, mas você deseja que um determinado idioma ou site use o modo de contraste bilíngue, você também pode adicionar esse idioma ou site aos idiomas de exceção.
 - Corrigido um problema onde a caixa de entrada na interface de mensagem privada do Tiktok era traduzida incorretamente
 - Corrigido um problema onde quadrinhos no Read Comic Online não podiam ser traduzidos
 - Corrigido um problema onde a [Configurações Avançadas -> Número mínimo de caracteres necessários para traduzir um parágrafo] não surtia efeito em alguns casos
 
 ## 1.8.4 (2024-08-30)
 
-- O serviço de tradução DeepL agora suporta oficialmente o Chinês Tradicional como idioma de destino (anteriormente, traduzir para Chinês Tradicional com DeepL envolvia um processo adicional de conversão de Chinês Simplificado para Chinês Tradicional de terceiros).
+- O serviço de tradução DeepL agora suporta oficialmente o Chinês Tradicional como idioma de destino (anteriormente, traduzir para Chinês Tradicional com DeepL envolvia um processo adicional de conversão de Chinês Simplificado para Tradicional de terceiros).
 - Otimizado o desempenho da tradução de texto rico.
 
 ## 1.8.3
@@ -261,14 +261,14 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 - Adotado algoritmo de divisão de frases inteligente por IA para legendas em inglês geradas automaticamente no YouTube [Pro Disponível]
 - Otimizar a tradução de clique direito para "Traduzir para xx idioma de destino"
 - Suporte para integração imersiva [JS SDK](https://immersivetranslate.com/docs/js-sdk/) para sites de terceiros
-- Otimizar exibição de legendas do Hulu
+- Otimizar a exibição de legendas do Hulu
 - Suporte para tradução de legendas de reuniões na versão web do ZOOM
 
 ## 1.7.6
 
 - Suporte para personalizar especialistas em IA, a entrada está na parte inferior da página [Configurações]->[Especialista em IA].
-- Otimizar carregamento de legendas no site TED
-- Português (Brasil) é suportado como idioma do plugin.
+- Otimizar o carregamento de legendas no site TED
+- Português (Brasil) é suportado como idioma do plug-in.
 - Sites suportados para tradução de quadrinhos
   - [Antbyw](https://www.antbyw.com)
   - [Zerobywzz](https://www.zerobywzz.com)
@@ -302,7 +302,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
   - [Hitomi](https://hitomi.la)
   - [Yamibo](https://www.yamibo.com)
   - [Copymanga](https://www.copymanga.site/)
-- Legendas bilíngues do YouTube agora suportam divisão inteligente de frases (Beta) (Apenas quando ativar manualmente a tradução imersiva de legendas do YouTube em [Configurações] - [Legendas de Vídeo], e as legendas originais do vídeo são legendas em inglês geradas automaticamente)
+- Legendas bilíngues do YouTube agora suportam divisão inteligente de frases (Beta) (Apenas quando ativar manualmente a tradução imersiva de legendas do YouTube em [Configurações] - [Legendas de Vídeo], e as legendas do vídeo original são legendas em inglês geradas automaticamente)
 - Adicionado serviço de tradução Tencent [【Hunyuan Large Model】](https://immersivetranslate.com/docs/services/tencent-hunyuan/)
 
 ## 1.6.5
@@ -352,7 +352,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 ## 1.5.8
 
-- Especialistas em AI suportam o modo "Seleção Inteligente", onde o sistema selecionará automaticamente o especialista em AI mais adequado com base no site atual (por exemplo, especialistas em AI relacionados à tecnologia serão automaticamente selecionados para The Verge e Hacker News, enquanto a melhoria de tradução do Twitter será automaticamente selecionada para o Twitter).
+- Especialistas em AI suportam o modo "Seleção Inteligente", onde o sistema selecionará automaticamente o especialista em AI mais adequado com base no site atual (por exemplo, especialistas em AI relacionados à tecnologia serão automaticamente selecionados para The Verge e Hacker News, enquanto o aprimoramento de tradução do Twitter será automaticamente selecionado para o Twitter).
 
 ## 1.5.7
 
@@ -378,7 +378,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 ## 1.5.2
 
-- Corrigido o problema onde mudanças no prompt geral de especialista sobrepunham o prompt de especialista AI especificado [#1692](https://github.com/immersive-translate/immersive-translate/issues/1692)
+- Corrigido o problema onde mudanças no prompt de especialista geral sobrescreviam o prompt de especialista AI especificado [#1692](https://github.com/immersive-translate/immersive-translate/issues/1692)
 - Nome de modelo AI personalizado suporta sintaxe avançada, use + para adicionar um modelo, use - para ocultar um modelo, e use model_name=display_name para personalizar o nome de exibição do modelo, por exemplo: +gpt-3.5-turbo,-gpt-4,gpt-4-turbo=gpt-4-super
 - Corrigido o erro retornado por Gemini
 - Ocultar a bola flutuante ao imprimir a página
@@ -387,7 +387,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 ## 1.5.1
 
 - Suporte para serviços de tradução AI para definir [AI Expert] para especificar a estratégia de tradução, atualmente um recurso Beta, que pode ser ativado em [Configurações de Desenvolvedor](https://dash.immersivetranslate.com/#developer) após ativar o Beta, e o menu [AI Expert] pode ser visto após atualizar.
-- Serviços de tradução AI agora podem personalizar a lista de modelos, como [OpenAI], o sistema tem apenas alguns dos modelos mais comumente usados embutidos. Clicando na lista suspensa de modelos, o último item que você vê é [Set More Models], após a configuração, será automaticamente lembrado para a conveniência dos usuários testarem diferentes modelos personalizados.
+- Serviços de tradução AI agora podem personalizar a lista de modelos, como [OpenAI], o sistema só tem alguns dos modelos mais comumente usados embutidos. Clicando na lista suspensa de modelos, o último item que você vê é [Set More Models], após a configuração, será automaticamente lembrado para a conveniência dos usuários testarem diferentes modelos personalizados.
 - Otimizada a inconsistência no layout das traduções em alguns casos.
 - Adicionado um botão de reset para o estilo de legendas do Youtube, que pode rapidamente restaurar para o estilo padrão.
 - Corrigido o problema onde legendas em chinês não podiam ser baixadas no Youtube.
@@ -426,7 +426,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 - Melhorar desempenho de tradução para páginas de conteúdo longo
 - Implementar suporte à internacionalização (i18n) para navegação de documentos de página
 - YouTube introduz um recurso para habilitar temporariamente legendas bilíngues
-- YouTube suporta o download de legendas bilíngues (somente membros)
+- YouTube suporta o download de legendas bilíngues (somente para membros)
 - Móvel adiciona controle de gestos, melhorando a entrada via [configurações de atalho](https://dash.immersivetranslate.com/#shortcuts)
 - Suporte para tradução bilíngue para Google Docs
 
@@ -451,7 +451,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 ## 1.4.2
 
 - Suporte para serviço de tradução Claude
-- Otimizado palavras de prompt multi OpenAI, suportando formato YAML, o que melhora a flexibilidade e facilidade de uso da configuração
+- Otimizado multi-prompt do OpenAI, suportando formato YAML, o que melhora a flexibilidade e facilidade de uso da configuração
 - Otimizada significativamente a velocidade de tradução de legendas do Youtube, e adicionado suporte para alternar entre ordem Chinês e Inglês, personalizar cor e tamanho da fonte, etc.
 - Plataforma de legendas de vídeo suporta [University of Southampton](https://southampton.cloud.panopto.eu)
 - Legendas bilíngues do Udemy compatíveis com exibição móvel
@@ -460,10 +460,10 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 ## 1.3.4
 
 - Suporte para serviço de tradução gratuito Yandex
-- Otimizado palavras de prompt Gemini
+- Otimizadas palavras de prompt do Gemini
 - Legendas de vídeo suportam configuração para exibição bilíngue/original e tradução
-- Suporte para espaço entre Chinês e Inglês nos resultados de tradução OpenAI
-- Alternância do painel para exibir apenas botão de tradução modificado para ter efeito apenas na página atual
+- Suporte para espaço entre Chinês e Inglês nos resultados de tradução do OpenAI
+- Alternância do painel para exibir apenas botão de tradução modificado para só ter efeito na página atual
 
 ## 1.3.3
 
@@ -482,7 +482,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 - Plataforma de legendas de vídeo suporta [DeepLearning.ai](https://learn.deeplearning.ai)
 - Suporte para tradução de páginas web e legendas de vídeo em idiomas como Árabe, Hebraico, etc., abordando problemas de exibição RTL (Right-To-Left)
-- Corrigido tradução Gemini para Hebraico
+- Corrigido tradução de Gemini para Hebraico
 - Corrigido um problema onde algumas legendas em Chinês Tradicional no YouTube não podiam ser exibidas corretamente
 - Corrigido o problema de exibição de legendas do Twitter no Safari
 - Corrigido o atalho para tradução imediata para o final da página
@@ -505,14 +505,14 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 ## 1.2.2
 
 - Suporte à tradução de legendas de vídeo para [pluto](https://pluto.tv/), [STARZ](https://www.starz.com/), [Paramount Plus](https://www.paramountplus.com/), [Rotten Tomatoes](https://www.rottentomatoes.com/), [Dailymotion](https://www.dailymotion.com/), [FMovies](https://fmoviesz.to/), [AniWatch](https://aniwatch.to/), [iQIYI](https://www.iq.com/), [Youku](https://www.youku.tv/), [movie-web](https://movie-web.app/). Também suporta a tradução de alguns vídeos com legendas CC no Twitter.
-- Otimização dos pop-ups de erro, pop-ups de erro de problema de rede detectam automaticamente serviços de tradução gratuitos válidos.
+- Otimização dos pop-ups de erro, os pop-ups de erro de problemas de rede detectam automaticamente serviços de tradução gratuitos válidos.
 - Correção do suporte do APP imersivo para iOS para reprodução em tela cheia no YouTube.
 - Correção do problema de tradução de parágrafos com Perplexity.ai [#707](https://github.com/immersive-translate/immersive-translate/issues/707).
 
 ## 1.2.1
 
 - Suporte à tradução de legendas de vídeo para [Kanopy](https://www.kanopy.com/), [RachelsEnglishAcademy](https://www.rachelsenglishacademy.com/), [Hulu](https://www.hulu.com/), [Three.js Journey](https://threejs-journey.com/).
-- Correção de um problema em que alguns usuários Pro não conseguiam modificar configurações no navegador Chrome.
+- Correção de um problema em que alguns usuários Pro não conseguiam modificar as configurações no navegador Chrome.
 - Suporte à exibição de legendas bilíngues no modo de tela cheia do YouTube no iOS.
 
 ## 1.2.0
@@ -520,22 +520,22 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 - Suporte à tradução de legendas de vídeo nas plataformas [LinkedIn](https://www.linkedin.com/) e [Viu](https://www.viu.com/).
 - Adicionadas mais opções de acesso rápido a legendas de vídeo para plataformas adicionais.
 - Suporte para definir sites/idiomas específicos para exibir apenas o texto traduzido.
-- Correção de um problema em que a página de configurações continuava mostrando carregamento em alguns casos no Safari.
+- Correção de um problema em que a página de configurações continuava exibindo carregamento em alguns casos no Safari.
 - Suporte para tradução de nós de tag de entrada.
-- Otimização da interface de pop-up de erro.
+- Otimização da interface de usuário do pop-up de erro.
 
 ## 1.1.9
 
 - Suporte à tradução de legendas para YouTube Live e a plataforma [Mubi](https://mubi.com/).
 - Otimização: Página de configurações, interface de interação da lista de URLs (para evitar ambiguidades, as caixas de seleção não são exibidas por padrão).
-- Suporte para definir a fonte de tradução no modo apenas tradução.
+- Suporte para definir a fonte de tradução no modo somente tradução.
 - Adicionado acesso rápido para habilitar legendas de vídeo na Netflix, Ted, Bloomberg, Udemy, Coursera.
 - Correção: Alguns estilos traduzidos (como sublinhados) não eram eficazes no Safari.
-- Correção: Durante a tradução de página, o problema em que passar o mouse não acionava a retradução.
+- Correção: Durante a tradução da página, o problema em que passar o mouse não acionava a retradução.
 
 ## 1.1.8
 
-- Adicionada uma opção para o serviço de tradução secundário seguir o serviço de tradução principal
+- Adicionada uma opção para que o serviço de tradução secundário siga o serviço de tradução principal
 - Suporte a legendas bilíngues para [Amazon Prime Video](https://www.primevideo.com)
 - Otimização adicional da função de tradução de PDF incorporado no Sci-Hub
 - Correção de um problema com PDFs online não abrindo corretamente
@@ -547,11 +547,11 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 - Adicionada uma configuração de atalho para [Traduzir Parágrafo Especificado] no painel de bola flutuante em dispositivos móveis
 - Otimização da sensibilidade de detecção de passar o mouse sobre Ctrl para evitar confundir `Ctrl+C` como `Ctrl`
 - Adicionado suporte para uma nova configuração de atalho que permite alternar rapidamente se as legendas de vídeo usam as legendas de tradução automática incorporadas
-- No site Sci-Hub, clicar na bola flutuante traduzirá PDFs incorporados na página
+- No site Sci-Hub, clicar na bola flutuante traduzirá PDFs incorporados na página da web
 
 ## 1.1.6
 
-- **Suporte Móvel para Tradução de Parágrafos Específicos:** A versão móvel agora suporta a tradução de parágrafos especificados e adicionou uma variedade de operações de atalho, incluindo deslizar para a esquerda, deslizar para a direita, toque duplo, toque triplo e gestos de toque com vários dedos. Estes não estão habilitados por padrão e exigem que o usuário selecione ativamente o gesto de acionamento na página de configurações em [Passar o Mouse].
+- **Suporte Móvel para Tradução de Parágrafos Específicos:** A versão móvel agora suporta a tradução de parágrafos especificados e adicionou uma variedade de operações de atalho, incluindo deslizar para a esquerda, deslizar para a direita, toque duplo, toque triplo e gestos de toque com vários dedos. Estes não estão habilitados por padrão e exigem que o usuário selecione ativamente o gesto de ativação na página de configurações em [Passar o Mouse].
 - **Atualização da Versão Padrão do Gemini:** A versão padrão agora é `v1beta`.
 - **Correção da Tradução de Chinês Clássico:** Correção da funcionalidade de tradução de Chinês Clássico da Microsoft e OpenAI.
 - **Otimização da Tradução Japonesa:** Otimização adicional da tradução japonesa da OpenAI para melhorar a precisão e fluência.
@@ -569,7 +569,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
   - **Novos recursos no menu principal:**
     - **Alternância de modo bilíngue/somente tradução:** Agora você pode alternar entre "Modo de Tradução Bilíngue" e "Modo Somente Tradução" diretamente no menu principal, localizado à esquerda do botão de tradução.
     - **Entrada de tradução de documentos:** A entrada para traduzir "arquivos PDF/ePub/legendas" foi movida para o menu principal para acesso rápido.
-    - **Configurações de tradução de vídeo:** A entrada para configurações de "Tradução de Vídeo" também foi colocada no menu principal para ajustes rápidos.
+    - **Configurações de tradução de vídeo:** A entrada para as configurações de "Tradução de Vídeo" também foi colocada no menu principal para ajustes rápidos.
     - **Nova entrada para documentação de uso:** Fornece guias de operação detalhados e documentos de ajuda.
 
 - **Entrada de tradução de documentos integrada:** Agora, você pode traduzir arquivos PDF, ePub e legendas através de uma entrada de upload unificada. Basta clicar no botão [PDF/ePub] no painel de pop-up, sem necessidade de selecionar [Mais] mais.
@@ -585,20 +585,20 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 - Correção do problema de anomalia de exibição do plugin móvel ao abrir páginas PDF.
 - Otimização do efeito de tradução de conversas GPT.
-- Suporte à tradução de domínio para Baidu Translate.
-- Adicionado modo apenas tradução na página de configurações.
+- Suporte à tradução de domínio para o Baidu Translate.
+- Adicionado modo somente tradução na página de configurações.
 - Adicionada função de lembrete ao alternar modos de tradução com atalhos.
 - Correção do problema em que traduzir campos de entrada contendo URLs traduzia apenas partes do conteúdo.
 
 ## 1.1.2
 
 - Correção: O problema em que a troca de serviços de tradução não surtia efeito quando a página ainda não havia sido traduzida.
-- Otimização: No processo de tradução de Epub e PDF, se algum conteúdo falhar na tradução, agora é possível alternar para outro serviço de tradução no painel sem reiniciar todo o processo de tradução (a lógica anterior era usar imediatamente um novo serviço de tradução para retraduzir todo o livro). Isso significa que, no meio da tradução, você pode alternar para um serviço de tradução diferente e clicar em [Tentar Novamente Todos os Parágrafos Falhados], após o qual o sistema continuará a tradução usando o novo serviço.
+- Otimização: No processo de tradução de Epub e PDF, se algum conteúdo falhar na tradução, agora é possível alternar para outro serviço de tradução no painel sem reiniciar todo o processo de tradução (a lógica anterior era usar imediatamente um novo serviço de tradução para retraduzir todo o livro). Isso significa que, no meio da tradução, você pode mudar para um serviço de tradução diferente e clicar em [Tentar Novamente Todos os Parágrafos Falhados], após o qual o sistema continuará a tradução usando o novo serviço.
 - Otimização: Ajustado o tamanho da fonte dos avisos de erro de tradução para melhorar a legibilidade.
 
 ## 1.1.1
 
-- Correção do problema do atalho de legendas bilíngues para YouTube ter texto em inglês excessivamente longo.
+- Correção do problema do atalho de legendas bilíngues para o YouTube ter texto em inglês excessivamente longo.
 
 ## 1.1.0
 
@@ -610,7 +610,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
   - Designar uma combinação de teclas para habilitar temporariamente "tradução direta ao passar o mouse" na página. Pressioná-la novamente cancelará essa função.
   - Adicionadas teclas de atalho dedicadas para 6 serviços de tradução (como DeepL, OpenAI, Google, Microsoft, Gemini, Tencent Interactive Translation) para facilitar a troca temporária entre serviços de tradução.
 
-- **Atualização da Interface da Página de Configurações do Plugin**:
+- **Atualização da Página de Configurações do Plugin**:
 
   - Em "Configurações Avançadas", uma nova opção foi adicionada para permitir que os usuários especifiquem certas palavras (por exemplo, "LLM") a serem excluídas da tradução.
   - Em "Configurações Avançadas", uma nova opção foi adicionada para configurar o número mínimo de caracteres necessários para traduzir um parágrafo. O padrão é 4 caracteres, mas pode ser configurado para um valor maior (por exemplo, 20), para que apenas parágrafos mais longos sejam traduzidos.
@@ -620,16 +620,16 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 - **Suporte ao Idioma Deepl**: Adicionado suporte para Português (Brasil).
 
-- **Novo Guia do Usuário**: Quando novos usuários abrem uma página em um idioma não-alvo pela primeira vez, uma bolha de ajuda da bola flutuante é exibida.
+- **Guia para Novos Usuários**: Quando novos usuários abrem uma página em um idioma não-alvo pela primeira vez, uma bolha de ajuda da bola flutuante é exibida.
 
 ### Otimização e Correções
 
-- **Otimização da Interface**: Redesenhada a interface para avisos de erro de tradução de página para torná-los mais fáceis de entender. Quando há muitos erros, um pop-up irá ativamente avisar o usuário.
+- **Otimização da Interface do Usuário**: Redesenhada a interface de usuário para avisos de erro de tradução de página para torná-los mais fáceis de entender. Quando há muitos erros, um pop-up irá ativamente avisar o usuário.
 
 - **Correções de Bugs**:
 
   - Correção do problema em que a tradução ao passar o mouse falhava quando a página perdia o foco.
-  - Correção do problema em que menos de 3 caracteres na função de aprimoramento de caixa de entrada não eram traduzidos.
+  - Correção do problema em que menos de 3 caracteres na função de aprimoramento da caixa de entrada não eram traduzidos.
   - Correção do problema em que alguns diretórios não eram traduzidos durante a produção de Epubs bilíngues.
 
 - **Remoção de Recursos**: Removido o recurso de aprimoramento de informações bilíngues (exibindo resultados de pesquisa em inglês nas páginas de pesquisa do Google simultaneamente).
@@ -641,19 +641,19 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 ## 0.12.14
 
 - Correção: O problema de reconhecimento do idioma alvo padrão em algumas máquinas após a primeira instalação.
-- Otimização: A ordem padrão dos títulos das páginas da web foi alterada para [Chinês - Inglês].
+- Otimização: A ordem padrão dos títulos das páginas da web é alterada para [Chinês - Inglês].
 
 ## 0.12.13
 
 - Correção: Problema com a costura de tradução de parágrafos longos do OpenAI em alguns casos. [#1276](https://github.com/immersive-translate/immersive-translate/issues/1276)
-- Otimização: Ao usar o passar do mouse, o problema em que perder o foco na página e depois reativar se tornava ineficaz.
-- Correção: O problema em que o cache ainda existia após modificar o prompt/modelo no OpenAI.
+- Otimização: Ao usar o passar do mouse, o problema em que perder o foco na página e depois reativar se torna ineficaz.
+- Correção: O problema em que o cache ainda existe após modificar o prompt/modelo no OpenAI.
 
 ## 0.12.12
 
 - Atualizado: Otimizado o painel popup, removendo algumas opções para o site atual.
 - Otimizado: Melhorado o processo de mesclagem de legendas manuais.
-- Otimizado: Configuração automática do idioma de destino com base no idioma do navegador.
+- Otimizado: Configuração automática do idioma alvo com base no idioma do navegador.
 - Adicionado: Suporte a legendas bilíngues para a plataforma de aprendizado [ArtStation](https://www.artstation.com/learning) e [ZDF](https://www.zdf.de/).
 - Corrigido: Resolvido o problema onde os títulos na página de lista do jstor não eram traduzidos [#1268](https://github.com/immersive-translate/immersive-translate/issues/1268).
 - Corrigido: Corrigido o problema onde apenas parte do conteúdo desaparecia no Hacknews [#1264](https://github.com/immersive-translate/immersive-translate/issues/1264).
@@ -681,7 +681,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 - Reparar as legendas originais do vídeo que não são exibidas quando "O site atual está configurado para nunca traduzir".
 - Reparar o conflito com alguns plugins que causam retorno infinito da página.
 - Reparar a não tradução de alguns parágrafos após ativar quebras de linha de parágrafos longos.
-- Corrigido [Quando temporariamente ativar a tradução da página da web por um longo tempo, clicar no painel [Sempre traduzir este site] não cancela a tradução sempre #1172](https://github.com/immersive-translate/immersive-translate/issues/1172)
+- Corrigido [Quando temporariamente ativando a tradução da página da web por um longo tempo, clicar no painel [Sempre traduzir este site] não cancela a tradução sempre #1172](https://github.com/immersive-translate/immersive-translate/issues/1172)
 
 ## 0.12.7
 
@@ -689,7 +689,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 - O hoverball agora está oculto por padrão quando o vídeo está em tela cheia.
 - Corrigir o problema de clique instável do painel de ação do hoverball da página do Firefox.
 - Suporte para colaboração sob o site pubmed.ncbi.nlm.nih.gov e o plugin scholarscope.
-- Corrigir o problema de instabilidade da tradução da caixa de entrada do Reddit.
+- Corrigir o problema de instabilidade da página de tradução da caixa de entrada do Reddit.
 
 ## 0.12.6
 
@@ -707,7 +707,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 - Quando você ativa legendas bilíngues no painel, ele primeiro atualizará a página automaticamente (para exibir legendas bilíngues com mais precisão), e alguns sites ainda exigem que os usuários cliquem manualmente no botão "CC" no site para ativar as legendas.
 - Otimizar Grease Monkey, detecção de idioma do Safari.
 - Fornece acesso rápido a versões bilíngues de todos os artigos no site de artigos [Arxiv](https://arxiv.org/abs/1910.06709).
-- [Suporte ao hoverball configurado para ser fixado à esquerda #1168](https://github.com/immersive-translate/immersive-translate/issues/1168)
+- [Suporte de hoverball configurado para ser fixado à esquerda #1168](https://github.com/immersive-translate/immersive-translate/issues/1168)
 - [Corrigir problema de exibição do Modo de Aprendizado #1180](https://github.com/immersive-translate/immersive-translate/issues/1180)
 - [Ativar temporariamente a tradução da web por um tempo não cancela Sempre Traduzir #1172](https://github.com/immersive-translate/immersive-translate/issues/1172)
 - Otimizar problemas de inicialização de arquivos PDF.
@@ -718,8 +718,8 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 ## 0.12.2
 
-- Suporte a legendas bilíngues é fornecido para mais plataformas de vídeo, que agora são suportadas: [Youtube](https://www.youtube.com/), [Netflix](https://www.netflix.com), [Udemy](https://www.udemy.com/), [Khanacademy](https://www.khanacademy.org/), [Coursera](https://www.coursera.org/), [Vimeo](https://vimeo.com/), [Nebula](https://nebula.tv), [Bloomberg](https://www.bloomberg.com), [Bilibili](https://www.bilibili.com/), etc. (Observe que, devido a limitações técnicas, alguns sites precisam atualizar a página após ativar as legendas bilíngues pela primeira vez ou esperar a tradução ser concluída para exibir as legendas bilíngues).
-- Otimização significativa do tamanho do arquivo zip do plugin, reduzido pela metade em comparação com o original, download e atualização mais rápidos.
+- Suporte a legendas bilíngues é fornecido para mais plataformas de vídeo, que agora são suportadas: [Youtube](https://www.youtube.com/), [Netflix](https://www.netflix.com), [Udemy](https://www.udemy.com/), [Khanacademy](https://www.khanacademy.org/), [Coursera](https://www.coursera.org/), [Vimeo](https://vimeo.com/), [Nebula](https://nebula.tv), [Bloomberg](https://www.bloomberg.com), [Bilibili](https://www.bilibili.com/), etc. (Note que devido a limitações técnicas, alguns sites precisam atualizar a página após ativar as legendas bilíngues pela primeira vez ou esperar a tradução ser concluída para exibir as legendas bilíngues).
+- Otimização significativa do tamanho do plugin zip, reduzido pela metade em comparação com o original, download e atualização mais rápidos.
 - Corrigir problemas de download de PDF estendido.
 - Adicionado um portal de tradução rápida de PDF ao lado direito do site de artigos [Arxiv](https://arxiv.org/abs/1910.06709), que leva a uma página HTML limpa (apenas suportado por alguns artigos, pois requer que os autores originais enviem o código-fonte, então aproximadamente 50% dos artigos mostrarão este portal).
 - Páginas de PDF online sem extensão .pdf agora podem pular diretamente para a página de tradução de PDF clicando no hoverball na página.
@@ -732,14 +732,14 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 - Modificar o compartilhamento bilíngue (modo de atualização) adicionado na última versão para compartilhamento de instantâneo de página bilíngue, para que o conteúdo compartilhado seja mais original, bem como maior adaptabilidade.
 - Corrigir emoji no final da caixa de entrada do Twitter que não pode ser traduzido.
 - Corrigir a situação onde o conteúdo de plugins de terceiros é traduzido em alguns cenários.
-- Reparar clique não responsivo no hoverball de pdf online.
+- Reparar clique não responsivo do hoverball em pdf online.
 
 ## 0.11.5
 
 - Agora você pode gerar um link público para a página bilíngue traduzida para o Immersive Translate.
   - [Clique](/docs/share/) no ícone de compartilhamento do Immersive Translate para gerá-lo com um clique!
 - Resolvido o problema de que algumas plataformas não conseguiam reconhecer se o mouse era suportado ou não.
-  - Existem alguns navegadores de desktop que suportam tanto touchscreen quanto mouse, e o Immersive Translate tecnicamente não consegue detectar se essas plataformas suportam mouse, então adicionamos a opção [Forçar Habilitar Suporte a Mouse] na configuração [Mouse Hover].
+  - Existem alguns navegadores de desktop que suportam tanto touchscreen quanto mouse, e o Immersive Translate tecnicamente não consegue detectar se tais plataformas suportam mouse, então adicionamos a opção [Forçar Habilitar Suporte a Mouse] na configuração [Mouse Hover].
 
 ## 0.11.2-0.11.4
 
@@ -753,7 +753,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 ## 0.11.0
 
-- Corrigir cliques instáveis no hoverball da página.
+- Corrigir cliques instáveis do hoverball na página.
 - Corrigir problemas de tradução do Azure.
 
 ## 0.10.9
@@ -785,7 +785,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 ## 0.10.4
 
 - Corrigir conflito de legendas do Youtube com plugin de legenda dupla (tradução de legendas do Youtube do Immersive Translate não é ativada quando o plugin de legenda dupla do Youtube é detectado para evitar conflito).
-- Adicionado [Função de Desativação Permanente de Legendas de Vídeo], se houver outros problemas de conflito e você não quiser ativar a função de legendas bilíngues com o Immersive Translate.
+- Adicionado [Função de Desativar Permanentemente Legenda de Vídeo], se houver outros problemas de conflito e você não quiser ativar a função de legenda bilíngue com o Immersive Translate.
 - Otimizar quebras de legendas.
 
 ## 0.10.3
@@ -795,14 +795,14 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 ## 0.10.3
 
 - Suporte perfeito para vídeos do Youtube com legendas bilíngues 🎉.
-- Para páginas de artigos, o texto do corpo agora será traduzido primeiro antes do restante do conteúdo da barra lateral.
-- Otimizar Contextualização de Tradução do DeepL.
-- Otimizar tradução de arquivos de legendas do OpenAI para contextualização.
+- Para páginas de artigos, o texto principal agora será traduzido primeiro antes do restante do conteúdo da barra lateral.
+- Otimizar Contextualização de Tradução DeepL.
+- Otimizar tradução de arquivos de legenda do OpenAI para contextualização.
 
 ## 0.10.1
 
 - Aumentar a prioridade da tradução do corpo para otimizar a experiência de tradução.
-- Corrigir problema de clique em mais texto não traduzido no ins.
+- Corrigir problema de clique em mais texto não traduzido.
 
 ## 0.9.8
 
@@ -814,7 +814,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 ## 0.9.6
 
-- Corrigido o problema de limpar o cache ao sair do login do usuário.
+- Corrigir limpeza do cache ao desconectar o login do usuário.
 
 ## 0.9.5
 
@@ -823,18 +823,18 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 ## 0.9.4
 
 - Otimizar detecção de aprimoramento de entrada para reduzir toques falsos.
-- Tradução online de e-books e legendas.
+- Tradução online de e-book e legendas.
 
 ## 0.9.3
 
-- Tradução da Caixa de Entrada: exibe um lembrete pop-up quando é usada pela primeira vez, e o usuário pode optar por desativá-la temporariamente ou permanentemente para evitar toques acidentais.
+- Tradução da Caixa de Entrada: exibe um lembrete pop-up quando é usada pela primeira vez, e o usuário pode optar por desativá-la desta vez ou permanentemente para evitar toques acidentais.
 - Otimização da velocidade de exportação de tradução apenas em PDF, se você optar por exportar apenas a tradução, pode chamar diretamente a pré-visualização do sistema PDF para exportar, mais rápido.
 - Deeplx suporta múltiplos URLs, basta separá-los com .
 
 ## 0.9.2
 
 - A ferramenta de tradução de PDF foi migrada para a versão online: https://app.immersivetranslate.com/pdf/ , para que Grease Monkey e Safari possam usar a tradução de PDF, e os problemas possam ser melhor iterados sem a necessidade de emitir uma versão para resolver o problema.
-- Otimização da UI do POPUP, o painel está mais bonito!
+- Otimização da UI POPUP, o painel está mais bonito!
 
 ## 0.9.1
 
@@ -858,7 +858,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 ## 0.8.1
 
 - Otimização de Detecção de Idioma
-- Recursos Beta: API Personalizada (Beta ativado nas configurações do desenvolvedor)
+- Recursos Beta: API Personalizada (Beta ativada nas configurações do desenvolvedor)
 - Suporte para Tradução AliCloud
 - Corrigido alguns bugs
 
@@ -878,7 +878,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 ## 0.7.15
 
-- Fomos notificados pela Apple de que as Traduções OpenAI foram temporariamente removidas do iOS e macOS, e estamos tentando relançá-las na China.
+- Fomos notificados pela Apple que as Traduções OpenAI foram temporariamente removidas do iOS e macOS, e estamos tentando relançá-las na China.
 
 ## 0.7.11- 0.7.14
 
@@ -888,7 +888,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 ## 0.7.10
 
-- Atualização da UI do Painel de Ícones do Navegador Popup, um pouco mais de design ～
+- Atualização da UI do Painel de Ícones do Navegador Pop-up, um pouco mais de design ～
 - Corrige o problema de que algumas passagens em japonês não são traduzidas.
 
 ## 0.7.9
@@ -918,11 +918,11 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 ## 0.7.5
 
 - Corrigir ícone do Grease Monkey não exibindo
-- Corrigindo uma série de problemas
+- Corrigir vários problemas
 
 ## 0.7.4
 
-- Corrigindo uma série de problemas
+- Corrigir vários problemas
 - Página de configuração suporta exclusão em massa de URLs selecionados.
 - Suporta habilitar/desabilitar tradução de legendas do Youtube para evitar conflitos com outros plugins relacionados.
 - Arigato Translator suporta configuração de campos e id de terminologia
@@ -933,13 +933,13 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 ## 0.7.1
 
-- Suporte a Aprimoramento de Pesquisa, quando habilitado, ao pesquisar no Google/Google News em chinês, a coluna da direita mostrará automaticamente os resultados da pesquisa de palavras-chave correspondentes em inglês, que está habilitado por padrão.
-  - Razão: Descobrimos que na pesquisa do Google, os resultados da pesquisa para palavras-chave em chinês e palavras-chave em inglês podem ser muito diferentes, com o Aprimoramento de Pesquisa Traduzida Imersiva habilitado, pesquisamos automaticamente as mesmas palavras-chave em inglês para você e as exibimos no lado direito. Você pode optar por desativá-lo se não precisar do recurso.
+- Suporte a Aprimoramento de Pesquisa, quando habilitado, ao pesquisar no Google/Google News em chinês, a coluna da direita mostrará automaticamente os resultados de pesquisa das palavras-chave correspondentes em inglês, que está habilitado por padrão.
+  - Razão: Descobrimos que na pesquisa do Google, os resultados de pesquisa para palavras-chave em chinês e palavras-chave em inglês podem ser muito diferentes, com o Aprimoramento de Pesquisa Traduzida Imersiva habilitado, pesquisamos automaticamente as mesmas palavras-chave em inglês para você e as exibimos no lado direito. Você pode optar por desativá-lo se não precisar do recurso.
   - Safari não é suportado devido a limitações de API.
 
 ## 0.6.20
 
-- Modificar as configurações padrão: Devido ao feedback de um grande número de usuários de que não usarão a ferramenta de tradução após a instalação, sua expectativa da ferramenta de tradução é que ela traduza automaticamente páginas da web em inglês após a instalação, então a partir desta versão, para usuários chineses, a opção de traduzir páginas em inglês por padrão foi ativada (se o usuário tiver uma configuração anterior do idioma que sempre será traduzido, então será respeitada, e a alteração apenas modifica as configurações iniciais da extensão), e precisa ser cancelada, pode ser facilmente cancelada no [Painel Popup ou página de configurações](/docs/faq/#%E5%A6%82%E4%BD%95%E5%85%B3%E9%97%AD%E8%87%AA%E5%8A%A8%E7%BF%BB%E8%AF%91)
+- Modificar as configurações padrão: Devido ao grande número de feedbacks dos usuários de que não usarão a ferramenta de tradução após a instalação, sua expectativa da ferramenta de tradução é que ela traduza automaticamente páginas da web em inglês após a instalação, então a partir desta versão, para usuários chineses, a opção de traduzir páginas em inglês por padrão foi ativada (se o usuário já tiver uma configuração anterior do idioma que sempre será traduzido, então será respeitada, e a alteração apenas modifica as configurações iniciais da extensão), e precisa ser cancelada, pode ser facilmente cancelada no [Painel Pop-up ou página de configurações](/docs/faq/#%E5%A6%82%E4%BD%95%E5%85%B3%E9%97%AD%E8%87%AA%E5%8A%A8%E7%BF%BB%E8%AF%91)
 
 ## 0.6.19
 
@@ -950,7 +950,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 
 ## 0.6.18
 
-- Corrigir problema de estouro de largura do Popup no Safari.
+- Corrigir problema de estouro de largura do Popup do Safari.
 - Otimização do Processo de Construção
 
 ## 0.6.17
@@ -974,7 +974,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 ## 0.6.14
 
 - Otimização de tradução de PDF, a área de tradução agora pode ser editada/arrastada/excluída
-  - Arrastar no canto superior esquerdo, excluir no canto superior direito, mudar tamanho no canto inferior direito
+  - Arrastar no canto superior esquerdo, excluir no canto superior direito, mudar o tamanho no canto inferior direito
 - Alinhamento à esquerda da Caixa Suspensa do Windows
 - Suporte a Chinês Tradicional e Chinês Simplificado
 
@@ -1011,7 +1011,7 @@ A **versão Preview** é publicada com mais frequência e inclui alguns recursos
 - Otimização do Google Bard
 - Tradução da Caixa de Entrada suporta tradução direta de toda a caixa de texto sem prefixos.
 - Otimizar o problema de traduções do OpenAI adicionando pontos sem sentido, (se nenhum ponto for detectado no texto original, se o openai retornar um ponto, então removê-lo)
-- Problemas com arquivos de legenda do safari não sendo reconhecidos
+- Problemas com arquivos de legendas do safari não sendo reconhecidos
 
 ## 0.6.3
 
@@ -1041,18 +1041,18 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.5.15
 
-- Otimizar: O número mínimo de caracteres em um parágrafo que aciona a tradução foi modificado para um mínimo de 4 caracteres para reduzir a confusão, enquanto usa outros recursos para evitar traduzir as áreas de navegação e fim do site.
+- Otimizar: O número mínimo de caracteres em um parágrafo que aciona a tradução foi modificado para um mínimo de 4 caracteres para reduzir a confusão, enquanto usa outros recursos para evitar traduzir a navegação e áreas finais do site.
 - Corrigir: detalhes do Github não traduzindo após a expansão.
 
 ## 0.5.14
 
-- Corrigir o problema de que imagens em algumas páginas da web de: ficam maiores após a cópia
+- Corrigir o problema de que imagens em algumas páginas da web: ficam maiores após a cópia
 - Corrigir: seção de comentários do medium não traduzindo
 - Corrigir o problema de que imagens em algumas páginas de: foram copiadas incorretamente
 
 ## 0.5.12
 
-- Recurso: Estilo de Tradução de Linha Dividida adiciona uma linha de divisão vertical para traduções de linha única
+- Recurso: Estilo de Tradução de Linha Dividida adiciona uma linha dividida vertical para traduções de linha única
 - Corrigir: Casos muito raros de divisão de parágrafos.
 - Uma ótima página de orientação de configuração inicial para novos usuários de iOS.
 
@@ -1077,7 +1077,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.5.8
 
-- Corrige o problema de que: configuração temporária da duração da tradução do site não entra em vigor.
+- Corrigir o problema de que: configuração temporária da duração da tradução do site não entra em vigor.
 
 ## 0.5.7
 
@@ -1087,15 +1087,15 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
   - Suporte a atalhos personalizados, configurados em configurações de interface -> Configurações de Atalho
 
-- Otimização do problema de limitação de frequência de solicitações do OpenAI
+- Otimizar problema de limitação de frequência de solicitações do OpenAI
 
 - ChatGPT agora usa o modelo móvel por padrão, que é mais rápido!
 
-- Refatoração da análise do núcleo da web, o que significa:
+- Refatoração do núcleo de análise da web, o que significa:
 
-  - Tradução de páginas web em grande escala em segundos
+  - Tradução de páginas da web em grande escala em segundos
     - Por exemplo: https://pve.proxmox.com/pve-docs/pve-admin-guide.html, que antes levava 30 segundos, agora é traduzido em segundos.
-  - Uso de memória ultrabaixo para páginas web complexas
+  - Uso de memória ultrabaixo para páginas da web complexas
     - Por exemplo: https://www\.wsj.com/articles/global-stocks-markets-dow-news-05-05-2023-cb142c76?mod=hp_lead_pos1
   - Adaptação a mais sites
 
@@ -1104,7 +1104,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
   - Por exemplo: https://bugs.chromium.org/p/chromium/issues/detail?id=418987
   - Por exemplo, a seção de comentários de: https://news.yahoo.com/gma/virginia-mom-facing-charges-6-190600893.html
 
-- Corrigido o problema de tela branca após a tradução de sites com hidratação, como Next.js.
+- Corrigir o problema de tela branca após a tradução de sites com hidratação, como Next.js.
 
   - Por exemplo: https://webpack.js.org/
 
@@ -1120,17 +1120,17 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 - Otimizado para o problema de limite de taxa de solicitação do OpenAI
 
-- A análise do núcleo da web foi reconstruída, o que significa.
+- O núcleo de análise da web foi reconstruído, o que significa.
 
   - Tradução instantânea para grandes sites
-  - Uso mínimo de memória para páginas web complexas
+  - Uso mínimo de memória para páginas da web complexas
   - Melhor compatibilidade com mais sites
 
 - Agora suporta traduções para todos os sites com ShadowRoot.
 
 - Corrigido o problema de tela branca após traduzir sites com hidratação, como Next.js
 
-- Corrigido o problema em que mudar o atalho de passar o mouse exigia uma atualização da página para entrar em vigor
+- Corrigido o problema em que alterar o atalho de passar o mouse exigia uma atualização da página para entrar em vigor
 
 - Corrigido o problema com o reconhecimento de quebras de linha em arquivos TXT.
 
@@ -1165,7 +1165,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 - Recurso: Traduzir o parágrafo atual ao passar o mouse.
 - Recurso: Refatorar tradução de PDF, agora você pode traduzir a maioria dos PDFs com Immersive Translate
-- Correção: Desativar Menu de Contexto não funcionando [#428](https://github.com/immersive-translate/immersive-translate/issues/428)
+- Correção: Desativar Menu de Contexto não funciona [#428](https://github.com/immersive-translate/immersive-translate/issues/428)
 - Correção: Evitar Política de Segurança de Conteúdo para [Mastondon](https://mastodon.social/)
 
 ## 0.4.11
@@ -1175,8 +1175,8 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 ## 0.4.8
 
 - Recurso: Bing Translate para Microsoft Translate para qualidade mais estável.
-- Correção: Página web TXT pura como [esta](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
-- Desempenho: Excluir algumas páginas de anúncios filhas no site, e o desempenho melhorou um pouco
+- Correção: Página da web TXT pura como [esta](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
+- Desempenho: Excluir algumas páginas de publicidade infantil no site, e o desempenho melhorou um pouco
 
 ## 0.4.7
 
@@ -1200,8 +1200,8 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.4.3
 
-- Correção: detecção de espaço em branco de tag sup, sub.
-- Recurso: suporte ao site ChatGPT Plus como Serviço de Tradução, Este é um recurso beta, então você pode acessá-lo ativando o Recurso Beta nas configurações de desenvolvedor. Isso é muito lento, pois o chatgpt só pode enviar uma solicitação por vez. Certifique-se de ter uma Conta ChatGPT Plus, pois há mais limites na Conta Gratuita, e não tenho certeza se isso traz risco para sua conta, tenha cuidado para Certifique-se de ter uma Conta ChatGPT Plus, pois há mais limites na Conta Gratuita, e não tenho certeza se isso traz risco para sua conta, tenha cuidado ao usá-la.
+- Correção: detecção de espaço em branco da tag sup, sub.
+- Recurso: suporte ao site ChatGPT Plus como Serviço de Tradução, este é um recurso beta, então você pode acessá-lo ativando o Recurso Beta nas configurações do desenvolvedor. Isso é muito lento, pois o chatgpt só pode enviar uma solicitação por vez. Certifique-se de ter uma Conta ChatGPT Plus, pois há mais limites na Conta Gratuita, e não tenho certeza se isso traz risco para sua conta, tenha cuidado para Certifique-se de ter uma Conta ChatGPT Plus, pois há mais limites na Conta Gratuita, e não tenho certeza se isso traz risco para sua conta, tenha cuidado ao usá-la.
 
 ## 0.4.1
 
@@ -1249,13 +1249,13 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.3.11
 
-- Correção: cor do texto do modo escuro do leitor de ebook
+- Correção: cor do texto no modo escuro do leitor de ebook
 - Correção: prompt do openAI
 
 ## 0.3.10
 
 - Melhor: detectar contêiner japonês/coreano.
-- Correção: Progresso do Construtor de Ebook parou em 99%.
+- Correção: Progresso do Construtor de Ebook 99% parado.
 
 ## 0.3.9
 
@@ -1265,7 +1265,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 - UI: cor de carregamento mais transparente
 - Correção: Detectar Idioma do Ebook.
-- Recurso: Adicionar progresso de tradução para o construtor de ebook, e uma bela confete após o sucesso.
+- Recurso: Adicionar progresso de tradução para o construtor de ebook, e um belo confete após o sucesso.
 - Recurso: Adicionar tentar novamente todos os parágrafos falhados para o botão de tentar novamente.
 - Correção: Manipulação de Erro do Deepl
 
@@ -1285,18 +1285,18 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.3.4
 
-- CI: Falha na construção
+- CI: Build falhou
 
 ## 0.3.3
 
 - Correção: criador de ebook para Kindle
-- Alteração: Cor do ícone de carregamento, de preto para azul, para adaptar a página web em modo escuro.
+- Alteração: Cor do ícone de carregamento, de preto para azul, para adaptar a página da web no modo escuro.
 - Recurso: Suporte a tradução de html local para extensão
 
 ## 0.3.2
 
 - Correção: Movimento do cursor de entrada do Formulário de Opções.
-- Recurso: OpenAI suporta apiUrl personalizado para configurações de desenvolvedor.
+- Recurso: OpenAI suporta apiUrl personalizado para configurações de desenvolvimento.
 
 ## 0.3.1
 
@@ -1305,14 +1305,14 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.3.0
 
-- Versão: A partir de agora, mudaremos o número da versão menor uma vez por mês, por exemplo, agora em março, a versão começará a partir de 0.3.0, em abril, o número da versão começará a partir de 0.3.0, em abril, o número da versão começará a partir de 0.4.0, no próximo abril, o número da versão será 1.4.0, e assim por diante. Isso ocorre porque não faz sentido para extensões seguir Isso ocorre porque não faz sentido para extensões seguir semântica, mas padronizar números de versão de acordo com as leis do tempo é motivação para o desenvolvimento continuar atualizando, e para os usuários encontrarem problemas mais facilmente.
+- Versão: A partir de agora, mudaremos o número da versão secundária uma vez por mês, por exemplo, agora em março, a versão começará a partir de 0.3.0, em abril, o número da versão começará a partir de 0.3.0, em abril, o número da versão começará a partir de 0.4.0, no próximo abril, o número da versão será 1.4.0, e assim por diante. Isso ocorre porque não faz sentido para extensões seguir Isso ocorre porque não faz sentido para extensões seguir semântica, mas padronizar números de versão de acordo com as leis do tempo é motivação para o desenvolvimento continuar atualizando, e para os usuários encontrarem problemas mais facilmente.
 - Recurso: Suporte a ícone escuro para firefox
 
 ## 0.2.86
 
 - Adicionar opção de comprimento máximo de texto por solicitação com Open AI
 - Correção: identificador de ebook duplicado
-- Recurso: Suporte a tradução de página web txt
+- Recurso: Suporte a tradução de página da web txt
 
 ## 0.2.85
 
@@ -1350,7 +1350,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 ## 0.2.78
 
 - Recurso: suporte ao OpenAI CHATGPT 3.5 (suporta interface OpenAI ChatGPT 3.5)
-- Recurso: Adicionar novo tema Solid Border (novo tema, borda sólida)
+- Recurso: Adicionar novo tema Solid Border (新增新主题，实线边框)
 
 ## 0.2.77
 
@@ -1362,7 +1362,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.2.75
 
-- Recurso: Suporte para contagem personalizada de texto de tradução imediata para diferentes serviços de tradução.
+- Recurso: Suporte para contagem de texto de tradução imediata personalizada para diferentes serviços de tradução.
 
 ## 0.2.74
 
@@ -1391,7 +1391,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 - Recurso: Suporte para Open AI como serviço de tradução.
 - Recurso: Suporte para verificar o serviço de tradução em options.html
-- Recurso: Suporte para quadro principal personalizado, pois alguns sites não usam o corpo como quadro principal
+- Recurso: Suporte para quadro principal personalizado, pois alguns sites não usam o body como quadro principal
 
 ## 0.2.68
 
@@ -1409,7 +1409,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.2.66
 
-- Correção: tradução de arquivo PDF falhou, Bug da versão 0.2.60 para suporte ao deepl de zh-CN para zh-TW
+- Correção: tradução de arquivo PDF falhou, Bug da versão 0.2.60 para suportar deepl de zh-CN para zh-TW
 
 ## 0.2.65
 
@@ -1438,7 +1438,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 ## 0.2.61
 
 - Correção: userscript é muito grande para greasy fork
-- Melhor: reduzir tamanho do arquivo
+- Melhor: reduzir o tamanho do arquivo
 
 ## 0.2.60
 
@@ -1469,13 +1469,13 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 - Correção de tradução duplicada para elementos inline com elemento de código.
 - Correção de verificação de tags desconhecidas inline/bloco
-- Recurso: suporte para CSS injetado no painel do desenvolvedor
+- Recurso: suporte para CSS injetado no painel de desenvolvedor
 - Recurso: aparar authKey, appid appSecret
 - Melhor: abrir página de configurações em nova aba (mas não para Stay)
 
 ## 0.2.55
 
-- Tentar corrigir charset da API do deepl
+- Tentar corrigir charset da API deepl
 
 ## 0.2.54
 
@@ -1519,7 +1519,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.2.47
 
-- Correção da API do deepl
+- Correção da API deepl
 
 ## 0.2.46
 
@@ -1556,13 +1556,13 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 ## 0.2.40
 
 - Correção de exibição de recurso beta
-- Correção de configuração de popup na nova aba
+- Correção de configuração de popup na nova página de aba
 - Correção de substituição de placeholder de tradução
 
 ## 0.2.39
 
 - Suporte para atalhos para mostrar tradução de máscara
-- Suporte para habilitar recurso beta no painel do desenvolvedor
+- Suporte para habilitar recurso beta no painel de desenvolvedor
 - Correção de atalhos na extensão móvel
 
 ## 0.2.38
@@ -1583,7 +1583,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 ## 0.2.35
 
 - Correção de ignorar tag japonesa rb, rt.
-- Melhor para mais UI de popup
+- Melhor para UI de popup mais
 - Melhor para dicas de userscript ruins
 - Adicionar contribuição à página sobre
 - Correção de tradução volc para detecção automática de idioma
@@ -1602,12 +1602,12 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 - Correção de tradução básica de PDF
 - Correção de seleção de popup de um serviço não configurado, ir para a página de opções.
-- Correção de permanência de configurações abertas.
+- Correção de permanência aberta de configurações.
 - Correção de velocidade de detecção de múltiplos idiomas
 
 ## 0.2.31
 
-- Correção de injeção de CSS em iframe dinâmico
+- Correção de injeção de CSS de iframe dinâmico
 
 ## 0.2.30
 
@@ -1639,7 +1639,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.2.25
 
-- Suporte para tradução de iframe, como email do QQ, tweet incorporado.
+- Suporte para tradução de iframe, como QQ mail, tweet incorporado.
 
 ## 0.2.24
 
@@ -1677,7 +1677,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.2.17
 
-- Mudar destaque para marca
+- Alterar destaque para marca
 - Adicionar tema de tradução de destaque
 
 ## 0.2.16
@@ -1694,9 +1694,9 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.2.13
 
-- Suporte para arrastar popup de Userscript
+- Suporte para Arrastar Popup de Userscript
 - Suporte para Três Dedos em dispositivo de toque para acionar alternância de páginas de tradução
-- Suporte para ocultar o ícone de popup do userscript.
+- Suporte para Ocultar o ícone de popup do userscript.
 
 ## 0.2.12
 
@@ -1706,7 +1706,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 - Correção
   [#28](https://github.com/immersive-translate/immersive-translate/issues/28)
-  Arquivo de Annas O conteúdo principal da página não pôde ser traduzido
+  Annas archive O conteúdo principal da página não pôde ser traduzido
 
 ## 0.2.10
 
@@ -1728,7 +1728,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.2.7
 
-- Correção de solicitação de macaco de graxa
+- Correção de solicitação de grease monkey
 
 ## 0.2.6
 
@@ -1822,7 +1822,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.0.52
 
-- Não traduzir o parágrafo que possui apenas elementos de espaço reservado, por
+- Não traduzir o parágrafo que contém apenas elementos de espaço reservado, por
   [exemplo](https://github.com/nank1ro/solidart), a primeira linha.
 - Melhor para detectar elementos filhos.
 
@@ -1954,19 +1954,19 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.0.30
 
-- Melhor para tema dashed
+- Melhor para tema tracejado
 
 ## 0.0.29
 
 - Corrigir parágrafo válido.
 - Adicionar tema pontilhado, thinDashed
-- Melhor para tema dashed, highlight
+- Melhor para tema tracejado, destaque
 
 ## 0.0.28
 
 - Corrigir sublinhado
-- Adicionar tema dashed, paper
-- Corrigir detecção de cabeçalho
+- Adicionar tema tracejado, papel
+- Corrigir cabeçalho detectado
 
 ## 0.0.27
 
@@ -1984,7 +1984,7 @@ O aprimoramento mais emocionante da caixa de entrada está aqui:
 
 ## 0.0.23
 
-- Melhor para detecção de chinês
+- Melhor para detectar chinês
 - Corrigir problema de innerText no Reddit
 
 ## 0.0.22
