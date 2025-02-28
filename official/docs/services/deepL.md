@@ -40,10 +40,6 @@
 
 DeepL API Pro 和 DeepL Pro 是两种账户，可以在沉浸式翻译里使用的 Auth Key 是 DeepL API 账户，请点击这里查看[DeepL API Pro](https://www.deepl.com/zh/pro/select-country#developer)
 
-### 2. 提示 401,403 无权限
-
-Deepl Free API 的 Key 都是以 `:fx` 结尾的，其他的都不是 Free API 的 key
-
 ### 2. 提示 401,403 无权限错误
 
 出现这类错误可能是因为您使用了错误的密钥类型。请注意：

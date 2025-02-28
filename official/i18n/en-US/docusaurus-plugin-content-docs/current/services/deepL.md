@@ -2,7 +2,7 @@
 
 ## Direct access to DeepL translation services after opening an [Immersive Translate Pro Membership](https://immersivetranslate.com/en/pricing/) (Recommended)
 
-[Click here for presentation](https://immersivetranslate.com/en/pricing/)
+[Learn More](https://immersivetranslate.com/en/pricing/)
 
 ## Get the official DeepL API via DeepL
 
@@ -24,26 +24,23 @@
 
 4. To register for an account and open the [DeepL API](https://www.deepl.com/en/pro#developer).
 
-<!-- ## Build your own DeepL API
-
-We're experimenting with support for our own DeeplX service in the Beta feature (but it's not well suited as a web translation service, as tested.Due to the huge amount of API requests for web page translation, if you build this service, please make sure to do a good job of load balancing), the following is how to turn on the experimental features of the instructions:
-
-1. Enabling Beta Testing Features in Developer Settings
-2. Find DeepLX (Beta) in Basic Settings and enter the self-built DeepL API URL, e.g. http\://your-domain/translate
-
-> Q：How do I build my own?
->
-> A：[OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX#setup-on-immersive-translate) or [zu1k/deepl](https://github.com/KyleChoy/zotero-pdf-translate/blob/CustomDeepL/README.md) -->
-
 ## common problems
 
 ### 1. The filled-in key is not available.
 
 DeepL API Pro and DeepL Pro are two kinds of accounts, the Auth Key that can be used in Immersive Translate is the DeepL API account, please click here for [DeepL API Pro](https://www.deepl.com/en/pro/select-country#) developer)
 
-### 2. Deepl Free API Prompt 401 No Privilege
+### 2. Troubleshooting 401, 403 Authentication Errors
 
-Deepl Free API keys all end in `:fx`, anything else is not a Free API key.
+These errors typically occur when you're using the wrong type of authentication key. Please note:
+
+1. DeepL offers two different products: DeepL Pro (translation service) and DeepL API (developer interface)
+2. The keys found in your DeepL Pro account settings are **not compatible** with API calls
+3. You need to specifically register for a DeepL API account to obtain an API key
+4. DeepL Free API keys are identified by ending with `:fx`
+5. DeepL Pro API keys don't have the `:fx` suffix and appear as a regular string of characters
+
+Please ensure you've properly registered for the DeepL API service, not just the DeepL Pro translation service.
 
 ### 3. 456, Quota for user has been reached.
 
