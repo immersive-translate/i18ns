@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 
 ## 1.15.1 Preview (2025-03-02)
 
-- Added: Android browser supports free image translation. 【Pending, need to wait for browser release】
+- Added: Android browser supports free image translation.
 - Added: Gemini supports Portuguese (Brazil).
 - Added: Grok, Ollama, Groq, Azure-OpenAI translation services.
 - Optimized: Improved the accuracy of automatically identifying the language of translated content.

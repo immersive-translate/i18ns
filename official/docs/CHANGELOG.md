@@ -16,7 +16,7 @@ sidebar_position: 6
 
 ## 1.15.1 Preview (2025-03-02)
 
-- 新增：Android 浏览器支持免费图片翻译。 【待定，需要等浏览器发版】
+- 新增：Android 浏览器支持免费图片翻译。【待定，需要等浏览器发版】
 - 新增：Gemini 支持葡萄牙语（巴西）。
 - 新增：Grok, Ollama, Groq, Azure-OpenAI 翻译服务。
 - 优化：提高翻译内容自动识别语言的准确性。
