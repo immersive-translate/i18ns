@@ -14,7 +14,7 @@ sidebar_position: 6
 - [Firefox 應用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.15.1 Preview (2025-03-02)
+## 1.15.2 Preview (2025-03-02)
 
 - 新增：Android 瀏覽器支持免費圖片翻譯。
 - 新增：Gemini 支持葡萄牙語（巴西）。
