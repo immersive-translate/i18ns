@@ -5,6 +5,7 @@ sidebar_position: 6
 # 更新日誌
 
 此更新日誌依據開發進度來更新，版本後的日期是程式碼合併日期，並不是應用商店的發佈日期（各應用商店提交後的審核時間各異，個別應用商店審核時間可達一週）。目前我們有 2 個版本推進。
+
 【**Release** 版本】為正式穩定版本，發佈在 [Chrome](https://chromewebstore.google.com/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)、[Edge](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)、[Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate/)、[Apple](https://apps.apple.com/app/id6447957425) 等主流應用商店的都是這個版本。
 
 【**Preview** 版本】為預覽版本，發佈頻率更高，包含一些實驗性功能，相比 Release 版本會有更多的 Bug，主要發佈在
@@ -12,6 +13,17 @@ sidebar_position: 6
 - [官網提供的油猴腳本](https://download.immersivetranslate.com/immersive-translate.user.js)
 - [Firefox 應用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
+
+## 1.15.1 Preview (2025-03-02)
+
+- 新增：Android 瀏覽器支持免費圖片翻譯。 【待定，需要等瀏覽器發版】
+- 新增：Gemini 支持葡萄牙語（巴西）。
+- 新增：Grok, Ollama, Groq, Azure-OpenAI 翻譯服務。
+- 優化：提高翻譯內容自動識別語言的準確性。
+- 優化：【免費圖片翻譯】增加對從右到左閱讀語言的排版支持。
+- 優化：兼容 o1，o3 這類不支持 system 角色的模型（System Prompt 配置為空時不再傳 system 角色參數）。
+- 修復：Google Meet 和 Microsoft Teams 字幕翻譯問題。
+- 修復：谷歌翻譯出現轉義符號的問題。
 
 ## 1.14.16 Release (2025-02-21)
 

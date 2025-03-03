@@ -6,17 +6,24 @@ sidebar_position: 6
 
 This changelog is updated according to the development progress. The date after the version is the code merge date, not the release date in the app stores (the review time varies after submission to each app store, with some taking up to a week for review). Currently, we are advancing two versions.
 
-The **Release version** is the official stable version, available on mainstream app stores such as
-[Chrome](https://chromewebstore.google.com/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh),
-[Edge](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg),
-[Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate/),
-[Apple](https://apps.apple.com/app/id6447957425), etc.
+The **Release version** is the official stable version, available on mainstream app stores such as [Chrome](https://chromewebstore.google.com/detail/bpoadfkcbjbfhfodiogcnhhhpibjhbnh),[Edge](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg),[Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate/),[Apple](https://apps.apple.com/app/id6447957425), etc.
 
 The **Preview version** is published more frequently and includes some experimental features. Compared to the Release version, it may contain more bugs. It is primarily released on
 
 - [official website's userscript](https://download.immersivetranslate.com/immersive-translate.user.js)
 - [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
+
+## 1.15.1 Preview (2025-03-02)
+
+- Added: Android browser supports free image translation. 【Pending, need to wait for browser release】
+- Added: Gemini supports Portuguese (Brazil).
+- Added: Grok, Ollama, Groq, Azure-OpenAI translation services.
+- Optimized: Improved the accuracy of automatically identifying the language of translated content.
+- Optimized: [Free image translation] supports formatting for languages from right to left.
+- Optimized: Compatible with models like o1, o3 that don't support system role (system role parameter will not be passed when System Prompt configuration is empty).
+- Fixed: Google Meet and Microsoft Teams subtitle translation issue.
+- Fixed: Google translation issue with escape characters.
 
 ## 1.14.16 Release (2025-02-21)
 
