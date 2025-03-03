@@ -18,7 +18,6 @@ sidebar_position: 6
 
 - 新增：Android 瀏覽器支持免費圖片翻譯。
 - 新增：Gemini 支持葡萄牙語（巴西）。
-- 新增：Grok, Ollama, Groq, Azure-OpenAI 翻譯服務。
 - 優化：提高翻譯內容自動識別語言的準確性。
 - 優化：【免費圖片翻譯】增加對從右到左閱讀語言的排版支持。
 - 優化：兼容 o1，o3 這類不支持 system 角色的模型（System Prompt 配置為空時不再傳 system 角色參數）。
