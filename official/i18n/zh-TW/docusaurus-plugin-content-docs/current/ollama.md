@@ -11,7 +11,7 @@
 
 1. 打開 [Ollama](https://ollama.com) 下載 Ollama
 2. 打開 [模型列表](https://ollama.com/library)下載模型，比如可以使用 `ollama pull llama3.3` 下載 llama3.3 模型
-3. 啟動 Ollama
+3. APIKEY 使用預設的即可，啟動 Ollama，比如可以使用 `ollama run llama3.3` 啟動 llama3.3
 4. 完成 🎉，如有疑惑的地方，請在 [這裡](https://github.com/immersive-translate/immersive-translate/issues/137) 反饋。
 
 ## 參考檔案
