@@ -1028,7 +1028,7 @@ sidebar_position: 6
 
 ## 0.6.0
 
-- الإصدار الأول في يونيو، تم نقله من النطاق الفرعي الشخصي السابقhttps://immersive-translate.owenyoung.comإلى النطاق الجديد https://immersivetranslate.com/
+- الإصدار الأول في يونيو، تم نقله من النطاق الفرعي الشخصي السابق https://immersive-translate.owenyoung.com إلى النطاق الجديد  https://immersivetranslate.com/
 - لم تتغير الوظائف بشكل كبير (ستكون الميزات الجديدة متاحة في الإصدار التالي!)
 
 ## 0.5.17
