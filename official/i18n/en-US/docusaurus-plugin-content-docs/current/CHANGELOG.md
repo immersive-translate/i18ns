@@ -14,11 +14,9 @@ The **Preview version** is published more frequently and includes some experimen
 - [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.15.1 Preview (2025-03-02)
+## 1.15.2 Preview (2025-03-02)
 
-- Added: Android browser supports free image translation.
 - Added: Gemini supports Portuguese (Brazil).
-- Added: Grok, Ollama, Groq, Azure-OpenAI translation services.
 - Optimized: Improved the accuracy of automatically identifying the language of translated content.
 - Optimized: [Free image translation] supports formatting for languages from right to left.
 - Optimized: Compatible with models like o1, o3 that don't support system role (system role parameter will not be passed when System Prompt configuration is empty).
