@@ -14,7 +14,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.15.2 Preview (2025-03-02)
+## 1.15.2 Release (2025-03-02)
 
 - Added: Gemini supports Portuguese (Brazil).
 - Optimized: Improved the accuracy of automatically identifying the language of translated content.

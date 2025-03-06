@@ -119,4 +119,4 @@ Você ainda pode fazer estas coisas para nos ajudar agora:
 <!-- - Ajude a responder perguntas de usuários em [Grupos do Telegram](https://t.me/+rq848Z09nehlOTgx). -->
 - Ajude a responder perguntas de usuários em [GitHub Issue](https://github.com/immersive-translate/immersive-translate/issues).
 
-Nos últimos cinco meses, o Immersive Translate ajudou 400.000 usuários a adquirir o hábito de buscar informações em um idioma estrangeiro, o que é uma prova do papel crítico que uma boa ferramenta pode desempenhar na quebra de barreiras de informação. Agradecemos a todos que ajudaram com o Immersive Translate no passado, continuaremos a trazer a experiência do Immersive Translate para mais pessoas, para que mais pessoas possam desfrutar dos dividendos da tecnologia.
+Nos últimos dois anos, o Immersive Translate ajudou 10 milhões de usuários a desenvolver o hábito de ler informações em línguas estrangeiras, provando que boas ferramentas são cruciais para quebrar barreiras de informação. Agradecemos a todos que ajudaram o Immersive Translate; continuaremos melhorando nosso produto para que mais pessoas possam se beneficiar da tecnologia.

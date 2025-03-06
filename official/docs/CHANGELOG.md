@@ -14,7 +14,7 @@ sidebar_position: 6
 - [Firefox 应用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.15.2 Preview (2025-03-02)
+## 1.15.2 Release (2025-03-02)
 
 - 新增：Gemini 支持葡萄牙语（巴西）。
 - 优化：提高翻译内容自动识别语言的准确性。

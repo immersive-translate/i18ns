@@ -13,7 +13,7 @@ title: 介紹
 
 ## 主要特性
 
-- **沉浸式閱讀外文網站** 透過智慧識別網頁主內容區域並進行雙語對照翻譯，沉浸式翻譯提供了全新的外文閱讀體驗，因此得名“沉浸式翻譯”。
+- **沉浸式閱讀外文網站** 透過智慧識別網頁主內容區域並進行雙語對照翻譯，沉浸式翻譯提供了全新的外文閱讀體驗，因此得名"沉浸式翻譯"。
 - **影片雙語字幕** 沉浸式支援多達 50+ 個國外主流影片網站的雙語字幕翻譯，包括 YouTube, Netflix, TED, Coursera, Khan Academy 等等。
 - **強大的輸入框翻譯**，將任何網頁上的輸入框化身為多語言翻譯器，立刻解鎖 Google 搜尋，ChatGPT 等工具的雙語即時對話體驗。
 - **高效的文件翻譯** 一鍵匯出雙語電子書，同時支援 PDF、字幕、TXT 等文件的即時雙語翻譯。
@@ -64,7 +64,7 @@ title: 介紹
 - Google Chrome 瀏覽器：[Chrome 商店沉浸式翻譯](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
 - Firefox 火狐瀏覽器：[Firefox Addon 商店沉浸式翻譯](https://addons.mozilla.org/zh-TW/firefox/addon/immersive-translate/)
 
-> 如果你無法存取 Google 官方商店，可以直接下載[最新沉浸式翻譯 Chrome 瀏覽器 zip 安裝檔](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip)，下載後請先解壓到一個常用的資料夾內，然後在位址列輸入：`chrome://extensions`，開啟擴充套件管理視窗，然後啟用“開發人員模式”，選擇“載入解壓縮的擴充套件”，選擇剛剛解壓後的資料夾載入即可安裝成功。
+> 如果你無法存取 Google 官方商店，可以直接下載[最新沉浸式翻譯 Chrome 瀏覽器 zip 安裝檔](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip)，下載後請先解壓到一個常用的資料夾內，然後在位址列輸入：`chrome://extensions`，開啟擴充套件管理視窗，然後啟用"開發人員模式"，選擇"載入解壓縮的擴充套件"，選擇剛剛解壓後的資料夾載入即可安裝成功。
 
 ### Safari
 
@@ -187,4 +187,4 @@ title: 介紹
 <img src="https://immersivetranslate.com/assets/wechat-qrcode.jpg" width="200" alt="wechat" />
 </div>
 
-在過去短短的五個月裡，沉浸式翻譯已經幫助了 40 萬使用者養成了看外語資訊的習慣，這充分證明瞭一個良好的工具對於打破資訊落差所起到的關鍵作用。感謝每一位在過去幫助過沉浸式翻譯的人，我們將會繼續把沉浸式的翻譯體驗帶給更多的人，讓更多人能享受到技術帶來的紅利。
+在過去的兩年裡，沉浸式翻譯已經幫助了1000萬用戶養成了看外語信息的習慣，充分證明了好工具對打破信息壁壘至關重要。感謝每一位幫助過沉浸式翻譯的人，我們會繼續做好產品，讓更多人享受到技術帶來的紅利。
