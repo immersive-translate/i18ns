@@ -15,10 +15,10 @@ Une **extension de traduction de pages web bilingue, alimentée par l'IA, gratui
 
 - **Lecture immersive de sites web en langue étrangère** En reconnaissant intelligemment la zone de contenu principal d'une page web et en la traduisant de manière bilingue, Immersive Translate offre une nouvelle expérience de lecture en langue étrangère, d'où le nom "Immersive Translate".
 - **Traducteur de boîte de saisie puissant** transforme la boîte de saisie de n'importe quelle page web en un traducteur multilingue, débloquant instantanément des conversations bilingues en temps réel avec Google Search, ChatGPT et plus encore.
-- **Traduction de documents efficace** Exportation en un clic de livres électroniques bilingues, tout en prenant en charge la traduction bilingue en temps réel de documents PDF, de sous-titres, de fichiers TXT et autres.
-- **Traduction innovante au survol** Il suffit de survoler avec votre souris n'importe quel paragraphe d'une page web et la traduction correspondante apparaîtra immédiatement sous le paragraphe. Les paragraphes sont considérés comme la plus petite unité dans le concept de conception d'Immersive Translate, conservant leur contexte afin que nous puissions vraiment comprendre et apprendre la langue étrangère.
+- **Traduction de documents efficace** Exportation en un clic de livres électroniques bilingues, tout en prenant en charge la traduction bilingue en temps réel de documents PDF, sous-titres, TXT et autres.
+- **Traduction innovante au survol** Il suffit de survoler un paragraphe de n'importe quelle page web avec votre souris et la traduction correspondante apparaîtra immédiatement sous le paragraphe. Les paragraphes sont considérés comme la plus petite unité dans le concept de conception d'Immersive Translate, conservant leur contexte afin que nous puissions vraiment comprendre et apprendre la langue étrangère.
 - **Personnalisation et optimisation approfondies pour les sites web grand public** Optimisé pour Google, Twitter, Reddit, YouTube, Bloomberg, Wall Street Journal, et d'autres sites web grand public, que ce soit pour la recherche, la socialisation ou l'obtention d'informations, tout est plus fluide et plus efficace.
-- **Support de toutes les plateformes** En plus des principaux navigateurs de bureau, les appareils mobiles peuvent profiter de la même expérience Immersive Translate. Navigation bilingue sur les réseaux sociaux sur iOS Safari, Android Kiwi Browser et d'autres navigateurs mobiles tels que Twitter, Reddit et plus encore.
+- **Support de toutes les plateformes** En plus des principaux navigateurs de bureau, les appareils mobiles peuvent profiter de la même expérience Immersive Translate. Navigation sur les réseaux sociaux bilingues sur iOS Safari, Android Kiwi Browser et d'autres navigateurs mobiles tels que Twitter, Reddit et plus encore.
 - **Prend en charge plus de 10 services de traduction** Dans Immersive Translate, vous pouvez choisir parmi plus de 10 services de traduction tels que Deepl, OpenAI, Microsoft Translate, Google Translate, Tencent Translate, et plus encore, et la liste s'allonge.
 
 [**Cliquez pour installer maintenant**](/docs/installation/)
@@ -64,7 +64,7 @@ Vous pouvez rester en contact avec nous à :
 
 ### Safari
 
-- [Cliquez ici pour aller sur l'App Store d'Apple pour installer](https://apps.apple.com/app/immersive-translate/id6447957425) **GRATUIT POUR UNE DURÉE LIMITÉE !!!!**
+- [Cliquez ici pour aller sur l'App Store d'Apple pour installer](https://apps.apple.com/app/immersive-translate/id6447957425) \*\*GRATUIT POUR UNE DURÉE LIMITÉE !!!! \*\*
 
 <div align="center">
 <img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="app store qrcode" />
@@ -119,4 +119,4 @@ Vous pouvez toujours faire ces choses pour nous aider maintenant :
 <!-- - Aidez à répondre aux questions des utilisateurs dans [les groupes Telegram](https://t.me/+rq848Z09nehlOTgx). -->
 - Aidez à répondre aux questions des utilisateurs dans [GitHub Issue](https://github.com/immersive-translate/immersive-translate/issues).
 
-Au cours des deux dernières années, Immersive Translate a aidé 10 millions d'utilisateurs à développer l'habitude de lire des informations en langues étrangères, prouvant que les bons outils sont essentiels pour briser les barrières de l'information. Merci à tous ceux qui ont aidé Immersive Translate ; nous continuerons à améliorer notre produit pour permettre à plus de personnes de bénéficier de la technologie.
+Au cours des deux dernières années, Immersive Translate a aidé 10 millions d'utilisateurs à développer l'habitude de lire du contenu en langue étrangère, prouvant que de bons outils sont cruciaux pour briser les barrières de l'information. Merci à tous ceux qui ont aidé Immersive Translate ; nous continuerons à améliorer notre produit pour aider plus de personnes à bénéficier de la technologie.

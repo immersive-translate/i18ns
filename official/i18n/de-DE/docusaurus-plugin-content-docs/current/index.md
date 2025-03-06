@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Einführung
 ---
 
-Eine **kostenlose, gute, unkomplizierte, revolutionäre, anerkannte, KI-gestützte, zweisprachige Webseiten-Übersetzungserweiterung**, die Ihnen hilft, die Informationslücke effektiv zu überwinden, verfügbar auf Ihrem Telefon!
+Eine **kostenlose, gute, unkomplizierte, revolutionäre, anerkannte, KI-gestützte, zweisprachige Webseitenerweiterung**, die Ihnen hilft, die Informationslücke effektiv zu überwinden, verfügbar auf Ihrem Telefon!
 
 <video
   controls
@@ -18,10 +18,10 @@ Eine **kostenlose, gute, unkomplizierte, revolutionäre, anerkannte, KI-gestütz
 - **Effiziente Dokumentenübersetzung** Ein-Klick-Export von zweisprachigen eBooks, während die Echtzeit-Zweisprachübersetzung von PDF, Untertiteln, TXT und anderen Dokumenten unterstützt wird.
 - **Innovative Hover-Übersetzung** Einfach mit der Maus über einen beliebigen Absatz einer Webseite fahren und die entsprechende Übersetzung erscheint sofort unter dem Absatz. Absätze werden als kleinste Einheit im Designkonzept von Immersive Translate betrachtet, um den Kontext beizubehalten, damit wir die Fremdsprache wirklich verstehen und lernen können.
 - **Tiefgreifend angepasst und optimiert für Mainstream-Websites** Optimiert für Google, Twitter, Reddit, YouTube, Bloomberg, Wall Street Journal und andere Mainstream-Websites, egal ob es um Suche, Sozialisierung oder Informationsbeschaffung geht, alles ist reibungsloser und effizienter.
-- **Unterstützung aller Plattformen** Neben den wichtigsten Desktop-Browsern können mobile Geräte das gleiche Immersive Translate-Erlebnis genießen. Zweisprachiges Social-Media-Browsing auf iOS Safari, Android Kiwi Browser und anderen mobilen Browsern wie Twitter, Reddit und mehr.
+- **Unterstützung aller Plattformen** Neben den wichtigsten Desktop-Browsern können auch mobile Geräte das gleiche Immersive Translate-Erlebnis genießen. Zweisprachiges Social-Media-Browsing auf iOS Safari, Android Kiwi Browser und anderen mobilen Browsern wie Twitter, Reddit und mehr.
 - **Unterstützt 10+ Übersetzungsdienste** In Immersive Translate können Sie aus über 10 Übersetzungsdiensten wie Deepl, OpenAI, Microsoft Translate, Google Translate, Tencent Translate und mehr wählen, und die Liste wächst weiter.
 
-[**Jetzt klicken, um zu installieren**](/docs/installation/)
+[**Jetzt installieren**](/docs/installation/)
 
 Diese Erweiterung ist kostenlos nutzbar, ich hoffe, Sie können einfach, angenehm und elegant auf die reichhaltigen fremdsprachigen Informationen im Internet zugreifen, lassen Sie die Sprache nicht zur Barriere werden ❤️
 
@@ -46,10 +46,10 @@ Sie können mit uns in Kontakt bleiben unter:
 
 ## Anwendungsfälle
 
-<!-- - [Erfahren Sie mehr über die Veränderungen, die bei Benutzer Xiao Zhang nach einem Monat Nutzung von Immersive Translate aufgetreten sind](#user-xiao-zhangs-story) -->
+<!-- - [Erfahren Sie mehr über die Veränderungen, die bei Benutzer Xiao Zhang nach einem Monat der Nutzung von Immersive Translate aufgetreten sind](#user-xiao-zhangs-story) -->
 
 - [Hier klicken](/docs/usecase/) um Screenshots der Nutzung anzusehen
-- [Hier klicken für](/docs/review/) Benutzerbewertungen und Medienberichte
+- [Hier klicken für](/docs/review/) Benutzerbewertungen und Medienberichterstattung
 - [Youtube-Videoeinführung](https://www.youtube.com/watch?v=SHznc5kQCM4&ab_channel=ImmersiveTranslate)
 
 ## Installation
@@ -87,26 +87,26 @@ Nach der Installation suchen Sie direkt im Add-ons / Chrome Store nach [Immersiv
 
 ### Installation über Tampermonkey
 
-Wenn Sie die offizielle Erweiterung für Immersive Translate nicht auf die oben beschriebene Weise installieren können (wir empfehlen die Verwendung der offiziellen Erweiterung für bessere Leistung und mehr Funktionen), können Sie Tampermonkey auf folgende Weise installieren:
+Wenn Sie die offizielle Erweiterung für Immersive Translate nicht auf die oben genannte Weise installieren können (wir empfehlen die Verwendung der offiziellen Erweiterung für bessere Leistung und mehr Funktionen), können Sie Tampermonkey auf folgende Weise installieren:
 
 Tampermonkey-Adresse: https://download.immersivetranslate.com/immersive-translate.user.js
 
 Öffnen Sie [diese Adresse](https://download.immersivetranslate.com/immersive-translate.user.js) in einem Browser, der die Grease Monkey-Erweiterung installiert hat, um sie zu installieren. Verwenden Sie **Android Firefox** als Beispiel:
 
-1. Laden Sie die [neueste Version von Firefox](https://www.mozilla.org/firefox/browsers/mobile/android/) herunter.
+1. Laden Sie die [neueste Version von Firefox](https://www.mozilla.org/firefox/browsers/mobile/android/) herunter
 2. Finden Sie [Tamper Monkey](https://www.tampermonkey.net/) in den empfohlenen Add-ons von Firefox und installieren Sie es.
-3. Installieren Sie [Tampermonkey](https://download.immersivetranslate.com/immersive-translate.user.js) für diese Erweiterung (öffnen Sie diesen Link in Ihrem Firefox-Browser, um die Installationsseite zu sehen).
+3. Installieren Sie [Tampermonkey](https://download.immersivetranslate.com/immersive-translate.user.js) für diese Erweiterung (öffnen Sie diesen Link in Ihrem Firefox-Browser, um die Installationsseite zu sehen)
 4. Nach der Installation öffnen Sie eine beliebige Webseite und das schwebende Fenstersymbol der Immersive Translate-Erweiterung erscheint auf der rechten Seite.
 
-Then we step by step to optimize for various reading needs, including support for real-time translation of PDF files, support for real-time translation and production of Epub e-books, support for subtitle files, TXT files and so on and so forth.
+Dann optimieren wir Schritt für Schritt für verschiedene Leseanforderungen, einschließlich Unterstützung für die Echtzeitübersetzung von PDF-Dateien, Unterstützung für die Echtzeitübersetzung und Erstellung von Epub-E-Books, Unterstützung für Untertiteldateien, TXT-Dateien und so weiter.
 
-Die Zeiten sind hart, und wir wissen, dass sich nicht jeder leisten kann, für immer mehr Tools und Inhalte zu bezahlen. Deshalb stellen wir dieses Tool allen zur Verfügung, die es benötigen, und wir sind fest davon überzeugt, dass der gleichberechtigte Zugang zu Informationen das am meisten verdiente Recht ist, das wir alle haben. -->
+Die Zeiten sind hart, und wir wissen, dass sich nicht jeder leisten kann, für immer mehr Tools und Inhalte zu bezahlen. Deshalb stellen wir dieses Tool allen, die es benötigen, kostenlos zur Verfügung, und wir sind fest davon überzeugt, dass der gleichberechtigte Zugang zu Informationen das am meisten verdiente Recht ist, das wir alle haben.
 
-## Sponsorship Description
+## Sponsorenbeschreibung
 
 Wir benötigen derzeit keine finanzielle Unterstützung mehr, aber Sie können uns dennoch auf folgende Weise helfen:
 
-Sie können jetzt diese Dinge tun, um uns zu helfen:
+Sie können uns jetzt auf folgende Weise helfen:
 
 - Empfehlen Sie Immersive Translate Freunden und Familie in Ihrer Umgebung.
 - Entwickeln Sie die Gewohnheit, Informationen in Fremdsprachen zu lesen.
@@ -119,4 +119,4 @@ Sie können jetzt diese Dinge tun, um uns zu helfen:
 <!-- - Helfen Sie, Benutzerfragen in [Telegram-Gruppen](https://t.me/+rq848Z09nehlOTgx) zu beantworten. -->
 - Helfen Sie, Benutzerfragen in [GitHub Issue](https://github.com/immersive-translate/immersive-translate/issues) zu beantworten.
 
-In den letzten zwei Jahren hat Immersive Translate 10 Millionen Nutzern geholfen, sich das Lesen fremdsprachiger Informationen zur Gewohnheit zu machen, was beweist, dass gute Werkzeuge entscheidend sind, um Informationsbarrieren zu durchbrechen. Danke an alle, die Immersive Translate unterstützt haben; wir werden unser Produkt weiter verbessern, damit mehr Menschen von der Technologie profitieren können.
+In den letzten zwei Jahren hat Immersive Translate 10 Millionen Nutzern geholfen, die Gewohnheit zu entwickeln, fremdsprachige Inhalte zu lesen, was beweist, dass gute Tools entscheidend sind, um Informationsbarrieren abzubauen. Vielen Dank an alle, die Immersive Translate geholfen haben; wir werden unser Produkt weiterhin verbessern, um mehr Menschen zu helfen, von Technologie zu profitieren.

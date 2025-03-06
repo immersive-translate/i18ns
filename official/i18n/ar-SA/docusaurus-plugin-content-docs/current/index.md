@@ -13,9 +13,9 @@ title: المقدمة
 
 ## الميزات
 
-- **قراءة غامرة لمواقع الويب الأجنبية** من خلال التعرف الذكي على منطقة المحتوى الرئيسية لصفحة الويب وترجمتها بشكل ثنائي اللغة، يوفر Immersive Translate تجربة قراءة جديدة للغات الأجنبية، ومن هنا جاء الاسم "Immersive Translate".
+- **قراءة غامرة لمواقع الويب الأجنبية** من خلال التعرف الذكي على منطقة المحتوى الرئيسية لصفحة الويب وترجمتها بشكل ثنائي اللغة، يوفر Immersive Translate تجربة قراءة جديدة للغة الأجنبية، ومن هنا جاء الاسم "Immersive Translate".
 - **مترجم صندوق الإدخال القوي** يحول صندوق الإدخال في أي صفحة ويب إلى مترجم متعدد اللغات، مما يفتح محادثات ثنائية اللغة في الوقت الفعلي مع Google Search وChatGPT والمزيد.
-- **ترجمة الوثائق بكفاءة** تصدير الكتب الإلكترونية ثنائية اللغة بنقرة واحدة، مع دعم الترجمة الثنائية في الوقت الفعلي للملفات PDF، والترجمات، وTXT وغيرها من الوثائق.
+- **ترجمة الوثائق بكفاءة** تصدير الكتب الإلكترونية ثنائية اللغة بنقرة واحدة، مع دعم الترجمة الثنائية في الوقت الفعلي للـ PDF والترجمات النصية وTXT وغيرها من الوثائق.
 - **ترجمة مبتكرة عند التمرير** ببساطة مرر الماوس فوق أي فقرة في أي صفحة ويب وستظهر الترجمة المقابلة فورًا أسفل الفقرة. تعتبر الفقرات الوحدة الأصغر في مفهوم تصميم Immersive Translate، مما يحافظ على سياقها حتى نتمكن من فهم وتعلم اللغة الأجنبية حقًا.
 - **تخصيص عميق وتحسين للمواقع الرئيسية** تم تحسينه لـ Google وTwitter وReddit وYouTube وBloomberg وWall Street Journal وغيرها من المواقع الرئيسية، سواء كان البحث أو التواصل الاجتماعي أو الحصول على المعلومات، كل ذلك أصبح أكثر سلاسة وكفاءة.
 - **دعم جميع المنصات** بالإضافة إلى المتصفحات الرئيسية على سطح المكتب، يمكن للأجهزة المحمولة الاستمتاع بنفس تجربة Immersive Translate. تصفح وسائل التواصل الاجتماعي ثنائي اللغة على iOS Safari وAndroid Kiwi Browser وغيرها من المتصفحات المحمولة مثل Twitter وReddit والمزيد.
@@ -40,7 +40,7 @@ title: المقدمة
 - [التثبيت](/docs/installation/)
 - [كيفية الاستخدام](/docs/usage/)
 - [طلب خدمات الترجمة](/docs/services/)
-- [التكوين المخصص المتقدم](/docs/advanced/)
+- [تكوين مخصص متقدم](/docs/advanced/)
 - [سجل التغييرات](/docs/CHANGELOG/)
 - [الوثيقة عبر الإنترنت](/docs/)
 
@@ -56,11 +56,11 @@ title: المقدمة
 
 ### متصفح سطح المكتب
 
-- متصفح Microsoft Edge: [متجر Edge Immersive Translate](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)
-- Google Chrome: [متجر Chrome Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
-- Firefox: [متجر إضافات Firefox Immersive Translate](https://addons.mozilla.org/firefox/addon/immersive-translate/)
+- متصفح Microsoft Edge: [متجر Edge لـ Immersive Translate](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)
+- Google Chrome: [متجر Chrome لـ Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
+- Firefox: [متجر إضافات Firefox لـ Immersive Translate](https://addons.mozilla.org/firefox/addon/immersive-translate/)
 
-> إذا لم تتمكن من الوصول إلى متجر Google الرسمي، يمكنك تنزيل [أحدث مثبت Immersive Translate Chrome zip](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip) مباشرة، بعد التنزيل، يرجى أولاً فك الضغط إلى مجلد تستخدمه عادةً، ثم اكتب: `chrome://extensions` في شريط العنوان لفتح نافذة إدارة الامتدادات، ثم قم بتمكين "وضع المطور"، اختر "تحميل الامتدادات غير المضغوطة"، واختر المجلد الذي قمت بفك ضغطه للتو وقم بتحميله. اختر المجلد الذي قمت باستخراجه للتو وقم بتحميله.
+> إذا لم تتمكن من الوصول إلى متجر Google الرسمي، يمكنك تنزيل [أحدث مثبت Immersive Translate لـ Chrome بصيغة zip](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip) مباشرة، بعد التنزيل، يرجى أولاً فك الضغط إلى مجلد تستخدمه عادةً، ثم اكتب: `chrome://extensions` في شريط العنوان لفتح نافذة إدارة الامتدادات، ثم قم بتمكين "وضع المطور"، اختر "تحميل الامتدادات غير المضغوطة"، واختر المجلد الذي قمت بفك ضغطه للتو وقم بتحميله. اختر المجلد الذي قمت باستخراجه للتو وقم بتحميله.
 
 ### Safari
 
@@ -74,7 +74,7 @@ title: المقدمة
 
 ## Android
 
-انقر لتنزيل [متصفح Immersive Translate Android APK](https://immersivetranslate.com/android/)، أو قم بتثبيته من [متجر Google Play](https://play.google.com/store/apps/details?id=com.immersivetranslate.browser&utm_campaign=official). يأتي هذا الإصدار مثبتًا مسبقًا بامتداد Immersive Translate، لذا يمكنك استخدامه فور التثبيت. (ملاحظة: إذا كانت بعض الهواتف الصينية تشير إلى خطر أمني أثناء التثبيت (هذا تحذير قياسي)، يرجى اختيار [أقر بالمخاطر الأمنية] [متابعة التثبيت])
+انقر لتنزيل [متصفح Immersive Translate لنظام Android بصيغة APK](https://immersivetranslate.com/android/)، أو قم بتثبيته من [متجر Google Play](https://play.google.com/store/apps/details?id=com.immersivetranslate.browser&utm_campaign=official). يأتي هذا الإصدار مثبتًا مسبقًا بامتداد Immersive Translate، لذا يمكنك استخدامه فور التثبيت. (ملاحظة: إذا كانت بعض الهواتف الصينية تشير إلى وجود خطر أمني أثناء التثبيت (هذا تنبيه قياسي)، يرجى اختيار [أقر بالخطر الأمني] [متابعة التثبيت])
 
 يمكنك أيضًا محاولة تثبيت Immersive Translate مع متصفحات Android الأخرى، مثل تلك التي تدعم إضافات Firefox أو إضافات Chrome، مثل
 
@@ -100,7 +100,7 @@ title: المقدمة
 
 ثم نقوم خطوة بخطوة بتحسين احتياجات القراءة المختلفة، بما في ذلك دعم الترجمة الفورية لملفات PDF، ودعم الترجمة الفورية وإنتاج كتب Epub الإلكترونية، ودعم ملفات الترجمة، وملفات TXT وما إلى ذلك.
 
-الأوقات صعبة، ونحن نعلم أن ليس بإمكان الجميع تحمل تكاليف المزيد والمزيد من الأدوات والمحتوى، لذلك نحن نوفر هذه الأداة مجانًا لكل من يحتاجها، ونحن نؤمن بشدة أن الوصول المتساوي إلى المعلومات هو الحق الأكثر استحقاقًا الذي نملكه جميعًا.
+الأوقات صعبة، ونعلم أن ليس بإمكان الجميع تحمل تكاليف المزيد من الأدوات والمحتوى، لذلك نحن نوفر هذه الأداة مجانًا لكل من يحتاجها، ونؤمن بشدة أن الوصول المتساوي إلى المعلومات هو الحق الأكثر استحقاقًا الذي نملكه جميعًا.
 
 ## وصف الرعاية
 
@@ -114,9 +114,9 @@ title: المقدمة
 - ما يلي اختياري:
   <!-- - الاشتراك في [البريد الإلكتروني الرسمي لـ Immersive Translate](https://immersivetranslate.substack.com/) -->
   <!-- - [الانضمام إلى قناة Telegram](https://t.me/immersivetranslate) -->
-- متابعة [الحساب الرسمي على تويتر لـ Immersive Translate](https://twitter.com/immersivetrans)
+- متابعة [الحساب الرسمي على Twitter لـ Immersive Translate](https://twitter.com/immersivetrans)
 - المساعدة في [الترجمة](https://crowdin.com/project/immersive-translate) لغة واجهة هذا الامتداد.
 <!-- - المساعدة في الإجابة على أسئلة المستخدمين في [مجموعات Telegram](https://t.me/+rq848Z09nehlOTgx). -->
 - المساعدة في الإجابة على أسئلة المستخدمين في [GitHub Issue](https://github.com/immersive-translate/immersive-translate/issues).
 
-على مدار العامين الماضيين، ساعد Immersive Translate 10 ملايين مستخدم على تطوير عادة قراءة المعلومات باللغات الأجنبية، مما يثبت أن الأدوات الجيدة ضرورية لكسر حواجز المعلومات. شكراً لكل من ساعد Immersive Translate؛ سنواصل تحسين منتجنا لمساعدة المزيد من الناس على الاستفادة من التكنولوجيا.
+على مدار العامين الماضيين، ساعد Immersive Translate 10 ملايين مستخدم في تطوير عادة قراءة المحتوى باللغة الأجنبية، مما يثبت أن الأدوات الجيدة ضرورية في كسر حواجز المعلومات. شكرًا لكل من ساعد Immersive Translate؛ سنواصل تحسين منتجنا لمساعدة المزيد من الناس على الاستفادة من التكنولوجيا.

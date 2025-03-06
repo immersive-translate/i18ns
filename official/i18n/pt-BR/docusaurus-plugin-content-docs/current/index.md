@@ -13,10 +13,10 @@ Uma **extensão de tradução de páginas da web gratuita, boa, sem complicaçõ
 
 ## Funcionalidades
 
-- **Leitura imersiva de sites em língua estrangeira** Ao reconhecer inteligentemente a área principal de conteúdo de uma página da web e traduzi-la de forma bilíngue, o Immersive Translate oferece uma nova experiência de leitura em língua estrangeira, daí o nome "Immersive Translate".
+- **Leitura imersiva de sites em língua estrangeira** Ao reconhecer inteligentemente a área de conteúdo principal de uma página da web e traduzi-la de forma bilíngue, o Immersive Translate oferece uma nova experiência de leitura em língua estrangeira, daí o nome "Immersive Translate".
 - **Poderoso Tradutor de Caixa de Entrada** transforma a caixa de entrada de qualquer página da web em um tradutor multilíngue, desbloqueando instantaneamente conversas bilíngues em tempo real com Google Search, ChatGPT e mais.
 - **Tradução eficiente de documentos** Exportação de eBooks bilíngues com um clique, enquanto suporta tradução bilíngue em tempo real de documentos PDF, legendas, TXT e outros.
-- **Tradução inovadora por passar o mouse** Basta passar o mouse sobre qualquer parágrafo de qualquer página da web e a tradução correspondente aparecerá imediatamente abaixo do parágrafo. Os parágrafos são considerados a menor unidade no conceito de design do Immersive Translate, mantendo seu contexto para que possamos realmente entender e aprender a língua estrangeira.
+- **Tradução Inovadora por Hover** Basta passar o mouse sobre qualquer parágrafo de qualquer página da web e a tradução correspondente aparecerá imediatamente abaixo do parágrafo. Os parágrafos são considerados a menor unidade no conceito de design do Immersive Translate, mantendo seu contexto para que possamos realmente entender e aprender a língua estrangeira.
 - **Altamente personalizado e otimizado para sites mainstream** Otimizado para Google, Twitter, Reddit, YouTube, Bloomberg, Wall Street Journal e outros sites mainstream, seja para pesquisar, socializar ou obter informações, tudo é mais suave e eficiente.
 - **Suporte para todas as plataformas** Além dos principais navegadores de desktop, dispositivos móveis podem desfrutar da mesma experiência do Immersive Translate. Navegação bilíngue em redes sociais no iOS Safari, Android Kiwi Browser e outros navegadores móveis como Twitter, Reddit e mais.
 - **Suporta mais de 10 serviços de tradução** No Immersive Translate, você pode escolher entre mais de 10 serviços de tradução, como Deepl, OpenAI, Microsoft Translate, Google Translate, Tencent Translate, e mais, e a lista está crescendo.
@@ -64,7 +64,7 @@ Você pode manter contato conosco em:
 
 ### Safari
 
-- [Clique aqui para ir à loja da Apple App Store para instalar](https://apps.apple.com/app/immersive-translate/id6447957425) \*\*GRÁTIS POR TEMPO LIMITADO!!!! \*\*
+- [Clique aqui para ir à loja da Apple App Store para instalar](https://apps.apple.com/app/immersive-translate/id6447957425) **GRÁTIS POR TEMPO LIMITADO!!!!**
 
 <div align="center">
 <img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="app store qrcode" />
@@ -76,18 +76,18 @@ Você pode manter contato conosco em:
 
 Clique para baixar o [APK do Navegador Android Immersive Translate](https://immersivetranslate.com/android/), ou instale-o na [Google Play Store](https://play.google.com/store/apps/details?id=com.immersivetranslate.browser&utm_campaign=official). Esta versão vem pré-instalada com a extensão Immersive Translate, para que você possa usá-la imediatamente após a instalação. (Nota: Se alguns telefones de marca chinesa alertarem sobre um risco de segurança durante a instalação (isso é um aviso padrão), selecione [Eu reconheço o risco de segurança] [Continuar instalação])
 
-Você também pode tentar instalar o Immersive Translate com outros navegadores Android, como aqueles que suportam extensões do Firefox ou extensões do Chrome, como
+Você também pode tentar instalar o Immersive Translate com outros navegadores Android, como aqueles que suportam extensões do Firefox ou Chrome, como
 
 - [Navegador Edge](https://www.microsoft.com/edge/emmx/immersivetranslatecollaboration)
 - [Versão Beta ou Nightly do Firefox](https://www.mozilla.org/firefox/channel/android/)
 - [Navegador Lemur](https://lemurbrowser.com/)
 - [Navegador Kiwi](https://kiwibrowser.com/)
 
-Uma vez instalado, procure por [Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) diretamente na loja de complementos / chrome para instalá-lo.
+Uma vez instalado, procure por [Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) diretamente nos complementos / loja do chrome para instalá-lo.
 
 ### Instalação via Tampermonkey
 
-Se você não puder instalar a extensão oficial do Immersive Translate da maneira acima (recomendamos usar a extensão oficial para melhor desempenho e mais recursos), você pode instalar o Tampermonkey da seguinte forma:
+Se você não conseguir instalar a extensão oficial do Immersive Translate da maneira acima (recomendamos usar a extensão oficial para melhor desempenho e mais funcionalidades), você pode instalar o Tampermonkey da seguinte forma:
 
 Endereço do Tampermonkey: https://download.immersivetranslate.com/immersive-translate.user.js
 
@@ -119,4 +119,4 @@ Você ainda pode fazer estas coisas para nos ajudar agora:
 <!-- - Ajude a responder perguntas de usuários em [Grupos do Telegram](https://t.me/+rq848Z09nehlOTgx). -->
 - Ajude a responder perguntas de usuários em [GitHub Issue](https://github.com/immersive-translate/immersive-translate/issues).
 
-Nos últimos dois anos, o Immersive Translate ajudou 10 milhões de usuários a desenvolver o hábito de ler informações em línguas estrangeiras, provando que boas ferramentas são cruciais para quebrar barreiras de informação. Agradecemos a todos que ajudaram o Immersive Translate; continuaremos melhorando nosso produto para que mais pessoas possam se beneficiar da tecnologia.
+Nos últimos dois anos, o Immersive Translate ajudou 10 milhões de usuários a desenvolver o hábito de ler conteúdo em idiomas estrangeiros, provando que boas ferramentas são cruciais para quebrar barreiras de informação. Obrigado a todos que ajudaram o Immersive Translate; continuaremos a melhorar nosso produto para ajudar mais pessoas a se beneficiarem da tecnologia.
