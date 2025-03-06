@@ -119,4 +119,4 @@ Then we step by step to optimize for various reading needs, including support fo
 <!-- - [Telegram グループ](https://t.me/+rq848Z09nehlOTgx) でユーザーの質問に答えるのを手伝う。 -->
 - [GitHub Issue](https://github.com/immersive-translate/immersive-translate/issues) でユーザーの質問に答えるのを手伝う。
 
-過去2年間、Immersive Translateは1000万人のユーザーが外国語の情報を読む習慣を身につけるのを支援し、情報障壁を打ち破るために優れたツールが不可欠であることを証明してきました。Immersive Translateを支援してくださった皆様に感謝いたします。より多くの人々が技術の恩恵を受けられるよう、製品の改善を続けてまいります。
+過去 2 年間、Immersive Translate は 1000 万人のユーザーが外国語の情報を読む習慣を身につけるのを支援し、情報障壁を打ち破るために優れたツールが不可欠であることを証明してきました。Immersive Translate を支援してくださった皆様に感謝いたします。より多くの人々が技術の恩恵を受けられるよう、製品の改善を続けてまいります。

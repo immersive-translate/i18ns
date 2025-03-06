@@ -119,4 +119,4 @@ Then we step by step to optimize for various reading needs, including support fo
 <!-- - [Telegram Groups](https://t.me/+rq848Z09nehlOTgx)에서 사용자 질문에 답변 -->
 - [GitHub Issue](https://github.com/immersive-translate/immersive-translate/issues)에서 사용자 질문에 답변
 
-지난 2년 동안 Immersive Translate은 1천만 명의 사용자가 외국어 정보를 읽는 습관을 기르도록 도왔으며, 이는 좋은 도구가 정보 장벽을 깨는 데 얼마나 중요한지를 입증했습니다. Immersive Translate을 도와주신 모든 분들께 감사드립니다. 더 많은 사람들이 기술의 혜택을 누릴 수 있도록 제품을 계속 개선해 나가겠습니다.
+지난 2 년 동안 Immersive Translate 은 1 천만 명의 사용자가 외국어 정보를 읽는 습관을 기르도록 도왔으며, 이는 좋은 도구가 정보 장벽을 깨는 데 얼마나 중요한지를 입증했습니다. Immersive Translate 을 도와주신 모든 분들께 감사드립니다. 더 많은 사람들이 기술의 혜택을 누릴 수 있도록 제품을 계속 개선해 나가겠습니다.
