@@ -17,6 +17,7 @@ The **Preview version** is published more frequently and includes some experimen
 ## 1.15.2 Release (2025-03-02)
 
 - Added: Gemini supports Portuguese (Brazil).
+- Added: Grok, Ollama, Groq, Azure-OpenAI translation service.
 - Optimized: Improved the accuracy of automatically identifying the language of translated content.
 - Optimized: [Free image translation] supports formatting for languages from right to left.
 - Optimized: Compatible with models like o1, o3 that don't support system role (system role parameter will not be passed when System Prompt configuration is empty).

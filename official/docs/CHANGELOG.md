@@ -17,6 +17,7 @@ sidebar_position: 6
 ## 1.15.2 Release (2025-03-02)
 
 - 新增：Gemini 支持葡萄牙语（巴西）。
+- 新增：Grok, Ollama, Groq, Azure-OpenAI 翻译服务。
 - 优化：提高翻译内容自动识别语言的准确性。
 - 优化：【免费图片翻译】增加对从右到左阅读语言的排版支持。
 - 优化：兼容 o1，o3 这类不支持 system 角色的模型（System Prompt 配置为空时不再传 system 角色参数）。
