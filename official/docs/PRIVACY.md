@@ -5,13 +5,14 @@ custom_edit_url: null
 
 # 隐私协议
 
-最后更新时间：2025 年 02 月 25 日
+最后更新时间：2025 年 03 月 07 日
 
-本次主要更新：补充移动端应用所需权限及其使用场景。
+本次主要更新：补充运营者基本信息。
 
 ## 前言
 
-沉浸式翻译及服务提供者（以下统称“沉浸式翻译”或“我们”）一向庄严承诺保护使用沉浸式翻译的产品和服务（以下统称“沉浸式翻译服务”）之用户（以下统称“用户”或“您”）的个人信息和隐私安全。我们希望通过《沉浸式翻译隐私协议》（以下简称“本协议”）向您说明我们在收集和使用您相关个人信息时对应的处理规则等相关事宜，以便更好地保障您的权益。
+
+《沉浸式翻译隐私协议》（以下称“本协议”）适用于北京推文信息科技有限公司，上海书同文网络科技有限公司及其关联公司（以下简称“我们”）推出的沉浸式翻译服务（以下简称“沉浸式翻译”或“本服务”）。您在使用本服务前，请仔细阅读本政策，以了解我们处理您个人信息的详情。我们一向庄严承诺保护使用沉浸式翻译的产品和服务之用户（以下统称“用户”或“您”）的个人信息和隐私安全。我们希望通过本协议向您说明我们在收集和使用您相关个人信息时对应的处理规则等相关事宜，以便更好地保障您的权益。
 
 ## 数据收集及使用说明
 
@@ -59,9 +60,36 @@ custom_edit_url: null
 
 ## 关于移动端应用的第三方 SDK 说明
 
-- **沉浸式翻译**使用**Adjust**进行应用市场广告投放及效果分析，**Adjust SDK**会收集无法直接识别用户的去身份化的数据，包括**设备标识码（IMEI，Android ID、OAID）**、曝光、点击等广告数据。关于 Adjust 的更多信息可访问[官网链接](https://www.adjust.com/)及[隐私协议链接](https://www.adjust.com/terms/privacy-policy/)
-- **沉浸式翻译**使用**Meta Pixel**进行 Facebook 广告投放及效果分析，**Facebook SDK**会收集无法直接识别用户的去身份化的数据，包括**设备标识码（IMEI，Android ID、OAID）**、曝光、点击等广告数据。关于 Meta Pixel 的更多信息可访问[Facebook 隐私协议](https://www.facebook.com/privacy/policy/)及[Meta Pixel 条款与政策](https://developers.facebook.com/docs/meta-pixel/guides/terms-and-policies)
-- **沉浸式翻译**接入了**Google**和**Facebook**的第三方登录 SDK，以便为用户提供更便捷的登录方式。当用户选择通过 Google 或 Facebook 账号登录时，用户的身份信息（如用户名、邮箱地址等）将由相应的第三方平台提供，并受其隐私政策和服务条款的约束。
+我们的应用集成了以下第三方SDK：
+
+1. **Adjust SDK**
+   - SDK提供方：Adjust GmbH
+   - 收集目的：应用市场广告投放及效果分析
+   - 收集方式：自动采集
+   - 收集范围：设备标识码（IMEI，Android ID、OAID）、广告数据（曝光、点击）
+   - 隐私政策：[Adjust 隐私协议](https://www.adjust.com/terms/privacy-policy/)
+
+2. **Meta Pixel SDK**
+   - SDK提供方：Meta Platforms, Inc.
+   - 收集目的：Facebook广告投放及效果分析
+   - 收集方式：自动采集
+   - 收集范围：设备标识码（IMEI，Android ID、OAID）、广告数据（曝光、点击）
+   - 隐私政策：[Facebook 隐私协议](https://www.facebook.com/privacy/policy/)
+   - 补充条款：[Meta Pixel 条款与政策](https://developers.facebook.com/docs/meta-pixel/guides/terms-and-policies)
+
+3. **Google登录 SDK**
+   - SDK提供方：Google LLC
+   - 收集目的：提供第三方账号登录服务
+   - 收集方式：用户授权获取
+   - 收集范围：用户基本信息（用户名、邮箱地址）
+   - 隐私政策：[Google 隐私权和条款](https://policies.google.com/privacy)
+
+4. **Facebook登录 SDK**
+   - SDK提供方：Meta Platforms, Inc.
+   - 收集目的：提供第三方账号登录服务
+   - 收集方式：用户授权获取
+   - 收集范围：用户基本信息（用户名、邮箱地址）
+   - 隐私政策：[Facebook 隐私协议](https://www.facebook.com/privacy/policy/)
 
 ## 关于 Safari 扩展的权限说明
 
@@ -84,6 +112,13 @@ Safari 浏览器的这种做法是为了确保用户对任何安装的扩展都�
 访问和修改网页内容的权限允许我们的扩展将您看到的网页从一种语言翻译成另一种语言。不论在 Safari 还是 Chrome 浏览器中，我们深知隐私的重要性，并承诺在不绝对必要的情况下不会请求额外权限，我们鼓励所有用户，无论您使用的是 Safari 还是 Chrome 浏览器，都阅读我们的隐私政策，以更深入地了解我们如何收集、使用和保护您的数据。我们的政策中明确说明了我们对用户隐私的承诺和实践。
 
 如果您对我们的隐私政策有任何疑问或需要咨询，欢迎通过 support@immersivetranslate.com 与我们联系。
+
+## 运营者基本信息
+
+- 运营主体：北京推文信息科技有限公司
+- 注册地址：北京市海淀区翠微中里14号楼三层B526
+- 常用办公地址：北京市朝阳区建国路108号横琴人寿大厦
+- 信息保护负责人联系方式：support@immersivetranslate.com
 
 ## 附录
 
