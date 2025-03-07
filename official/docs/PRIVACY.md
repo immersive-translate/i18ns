@@ -60,32 +60,32 @@ custom_edit_url: null
 
 ## 关于移动端应用的第三方 SDK 说明
 
-我们的应用集成了以下第三方SDK：
+我们的应用集成了以下第三方 SDK：
 
 1. **Adjust SDK**
-   - SDK提供方：Adjust GmbH
+   - SDK 提供方：Adjust GmbH
    - 收集目的：应用市场广告投放及效果分析
    - 收集方式：自动采集
    - 收集范围：设备标识码（IMEI，Android ID、OAID）、广告数据（曝光、点击）
    - 隐私政策：[Adjust 隐私协议](https://www.adjust.com/terms/privacy-policy/)
 
 2. **Meta Pixel SDK**
-   - SDK提供方：Meta Platforms, Inc.
-   - 收集目的：Facebook广告投放及效果分析
+   - SDK 提供方：Meta Platforms, Inc.
+   - 收集目的：Facebook 广告投放及效果分析
    - 收集方式：自动采集
    - 收集范围：设备标识码（IMEI，Android ID、OAID）、广告数据（曝光、点击）
    - 隐私政策：[Facebook 隐私协议](https://www.facebook.com/privacy/policy/)
    - 补充条款：[Meta Pixel 条款与政策](https://developers.facebook.com/docs/meta-pixel/guides/terms-and-policies)
 
-3. **Google登录 SDK**
-   - SDK提供方：Google LLC
+3. **Google 登录 SDK**
+   - SDK 提供方：Google LLC
    - 收集目的：提供第三方账号登录服务
    - 收集方式：用户授权获取
    - 收集范围：用户基本信息（用户名、邮箱地址）
    - 隐私政策：[Google 隐私权和条款](https://policies.google.com/privacy)
 
-4. **Facebook登录 SDK**
-   - SDK提供方：Meta Platforms, Inc.
+4. **Facebook 登录 SDK**
+   - SDK 提供方：Meta Platforms, Inc.
    - 收集目的：提供第三方账号登录服务
    - 收集方式：用户授权获取
    - 收集范围：用户基本信息（用户名、邮箱地址）
@@ -116,8 +116,8 @@ Safari 浏览器的这种做法是为了确保用户对任何安装的扩展都�
 ## 运营者基本信息
 
 - 运营主体：北京推文信息科技有限公司
-- 注册地址：北京市海淀区翠微中里14号楼三层B526
-- 常用办公地址：北京市朝阳区建国路108号横琴人寿大厦
+- 注册地址：北京市海淀区翠微中里 14 号楼三层 B526
+- 常用办公地址：北京市朝阳区建国路 108 号横琴人寿大厦
 - 信息保护负责人联系方式：support@immersivetranslate.com
 
 ## 附录
