@@ -14,15 +14,26 @@ sidebar_position: 6
 - [Firefox 應用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.15.3 Preview (2025-03-11)
+
+- 新增：支持設置預翻譯的屏幕數量，瀏覽當前頁面時提前翻譯後面n屏的內容。
+- 修復：AI 翻譯服務在翻譯繁體中文時錯誤輸出簡體中文的問題。
+- 修復：【譯文在前】模式下滑鼠懸停翻譯失效的問題。
+- 修復：【僅譯文】模式下與 Reader View 等閱讀插件一起使用時的兼容性問題。
+- 優化：提升 AI 翻譯服務對正文內容的翻譯質量。
+- 優化：改進特定網站圖片翻譯的支持。
+- 優化：【富文本】模式下中英文混排的排版優化。
+- 優化：Gemini 翻譯服務支持自定義系統提示詞（System Prompt）。
+
 ## 1.15.2 Release (2025-03-02)
 
 - 新增：Gemini 支持葡萄牙語（巴西）。
 - 新增：Grok, Ollama, Groq, Azure-OpenAI 翻譯服務。
+- 修復：Google Meet 和 Microsoft Teams 字幕翻譯問題。
+- 修復：谷歌翻譯出現轉義符號的問題。
 - 優化：提高翻譯內容自動識別語言的準確性。
 - 優化：【免費圖片翻譯】增加對從右到左閱讀語言的排版支持。
 - 優化：兼容 o1，o3 這類不支持 system 角色的模型（System Prompt 配置為空時不再傳 system 角色參數）。
-- 修復：Google Meet 和 Microsoft Teams 字幕翻譯問題。
-- 修復：谷歌翻譯出現轉義符號的問題。
 
 ## 1.14.16 Release (2025-02-21)
 

@@ -14,15 +14,26 @@ The **Preview version** is published more frequently and includes some experimen
 - [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.15.3 Preview (2025-03-11)
+
+- Added: Support setting the number of screens to be pre-translated when browsing the current page.
+- Fixed: An issue where the AI translation service incorrectly output Simplified Chinese when translating Traditional Chinese.
+- Fixed: An issue with the hover translation not working in the "Translation first, original text follows" mode.
+- Fixed: Compatibility issues with the "Translation Only" mode when used with reading plugins like Reader View.
+- Optimized: Improved the quality of AI translation service for main content.
+- Optimized: Improved the support for image translation on certain websites.
+- Optimized: Optimized the formatting of mixed Chinese and English text.
+- Optimized: Gemini translation service supports custom system prompt (System Prompt).  
+
 ## 1.15.2 Release (2025-03-02)
 
 - Added: Gemini supports Portuguese (Brazil).
 - Added: Grok, Ollama, Groq, Azure-OpenAI translation service.
+- Fixed: Google Meet and Microsoft Teams subtitle translation issue.
+- Fixed: Google translation issue with escape characters.
 - Optimized: Improved the accuracy of automatically identifying the language of translated content.
 - Optimized: [Free image translation] supports formatting for languages from right to left.
 - Optimized: Compatible with models like o1, o3 that don't support system role (system role parameter will not be passed when System Prompt configuration is empty).
-- Fixed: Google Meet and Microsoft Teams subtitle translation issue.
-- Fixed: Google translation issue with escape characters.
 
 ## 1.14.16 Release (2025-02-21)
 
