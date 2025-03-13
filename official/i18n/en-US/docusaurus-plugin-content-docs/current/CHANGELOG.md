@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 
 ## 1.15.3 Preview (2025-03-13)
 
-- Added: Support setting the number of screens to be pre-translated when browsing the current page.
+- Added: Dynamic pre-translation of content to be translated when browsing pages.
 - Fixed: An issue where the AI translation service incorrectly output Simplified Chinese when translating Traditional Chinese.
 - Fixed: An issue with the hover translation not working in the "Translation first, original text follows" mode.
 - Fixed: Compatibility issues with the "Translation Only" mode when used with reading plugins like Reader View.
