@@ -14,7 +14,7 @@ sidebar_position: 6
 - [Firefox 應用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.15.3 Preview (2025-03-11)
+## 1.15.3 Preview (2025-03-13)
 
 - 新增：支持設置預翻譯的屏幕數量，瀏覽當前頁面時提前翻譯後面n屏的內容。
 - 修復：AI 翻譯服務在翻譯繁體中文時錯誤輸出簡體中文的問題。
