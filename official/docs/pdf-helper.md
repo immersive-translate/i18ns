@@ -34,7 +34,7 @@ sidebar_position: 4
 
 因为默认译文高度和宽度默认和原文段落一样，当译文内容超过原文的时候就会出现溢出，这种时候可以通过内滚查看。也可以右下角拖拽适当放大这个文本框让内容完全展示。
 
-## 控制样式按钮
+## 样式设置按钮
 
 ![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-control.png)
 

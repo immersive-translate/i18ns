@@ -34,7 +34,7 @@ sidebar_position: 4
 
 因為預設譯文高度和寬度預設和原文段落一樣，當譯文內容超過原文的時候就會出現溢位，這種時候可以透過內滾檢視。也可以右下角拖拽適當放大這個文字框讓內容完全展示。
 
-## 控制樣式按鈕
+## 樣式設置按鈕
 
 ![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/pdf-control.png)
 
