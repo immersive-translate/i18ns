@@ -11,7 +11,8 @@
 5. [彩云小译](./services/caiyun.md)
 6. [OpenL](https://docs.openl.club/#/)
 7. [有道翻译](./services/youdao.md)
-8. [小牛翻译](https://niutrans.com/documents/contents/beginning_guide/6)
+8. [有道子曰大模型翻译](./services/youdao-ziyue.md)
+9. [小牛翻译](https://niutrans.com/documents/contents/beginning_guide/6)
 
 - [密钥申请和配置教程](apikey.md)
   - [Deepl](./services/deepL.md)
@@ -21,4 +22,5 @@
   - [彩云小译](./services/caiyun.md)
   - [OpenL](./services/openL.md)
   - [有道翻译](./services/youdao.md)
+  - [有道子曰大模型翻译](./services/youdao-ziyue.md)
   - [小牛翻译](./services/niu.md)

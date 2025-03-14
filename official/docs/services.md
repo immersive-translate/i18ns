@@ -40,6 +40,8 @@
   - API 接口：https://api.niutrans.com/NiuTransServer/translation
 - [有道翻译](./services/youdao.md)
   - API 接口：https://openapi.youdao.com/api
+- [有道子曰大模型翻译](./services/youdao-ziyue.md)
+  - API 接口：https://openapi.youdao.com/llm_trans
 - [自定义接口翻译](./services/custom.md)
 
 ## 免责声明
