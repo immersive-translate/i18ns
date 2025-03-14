@@ -14,7 +14,7 @@ sidebar_position: 6
 - [Firefox 应用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.15.3 Preview (2025-03-13)
+## 1.15.4 Preview (2025-03-13)
 
 - 新增：浏览页面时动态进行待翻译内容的预翻译。
 - 修复：AI 翻译服务在翻译繁体中文时错误输出简体中文的问题。
@@ -24,6 +24,7 @@ sidebar_position: 6
 - 优化：改进图片翻译在特定网站的支持。
 - 优化：【富文本】模式下中英文混排的排版优化。
 - 优化：Gemini 翻译服务支持自定义系统提示词（System Prompt）。
+- 优化：油猴请求速度。
 
 ## 1.15.2 Release (2025-03-02)
 
