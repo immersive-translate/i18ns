@@ -6,9 +6,11 @@ sidebar_position: 9
 
 ## 安全相關
 
-### 1. Android App，手機安全中心誤報
+### 1. Android App，懸浮球消失
 
-經開發排查這是由於騰訊安全中心誤報，可從 [官網](https://immersivetranslate.com/) 解除安裝安裝最新版本
+舊版本附加元件被禁用，[官網](https://immersivetranslate.com/) 解除安裝並安裝最新版本。
+
+![](https://s.immersivetranslate.com/assets/r2-uploads/20250315-164108.jpeg)
 
 ## 安裝相關
 

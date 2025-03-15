@@ -4,6 +4,10 @@ sidebar_position: 9
 
 # FAQ
 
+### 1. Android App, floating ball disappeared
+
+Old version add-ons are disabled, uninstall and install the latest version from [official website](https://immersivetranslate.com/).
+
 ## Main content on websites like Youtube, Facebook is translated, but some sidebars are not, I want to translate everything
 
 For the sake of page readability, immersive translation by default only translates the main content area. If you want to translate everything.
