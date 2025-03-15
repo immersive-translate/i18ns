@@ -4,22 +4,35 @@ sidebar_position: 9
 
 # FAQ
 
-## Impossible de télécharger depuis l'Apple Store
+### 1. Android App, floating ball disappeared
 
-- 2023.07.28 : L'Apple Store a été rétrogradé en Chine conformément à la politique
-- 2023.08.05 : a été relancé en Chine
+Les anciens add-ons sont désactivés, désinstallez et installez la dernière version depuis le [site officiel](https://immersivetranslate.com/).
+
+## Le contenu principal sur des sites comme Youtube, Facebook est traduit, mais certaines barres latérales ne le sont pas, je veux tout traduire
+
+Pour la lisibilité de la page, la traduction immersive traduit par défaut uniquement la zone de contenu principal. Si vous souhaitez tout traduire.
+
+Ouvrez le panneau de la bulle flottante (appui long sur mobile) -> Cliquez sur plus en bas à droite -> Sélectionnez toutes les zones
+
+## La bulle flottante n'est pas affichée dans les applications Youtube (ou autres) sur mobile
+
+Les plugins de navigateur ne peuvent fonctionner que dans les navigateurs et ne peuvent pas être utilisés dans d'autres applications.
+
+- Cliquer sur YouTube dans un navigateur iOS ouvre directement l'application.
+
+  Appuyez et maintenez le lien YouTube pour faire apparaître une fenêtre flottante et choisissez d'ouvrir dans une page web.
 
 ## Comment désactiver la traduction automatique
 
-- Annuler dans le panneau Popup ou sur la page des paramètres.
+- Annulez dans le panneau contextuel ou sur la page des paramètres.
 
 <img src="https://s.immersivetranslate.com/assets/turn_off_automatic_translation_en.jpeg" alt="désactiver la traduction automatique" width="250" />
 
-<!-- - Ou changer : via la page des paramètres
+<!-- - Ou changez : via la page des paramètres
 
 ![](https://github.com/immersive-translate/immersive-translate/assets/62473795/d33ac7c0-a47b-4901-b5f6-c6a991164dc0) -->
 
-## Pas la permission de traduire la page actuelle
+## Pas de permission pour traduire la page actuelle
 
 - Page par défaut du navigateur (pas d'adresse dans la barre d'adresse)
 - Page de plugin tiers
@@ -27,7 +40,7 @@ sidebar_position: 9
 
 ## Comment ne pas afficher le texte original ?
 
-Tapez sur l'icône Immersive Translate pour ouvrir le panneau d'expansion, tapez sur [Plus], [Passer en mode Traduction Seule]
+Appuyez sur l'icône Immersive Translate pour ouvrir le panneau d'expansion, appuyez sur [Plus], [Passer en mode traduction uniquement]
 
 ## Un point d'exclamation apparaît sur la page
 
@@ -35,23 +48,23 @@ Un point d'exclamation sur la page indique que le service de traduction a rencon
 
 ### Erreur 429
 
-Ceci est l'une des erreurs les plus courantes, l'erreur 429 indiquant que la fréquence des requêtes est trop rapide. La traduction de pages web implique un très grand nombre de paragraphes à traduire, bien que nous ayons réalisé une grande optimisation, incluant la fusion de paragraphes, le contrôle de fréquence, etc. Cependant, il arrive parfois que certains services de traduction soient surchargés, renvoyant une erreur de limite de fréquence 429. Dans ce cas, vous pouvez généralement passer temporairement à d'autres services de traduction, ou attendre un moment et réessayer.
+C'est l'une des erreurs les plus courantes, 429 indiquant que la fréquence des requêtes est trop rapide. La traduction de pages web comporte un très grand nombre de paragraphes à traduire, bien que nous ayons fait de grandes optimisations, y compris la fusion de paragraphes, le contrôle de la fréquence, etc., mais parfois certains services de traduction sont encore surchargés, renvoyant une erreur de limite de fréquence 429, à ce moment-là, vous pouvez généralement passer temporairement à d'autres services de traduction, ou attendre un moment et réessayer.
 
-Si vous rencontrez une erreur 429 avec un service de Google, il s'agit généralement d'une limitation de trafic imposée par Google à votre nœud, et il est recommandé de changer de nœud.
+Si vous rencontrez une erreur 429 avec un service Google, il s'agit généralement d'une limitation de trafic de Google contre votre nœud, et il est recommandé de changer de nœud.
 
 ## Traduction de documents locaux
 
-Si vous avez besoin de traduire des fichiers HTML locaux, des fichiers txt ou des fichiers PDF, vous pouvez cliquer sur l'icône de l'extension Immersive Translate, puis cliquer sur [Plus], cliquer sur [Traduire des fichiers PDF] ou [Traduire des fichiers HTML/txt] pour traduire des fichiers locaux.
+Si vous avez besoin de traduire des fichiers HTML locaux, des fichiers txt ou des fichiers PDF, vous pouvez cliquer sur l'icône d'extension Immersive Translate, puis cliquer sur [Plus], cliquer sur [Traduire des fichiers PDF] ou [Traduire des fichiers HTML/txt] pour traduire des fichiers locaux.
 
-Si vous utilisez des navigateurs de type Chrome, tels que (Chrome, Arc, navigateur Edge), il existe une autre méthode, qui consiste à ouvrir la page de gestion des extensions du navigateur `chrome://extensions`, trouver le plug-in [Immersive Translate], [Permettre à l'extension d'accéder aux fichiers locaux], puis directement dans le navigateur pour ouvrir le fichier HTML local ou le fichier PDF local, vous pouvez directement cliquer avec le bouton droit sur [traduction].
+Si vous utilisez des navigateurs de type Chrome, tels que (Chrome, Arc, Edge), il existe une autre méthode, qui consiste à ouvrir la page de gestion des extensions du navigateur `chrome://extensions`, trouver le plugin [Immersive Translate], [Autoriser l'extension à accéder aux fichiers locaux], puis directement dans le navigateur pour ouvrir le fichier HTML local ou le fichier PDF local, vous pouvez directement faire un clic droit [traduction].
 
 ## Comment mettre à jour l'extension ?
 
-En général, pour les extensions installées depuis le magasin du navigateur, le navigateur les mettra automatiquement à jour. La situation générale sera mise à jour automatiquement dans un délai d'un jour après la mise à jour de l'extension. Si vous souhaitez immédiatement mettre à jour vers la dernière version, vous pouvez, sur la page [Gestion des extensions] du navigateur, ouvrir le [Mode développeur], puis cliquer sur [Mises à jour] en haut, pour mettre à jour immédiatement vers la dernière version disponible dans le magasin.
+En général, les extensions installées dans le magasin de navigateurs seront automatiquement mises à jour, la situation générale sera automatiquement mise à jour dans un délai d'un jour après la mise à jour de l'extension, si vous souhaitez mettre à jour immédiatement vers la dernière version, vous pouvez dans la page [Gestion des extensions] du navigateur, ouvrir le [Mode développeur], puis cliquer en haut sur [Mises à jour], vous pouvez immédiatement mettre à jour vers la dernière version du magasin.
 
 ![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/update-extension.png)
 
-## Configuration des sous-titres sur Youtube
+## Style de configuration des sous-titres Youtube
 
 Vous pouvez cliquer sur les paramètres de sous-titres propres à Youtube, [Options], puis vous pouvez ajuster la taille, la couleur, etc.
 
@@ -59,7 +72,7 @@ Vous pouvez cliquer sur les paramètres de sous-titres propres à Youtube, [Opti
 
 ## Navigateurs pris en charge par Immersive Translate Tampermonkey
 
-Extensions Grease Monkey recommandées pour Chrome, Firefox sur ordinateur :
+Extensions Grease Monkey recommandées pour Chrome, Firefox sur ordinateur de bureau :
 
 - [Tamper Monkey](https://www.tampermonkey.net/)
 
@@ -71,107 +84,107 @@ Extension Grease Monkey recommandée pour Safari :
 
 Extensions Grease Monkey recommandées pour Android :
 
-1. Vous pouvez installer l'extension [Tamper Monkey](https://www.tampermonkey.net/) en utilisant [Firefox Dernière Version](https://www.mozilla.org/firefox/browsers/mobile/android/).
+1. Vous pouvez installer l'extension [Tamper Monkey](https://www.tampermonkey.net/) en utilisant [Firefox Latest Version](https://www.mozilla.org/firefox/browsers/mobile/android/).
 
-<!-- 2. Vous pouvez également utiliser directement [X Browser](https://www.xbext.com/?ref=immersive-translate), après l'installation, ouvrez directement [Adresse Tampermonkey Immersive Translate](https://download.immersivetranslate.com/immersive-translate.user.js) pour l'installer ! -->
+<!-- 2. Vous pouvez également utiliser directement [X Browser](https://www.xbext.com/?ref=immersive-translate), après l'installation, ouvrez directement [Immersive Translate Tampermonkey Address](https://download.immersivetranslate.com/immersive-translate.user.js) pour l'installer ! -->
 
-<!-- Extensions Grease Monkey connues non prises en charge :
+<!-- Extensions Grease Monkey non prises en charge connues :
 
-- Navigateur Android Via
-- Navigateur iOS Alook -->
+- Android Via Browser
+- iOS Alook Browser -->
 
-(car ces navigateurs n'implémentent pas l'API Grease Monkey requise)
+(comme ces navigateurs n'implémentent pas l'API Grease Monkey requise)
 
-## Problème d'accès bloqué à l'interface de Google Translate
+## Problème d'interface Google Translate bloquée
 
 Veuillez ajouter le nom de domaine `translate.googleapis.com` à la règle de proxy
 
 ## Comment mettre à jour les dernières règles
 
-L'extension elle-même se synchronisera régulièrement avec les dernières règles d'adaptation du site officiel lorsque vous l'utilisez, vous pouvez également synchroniser manuellement avec les dernières règles en cliquant sur l'icône de l'Extension de Traduction Immersive du navigateur pour ouvrir une fenêtre pop-up où l'extension détectera automatiquement les dernières règles d'adaptation et se synchronisera avec elles, il en va de même pour Tampermonkeys.
+L'extension elle-même synchronisera régulièrement les dernières règles d'adaptation du site officiel lorsque vous l'utiliserez, vous pouvez également synchroniser manuellement les dernières règles en cliquant sur l'icône d'extension Immersive Translate du navigateur pour ouvrir une fenêtre contextuelle où l'extension détectera automatiquement les dernières règles d'adaptation et les synchronisera, il en va de même pour les Tampermonkeys.
 
-## Comment puis-je sauvegarder mon retour d'information sur la page web si j'ai des problèmes avec la traduction de la page web ?
+## Comment enregistrer mes retours de page web si j'ai des problèmes avec la traduction de la page web ?
 
-Vous devez cliquer droit "Enregistrer sous" ou utiliser le raccourci ctrl+s dans la page web, choisir l'option de sauvegarde de fichier unique, et finalement le format de fichier est .mht/.mhtml. Ensuite, envoyez le fichier à support@immersivetranslate.com
+Vous devez faire un clic droit "Enregistrer sous" ou utiliser le raccourci ctrl+s dans la page web, choisir un fichier unique pour l'option d'enregistrement, et enfin le format de fichier est .mht/.mhtml. Ensuite, envoyez le fichier à support@immersivetranslate.com
 
-<!-- ![sauvegarder mht](https://s.immersivetranslate.com/static/official-static/assets/save_mht.png) -->
+<!-- ![save mht](https://s.immersivetranslate.com/static/official-static/assets/save_mht.png) -->
 
-## Erreur de Traduction Nuage de Couleurs
+## Erreur de traduction Color Cloud
 
-Tapez à côté ? Le message d'erreur pour le numéro "Type de traduction non pris en charge" est affiché. Vous pouvez sélectionner la langue pour être détectée automatiquement au moyen de la langue spécifiée.
+Appuyez pour quitter ? Le message d'erreur pour le numéro "Unsupported trans_type" est affiché. Vous pouvez sélectionner la langue à détecter automatiquement par le biais de la langue spécifiée.
 
-## La Lecture WeChat Ne Peut Pas Être Traduite
+## La lecture WeChat ne peut pas être traduite
 
-Elle ne peut pas être traduite car La Lecture WeChat a effectué un traitement spécial sur le contenu pour empêcher l'accès au contenu par des moyens tiers.
+Elle ne peut pas être traduite car la lecture WeChat a fait un traitement spécial pour le contenu afin d'empêcher l'accès au contenu par des moyens tiers.
 
-## La traduction déclenchée n'est pas effective
+## Le déclenchement de la traduction n'a pas d'effet
 
-D'autres sites traduisent, mais pas un site en particulier.
+D'autres sites traduisent, mais un site ne le fait pas.
 
 - Si ce site a moins de visiteurs
-  - Paragraphes suggérés à traduire en survolant avec la souris
-  - Si vous avez besoin de traduire tout le site, vous pouvez l'adapter via [règles utilisateur](/docs/advanced/#user-rules)
-- Si ce site est utilisé par beaucoup de personnes
-  - Vous pouvez commencer par survoler avec la souris pour utiliser la traduction
+  - Paragraphes suggérés à traduire en survolant la souris
+  - Si vous avez besoin de traduire l'ensemble du site, vous pouvez l'adapter via [règles utilisateur](/docs/advanced/#user-rules)
+- Si ce site est utilisé par beaucoup de gens
+  - Vous pouvez commencer par survoler la souris pour traduire l'utilisation
   - Appelez-le dans le groupe et il sera adapté plus tard
 
-## L'amélioration de la boîte de saisie n'est pas effective
+## L'amélioration de la boîte de saisie n'a pas d'effet
 
 - Page d'accueil du navigateur Recherche Google
 
-La boîte de recherche Google doit se trouver dans l'URL de la page web [Google](https://www.google.com/) et ne peut pas être utilisée dans la page d'accueil du navigateur, les espaces de la barre d'adresse vide
+La boîte de recherche Google doit être dans l'URL de la page web [Google](https://www.google.com/), et ne peut pas être utilisée dans la page d'accueil du navigateur, les endroits vides de la barre d'adresse
 
-## Journal de débogage des retours
+## Journal de débogage de retour
 
 - Activer la journalisation de débogage
-  Ouvrir le Panneau -> Paramètres -> Paramètres du développeur -> Activer "Imprimer le journal de débogage dans la console".
+  Ouvrir le panneau -> Paramètres -> Paramètres développeur -> Activer "Imprimer le journal de débogage dans la console".
 - Ouvrir la console du site
-  Clic droit pour ouvrir la révision -> Passer à la console en haut de la colonne de droite -> Effectuer l'action pour voir les journaux
+  Clic droit pour ouvrir l'examen -> Passer à la console en haut de la colonne de droite -> Effectuer l'action pour voir les journaux
 
-## Comment désactiver le hoverball
+## Comment désactiver la bulle flottante
 
 - Masquer sur la page actuelle
 
-Définissez-le sur "Ne jamais traduire ce site".
+Réglez-le sur "Ne jamais traduire ce site".
 
 - Masquer sur toutes les pages
 
-Ouvrez [Page des Paramètres] - [Paramètres de l'Interface] et désactivez [Afficher le Hoverball sur la Page].
+Ouvrez [Page des paramètres] - [Paramètres de l'interface] et désactivez [Afficher la bulle flottante sur la page].
 
-## Erreur lors de l'installation du programme d'installation du plugin sur chrome
+## Erreur d'installation du plugin sur chrome
 
 - valeur invalide pour web_accessible_resource[0]
 
-  Une version de Chromium supérieure à 88 est requise pour prendre en charge manifest_version 3.
+  La version de Chromium doit être supérieure à 88 pour prendre en charge manifest_version 3.
 
 ## Comment installer le navigateur 360
 
-Seul le navigateur 360 Extreme x est pris en charge, souvenez-vous, c'est avec un x. Si vous avez accès au magasin d'extensions Google, vous pouvez y aller directement et l'installer. Si vous ne pouvez pas y accéder [installez-le manuellement](/docs/installation/#installation-manuelle-pour-suivre-les-dernières-fonctionnalités-de-développement)
+Seul le navigateur 360 Extreme x est pris en charge, rappelez-vous qu'il est avec x. Si vous avez accès au magasin d'extensions Google, vous pouvez y aller directement et l'installer. Si vous ne pouvez pas y accéder [installez-le manuellement](/docs/installation/#manual-installation-to-keep-track-of-the-latest-development-features)
 
 ## Le navigateur Opera ne fonctionne pas
 
-- Il ne fonctionne pas sur google.com et d'autres pages de recherche, le plugin affiche `Veuillez actualiser la page actuelle avant de commencer la traduction` et l'actualisation de la page invite toujours ce message.
+- Il ne fonctionne pas sur google.com et d'autres pages de recherche, le plugin affiche `Veuillez actualiser la page actuelle avant de commencer la traduction` et actualiser la page affiche toujours ce message.
 
-Vous devez trouver "Immersive Translate" dans les paramètres des plugins d'Opera et activer l'option "Autoriser l'accès aux résultats des pages de recherche".
+Vous devez trouver "Immersive Translate" dans les paramètres du plugin Opera et activer l'option "Autoriser l'accès aux résultats de la page de recherche".
 
 <!-- ![](https://s.immersivetranslate.com/static/official-static/assets/opera-allow-search.png) -->
 
-## Sous-titres bilingues sur YouTube en chinois traditionnel non affichés
+## Les sous-titres bilingues de YouTube en chinois traditionnel ne s'affichent pas
 
-YouTube propose des sous-titres traduits par machine, et le chinois traditionnel présentera des erreurs de formatage, provoquant l'affichage de tous les sous-titres avec une grande section de sous-titres au début, sur la base de ce scénario, il est recommandé d'activer l'option [Utiliser Immersive Translate pour Traduire les Sous-titres] dans [Paramètres] [Sous-titres Vidéo].
+YouTube est livré avec des sous-titres traduits automatiquement, et le chinois traditionnel aura des erreurs de formatage, provoquant l'apparition de tous les sous-titres avec une grande section de sous-titres au début, dans ce cas, il est recommandé d'activer l'option [Utiliser Immersive Translate pour traduire les sous-titres] dans [Paramètres] [Sous-titres vidéo].
 
-## Plus de questions (voir beaucoup plus)
+## Plus de questions (voir beaucoup)
 
 <details>
-<summary>Comment puis-je vider mon cache avec Tampermonkey ?</summary>
+<summary>Comment vider mon cache avec Tampermonkeys ?</summary>
 <p>
-En raison de la limitation de l'API de Tampermonkey, le cache de Immersive Translate Tampermonkey sera sauvegardé dans le cache du site web correspondant, donc si vous souhaitez le vider, vous pouvez ouvrir le panneau des outils de développement du site web correspondant dans votre navigateur puis vider le cache de ce site web.
+En raison de la limitation de l'API de Tampermonkeys, le cache de Immersive Translate Tampermonkeys sera enregistré dans le cache du site web correspondant, donc si vous souhaitez le vider, vous pouvez ouvrir le panneau des outils de développement du site web correspondant dans votre navigateur, puis vider le cache de ce site web.
 </p>
 </details>
 
 <details>
-<summary>La demande d'adresse d'interface personnalisée de Tampermonkey a échoué ?</summary>
+<summary>Échec de la demande d'adresse d'interface personnalisée de Tampermonkey ?</summary>
 <p>
-Tampermonkey exige que toutes les demandes provenant du script doivent déclarer des permissions au début du script, par exemple : `@connect api.google.com`, donc si vous avez besoin d'ajouter un nouveau nom de domaine qui n'est pas le défaut, veuillez le déclarer au début du script de Tampermonkey en prenant modèle sur l'autre nom de domaine.
+Les Tampermonkeys exigent que toutes les requêtes du script doivent déclarer des permissions au début du script, par exemple :`@connect api.google.com`, donc si vous devez ajouter un nouveau nom de domaine qui n'est pas par défaut, veuillez le déclarer au début du script Tampermonkey en vous basant sur l'autre nom de domaine.
 </p>
 </details>
