@@ -14,7 +14,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.15.4 Preview (2025-03-13)
+## 1.15.5 Preview (2025-03-17)
 
 - Added: Dynamic pre-translation of content to be translated when browsing pages.
 - Fixed: An issue where the AI translation service incorrectly output Simplified Chinese when translating Traditional Chinese.
