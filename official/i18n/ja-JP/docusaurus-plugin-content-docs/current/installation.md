@@ -47,15 +47,15 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-ma
 
 ## アンドロイド
 
-[沈没翻訳アンドロイドブラウザ](/android/)をダウンロードしてください。このバージョンには沈没翻訳エクステンションが事前にインストールされており、インストール後すぐに使用できます。（注意：一部の国産スマートフォンでインストール時に表示されるセキュリティリスクの警告（これは一般的な警告です）が表示された場合は、【私はセキュリティリスクを理解しています】【インストールを続行】を選択してください）
+[没入型翻訳アンドロイドブラウザ](/android/)をダウンロードしてください。このバージョンには没入型翻訳エクステンションが事前にインストールされており、インストール後すぐに使用できます。（注意：一部の国産スマートフォンでインストール時に表示されるセキュリティリスクの警告（これは一般的な警告です）が表示された場合は、【私はセキュリティリスクを理解しています】【インストールを続行】を選択してください）
 
-また、他のアンドロイドブラウザで沈没翻訳を試すこともできます。例えば
+また、他のアンドロイドブラウザで没入型翻訳を試すこともできます。例えば
 
 - [Firefox ブラウザ Beta 版 または Nightly 版](https://www.mozilla.org/zh-CN/firefox/channel/android/)
 - [レムールブラウザ](https://lemurbrowser.com/app/zh/)
 - [キーウィブラウザ](https://kiwibrowser.com/)
 
-インストール後、アドオン / chrome ストアで[沈没翻訳](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)を検索してインストールできます。
+インストール後、アドオン / chrome ストアで[没入型翻訳](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)を検索してインストールできます。
 
 ## タンパク質スクリプトのインストール
 

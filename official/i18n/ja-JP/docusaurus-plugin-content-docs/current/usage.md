@@ -103,10 +103,10 @@ Greasemonkey スクリプトを使用している場合は、[オンラインウ
 
 ## 連絡を保つ
 
-沈没翻訳をご利用いただき、ありがとうございます。ご不明な点がございましたら、以下の方法で開発チームにご連絡いただけます：
+没入型翻訳をご利用いただき、ありがとうございます。ご不明な点がございましたら、以下の方法で開発チームにご連絡いただけます：
 
-- [沈没翻訳のメール購読を通じて](https://immersivetranslate.substack.com/) 最新の更新と（特典）をタイムリーに入手してください。
-- [沈没翻訳の公式 Twitter をフォローする](https://twitter.com/immersivetran)
+- [没入型翻訳のメール購読を通じて](https://immersivetranslate.substack.com/) 最新の更新と（特典）をタイムリーに入手してください。
+- [没入型翻訳の公式 Twitter をフォローする](https://twitter.com/immersivetran)
 - [Telegram グループに参加する](https://t.me/+rq848Z09nehlOTgx) 機能討論に参加する。
 - [Telegram チャンネルに参加する](https://t.me/immersivetranslate) 最新のニュースを受け取る
 - [フィードバックの問題](https://github.com/immersive-translate/immersive-translate/issues/)
@@ -124,7 +124,7 @@ plays-inline
 width="1200px"
 poster="https://immersivetranslate.com/assets/twitterdeskmobile.png"><source src="https://immersivetranslate.com/assets/immersive-translate-intro-demo.mp4" type="video/mp4"/>このビデオを見るには HTML5 ビデオをサポートするブラウザが必要です。</video>
 
-Note: The translation provided is intended for general communication and understanding. The specific names and terms related to the services (like "沈没翻訳" for "Immersive Translation") have been translated for a general understanding and might not reflect an official localized name if one exists.
+Note: The translation provided is intended for general communication and understanding. The specific names and terms related to the services (like "没入型翻訳" for "Immersive Translation") have been translated for a general understanding and might not reflect an official localized name if one exists.
 
 ## もっと知る
 
