@@ -14,7 +14,8 @@ Discussions related to the Translation Service API can be held [here](https://gi
 6. [OpenL](./services/openL.md)
 7. [Niu Translation](./services/niu.md)
 8. [Youdao Translator](./services/youdao.md)
-9. [Microsoft Translate](./services/azure.md)
+9. [Youdao Ziyue LLM Translator](./services/youdao-ziyue.md)
+10. [Microsoft Translate](./services/azure.md)
 
 ## Statement denying or limiting responsibility
 
