@@ -1,34 +1,34 @@
-# 翻訳サービス API の申請
+# Translation Services API Request
 
-沈没型翻訳拡張機能は多くの翻訳サービスをサポートしていますが、一部の翻訳サービスでは、該当するサービスの API キーを申請する必要があります。インターネットから以下のサービスの申請チュートリアルをまとめました。何か漏れがある場合や、最新の情報に更新されていない場合は、右上の角をクリックしてこれらのページを編集してください。
+Immersive Translate Extensionは多くの翻訳サービスをサポートしており、その中には使用する前に対応するサービスのAPIキーを申請する必要があるものもあります。私はウェブからこれらのサービスの申請チュートリアルをまとめました。もし抜けや更新が遅れている場合は、右上のボタンをクリックしてこれらのページを編集してください。
 
-翻訳サービス API に関する議論は[こちら](https://github.com/immersive-translate/immersive-translate/issues/137)で行うことができます。
+Translation Service APIに関連するディスカッションは[こちら](https://github.com/immersive-translate/immersive-translate/issues/137)で行うことができます。
 
-## 翻訳サービス
+## Interpretation Service
 
-- [Deepl](./services/deepL.md)
-- [Gemini](./services/gemini.md)
-- [彩雲小訳](./services/caiyun.md)
-- [テンセント翻訳君](./services/tencent.md)
-- [火山エンジン](./services/volcano.md)
-- [百度翻訳](./services/baidu.md)
-- [OpenL](./services/openL.md)
-- [小牛翻訳](./services/niu.md)
-- [有道翻訳](./services/youdao.md)
-- [マイクロソフト翻訳](./services/azure.md)
+1. [Deepl](./services/deepL.md)
+2. [Caiyun Xiaoyi](./services/caiyun.md)
+3. [Tencent Translator](./services/tencent.md)
+4. [Volcano Engine](./services/volcano.md)
+5. [Baidu Translate](./services/baidu.md)
+6. [OpenL](./services/openL.md)
+7. [Niu Translation](./services/niu.md)
+8. [Youdao Translator](./services/youdao.md)
+9. [Youdao Ziyue LLM Translator](./services/youdao-ziyue.md)
+10. [Microsoft Translate](./services/azure.md)
 
-## 免責事項
+## 免責または責任制限に関する声明
 
-上記のすべての翻訳サービスの料金は、完全にサービス提供者が請求するものであり、この拡張機能とは関係ありません。
+上記の翻訳サービスの料金はすべてサービスプロバイダーによって請求され、この拡張機能とは関係ありません。
 
-各サービス提供者の無料枠に注意し、予期せぬ請求を避けてください。
+予期しない請求を避けるために、各サービスプロバイダーの無料利用枠に注意してください。
 
-## 文字数についての簡単な説明
+## 文字数に関する簡単な説明
 
-文字数は、翻訳の元の言語の文字の長さを基準に計算されます。スペース、句読点なども文字数に含まれます。ほとんどのサービスでは、漢字、英字、句読点、改行記号などがすべて 1 文字としてカウントされます。例えば、マスクのこのツイートは 32 語、196 文字あります。
+文字数は、翻訳元言語の文字の長さに基づいて計算されます。スペース、句読点なども文字としてカウントされます。ほとんどのサービスでは、中国語の文字、英語の文字、句読点、改行などが1文字としてカウントされます。例えば、Muskのこのツイートには32語と196文字があります。
 
-> To be clear, I’m not someone who thinks lots of government agencies should be abolished (maybe a few), but we should always question our institutions, as this strengthens the bedrock of democracy.
+> To be clear, I'm not someone who thinks lots of government agencies should be abolished (maybe a few), but we should always question our institutions, as this strengthens the bedrock of democracy. institutions, as this strengthens the bedrock of democracy.
 
-このように、読み終わるのが難しそうな長文：[Algorithms Unlocked: How They’re Shaping Our Everyday Lives | by Two Techie Vibes | Jan, 2023 | Medium](https://twotechievibes.medium.com/algorithms-unlocked-how-theyre-shaping-our-everyday-lives-6261fa1dbad)は、約 1 万文字あります。
+このように読みにくい長い記事：[Algorithms Unlocked: How They're Shaping Our Everyday Lives | by Two Techie Vibes | Jan, 2023 | Medium](https://twotechievibes.medium.com/algorithms-unlocked-how-they're-shaping-our-everyday-lives-6261fa1dbad)は、約10,000文字の長さです。
 
-これら 2 つの例が、文字数についての感覚的な理解を深めるのに役立つことを願っています。
+これらの2つの例が文字数の感覚を与えることを願っています。
