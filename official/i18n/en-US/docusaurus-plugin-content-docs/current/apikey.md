@@ -11,7 +11,8 @@ Immersive Translate Extension supports a lot of translation services, some of th
 5. [Caiyun Xiaoyi](./services/caiyun.md)
 6. [OpenL](https://docs.openl.club/#/)
 7. [Youdao Translator](./services/youdao.md)
-8. [Translated by Maverick](https://niutrans.com/documents/contents/beginning_guide/6)
+8. [Youdao Ziyue LLM Translator](./services/youdao-ziyue.md)
+9. [Translated by Maverick](https://niutrans.com/documents/contents/beginning_guide/6)
 
 - [Key application and configuration tutorial](apikey.md)
   - [Deepl](./services/deepL.md)
@@ -21,4 +22,5 @@ Immersive Translate Extension supports a lot of translation services, some of th
   - [Caiyun Xiaoyi](./services/caiyun.md)
   - [OpenL](./services/openL.md)
   - [Youdao Translator](./services/youdao.md)
+  - [Youdao Ziyue LLM Translator](./services/youdao-ziyue.md)
   - [Niu Translation](./services/niu.md)
