@@ -14,7 +14,7 @@ sidebar_position: 6
 - [Firefox 应用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.15.5 Preview (2025-03-17)
+## 1.15.6 Preview (2025-03-18)
 
 - 新增：浏览页面时动态进行待翻译内容的预翻译。
 - 修复：AI 翻译服务在翻译繁体中文时错误输出简体中文的问题。
