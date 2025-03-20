@@ -14,6 +14,10 @@ sidebar_position: 6
 - [Firefox 應用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.15.8 Release (2025-03-20)
+
+- 修復：在同時支持滑鼠和觸控的設備上，滑鼠懸停時快捷鍵無法正常響應的問題。
+
 ## 1.15.7 Release (2025-03-19)
 
 - 新增：瀏覽頁面時動態進行待翻譯內容的預翻譯。

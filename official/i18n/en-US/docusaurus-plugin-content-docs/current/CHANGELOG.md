@@ -14,6 +14,10 @@ The **Preview version** is published more frequently and includes some experimen
 - [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.15.8 Release (2025-03-20)
+
+- Fixed: An issue where the hover translation shortcut key did not work on devices that support both mouse and touch.
+
 ## 1.15.7 Release (2025-03-19)
 
 - Added: Dynamic pre-translation of content to be translated when browsing pages.
