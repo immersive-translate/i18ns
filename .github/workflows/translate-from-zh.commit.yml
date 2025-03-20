@@ -147,4 +147,3 @@ jobs:
                - 将 '进阶' 翻译为 '進階'
                - 将 '插件' 翻译为 '外掛'
           basePath: ${{ secrets.OPENAI_BASE_PATH }}
-
