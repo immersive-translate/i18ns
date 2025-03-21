@@ -17,6 +17,7 @@ The **Preview version** is published more frequently and includes some experimen
 ## 1.15.8 Release (2025-03-20)
 
 - Fixed: An issue where the hover translation shortcut key did not work on devices that support both mouse and touch.
+- Added: Support for Youdao Ziyue large model translation.
 
 ## 1.15.7 Release (2025-03-19)
 
