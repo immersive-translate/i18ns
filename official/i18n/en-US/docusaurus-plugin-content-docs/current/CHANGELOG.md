@@ -17,7 +17,8 @@ The **Preview version** is published more frequently and includes some experimen
 ## 1.15.9 Release (2025-03-23)
 
 - Fixed: An issue where the translation did not work in Safari 16.4.
-
+- Fixed: AI translation quality degradation for Traditional Chinese.
+- Fixed: Midjourney input box enhancement issue of repeating original text.
 ## 1.15.8 Release (2025-03-20)
 
 - Fixed: An issue where the hover translation shortcut key did not work on devices that support both mouse and touch.

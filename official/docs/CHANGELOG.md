@@ -14,9 +14,12 @@ sidebar_position: 6
 - [Firefox 应用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.15.9 Release (2025-03-23)
+
+## 1.15.10 Release (2025-03-23)
 
 - 修复：safari 16.4 版本下无法正常翻译的问题
+- 修复：AI 繁体翻译质量下滑
+- 修复：midjourney 输入框增强残留原文的问题
 
 ## 1.15.8 Release (2025-03-20)
 
