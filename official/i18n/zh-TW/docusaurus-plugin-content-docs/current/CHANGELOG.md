@@ -14,6 +14,10 @@ sidebar_position: 6
 - [Firefox 應用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.15.9 Release (2025-03-23)
+
+- 修復：safari 16.4 版本下無法正常翻譯的問題。
+
 ## 1.15.8 Release (2025-03-20)
 
 - 修復：在同時支持滑鼠和觸控的設備上，滑鼠懸停時快捷鍵無法正常響應的問題。
