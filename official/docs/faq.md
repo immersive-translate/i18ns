@@ -279,6 +279,8 @@ YouTube 自带机翻字幕，繁体中文会出现格式错误，导致所有字
 
   ![](https://s.immersivetranslate.com/assets/allow-pdf-2.png)
 
+**注意**：Safari 浏览器对扩展访问本地文件有严格限制，Safari 用户请直接使用方法一，前往[沉浸式翻译文件翻译官网](https://app.immersivetranslate.com/)来翻译本地文件。
+
 ### 2. 页数过多时 PDF 文件翻译过慢
 
 建议裁剪为多个 100 页以下的部分再进行翻译，翻译完成后再进行合并

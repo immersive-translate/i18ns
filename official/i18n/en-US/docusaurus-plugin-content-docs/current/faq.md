@@ -58,6 +58,8 @@ If you need to translate local HTML files, txt files or PDF files, you can click
 
 If you are using Chrome-like browsers, such as (Chrome, Arc, Edge browser), there is another way, is to open the browser extension management page `chrome://extensions`, find the [Immersive Translate] plug-in, [Allow the extension to access local files], and then directly in the browser to open the local HTML or local PDF file, you can directly right-click [translation].
 
+**Note**: Safari browser has strict restrictions on extension access to local files. Safari users should use Method 1 directly - click the Immersive Translate extension icon, then click [More], click [Translate PDF files] or [Translate HTML/txt] files to translate local files.
+
 ## How do I update the extension?
 
 Generally speaking, extensions installed in the browser store, the browser will be automatically updated, the general situation will be automatically updated within one day after the extension update, if you want to immediately update to the latest version, you can in the browser's [Extension Management] page, open the [Developer Mode], and then click on the top of the [Updates], you can immediately update to the latest version of the store.
