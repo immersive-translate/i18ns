@@ -2,187 +2,191 @@
 sidebar_position: 9
 ---
 
-# Perguntas Frequentes - Immersive Translate
+# FAQ
 
-## Tradução de Conteúdo em Sites como YouTube e Facebook
+### 1. Android App, floating ball disappeared
 
-**P:** O conteúdo principal é traduzido, mas algumas barras laterais não. Quero traduzir tudo.
+Add-ons de versões antigas estão desativados, desinstale e instale a versão mais recente do [site oficial](https://immersivetranslate.com/).
 
-**R:** Por padrão, o Immersive Translate traduz apenas a área de conteúdo principal. Para traduzir tudo:
+## O conteúdo principal em sites como Youtube, Facebook é traduzido, mas algumas barras laterais não são, eu quero traduzir tudo
 
-1. Abra o painel da extensão (pressione longamente no celular).
-2. Clique em "Mais" no canto inferior direito.
-3. Selecione "Todas as áreas".
+Para a legibilidade da página, a tradução imersiva por padrão só traduz a área de conteúdo principal. Se você quiser traduzir tudo.
 
-## Botão Flutuante não Exibido em Aplicativos do YouTube (ou Outros) no Celular
+Abra o painel da bola flutuante (pressione e segure no celular) -> Clique em mais no canto inferior direito -> Selecione todas as áreas
 
-**P:** Por que não vejo o botão flutuante no app do YouTube?
+## Bolha Flutuante Não Exibida em Apps do Youtube (ou Outros) no Celular
 
-**R:** Plugins de navegador funcionam apenas em navegadores.
+Plugins de navegador só podem ser executados em navegadores e não podem ser usados em outros aplicativos.
 
-- **iOS:** Pressione e segure o link do YouTube para abrir em uma página da web.
+- Clicar no YouTube em um navegador iOS abre diretamente o App.
 
-## Como Desativar a Tradução Automática?
+  Pressione e segure o link do YouTube para abrir uma janela flutuante e escolha abrir em uma página da web.
 
-**R:** Cancele a tradução automática no painel pop-up ou na página de Configurações.
+## Como desativar a tradução automática
 
-<img src="https://s.immersivetranslate.com/assets/turn_off_automatic_translation_en.jpeg" alt="como desativar a tradução automática" width="250" />
+- Cancele no painel Popup ou na página de Configurações.
 
-<!-- - Ou alterando através da página de configurações
+<img src="https://s.immersivetranslate.com/assets/turn_off_automatic_translation_en.jpeg" alt="desativar tradução automática" width="250" />
+
+<!-- - Ou altere: via a página de configurações
 
 ![](https://github.com/immersive-translate/immersive-translate/assets/62473795/d33ac7c0-a47b-4901-b5f6-c6a991164dc0) -->
 
-## Não há Permissão para Traduzir a Página Atual
+## Sem permissão para traduzir a página atual
 
-**R:** Isso pode ocorrer em:
-
-- Página padrão do navegador (sem endereço na barra de endereço)
+- Página padrão do navegador (sem endereço na barra de endereços)
 - Página de plugin de terceiros
-- Página da Google Store com plugin do Google desativado
+- Plugin do Google desativa a página da Google Store
 
-## Como Ocultar o Texto Original?
+## Como não mostrar o texto original?
 
-**R:** Abra o painel da extensão, toque em [Mais] e selecione [Mudar para o modo somente tradução].
+Toque no ícone do Immersive Translate para abrir o painel de expansão, toque em [Mais], [Mudar para Modo Somente Tradução]
 
-## Ponto de Exclamação na Página
+## Exclamação aparece na página
 
-**R:** Indica um erro no serviço de tradução. Passe o mouse sobre o ponto de exclamação para ver o erro específico.
+Um ponto de exclamação na página indica que o serviço de tradução encontrou um problema e retornou um erro, você pode mover o mouse sobre o ponto de exclamação para ver o erro específico.
 
-**Erro 429:** Frequência de solicitações muito rápida. Tente mudar de serviço de tradução ou esperar um pouco. Se usar o Google, mude de nó.
+### Erro 429
 
-## Tradução de Documentos Locais
+Este é um dos erros mais comuns, 429 indica que a frequência de solicitações é muito rápida. A tradução de páginas da web tem um número muito grande de parágrafos a serem traduzidos, embora tenhamos feito uma grande otimização, incluindo a fusão de parágrafos, controle de frequência, etc., mas às vezes ainda há alguns serviços de tradução sobrecarregados, retornando o erro de limite de frequência 429, neste momento você pode geralmente mudar temporariamente para outros serviços de tradução, ou esperar um pouco e tentar novamente.
 
-**R:** Clique no ícone da extensão, em [Mais], e selecione [Traduzir arquivos PDF] ou [Traduzir arquivos HTML/TXT].
+Se você estiver usando um serviço do Google e experimentar o erro 429, geralmente é um caso de o Google estar limitando o tráfego contra o seu nó, e é recomendado mudar de nó.
 
-**Chrome (Chrome, Arc, Edge):**
+## Tradução de documentos locais
 
-1. Abra `chrome://extensions`.
-2. Encontre o plugin [Immersive Translate].
-3. Ative [Permitir acesso a URLs de arquivo].
-4. Abra o arquivo local no navegador e clique com o botão direito para traduzir.
+Se você precisar traduzir arquivos HTML locais, arquivos txt ou arquivos PDF, você pode clicar no ícone de extensão do Immersive Translate, depois clicar em [Mais], clicar em [Traduzir arquivos PDF] ou [Traduzir arquivos HTML/txt] para traduzir arquivos locais.
 
-## Como Atualizar a Extensão?
+Se você estiver usando navegadores semelhantes ao Chrome, como (Chrome, Arc, navegador Edge), há outra maneira, que é abrir a página de gerenciamento de extensões do navegador `chrome://extensions`, encontrar o plugin [Immersive Translate], [Permitir que a extensão acesse arquivos locais], e então diretamente no navegador abrir o arquivo HTML local ou arquivo PDF local, você pode clicar com o botão direito [tradução].
 
-**R:** Geralmente, as extensões são atualizadas automaticamente. Para atualizar manualmente:
+**Nota**: O navegador Safari tem restrições rigorosas sobre o acesso de extensões a arquivos locais. Usuários do Safari devem usar diretamente o Método 1 - clicar no ícone de extensão do Immersive Translate, depois clicar em [Mais], clicar em [Traduzir arquivos PDF] ou [Traduzir arquivos HTML/txt] para traduzir arquivos locais.
 
-1. Abra [Gerenciar Extensões] no navegador.
-2. Ative o [Modo Desenvolvedor].
-3. Clique em [Atualizar].
+## Como atualizar a extensão?
+
+De modo geral, extensões instaladas na loja do navegador serão atualizadas automaticamente, a situação geral será atualizada automaticamente dentro de um dia após a atualização da extensão, se você quiser atualizar imediatamente para a versão mais recente, você pode na página [Gerenciamento de Extensões] do navegador, abrir o [Modo Desenvolvedor], e então clicar no topo em [Atualizações], você pode atualizar imediatamente para a versão mais recente da loja.
 
 ![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/update-extension.png)
 
-## Estilo de Legendas do YouTube
+## Configuração de estilo de legendas do Youtube
 
-**R:** Ajuste tamanho, cor e outros aspectos nas configurações de legendas do próprio YouTube, em [Opções].
+Você pode clicar nas configurações de legendas do próprio Youtube, [Opções], e então pode ajustar o tamanho, cor, e assim por diante.
 
 ![](https://s.immersivetranslate.com/assets/youtube_subtitle_options2_en.jpeg)
 
-## Navegadores Compatíveis com o Immersive Translate Tampermonkey
+## Navegadores Suportados pelo Immersive Translate Tampermonkey
 
-**Desktop:**
+Extensões Grease Monkey recomendadas para Chrome, Firefox no desktop:
 
-- Chrome e Firefox: [Tampermonkey](https://www.tampermonkey.net/)
-- Safari: [Userscripts](https://itunes.apple.com/us/app/userscripts/id1463298887)
+- [Tamper Monkey](https://www.tampermonkey.net/)
 
-<!-- > Se você usa o [Stay](https://apps.apple.com/cn/app/stay-safari%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BC%B4%E4%BE%A3/id1591620171) no Safari, busque pelo Script de Otimização Immersive Translate para baixar diretamente da loja do Stay (otimizado especificamente para o Stay) -->
+Extensão Grease Monkey recomendada para Safari:
 
-**Android:**
+- [Userscripts](https://itunes.apple.com/us/app/userscripts/id1463298887)
 
-1. Instale o [Firefox](https://www.mozilla.org/firefox/browsers/mobile/android/) mais recente.
-2. Instale o [Tampermonkey](https://www.tampermonkey.net/).
+<!-- > Se estiver usando [Stay](https://apps.apple.com/cn/app/stay-safari%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BC%B4%E4%BE%A3/id1591620171) no Safari, por favor, procure o Script de Otimização do Immersive Translate para baixar diretamente da própria loja do Stay (otimizado especificamente para Stay) -->
 
-<!-- 2. Você também pode usar diretamente o [X Browser](https://www.xbext.com/?ref=immersive-translate). Após a instalação, abra o [Endereço do Immersive Translate para o Tampermonkey ](https://download.immersivetranslate.com/immersive-translate.user.js) para instalá-lo! -->
+Extensões Grease Monkey recomendadas para Android:
 
-<!-- Extensões Grease Monkey conhecidas por serem incompatíveis:
+1. Você pode instalar a extensão [Tamper Monkey](https://www.tampermonkey.net/) usando [Firefox Última Versão](https://www.mozilla.org/firefox/browsers/mobile/android/).
+
+<!-- 2. Você também pode usar diretamente o [X Browser](https://www.xbext.com/?ref=immersive-translate), após a instalação, abra diretamente o [Endereço do Immersive Translate Tampermonkey](https://download.immersivetranslate.com/immersive-translate.user.js) para instalá-lo! -->
+
+<!-- Extensões Grease Monkey conhecidas por não serem suportadas:
 
 - Android Via Browser
 - iOS Alook Browser -->
 
-## Bloqueio da Interface do Google Tradutor
+(como esses navegadores não implementam a API Grease Monkey necessária)
 
-**R:** Adicione o nome de domínio `translate.googleapis.com` à regra de proxy.
+## Problema de Bloqueio da Interface do Google Translate
 
-## Atualização das Regras
+Por favor, adicione o domínio `translate.googleapis.com` à regra de proxy
 
-**R:** A extensão sincroniza as regras automaticamente. Você também pode sincronizar manualmente no painel da extensão.
+## Como atualizar as regras mais recentes
 
-## Feedback de Problemas na Tradução
+A extensão em si irá sincronizar regularmente com as regras de adaptação do site oficial mais recente quando você a usar, você também pode sincronizar manualmente com as regras mais recentes clicando no ícone de Extensão do Immersive Translate no navegador para abrir uma janela pop-up onde a extensão detectará automaticamente as regras de adaptação mais recentes e sincronizará com elas, o mesmo vale para Tampermonkeys.
 
-**P:** Como salvar o feedback da página da web se eu estiver com problemas com a tradução da página?
+## Como salvar meu feedback da página da web se eu tiver problemas com a tradução da página da web?
 
-**R:** Salve a página como arquivo .mht/.mhtml (Ctrl+S) e envie para support@immersivetranslate.com.
+Você precisa clicar com o botão direito em "Salvar como" ou atalho ctrl+s na página da web, escolher arquivo único para opção de salvar, e finalmente o formato do arquivo é .mht/.mhtml. Em seguida, envie o arquivo para support@immersivetranslate.com
 
 <!-- ![save mht](https://s.immersivetranslate.com/static/official-static/assets/save_mht.png) -->
 
-## Erro de Tradução na Color Cloud
+## Erro de Tradução de Nuvem de Cor
 
-**R:** Remova a mensagem "Unsupported trans_type" e selecione o idioma para detecção automática.
+Desapareceu? A mensagem de erro para o número "Unsupported trans_type" é exibida. Você pode selecionar o idioma a ser detectado automaticamente por meio do idioma especificado.
 
-## Leitura do WeChat não Pode Ser Traduzida
+## Leitura do WeChat Não Pode Ser Traduzida
 
-**R:** O WeChat Reading impede o acesso ao conteúdo por terceiros.
+Não pode ser traduzido porque a Leitura do WeChat fez um processamento especial para o conteúdo para evitar o acesso ao conteúdo por meio de meios de terceiros.
 
-## Tradução Acionada não Funciona em um Site Específico
+## Acionamento de tradução não surte efeito
 
-**R:**
+Outros sites traduzem, mas um site não.
 
-- **Poucos visitantes:** Sugira parágrafos para tradução ou adapte o site com [regras do usuário](/docs/advanced/#user-rules).
-- **Muitos usuários:** Use a tradução por mouse e relate o problema no grupo.
+- Se este site tem menos visitantes
+  - Sugestão de parágrafos a serem traduzidos passando o mouse
+  - Se você precisar traduzir o site inteiro, você pode adaptá-lo via [regras de usuário](/docs/advanced/#user-rules)
+- Se este site é usado por muitas pessoas
+  - Você pode começar passando o mouse para traduzir o uso
+  - Chame no grupo e ele será adaptado mais tarde
 
-## Aprimoramento da Caixa de Entrada não Funciona
+## Aprimoramento da caixa de entrada não surte efeito
 
-**R:** A pesquisa do Google deve estar na página [Google](https://www.google.com/), não na página inicial do navegador ou em espaços em branco na barra de endereço.
+- Página inicial do navegador Pesquisa do Google
 
-## Log de Depuração
+A caixa de pesquisa do Google deve estar no URL da página da web do [Google](https://www.google.com/), e não pode ser usada na página inicial do navegador, nos lugares em branco da barra de endereços
 
-**R:**
+## Feedback do log de depuração
 
-1. Ative o registro de depuração em Painel -> Configurações -> Configurações do desenvolvedor.
-2. Abra o console do site (clique com o botão direito e selecione "Inspecionar").
-3. Veja os logs no console.
+- Ativar log de depuração
+  Abrir Painel -> Configurações -> Configurações do Desenvolvedor -> Ativar "Imprimir log de depuração no console".
+- Abrir o console do site
+  Clique com o botão direito para abrir a revisão -> Mude para o console no topo da coluna direita -> Execute a ação para ver os logs
 
-## Como Desativar o Botão Flutuante
-
-**R:**
+## Como desativar a bola flutuante
 
 - Ocultar na página atual
-- Definir como "Nunca traduzir este site"
-- Ocultar em todas as páginas: Vá em [Página de Configurações] - [Configurações da Interface] e desative [Mostrar Botão Flutuante na Página].
 
-## Erro ao Instalar o Plugin no Chrome
+Defina como "Nunca traduzir este site".
 
-**R:** "Valor inválido para web_accessible_resource[0]" requer Chromium 88 ou superior.
+- Ocultar em todas as páginas
 
-## Como Instalar no Navegador 360?
+Abra [Página de Configurações] - [Configurações de Interface] e desative [Mostrar Bola Flutuante na Página].
 
-**R:** Use o 360 Extreme Browser x. Se tiver acesso à loja do Google, instale por lá. Caso contrário, [instale manualmente](/docs/installation/#manual-installation-to-keep-track-of-the-latest-development-features).
+## Erro ao instalar o instalador do plugin no chrome
 
-## O Navegador Opera não Funciona
+- valor inválido para web_accessible_resource[0]
 
-**P:** Não funciona em sites como o google.com e outras páginas de pesquisa. E aparece a seguinte mensagem: `Atualize a página atual antes de iniciar a tradução`, persistindo mesmo depois de atualizar a página.
+  É necessário que a versão do Chromium seja maior que 88 para suportar manifest_version 3.
 
-**R:** Ative "Permitir acesso aos resultados da página de pesquisa" nas configurações do plugin Immersive Translate no Opera.
+## Como instalar o Navegador 360
+
+Apenas o 360 Extreme Browser x é suportado, lembre-se que é com x. Se você tiver acesso à loja de Extensões do Google, pode ir diretamente lá e instalá-lo. Se você não puder acessá-lo [instale manualmente](/docs/installation/#manual-installation-to-keep-track-of-the-latest-development-features)
+
+## Navegador Opera não funciona
+
+- Não funciona no google.com e outras páginas de pesquisa, o plugin exibe `Por favor, atualize a página atual antes de iniciar a tradução` e atualizar a página ainda exibe esta mensagem.
+
+Você precisa encontrar "Immersive Translate" nas configurações de plugins do Opera e ativar a opção "Permitir acesso aos resultados da página de pesquisa".
 
 <!-- ![](https://s.immersivetranslate.com/static/official-static/assets/opera-allow-search.png) -->
 
-## Legendas Bilíngues no YouTube
+## Legendas bilíngues do YouTube em chinês tradicional não exibidas
 
-**P:** As Legendas Bilíngues do YouTube em Chinês Tradicional não São Exibidas
+O YouTube vem com legendas traduzidas por máquina, e o Chinês Tradicional terá erros de formatação, fazendo com que todas as legendas apareçam com uma grande seção de legendas no início, com base neste cenário é recomendado ativar a opção [Usar Immersive Translate para Traduzir Legendas] em [Configurações] [Legendas de Vídeo].
 
-**R:** Ative [Usar Immersive Translate para traduzir legendas] em [Configurações] [Legendas de vídeo].
-
-## Mais Perguntas
+## Mais perguntas (veja muito)
 
 <details>
-<summary>Como limpar o cache com Tampermonkey?</summary>
-
-Limpe o cache do site correspondente nas ferramentas do desenvolvedor do navegador.
-
+<summary>Como limpar meu cache com Tampermonkeys?</summary>
+<p>
+Devido à limitação da API dos Tampermonkeys, o cache dos Tampermonkeys do Immersive Translate será salvo no cache do site correspondente, então se você quiser limpá-lo, pode abrir o painel de ferramentas de desenvolvedor do site correspondente no seu navegador e então limpar o cache desse site.
+</p>
 </details>
 
 <details>
-<summary>A solicitação de endereço da interface personalizada do Tampermonkey falhou?</summary>
-
-Declare as permissões no início do script do Tampermonkey, seguindo o modelo de outros nomes de domínio, por exemplo: `@connect api.google.com`.
-
+<summary>Falha na solicitação de endereço de interface personalizada do Tampermonkey?</summary>
+<p>
+O Tampermonkey exige que todas as solicitações do script declarem permissões no início do script, por exemplo: `@connect api.google.com`, então, se você precisar adicionar um novo nome de domínio que não seja o padrão, por favor, declare-o no início do Tampermonkey seguindo o modelo de outro nome de domínio.
+</p>
 </details>

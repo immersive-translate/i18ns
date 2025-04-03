@@ -4,174 +4,189 @@ sidebar_position: 9
 
 # FAQ
 
-## Download aus dem Apple Store nicht möglich
+### 1. Android App, schwebende Kugel verschwunden
 
-- 2023.07.28: Apple Store in China aufgrund von Richtlinien herabgestuft
-- 2023.08.05: Wurde in China wieder eingeführt
+Alte Versionen von Add-ons sind deaktiviert. Deinstallieren Sie sie und installieren Sie die neueste Version von der [offiziellen Website](https://immersivetranslate.com/).
 
-## Automatische Übersetzung ausschalten
+## Hauptinhalt auf Websites wie Youtube, Facebook wird übersetzt, aber einige Seitenleisten nicht, ich möchte alles übersetzen
 
-- Abbrechen im Popup-Fenster oder auf der Einstellungsseite.
+Um die Lesbarkeit der Seite zu gewährleisten, übersetzt die immersive Übersetzung standardmäßig nur den Hauptinhaltsbereich. Wenn Sie alles übersetzen möchten.
 
-<img src="https://s.immersivetranslate.com/assets/turn_off_automatic_translation_en.jpeg" alt="Automatische Übersetzung ausschalten" width="250" />
+Öffnen Sie das schwebende Kugel-Panel (lange drücken auf dem Handy) -> Klicken Sie unten rechts auf mehr -> Wählen Sie alle Bereiche aus
+
+## Schwebende Blase wird in Youtube (oder anderen) Apps auf dem Handy nicht angezeigt
+
+Browser-Plugins können nur in Browsern ausgeführt werden und nicht in anderen Apps verwendet werden.
+
+- Beim Klicken auf YouTube in einem iOS-Browser wird die App direkt geöffnet.
+
+  Halten Sie den YouTube-Link gedrückt, um ein schwebendes Fenster zu öffnen, und wählen Sie, in einer Webseite zu öffnen.
+
+## Wie schalte ich die automatische Übersetzung aus?
+
+- Abbrechen im Popup-Panel oder auf der Einstellungsseite.
+
+<img src="https://s.immersivetranslate.com/assets/turn_off_automatic_translation_en.jpeg" alt="turn off automatic translation" width="250" />
 
 <!-- - Oder ändern: über die Einstellungsseite
 
 ![](https://github.com/immersive-translate/immersive-translate/assets/62473795/d33ac7c0-a47b-4901-b5f6-c6a991164dc0) -->
 
-## Keine Berechtigung zur Übersetzung der aktuellen Seite
+## Keine Berechtigung, die aktuelle Seite zu übersetzen
 
-- Browser-Standardseite (keine Adresse in der Adressleiste)
+- Standardseite des Browsers (keine Adresse in der Adressleiste)
 - Seite eines Drittanbieter-Plugins
 - Google-Plugin deaktiviert Google Store-Seite
 
-## Wie verhindere ich die Anzeige des Originaltextes?
+## Wie zeige ich den Originaltext nicht an?
 
-Tippen Sie auf das Immersive Translate-Symbol, um das Erweiterungsfenster zu öffnen, tippen Sie auf [Mehr], [Wechseln zu Nur-Übersetzung-Modus]
+Tippen Sie auf das Immersive Translate-Symbol, um das Erweiterungspanel zu öffnen, tippen Sie auf [Mehr], [Wechseln zu Nur-Übersetzungsmodus]
 
 ## Ausrufezeichen erscheint auf der Seite
 
-Ein Ausrufezeichen auf der Seite zeigt an, dass der Übersetzungsdienst auf ein Problem gestoßen ist und einen Fehler zurückgegeben hat. Sie können den Mauszeiger über das Ausrufezeichen bewegen, um den spezifischen Fehler anzuzeigen.
+Ein Ausrufezeichen auf der Seite zeigt an, dass der Übersetzungsdienst auf ein Problem gestoßen ist und einen Fehler zurückgegeben hat. Sie können mit der Maus über das Ausrufezeichen fahren, um den spezifischen Fehler anzuzeigen.
 
 ### 429 Fehler
 
-Dies ist einer der häufigsten Fehler, 429 zeigt an, dass die Anfragefrequenz zu hoch ist. Die Übersetzung von Webseiten hat eine sehr große Anzahl von Absätzen zu übersetzen, obwohl wir eine große Optimierung vorgenommen haben, einschließlich der Zusammenführung von Absätzen, Frequenzkontrolle usw., aber manchmal sind dennoch einige Übersetzungsdienste überlastet und geben den Fehler der Frequenzbegrenzung 429 zurück. In diesem Fall können Sie normalerweise vorübergehend zu anderen Übersetzungsdiensten wechseln oder eine Weile warten und es erneut versuchen.
+Dies ist einer der häufigsten Fehler, 429 zeigt an, dass die Anforderungsfrequenz zu schnell ist. Die Übersetzung von Webseiten hat eine sehr große Anzahl von Absätzen zu übersetzen, obwohl wir eine großartige Optimierung vorgenommen haben, einschließlich der Zusammenführung von Absätzen, Frequenzkontrolle usw., gibt es manchmal immer noch einige Übersetzungsdienste, die überlastet sind und den 429-Frequenzbegrenzungsfehler zurückgeben. In diesem Fall können Sie normalerweise vorübergehend zu anderen Übersetzungsdiensten wechseln oder eine Weile warten und es erneut versuchen.
 
-Wenn Sie einen Google-Dienst nutzen und den Fehler 429 erhalten, handelt es sich in der Regel um eine Verkehrsbeschränkung von Google gegenüber Ihrem Knoten, und es wird empfohlen, den Knoten zu wechseln.
+Wenn Sie einen Google-Dienst verwenden und 429 erleben, liegt es in der Regel daran, dass Google eine Verkehrsbegrenzung gegen Ihren Knoten durchführt. Es wird empfohlen, die Knoten zu wechseln.
 
 ## Übersetzung lokaler Dokumente
 
-Wenn Sie lokale HTML-Dateien, txt-Dateien oder PDF-Dateien übersetzen müssen, können Sie auf das Symbol der Immersive Translate-Erweiterung klicken, dann auf [Mehr] klicken, auf [PDF-Dateien übersetzen] oder [HTML-/txt-Dateien übersetzen] klicken, um lokale Dateien zu übersetzen.
+Wenn Sie lokale HTML-Dateien, txt-Dateien oder PDF-Dateien übersetzen müssen, können Sie auf das Immersive Translate-Erweiterungssymbol klicken, dann auf [Mehr] klicken, [PDF-Dateien übersetzen] oder [HTML/txt-Dateien übersetzen] auswählen, um lokale Dateien zu übersetzen.
 
-Wenn Sie Chrome-ähnliche Browser verwenden, wie (Chrome, Arc, Edge-Browser), gibt es einen weiteren Weg, nämlich die Erweiterungsverwaltungsseite des Browsers `chrome://extensions` zu öffnen, das [Immersive Translate]-Plug-in zu finden, [Der Erweiterung erlauben, auf lokale Dateien zuzugreifen], und dann direkt im Browser die lokale HTML- oder lokale PDF-Datei zu öffnen, können Sie direkt per Rechtsklick [übersetzen].
+Wenn Sie Chrome-ähnliche Browser verwenden, wie (Chrome, Arc, Edge-Browser), gibt es eine andere Möglichkeit, die Browser-Erweiterungsverwaltungsseite `chrome://extensions` zu öffnen, das [Immersive Translate]-Plugin zu finden, [Erweiterung den Zugriff auf lokale Dateien erlauben] und dann direkt im Browser die lokale HTML- oder lokale PDF-Datei zu öffnen, können Sie direkt mit der rechten Maustaste [Übersetzung] auswählen.
+
+**Hinweis**: Der Safari-Browser hat strenge Einschränkungen für den Zugriff von Erweiterungen auf lokale Dateien. Safari-Nutzer sollten direkt Methode 1 verwenden - klicken Sie auf das Immersive Translate-Erweiterungssymbol, dann auf [Mehr] klicken, [PDF-Dateien übersetzen] oder [HTML/txt-Dateien übersetzen] auswählen, um lokale Dateien zu übersetzen.
 
 ## Wie aktualisiere ich die Erweiterung?
 
-Allgemein gesprochen werden Erweiterungen, die im Browser-Store installiert sind, automatisch aktualisiert, normalerweise wird die Erweiterung innerhalb eines Tages nach dem Update automatisch aktualisiert. Wenn Sie sofort auf die neueste Version aktualisieren möchten, können Sie auf der Seite [Erweiterungsverwaltung] des Browsers den [Entwicklermodus] öffnen und dann oben auf [Updates] klicken, um sofort auf die neueste Version im Store zu aktualisieren.
+Im Allgemeinen werden Erweiterungen, die im Browser-Store installiert sind, automatisch vom Browser aktualisiert. In der Regel wird innerhalb eines Tages nach der Erweiterungsaktualisierung automatisch aktualisiert. Wenn Sie sofort auf die neueste Version aktualisieren möchten, können Sie auf der [Erweiterungsverwaltungs]-Seite des Browsers den [Entwicklermodus] öffnen und dann oben auf [Updates] klicken, um sofort auf die neueste Version des Stores zu aktualisieren.
 
 ![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/update-extension.png)
 
-## Youtube-Untertiteleinstellungen
+## Youtube-Untertitel-Einrichtungsstil
 
-Du kannst auf die eigenen Untertiteleinstellungen von Youtube klicken, [Optionen], und dann kannst du die Größe, Farbe und so weiter anpassen.
+Sie können auf die eigenen Untertiteleinstellungen von Youtube klicken, [Optionen], und dann können Sie die Größe, Farbe usw. anpassen.
 
 ![](https://s.immersivetranslate.com/assets/youtube_subtitle_options2_en.jpeg)
 
-## Von Immersive Translate unterstützte Tampermonkey-Browser
+## Immersive Translate Tampermonkey unterstützte Browser
 
 Empfohlene Grease Monkey-Erweiterungen für Chrome, Firefox auf dem Desktop:
 
 - [Tamper Monkey](https://www.tampermonkey.net/)
 
-Für Safari empfohlene Grease Monkey-Erweiterung:
+Empfohlene Grease Monkey-Erweiterung für Safari:
 
 - [Userscripts](https://itunes.apple.com/us/app/userscripts/id1463298887)
 
-<!-- > Wenn du [Stay](https://apps.apple.com/cn/app/stay-safari%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BC%B4%E4%BE%A3/id1591620171) in Safari verwendest, suche bitte nach dem Immersive Translate Optimization Script, um es direkt aus dem eigenen Store von Stay herunterzuladen (speziell für Stay optimiert) -->
+<!-- > Wenn Sie [Stay](https://apps.apple.com/cn/app/stay-safari%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BC%B4%E4%BE%A3/id1591620171) in Safari verwenden, suchen Sie bitte nach dem Immersive Translate-Optimierungsskript, um es direkt aus dem eigenen Store von Stay herunterzuladen (speziell für Stay optimiert) -->
 
-Für Android empfohlene Grease Monkey-Erweiterungen:
+Empfohlene Grease Monkey-Erweiterungen für Android:
 
-1. Du kannst die Erweiterung [Tamper Monkey](https://www.tampermonkey.net/) mit der [neuesten Version von Firefox](https://www.mozilla.org/firefox/browsers/mobile/android/) installieren.
+1. Sie können die [Tamper Monkey](https://www.tampermonkey.net/)-Erweiterung mit der [Firefox neuesten Version](https://www.mozilla.org/firefox/browsers/mobile/android/) installieren.
 
-<!-- 2. Du kannst auch direkt [X Browser](https://www.xbext.com/?ref=immersive-translate) verwenden, nach der Installation, öffne direkt [Immersive Translate Tampermonkey Adresse](https://download.immersivetranslate.com/immersive-translate.user.js), um es zu installieren! -->
+<!-- 2. Sie können auch direkt den [X Browser](https://www.xbext.com/?ref=immersive-translate) verwenden, nach der Installation direkt die [Immersive Translate Tampermonkey-Adresse](https://download.immersivetranslate.com/immersive-translate.user.js) öffnen, um sie zu installieren! -->
 
 <!-- Bekannte nicht unterstützte Grease Monkey-Erweiterungen:
 
 - Android Via Browser
 - iOS Alook Browser -->
 
-(da solche Browser die erforderliche Grease Monkey API nicht implementieren)
+(da solche Browser die erforderliche Grease Monkey-API nicht implementieren)
 
-## Problem mit abgeschotteter Google Translate-Schnittstelle
+## Google Translate-Schnittstelle blockiert Problem
 
-Bitte füge den Domainnamen `translate.googleapis.com` zur Proxy-Regel hinzu
+Bitte fügen Sie den Domainnamen `translate.googleapis.com` zur Proxy-Regel hinzu
 
-## So aktualisieren Sie die neuesten Regeln
+## Wie aktualisiere ich die neuesten Regeln?
 
-Die Erweiterung selbst wird regelmäßig mit den neuesten offiziellen Website-Anpassungsregeln synchronisiert, wenn Sie sie verwenden. Sie können auch manuell mit den neuesten Regeln synchronisieren, indem Sie auf das Symbol der Immersive Translate-Erweiterung im Browser klicken, um ein Popup-Fenster zu öffnen. Dort wird die Erweiterung automatisch die neuesten Anpassungsregeln erkennen und mit ihnen synchronisieren. Das Gleiche gilt für Tampermonkeys.
+Die Erweiterung selbst wird regelmäßig mit den neuesten Anpassungsregeln der offiziellen Website synchronisiert, wenn Sie sie verwenden. Sie können auch manuell mit den neuesten Regeln synchronisieren, indem Sie auf das Immersive Translate-Erweiterungssymbol im Browser klicken, um ein Popup-Fenster zu öffnen, in dem die Erweiterung automatisch die neuesten Anpassungsregeln erkennt und mit ihnen synchronisiert, dasselbe gilt für Tampermonkeys.
 
 ## Wie speichere ich mein Webseiten-Feedback, wenn ich Probleme mit der Webseitenübersetzung habe?
 
-Sie müssen mit der rechten Maustaste auf "Speichern unter" klicken oder die Tastenkombination Strg+S im Web verwenden, als Speicheroption eine einzelne Datei wählen und schließlich ist das Dateiformat .mht/.mhtml. Senden Sie dann die Datei an support@immersivetranslate.com
+Sie müssen mit der rechten Maustaste "Speichern unter" oder die Strg+s-Tastenkombination auf der Webseite verwenden, die Option "Einzelne Datei" für die Speicheroption auswählen und schließlich das Dateiformat .mht/.mhtml verwenden. Senden Sie dann die Datei an support@immersivetranslate.com
 
 <!-- ![save mht](https://s.immersivetranslate.com/static/official-static/assets/save_mht.png) -->
 
-## Fehler bei der Farbwolkenübersetzung
+## Color Cloud Übersetzungsfehler
 
-Wegtippen? Die Fehlermeldung für die Nummer "Unsupported trans_type" wird angezeigt. Sie können die Sprache so auswählen, dass sie durch die angegebene Sprache automatisch erkannt wird.
+Tippen Sie weg? Die Fehlermeldung für die Nummer "Unsupported trans_type" wird angezeigt. Sie können die Sprache auswählen, die automatisch durch die angegebene Sprache erkannt werden soll.
 
-## WeChat-Lesen kann nicht übersetzt werden
+## WeChat Reading kann nicht übersetzt werden
 
-Es kann nicht übersetzt werden, weil WeChat-Lesen eine spezielle Verarbeitung für den Inhalt durchgeführt hat, um den Zugriff auf den Inhalt durch Drittmittel zu verhindern.
+Es kann nicht übersetzt werden, da WeChat Reading eine spezielle Verarbeitung für den Inhalt vorgenommen hat, um den Zugriff auf den Inhalt durch Drittanbieter zu verhindern.
 
 ## Auslösen der Übersetzung hat keine Wirkung
 
-Andere Seiten übersetzen, aber eine Seite nicht.
+Andere Seiten werden übersetzt, aber eine Seite nicht.
 
 - Wenn diese Seite weniger Besucher hat
-  - Vorgeschlagene Absätze zum Übersetzen durch Überfahren mit der Maus
+  - Vorgeschlagene Absätze durch Überfahren mit der Maus übersetzen
   - Wenn Sie die gesamte Seite übersetzen müssen, können Sie sie über [Benutzerregeln](/docs/advanced/#user-rules) anpassen
 - Wenn diese Seite von vielen Menschen genutzt wird
-  - Sie können beginnen, indem Sie mit der Maus darüberfahren, um die Nutzung zu übersetzen
-  - Rufen Sie es in der Gruppe auf, und es wird später angepasst
+  - Sie können damit beginnen, die Maus zu überfahren, um die Nutzung zu übersetzen
+  - Rufen Sie es in der Gruppe auf und es wird später angepasst
 
-## Verstärkung des Eingabefelds hat keine Wirkung
+## Eingabefeldverstärkung hat keine Wirkung
 
 - Browser-Startseite Google-Suche
 
-Das Google-Suchfeld muss sich auf der [Google](https://www.google.com/) URL der Webseite befinden und kann nicht auf der Browser-Startseite, den Adressleistenleerstellen verwendet werden
+Das Google-Suchfeld muss sich auf der Webseite der URL [Google](https://www.google.com/) befinden und kann nicht auf der Startseite des Browsers verwendet werden, die Adressleiste ist leer
 
-## Feedback-Debugprotokoll
+## Feedback-Debug-Log
 
-- Debugprotokollierung aktivieren
-  Öffnen Sie das Panel -> Einstellungen -> Entwicklereinstellungen -> Aktivieren Sie "Debugprotokoll in der Konsole ausgeben".
-- Die Konsole der Website öffnen
-  Klicken Sie mit der rechten Maustaste, um die Überprüfung zu öffnen -> Wechseln Sie in der rechten Spalte oben zur Konsole -> Führen Sie die Aktion aus, um die Protokolle zu sehen
+- Debug-Logging aktivieren
+  Panel öffnen -> Einstellungen -> Entwicklereinstellungen -> "Debug-Log in Konsole drucken" aktivieren.
+- Konsole der Seite öffnen
+  Rechtsklick, um die Überprüfung zu öffnen -> Zur Konsole oben in der rechten Spalte wechseln -> Die Aktion ausführen, um die Logs zu sehen
 
-## Wie man Hoverball ausschaltet
+## Wie schalte ich die Hoverball aus?
 
-- Auf der aktuellen Seite verbergen
+- Auf der aktuellen Seite ausblenden
 
 Stellen Sie es auf "Diese Seite nie übersetzen".
 
-- Auf allen Seiten verbergen
+- Auf allen Seiten ausblenden
 
 Öffnen Sie [Einstellungsseite] - [Schnittstelleneinstellungen] und schalten Sie [Hoverball auf Seite anzeigen] aus.
 
-## Fehler bei der Installation des Plugin-Installers auf Chrome
+## Fehler beim Installieren des Plugin-Installers auf Chrome
 
 - ungültiger Wert für web_accessible_resource[0]
 
-  Eine Chromium-Version größer als 88 wird benötigt, um manifest_version 3 zu unterstützen.
+  Chromium-Version größer als 88 ist erforderlich, um manifest_version 3 zu unterstützen.
 
-## Wie man den 360 Browser installiert
+## Wie installiere ich den 360 Browser?
 
-Nur der 360 Extreme Browser x wird unterstützt, denken Sie daran, es ist mit x. Wenn Sie Zugang zum Google Extensions Store haben, können Sie direkt dorthin gehen und ihn installieren. Wenn Sie keinen Zugang haben, [installieren Sie ihn manuell](/docs/installation/#manual-installation-to-keep-track-of-the-latest-development-features)
+Nur 360 Extreme Browser x wird unterstützt, denken Sie daran, dass es mit x ist. Wenn Sie Zugriff auf den Google Extensions Store haben, können Sie direkt dorthin gehen und ihn installieren. Wenn Sie keinen Zugriff haben, [installieren Sie ihn manuell](/docs/installation/#manual-installation-to-keep-track-of-the-latest-development-features)
 
 ## Opera-Browser funktioniert nicht
 
-- Er funktioniert nicht auf google.com und anderen Suchseiten, das Plugin zeigt `Bitte aktualisieren Sie die aktuelle Seite, bevor Sie mit der Übersetzung beginnen` an und das Aktualisieren der Seite fordert weiterhin diese Nachricht an.
+- Es funktioniert nicht auf google.com und anderen Suchseiten, das Plugin zeigt `Bitte aktualisieren Sie die aktuelle Seite, bevor Sie die Übersetzung starten` an und das Aktualisieren der Seite zeigt weiterhin diese Nachricht an.
 
-Sie müssen "Immersive Translate" in den Opera-Plugin-Einstellungen finden und die Option "Zugriff auf Suchseitenergebnisse erlauben" aktivieren.
+Sie müssen "Immersive Translate" in den Opera-Plugin-Einstellungen finden und die Option "Zugriff auf Suchergebnisseiten erlauben" aktivieren.
 
 <!-- ![](https://s.immersivetranslate.com/static/official-static/assets/opera-allow-search.png) -->
 
 ## YouTube zweisprachige Untertitel in traditionellem Chinesisch werden nicht angezeigt
 
-YouTube bietet maschinenübersetzte Untertitel, und traditionelles Chinesisch wird Formatierungsfehler haben, was dazu führt, dass alle Untertitel zu Beginn mit einem großen Abschnitt von Untertiteln aufpoppen, basierend auf diesem Szenario wird empfohlen, die Option [Immersive Translate zur Übersetzung von Untertiteln verwenden] in [Einstellungen] [Video-Untertitel] zu aktivieren.
+YouTube verfügt über maschinell übersetzte Untertitel, und traditionelles Chinesisch wird Formatierungsfehler haben, was dazu führt, dass alle Untertitel mit einem großen Abschnitt von Untertiteln am Anfang erscheinen. Basierend auf diesem Szenario wird empfohlen, die Option [Immersive Translate zur Übersetzung von Untertiteln verwenden] in [Einstellungen] [Video-Untertitel] zu aktivieren.
 
-## Mehr Fragen (siehe sehr viel)
+## Weitere Fragen (siehe sehr viel)
 
 <details>
-<summary>Wie kann ich meinen Cache bei Tampermonkey löschen?</summary>
+<summary>Wie lösche ich meinen Cache mit Tampermonkeys?</summary>
 <p>
-Aufgrund der API-Beschränkung von Tampermonkey wird der Cache von Immersive Translate Tampermonkey im Cache der entsprechenden Website gespeichert. Wenn Sie ihn also löschen möchten, können Sie das Entwicklertools-Panel der entsprechenden Website in Ihrem Browser öffnen und dann den Cache dieser Website löschen.
+Aufgrund der API-Beschränkung von Tampermonkeys wird der Cache von Immersive Translate Tampermonkeys im Cache der entsprechenden Website gespeichert. Wenn Sie ihn löschen möchten, können Sie das Entwickler-Tools-Panel der entsprechenden Website in Ihrem Browser öffnen und dann den Cache dieser Website löschen.
 </p>
 </details>
 
 <details>
-<summary>Tampermonkey benutzerdefinierte Schnittstellenadressanfrage fehlgeschlagen?</summary>
+<summary>Tampermonkey benutzerdefinierte Schnittstellenadressanforderung fehlgeschlagen?</summary>
 <p>
-Tampermonkey erfordert, dass alle Anfragen aus dem Skript zu Beginn des Skripts Berechtigungen deklarieren müssen, z.B.: `@connect api.google.com`, also wenn Sie einen neuen Domainnamen hinzufügen müssen, der nicht der Standard ist, bitte deklarieren Sie ihn am Anfang des Tampermonkey-Skripts nach dem Vorbild des anderen Domainnamens.
+Tampermonkeys erfordern, dass alle Anfragen aus dem Skript Berechtigungen am Anfang des Skripts deklarieren müssen, z.B.: `@connect api.google.com`. Wenn Sie also einen neuen Domainnamen hinzufügen müssen, der nicht der Standard ist, deklarieren Sie ihn bitte am Anfang des Tampermonkey-Skripts nach dem Vorbild der anderen Domainnamen.
 </p>
 </details>
