@@ -28,7 +28,7 @@ src="https://s.immersivetranslate.com/assets/tutorial_for_mobile_250213.mp4"
 
 ## 图文说明
 
-安装插件后，【右上角将沉浸式翻译浏览器图标置顶】，然后点击【沉浸式翻译扩展图标】，再点击翻译即可进行翻译：
+安装插件后，【右上角将沉浸式翻译浏览器图标置顶】，然后再点击【沉浸式翻译扩展图标】，再点击翻译即可进行翻译：
 
 <img src="https://s.immersivetranslate.com/static/official-static/assets/browser-panel-v2.png" alt="browser action" width="250" />
 
