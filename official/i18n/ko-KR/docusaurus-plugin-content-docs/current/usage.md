@@ -46,7 +46,7 @@ src="https://s.immersivetranslate.com/assets/tutorial_for_mobile_250213.mp4"
 
 기본 단축키가 다른 소프트웨어의 단축키와 충돌하는 경우, 확장 프로그램의 [설정 페이지 - 인터페이스 설정 - 단축키 관리]에서 수정할 수 있으며, `Alt+Q`, `Alt+E` 등으로 설정할 수 있습니다.
 
-**Buzzing에서 영어 기사를 클릭하여 효과를 시험해 볼 수 있습니다.**
+**Buzzing 에서 영어 기사를 클릭하여 효과를 시험해 볼 수 있습니다.**
 
 웹페이지 번역의 주요 작업은 위와 같습니다. 추가 질문이 있으시면 아래 QR 코드를 스캔하여 공식 WeChat 그룹에 참여하여 직접 문의하실 수 있습니다:
 
@@ -62,7 +62,7 @@ src="https://s.immersivetranslate.com/assets/tutorial_for_mobile_250213.mp4"
 
 ## 온라인 회의 번역
 
-이는 [YouTube 이중 언어 자막](#youtube-이중-언어-자막)의 파생 기능으로, 모두 자막 번역이며 Zoom, Google Meet, Microsoft Teams의 온라인 회의에 적용됩니다. 이중 언어 자막 번역을 활성화하면 온라인 회의를 사용할 때 자동으로 자막이 번역됩니다.
+이는 [YouTube 이중 언어 자막](#youtube-이중-언어-자막)의 파생 기능으로, 모두 자막 번역이며 Zoom, Google Meet, Microsoft Teams 의 온라인 회의에 적용됩니다. 이중 언어 자막 번역을 활성화하면 온라인 회의를 사용할 때 자동으로 자막이 번역됩니다.
 
 사용 방법: 먼저 온라인 회의에서 제공하는 자막 기능을 활성화한 다음 임머시브 번역 패널을 클릭하고 [자동으로 이중 언어 자막 시작]을 선택하면 됩니다. 선택한 설정이 적용되지 않는 경우, 일반적으로 페이지를 새로고침하면 됩니다.
 
@@ -76,7 +76,7 @@ src="https://s.immersivetranslate.com/assets/tutorial_for_mobile_250213.mp4"
 
 ## PDF 파일 번역
 
-임머시브 번역 PDF 이중 언어 번역은 [무료 버전](https://app.immersivetranslate.com/file/)과 [PDF Pro](https://app.immersivetranslate.com/pdf-pro/)로 나뉩니다. 무료 버전은 표준 PDF 문서(스캔 버전 아님)만 지원하며, PDF Pro는 더 복잡한 PDF 문서를 지원하고 스캔 버전도 지원하며, 수식 인식도 지원하며, 번역에서는 단락별 이중 언어 대조를 지원하고, 다중 열 내용은 자동으로 단일 열로 재배열됩니다.
+임머시브 번역 PDF 이중 언어 번역은 [무료 버전](https://app.immersivetranslate.com/file/)과 [PDF Pro](https://app.immersivetranslate.com/pdf-pro/)로 나뉩니다. 무료 버전은 표준 PDF 문서 (스캔 버전 아님) 만 지원하며, PDF Pro 는 더 복잡한 PDF 문서를 지원하고 스캔 버전도 지원하며, 수식 인식도 지원하며, 번역에서는 단락별 이중 언어 대조를 지원하고, 다중 열 내용은 자동으로 단일 열로 재배열됩니다.
 
 ### 무료 PDF 번역
 
@@ -84,7 +84,7 @@ src="https://s.immersivetranslate.com/assets/tutorial_for_mobile_250213.mp4"
 
 <img src="https://s.immersivetranslate.com/static/official-static/assets/browser-pdf.png" alt="browser action" width="250" />
 
-2. 로컬 PDF 파일의 경우, 확장 프로그램 아이콘을 마우스 오른쪽 버튼으로 클릭(또는 확장 프로그램 아이콘을 왼쪽 클릭한 다음 "더보기"를 클릭하고 "로컬 PDF 파일 번역"을 클릭)하고 페이지에 들어간 후, 페이지 오른쪽 상단에서 PDF 파일을 업로드하면 됩니다.
+2. 로컬 PDF 파일의 경우, 확장 프로그램 아이콘을 마우스 오른쪽 버튼으로 클릭 (또는 확장 프로그램 아이콘을 왼쪽 클릭한 다음 "더보기"를 클릭하고 "로컬 PDF 파일 번역"을 클릭) 하고 페이지에 들어간 후, 페이지 오른쪽 상단에서 PDF 파일을 업로드하면 됩니다.
 
 [【비디오 튜토리얼 보기】](https://www.bilibili.com/video/BV1HP411z7Qi/?)
 
@@ -143,7 +143,7 @@ src="https://s.immersivetranslate.com/assets/tutorial_for_mobile_250213.mp4"
 
 ### 무료 버전 이미지 번역
 
-브라우저에서 직접 처리되는 텍스트 인식 처리로, 브라우저 기술 제한으로 인해 현재 Chrome, Edge만 지원하며, 언어는 영어 및 일부 라틴어계 언어만 인식할 수 있습니다.
+브라우저에서 직접 처리되는 텍스트 인식 처리로, 브라우저 기술 제한으로 인해 현재 Chrome, Edge 만 지원하며, 언어는 영어 및 일부 라틴어계 언어만 인식할 수 있습니다.
 
 ### Pro 버전 이미지 번역
 
@@ -169,7 +169,7 @@ Tampermonkey 스크립트를 사용하는 경우, [온라인 웹 버전 설정 �
 
 임머시브 번역을 사용해 주셔서 감사합니다. 질문이 있으시면 다음 방법으로 개발 팀과 연락할 수 있습니다:
 
-- [임머시브 번역 이메일 구독](https://immersivetranslate.substack.com/) 최신 업데이트와 (혜택)을 즉시 받으세요.
+- [임머시브 번역 이메일 구독](https://immersivetranslate.substack.com/) 최신 업데이트와 (혜택) 을 즉시 받으세요.
 - [임머시브 번역 공식 Twitter 팔로우](https://twitter.com/immersivetran)
 - [Telegram 그룹 참여](https://t.me/+rq848Z09nehlOTgx) 기능 토론에 참여하세요.
 - [Telegram 채널 참여](https://t.me/immersivetranslate) 최신 소식을 받으세요
