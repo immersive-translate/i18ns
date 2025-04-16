@@ -10,8 +10,6 @@ sidebar_position: 9
 
 舊版本附加元件被禁用，[官網](https://immersivetranslate.com/) 解除安裝並安裝最新版本。
 
-![](https://s.immersivetranslate.com/assets/r2-uploads/20250315-164108.jpeg)
-
 ## 安裝相關
 
 ### 1. 如何更新擴充套件
@@ -291,7 +289,22 @@ YouTube 內建機翻字幕，繁體中文會出現格式錯誤，導致所有字
 
 ### 4. 是否有術語表 / 某些詞彙特殊翻譯或不翻譯
 
-我們提供術語表設定功能，您可以透過術語表來指定某些詞彙不被翻譯，或將其翻譯為特定內容。詳細設定請參閱“進階自定義”中的“自定義專業術語翻譯”部分：[點選這裡檢視](https://immersivetranslate.com/docs/advanced)
+1.16.1+ 支援 [AI 術語庫](https://dash.immersivetranslate.com/#terms) 功能。
+
+AI 術語庫預設不支援谷歌/微軟這類機器翻譯術語
+
+強行開啟方法:
+(ps: 機器翻譯採用的是佔位符替換，術語可能會導致翻譯品質下降)
+
+【[開發者設定](https://dash.immersivetranslate.com/#developer)】 -> 【Edit Full User Config】
+
+```
+{
+  ....
+  "enableMachineTranslateTerms":true,
+  ...
+}
+```
 
 ### 5. Word 文件翻譯後無法匯出為 Word 格式
 
