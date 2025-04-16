@@ -294,7 +294,7 @@ YouTube 自带机翻字幕，繁体中文会出现格式错误，导致所有字
 
 AI 术语库默认不支持谷歌/微软这类机器翻译术语
 
-强行开启方法:
+强行开启方法：
 (ps: 机器翻译采用的是占位符替换，术语可能会导致翻译质量下降)
 
 【[开发者设置](https://dash.immersivetranslate.com/#developer)】 -> 【Edit Full User Config】

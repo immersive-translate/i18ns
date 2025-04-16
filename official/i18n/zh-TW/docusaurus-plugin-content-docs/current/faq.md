@@ -293,7 +293,7 @@ YouTube 內建機翻字幕，繁體中文會出現格式錯誤，導致所有字
 
 AI 術語庫預設不支援谷歌/微軟這類機器翻譯術語
 
-強行開啟方法:
+強行開啟方法：
 (ps: 機器翻譯採用的是佔位符替換，術語可能會導致翻譯品質下降)
 
 【[開發者設定](https://dash.immersivetranslate.com/#developer)】 -> 【Edit Full User Config】
