@@ -14,6 +14,15 @@ sidebar_position: 6
 - [Firefox 應用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.16.1 Preview (2025-04-16)
+
+- 新增：劃詞翻譯功能
+- 新增：AI 術語庫管理
+- 新增：PC 端支援開啟 Youtube AI 字幕（Pro 會員）
+- 新增：Safari 插件支援應用內購
+- 修復：網頁翻譯時，個別段落未被翻譯的問題
+- 優化：懸浮球樣式更新
+
 ## 1.15.9 Release (2025-03-23)
 
 - 修復：safari 16.4 版本下無法正常翻譯的問題。
