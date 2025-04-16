@@ -16,8 +16,8 @@ The **Preview version** is published more frequently and includes some experimen
 
 ## 1.16.2 Preview (2025-04-16)
 
-- Added: Text selection translation feature
 - Added: AI terminology library management
+- Added: PC version supports text selection translation feature (non-userscript)
 - Added: PC support for enabling Youtube AI subtitles (Pro members)
 - Added: Safari plugin supports in-app purchases
 - Fixed: Issue where some paragraphs were not translated during webpage translation
