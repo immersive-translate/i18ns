@@ -15,7 +15,7 @@ sidebar_position: 6
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
 
-## 1.16.1 Preview (2025-04-16)
+## 1.16.2 Preview (2025-04-16)
 
 - 新增：划词翻译功能
 - 新增：AI 术语库管理
