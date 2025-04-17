@@ -13,6 +13,8 @@ sidebar_position: 6
 - [官网提供的油猴脚本](https://download.immersivetranslate.com/immersive-translate.user.js)
 - [Firefox 应用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
+- [Android 沉浸式浏览器](https://immersivetranslate.com/)
+- [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
 
 ## 1.16.2 Preview (2025-04-16)
