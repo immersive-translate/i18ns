@@ -19,7 +19,7 @@ sidebar_position: 5
 <img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-contact3.jpg" width="300" alt="qq"/>
 </div>
 
-- 扫描下方二维码，加入微信公众号
+- 扫描下方二维码，关注微信公众号
 
 <div align="center">
 <img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="300" alt="wechat"/>
