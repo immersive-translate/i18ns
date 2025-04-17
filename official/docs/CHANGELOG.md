@@ -15,10 +15,10 @@ sidebar_position: 6
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
 
-## 1.16.1 Preview (2025-04-16)
+## 1.16.2 Preview (2025-04-16)
 
-- 新增：划词翻译功能
 - 新增：AI 术语库管理
+- 新增：PC 端支持划词翻译功能（非油猴）
 - 新增：PC 端支持开启 Youtube AI 字幕（Pro 会员）
 - 新增：Safari 插件支持应用内购
 - 修复：网页翻译时，个别段落未被翻译的问题
