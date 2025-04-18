@@ -22,6 +22,7 @@ The **Preview version** is published more frequently and includes some experimen
 - Added: PC version supports text selection translation feature (non-userscript)
 - Added: PC support for enabling Youtube AI subtitles (Pro members)
 - Added: Safari plugin supports in-app purchases
+- Added: OpenRouter translation services
 - Fixed: Issue where some paragraphs were not translated during webpage translation
 - Fixed: Netflix subtitle merging issue
 - Compatible: Mac "360 Extreme Browser Pro" YouTube subtitle display issue

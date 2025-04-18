@@ -23,6 +23,7 @@ sidebar_position: 6
 - 新增：PC 端支持划词翻译功能（非油猴）
 - 新增：PC 端支持开启 Youtube AI 字幕（Pro 会员）
 - 新增：Safari 插件支持应用内购
+- 新增：OpenRouter 翻译服务
 - 修复：网页翻译时，个别段落未被翻译的问题
 - 修复：Netflix 字幕合并问题
 - 兼容：Mac”360 极速浏览器 Pro“YouTube 无法显示字幕

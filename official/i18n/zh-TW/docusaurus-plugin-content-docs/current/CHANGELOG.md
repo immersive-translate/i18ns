@@ -22,6 +22,7 @@ sidebar_position: 6
 - 新增：PC 端支援劃詞翻譯功能（非油猴）
 - 新增：PC 端支援開啟 Youtube AI 字幕（Pro 會員）
 - 新增：Safari 插件支援應用內購
+- 新增：OpenRouter 翻譯服務
 - 修復：網頁翻譯時，個別段落未被翻譯的問題
 - 修復：Netflix 字幕合併問題
 - 相容：Mac "360 極速瀏覽器 Pro" YouTube 無法顯示字幕
