@@ -16,13 +16,15 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
-## 1.16.2 Preview (2025-04-16)
+## 1.16.3 Preview (2025-04-18)
 
 - 新增：AI 術語庫管理（僅支援 AI 翻譯服務）
 - 新增：PC 端支援劃詞翻譯功能（非油猴）
 - 新增：PC 端支援開啟 Youtube AI 字幕（Pro 會員）
 - 新增：Safari 插件支援應用內購
 - 修復：網頁翻譯時，個別段落未被翻譯的問題
+- 修復: Netflix 字幕合併問題
+- 相容: Mac "360 極速瀏覽器 Pro" YouTube 無法顯示字幕
 - 優化：懸浮球樣式更新
 
 ## 1.15.9 Release (2025-03-23)
