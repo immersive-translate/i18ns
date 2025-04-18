@@ -13,12 +13,10 @@ sidebar_position: 6
 - [官網提供的油猴腳本](https://download.immersivetranslate.com/immersive-translate.user.js)
 - [Firefox 應用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
-- [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
-- [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
 ## 1.16.2 Preview (2025-04-16)
 
-- 新增：AI 術語庫管理（僅支援 AI 翻譯服務）
+- 新增：AI 術語庫管理
 - 新增：PC 端支援劃詞翻譯功能（非油猴）
 - 新增：PC 端支援開啟 Youtube AI 字幕（Pro 會員）
 - 新增：Safari 插件支援應用內購

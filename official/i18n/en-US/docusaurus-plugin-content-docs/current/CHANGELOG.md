@@ -13,12 +13,10 @@ The **Preview version** is published more frequently and includes some experimen
 - [official website's userscript](https://download.immersivetranslate.com/immersive-translate.user.js)
 - [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
-- [Android Browser](https://immersivetranslate.com/)
-- [iOS Browser](https://immersivetranslate.com/)
 
 ## 1.16.2 Preview (2025-04-16)
 
-- Added: AI glossary management (only supports AI translation services)
+- Added: AI terminology library management
 - Added: PC version supports text selection translation feature (non-userscript)
 - Added: PC support for enabling Youtube AI subtitles (Pro members)
 - Added: Safari plugin supports in-app purchases
