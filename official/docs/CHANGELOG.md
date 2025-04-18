@@ -26,7 +26,7 @@ sidebar_position: 6
 - 新增：OpenRouter 翻译服务
 - 修复：网页翻译时，个别段落未被翻译的问题
 - 修复：Netflix 字幕合并问题
-- 兼容：Mac”360 极速浏览器 Pro“YouTube 无法显示字幕
+- 兼容：Mac "360 极速浏览器 Pro" YouTube 无法显示字幕
 - 优化：悬浮球样式更新
 
 ## 1.15.10 Release (2025-03-23)
