@@ -23,8 +23,8 @@ sidebar_position: 6
 - 新增：PC 端支援開啟 Youtube AI 字幕（Pro 會員）
 - 新增：Safari 插件支援應用內購
 - 修復：網頁翻譯時，個別段落未被翻譯的問題
-- 修復: Netflix 字幕合併問題
-- 相容: Mac "360 極速瀏覽器 Pro" YouTube 無法顯示字幕
+- 修復：Netflix 字幕合併問題
+- 相容：Mac "360 極速瀏覽器 Pro" YouTube 無法顯示字幕
 - 優化：懸浮球樣式更新
 
 ## 1.15.9 Release (2025-03-23)
