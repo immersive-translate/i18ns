@@ -16,13 +16,14 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.16.3 Preview (2025-04-18)
+## 1.16.4 Preview (2025-04-21)
 
 - Added: AI glossary management (only supports AI translation services)
 - Added: PC version supports text selection translation feature (non-userscript)
 - Added: PC support for enabling Youtube AI subtitles (Pro members)
 - Added: Safari plugin supports in-app purchases
 - Added: OpenRouter translation services
+- Added: Gemini now supports Uyghur language
 - Fixed: Issue where some paragraphs were not translated during webpage translation
 - Fixed: Netflix subtitle merging issue
 - Compatible: Mac "360 Extreme Browser Pro" YouTube subtitle display issue
