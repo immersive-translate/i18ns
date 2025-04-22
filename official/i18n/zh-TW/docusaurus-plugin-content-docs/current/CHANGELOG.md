@@ -16,7 +16,7 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
-## 1.16.4 Preview (2025-04-21)
+## 1.16.5 Preview (2025-04-22)
 
 - 新增：AI 術語庫管理（僅支援 AI 翻譯服務）
 - 新增：PC 端支援劃詞翻譯功能（非油猴）

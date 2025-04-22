@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.16.4 Preview (2025-04-21)
+## 1.16.5 Preview (2025-04-22)
 
 - Added: AI glossary management (only supports AI translation services)
 - Added: PC version supports text selection translation feature (non-userscript)
