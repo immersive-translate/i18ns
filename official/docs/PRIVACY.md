@@ -5,9 +5,9 @@ custom_edit_url: null
 
 # 隐私协议
 
-最后更新时间：2025 年 03 月 07 日
+最后更新时间：2025 年 04 月 22 日
 
-本次主要更新：补充运营者基本信息。
+本次主要更新：补充SDK相关信息。
 
 ## 前言
 
@@ -62,14 +62,21 @@ custom_edit_url: null
 
 我们的应用集成了以下第三方 SDK：
 
-1. **Adjust SDK**
+1. **极验验证 SDK**
+   - SDK 提供方：武汉极意网络科技有限公司
+   - 收集目的：人机识别验证
+   - 收集方式：SDK 本机采集
+   - 收集范围：IP 地址、设备信息、操作系统信息
+   - 隐私政策：[极验隐私协议](https://www.geetest.com/Private)
+
+2. **Adjust SDK**
    - SDK 提供方：Adjust GmbH
    - 收集目的：应用市场广告投放及效果分析
    - 收集方式：自动采集
    - 收集范围：设备标识码（IMEI，Android ID、OAID）、广告数据（曝光、点击）
    - 隐私政策：[Adjust 隐私协议](https://www.adjust.com/terms/privacy-policy/)
 
-2. **Meta Pixel SDK**
+3. **Meta Pixel SDK**
    - SDK 提供方：Meta Platforms, Inc.
    - 收集目的：Facebook 广告投放及效果分析
    - 收集方式：自动采集
@@ -77,14 +84,14 @@ custom_edit_url: null
    - 隐私政策：[Facebook 隐私协议](https://www.facebook.com/privacy/policy/)
    - 补充条款：[Meta Pixel 条款与政策](https://developers.facebook.com/docs/meta-pixel/guides/terms-and-policies)
 
-3. **Google 登录 SDK**
+4. **Google 登录 SDK**
    - SDK 提供方：Google LLC
    - 收集目的：提供第三方账号登录服务
    - 收集方式：用户授权获取
    - 收集范围：用户基本信息（用户名、邮箱地址）
    - 隐私政策：[Google 隐私权和条款](https://policies.google.com/privacy)
 
-4. **Facebook 登录 SDK**
+5. **Facebook 登录 SDK**
    - SDK 提供方：Meta Platforms, Inc.
    - 收集目的：提供第三方账号登录服务
    - 收集方式：用户授权获取
