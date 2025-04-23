@@ -4,11 +4,14 @@ sidebar_position: 1
 
 # 安装
 
+<div style="text-align: center;">
 <video
-controls style={{width:"100%", maxWidth:"500px"}}
-controls
-muted
-src="https://s.immersivetranslate.com/videos/20240119installation.mp4"></video>
+  controls
+  style="width:100%; max-width:500px;"
+  muted
+  src="https://s.immersivetranslate.com/assets/r2-uploads/帮助中心_-_插件安装-Xl4PjZaI7eqWilIz.mp4">
+</video>
+</div>
 
 ## 桌面浏览器
 
@@ -18,9 +21,9 @@ src="https://s.immersivetranslate.com/videos/20240119installation.mp4"></video>
 
 > 如果你无法访问谷歌官方商店，可以直接下载[最新沉浸式翻译 Chrome 浏览器 zip 安装包](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip)，下载后请先解压到一个常用的文件夹内，然后在地址栏输入：`chrome://extensions`，打开扩展管理窗口，然后启用“开发人员模式”，选择“加载解压缩的扩展”，选择刚刚解压后的文件夹载入即可安装成功。
 
-## Safari
+## Safari for Mac OS
 
-- [点此进入苹果 App Store 商店安装](https://apps.apple.com/app/immersive-translate/id6447957425) **限时免费中!!!**
+- [点此进入苹果 App Store 商店安装](https://apps.apple.com/app/immersive-translate/id6447957425)
 
 <div align="center">
 <img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="app store qrcode"/>
@@ -30,20 +33,27 @@ src="https://s.immersivetranslate.com/videos/20240119installation.mp4"></video>
 
 ### iOS Safari
 
+<div style="text-align: center;">
 <video
-controls style={{width:"100%", maxWidth:"350px"}}
-controls
-muted
-height="800px"
-poster="https://immersivetranslate.com/assets/ios-safari-poster.png" src="https://s.immersivetranslate.com/static/official-static/assets/ios-safari-enable.mp4"></video>
+  controls
+  muted
+  style="width:100%; max-width:700px"
+  poster="https://s.immersivetranslate.com/assets/r2-uploads/帮助中心用图文-沉浸式翻译-wjcavNYLG8kSJdAi.png"
+  src="https://s.immersivetranslate.com/assets/r2-uploads/帮助中心用图文-沉浸式翻译-I56_FcnkTLXCRJDB.mp4">
+</video>
+</div>
 
 ### macOS Safari
 
-<video
-controls style={{width:"100%", maxWidth:"500px"}}
-controls
-muted
-poster="https://s.immersivetranslate.com/static/official-static/assets/safari-mac-preview.png" src="https://s.immersivetranslate.com/static/official-static/assets/safari_mac.mp4"></video>
+<div style="text-align: center;">
+  <video
+    controls
+    muted
+    style="width:100%; max-width:500px;"
+    poster="https://s.immersivetranslate.com/assets/r2-uploads/Mac_Safari_插件安装-封面-7FNcujE4vcmTKvA5.jpg"
+    src="https://s.immersivetranslate.com/assets/r2-uploads/Mac_Safari_插件安装-RZRSyxZ6lX7GNdmN.mp4">
+  </video>
+</div>
 
 ## 安卓
 
@@ -58,7 +68,7 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-ma
 1. 首先[扫码下载安装 Edge 浏览器](https://microsoftedgewelcome.microsoft.com/emmx/ImmersiveTranslateCollaboration) (或者在应用商店搜索 Edge 浏览器并安装)
 2. 打开 Edge 安装浏览器，点击菜单 -> 【扩展】，在列表里找到沉浸式翻译，点击安装即可，如下图所示：
 
-![](https://s.immersivetranslate.com/assets/uploads/edge-immersive-aNFLnF.JPEG)
+![](https://s.immersivetranslate.com/assets/r2-uploads/Edge_浏览器安卓版-J3bYwUedUV4XLnv1.png)
 
 （注意⚠️：Edge 安卓浏览器目前只能通过上述方式安装沉浸式翻译扩展，不支持在 [Edge 扩展商店页面](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-CN&gl=CN)安装）
 
@@ -70,13 +80,13 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-ma
 - [狐猴浏览器](https://lemurbrowser.com/app/zh/)
 - [Kiwi 浏览器](https://kiwibrowser.com/)
 
-安装后，直接在附加组件 / chrome 商店搜索[沉浸式翻译](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)即可安装。
+安装后，直接在附加组件 / Chrome 商店搜索[沉浸式翻译](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)即可安装。
 
-## 通过油猴脚本安装
+## 通过油猴（Tampermonkey）脚本安装
 
 如果你无法通过以上的方式安装沉浸式翻译的官方扩展，你可以通过以下方式安装油猴脚本：
 
-油猴脚本地址：https://download.immersivetranslate.com/immersive-translate.user.js
+油猴脚本地址：<https://download.immersivetranslate.com/immersive-translate.user.js>
 
 在已安装油猴扩展的浏览器中打开[该地址](https://download.immersivetranslate.com/immersive-translate.user.js) 即可安装。以下介绍几个支持油猴脚本的浏览器：
 
@@ -95,7 +105,10 @@ poster="https://s.immersivetranslate.com/static/official-static/assets/safari-ma
 
 如果安装的时候遇到疑问，可以参考 [YouTube 视频教程](https://www.youtube.com/watch?v=IWOFFWDfZGY)
 
+<div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IWOFFWDfZGY" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+</div>
+
 
 ## 手动安装 (追踪最新开发特性)
 

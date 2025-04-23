@@ -13,15 +13,15 @@ title: 介绍
 
 ## 主要特性
 
-- **沉浸式阅读外文网站** 通过智能识别网页主内容区域并进行双语对照翻译，沉浸式翻译提供了全新的外文阅读体验，因此得名"沉浸式翻译"。
-- **视频双语字幕** 沉浸式支持多达 50+ 个国外主流视频网站的双语字幕翻译，包括 YouTube, Netflix, TED, Coursera, Khan Academy 等等。
-- **强大的输入框翻译**，将任何网页上的输入框化身为多语言翻译器，立刻解锁谷歌搜索，ChatGPT 等工具的双语实时对话体验。
-- **高效的文件翻译** 一键导出双语电子书，同时支持 PDF、字幕、TXT 等文件的实时双语翻译。
-- **创新的鼠标悬停翻译** 仅需将鼠标停留在任意网页的任意段落上，相应的译文就会立即出现在段落下方。段落在在沉浸式翻译的设计理念中被视为最小单位，保留其上下文，这样我们才能真正理解并学习外语。
+- **沉浸式阅读外文网站** 智能识别网页主内容区域并进行双语对照翻译，提供全新的外文阅读体验，因此得名"沉浸式翻译"。
+- **视频双语字幕** 支持超过 50 个国外主流视频网站的双语字幕翻译，包括 YouTube, Netflix, TED, Coursera, Khan Academy 等等。
+- **强大的输入框翻译** 将任意网页上的输入框转化为多语言翻译器，立刻解锁谷歌搜索、ChatGPT 等工具的双语实时对话体验。
+- **高效的文件翻译** 一键导出双语电子书，同时支持 PDF、字幕、TXT 等文件的双语翻译。
+- **创新的鼠标悬停翻译** 仅需将鼠标停留在任意网页的任意段落上，点击快捷键后相应的译文就会立即出现在段落下方。段落在在沉浸式翻译的设计理念中被视为最小单位，保留其上下文，这样我们才能真正理解并学习外语。
 - **深度定制优化主流网站** 针对 Google、Twitter、Reddit、YouTube、彭博社、华尔街日报等主流网站进行优化，无论是搜索、社交还是获取资讯，都更加流畅高效。
-- **全平台支持** 除了各大桌面端浏览器，移动设备也可享受同样的沉浸式翻译体验。在 iOS Safari、安卓 Kiwi 浏览器等移动端浏览器上轻松实现双语浏览 Twitter,Reddit
+- **全平台支持** 除了各大桌面端浏览器，移动设备也可享受同样的沉浸式翻译体验。在 iOS Safari、安卓 Kiwi 浏览器等移动端浏览器上轻松实现双语浏览 Twitter，Reddit
   等社交媒体。
-- **支持 10+ 种翻译服务** 在沉浸式翻译中，你可以选择超过 10 种翻译服务，如 Deepl、OpenAI、微软翻译、谷歌翻译、腾讯翻译等等，这份名单还在不断增加中。
+- **支持 30+ 种翻译服务** 你可以选择超过 30 种翻译服务，如 Deepl、OpenAI、微软翻译、谷歌翻译、腾讯翻译等等。支持名单仍在不断增加中。
 
 [**点击立即安装**](/docs/installation/)
 
@@ -29,7 +29,7 @@ title: 介绍
 
 你可以通过以下方式和我们保持联系：
 
-- [通过邮件订阅沉浸式翻译](https://immersivetranslate.substack.com/) 及时获得最新更新和 (福利)。
+- [通过邮件订阅沉浸式翻译](https://immersivetranslate.substack.com/) 及时获得最新更新和福利。
 - [关注沉浸式翻译的官方 Twitter](https://twitter.com/immersivetran)
 - [关注 Telegram 频道](https://t.me/immersivetranslate) 接收最新消息
 - [加入 Telegram 群组](https://t.me/+rq848Z09nehlOTgx) 参与功能的讨论。
@@ -57,71 +57,11 @@ title: 介绍
 - [点此查看](/docs/review/) 用户的评价以及媒体报道
 - [视频介绍](https://s.immersivetranslate.com/assets/uploads/zh-cn-wS3AY2.mp4)
 
-## 安装
-
-### 桌面浏览器
-
-- 微软 Edge 浏览器： [Edge 商店沉浸式翻译](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)
-- 谷歌 Chrome 浏览器：[Chrome 商店沉浸式翻译](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
-- Firefox 火狐浏览器：[Firefox Addon 商店沉浸式翻译](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/)
-
-> 如果你无法访问谷歌官方商店，可以根据[离线安装包教程](https://immersivetranslate.com/zh-Hans/manual-chrome-extension/) 进行安装
-
-### Safari
-
-- [点此进入苹果 App Store 商店安装](https://apps.apple.com/app/immersive-translate/id6447957425)
-
-<div align="center">
-<img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="app store qrcode" />
-</div>
-
-> 说明：首次安装后需要在 safari 浏览器-> 管理扩展->**启用沉浸式翻译扩展**，并且授予其**始终允许访问所有网站**的权限，有疑问可以查看[视频教程](https://immersivetranslate.com/assets/safari-installation-intro.mp4)：
-
-## 安卓
-
-### 通过沉浸式翻译官方安卓浏览器安装
-
-点击下载[沉浸式翻译安卓浏览器 APK](https://immersivetranslate.com/android/)，或者在 [Google Play 应用商店安装](https://play.google.com/store/apps/details?id=com.immersivetranslate.browser&utm_campaign=official)，该版本已经预装了沉浸式翻译扩展，安装之后即可直接使用。（注意，如遇到部分国产手机在安装时提示的安全风险（这是统一的提示），请选择【我已知晓安全风险】【继续安装】）
-
-### 通过 Edge（微软）安卓浏览器安装
-
-[Edge 安卓浏览器](https://microsoftedgewelcome.microsoft.com/emmx/ImmersiveTranslateCollaboration)目前已支持安装浏览器扩展，沉浸式翻译是 Edge 安卓浏览器的首批推荐扩展之一，在 Edge 浏览器上安装沉浸式翻译扩展非常简单
-
-1. 首先[扫码下载安装 Edge 浏览器](https://microsoftedgewelcome.microsoft.com/emmx/ImmersiveTranslateCollaboration) (或者在应用商店搜索 Edge 浏览器并安装)
-2. 打开 Edge 安装浏览器，点击菜单 -> 【扩展】，在列表里找到沉浸式翻译，点击安装即可，如下图所示：
-
-![](https://s.immersivetranslate.com/assets/uploads/edge-immersive-aNFLnF.JPEG)
-
-（注意⚠️：Edge 安卓浏览器目前只能通过上述方式安装沉浸式翻译扩展，不支持在 [Edge 扩展商店页面](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-CN&gl=CN)安装）
-
-### 其他安卓浏览器
-
-你也可以尝试使用其他的安卓浏览器安装沉浸式翻译，比如
-
-- [Firefox 浏览器](https://www.mozilla.org/zh-CN/firefox/channel/android/)
-- [狐猴浏览器](https://lemurbrowser.com/app/zh/)
-- [Kiwi 浏览器](https://kiwibrowser.com/)
-
-安装后，直接在附加组件 / chrome 商店搜索[沉浸式翻译](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)即可安装。
-
-### 通过油猴脚本安装
-
-如果你无法通过以上的方式安装沉浸式翻译的官方扩展 (推荐使用官方扩展，性能更好，功能也更丰富)，你可以通过以下方式安装油猴脚本：
-
-油猴脚本地址：https://download.immersivetranslate.com/immersive-translate.user.js
-
-在已安装油猴扩展的浏览器中打开[该地址](https://download.immersivetranslate.com/immersive-translate.user.js) 即可安装。以**安卓火狐浏览器**为例：
-
-1. 下载 [Firefox 最新版本](https://www.firefox.com.cn/download/#product-android-release) 版本
-2. 在 Firefox 的附加组件推荐里找到 [Tamper Monkey](https://www.tampermonkey.net/)，安装
-3. 安装本扩展的 [油猴脚本](https://download.immersivetranslate.com/immersive-translate.user.js) (在 Firefox 浏览器中打开该链接即可看到安装页面）
-4. 安装后，打开任意网页，在右侧会出现沉浸式翻译扩展的浮窗图标。
-
 ## 一个更长的说明
 
 大家好，我是 Owen，我自己在过去得益于无数志愿者们开发的免费工具，从而收获了太多受益终生的知识，这使我更加坚信**平等**地获取信息是我们每个人最应拥有的权利。所以我创建了很多免费的双语工具来帮助人们更有效地获取（同时也期待我们有一天能脱离这些辅助工具）
 
-截至目前，沉浸式翻译已经帮助超过 **40 万**人养成了阅读外语信息的习惯。
+截至目前，沉浸式翻译已经帮助超过 **1000 万**人养成了阅读外语信息的习惯。
 
 在沉浸式翻译之前：
 
@@ -163,16 +103,15 @@ title: 介绍
 
 想像小张一样用一个月的时间极大地提高自己的信息获取效率吗？从今天开始，坚持使用沉浸式翻译，你一定会爱上外文的世界。
 
-## 赞助说明
+## 帮助我们
 
-我们目前不再需要财务上的支持，但是你依然可以做以下这些事来帮助我们：
-
-你现在依然可以做以下这些事来帮助我们：
+你现在可以做以下这些事来帮助我们：
 
 - 向你身边的朋友和家人推荐沉浸式翻译，帮助更多的人打破信息壁垒。
-- 养成看外语信息的习惯
-- 在[Chrome 商店](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh), [Edge 商店](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-CN&gl=CN)，[苹果 App Store](https://apps.apple.com/cn/app/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/id6447957425), [Firefox 商店](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/)里评价该扩展。
-- 以下为可选项：
+- 养成看外语信息的习惯。
+- 在[Chrome 商店](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh), [Edge 商店](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-CN&gl=CN)，[苹果 App Store](https://apps.apple.com/cn/app/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/id6447957425), [Firefox 商店](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/)里评价我们的产品。
+
+以下为可选项：
 - 订阅[沉浸式翻译官方邮件](https://immersivetranslate.substack.com/)
 - [加入 Telegram 频道](https://t.me/immersivetranslate)
 - 关注[沉浸式翻译官方推特账号](https://twitter.com/immersivetran)
