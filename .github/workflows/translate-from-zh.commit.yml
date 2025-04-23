@@ -1,11 +1,11 @@
 name: GPT Translate per Commit
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - "official/docs/**"
+  # push:
+  #   branches:
+  #     - main
+  #   paths:
+  #     - "official/docs/**"
 jobs:
   translate_root_docs:
     runs-on: ubuntu-latest

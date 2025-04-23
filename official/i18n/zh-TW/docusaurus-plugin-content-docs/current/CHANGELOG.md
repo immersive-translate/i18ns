@@ -13,6 +13,21 @@ sidebar_position: 6
 - [官網提供的油猴腳本](https://download.immersivetranslate.com/immersive-translate.user.js)
 - [Firefox 應用商店的 beta 版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
+- [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
+- [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
+
+## 1.16.5 Release (2025-04-22)
+
+- 新增：AI 術語庫管理（僅支援 AI 翻譯服務）
+- 新增：PC 端支援劃詞翻譯功能（非油猴）
+- 新增：PC 端支援開啟 Youtube AI 字幕（Pro 會員）
+- 新增：Safari 插件支援應用內購
+- 新增：OpenRouter 翻譯服務
+- 新增：gemini 支援維吾爾語
+- 修復：網頁翻譯時，個別段落未被翻譯的問題
+- 修復：Netflix 字幕合併問題
+- 相容：Mac "360 極速瀏覽器 Pro" YouTube 無法顯示字幕
+- 優化：懸浮球樣式更新
 
 ## 1.15.9 Release (2025-03-23)
 

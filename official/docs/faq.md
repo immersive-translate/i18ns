@@ -10,7 +10,6 @@ sidebar_position: 9
 
 旧版本附加组件被禁用，[官网](https://immersivetranslate.com/) 卸载安装最新版本。
 
-![](https://s.immersivetranslate.com/assets/r2-uploads/20250315-164108.jpeg)
 
 ## 安装相关
 
@@ -291,7 +290,23 @@ YouTube 自带机翻字幕，繁体中文会出现格式错误，导致所有字
 
 ### 4. 是否有术语表 / 某些词汇特殊翻译或不翻译
 
-我们提供术语表配置功能，您可以通过术语表来指定某些词汇不被翻译，或将其翻译为特定内容。详细配置请参阅“高级自定义”中的“自定义专业术语翻译”部分：[点击这里查看](https://immersivetranslate.com/docs/advanced)
+1.16.1+ 支持 [AI 术语库](https://dash.immersivetranslate.com/#terms) 功能。
+
+AI 术语库默认不支持谷歌/微软这类机器翻译术语
+
+强行开启方法：
+(ps: 机器翻译采用的是占位符替换，术语可能会导致翻译质量下降)
+
+【[开发者设置](https://dash.immersivetranslate.com/#developer)】 -> 【Edit Full User Config】
+
+```
+{
+  ....
+  "enableMachineTranslateTerms":true,
+  ...
+}
+```
+
 
 ### 5. Word 文件翻译后无法导出为 Word 格式
 

@@ -1,11 +1,11 @@
 name: GPT Translate per Commit
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - "official/i18n/en-US/docusaurus-plugin-content-docs/current/**"
+  # push:
+  #   branches:
+  #     - main
+  #   paths:
+  #     - "official/i18n/en-US/docusaurus-plugin-content-docs/current/**"
 jobs:
   gpt_translate:
     runs-on: ubuntu-latest

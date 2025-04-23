@@ -143,7 +143,7 @@ __待翻译文本__
 - 注意
   - 建议仅在鼠标悬停和输入增强功能处使用
 
-### Deepseek 官方平台
+### DeepSeek 官方平台
 
 - APIKEY: 到这个[页面](https://platform.deepseek.com/api_keys)获取密钥。
 - 模型：截止到本文撰写时，只推荐该平台的`deepseek-chat`模型用于翻译。

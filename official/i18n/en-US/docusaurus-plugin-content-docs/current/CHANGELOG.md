@@ -13,12 +13,28 @@ The **Preview version** is published more frequently and includes some experimen
 - [official website's userscript](https://download.immersivetranslate.com/immersive-translate.user.js)
 - [beta version in the Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
+- [Android Browser](https://immersivetranslate.com/)
+- [iOS Browser](https://immersivetranslate.com/)
+
+## 1.16.5 Release (2025-04-22)
+
+- Added: AI glossary management (only supports AI translation services)
+- Added: PC version supports text selection translation feature (non-userscript)
+- Added: PC support for enabling Youtube AI subtitles (Pro members)
+- Added: Safari plugin supports in-app purchases
+- Added: OpenRouter translation services
+- Added: Gemini now supports Uyghur language
+- Fixed: Issue where some paragraphs were not translated during webpage translation
+- Fixed: Netflix subtitle merging issue
+- Compatible: Mac "360 Extreme Browser Pro" YouTube subtitle display issue
+- Improved: Updated floating ball style
 
 ## 1.15.9 Release (2025-03-23)
 
 - Fixed: An issue where the translation did not work in Safari 16.4.
 - Fixed: AI translation quality degradation for Traditional Chinese.
 - Fixed: Midjourney input box enhancement issue of repeating original text.
+
 ## 1.15.8 Release (2025-03-20)
 
 - Fixed: An issue where the hover translation shortcut key did not work on devices that support both mouse and touch.
