@@ -17,7 +17,7 @@ sidebar_position: 6
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
 
-## 1.16.5 Preview (2025-04-22)
+## 1.16.5 Release (2025-04-22)
 
 - 新增：AI 术语库管理（仅支持 AI 翻译服务）
 - 新增：PC 端支持划词翻译功能（非油猴）
