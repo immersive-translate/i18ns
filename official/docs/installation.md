@@ -4,10 +4,10 @@ sidebar_position: 1
 
 # 安装
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
 <video
   controls
-  style="width:100%; max-width:500px;"
+  style={{width:"100%", maxWidth:500}}
   muted
   src="https://s.immersivetranslate.com/assets/r2-uploads/帮助中心_-_插件安装-Xl4PjZaI7eqWilIz.mp4">
 </video>
@@ -33,11 +33,11 @@ sidebar_position: 1
 
 ### iOS Safari
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
 <video
   controls
   muted
-  style="width:100%; max-width:700px"
+  style={{width:"100%", maxWidth:700}}
   poster="https://s.immersivetranslate.com/assets/r2-uploads/帮助中心用图文-沉浸式翻译-wjcavNYLG8kSJdAi.png"
   src="https://s.immersivetranslate.com/assets/r2-uploads/帮助中心用图文-沉浸式翻译-I56_FcnkTLXCRJDB.mp4">
 </video>
@@ -45,11 +45,11 @@ sidebar_position: 1
 
 ### macOS Safari
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
   <video
     controls
     muted
-    style="width:100%; max-width:500px;"
+    style={{width:"100%", maxWidth:700}}
     poster="https://s.immersivetranslate.com/assets/r2-uploads/Mac_Safari_插件安装-封面-7FNcujE4vcmTKvA5.jpg"
     src="https://s.immersivetranslate.com/assets/r2-uploads/Mac_Safari_插件安装-RZRSyxZ6lX7GNdmN.mp4">
   </video>
@@ -86,7 +86,7 @@ sidebar_position: 1
 
 如果你无法通过以上的方式安装沉浸式翻译的官方扩展，你可以通过以下方式安装油猴脚本：
 
-油猴脚本地址：<https://download.immersivetranslate.com/immersive-translate.user.js>
+油猴脚本地址：[油猴脚本](https://download.immersivetranslate.com/immersive-translate.user.js)
 
 在已安装油猴扩展的浏览器中打开[该地址](https://download.immersivetranslate.com/immersive-translate.user.js) 即可安装。以下介绍几个支持油猴脚本的浏览器：
 
@@ -105,10 +105,9 @@ sidebar_position: 1
 
 如果安装的时候遇到疑问，可以参考 [YouTube 视频教程](https://www.youtube.com/watch?v=IWOFFWDfZGY)
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IWOFFWDfZGY" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
 </div>
-
 
 ## 手动安装 (追踪最新开发特性)
 
