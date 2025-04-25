@@ -15,11 +15,11 @@ sidebar_position: 2
 
 ## 视频教程 (移动端)
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
   <video
     controls
     muted
-    style="width: 100%; max-width: 480px;"
+    style={{width:"100%", maxWidth:480}}
     poster="https://s.immersivetranslate.com/assets/tutorial_for_mobile_250213.jpg"
     src="https://s.immersivetranslate.com/assets/tutorial_for_mobile_250213.mp4">
   </video>
@@ -67,11 +67,11 @@ sidebar_position: 2
 
 此为[Youtube 双语字幕](#youtube-双语字幕)的衍生功能，适用于 Zoom、Google Meet 和 Microsoft Teams 的在线会议。开启双语字幕翻译后在使用在线会议时会自动翻译字幕。
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
   <video
     controls
     muted
-    style="width: 100%; max-width: 500px;"
+    style={{width:"100%", maxWidth:500}}
     poster="https://s.immersivetranslate.com/assets/r2-uploads/020_ZOOM_会议实时字幕-封面-LmxO00dP73urm7rm.jpg"
     src="https://s.immersivetranslate.com/assets/r2-uploads/020_ZOOM_会议实时字幕-Y5m8dSJiLZwTX4i4.mp4">
   </video>
@@ -84,11 +84,11 @@ sidebar_position: 2
 
 点击插件图标 —> 更多，选择“阅读电子书”（支持 Epub，Mobi 等常见格式）或者“制作双语 Epub 电子书”。
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
   <video
     controls
     muted
-    style="width: 100%; max-width: 500px;"
+    style={{width:"100%", maxWidth:500}}
     poster="https://s.immersivetranslate.com/assets/r2-uploads/008_EPUB电子书翻译-封面-Nn98xOfckJimi7sW.jpg"
     src="https://s.immersivetranslate.com/assets/r2-uploads/008_EPUB电子书翻译-0CS2AJ-Dql72OJkQ.mp4">
   </video>
@@ -119,11 +119,11 @@ sidebar_position: 2
 
 如果是本地的 PDF 文件，可通过点击插件 - 更多 - 翻译本地 PDF 文件来上传并翻译。请参考以下视频：
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
   <video
     controls
     muted
-    style="width: 100%; max-width: 500px;"
+    style={{width:"100%", maxWidth:500}}
     poster="https://s.immersivetranslate.com/assets/r2-uploads/007_翻译本地PDF-封面-jNQL_qQcjHMP_Xb7.jpg"
     src="https://s.immersivetranslate.com/assets/r2-uploads/007_翻译本地PDF-Dh3MBKfZBHIQN116.mp4">
   </video>
@@ -136,11 +136,11 @@ sidebar_position: 2
 ### BabelDOC PDF 翻译（试验功能）
 点击进入 [BabelDOC PDF](https://app.immersivetranslate.com/babel-doc/) 页面，上传你的 PDF 文档，即可进行翻译。请参考以下视频：
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
   <video
     controls
     muted
-    style="width: 100%; max-width: 500px;"
+    style={{width:"100%", maxWidth:500}}
     poster="https://s.immersivetranslate.com/assets/r2-uploads/011_BabelDOC_PDF翻译-封面-PxaiX5fqsQ4hAsJ-.jpg"
     src="https://s.immersivetranslate.com/assets/r2-uploads/011_BabelDOC_PDF翻译-pXZxfEuZ4cR0yB40.mp4">
   </video>
@@ -158,17 +158,17 @@ sidebar_position: 2
 
 沉浸式支持鼠标悬停在某个段落自动翻译该段落，但是默认没有启用。请参考下图启用鼠标悬停翻译功能：
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
 <img src="https://s.immersivetranslate.com/assets/r2-uploads/帮助中心用图文-沉浸式翻译_(4)-_JbXNlBLSe-tVmjt.png" alt="browser action" width="500" />
 </div>
 
 启用后，你可以按下快捷键（Windows 系统默认为 `ctrl` 键，Mac OS 系统默认为 `control` 键）的同时，将鼠标悬停在某个段落，即可看到双语的翻译结果：
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
   <video
     controls
     muted
-    style="width: 100%; max-width: 500px;"
+    style={{width:"100%", maxWidth:500}}
     poster="https://s.immersivetranslate.com/assets/r2-uploads/005_鼠标悬停翻译-封面-GWeQa_CaMcoItEPF.jpg"
     src="https://s.immersivetranslate.com/assets/r2-uploads/005_鼠标悬停翻译-XCbqgKXQ010QQjgz.mp4">
   </video>
@@ -178,11 +178,11 @@ sidebar_position: 2
 
 你可以在浏览器的任意文本输入框中翻译你想翻译的文字，并**快速按三次空格键**，即可翻译为目标语言。请查看视频演示：
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
   <video
     controls
     muted
-    style="width: 100%; max-width: 500px;"
+    style={{width:"100%", maxWidth:500}}
     poster="https://s.immersivetranslate.com/assets/r2-uploads/017_AI输入框增强-封面-WNRwksr9rAOsmwfj.jpg"
     src="https://s.immersivetranslate.com/assets/r2-uploads/017_AI输入框增强-gMDK2FXtL2ariCnS.mp4">
   </video>
@@ -196,11 +196,11 @@ sidebar_position: 2
 
 使用说明：在当前已支持的漫画网站里，网页快捷翻译悬浮球下方会出现一个漫画翻译的按钮，点击即可开启漫画翻译。请查看视频演示：
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
   <video
     controls
     muted
-    style="width: 100%; max-width: 500px;"
+    style={{width:"100%", maxWidth:500}}
     poster="https://s.immersivetranslate.com/assets/r2-uploads/015_漫画翻译-封面-_tcOqSVIE-dOgSu5.jpg"
     src="https://s.immersivetranslate.com/assets/r2-uploads/015_漫画翻译-gw5wpSOvvCXN2FMc.mp4">
   </video>
@@ -212,11 +212,11 @@ sidebar_position: 2
 
 ## 图片翻译 (Beta)
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
   <video
     controls
     muted
-    style="width: 100%; max-width: 500px;"
+    style={{width:"100%", maxWidth:500}}
     poster="https://s.immersivetranslate.com/assets/r2-uploads/014_图片翻译-封面-DIlrtVJQGQ9fG-LR.jpg"
     src="https://s.immersivetranslate.com/assets/r2-uploads/014_图片翻译-L41wq65MDkq86U4K.mp4">
   </video>
@@ -248,11 +248,11 @@ Pro 版图片翻译利用了服务端的文本识别处理能力，支持**沉�
 
 如果你需要隐藏原文，可以点击沉浸式翻译图标，点击翻译按钮左侧的切换按钮，或在 **更多** 菜单中点击 **临时切换译文模式** 。请查看视频演示：
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
   <video
     controls
     muted
-    style="width: 100%; max-width: 500px;"
+    style={{width:"100%", maxWidth:500}}
     poster="https://s.immersivetranslate.com/assets/r2-uploads/004_切换双语-封面-AHSpIxvmD713B8sh.jpg"
     src="https://s.immersivetranslate.com/assets/r2-uploads/004_切换双语-EKS6H03tEOg-EhDt.mp4">
   </video>
