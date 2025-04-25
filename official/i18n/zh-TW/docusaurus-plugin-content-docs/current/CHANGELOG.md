@@ -16,6 +16,12 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.16.6 Preview (2025-04-25)
+
+- 修復：巢狀 iframe 頁面中懸浮球翻譯功能失效的問題。
+- 優化：網頁翻譯後，同域名下的其他頁面將自動翻譯，直到點擊【顯示原文】後停止。
+- 優化：【進階設定】中新增【僅滑鼠模式】設定選項，用於在同時支援觸控和滑鼠操作的裝置（如平板電腦）上調整翻譯觸發方式。
+
 ## 1.16.5 Release (2025-04-22)
 
 - 新增：AI 術語庫管理（僅支援 AI 翻譯服務）
