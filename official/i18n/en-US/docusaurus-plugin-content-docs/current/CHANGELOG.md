@@ -16,9 +16,11 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.16.6 Preview (2025-04-25)
+## 1.16.7 Release (2025-04-27)
 
 - Fixed: An issue where the floating ball translation feature was not working in nested iframe pages.
+- Fixed: Subtitle display issues on some video websites
+- Fixed: No error message shown when some YouTube subtitle requests fail
 - Improved: After translating a webpage, other pages under the same domain will be automatically translated until clicking [Show Original Text].
 - Improved: Added [Mouse-only Mode] setting option in [Advanced Settings] to adjust translation trigger method on devices that support both touch and mouse operations (such as tablets).
 
