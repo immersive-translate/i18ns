@@ -74,7 +74,7 @@ Android 系统：
 
 ### 7. Safari 打开设置页面 一直显示 loading
 
-打开 Safari 浏览器-> 设置 -> 网站 -> 沉浸式翻译 -> 找到immersivetranslate.com 相关域名并删除。
+打开 Safari 浏览器-> 设置 -> 网站 -> 沉浸式翻译 -> 找到 immersivetranslate.com 相关域名并删除。
 
 ![](https://s.immersivetranslate.com/assets/r2-uploads/帮助中心用图文-沉浸式翻译_(8)-O7IPyq2aF6WhbgMO.png)
 
@@ -390,7 +390,7 @@ PDF 翻译字体取决于浏览器设置，你可以将调整浏览器字体到�
 
 ### 油猴脚本如何清空缓存？
 
-由于油猴脚本的 API 限制，沉浸式翻译油猴脚本的缓存会保存在对应网站的缓存里.
+由于油猴脚本的 API 限制，沉浸式翻译油猴脚本的缓存会保存在对应网站的缓存里。
 
 所以，如果要清除的话，可以在浏览器打开相应网站的开发者工具面板，然后清空该网站的缓存。
 
