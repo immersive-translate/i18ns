@@ -16,6 +16,13 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+
+## 1.16.8 Preview (2025-04-29)
+
+- Added: iOS Immersive Translation Browser (1.1.8) supports image translation
+- Fixed: Unable to report floating ball issues in iOS Immersive Browser and Safari
+- Fixed: Playback pauses when translating YouTube subtitles in iOS Immersive Translation Browser (1.1.8)
+
 ## 1.16.7 Release (2025-04-27)
 
 - Fixed: An issue where the floating ball translation feature was not working in nested iframe pages.

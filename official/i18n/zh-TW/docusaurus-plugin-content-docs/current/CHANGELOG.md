@@ -16,6 +16,13 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+
+## 1.16.8 Preview (2025-04-29)
+
+- 新增: iOS 沉浸式翻譯瀏覽器(1.1.8) 支援圖片翻譯
+- 修復: iOS 沉浸式瀏覽器以及 Safari 懸浮球問題無法反饋
+- 修復: iOS 沉浸式翻譯瀏覽器(1.1.8) 翻譯 YouTube 字幕時，播放暫停
+
 ## 1.16.7 Release (2025-04-27)
 
 - 修復：巢狀 iframe 頁面中懸浮球翻譯功能失效的問題。
