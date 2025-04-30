@@ -16,6 +16,11 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.16.9 Preview (2025-04-30)
+
+- Fixed: Unable to use text selection translation in iframe pages
+- Fixed: Compatibility issue when importing CSV glossaries with different encodings on Windows
+- Improved: Enhanced translation quality of AI terminology translation
 
 ## 1.16.8 Preview (2025-04-29)
 

@@ -16,6 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.16.9 Preview (2025-04-30)
+
+- 修復：在 iframe 頁面中無法使用劃詞翻譯功能
+- 修復：Windows 下匯入不同編碼 CSV 術語庫的相容問題
+- 優化：提升 AI 術語翻譯的翻譯品質
 
 ## 1.16.8 Preview (2025-04-29)
 
