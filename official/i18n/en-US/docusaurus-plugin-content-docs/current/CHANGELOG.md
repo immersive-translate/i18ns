@@ -16,38 +16,43 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.16.10 Release (2025-05-06)
+
+- Improved: Information prompt after [AI subtitle] quota exceeded.
+- Improved: Rich text translation.
+
 ## 1.16.9 Preview (2025-04-30)
 
-- Fixed: Unable to use text selection translation in iframe pages
-- Fixed: Compatibility issue when importing CSV glossaries with different encodings on Windows
-- Improved: Enhanced translation quality of AI terminology translation
+- Fixed: Unable to use text selection translation in iframe pages.
+- Fixed: Compatibility issue when importing CSV glossaries with different encodings on Windows.
+- Improved: Enhanced translation quality of AI terminology translation.
 
 ## 1.16.8 Preview (2025-04-29)
 
-- Added: iOS Immersive Translation Browser (1.1.8) supports image translation
-- Fixed: Unable to report floating ball issues in iOS Immersive Browser and Safari
-- Fixed: Playback pauses when translating YouTube subtitles in iOS Immersive Translation Browser (1.1.8)
+- Added: iOS Immersive Translation Browser (1.1.8) supports image translation.
+- Fixed: Unable to report floating ball issues in iOS Immersive Browser and Safari.
+- Fixed: Playback pauses when translating YouTube subtitles in iOS Immersive Translation Browser (1.1.8).
 
 ## 1.16.7 Release (2025-04-27)
 
 - Fixed: An issue where the floating ball translation feature was not working in nested iframe pages.
-- Fixed: Subtitle display issues on some video websites
-- Fixed: No error message shown when some YouTube subtitle requests fail
+- Fixed: Subtitle display issues on some video websites.
+- Fixed: No error message shown when some YouTube subtitle requests fail.
 - Improved: After translating a webpage, other pages under the same domain will be automatically translated until clicking [Show Original Text].
 - Improved: Added [Mouse-only Mode] setting option in [Advanced Settings] to adjust translation trigger method on devices that support both touch and mouse operations (such as tablets).
 
 ## 1.16.5 Release (2025-04-22)
 
-- Added: AI glossary management (only supports AI translation services)
-- Added: PC version supports text selection translation feature (non-userscript)
-- Added: PC support for enabling Youtube AI subtitles (Pro members)
-- Added: Safari plugin supports in-app purchases
-- Added: OpenRouter translation services
-- Added: Gemini now supports Uyghur language
-- Fixed: Issue where some paragraphs were not translated during webpage translation
-- Fixed: Netflix subtitle merging issue
-- Compatible: Mac "360 Extreme Browser Pro" YouTube subtitle display issue
-- Improved: Updated floating ball style
+- Added: AI glossary management (only supports AI translation services).
+- Added: PC version supports text selection translation feature (non-userscript).
+- Added: PC support for enabling Youtube AI subtitles (Pro members).
+- Added: Safari plugin supports in-app purchases.
+- Added: OpenRouter translation services.
+- Added: Gemini now supports Uyghur language.
+- Fixed: Issue where some paragraphs were not translated during webpage translation.
+- Fixed: Netflix subtitle merging issue.
+- Compatible: Mac "360 Extreme Browser Pro" YouTube subtitle display issue.
+- Improved: Updated floating ball style.
 
 ## 1.15.9 Release (2025-03-23)
 
