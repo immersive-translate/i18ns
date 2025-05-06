@@ -16,7 +16,7 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
-## 1.16.10 Release (2025-05-06)
+## 1.16.12 Release (2025-05-06)
 
 - 優化：【AI 字幕】超額後資訊提示。
 - 優化：【富文本翻譯】功能優化。

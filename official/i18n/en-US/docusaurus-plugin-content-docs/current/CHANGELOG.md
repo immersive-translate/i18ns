@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.16.10 Release (2025-05-06)
+## 1.16.12 Release (2025-05-06)
 
 - Improved: Information prompt after [AI subtitle] quota exceeded.
 - Improved: Rich text translation.
