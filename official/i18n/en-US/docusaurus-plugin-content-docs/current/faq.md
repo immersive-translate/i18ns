@@ -218,6 +218,12 @@ Because the plugin calls Google's free API, which is an old API that Google does
 
 In [Advanced Settings](https://dash.immersivetranslate.com/#advanced), enable mouse-only mode. Version 1.14.9 will optimize this mode detection.
 
+### 24. Edge cannot read translated text aloud
+
+The read-aloud feature in Edge browser automatically selects voice models based on the original webpage language. Since these voice models are designed for a single language, when the page contains translated text, the default voice model cannot correctly read the translated content.
+
+Solution: You can click on [Voice options] in the Edge read-aloud toolbar, then manually select a voice model that matches the language of the translated text. This will allow the translated content to be read correctly.
+
 ## Video Translation Related
 
 ### 1. Youtube subtitle setup style
