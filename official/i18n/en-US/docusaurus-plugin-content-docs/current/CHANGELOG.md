@@ -18,11 +18,11 @@ The **Preview version** is published more frequently and includes some experimen
 
 ## 1.17.1 Preview (2025-05-12)
 
-- Fixed: Avoid conflicts between text selection translation shortcuts and system shortcuts
-- Fixed: Subtitle accuracy issues for TED videos with ads
-- Fixed: Safari plugin configuration export issue
-- Improved: Google Meet translation quality
-- Improved: Distinguish between Hong Kong Traditional Chinese and Taiwan Traditional Chinese
+- Fixed: Conflict between text selection translation shortcut and system shortcuts
+- Fixed: Inaccurate subtitle timeline in TED videos with ads
+- Fixed: Safari plugin settings cannot be exported properly
+- Improved: Translation quality in Google Meet
+- Improved: Distinction between Hong Kong Traditional Chinese and Taiwan Traditional Chinese
 
 ## 1.16.12 Release (2025-05-06)
 
