@@ -16,6 +16,14 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.17.1 Preview (2025-05-12)
+
+- 修复：避免划词翻译快捷键与系统快捷键冲突
+- 修复：TED 带广告视频的字幕精确度问题
+- 修复：Safari 插件无法导出配置的问题
+- 优化：Google Meet 的翻译效果
+- 优化：区分香港繁体与台湾繁体
+
 ## 1.16.12 Release (2025-05-06)
 
 - 优化：【AI 字幕】使用超出额度后，给出信息提示。

@@ -16,6 +16,14 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.17.1 Preview (2025-05-12)
+
+- Fixed: Avoid conflicts between text selection translation shortcuts and system shortcuts
+- Fixed: Subtitle accuracy issues for TED videos with ads
+- Fixed: Safari plugin configuration export issue
+- Improved: Google Meet translation quality
+- Improved: Distinguish between Hong Kong Traditional Chinese and Taiwan Traditional Chinese
+
 ## 1.16.12 Release (2025-05-06)
 
 - Improved: Information prompt after [AI subtitle] quota exceeded.
