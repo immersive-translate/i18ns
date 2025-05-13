@@ -98,7 +98,7 @@ However, when the need to print and save the time it is recommended to adjust th
 
 ## Can the White Background of Text in a PDF Be Removed?
 
-It cannot be removed. Removing it would reveal the English text underneath.
+Yes, it can be removed. You can manually turn off this option in the style settings.
 
 ### Bilingual preservation
 
