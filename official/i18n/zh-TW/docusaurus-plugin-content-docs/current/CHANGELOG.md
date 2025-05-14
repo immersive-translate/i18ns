@@ -16,6 +16,12 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.17.2 Preview (2025-05-14)
+
+- 優化：輸入框支援劃詞翻譯
+- 優化：提示詞翻譯效果
+- 優化：懸浮球取消暗黑模式
+
 ## 1.17.1 Preview (2025-05-12)
 
 - 修復：劃詞翻譯快捷鍵與系統快捷鍵衝突的問題

@@ -16,6 +16,12 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.17.2 Preview (2025-05-14)
+
+- Improved: Input boxes now support text selection translation
+- Improved: Enhanced prompt translation quality 
+- Improved: Removed dark mode for floating ball
+
 ## 1.17.1 Preview (2025-05-12)
 
 - Fixed: Conflict between text selection translation shortcut and system shortcuts

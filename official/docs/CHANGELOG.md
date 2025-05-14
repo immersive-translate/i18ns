@@ -16,6 +16,12 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.17.2 Preview (2025-05-14)
+
+- 优化：输入框支持划词翻译
+- 优化：提示词翻译效果
+- 优化：悬浮球取消暗黑模式
+
 ## 1.17.1 Preview (2025-05-12)
 
 - 修复：划词翻译快捷键与系统快捷键冲突的问题
