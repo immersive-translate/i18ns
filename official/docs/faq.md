@@ -316,13 +316,13 @@ YouTube 自带机翻字幕，繁体中文会出现格式错误，导致所有字
 
 ### 1. 如何翻译本地文件
 
-- 方法一：进入[沉浸式翻译-文档翻译](https://app.immersivetranslate.com/)，也可以点击沉浸式翻译扩展图标，点击【文件翻译】进入。
+- 方法一：进入[沉浸式翻译 - 文档翻译](https://app.immersivetranslate.com/)，也可以点击沉浸式翻译扩展图标，点击【文件翻译】进入。
 
 - 方法二：如果使用的是类 Chrome 浏览器，如（Chrome，Arc，Edge 浏览器），还有另一种办法，就是在浏览器中打开扩展管理页面`chrome://extensions`,找到【沉浸式翻译】插件，【允许该扩展访问本地文件】，之后直接在浏览器中打开本地的 HTML 或本地的 PDF 文件，就可以直接右键【翻译】了。
 
 ![](https://s.immersivetranslate.com/assets/r2-uploads/翻译本地文档设置-N2yTVc8X7HvXw3uJ.gif)
 
-**注意**：Safari 浏览器对扩展访问本地文件有严格限制，Safari 用户请直接前往[沉浸式翻译-文档翻译](https://app.immersivetranslate.com/)来翻译本地文件。
+**注意**：Safari 浏览器对扩展访问本地文件有严格限制，Safari 用户请直接前往[沉浸式翻译 - 文档翻译](https://app.immersivetranslate.com/)来翻译本地文件。
 
 ### 2. 页数过多时 PDF 文件翻译过慢
 
