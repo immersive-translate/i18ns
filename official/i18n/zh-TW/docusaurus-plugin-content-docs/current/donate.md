@@ -17,17 +17,6 @@ The content you've provided seems to be a part of a markdown file's metadata, sp
 - 幫忙[翻譯](https://crowdin.com/project/immersive-translate)擴充套件的介面語言。
 - 幫忙解答使用者在[Telegram 群組](https://t.me/+rq848Z09nehlOTgx)
 - 幫忙解答使用者在[GitHub Issue](https://github.com/immersive-translate/immersive-translate/issues)裡的提問。
-- 掃描下面二維碼，加入官方微信交流群幫忙解答使用者的疑問：
-
-<div align="center">
-<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-contact3.jpg" width="200" alt="qq"/>
-</div>
-
-- 掃描下面二維碼，關注官方微信公眾號：
-
-<div align="center">
-<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
-</div>
 
 ## 一個更長的說明
 

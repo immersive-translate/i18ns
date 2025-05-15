@@ -33,11 +33,13 @@ title: 介紹
 - [關注 Telegram 頻道](https://t.me/immersivetranslate) 接收最新訊息
 - [加入 Telegram 群組](https://t.me/+rq848Z09nehlOTgx) 參與功能的討論。
 - [問題回饋](https://github.com/immersive-translate/immersive-translate/issues/)
-- 掃描下面二維碼，加入官方微信交流群
 
-<div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
-</div>
+**社群平台**
+
+- [YouTube](https://www.youtube.com/@immersivetranslate_tw)
+- [Instagram](https://www.instagram.com/immersivetranslate)
+- [Telegram](https://t.me/immersivetranslate)
+- [Line](https://d.uppmkt.com/linehomepage)
 
 ## 目錄
 
@@ -175,16 +177,5 @@ title: 介紹
 - 幫忙[翻譯](https://crowdin.com/project/immersive-translate)擴充套件的介面語言。
 - 幫忙解答使用者在[Telegram 群組](https://t.me/+rq848Z09nehlOTgx)裡的提問。
 - 幫忙解答使用者在[GitHub Issue](https://github.com/immersive-translate/immersive-translate/issues)裡的提問。
-- 掃描下面二維碼，加入官方微信交流群，幫忙解答使用者的疑問：
-
-<div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
-</div>
-
-- 掃描下面二維碼，關注官方微信公眾號：
-
-<div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-qrcode.jpg" width="200" alt="wechat" />
-</div>
 
 在過去的兩年裡，沉浸式翻譯已經幫助了 1000 萬用戶養成了看外語信息的習慣，充分證明了好工具對打破信息壁壘至關重要。感謝每一位幫助過沉浸式翻譯的人，我們會繼續做好產品，讓更多人享受到技術帶來的紅利。

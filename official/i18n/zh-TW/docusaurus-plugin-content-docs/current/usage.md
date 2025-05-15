@@ -34,12 +34,6 @@ sidebar_position: 2
 
 **你可以在[Buzzing](https://www.buzzing.cc/)裡隨便點選一篇英文報道試試效果～**
 
-網頁翻譯的主要操作就是上面這些了，如果還有疑問的話，可以掃描下面二維碼，加入官方微信交流群直接諮詢：
-
-<div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
-</div>
-
 ## Youtube 雙語字幕
 
 隨便開啟一個影片 https://youtube.com/watch?v=EWX0bbGAd0k，點選沉浸式翻譯面板，然後選中【自動開啟雙語字幕】即可開啟。如果您選擇的設定在影片中沒有生效，一般重新整理頁面即可。
@@ -152,11 +146,6 @@ sidebar_position: 2
 - [加入 Telegram 群組](https://t.me/+rq848Z09nehlOTgx) 參與功能的討論。
 - [加入 Telegram 頻道](https://t.me/immersivetranslate) 接收最新訊息
 - [問題回饋](https://github.com/immersive-translate/immersive-translate/issues/)
-- 掃描下面二維碼，加入官方微信交流群：
-
-<div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
-</div>
 
 <video
 autoPlay
