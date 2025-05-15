@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# 加入使用者群祖
+# 加入使用者群組
 
 您可以透過以下方式和我們保持聯絡：
 
@@ -12,4 +12,6 @@ sidebar_position: 5
 - [透過郵件訂閱沉浸式翻譯](https://immersivetranslate.substack.com/) 及時獲得最新更新和 (福利)。
 - 關注[沉浸式翻譯官方 Twitter 帳號](https://x.com/immersivetrans)
 - 關注[沉浸式翻譯官方 YouTube 帳號](https://www.youtube.com/@immersivetranslate_tw)
+- 關注[沉浸式翻譯官方 Instagram 帳號](https://www.instagram.com/immersivetranslate)
 - [加入 Telegram 群組](https://t.me/+rq848Z09nehlOTgx) 參與功能的討論。
+- [加入 Line 群組](https://d.uppmkt.com/linehomepage) 參與功能的討論。
