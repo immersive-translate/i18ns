@@ -16,19 +16,27 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.17.3 Preview (2025-05-16)
+
+- Added: [AI Subtitles] Now supports Twitter video subtitles.
+- Added: [AI Subtitles] Now supports subtitles on YouTube mobile web version.
+- Fixed: Issue where Siliconflow service cannot set additional models.
+- Fixed: Issue where text selection trigger method cannot be switched in settings panel.
+- Improved: Disabled thinking mode for Qwen3 model.
+
 ## 1.17.2 Preview (2025-05-14)
 
-- Improved: Input boxes now support text selection translation
-- Improved: Enhanced prompt translation quality 
-- Improved: Removed dark mode for floating ball
+- Improved: Input boxes now support text selection translation.
+- Improved: Enhanced prompt translation quality.
+- Improved: Removed dark mode for floating ball.
 
 ## 1.17.1 Preview (2025-05-12)
 
-- Fixed: Conflict between text selection translation shortcut and system shortcuts
-- Fixed: Inaccurate subtitle timeline in TED videos with ads
-- Fixed: Safari plugin settings cannot be exported properly
-- Improved: Translation quality in Google Meet
-- Improved: Distinction between Hong Kong Traditional Chinese and Taiwan Traditional Chinese
+- Fixed: Conflict between text selection translation shortcut and system shortcuts.
+- Fixed: Inaccurate subtitle timeline in TED videos with ads.
+- Fixed: Safari plugin settings cannot be exported properly.
+- Improved: Translation quality in Google Meet.
+- Improved: Distinction between Hong Kong Traditional Chinese and Taiwan Traditional Chinese.
 
 ## 1.16.12 Release (2025-05-06)
 
