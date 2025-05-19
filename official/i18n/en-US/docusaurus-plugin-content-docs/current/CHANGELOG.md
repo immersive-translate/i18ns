@@ -16,6 +16,12 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.17.4 Preview (2025-05-19)
+
+- Improved: [Text Selection Translation] View translation history after using Pin feature
+- Improved: [AI Subtitles] Support for Twitter mobile web version
+- Improved: [Text Selection Translation] Support for click trigger option, applicable to icon and dot trigger methods
+
 ## 1.17.3 Preview (2025-05-16)
 
 - Added: [AI Subtitles] Now supports Twitter video subtitles.

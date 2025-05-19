@@ -16,6 +16,12 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.17.4 Preview (2025-05-19)
+
+- 优化：【划词翻译】使用 Pin 功能后，可查看历史翻译内容
+- 优化：【AI 字幕】支持推特移动端网页版
+- 优化：【划词翻译】支持点击触发选项，适用于图标和小圆点触发方式
+
 ## 1.17.3 Preview (2025-05-16)
 
 - 新增：【AI 字幕】增加對推特影片的支援。
