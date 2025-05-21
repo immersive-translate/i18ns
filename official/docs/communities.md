@@ -25,7 +25,7 @@ sidebar_position: 5
 <img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="322" alt="wechat"/>
 </div>
 
-- [BabelDOC](https://app.immersivetranslate.com/babel-doc/) 相关问题可以扫描下方二维码，加入 BabelDOC 内侧群
+- [BabelDOC](https://app.immersivetranslate.com/babel-doc/) 相关问题可以扫描下方二维码，加入 BabelDOC 内测群
 
 <div align="center">
 <img src="https://app.immersivetranslate.com/app-assets/img/babel-doc-wechat-7495c114.png" width="300" alt="wechat"/>
