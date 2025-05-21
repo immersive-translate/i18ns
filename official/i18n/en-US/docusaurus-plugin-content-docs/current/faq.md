@@ -6,223 +6,276 @@ sidebar_position: 9
 
 ## Security Related
 
-### 1. Android App, floating ball disappeared
+### 1. The floating ball in the Andriod App has disappeared
 
-Old version add-ons are disabled, uninstall and install the latest version from [official website](https://immersivetranslate.com/).
+Old version add-ons are disabled.
+
+Please uninstall and reinstall the latest version from [official website](https://immersivetranslate.com/).
 
 ## Installation Related
 
 ### 1. How to update the extension
 
-Generally speaking, extensions installed in the browser store will be automatically updated, usually within one day after the extension is updated. If you want to immediately update to the latest version, you can go to the browser's [Extension Management] page, enable [Developer Mode], and then click [Update] at the top to immediately update to the latest version in the store.
+In general, extensions installed from the browser store will automatically update within a day after a new version is released.
 
-![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/update-extension.png)
+If you'd like to update immediately, go to the browser's **Manage Extensions** page, enable **Developer Mode**, and click **Update** at the top. This will fetch the latest version from the store right away.
 
-### 2. Immersive Translate Tampermonkey Supported Browsers
+![](https://s.immersivetranslate.com/assets/r2-uploads/手动更新插件-X820pSYJFgXPCHVB.gif)
+
+### 2. Tampermonkey Supported Browsers for Immersive Translate Userscript
 
 iOS:
 
-- [Tamper Monkey Browser](https://www.tampermonkey.net/)
-- Safari browser with Tampermonkey extension installed, compatible extensions:
+- [Tampermonkey Browser](https://www.tampermonkey.net/)
+- Safari with a userscript extension installed:
   - [Userscripts](https://itunes.apple.com/us/app/userscripts/id1463298887)
-  - [Stay](https://apps.apple.com/cn/app/stay-safari%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BC%B4%E4%BE%A3/id1591620171): It's recommended to search for the Immersive Translate Optimization Script directly from Stay's own store (specially optimized for Stay).
+  - [Stay](https://apps.apple.com/cn/app/stay-safari%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BC%B4%E4%BE%A3/id1591620171): Recommended to search and install the optimized Immersive Translate script directly in the Stay built-in store (specially optimized for Stay).
 
 Android:
 
-- [Firefox Latest Version](https://www.firefox.com.cn/download/#product-android-release): After installation, install the [Tamper Monkey](https://www.tampermonkey.net/) extension.
-- [X Browser](https://www.xbext.com/?ref=immersive-translate): After installation, directly open the [Immersive Translate Tampermonkey script address](https://download.immersivetranslate.com/immersive-translate.user.js) to install.
+- [Latest Firefox](https://www.firefox.com.cn/download/#product-android-release): After installation, add the [Tampermonkey](https://www.tampermonkey.net/) extension.
+- [X Browser](https://www.xbext.com/?ref=immersive-translate): Open the [Immersive Translate Userscript link](https://download.immersivetranslate.com/immersive-translate.user.js) directly to install.
 
-Known browsers that don't support Tampermonkey extensions (these browsers haven't implemented the required Tampermonkey API):
+Browsers known to be unsupported due to lack of required Tampermonkey APIs:
 
-- Android Via Browser
-- iOS Alook Browser
+- Via Browser (Android)
+- Alook Browser (iOS)
 
-### 3. Error installing plugin installer on chrome
+### 3. Error when installing the extension package on Chrome
 
-Error `invalid value for web_accessible_resource[0]`: Chromium version greater than 88 is required to support manifest_version 3.
+If you see the error `invalid value for web_accessible_resource[0]`
 
-### 4. How to install 360 Browser
+Make sure your Chromium version is above 88, as manifest_version 3 requires it.
 
-Only 360 Extreme Browser X is supported, remember it's with X. If you can access the Google Extensions store, you can go directly there to install it. If you can't access it, [install it manually](/docs/installation/#manual-installation-to-keep-track-of-the-latest-development-features).
+### 4. How to Install the Extension on 360 Browser
 
-### 5. Opera browser does not work
+Immersive Translate only supports **360 Extreme Browser X** (the product name must include "X").
+
+You can install the extension from the Chrome Web Store, or [install it manually](/docs/installation/#%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85-%E8%BF%BD%E8%B8%AA%E6%9C%80%E6%96%B0%E5%BC%80%E5%8F%91%E7%89%B9%E6%80%A7).
+
+### 5. Extension does not work on Opera browser
 
 It doesn't work on google.com and other search pages, the plugin displays `Please refresh the current page before starting the translation` and refreshing the page still shows this message: You need to find "Immersive Translate" in the Opera plugin settings and enable the "Allow access to search page results" option.
 
-<!-- ![](https://s.immersivetranslate.com/static/official-static/assets/opera-allow-search.png) -->
+If the extension doesn't work on search pages like google.com and shows  
+"Please refresh the page before starting translation" even after refreshing,  
+go to Opera's extension settings, find **Immersive Translate**, and enable  
+**Allow access to search page results**.
 
 ### 6. Cannot enable extensions on iOS devices
 
 If you cannot enable extensions on your iOS device, follow these steps:
 
-1. Open the [Settings] app
-2. Scroll down and tap [Screen Time]
-3. Select [Content & Privacy Restrictions]
-4. Tap [Content Restrictions]
-5. Select [Web Content] and set it to [Unrestricted]
+1. Open the **[Settings]** app
+2. Scroll down and tap **[Screen Time]**
+3. Select **[Content & Privacy Restrictions]**
+4. Tap **[Content Restrictions]**
+5. Select **[Web Content]** and set it to **[Unrestricted]**
 
 If you don't need the other features of Content & Privacy Restrictions, you can also choose to simply turn off Content & Privacy Restrictions:
 
-1. Open the [Settings] app
-2. Select [Screen Time]
-3. Disable [Content & Privacy Restrictions]
+1. Open the **[Settings]** app
+2. Select **[Screen Time]**
+3. Disable **[Content & Privacy Restrictions]**
 
-### 7. Safari settings page keeps loading
+### 7. Safari settings page stuck on loading
 
-System Settings -> Safari browser -> Advanced -> Website Data -> Edit, find immersivetranslate.com and delete it.
+Open Safari -> Settings -> Websites -> Immersive Translate  
+Find and remove any entries related to immersivetranslate.com.
 
-### 8. After installing iOS18, redirected to blank page when logging in from settings page
+![](https://s.immersivetranslate.com/assets/r2-uploads/帮助中心用图文-沉浸式翻译_(20)-Wn2v8Fpea00jEBaE.png)
 
-Long press the floating ball and click on the avatar to log in.
+### 8. Blank page when logging in from the settings page after updating to iOS 18
 
-### 9. "File does not exist" when dragging crx file to browser extensions
+Press & hold the floating button, tap the avatar, and log in.
 
-You need to first extract the zip file, then drag only the CRX file.
+### 9. "File does not exist" when dragging .crx file to browser extensions
 
-### 10. Why is the crx download installing version 1.13.5 instead of the latest
+You need to first extract the zip file, then drag the .crx file only.
 
-Because your Chrome engine is detected to be below version 115, which doesn't support some advanced features of the plugin, so it automatically downgrades to version 1.13.5.
+### 10. Why is version 1.13.5 installed from the .crx download instead of the latest?
+
+Because your browser’s Chromium version is below 115 and doesn’t support some advanced features, the extension is automatically downgraded to version 1.13.5.
 
 ## Basic Translation Related
 
-### 1. Main content on websites like Youtube, Facebook is translated, but some sidebars are not, I want to translate everything
+### 1. Youtube, Facebook main content is translated, but some sidebars are not—how to translate everything?
 
-For the sake of page readability, immersive translation by default only translates the main content area. If you want to translate all areas:
+For better readability and user experience, Immersive Translate only translates the main content by default.
 
-Open the floating ball panel (long press on mobile) -> Click on more in the bottom right corner -> Select all areas.
+To translate the entire page:  
+Open the extension panel (long press the floating button on mobile) -> Tap **More** in the bottom-right corner -> Select **"Translate the Whole Page"**.
 
-### 2. Floating Bubble Not Displayed in Apps on Mobile
+![](https://s.immersivetranslate.com/assets/r2-uploads/帮助中心用图文-沉浸式翻译_(21)-mEXqAEu-YtJ__udT.png)
 
-- The Immersive Translate plugin is a browser plugin that can **only run in browsers**, it cannot be used in other apps, and doesn't support translation within other apps.
+### 2. Floating button not showing in mobile apps
 
-- The plugin works only in the browser where it's installed and **cannot work across browsers** (e.g., installing in Safari doesn't allow you to use it in Chrome)
+- Immersive Translate is a browser extension and **only works in browsers**. It cannot be used inside other apps.
 
-### 3. Clicking on YouTube in iOS browser directly opens the App
+- Extensions are tied to the browser they’re installed in and **do not work across browsers** (e.g., an extension installed in Safari won’t work in Chrome).
 
-Press and hold the YouTube link to pop up a floating window and choose to open in a webpage.
+### 3. On iOS, clicking a YouTube link opens the app, preventing webpage translation
+
+Long press the YouTube link and select “Open in browser” from the popup menu.
 
 ### 4. How to turn off automatic translation
 
-- Cancel in the Popup panel or on the Settings page.
-- Or change via the settings page
+How to turn off auto-translate
 
-<img src="https://s.immersivetranslate.com/assets/turn_off_automatic_translation_en.jpeg" alt="turn off automatic translation" width="250" />
+- Disable relative settings in the popup panel.
 
-### 5. No permission to translate the current page
+- Or change the settings in the **Options**.
 
-- Browser default page (no address in address bar)
-- Third-party plugin page
-- Google plugin disables Google Store page
+![](https://s.immersivetranslate.com/assets/r2-uploads/帮助中心用图文-沉浸式翻译_(23)-ecZbyUCImFS9Fis4.png)
 
-### 6. How do I not show the original text?
 
-Tap the Immersive Translate icon to open the expansion panel, tap [More], [Switch to Translation Only Mode].
+### 5. No permission to translate this page
 
-### 7. Exclamation mark appears on the page
+- Browser default pages can’t be translated (no URL in address bar)
+- Third-party extension pages can’t be translated
+- Chrome browser blocks translations on the Chrome Web Store
 
-An exclamation point on the page indicates that the translation service has encountered a problem and returned an error. You can move your mouse over the exclamation point to view the specific error.
+### 6. How to hide the original text
+
+Click the Immersive Translate icon to open the panel, tap **More**, then select **Show Translation Only**.
+
+Or click the icon on the left of Translate button on the popup panel.
+
+![](https://s.immersivetranslate.com/assets/r2-uploads/帮助中心用图文-沉浸式翻译_(22)-deSuh5rWzOcN-jUC.png)
+
+### 7. Exclamation mark on the page
+
+An exclamation mark means the translation service encountered an error.  
+Hover over it to see the specific error message.
+
 
 #### Example: 429 Error
 
-This is one of the most common errors, 429 indicating that the frequency of requests is too fast. Web page translation has a very large number of paragraphs to be translated, although we have done great optimization, including merging paragraphs, frequency control, etc., but sometimes there are still some translation services that are overloaded, returning a 429 frequency limit error. In this case, you can usually temporarily switch to other translation services, or wait for a while and try again.
+This is one of the most common errors. 429 means too many requests in a short time.  
 
-If you're using Google service and experiencing a 429 error, it's generally a case of Google doing a traffic limit against your node, and it's recommended to switch nodes.
+Webpage translation involves many segments, and despite heavy optimization, some services may still become overloaded and return a 429 rate limit error.
+
+To resolve this, try switching to another translation service temporarily or wait and try again later.
+
+If you're seeing 429 errors with Google services, it's likely that your current network node has been rate-limited by Google. Switching nodes is recommended.
 
 ### 8. How to switch translation source and target language
 
-On mobile, long press the floating ball; on desktop, move your mouse to the floating ball to bring up settings, select other translation service/other target language.
+On mobile: long press the floating button.  
+On desktop: hover over the floating button to open settings.  
+Then choose a different translation service or target language.
 
-### 9. Google Translate Interface Walled Off Issue
+![](https://s.immersivetranslate.com/assets/r2-uploads/切换翻译服务-_7cgyjZN5iHRWBS0.gif)
+
+### 9. Google Translate Being Blocked in China
 
 Please add the `translate.googleapis.com` domain name to the proxy rule.
 
-### 10. Does OpenAI's ban on API Keys in China affect member AI services
+### 10. Does OpenAI's ban on API Keys in China affect member AI services?
 
 No impact, the product uses Azure Enterprise OpenAI, which is not subject to API regional restrictions.
 
-### 11. Color Cloud Translation Error
+### 11. Caiyun Translation Error
 
-Clicking on the `?` error message shows "Unsupported trans_type". You can manually select to set the automatically detected language to a specific language.
+If the error "Unsupported trans_type" shows when clicking the `?` icon, you can manually set the source language instead of using auto-detect.
 
-### 12. WeChat Reading Cannot Be Translated
+### 12. WeChat Reading content can't be translated
 
-It cannot be translated because WeChat Reading has done special processing for the content to prevent access to the content through third-party means.
+WeChat Reading restricts content access, blocking third-party tools, so translation is not possible.
 
-### 13. Some content on web pages is not translated
+### 13. Some parts of the webpage are not translated
 
-Generally, it's because the website administrator has defined areas not to be translated using `translate="no"` or `notranslate class`, but you can resolve this by:
+This usually happens when the site uses `translate="no"` or `notranslate` class to block translation.
 
-1. Enabling mouse hover function
-2. Using mouse hover to force translate the paragraph content in that area
+You can fix it by:
 
-### 14. Trigger translation does not take effect
+1. Enabling the hover-to-translate feature  
+2. Hovering over the section to force translation
 
-When other sites can be translated but one particular site cannot:
+![](https://s.immersivetranslate.com/assets/r2-uploads/帮助中心用图文-沉浸式翻译_(24)-ahDaije_4_4a-yMO.png)
 
-- If this site has fewer visitors
-  - It's suggested to translate paragraphs by hovering the mouse
-  - If you need to translate the entire site, you can adapt it via [user rules](/docs/advanced/#user-rules)
-- If this site is used by a lot of people
-  - You can start by using mouse hover to translate
-  - Report it in the group, and it will be adapted later
+### 14. Translation not working on a specific site
 
-### 15. How do I save my webpage feedback if I have problems with the webpage translation?
+If one site doesn't translate but others work fine:
 
-You need to right-click "Save as" or use the Ctrl+S shortcut in the web page, choose single file for save option, and save with the file format .mht/.mhtml. Then send the file to support@immersivetranslate.com.
+- For low-traffic sites:  
+  - Use hover-to-translate for paragraphs  
+  - To translate the full page, consider using [user rules](/docs/advanced/#用户规则合并增强)
 
-<!-- ![save mht](https://s.immersivetranslate.com/static/official-static/assets/save_mht.png) -->
+- For popular sites:  
+  - Use Hover Translation for now  
+  - Report the issue in the user group; our team will schedule support later
 
-### 16. Feedback debug log
 
-1. Enable debug logging: Open Panel -> Settings -> Developer Settings -> Enable "Print debug log in console".
-2. Open the site's console: Right-click to open inspection -> Switch to the console at the top of the right column -> Perform the action to see the logs.
+### 15. Translation issue on a webpage — how to save and report
 
-### 17. How to turn off hoverball
+Right-click on the webpage and select “Save As” or press Ctrl+S.  
+Choose the "Single File" option and save it as a .mht/.mhtml file.  
+Then send the file to support@immersivetranslate.com.
 
-- Hide on current page: Set it to "Never translate this site"
-- Hide on all pages: Open [Settings Page] - [Interface Settings] and turn off [Show Hoverball on Page]
+![](https://s.immersivetranslate.com/assets/r2-uploads/帮助中心用图文-沉浸式翻译_(20)-7XhrpYNQfUW6GHsk.png)
 
-### 18. Mouse hover + shortcut key translation function does not work
+### 16. View Debug Logs
 
-To enable the mouse hover plus shortcut key translation feature, the page must first have focus. If you find that the feature is not triggering, try these steps:
+1. Enable debug logs: Open the panel -> Options -> Developer Settings -> Turn on “Print debug logs to console”.
+2. Open the site’s console: Right-click > Inspect -> Switch to the Console tab at the top -> Perform actions to see logs.
 
-1. Click anywhere on the page once to ensure the page has focus.
-2. Try using the mouse hover and shortcut key for translation again.
-3. If the translation function still doesn't respond, check if your shortcut key settings are correct.
+### 17. How to hide the floating button
 
-### 19. How to update the latest rules
+- Hide on current page: Set **Never translate this site** on.
+- Hide on all pages: Go to **Options** > **Floating Button**, and turn off **Enable Floating Ball**
 
-The extension itself will regularly synchronize with the latest official website adaptation rules when you use it. You can also manually synchronize with the latest rules by clicking on the browser's Immersive Translate Extension icon to open a popup window where the extension will automatically detect the latest adaptation rules and synchronize with them. The same applies to Tampermonkey scripts.
+![](https://s.immersivetranslate.com/assets/r2-uploads/帮助中心用图文-沉浸式翻译_(20)-i02MEl_SXBSPnkb9.png)
 
-### 20. Translation fails / Translation keeps spinning
+### 18. Mouse Hover + Hotkey Translation Not Working
 
-1. Check the reason for failure:
-   - If quota limit is reached, it means the member's monthly quota for that translation source is exhausted
-   - If the translation shows a network error, first check your node/network status
+To use mouse hover + hotkey translation, the page must be focused. If it's not working, try the following:
 
-2. Switch translation source: long press the floating ball to select another translation source
+1. **Click anywhere on the page** to ensure it’s focused.
+2. Try using mouse hover and the hotkey again.
+3. If it still doesn't work, **check if your hotkey settings are correct**.
+
+
+### 19. How to update to the latest rules
+
+The extension auto-syncs the latest official site rules regularly.
+
+To sync manually, click the Immersive Translate icon in your browser. Once the pop panel opens, it will automatically check and update the rules.
+
+Tampermonkey users are also supported with automatic rule detection and syncing.
+
+### 20. Translation failed / Activity indicator keeps spinning
+
+1. Check the failure reason:
+
+   - If it says **quota limit reached**, your monthly limit for that translation service has been used up.
+   - If it shows a network error, check your node or network connection.
+
+2. Switch translation service:  
+   Long press the floating button or click the extension icon, then select another service in the panel.
 
 ### 21. How to check Pro member translation quota and usage
 
-- Pro members enjoy a base translation quota of 20 million Tokens per month, which can be used for all translation services. Whether using it all for DeepL (equivalent to 20 million characters), all for OpenAI (20 million Tokens), or a mix of multiple services, you can freely allocate the quota according to your actual needs.
+- Pro members get 20 million tokens per month. This quota applies to all translation services—you can use it entirely with DeepL (≈20M characters), OpenAI (20M tokens), or split across services as needed.
 
-  > OpenAI pricing is based on tokens. For English text, 1 token is approximately 4 characters or 0.75 words. Typically, 1000 Tokens equals about 750 English words or 400-500 Chinese characters.
+  > OpenAI pricing is based on tokens. For English, 1 token ≈ 4 characters or 0.75 words.  
+  > 1,000 tokens ≈ 750 English words.
 
-- Usage inquiry address: [https://immersivetranslate.com/accounts/usage](https://immersivetranslate.com/accounts/usage)
+- Check your usage here: [https://immersivetranslate.com/accounts/usage](https://immersivetranslate.com/accounts/usage)
 
-### 22. Why is the plugin's Google translation quality not as good as Google web page translation
+### 22. Why is the extension’s Google Translate quality lower than Google’s website?
 
-Because the plugin calls Google's free API, which is an old API that Google does not continuously maintain, while Google's official webpage translation is continuously maintained. Theoretically, the quality is not as good as Google's official translation, and recently the translation quality of Google's free API has decreased significantly. We recommend switching to other translation services, and we are actively looking for alternative solutions. Related discussion: [#2574](https://github.com/immersive-translate/immersive-translate/issues/2547)
+The extension uses Google’s free API, an older, deprecated service that no longer receives updates. In contrast, the official Google Translate website continues to improve, so its translation quality is generally better.
 
-### 23. Showing touch mode when in mouse mode
+Recently, the free API’s quality has declined significantly. We recommend switching to other available translation services.
 
-In [Advanced Settings](https://dash.immersivetranslate.com/#advanced), enable mouse-only mode. Version 1.14.9 will optimize this mode detection.
+More details: [#2574](https://github.com/immersive-translate/immersive-translate/issues/2547)
 
-### 24. Edge cannot read translated text aloud
+### 23. Touch mode activated under mouse mode
 
-The read-aloud feature in Edge browser automatically selects voice models based on the original webpage language. Since these voice models are designed for a single language, when the page contains translated text, the default voice model cannot correctly read the translated content.
+Go to [Advanced Settings](https://dash.immersivetranslate.com/#advanced) and enable “Mouse Only Mode”.
 
-Solution: You can click on [Voice options] in the Edge read-aloud toolbar, then manually select a voice model that matches the language of the translated text. This will allow the translated content to be read correctly.
+This detection has been improved in version 1.14.9.
 
 ## Video Translation Related
 
@@ -230,30 +283,39 @@ Solution: You can click on [Voice options] in the Edge read-aloud toolbar, then 
 
 You can click on Youtube's own subtitle settings, [Options], and then you can adjust the size, color, and so on.
 
-![](https://s.immersivetranslate.com/assets/youtube_subtitle_options2_en.jpeg)
+![](https://s.immersivetranslate.com/assets/r2-uploads/双语字幕调整-3gCapRKm0qvqaRBT.gif)
 
-### 2. YouTube Bilingual subtitles in traditional Chinese not displayed
+### 2. YouTube bilingual subtitles not showing in Traditional Chinese
 
-YouTube comes with machine-translated subtitles, and Traditional Chinese will have formatting errors, causing all subtitles to pop up with a large section of subtitles at the beginning. Based on this scenario, it is recommended to turn on the [Use Immersive Translate to Translate Subtitles] option in [Settings] [Video Subtitles].
+YouTube’s auto-generated Traditional Chinese subtitles often have format issues, causing a large block of text to appear at the start.
 
-### 3. How to enable subtitle translation for Bilibili
+To fix this, go to **Options** > **Video Subtitles** and enable  
+**Use immersive translate to translate YouTube subtitles**.
 
-When translating Bilibili video subtitles, please follow these steps:
 
-1. First, enable Bilibili's built-in subtitles by clicking the "Subtitle" button in the bottom right corner of the player. If the video has no subtitle button or subtitle content, bilingual subtitles are not supported.
-2. Click the "Immersive Translate" icon in the player to enable the bilingual subtitle feature.
+### 3. How to enable subtitle translation on Bilibili
 
-Note when using:
+To translate Bilibili video subtitles, follow these steps:
 
-1. Make sure Bilibili's built-in subtitles are enabled.
-2. Ensure that Immersive Translate's target language is different from Bilibili's built-in subtitle language to trigger the translation function.
+1. Turn on Bilibili’s built-in subtitles by clicking the “Subtitles” button in the bottom right of the player.  
+   If there’s no subtitle button or content, bilingual subtitles are not available.
+2. Click the “Immersive Translate” icon in the player to enable bilingual subtitles.
 
-### 4. Netflix subtitle translation using original subtitle style
+![](https://s.immersivetranslate.com/assets/r2-uploads/Bilibili_双语字幕-Fm3Tkp9N1Kb2kJm8.gif)
 
-- The current Netflix approach uses progressive translation, with self-hosted subtitle styling, and doesn't support manual subtitles.
-- The old approach requires waiting for all subtitles to be translated before displaying them, but supports manual subtitles.
+Notes:
 
-To revert to the old approach, go to [[Developer Settings](https://dash.immersivetranslate.com/#developer)], find [Edit User Rules]
+1. Make sure Bilibili’s built-in subtitles are enabled.
+2. The target language in Immersive Translate must be different from the subtitle language to trigger translation.
+
+### 4. Netflix subtitle translation uses default style
+
+- The current Netflix translation uses a progressive method with self-hosted subtitles and does not support manual subtitles.
+- The old method waits for all subtitles to be translated before displaying them and supports manual subtitles.
+
+**How to revert to the old method**
+
+Go to **[Developer Settings](https://dash.immersivetranslate.com/#developer)**, find `Edit User Rules`,  
 and add the following rule:
 
 ```json
@@ -269,34 +331,47 @@ and add the following rule:
 ]
 ```
 
-## File Translation Related
+## File Translation
 
-### 1. Translation of local documents
+### 1. How to Translate Local Files
 
-- Method 1: Go to the [Immersive Translate File Translation website](https://app.immersivetranslate.com/), or click the Immersive Translate extension icon and click [File Translation] to enter.
+- Method 1: Go to [Immersive Translate - Document Translation](https://app.immersivetranslate.com/)  
+  or click the Immersive Translate extension icon and select **PDF/ePub**, or **Text**.
 
-- Method 2: If you are using Chrome-like browsers, such as (Chrome, Arc, Edge browser), there is another way: open the browser extension management page `chrome://extensions`, find the [Immersive Translate] plugin, [Allow the extension to access local files], and then directly in the browser to open the local HTML or local PDF file, you can directly right-click [Translation].
+- Method 2: If you're using a Chromium-based browser (e.g., Chrome, Arc, Edge),  
+  open `chrome://extensions`, find **Immersive Translate**,  
+  and enable **Allow access to file URLs**.  
+  Then open local HTML or PDF files in the browser and right-click to select **Translate**.
 
-**Note**: Safari browser has strict restrictions on extension access to local files. Safari users should use Method 1 directly - go to the [Immersive Translate File Translation website](https://app.immersivetranslate.com/) to translate local files.
+![](https://s.immersivetranslate.com/assets/r2-uploads/翻译本地文件-L2bmbcyUTzXK1YCE.gif)
 
-### 2. PDF translation is slow when there are many pages
+**Note**: Safari has strict limits on extension access to local files.  
+Safari users should use [Immersive Translate - Document Translation](https://app.immersivetranslate.com/) directly.
 
-It is recommended to split the document into multiple parts of less than 100 pages each, translate them separately, and then merge them after translation.
 
-### 3. Duplicate or overlapping translations in PDF
+### 2. PDF Translation Slow with Too Many Pages
 
-This is due to source file recognition issues. Currently, it is recommended to manually click on that section and delete the extra text boxes. We will continue to optimize this situation in future updates.
+Split the file into parts with fewer than 100 pages for faster translation.  
+Merge them after translation is complete.
 
-### 4. Is there a glossary / special translation or non-translation for certain terms
+### 3. Duplicate or Overlapping Translations in PDF
 
-Version 1.16.1+ supports the [AI Terminology Library](https://dash.immersivetranslate.com/#terms) feature.
+This is usually caused by source file recognition issues.  
+Manually click and remove extra text boxes.  
+We're continuously improving PDF translation accuracy.
 
-The AI terminology library doesn't support Google/Microsoft machine translation terminology by default.
+### 4. Glossary / Custom Translations or Exclusions
 
-Method to force enable:
-(ps: machine translation uses placeholder replacement, terminology may reduce translation quality)
+Version 1.16.1+ supports the [AI Glossary](https://dash.immersivetranslate.com/#terms) feature.
 
-Go to [[Developer Settings](https://dash.immersivetranslate.com/#developer)] -> [Edit Full User Config]
+Note:
+- Google/Microsoft translation does **not** support glossary terms.
+- Placeholder-based glossary may reduce translation quality.
+
+To force-enable:
+
+Go to **[Developer Settings](https://dash.immersivetranslate.com/#developer)** -> **Edit Full User Config**, then add the following code:
+
 
 ```
 {
@@ -306,59 +381,71 @@ Go to [[Developer Settings](https://dash.immersivetranslate.com/#developer)] -> 
 }
 ```
 
-### 5. Cannot export translated Word files in Word format
+### 5. Translated Word File Can’t Be Exported as Word
 
-Currently, there are some technical issues with Word file export. It is recommended to keep the existing format. We are continuously working on optimization.
+Currently, exporting to Word has technical limitations.  
+We recommend keeping the existing format.  
+Improvements are in progress.
 
-### 6. How to adjust the minimum font size in PDFs
+### 6. How to Adjust Minimum Font Size in PDF
 
-This is due to the browser's minimum font size restriction. Adjust the browser font to the lowest setting. For Chrome, for example: click [Chrome font size settings](chrome://settings/fonts?search=%E5%AD%97%E5%8F%B7)
+PDF translation font size depends on browser settings.  
+To reduce it, lower the browser font size.  
+For Chrome: go to [Chrome Font Settings](chrome://settings/fonts?search=%E5%AD%97%E5%8F%B7)  
+or follow the steps below:
 
-## Input Box Translation Related
+![](https://s.immersivetranslate.com/assets/r2-uploads/调整最小字体大小-1JD7U3a2lVyPj9Po.gif)
 
-### 1. Input box enhancement does not take effect
 
-- Browsers known to be unsupported: See the compatibility section of [Input Box Translation](https://immersivetranslate.com/docs/input/)
-- Cannot translate in the URL bar or browser initial page, only supports search bars. You can test at https://www.bing.com/
-- Try pressing the space key faster
+## Input Box Translation
 
-## Payment Related
+### 1. Input Enhancement Not Working
 
-### 1. Can I use WeChat Pay
+- Make sure you’re not using an unsupported browser:  
+  See the [Input Compatibility Guide](https://immersivetranslate.com/docs/input/)
+- Cannot translate in address bar or new tab, only in search bars (e.g. test via https://www.bing.com/)
+- Try speeding up consecutive spacebar presses
 
-WeChat payments require private messaging staff members in the group and noting "WeChat payment". After the staff provides the payment QR code, make the payment and provide the payment details. The staff will provide the required annual/monthly membership redemption code, which can be redeemed on the [Member Redemption Page](https://immersivetranslate.com/exchange/)
+## Payment
 
-### 2. Can I get an invoice
+### 1. Can I Pay with WeChat?
 
-Currently, only annual memberships can receive invoices. Users who have already paid and need an invoice should private message staff members in the group and note "invoice issue". Unpaid users can check: [Annual Membership Invoice Information](https://immersivetranslate.com/bill/)
+Yes. Message a staff member in the user group and mention “WeChat Payment”.
 
-## More questions (uncommon)
+After receiving a QR code, complete payment and send the payment details to the staff.  
+You’ll receive a membership code (monthly or yearly) to redeem at:  
+[Membership Redemption Page](https://immersivetranslate.com/exchange/)
 
-<details>
-<summary>How do I clear my cache with Tampermonkeys?</summary>
-<p>
-Due to the API limitation of Tampermonkeys, the cache of Immersive Translate Tampermonkeys will be saved in the cache of the corresponding website, so if you want to clear it, you can open the developer tools panel of the corresponding website in your browser and then clear the cache of that website.
-</p>
-</details>
+![](https://s.immersivetranslate.com/assets/r2-uploads/帮助中心用图文-沉浸式翻译_(21)-hapgjvcr9uOSJtO0.png)
 
-<details>
-<summary>Tampermonkey custom interface address request failed?</summary>
-<p>
-Tampermonkeys require that all requests from the script need to declare permissions at the beginning of the script, e.g.:`@connect api.google.com`, so if you need to add a new domain name that is not the default, please declare it at the beginning of the Tampermonkey modeled after the other domain name.
-</p>
-</details>
+### 2. Can I Get an Invoice/Fapiao?
 
-<details>
-<summary>Edge browser plugin opens blank and browser reports MANIFEST-000001 error</summary>
-<p>
-Open the [Quick File Finder (Everything)](https://www.voidtools.com/en-us/downloads/) application, search for `amkbmndfnliijdhojkpoglbnaaahippg` (the Immersive extension ID) browser storage folder, delete it, then uninstall and reinstall the plugin.
-</p>
-</details>
+Invoices/Fapiao are available for **yearly members only**.  
+Paid users: DM the staff with “Invoice/Fapiao request”.  
+Unpaid users: see the [Invoice Policy](https://immersivetranslate.com/bill/)
 
-<details>
-<summary>How to download bilingual subtitles / Can bilingual subtitles be downloaded from other websites?</summary>
-<p>
-- Currently, subtitle download is only supported on desktop.
-- Including YouTube, when there is a subtitle download button, the current website supports bilingual subtitle download.
-</p>
-</details>
+## Other Questions (Less Common)
+
+### How to Clear Tampermonkey Script Cache?
+
+Due to Tampermonkey API limits, cache is stored per site.  
+To clear it, open the site’s developer tools and clear its cache.
+
+### Tampermonkey Custom API Request Fails?
+
+Tampermonkey requires domain access to be declared at the top of the script:  
+e.g. `@connect api.google.com`  
+Add a similar line for any new domain you use.
+
+### Edge Extension Shows Blank Page with MANIFEST-000001 Error
+
+Open the [Everything File Search Tool](https://www.voidtools.com/zh-cn/downloads/)  
+Search for extension ID `amkbmndfnliijdhojkpoglbnaaahippg`  
+Delete related files, then uninstall and reinstall the extension.
+
+### How to Download Bilingual Subtitles / Are Other Sites Supported?
+
+- Subtitle download is only supported on desktop browsers.
+- For sites like YouTube, if a download button appears, bilingual subtitle download is supported.
+
+![](https://s.immersivetranslate.com/assets/r2-uploads/帮助中心用图文-沉浸式翻译_(22)-jdp_ZFllAqqe8Awa.png)
