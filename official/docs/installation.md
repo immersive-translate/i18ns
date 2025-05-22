@@ -106,7 +106,7 @@ sidebar_position: 1
 如果安装的时候遇到疑问，可以参考 [YouTube 视频教程](https://www.youtube.com/watch?v=IWOFFWDfZGY)
 
 <div style={{textAlign: "center"}}>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IWOFFWDfZGY" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+<iframe width="500" height="315" src="https://www.youtube.com/embed/IWOFFWDfZGY" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
 </div>
 
 ## 手动安装 (追踪最新开发特性)

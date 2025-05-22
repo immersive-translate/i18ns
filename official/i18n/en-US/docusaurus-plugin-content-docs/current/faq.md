@@ -225,7 +225,7 @@ Then send the file to support@immersivetranslate.com.
 - Hide on current page: Set **Never translate this site** on.
 - Hide on all pages: Go to **Options** > **Floating Button**, and turn off **Enable Floating Ball**
 
-![](https://s.immersivetranslate.com/assets/r2-uploads/帮助中心用图文-沉浸式翻译_(20)-i02MEl_SXBSPnkb9.png)
+![](https://s.immersivetranslate.com/assets/r2-uploads/帮助中心用图文-沉浸式翻译_(23)-_OlNz_acLZaxOGID.png)
 
 ### 18. Mouse Hover + Hotkey Translation Not Working
 
