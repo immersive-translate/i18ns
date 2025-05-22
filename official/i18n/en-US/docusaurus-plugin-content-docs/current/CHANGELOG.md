@@ -18,21 +18,21 @@ The **Preview version** is published more frequently and includes some experimen
 
 ## 1.17.4 Preview (2025-05-19)
 
-- Improved: [Text Selection Translation] View translation history after using Pin feature
-- Improved: [AI Subtitles] Support for Twitter mobile web version
-- Improved: [Text Selection Translation] Support for click trigger option, applicable to icon and dot trigger methods
+- Improved: [Text Selection Translation] View translation history after using Pin feature.
+- Improved: [AI Subtitles] Support for Twitter mobile web version.
+- Improved: [Text Selection Translation] Support for click trigger option, applicable to icon and dot trigger methods.
 
 ## 1.17.3 Preview (2025-05-16)
 
 - Added: [AI Subtitles] Now supports Twitter video subtitles.
 - Added: [AI Subtitles] Now supports subtitles on YouTube mobile web version.
 - Fixed: Issue where Siliconflow service cannot set additional models.
-- Fixed: Issue where text selection trigger method cannot be switched in settings panel.
+- Fixed: Issue where [Text Selection Translation] trigger method cannot be switched in settings panel.
 - Improved: Disabled thinking mode for Qwen3 model.
 
 ## 1.17.2 Preview (2025-05-14)
 
-- Improved: Input boxes now support text selection translation.
+- Improved: Input boxes now support [Text Selection Translation].
 - Improved: Enhanced prompt translation quality.
 - Improved: Removed dark mode for floating ball.
 
