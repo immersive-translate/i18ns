@@ -277,26 +277,6 @@ Go to [Advanced Settings](https://dash.immersivetranslate.com/#advanced) and ena
 
 This detection has been improved in version 1.14.9.
 
-### 24. Edge is unable to read the translation aloud.
-
-The Read Aloud feature of the Edge browser automatically selects the corresponding voice model based on the language of the original webpage. Since these voice models are designed for a single language, the default selected voice model cannot correctly read the translated content when the page contains a translation.
-
-Solution: You can click on the [Voice Options] in the toolbar of Edge's Read Aloud feature, and then manually select the speech model that matches the translated language. This will allow you to correctly read aloud the translated content.
-
-### 24. Shortcuts not working in Arc Browser
-
-Arc browser bug, will cause browser extension shortcuts to fail.
-
-Solution: In the shortcut settings page, change the scope of the shortcut from "In Chromium" to "Global".
-
-![Set shortcut to Global](https://s.immersivetranslate.com/assets/r2-uploads/set-shortcut-global-lRmFkWpxEwxavnco.png)
-
-Note: After setting it to global, the browser window can be triggered even when it is not in focus.
-
-That is, pressing the translation shortcut key in other software can also trigger the translation in the webpage, which may conflict with the shortcut keys of other software.
-
-Suggestion: Use the floating bubble translation in the Arc browser, or use the shortcut key in the Chrome browser.
-
 ## Video Translation Related
 
 ### 1. Youtube subtitle setup style
@@ -425,15 +405,6 @@ or follow the steps below:
   See the [Input Compatibility Guide](https://immersivetranslate.com/docs/input/)
 - Cannot translate in address bar or new tab, only in search bars (e.g. test via https://www.bing.com/)
 - Try speeding up consecutive spacebar presses
-
-### 2. Input enhancement not working on Mac computer
-
-If pressing three spaces on a Mac computer doesn't work, it may be because the Mac input method has a default setting of "Double-tap the space bar to insert a period."
-
-You can find "Input Sources" in "System Settings" -> "Keyboard", click the "Edit" button, and turn off the "Add Period with double-space" option.
-
-![Turn off "Add Period with double-space" on Mac
-“](https://s.immersivetranslate.com/assets/r2-uploads/turn-off-add-period-with-double-space-Yp6IL2Ve7WaIV59y.png)
 
 ## Payment
 
