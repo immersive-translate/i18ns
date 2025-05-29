@@ -16,9 +16,14 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.17.5 (2025-05-22)
+## 1.17.6 Preview (2025-05-19)
 
-- Fixed: Default configuration merging issue in Immersive Browser
+- Added: [Text translation] feature added to sidebar.
+- Improved: [Text selection translation] now supports dark mode.
+
+## 1.17.5 Preview (2025-05-22)
+
+- Fixed: Default configuration merging issue in Immersive Browser.
 
 ## 1.17.4 Release (2025-05-19)
 

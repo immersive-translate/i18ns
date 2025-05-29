@@ -16,9 +16,14 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
-## 1.17.5 (2025-05-22)
+## 1.17.6 Preview (2025-05-19)
 
-- 修复：沉浸式浏览器默认配置合并问题
+- 新增：侧边栏添加【文本翻译】功能。
+- 优化：【划词翻译】支持暗黑模式。
+
+## 1.17.5 Preview (2025-05-22)
+
+- 修复：沉浸式浏览器默认配置合并问题。
 
 ## 1.17.4 Release (2025-05-19)
 
