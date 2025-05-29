@@ -16,7 +16,11 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.17.4 Preview (2025-05-19)
+## 1.17.5 (2025-05-22)
+
+- Fixed: Default configuration merging issue in Immersive Browser
+
+## 1.17.4 Release (2025-05-19)
 
 - Improved: [Text Selection Translation] View translation history after using Pin feature.
 - Improved: [AI Subtitles] Support for Twitter mobile web version.

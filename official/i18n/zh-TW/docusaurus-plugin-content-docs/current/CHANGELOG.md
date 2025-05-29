@@ -16,7 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
-## 1.17.4 Preview (2025-05-19)
+## 1.17.5 (2025-05-22)
+
+- 修復：沉浸式瀏覽器預設配置合併問題
+
+## 1.17.4 Release (2025-05-19)
 
 - 優化：【劃詞翻譯】使用 Pin 功能後，可查看歷史翻譯內容。
 - 優化：【AI 字幕】支援推特手機端網頁版。
