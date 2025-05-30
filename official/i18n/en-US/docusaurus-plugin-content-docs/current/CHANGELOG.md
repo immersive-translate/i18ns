@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.17.6 Preview (2025-05-19)
+## 1.17.6 Preview (2025-05-29)
 
 - Added: [Text translation] feature added to sidebar.
 - Improved: [Text selection translation] now supports dark mode.
