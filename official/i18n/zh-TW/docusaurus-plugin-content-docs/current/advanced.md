@@ -526,6 +526,17 @@ export interface Rule {
 }
 ```
 
+### 修改預設翻譯快取自動清理時長
+擴充功能針對翻譯快取，預設 30 天自動清除。目的是為了防止快取過大，導致後續翻譯卡頓。可以如下操作修改預設值
+
+在【開發者設定】(https://dash.immersivetranslate.com/#developer)->【Edit Full User Config】
+```
+{
+  cacheMaxAgeDay: 30,
+  ...
+}
+```
+
 ### 自定義多語言提示詞
 
 下面展示了 openai 對於翻譯日語/中文繁體的提示詞修改

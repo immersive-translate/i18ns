@@ -526,6 +526,17 @@ export interface Rule {
 }
 ```
 
+### 修改默认翻译缓存自动清理时长
+插件针对翻译缓存，默认 30 天自动清除。目的是为了防止缓存过大，导致后续翻译卡顿。可以如下操作修改默认值
+
+在【[开发者设置](https://dash.immersivetranslate.com/#developer)】->【Edit Full User Config】
+```
+{
+  cacheMaxAgeDay: 30,
+  ...
+}
+```
+
 ### 自定义多语言提示词
 
 下面展示了 openai 对于翻译日语/中文繁体的提示词修改
