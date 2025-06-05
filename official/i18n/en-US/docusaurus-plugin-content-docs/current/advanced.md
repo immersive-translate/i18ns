@@ -811,5 +811,3 @@ The difference between Block and inline, if you want to learn more, you can look
 
 - Block elements will occupy a full line, and multiple adjacent block elements will each start on a new line.
 - Inline elements will not occupy a full line; multiple adjacent inline elements will be arranged on the same line until the line cannot accommodate more, then they will wrap to a new line.
-
-</rewritten_file>
