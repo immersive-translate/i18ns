@@ -16,6 +16,13 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.18.1 Release (2025-06-12)
+
+- 修復：側邊欄無法正確顯示頁面語言的問題。
+- 修復：自定義 systemPrompt 無法正確應用的問題。
+- 修復：關閉【輸入框翻譯】空格觸發後導致的翻譯錯誤問題。
+- 優化：擴展彩雲小譯支援的語言範圍，新增多個語種支援。
+
 ## 1.17.7 Preview (2025-06-04)
 
 - 新增：側邊欄添加【文本翻譯】功能。

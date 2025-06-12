@@ -16,6 +16,13 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.18.1 Release (2025-06-12)
+
+- Fixed: Issue where page language is not displayed correctly in sidebar.
+- Fixed: Issue where custom systemPrompt is not applied correctly.
+- Fixed: Translation error after disabling space trigger for [Input Box Translation].
+- Improved: Extended language support range for Caiyun Translation, adding multiple new languages.
+
 ## 1.17.7 Preview (2025-06-04)
 
 - Added: [Text translation] feature added to sidebar.
