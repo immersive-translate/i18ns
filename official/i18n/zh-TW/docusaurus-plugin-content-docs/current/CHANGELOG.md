@@ -16,6 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.18.2 Preview (2025-06-13)
+
+- 優化：翻譯服務設定頁面的版面配置和互動體驗。
+- 優化：提供更豐富的翻譯模型選擇。
+
 ## 1.18.1 Release (2025-06-12)
 
 - 修復：側邊欄無法正確顯示頁面語言的問題。
