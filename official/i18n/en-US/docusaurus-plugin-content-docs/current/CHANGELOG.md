@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.18.2 Preview (2025-06-13)
+## 1.18.2 Preview (2025-06-16)
 
 - Improved: Layout and interaction experience of translation service settings page.
 - Improved: Providing richer translation model options.
