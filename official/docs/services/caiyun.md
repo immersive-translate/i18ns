@@ -3,7 +3,7 @@
 ## 简要说明
 
 1. 官方网站：[彩云科技开放平台](https://dashboard.caiyunapp.com/)
-2. 官方介绍：[五分钟学会彩云小译 API](https://docs.caiyunapp.com/blog/2018/09/03/lingocloud-api/)
+2. 官方介绍：[五分钟学会彩云小译 API](https://docs.caiyunapp.com/lingocloud-api/)
 3. 彩云小译的官方说明：翻译免费额度为 100 万字，有效期 1 个月，如果您每月超过 100 万字，我们会按照 39 元 / 100 万字 的费率收费。(字数按照翻译原文字符计算，包含空格和标点)
 
 ## 申请步骤
