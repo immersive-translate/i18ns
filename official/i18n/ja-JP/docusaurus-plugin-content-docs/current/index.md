@@ -78,7 +78,7 @@ title: イントロダクション
 
 他の Android ブラウザで Immersive Translate をインストールすることも試せます。Firefox 拡張機能や Chrome 拡張機能をサポートするブラウザなどです。
 
-- [Edge ブラウザ](https://www.microsoft.com/edge/emmx/immersivetranslatecollaboration)
+- [Edge ブラウザ](https://edgemobileapp.microsoft.com?adjustId=1m5nkuo3_1mtfb881)
 - [Firefox ベータ版またはナイトリーバージョン](https://www.mozilla.org/firefox/channel/android/)
 - [Lemur ブラウザ](https://lemurbrowser.com/)
 - [Kiwi ブラウザ](https://kiwibrowser.com/)

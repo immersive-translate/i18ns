@@ -78,7 +78,7 @@ title: المقدمة
 
 يمكنك أيضًا محاولة تثبيت Immersive Translate مع متصفحات Android الأخرى، مثل تلك التي تدعم إضافات Firefox أو إضافات Chrome، مثل
 
-- [متصفح Edge](https://www.microsoft.com/edge/emmx/immersivetranslatecollaboration)
+- [متصفح Edge](https://edgemobileapp.microsoft.com?adjustId=1m5nkuo3_1mtfb881)
 - [إصدار Firefox Beta أو Nightly](https://www.mozilla.org/firefox/channel/android/)
 - [متصفح Lemur](https://lemurbrowser.com/)
 - [متصفح Kiwi](https://kiwibrowser.com/)

@@ -78,7 +78,7 @@ Haz clic para descargar el [APK del navegador Immersive Translate para Android](
 
 También puedes intentar instalar Immersive Translate con otros navegadores de Android, como aquellos que admiten extensiones de Firefox o Chrome, como
 
-- [Navegador Edge](https://www.microsoft.com/edge/emmx/immersivetranslatecollaboration)
+- [Navegador Edge](https://edgemobileapp.microsoft.com?adjustId=1m5nkuo3_1mtfb881)
 - [Versión Beta o Nightly de Firefox](https://www.mozilla.org/firefox/channel/android/)
 - [Navegador Lemur](https://lemurbrowser.com/)
 - [Navegador Kiwi](https://kiwibrowser.com/)

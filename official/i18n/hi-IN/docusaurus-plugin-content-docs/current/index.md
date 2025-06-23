@@ -78,7 +78,7 @@ title: परिचय
 
 आप अन्य Android ब्राउज़रों के साथ इमर्सिव ट्रांसलेट इंस्टॉल करने का प्रयास भी कर सकते हैं, जैसे कि वे जो Firefox एक्सटेंशन्स या Chrome एक्सटेंशन्स का समर्थन करते हैं, जैसे
 
-- [Edge ब्राउज़र](https://www.microsoft.com/edge/emmx/immersivetranslatecollaboration)
+- [Edge ब्राउज़र](https://edgemobileapp.microsoft.com?adjustId=1m5nkuo3_1mtfb881)
 - [Firefox बीटा संस्करण या नाइटली संस्करण](https://www.mozilla.org/firefox/channel/android/)
 - [Lemur ब्राउज़र](https://lemurbrowser.com/)
 - [Kiwi ब्राउज़र](https://kiwibrowser.com/)

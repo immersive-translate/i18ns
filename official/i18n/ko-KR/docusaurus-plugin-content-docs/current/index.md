@@ -78,7 +78,7 @@ title: 소개
 
 다른 Android 브라우저에서도 Immersive Translate 를 설치해 볼 수 있습니다. 예를 들어 Firefox 확장이나 Chrome 확장을 지원하는 브라우저에서
 
-- [Edge 브라우저](https://www.microsoft.com/edge/emmx/immersivetranslatecollaboration)
+- [Edge 브라우저](https://edgemobileapp.microsoft.com?adjustId=1m5nkuo3_1mtfb881)
 - [Firefox 베타 버전 또는 Nightly 버전](https://www.mozilla.org/firefox/channel/android/)
 - [Lemur 브라우저](https://lemurbrowser.com/)
 - [Kiwi 브라우저](https://kiwibrowser.com/)
