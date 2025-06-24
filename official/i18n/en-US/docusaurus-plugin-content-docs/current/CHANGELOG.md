@@ -16,6 +16,11 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.18.6 Preview (2025-06-24)
+
+- Fixed: PDF translation page translation service and panel are out of sync.
+- Improved: Panel text translation jumps to web.
+
 ## 1.18.3 Preview (2025-06-17)
 
 - Improved: Layout and interaction experience of translation service settings page.

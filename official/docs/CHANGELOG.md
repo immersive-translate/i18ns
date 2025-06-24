@@ -16,6 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.18.6 Preview (2025-06-24)
+
+- 修复：PDF 翻译页面翻译服务和面板不同步。
+- 优化：面板文本翻译跳转到网页。
+
 ## 1.18.3 Preview (2025-06-17)
 
 - 优化：翻译服务设置页面的布局和交互体验。
