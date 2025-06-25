@@ -99,7 +99,30 @@ Because your browser’s Chromium version is below 115 and doesn’t support som
 
 ## Basic Translation Related
 
-### 1. Youtube, Facebook main content is translated, but some sidebars are not—how to translate everything?
+### 1. What's the difference between "Translate Webpage", "Translate the Main Content", and "Translate the Whole Page"?
+
+**Translate Webpage (Default Option)**
+
+This option essentially means "Translate the Main Content of the Page".
+
+- **What does it mean?** To preserve the original layout and navigation functionality of most websites, Immersive Translate intelligently identifies the core content areas of web pages (such as article text, post content, etc.) and translates them.
+
+- **Why do this?** Elements like navigation bars, headers/footers, or special elements (like Twitter usernames, posting times) would not only break the page aesthetics if translated, but could also affect normal website usage. Therefore, we've made fine-tuned adaptations for many mainstream websites, excluding these non-core parts from translation.
+
+- **Additional note:** This rule isn't 100% perfect. Some older or niche websites may not have been adapted, so even in default mode, navigation bars and other areas might get translated. We're continuously optimizing this.
+
+**Translate the Whole Page**
+
+As the name suggests, when you select this option, the extension will indiscriminately translate all recognizable text on the page. Previously excluded navigation bars, sidebars, and all other elements will be attempted for translation.
+
+**Use Cases**
+
+- **Daily use:** We recommend keeping the default "Translate Webpage" option, as it provides the best web browsing experience while ensuring translation effectiveness.
+- **Special situations:** When you find that certain sidebar or other area content hasn't been translated and you actually need its translation, you can manually switch to "Translate the Whole Page" as a temporary solution.
+
+![](./toggleTranslateAll.png)
+
+### 2. Youtube, Facebook main content is translated, but some sidebars are not—how to translate everything?
 
 For better readability and user experience, Immersive Translate only translates the main content by default.
 
@@ -277,6 +300,27 @@ Go to [Advanced Settings](https://dash.immersivetranslate.com/#advanced) and ena
 
 This detection has been improved in version 1.14.9.
 
+
+### 24. Edge is unable to read the translation aloud.
+
+The Read Aloud feature of the Edge browser automatically selects the corresponding voice model based on the language of the original webpage. Since these voice models are designed for a single language, the default selected voice model cannot correctly read the translated content when the page contains a translation.
+
+Solution: You can click on the [Voice Options] in the toolbar of Edge's Read Aloud feature, and then manually select the speech model that matches the translated language. This will allow you to correctly read aloud the translated content.
+
+### 25. Shortcuts not working in Arc Browser
+
+Arc browser bug, will cause browser extension shortcuts to fail.
+
+Solution: In the shortcut settings page, change the scope of the shortcut from "In Chromium" to "Global".
+
+![Set shortcut to Global](https://s.immersivetranslate.com/assets/r2-uploads/set-shortcut-global-lRmFkWpxEwxavnco.png)
+
+Note: After setting it to global, the browser window can be triggered even when it is not in focus.
+
+That is, pressing the translation shortcut key in other software can also trigger the translation in the webpage, which may conflict with the shortcut keys of other software.
+
+Suggestion: Use the floating bubble translation in the Arc browser, or use the shortcut key in the Chrome browser.
+
 ## Video Translation Related
 
 ### 1. Youtube subtitle setup style
@@ -405,6 +449,15 @@ or follow the steps below:
   See the [Input Compatibility Guide](https://immersivetranslate.com/docs/input/)
 - Cannot translate in address bar or new tab, only in search bars (e.g. test via https://www.bing.com/)
 - Try speeding up consecutive spacebar presses
+
+### 2. Input enhancement not working on Mac computer
+
+If pressing three spaces on a Mac computer doesn't work, it may be because the Mac input method has a default setting of "Double-tap the space bar to insert a period."
+
+You can find "Input Sources" in "System Settings" -> "Keyboard", click the "Edit" button, and turn off the "Add Period with double-space" option.
+
+![Turn off "Add Period with double-space" on Mac
+“](https://s.immersivetranslate.com/assets/r2-uploads/turn-off-add-period-with-double-space-Yp6IL2Ve7WaIV59y.png)
 
 ## Payment
 
