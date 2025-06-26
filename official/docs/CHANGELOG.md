@@ -16,6 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.18.8 Preview (2025-06-26)
+
+- 新增：任务奖励中心。
+- 优化：站内自动翻译支持自定义【进阶设置】->【站内页面自动翻译】。
+
 ## 1.18.7 Preview (2025-06-24)
 
 - 修复：PDF 翻译页面翻译服务和面板不同步。
