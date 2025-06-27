@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 ---
-# Immersive Translate AI Prompt Configuration Guide
+# AI Prompt Configuration Guide
 
 ## Overview
 

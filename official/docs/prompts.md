@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 ---
-# 沉浸式翻译 AI Prompt 配置指南
+# AI Prompt 配置指南
 
 ## 概述
 
