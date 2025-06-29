@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.18.8 Preview (2025-06-26)
+## 1.18.9 Preview (2025-06-30)
 
 - Added: Task reward center.
 - Improved: In-site auto translation supports customization [Advanced Settings] -> [Enable site auto-translation].
