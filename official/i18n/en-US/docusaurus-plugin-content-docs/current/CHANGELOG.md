@@ -16,7 +16,17 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.18.9 Preview (2025-06-30)
+## 1.19.1 Preview (2025-07-09)
+
+- Fixed: Translation service error after data migration.
+- Fixed: Slow response speed of floating ball translation in multi-iframe pages.
+- Fixed: No response when translating PDF in Chrome browser.
+- Fixed: Unable to recognize when double-clicking [Text Selection Translation].
+- Improved: Reduced memory usage during webpage translation.
+- Improved: Official website's text translation application supports [AI Context] feature.
+- Improved: AI subtitles support filtering out environmental sound labels, such as: (snoring), (thunder).
+
+## 1.18.10 Release (2025-06-30)
 
 - Added: Task reward center.
 - Improved: In-site auto translation supports customization [Advanced Settings] -> [Enable site auto-translation].
