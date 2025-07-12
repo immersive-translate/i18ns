@@ -16,6 +16,12 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.19.2 Preview (2025-07-11)
+
+- 新增：支持百度千帆 v2 API。
+- 优化：Loom 视频平台现已支持双语字幕显示。
+- 优化：侧边栏文本翻译支持上下文功能，提升翻译准确度。
+
 ## 1.19.1 Preview (2025-07-09)
 
 - 修复：数据迁移后翻译服务报错问题。

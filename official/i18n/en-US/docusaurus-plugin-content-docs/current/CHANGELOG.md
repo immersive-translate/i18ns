@@ -16,6 +16,12 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.19.2 Preview (2025-07-11)
+
+- Added: Support for Baidu Qianfan v2 API.
+- Improved: Loom video platform now supports dual-language subtitles.
+- Improved: Sidebar text translation supports context feature, improving translation accuracy.
+
 ## 1.19.1 Preview (2025-07-09)
 
 - Fixed: Translation service error after data migration.
