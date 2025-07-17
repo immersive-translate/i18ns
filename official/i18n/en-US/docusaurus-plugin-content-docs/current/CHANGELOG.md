@@ -16,6 +16,12 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.19.4 Preview (2025-07-17)
+
+- Fixed: Unable to translate subtitles on EDX platform.
+- Fixed: Inaccurate text pronunciation in text selection translation.
+- Fixed: Unable to display floating ball in sidebar on small screen devices.
+
 ## 1.19.2 Preview (2025-07-11)
 
 - Added: Support for Baidu Qianfan v2 API.

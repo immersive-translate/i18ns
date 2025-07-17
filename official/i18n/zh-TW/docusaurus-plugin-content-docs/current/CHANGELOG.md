@@ -16,6 +16,12 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.19.4 Preview (2025-07-17)
+
+- 修復：EDX 平台視頻字幕無法正常翻譯的問題。
+- 修復：劃詞翻譯功能文本發音不準確的問題。
+- 修復：在小屏幕設備上側邊欄懸浮球無法正常顯示的問題。
+
 ## 1.19.2 Preview (2025-07-11)
 
 - 新增：支援百度千帆 v2 API。
