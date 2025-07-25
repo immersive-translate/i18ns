@@ -22,6 +22,8 @@
   - API 接口：https://api.cognitive.microsofttranslator.com/translate?x=2
 - [阿里云百炼大模型](./services/aliyun-bailian.md)
   - API 接口：https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
+- [Qwen-MT](./services/qwen-mt.md)
+  - API 接口：https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
 - [阿里云翻译](./services/aliyun.md)
   - API 接口：https://\{service\}.aliyuncs.com?\{paramsString\}
 - [百度千帆大模型](./services/baidu-qianfan.md)
