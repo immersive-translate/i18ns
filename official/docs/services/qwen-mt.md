@@ -2,7 +2,7 @@
 
 ## 简要说明
 
-1. 官方网站：[Qwen-MT模型](https://help.aliyun.com/model-studio/machine-translation)
+1. 官方网站：[Qwen-MT 模型](https://help.aliyun.com/model-studio/machine-translation)
 
 ## 申请步骤
 
