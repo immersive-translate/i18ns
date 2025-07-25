@@ -16,6 +16,12 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.19.6 Preview (2025-07-25)
+
+- 新增：支持 Qwen-MT 翻译服务。
+- 优化：Gemini 支持更多语言。
+- 优化：文本环绕排版下的译文效果。
+
 ## 1.19.4 Preview (2025-07-17)
 
 - 修复：EDX 平台视频字幕无法正常翻译的问题。
