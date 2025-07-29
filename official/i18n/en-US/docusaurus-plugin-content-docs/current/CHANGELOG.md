@@ -16,6 +16,11 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.19.7 Preview (2025-07-29)
+
+- Added: AI reply function, supporting intelligent generation of reply content on GitHub, Gmail, and other platforms.
+- Improved: Moved the [AI Context] setting to the popup panel, improving the convenience of settings.
+
 ## 1.19.6 Preview (2025-07-25)
 
 - Added: Support for Qwen-MT translation service.

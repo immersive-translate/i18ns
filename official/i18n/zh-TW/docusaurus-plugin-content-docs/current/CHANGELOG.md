@@ -16,6 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.19.7 Preview (2025-07-29)
+
+- 新增：AI 回覆功能，支援在 GitHub、Gmail 等平台生成智能回覆內容。
+- 優化：將【AI 精翻】設定項移至面板中，提升設定便捷性。
+
 ## 1.19.6 Preview (2025-07-25)
 
 - 新增：支援 Qwen-MT 翻譯服務。
