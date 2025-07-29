@@ -249,7 +249,7 @@ The **Preview version** is published more frequently and includes some experimen
 
 ## 1.13.4 Preview (2025-01-13)
 
-- Added: Pro members can now directly use the **Zhipu 4 Plus** model.
+- Added: Pro members can now directly use the **zhipu 4.5** model.
 - Improved: Gemini translation.
 
 ## 1.13.1 (2025-01-10)

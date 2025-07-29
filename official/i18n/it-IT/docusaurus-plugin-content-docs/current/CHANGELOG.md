@@ -88,7 +88,7 @@ La **Preview version** viene pubblicata più frequentemente e include alcune fun
 
 ## 1.13.4 Preview (2025-01-13)
 
-- Aggiunto: I membri Pro possono ora utilizzare direttamente il modello **Zhipu 4 Plus**.
+- Aggiunto: I membri Pro possono ora utilizzare direttamente il modello **zhipu 4.5**.
 - Migliorato: Traduzione Gemini.
 
 ## 1.13.1 (2025-01-10)
