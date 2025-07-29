@@ -524,6 +524,37 @@ export interface Rule {
     }
   ...
 }
+}
+```
+
+#### Gemini 系列模型用戶如何自定義配置
+
+由於 Gemini 系列模型的特殊性，插件內置了部分設定。用戶若想覆蓋插件內置的設定，可以參考以下配置：
+
+```json
+{
+  ...
+  "translationServices": {
+    "gemini": {
+      "modelsOverrides": [
+        // 指定要重寫的模型，這裡重寫了 gemini-2.5-flash 和 gemini-2.5-flash-lite 兩個模型
+        "models": [
+          "gemini-2.5-flash",
+          "gemini-2.5-flash-lite"
+        ],
+        {
+          "bodyConfigs": {
+            ...
+          },
+          "headerConfigs": {
+            ...
+          }
+        }
+      ]
+    }
+  },
+  ...
+}
 ```
 
 ### 自訂翻譯的權杖比例校驗
