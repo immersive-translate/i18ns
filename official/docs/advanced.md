@@ -541,7 +541,15 @@ export interface Rule {
         "models": [
           "gemini-2.5-flash",
           "gemini-2.5-flash-lite"
-        ]
+        ],
+        {
+          "bodyConfigs": {
+            ...
+          },
+          "headerConfigs": {
+            ...
+          }
+        }
       ]
     }
   },
