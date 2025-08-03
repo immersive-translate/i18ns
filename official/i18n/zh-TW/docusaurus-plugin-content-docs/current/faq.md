@@ -306,7 +306,7 @@ YouTube 內建機翻字幕，繁體中文會出現格式錯誤，導致所有字
 
   ![](https://s.immersivetranslate.com/assets/allow-pdf-2.png)
 
-**注意**：Safari 瀏覽器對擴充套件存取本機檔案有嚴格限制，Safari 使用者請直接使用方法一，前往[沉浸式翻譯文件翻譯官網](https://app.immersivetranslate.com/)來翻譯本機檔案。
+**注意**：Safari 瀏覽器和 Firefox 瀏覽器對擴充套件存取本機檔案有嚴格限制，Safari 和 Firefox 使用者請直接使用方法一，前往[沉浸式翻譯文件翻譯官網](https://app.immersivetranslate.com/)來翻譯本機檔案。
 
 ### 2. 頁數過多時 PDF 文件翻譯過慢
 

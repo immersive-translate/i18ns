@@ -49,14 +49,8 @@ If you want an element to be treated as a whole and not broken into lines when t
 ```json
 {
   "matches": "https://www.instagram.com/*",
-  "selectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ],
-  "atomicBlockSelectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ]
+  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
+  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
 }
 ```
 
@@ -376,18 +370,10 @@ Note that the `glossaries` key-value pair is placed under the `generalRule` key-
 ```json
 [
   {
-    "selectors.remove": [
-      "[data-testid=\"tweetText\"]"
-    ],
-    "selectors.add": [
-      ""
-    ],
-    "excludeSelectors.add":[
-      ""
-    ],
-    "excludeSelectors.remove":[
-      ""
-    ],
+    "selectors.remove": ["[data-testid=\"tweetText\"]"],
+    "selectors.add": [""],
+    "excludeSelectors.add": [""],
+    "excludeSelectors.remove": [""],
     "id": "twitter"
   }
 ]
@@ -509,7 +495,7 @@ Finally, let's summarize our processing logic: 1. Judge whether the `hostname` o
 
 In 【[Developer Settings](https://dash.immersivetranslate.com/#developer)】->【Edit Full User Config】
 
-```
+```json
 {
   ...
   "translationServices": {
@@ -524,14 +510,39 @@ In 【[Developer Settings](https://dash.immersivetranslate.com/#developer)】->�
     }
   ...
 }
+}
+```
+
+#### Gemini series model users how to customize configuration
+
+Due to the special nature of the Gemini series models, the plugin has built-in some settings. If users want to override the built-in settings, they can refer to the following configuration:
+
+```json
+{
+...
+"translationServices": {
+    "gemini": {
+      "modelsOverrides": [
+        // Specify the model to be overridden, here we override the gemini-2.5-flash and gemini-2.5-flash-lite two models
+        "models": [
+          "gemini-2.5-flash",
+          "gemini-2.5-flash-lite"
+        ]
+      ]
+    }
+  },
+...
+}
 ```
 
 ### Custom Translation Token Ratio Validation
+
 > To mitigate the "hallucination" phenomenon of Large Language Models, we have a built-in translation quality validation mechanism. The program evaluates the reasonableness of the result by calculating the token ratio between the response text and the request text. If this ratio is abnormal (too high or too low), the translation will be considered invalid and a fallback will be triggered.
 >
 > If you intend for the model to output content with a length significantly different from the original text in "Custom Expert Mode" (e.g., for tasks like summarization or expansion), you may need to adjust this validation setting. You can override the default behavior with the following options to ensure your custom instructions execute correctly.
 >
 > Specifically, you can adjust the following two parameters:
+>
 > - `maxTokensRatio`: Defines the maximum allowed token ratio between the response text and the request text. If the actual ratio exceeds this value, the system will deem the response too long and consider it invalid.
 > - `minTokensRatio`: Defines the minimum allowed token ratio between the response text and the request text. If the actual ratio is below this value, the system will deem the response too short and consider it invalid.
 
@@ -546,9 +557,11 @@ In 【[Developer Settings](https://dash.immersivetranslate.com/#developer)】->�
 ```
 
 ### Modify Default Translation Cache Auto-Cleanup Duration
+
 The plugin defaults to automatically clearing the translation cache every 30 days. The purpose is to prevent the cache from becoming too large, which could cause subsequent translations to lag. You can modify the default value as follows:
 
 In 【[Developer Settings](https://dash.immersivetranslate.com/#developer)】->【Edit Full User Config】
+
 ```
 {
   cacheMaxAgeDay: 30,

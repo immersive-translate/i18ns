@@ -382,7 +382,7 @@ Edge 浏览器请参考以下方式——
 
 ![在 Edge 中打开本地文件 url](https://s.immersivetranslate.com/assets/r2-uploads/Edge_打开本地_URL-juaXE7MDCNCLEueI.gif)
 
-**注意**：Safari 浏览器对扩展访问本地文件有严格限制，Safari 用户请直接前往[沉浸式翻译 - 文档翻译](https://app.immersivetranslate.com/)来翻译本地文件。
+**注意**：Safari 浏览器和 Firefox 浏览器对扩展访问本地文件有严格限制，Safari 和 Firefox 用户请直接前往[沉浸式翻译 - 文档翻译](https://app.immersivetranslate.com/)来翻译本地文件。
 
 ### 2. 页数过多时 PDF 文件翻译过慢
 

@@ -389,8 +389,8 @@ and add the following rule:
 
 ![](https://s.immersivetranslate.com/assets/r2-uploads/翻译本地文件-L2bmbcyUTzXK1YCE.gif)
 
-**Note**: Safari has strict limits on extension access to local files.  
-Safari users should use [Immersive Translate - Document Translation](https://app.immersivetranslate.com/) directly.
+**Note**: Safari and Firefox have strict limits on extension access to local files.  
+Safari and Firefox users should use [Immersive Translate - Document Translation](https://app.immersivetranslate.com/) directly.
 
 
 ### 2. PDF Translation Slow with Too Many Pages
