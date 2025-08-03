@@ -16,6 +16,10 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.20.1 Preview (2025-08-01)
+
+- 修复: 部分会员配置同步问题
+
 ## 1.19.7 Preview (2025-07-29)
 
 - 新增：AI 回复功能，支持在 GitHub、Gmail 等平台生成智能回复内容。
