@@ -16,6 +16,11 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.20.3 Preview (2025-08-05)
+
+- Fixed: Qwen MT language support list issue.
+- Fixed: Websites configured as "Never Translate" were still being translated.
+
 ## 1.20.1 Preview (2025-08-01)
 
 - Fixed: Some membership configuration synchronization issues
@@ -31,7 +36,7 @@ The **Preview version** is published more frequently and includes some experimen
 - Improved: Gemini supports more languages.
 - Improved: Translation effect in text wrapping layout.
 
-## 1.19.4 Preview (2025-07-17)
+## 1.19.5 Release (2025-07-17)
 
 - Fixed: Unable to translate subtitles on EDX platform.
 - Fixed: Inaccurate text pronunciation in text selection translation.

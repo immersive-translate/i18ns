@@ -16,6 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.20.3 Preview (2025-08-05)
+
+- 修復：Qwen MT 語言支援列表問題。
+- 修復：設定為「永不翻譯」的網址仍被翻譯的問題。
+
 ## 1.20.1 Preview (2025-08-01)
 
 - 修復：部分會員配置同步問題
@@ -31,7 +36,7 @@ sidebar_position: 6
 - 優化：Gemini 支援更多語言。
 - 優化：文字環繞排版下的譯文效果。
 
-## 1.19.4 Preview (2025-07-17)
+## 1.19.5 Release (2025-07-17)
 
 - 修復：EDX 平台視頻字幕無法正常翻譯的問題。
 - 修復：劃詞翻譯功能文本發音不準確的問題。
