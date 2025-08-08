@@ -16,7 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
-## 1.20.3 Preview (2025-08-05)
+## 1.20.4 Preview (2025-08-08)
+
+- 修复：新版沉浸式 iOS App 翻译 Pixiv 漫画
+
+## 1.20.3 Release (2025-08-05)
 
 - 修复：Qwen MT 语言支持列表问题。
 - 修复：配置为“永不翻译”的网址仍被翻译的问题。
