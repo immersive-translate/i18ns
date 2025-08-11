@@ -175,7 +175,7 @@ title: 介紹
 <!-- - [加入 Telegram 頻道](https://t.me/immersivetranslate) -->
 - 關注[沉浸式翻譯官方 Twitter 帳號](https://x.com/immersivetrans)
 - 幫忙[翻譯](https://crowdin.com/project/immersive-translate)擴充套件的介面語言。
-<!-- - 幫忙解答使用者在[Telegram 群組](https://t.me/+rq848Z09nehlOTgx)裡的提問。 -->
+<!-- - 幫忙解答使用者在 [Telegram 群組](https://t.me/+rq848Z09nehlOTgx) 裡的提問。 -->
 - 幫忙解答使用者在[GitHub Issue](https://github.com/immersive-translate/immersive-translate/issues)裡的提問。
 
 在過去的兩年裡，沉浸式翻譯已經幫助了 1000 萬用戶養成了看外語信息的習慣，充分證明了好工具對打破信息壁壘至關重要。感謝每一位幫助過沉浸式翻譯的人，我們會繼續做好產品，讓更多人享受到技術帶來的紅利。

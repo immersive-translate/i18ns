@@ -19,7 +19,7 @@ sidebar_position: 10
 - [몰입형 번역 공식 트위터 계정 팔로우](https://twitter.com/immersivetran)
 - [문서 기여](https://immersivetranslate.com/), 오른쪽 상단의 편집 버튼을 클릭하세요.
 - 이 확장 프로그램의 인터페이스 언어를 [번역](https://crowdin.com/project/immersive-translate)하는 데 도움을 주세요.
-<!-- - [Telegram 그룹](https://t.me/+rq848Z09nehlOTgx)에서 사용자의 질문에 답변을 도와주세요. -->
+<!-- - [Telegram 그룹](https://t.me/+rq848Z09nehlOTgx) 에서 사용자의 질문에 답변을 도와주세요. -->
 - [Github Issue](https://github.com/immersive-translate/immersive-translate/issues)에서 사용자의 질문에 답변을 도와주세요.
 - 아래 QR 코드를 스캔하여 공식 위챗 교류 그룹에 가입하여 사용자의 질문에 답변을 도와주세요:
 

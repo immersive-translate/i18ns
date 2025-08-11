@@ -11,8 +11,8 @@ sidebar_position: 5
 - [Pro 会員](https://immersivetranslate.com/pricing/)は、会員専用サポートメール `support@immersivetranslate.com` を通じて私たちと連絡を取ることができます。
 - [メールで没入型翻訳を購読する](https://immersivetranslate.substack.com/)ことで、最新の更新と（福利）をタイムリーに受け取ることができます。
 - [没入型翻訳の公式 Twitter アカウント](https://twitter.com/immersivetran)をフォローする
-<!-- - [Telegram グループに参加する](https://t.me/+rq848Z09nehlOTgx)ことで、機能に関する議論に参加する。
-- [Telegram チャンネルに参加する](https://t.me/immersivetranslate)ことで、最新のニュースを受け取る -->
+<!-- - [Telegram グループに参加する](https://t.me/+rq848Z09nehlOTgx) ことで、機能に関する議論に参加する。
+- [Telegram チャンネルに参加する](https://t.me/immersivetranslate) ことで、最新のニュースを受け取る -->
 - 下記の QR コードをスキャンして、公式 WeChat グループに参加する
 
 <div align="center">

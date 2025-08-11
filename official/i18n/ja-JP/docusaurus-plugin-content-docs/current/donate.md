@@ -19,7 +19,7 @@ sidebar_position: 10
 - [沈浸式翻訳公式 Twitter アカウントをフォローする](https://twitter.com/immersivetran)。
 - [ドキュメントに貢献する](https://immersivetranslate.com/)、右上の編集ボタンをクリックするだけです。
 - この拡張機能のインターフェース言語を[翻訳する](https://crowdin.com/project/immersive-translate)。
-<!-- - [Telegram グループ](https://t.me/+rq848Z09nehlOTgx)でユーザーの質問に答える。 -->
+<!-- - [Telegram グループ](https://t.me/+rq848Z09nehlOTgx) でユーザーの質問に答える。 -->
 - [Github Issue](https://github.com/immersive-translate/immersive-translate/issues)でユーザーの質問に答える。
 - 下記の QR コードをスキャンし、公式 WeChat グループに参加してユーザーの質問に答える：
 

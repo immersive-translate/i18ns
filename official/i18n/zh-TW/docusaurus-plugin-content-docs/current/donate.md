@@ -15,7 +15,7 @@ The content you've provided seems to be a part of a markdown file's metadata, sp
 - 關注[沉浸式翻譯官方 Twitter 帳號](https://x.com/immersivetrans)
 - 幫忙[貢獻文件](https://immersivetranslate.com/),點選右上角編輯按鈕即可。
 - 幫忙[翻譯](https://crowdin.com/project/immersive-translate)擴充套件的介面語言。
-<!-- - 幫忙解答使用者在[Telegram 群組](https://t.me/+rq848Z09nehlOTgx) -->
+<!-- - 幫忙解答使用者在 [Telegram 群組](https://t.me/+rq848Z09nehlOTgx) -->
 - 幫忙解答使用者在[GitHub Issue](https://github.com/immersive-translate/immersive-translate/issues)裡的提問。
 
 ## 一個更長的說明
