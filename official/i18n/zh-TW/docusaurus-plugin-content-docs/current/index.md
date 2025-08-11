@@ -30,8 +30,8 @@ title: 介紹
 
 - [透過郵件訂閱沉浸式翻譯](https://immersivetranslate.substack.com/) 及時獲得最新更新和 (福利)。
 - [關注沉浸式翻譯的官方 Twitter](https://twitter.com/immersivetran)
-<!-- - [關注 Telegram 頻道](https://t.me/immersivetranslate) 接收最新訊息
-- [加入 Telegram 群組](https://t.me/+rq848Z09nehlOTgx) 參與功能的討論。 -->
+<!-- - [關注 Telegram 頻道](https://t.me/immersivetranslate) 接收最新訊息 -->
+<!-- - [加入 Telegram 群組](https://t.me/+rq848Z09nehlOTgx) 參與功能的討論。 -->
 - [問題回饋](https://github.com/immersive-translate/immersive-translate/issues/)
 
 **社群平台**
