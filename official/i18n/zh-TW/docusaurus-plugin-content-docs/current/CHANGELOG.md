@@ -16,6 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.20.5 Preview (2025-08-11)
+
+- 優化：面板移除「生成網頁快照」功能入口。
+- 優化：DeepL 新增支持泰語，越南語，希伯來語。
+
 ## 1.20.4 Preview (2025-08-08)
 
 - 修復：新版沉浸式 iOS App 翻譯 Pixiv 漫畫

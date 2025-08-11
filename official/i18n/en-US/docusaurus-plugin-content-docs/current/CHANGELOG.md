@@ -16,6 +16,11 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.20.5 Preview (2025-08-11)
+
+- Improved: Removed "Snapshot" feature entry from the panel.
+- Improved: DeepL now supports Thai, Vietnamese, and Hebrew.
+
 ## 1.20.4 Preview (2025-08-08)
 
 - Fixed: Translation of Pixiv manga in the new Immersive iOS App.
