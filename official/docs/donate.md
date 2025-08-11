@@ -15,11 +15,11 @@ sidebar_position: 10
 - 在[Chrome 商店](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh), [Edge 商店](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-CN&gl=CN)，[苹果 App Store](https://apps.apple.com/cn/app/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/id6447957425), [Firefox 商店](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/)里评价该扩展。
 - 以下为可选项：
 - 订阅[沉浸式翻译官方邮件](https://immersivetranslate.substack.com/)
-- [加入 Telegram 频道](https://t.me/immersivetranslate)
+<!-- - [加入 Telegram 频道](https://t.me/immersivetranslate) -->
 - 关注[沉浸式翻译官方推特账号](https://twitter.com/immersivetran)
 - 帮忙[贡献文档](https://immersivetranslate.com/),点击右上角编辑按钮即可。
 - 帮忙[翻译](https://crowdin.com/project/immersive-translate)该扩展的界面语言。
-- 帮忙解答用户在[Telegram 群组](https://t.me/+rq848Z09nehlOTgx)
+<!-- - 帮忙解答用户在[Telegram 群组](https://t.me/+rq848Z09nehlOTgx) -->
 - 帮忙解答用户在[Github Issue](https://github.com/immersive-translate/immersive-translate/issues)里的提问。
 - 扫描下面二维码，加入官方微信交流群帮忙解答用户的疑问：
 

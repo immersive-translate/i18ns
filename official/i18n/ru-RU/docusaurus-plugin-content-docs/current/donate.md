@@ -15,11 +15,11 @@ If you have any actual textual content in Chinese that you need translated into 
 - Оставьте отзыв о нашем расширении в [магазине Chrome](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh), [магазине Edge](https://microsoftedge.microsoft.com/addons/detail/%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-CN&gl=CN), [Apple App Store](https://apps.apple.com/cn/app/%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/id6447957425), [магазине Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/).
 - Опционально, вы также можете:
 - Подписаться на [официальную рассылку погружения в перевод](https://immersivetranslate.substack.com/).
-- [Присоединиться к каналу Telegram](https://t.me/immersivetranslate).
+<!-- - [Присоединиться к каналу Telegram](https://t.me/immersivetranslate). -->
 - Подписаться на [официальный аккаунт погружения в перевод в Twitter](https://twitter.com/immersivetran).
 - Помочь с [вкладом в документацию](https://immersivetranslate.com/), нажав кнопку редактирования в правом верхнем углу.
 - Помочь с [переводом интерфейса расширения](https://crowdin.com/project/immersive-translate).
-- Помочь отвечать на вопросы пользователей в [группе Telegram](https://t.me/+rq848Z09nehlOTgx).
+<!-- - Помочь отвечать на вопросы пользователей в [группе Telegram](https://t.me/+rq848Z09nehlOTgx). -->
 - Помочь отвечать на вопросы пользователей в [Github Issue](https://github.com/immersive-translate/immersive-translate/issues).
 - Отсканируйте QR-код ниже, чтобы присоединиться к официальной группе WeChat и помочь отвечать на вопросы пользователей:
 

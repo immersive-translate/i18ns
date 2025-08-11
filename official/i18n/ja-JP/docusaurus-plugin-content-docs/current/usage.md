@@ -101,8 +101,8 @@ Greasemonkey スクリプトを使用している場合は、[オンラインウ
 
 - [没入型翻訳のメール購読を通じて](https://immersivetranslate.substack.com/) 最新の更新と（特典）をタイムリーに入手してください。
 - [没入型翻訳の公式 Twitter をフォローする](https://twitter.com/immersivetran)
-- [Telegram グループに参加する](https://t.me/+rq848Z09nehlOTgx) 機能討論に参加する。
-- [Telegram チャンネルに参加する](https://t.me/immersivetranslate) 最新のニュースを受け取る
+<!-- - [Telegram グループに参加する](https://t.me/+rq848Z09nehlOTgx) 機能討論に参加する。 -->
+<!-- - [Telegram チャンネルに参加する](https://t.me/immersivetranslate) 最新のニュースを受け取る -->
 - [フィードバックの問題](https://github.com/immersive-translate/immersive-translate/issues/)
 - 下記の QR コードをスキャンして、公式 WeChat グループに参加してください：
 

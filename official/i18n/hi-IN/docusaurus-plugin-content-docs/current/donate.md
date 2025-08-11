@@ -15,11 +15,11 @@ sidebar_position: 10
 - [Chrome Store](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh), [Edge Store](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg), [Apple App Store](https://apps.apple.com/app/id6447957425), [Firefox Store](https://addons.mozilla.org/firefox/addon/immersive-translate/) में एक्सटेंशन का मूल्यांकन करें।
 - निम्नलिखित वैकल्पिक है:
 - [आधिकारिक Immersive Translate ईमेल की सदस्यता लें](https://immersivetranslate.substack.com/)
-- [टेलीग्राम चैनल में शामिल हों](https://t.me/immersivetranslate)
+<!-- - [टेलीग्राम चैनल में शामिल हों](https://t.me/immersivetranslate) -->
 - [Immersive Translate के आधिकारिक ट्विटर अकाउंट को फॉलो करें](https://twitter.com/immersivetran)
 - [दस्तावेज़ीकरण में योगदान](https://immersivetranslate.com/) करें, बस ऊपरी दाएं कोने में संपादित बटन पर क्लिक करें।
 - इस एक्सटेंशन की इंटरफेस भाषा के लिए [अनुवाद](https://crowdin.com/project/immersive-translate) में मदद करें।
-- [टेलीग्राम समूह](https://t.me/+rq848Z09nehlOTgx) में उपयोगकर्ताओं के लिए सहायक उत्तर दें।
+<!-- - [टेलीग्राम समूह](https://t.me/+rq848Z09nehlOTgx) में उपयोगकर्ताओं के लिए सहायक उत्तर दें। -->
 - [Github Issue](https://github.com/immersive-translate/immersive-translate/issues) में उपयोगकर्ता प्रश्नों का उत्तर दें।
 - नीचे दिए गए QR कोड को स्कैन करके आधिकारिक WeChat एक्सचेंज ग्रुप में शामिल हों ताकि उपयोगकर्ताओं के प्रश्नों का उत्तर देने में मदद मिल सके:
 

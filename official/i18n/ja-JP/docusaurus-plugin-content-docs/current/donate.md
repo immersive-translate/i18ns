@@ -15,11 +15,11 @@ sidebar_position: 10
 - [Chrome ストア](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)、[Edge ストア](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-CN&gl=CN)、[Apple App Store](https://apps.apple.com/cn/app/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/id6447957425)、[Firefox ストア](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/)でこの拡張機能を評価する。
 - 以下はオプションです：
 - [沈浸式翻訳公式メール](https://immersivetranslate.substack.com/)を購読する。
-- [Telegram チャンネルに参加する](https://t.me/immersivetranslate)。
+<!-- - [Telegram チャンネルに参加する](https://t.me/immersivetranslate)。 -->
 - [沈浸式翻訳公式 Twitter アカウントをフォローする](https://twitter.com/immersivetran)。
 - [ドキュメントに貢献する](https://immersivetranslate.com/)、右上の編集ボタンをクリックするだけです。
 - この拡張機能のインターフェース言語を[翻訳する](https://crowdin.com/project/immersive-translate)。
-- [Telegram グループ](https://t.me/+rq848Z09nehlOTgx)でユーザーの質問に答える。
+<!-- - [Telegram グループ](https://t.me/+rq848Z09nehlOTgx)でユーザーの質問に答える。 -->
 - [Github Issue](https://github.com/immersive-translate/immersive-translate/issues)でユーザーの質問に答える。
 - 下記の QR コードをスキャンし、公式 WeChat グループに参加してユーザーの質問に答える：
 

@@ -31,8 +31,8 @@ title: 介绍
 
 - [通过邮件订阅沉浸式翻译](https://immersivetranslate.substack.com/) 及时获得最新更新和福利。
 - [关注沉浸式翻译的官方 Twitter](https://twitter.com/immersivetran)
-- [关注 Telegram 频道](https://t.me/immersivetranslate) 接收最新消息
-- [加入 Telegram 群组](https://t.me/+rq848Z09nehlOTgx) 参与功能的讨论。
+<!-- - [关注 Telegram 频道](https://t.me/immersivetranslate) 接收最新消息 -->
+<!-- - [加入 Telegram 群组](https://t.me/+rq848Z09nehlOTgx) 参与功能的讨论。 -->
 - [问题反馈](https://github.com/immersive-translate/immersive-translate/issues/)
 - 扫描下面二维码，加入官方微信交流群
 
@@ -113,10 +113,10 @@ title: 介绍
 
 以下为可选项：
 - 订阅[沉浸式翻译官方邮件](https://immersivetranslate.substack.com/)
-- [加入 Telegram 频道](https://t.me/immersivetranslate)
+<!-- - [加入 Telegram 频道](https://t.me/immersivetranslate) -->
 - 关注[沉浸式翻译官方推特账号](https://twitter.com/immersivetran)
 - 帮忙[翻译](https://crowdin.com/project/immersive-translate)该扩展的界面语言。
-- 帮忙解答用户在[Telegram 群组](https://t.me/+rq848Z09nehlOTgx)里的提问。
+<!-- - 帮忙解答用户在[Telegram 群组](https://t.me/+rq848Z09nehlOTgx)里的提问。 -->
 - 帮忙解答用户在[GitHub Issue](https://github.com/immersive-translate/immersive-translate/issues)里的提问。
 - 扫描下面二维码，加入官方微信交流群，帮忙解答用户的疑问：
 

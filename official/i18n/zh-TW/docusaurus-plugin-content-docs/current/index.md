@@ -30,15 +30,15 @@ title: 介紹
 
 - [透過郵件訂閱沉浸式翻譯](https://immersivetranslate.substack.com/) 及時獲得最新更新和 (福利)。
 - [關注沉浸式翻譯的官方 Twitter](https://twitter.com/immersivetran)
-- [關注 Telegram 頻道](https://t.me/immersivetranslate) 接收最新訊息
-- [加入 Telegram 群組](https://t.me/+rq848Z09nehlOTgx) 參與功能的討論。
+<!-- - [關注 Telegram 頻道](https://t.me/immersivetranslate) 接收最新訊息
+- [加入 Telegram 群組](https://t.me/+rq848Z09nehlOTgx) 參與功能的討論。 -->
 - [問題回饋](https://github.com/immersive-translate/immersive-translate/issues/)
 
 **社群平台**
 
 - [YouTube](https://www.youtube.com/@immersivetranslate_tw)
 - [Instagram](https://www.instagram.com/immersivetranslate)
-- [Telegram](https://t.me/immersivetranslate)
+<!-- - [Telegram](https://t.me/immersivetranslate) -->
 - [Line](https://d.uppmkt.com/linehomepage)
 
 ## 目錄
@@ -172,10 +172,10 @@ title: 介紹
 - 在[Chrome 商店](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh), [Edge 商店](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AD%AF/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-TW&gl=TW)，[蘋果 App Store](https://apps.apple.com/tw/app/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AD%AF/id6447957425), [Firefox 商店](https://addons.mozilla.org/zh-TW/firefox/addon/immersive-translate/)裡評價擴充套件。
 - 以下為可選項：
 - 訂閱[沉浸式翻譯官方郵件](https://immersivetranslate.substack.com/)
-- [加入 Telegram 頻道](https://t.me/immersivetranslate)
+<!-- - [加入 Telegram 頻道](https://t.me/immersivetranslate) -->
 - 關注[沉浸式翻譯官方 Twitter 帳號](https://x.com/immersivetrans)
 - 幫忙[翻譯](https://crowdin.com/project/immersive-translate)擴充套件的介面語言。
-- 幫忙解答使用者在[Telegram 群組](https://t.me/+rq848Z09nehlOTgx)裡的提問。
+<!-- - 幫忙解答使用者在[Telegram 群組](https://t.me/+rq848Z09nehlOTgx)裡的提問。 -->
 - 幫忙解答使用者在[GitHub Issue](https://github.com/immersive-translate/immersive-translate/issues)裡的提問。
 
 在過去的兩年裡，沉浸式翻譯已經幫助了 1000 萬用戶養成了看外語信息的習慣，充分證明了好工具對打破信息壁壘至關重要。感謝每一位幫助過沉浸式翻譯的人，我們會繼續做好產品，讓更多人享受到技術帶來的紅利。

@@ -15,11 +15,11 @@ sidebar_position: 10
 - [Chrome 스토어](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh), [Edge 스토어](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-CN&gl=CN), [애플 App Store](https://apps.apple.com/cn/app/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/id6447957425), [Firefox 스토어](https://addons.mozilla.org/zh-CN/firefox/addon/immersive-translate/)에서 이 확장 프로그램을 평가해주세요.
 - 다음은 선택 사항입니다:
 - [몰입형 번역 공식 메일 구독](https://immersivetranslate.substack.com/)
-- [Telegram 채널 가입](https://t.me/immersivetranslate)
+<!-- - [Telegram 채널 가입](https://t.me/immersivetranslate) -->
 - [몰입형 번역 공식 트위터 계정 팔로우](https://twitter.com/immersivetran)
 - [문서 기여](https://immersivetranslate.com/), 오른쪽 상단의 편집 버튼을 클릭하세요.
 - 이 확장 프로그램의 인터페이스 언어를 [번역](https://crowdin.com/project/immersive-translate)하는 데 도움을 주세요.
-- [Telegram 그룹](https://t.me/+rq848Z09nehlOTgx)에서 사용자의 질문에 답변을 도와주세요.
+<!-- - [Telegram 그룹](https://t.me/+rq848Z09nehlOTgx)에서 사용자의 질문에 답변을 도와주세요. -->
 - [Github Issue](https://github.com/immersive-translate/immersive-translate/issues)에서 사용자의 질문에 답변을 도와주세요.
 - 아래 QR 코드를 스캔하여 공식 위챗 교류 그룹에 가입하여 사용자의 질문에 답변을 도와주세요:
 

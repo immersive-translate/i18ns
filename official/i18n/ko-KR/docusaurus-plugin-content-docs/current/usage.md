@@ -171,8 +171,8 @@ Tampermonkey 스크립트를 사용하는 경우, [온라인 웹 버전 설정 �
 
 - [임머시브 번역 이메일 구독](https://immersivetranslate.substack.com/) 최신 업데이트와 (혜택) 을 즉시 받으세요.
 - [임머시브 번역 공식 Twitter 팔로우](https://twitter.com/immersivetran)
-- [Telegram 그룹 참여](https://t.me/+rq848Z09nehlOTgx) 기능 토론에 참여하세요.
-- [Telegram 채널 참여](https://t.me/immersivetranslate) 최신 소식을 받으세요
+<!-- - [Telegram 그룹 참여](https://t.me/+rq848Z09nehlOTgx) 기능 토론에 참여하세요. -->
+<!-- - [Telegram 채널 참여](https://t.me/immersivetranslate) 최신 소식을 받으세요 -->
 - [문제 피드백](https://github.com/immersive-translate/immersive-translate/issues/)
 - 아래 QR 코드를 스캔하여 공식 WeChat 그룹에 참여하세요:
 

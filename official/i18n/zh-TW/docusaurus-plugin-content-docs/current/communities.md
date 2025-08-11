@@ -13,7 +13,7 @@ sidebar_position: 5
 - 關注[沉浸式翻譯官方 Twitter 帳號](https://x.com/immersivetrans)
 - 關注[沉浸式翻譯官方 YouTube 帳號](https://www.youtube.com/@immersivetranslate_tw)
 - 關注[沉浸式翻譯官方 Instagram 帳號](https://www.instagram.com/immersivetranslate)
-- [加入 Telegram 群組](https://t.me/+rq848Z09nehlOTgx) 參與功能的討論。
+<!-- - [加入 Telegram 群組](https://t.me/+rq848Z09nehlOTgx) 參與功能的討論。 -->
 - [加入 Line 群組](https://d.uppmkt.com/linehomepage) 參與功能的討論。
 - 扫描下面二维码，加入 Line 群組
 

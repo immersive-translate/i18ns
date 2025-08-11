@@ -107,8 +107,8 @@ sidebar_position: 2
 
 - [Подписаться на погружающий перевод по электронной почте](https://immersivetranslate.substack.com/) и получать последние обновления и (привилегии).
 - [Подписаться на официальный Twitter погружающего перевода](https://twitter.com/immersivetran)
-- [Присоединиться к группе Telegram](https://t.me/+rq848Z09nehlOTgx) для обсуждения функций.
-- [Присоединиться к каналу Telegram](https://t.me/immersivetranslate) для получения последних новостей.
+<!-- - [Присоединиться к группе Telegram](https://t.me/+rq848Z09nehlOTgx) для обсуждения функций.
+- [Присоединиться к каналу Telegram](https://t.me/immersivetranslate) для получения последних новостей. -->
 - [Обратная связь по вопросам](https://github.com/immersive-translate/immersive-translate/issues/)
 - Отсканируйте QR-код ниже, чтобы присоединиться к официальной группе WeChat для общения:
 

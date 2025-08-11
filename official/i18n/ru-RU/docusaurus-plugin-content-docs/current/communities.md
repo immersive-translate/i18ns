@@ -11,8 +11,8 @@ sidebar_position: 5
 - [Pro-подписчики](https://immersivetranslate.com/pricing/) могут связаться с нами через специальный адрес электронной почты для быстрой поддержки `support@immersivetranslate.com`.
 - [Подписаться на почтовую рассылку Immersive Translate](https://immersivetranslate.substack.com/) для получения последних обновлений и (специальных предложений).
 - Следить за [официальным аккаунтом Immersive Translate в Twitter](https://twitter.com/immersivetran)
-- [Присоединиться к группе Telegram](https://t.me/+rq848Z09nehlOTgx) для обсуждения функционала.
-- [Присоединиться к каналу Telegram](https://t.me/immersivetranslate) для получения последних новостей
+<!-- - [Присоединиться к группе Telegram](https://t.me/+rq848Z09nehlOTgx) для обсуждения функционала.
+- [Присоединиться к каналу Telegram](https://t.me/immersivetranslate) для получения последних новостей -->
 - Отсканируйте QR-код ниже, чтобы присоединиться к официальной группе WeChat для общения
 
 <div align="center">

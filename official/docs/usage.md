@@ -270,8 +270,8 @@ Pro 版图片翻译利用了服务端的文本识别处理能力，支持**沉�
 
 - [通过邮件订阅沉浸式翻译](https://immersivetranslate.substack.com/) 及时获得最新更新福利。
 - [关注沉浸式翻译的官方 X 账号](https://X.com/immersivetran)
-- [加入 Telegram 群组](https://t.me/+rq848Z09nehlOTgx) 参与功能的讨论。
-- [加入 Telegram 频道](https://t.me/immersivetranslate) 接收最新消息
+<!-- - [加入 Telegram 群组](https://t.me/+rq848Z09nehlOTgx) 参与功能的讨论。 -->
+<!-- - [加入 Telegram 频道](https://t.me/immersivetranslate) 接收最新消息 -->
 - [问题反馈](https://github.com/immersive-translate/immersive-translate/issues/)
 - 扫描下面二维码，加入官方微信交流群：
 

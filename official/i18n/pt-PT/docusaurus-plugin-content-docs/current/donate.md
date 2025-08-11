@@ -15,11 +15,11 @@ Você ainda pode fazer estas coisas para nos ajudar agora:
 - Na [Chrome Store](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh), [Edge Store](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg), [Apple App Store](https://apps.apple.com/app/id6447957425), [Firefox Store](https://addons.mozilla.org/firefox/addon/immersive-translate/) para avaliar a extensão.
 - O seguinte é opcional:
 - Inscreva-se no [email oficial do Immersive Translate](https://immersivetranslate.substack.com/)
-- [Junte-se ao canal do Telegram](https://t.me/immersivetranslate)
+<!-- - [Junte-se ao canal do Telegram](https://t.me/immersivetranslate) -->
 - Siga [a conta oficial do Twitter do Immersive Translate](https://twitter.com/immersivetran)
 - Ajude a [Contribuir com Documentação](https://immersivetranslate.com/), basta clicar no botão Editar no canto superior direito.
 - Ajude com a [tradução](https://crowdin.com/project/immersive-translate) da linguagem de interface para esta extensão.
-- Respostas úteis para usuários no [grupo do Telegram](https://t.me/+rq848Z09nehlOTgx)
+<!-- - Respostas úteis para usuários no [grupo do Telegram](https://t.me/+rq848Z09nehlOTgx) -->
 - Ajude a responder perguntas de usuários no [Github Issue](https://github.com/immersive-translate/immersive-translate/issues).
 - Escaneie o código QR abaixo para se juntar ao grupo oficial de troca do WeChat para ajudar a responder às perguntas dos usuários:
 

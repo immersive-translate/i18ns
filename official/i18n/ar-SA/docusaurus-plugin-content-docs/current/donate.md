@@ -15,7 +15,7 @@ sidebar_position: 10
 - في [متجر Chrome](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)، [متجر Edge](https://microsoftedge.microsoft.com/addons/detail/amkbmndfnliijdhojkpoglbnaaahippg)، [متجر تطبيقات Apple](https://apps.apple.com/app/id6447957425)، [متجر Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate/) لتقييم الإضافة.
 - الآتي اختياري:
 - اشترك في [البريد الإلكتروني الرسمي لـ Immersive Translate](https://immersivetranslate.substack.com/)
-- [انضم إلى قناة التليجرام](https://t.me/immersivetranslate)
+<!-- - [انضم إلى قناة التليجرام](https://t.me/immersivetranslate) -->
 - تابع [الحساب الرسمي لـ Immersive Translate على تويتر](https://twitter.com/immersivetran)
 - ساعد في [المساهمة في التوثيق](https://immersivetranslate.com/)، فقط انقر على زر التحرير في الزاوية العلوية اليمنى.
 - المساعدة في [الترجمة](https://crowdin.com/project/immersive-translate) لغة واجهة هذه الإضافة.

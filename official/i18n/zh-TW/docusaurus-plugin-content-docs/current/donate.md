@@ -11,11 +11,11 @@ The content you've provided seems to be a part of a markdown file's metadata, sp
 - 在[Chrome 商店](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh), [Edge 商店](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-TW&gl=TW)，[蘋果 App Store](https://apps.apple.com/tw/app/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/id6447957425), [Firefox 商店](https://addons.mozilla.org/zh-TW/firefox/addon/immersive-translate/)裡評價擴充套件。
 - 以下為可選項：
 - 訂閱[沉浸式翻譯官方郵件](https://immersivetranslate.substack.com/)
-- [加入 Telegram 頻道](https://t.me/immersivetranslate)
+<!-- - [加入 Telegram 頻道](https://t.me/immersivetranslate) -->
 - 關注[沉浸式翻譯官方 Twitter 帳號](https://x.com/immersivetrans)
 - 幫忙[貢獻文件](https://immersivetranslate.com/),點選右上角編輯按鈕即可。
 - 幫忙[翻譯](https://crowdin.com/project/immersive-translate)擴充套件的介面語言。
-- 幫忙解答使用者在[Telegram 群組](https://t.me/+rq848Z09nehlOTgx)
+<!-- - 幫忙解答使用者在[Telegram 群組](https://t.me/+rq848Z09nehlOTgx) -->
 - 幫忙解答使用者在[GitHub Issue](https://github.com/immersive-translate/immersive-translate/issues)裡的提問。
 
 ## 一個更長的說明
