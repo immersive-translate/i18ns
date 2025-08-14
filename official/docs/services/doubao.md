@@ -9,7 +9,8 @@
 
 ## 申请步骤
 
-1. 打开[豆包大模型](https://console.volcengine.com/ark) ，登录你的账号，登录成功后会跳转到控制台页面，点击体验中心 - 文本模型，点击创建新对话，选择对应模型创建
-2. 鼠标悬停在模型名称旁边的详情图标，就能看到接入点 ID，复制 接入点 ID 到本扩展中，格式如：ep-20250215077120-69123
-3. 点击 API Key 管理，点击创建 API Key，复制 API Key 到本扩展中
-4. 完成 🎉，如有疑惑的地方，请在 [这里](https://github.com/immersive-translate/immersive-translate/issues/137) 反馈。
+1. 打开火山方舟管理控制台，未登录用户须先登录才能打开此页面。
+2. 在左侧边栏中选择「系统管理-开通管理」，开通所要使用的模型。注意该页面默认一页显示 10 条，如有找不到的模型可以改为一页 100 条，或使用「模型名 / 提供方」旁边的搜索框进行搜索。
+3. 在左侧边栏中选择「模型推理-在线推理」。可看到「Model ID / 接入点 ID」一项，以「ep-」开头的即为接入点 ID。在插件中填入接入点
+4. 点击 API Key 管理，点击创建 API Key，复制 API Key 到本扩展中
+5. 完成 🎉，如有疑惑的地方，请在 [这里](https://github.com/immersive-translate/immersive-translate/issues/137) 反馈。

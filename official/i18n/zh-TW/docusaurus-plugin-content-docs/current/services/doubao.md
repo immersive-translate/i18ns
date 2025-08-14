@@ -1,15 +1,16 @@
-# 字節跳動豆包大型語言模型
+# 字節火山方舟大模型平台
 
-> 💡 從套件版本 1.6.3 開始提供
+> 💡 從插件版本 1.6.3 開始支援
 
 ## 簡要說明
 
-1. 官方網站：[豆包大型語言模型](https://www.volcengine.com/product/doubao)
-2. 官方費用說明：[豆包大型語言模型 API 定價文件](https://www.volcengine.com/docs/82379/1099320)
+1. 官方網站：[豆包大模型](https://www.volcengine.com/product/doubao)
+2. 官方資費說明：[豆包大模型 API 定價文件](https://www.volcengine.com/docs/82379/1099320)
 
 ## 申請步驟
 
-1. 開啟[豆包大型語言模型](https://console.volcengine.com/ark)，登入您的帳號，登入成功後會跳轉至控制檯頁面，點選體驗中心 - 文字模型，點選建立新對話，選擇對應模型建立
-2. 滑鼠停留在模型名稱旁邊的詳細資訊圖示，就能看到接入點 ID，複製接入點 ID 到本擴充套件中，格式如：ep-20250215077120-69123
-3. 點選 API Key 管理，點選建立 API Key，複製 API Key 到本擴充套件中
-4. 完成 🎉，如有疑問之處，請在[這裡](https://github.com/immersive-translate/immersive-translate/issues/137)回饋。
+1. 打開火山方舟管理控制台，未登入用戶需先登入才能開啟此頁面。
+2. 在左側邊欄選擇「系統管理-開通管理」，開通所需使用的模型。注意該頁面預設每頁顯示 10 條，如找不到模型可改為每頁 100 條，或使用「模型名 / 提供方」旁的搜尋框進行搜尋。
+3. 在左側邊欄選擇「模型推理-線上推理」。可看到「Model ID / 接入點 ID」一項，以「ep-」開頭的即為接入點 ID。在插件中填入接入點
+4. 點擊 API Key 管理，點擊建立 API Key，複製 API Key 到本擴充中
+5. 完成 🎉，如有疑問，請在[這裡](https://github.com/immersive-translate/immersive-translate/issues/137) 反饋。
