@@ -16,7 +16,12 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.20.6 Preview (2025-08-11)
+## 1.20.7 Preview (2025-08-18)
+
+- Improved: Support for Skool website subtitle translation.
+- Improved: Unified the [Show Translation Only] setting option for subtitle translation and webpage translation, resolving the inconsistency issue.
+
+## 1.20.6 Release (2025-08-11)
 
 - Improved: Removed "Snapshot" feature entry from the panel.
 - Improved: DeepL now supports Thai, Vietnamese, and Hebrew.

@@ -16,7 +16,12 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
-## 1.20.6 Preview (2025-08-11)
+## 1.20.7 Preview (2025-08-18)
+
+- 優化：支援 Skool 網站字幕翻譯功能。
+- 優化：統一字幕翻譯與網頁翻譯的【僅譯文】設定選項，解決不一致問題。
+
+## 1.20.6 Release (2025-08-11)
 
 - 優化：面板移除「生成網頁快照」功能入口。
 - 優化：DeepL 新增支持泰語，越南語，希伯來語。
