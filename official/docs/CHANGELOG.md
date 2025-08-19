@@ -16,6 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.20.8 Preview (2025-08-19)
+
+- 修复：在线设置页中，翻译服务测试出错时一直处于加载状态的问题
+- 修复：香港繁体中文翻译结果不准确的问题
+
 ## 1.20.7 Preview (2025-08-18)
 
 - 优化：支持 Skool 网站字幕翻译功能。

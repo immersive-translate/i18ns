@@ -16,6 +16,11 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.20.8 Preview (2025-08-19)
+
+- Fixed: The translation service test on the online settings page would remain in a loading state when an error occurred.
+- Fixed: Inaccurate translation results for Hong Kong Traditional Chinese.
+
 ## 1.20.7 Preview (2025-08-18)
 
 - Improved: Support for Skool website subtitle translation.
