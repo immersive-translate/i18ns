@@ -42,16 +42,6 @@ Verwenden Sie die `additional`-Selektorgruppe, um den Übersetzungsbereich basie
 ]
 ```
 
-Wenn Sie einen Bereich übersetzen möchten, während die Elemente als Ganzes behandelt werden und nicht getrennt werden, können Sie den `atomicBlockSelectors`-Selektor verwenden. Zum Beispiel Instagram-Profile. Beachten Sie, dass die Verwendung von `atomicBlockSelectors` das Auswählen mit `selectors` vor der Verwendung von `atomicBlockSelectors` erfordert.
-
-```json
-{
-  "matches": "https://www.instagram.com/*",
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div. ._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
-
 Wenn die Übersetzung zu verschobenen Seiten, überlappendem Text und anderen Randfällen führt, können Sie `globalStyles` verwenden, um den Seitenstil anzupassen und dies zu beheben. Zum Beispiel der Youtube-Header, der verwendet wird, um die maximale Höhe der Originalseite zu entfernen.
 
 ```json
@@ -144,7 +134,6 @@ Die Konfiguration ermöglicht es Ihnen, die Einstellungen dieses Plugins anzupas
     "excludeSelectors": [],
     "additionalExcludeSelectors": [],
     "translationClasses": [],
-    "atomicBlockSelectors": [],
     "excludeTags": [],
     "metaTags": ["META", "SCRIPT", "STYLE", "NOSCRIPT"],
     "additionalExcludeTags": [],
@@ -358,10 +347,6 @@ export interface Rule {
   // So belassen
   stayOriginalSelectors?: string | string[]; // Übereinstimmende Elemente werden so belassen. Wird häufig in Forenseiten-Tags verwendet.
   stayOriginalTags?: string | string[]; // Übereinstimmende Tags werden so belassen, z.B. `code`
-
-  // Regionale Übersetzungen
-  atomicBlockSelectors?: string | string[]; // Regionale Selektoren, übereinstimmende Elemente werden als Ganzes behandelt, nicht in Abschnitten übersetzt.
-  atomicBlockTags?: string | string[]; // Bereichs-Tag-Selektoren, gleich wie oben
 
   // Block oder Inline
   extraBlockSelectors?: string | string[]; // Zusätzliche Selektoren, passende Elemente werden als Blockelemente behandelt, nicht in eine Zeile übersetzt.

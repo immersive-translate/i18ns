@@ -42,16 +42,6 @@ sidebar_position: 4
 ]
 ```
 
-إذا كنت ترغب في ترجمة منطقة مع معاملة العناصر ككل وليس فصلها، يمكنك استخدام المحدد `atomicBlockSelectors`.على سبيل المثال، ملفات تعريف إنستغرام.لاحظ أن استخدام `atomicBlockSelectors` يتطلب الاختيار باستخدام `selectors` قبل استخدام `atomicBlockSelectors`.
-
-```json
-{
-  "matches": "https://www.instagram.com/*",
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div. ._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
-
 إذا أدت الترجمة إلى صفحات غير متناسقة، نصوص متداخلة، وحالات حافة أخرى، يمكنك استخدام `globalStyles` لضبط أسلوب الصفحة لإصلاح ذلك.على سبيل المثال، رأس يوتيوب، والذي يُستخدم لإزالة الارتفاع الأقصى للصفحة الأصلية.
 
 ```json
@@ -144,7 +134,6 @@ sidebar_position: 4
     "excludeSelectors": [],
     "additionalExcludeSelectors": [],
     "translationClasses": [],
-    "atomicBlockSelectors": [],
     "excludeTags": [],
     "metaTags": ["META", "SCRIPT", "STYLE", "NOSCRIPT"],
     "additionalExcludeTags": [],
@@ -358,10 +347,6 @@ export interface Rule {
   // الإبقاء على الحالة الأصلية
   stayOriginalSelectors?: string | string[]; // العناصر المطابقة ستبقى كما هي. يستخدم عادة في علامات مواقع المنتديات.
   stayOriginalTags?: string | string[]; // العلامات المطابقة ستبقى كما هي، مثل `code`
-
-  // الترجمات الإقليمية
-  atomicBlockSelectors?: string | string[]; // محددات الكتل الإقليمية، العناصر المطابقة ستعامل ككل، لا تترجم في أقسام.
-  atomicBlockTags?: string | string[]; // محددات علامات الكتل الإقليمية، كما هو مذكور أعلاه
 
   // كتلة أو مضمن
   extraBlockSelectors?: string | string[]; // محددات إضافية، العناصر المطابقة ستُعامل كعناصر كتلة، لا يتم ترجمتها إلى سطر واحد.

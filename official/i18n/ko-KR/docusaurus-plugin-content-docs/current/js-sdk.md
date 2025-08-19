@@ -77,15 +77,6 @@ initImmersiveTranslate({
 
 `selectors.remove`를 사용하면 기본 선택자에서 선택자를 제거할 수 있습니다.
 
-특정 영역을 번역하고 요소를 전체로 간주하여 줄로 나누지 않으려면 `atomicBlockSelectors` 선택자를 사용할 수 있습니다. `atomicBlockSelectors`를 사용하기 전에 `selectors`를 사용하여 요소를 선택해야 합니다.
-
-```json
-{
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
-
 `pageRule`의 추가 매개변수 설명:
 
 ```typescript
@@ -107,10 +98,6 @@ export interface PageRule {
   // 원본 유지
   stayOriginalSelectors?: string | string[]; // 일치하는 요소는 원본으로 유지됩니다. 포럼 웹사이트의 태그에 일반적으로 사용됩니다.
   stayOriginalTags?: string | string[]; // 일치하는 태그는 원본으로 유지됩니다. 예: `code`
-
-  // 영역 번역
-  atomicBlockSelectors?: string | string[]; // 영역 선택자, 일치하는 요소는 전체로 간주되며, 세그먼트로 번역되지 않음
-  atomicBlockTags?: string | string[]; // 영역 태그 선택자, 위와 동일
 
   // 블록 또는 인라인
   extraBlockSelectors?: string | string[]; // 추가 선택자, 일치하는 요소는 블록 요소로 처리되어 한 줄을 차지합니다.

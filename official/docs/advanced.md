@@ -44,22 +44,6 @@ sidebar_position: 4
 ]
 ```
 
-如果希望翻译某个区域时，将元素视为一个整体，不将其分行，可以用 `atomicBlockSelectors` 选择器。比如 Instagram 的个人简介。要注意的是，使用 `atomicBlockSelectors` 前需要先用 `selectors` 进行选择。
-
-```json
-{
-  "matches": "https://www.instagram.com/*",
-  "selectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ]
-  "atomicBlockSelectors": [
-    "div._aa_c h1",
-    "li._acaz div[role=\"menuitem\"]"
-  ]
-}
-```
-
 如果译文导致页面错位，文字重叠等边缘情况，可以使用 `globalStyles` 调整网页样式来修复。比如 youtube 的标题，用来移除原网页的最大高度。
 
 ```json
@@ -147,7 +131,6 @@ sidebar_position: 4
     "excludeSelectors": [],
     "additionalExcludeSelectors": [],
     "translationClasses": [],
-    "atomicBlockSelectors": [],
     "excludeTags": [],
     "metaTags": ["META", "SCRIPT", "STYLE", "NOSCRIPT"],
     "additionalExcludeTags": [],
@@ -419,10 +402,6 @@ export interface Rule {
   // 保持原样
   stayOriginalSelectors?: string | string[]; // 匹配的元素将保持原样。常用于论坛网站的标签。
   stayOriginalTags?: string | string[]; // 匹配到的 Tag 将保持原样，比如 `code`
-
-  // 区域翻译
-  atomicBlockSelectors?: string | string[]; // 区域选择器，匹配的元素将被视为一个整体，不会分段翻译
-  atomicBlockTags?: string | string[]; // 区域 Tag 选择器，同上
 
   // Block or Inline
   extraBlockSelectors?: string | string[]; // 额外的选择器，匹配的元素将作为 block 元素，独占一行。

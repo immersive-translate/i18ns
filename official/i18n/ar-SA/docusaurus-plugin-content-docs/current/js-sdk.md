@@ -77,15 +77,6 @@ initImmersiveTranslate({
 
 استخدام `selectors.remove` سيزيل بعض المحددات من المحددات الافتراضية.
 
-إذا كنت ترغب في ترجمة منطقة معينة واعتبار عنصر ككل دون تقسيمه إلى أسطر، يمكنك استخدام محدد `atomicBlockSelectors`. لاحظ أنك تحتاج إلى تحديد العناصر باستخدام `selectors` قبل استخدام `atomicBlockSelectors`.
-
-```json
-{
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
-
 تفسيرات إضافية لمعلمات `pageRule`:
 
 ```typescript
@@ -107,10 +98,6 @@ export interface PageRule {
   // الاحتفاظ بالأصل
   stayOriginalSelectors?: string | string[]; // ستبقى العناصر المطابقة أصلية. تستخدم عادةً للعلامات على مواقع المنتديات.
   stayOriginalTags?: string | string[]; // ستبقى العلامات المطابقة أصلية، مثل `code`
-
-  // ترجمة المنطقة
-  atomicBlockSelectors?: string | string[]; // محدد المنطقة، ستعتبر العناصر المطابقة ككل، ولن تترجم في أجزاء
-  atomicBlockTags?: string | string[]; // محدد علامة المنطقة، كما هو موضح أعلاه
 
   // كتلة أو خط
   extraBlockSelectors?: string | string[]; // محددات إضافية، ستعتبر العناصر المطابقة كعناصر كتلة، تشغل سطرًا واحدًا.

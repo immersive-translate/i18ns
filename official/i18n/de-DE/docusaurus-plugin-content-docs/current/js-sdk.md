@@ -77,15 +77,6 @@ Die Verwendung von `selectors.add` fügt einige Selektoren zu den Standardselekt
 
 Die Verwendung von `selectors.remove` entfernt einige Selektoren von den Standardselektoren.
 
-Wenn Sie einen bestimmten Bereich übersetzen und ein Element als Ganzes betrachten möchten, ohne es in Zeilen zu unterteilen, können Sie den `atomicBlockSelectors`-Selektor verwenden. Beachten Sie, dass Sie Elemente mit `selectors` auswählen müssen, bevor Sie `atomicBlockSelectors` verwenden.
-
-```json
-{
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
-
 `pageRule` weitere Parametererklärungen:
 
 ```typescript
@@ -107,10 +98,6 @@ export interface PageRule {
   // Original beibehalten
   stayOriginalSelectors?: string | string[]; // Übereinstimmende Elemente bleiben original. Häufig für Tags auf Foren-Websites verwendet.
   stayOriginalTags?: string | string[]; // Übereinstimmende Tags bleiben original, wie `code`
-
-  // Bereichsübersetzung
-  atomicBlockSelectors?: string | string[]; // Bereichsselektor, übereinstimmende Elemente werden als Ganzes betrachtet, nicht in Segmente übersetzt
-  atomicBlockTags?: string | string[]; // Bereichstag-Selektor, wie oben
 
   // Block oder Inline
   extraBlockSelectors?: string | string[]; // Zusätzliche Selektoren, übereinstimmende Elemente werden als Blockelemente behandelt, die eine Zeile einnehmen.

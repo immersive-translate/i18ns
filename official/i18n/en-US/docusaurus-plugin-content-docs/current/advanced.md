@@ -44,16 +44,6 @@ Using `selectors.remove` will remove some selectors from the default ones.
 ]
 ```
 
-If you want an element to be treated as a whole and not broken into lines when translating a certain area, you can use the `atomicBlockSelectors` selector. For example, Instagram's bio. Note that you need to use `selectors` to select the area before using `atomicBlockSelectors`.
-
-```json
-{
-  "matches": "https://www.instagram.com/*",
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
-
 If the translated text causes page misalignment, text overlap, or other edge cases, you can use `globalStyles` to adjust the webpage style for a fix. For example, YouTube titles, used to remove the original webpage's max-height.
 
 ```json
@@ -141,7 +131,6 @@ Through Config, you can customize relevant configurations of this plugin, such a
     "excludeSelectors": [],
     "additionalExcludeSelectors": [],
     "translationClasses": [],
-    "atomicBlockSelectors": [],
     "excludeTags": [],
     "metaTags": ["META", "SCRIPT", "STYLE", "NOSCRIPT"],
     "additionalExcludeTags": [],
@@ -405,10 +394,6 @@ export interface Rule {
   // Keep original
   stayOriginalSelectors?: string | string[]; // Matched elements will remain original. Often used for tags on forum websites.
   stayOriginalTags?: string | string[]; // Matched Tags will remain original, e.g., `code`.
-
-  // Area translation
-  atomicBlockSelectors?: string | string[]; // Area selector, matched elements will be treated as a whole and not translated in segments.
-  atomicBlockTags?: string | string[]; // Area Tag selector, same as above.
 
   // Block or Inline
   extraBlockSelectors?: string | string[]; // Additional selectors, matched elements will be treated as block elements, occupying a full line.

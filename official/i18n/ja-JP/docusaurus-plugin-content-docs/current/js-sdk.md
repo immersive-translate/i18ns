@@ -77,15 +77,6 @@ initImmersiveTranslate({
 
 `selectors.remove`を使用すると、デフォルトのセレクタからいくつかのセレクタを削除できます。
 
-特定のエリアを翻訳し、要素を行に分割せずに全体として考慮したい場合は、`atomicBlockSelectors`セレクタを使用できます。`atomicBlockSelectors`を使用する前に、`selectors`を使用して要素を選択する必要があります。
-
-```json
-{
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
-
 `pageRule`の詳細なパラメータ説明：
 
 ```typescript
@@ -107,10 +98,6 @@ export interface PageRule {
   // オリジナルを保持
   stayOriginalSelectors?: string | string[]; // 一致する要素はオリジナルのままになります。フォーラムウェブサイトのタグによく使用されます。
   stayOriginalTags?: string | string[]; // 一致するタグはオリジナルのままになります。例えば `code`
-
-  // リージョン翻訳
-  atomicBlockSelectors?: string | string[]; // リージョンセレクタ、一致する要素は全体として考慮され、セグメントに分割されません
-  atomicBlockTags?: string | string[]; // リージョンタグセレクタ、上記と同様
 
   // ブロックまたはインライン
   extraBlockSelectors?: string | string[]; // 追加セレクタ、一致する要素はブロック要素として扱われ、1 行を占有します。

@@ -77,15 +77,6 @@ initImmersiveTranslate({
 
 `selectors.remove` का उपयोग करने से डिफ़ॉल्ट वाले से कुछ चयनकर्ता हटा दिए जाएंगे।
 
-यदि आप किसी विशिष्ट क्षेत्र का अनुवाद करना चाहते हैं और किसी तत्व को एक संपूर्ण के रूप में मानना चाहते हैं बिना इसे लाइनों में तोड़े, तो आप `atomicBlockSelectors` चयनकर्ता का उपयोग कर सकते हैं। ध्यान दें कि `atomicBlockSelectors` का उपयोग करने से पहले आपको `selectors` का उपयोग करके तत्वों का चयन करना होगा।
-
-```json
-{
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
-
 `pageRule` के अधिक पैरामीटर स्पष्टीकरण:
 
 ```typescript
@@ -107,10 +98,6 @@ export interface PageRule {
   // मूल रखें
   stayOriginalSelectors?: string | string[]; // मेल खाने वाले तत्व मूल रहेंगे। आमतौर पर फोरम वेबसाइटों पर टैग्स के लिए उपयोग किया जाता है।
   stayOriginalTags?: string | string[]; // मेल खाने वाले टैग्स मूल रहेंगे, जैसे `code`
-
-  // क्षेत्र अनुवाद
-  atomicBlockSelectors?: string | string[]; // क्षेत्र चयनकर्ता, मेल खाने वाले तत्वों को एक संपूर्ण के रूप में माना जाएगा, खंडों में अनुवाद नहीं किया जाएगा
-  atomicBlockTags?: string | string[]; // क्षेत्र टैग चयनकर्ता, ऊपर के समान
 
   // ब्लॉक या इनलाइन
   extraBlockSelectors?: string | string[]; // अतिरिक्त चयनकर्ता, मेल खाने वाले तत्वों को ब्लॉक तत्वों के रूप में माना जाएगा, एक लाइन पर कब्जा करेंगे।

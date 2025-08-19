@@ -42,16 +42,6 @@ Use a família de seletores `additional` para aumentar ou diminuir o alcance da 
 ]
 ```
 
-Se você quiser traduzir uma região tratando os elementos como um todo e não separando-os, você pode usar o seletor `atomicBlockSelectors`. Por exemplo, perfis no Instagram. Note que usar `atomicBlockSelectors` requer selecionar com `selectors` antes de usar `atomicBlockSelectors`.
-
-```json
-{
-  "matches": "https://www.instagram.com/*",
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
-
 Se a tradução resultar em páginas desalinhadas, texto sobreposto e outros casos extremos, você pode usar `globalStyles` para ajustar o estilo da página para corrigi-lo. Por exemplo, o cabeçalho do youtube, que é usado para remover a altura máxima da página original.
 
 ```json
@@ -144,7 +134,6 @@ A configuração permite que você personalize a configuração deste plugin, co
     "excludeSelectors": [],
     "additionalExcludeSelectors": [],
     "translationClasses": [],
-    "atomicBlockSelectors": [],
     "excludeTags": [],
     "metaTags": ["META", "SCRIPT", "STYLE", "NOSCRIPT"],
     "additionalExcludeTags": [],
@@ -358,10 +347,6 @@ export interface Rule {
   // Deixar como está
   stayOriginalSelectors?: string | string[]; // Elementos correspondentes serão deixados como estão. Comumente usado em tags de sites de fóruns.
   stayOriginalTags?: string | string[]; // Tags correspondentes serão deixadas como estão, por exemplo, `code`
-
-  // Traduções regionais
-  atomicBlockSelectors?: string | string[]; // Seletores regionais, elementos correspondentes serão tratados como um todo, não traduzidos em seções.
-  atomicBlockTags?: string | string[]; // Seletores de Tag de área, o mesmo que acima
 
   // Bloco ou Linha
 ```javascript

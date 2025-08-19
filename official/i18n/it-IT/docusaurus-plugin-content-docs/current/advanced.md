@@ -42,16 +42,6 @@ Usa la famiglia di selettori `additional` per aumentare o diminuire l'ambito di 
 ]
 ```
 
-Se vuoi tradurre una regione trattando gli elementi come un unico blocco e non separandoli, puoi usare il selettore `atomicBlockSelectors`. Per esempio, i profili Instagram. Nota che l'uso di `atomicBlockSelectors` richiede di selezionare con `selectors` prima di usare `atomicBlockSelectors`.
-
-```json
-{
-  "matches": "https://www.instagram.com/*",
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div. ._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
-
 Se la traduzione risulta in pagine disallineate, testo sovrapposto e altri casi limite, puoi usare `globalStyles` per regolare lo stile della pagina per correggerlo. Per esempio, l'intestazione di youtube, che viene utilizzata per rimuovere l'altezza massima della pagina originale.
 
 ```json
@@ -144,7 +134,6 @@ La configurazione ti permette di personalizzare la configurazione di questo plug
     "excludeSelectors": [],
     "additionalExcludeSelectors": [],
     "translationClasses": [],
-    "atomicBlockSelectors": [],
     "excludeTags": [],
     "metaTags": ["META", "SCRIPT", "STYLE", "NOSCRIPT"],
     "additionalExcludeTags": [],
@@ -358,10 +347,6 @@ export interface Rule {
   // Lascia così com'è
   stayOriginalSelectors?: string | string[]; // Gli elementi corrispondenti saranno lasciati così come sono. Comunemente usato nei tag dei siti dei forum.
   stayOriginalTags?: string | string[]; // I tag corrispondenti saranno lasciati così come sono, ad es. `code`
-
-  // Traduzioni regionali
-  atomicBlockSelectors?: string | string[]; // Selettori regionali, gli elementi corrispondenti saranno trattati come un tutto, non tradotti in sezioni.
-  atomicBlockTags?: string | string[]; // Selettori di Tag di area, come sopra
 
   // Blocco o Inline
   extraBlockSelectors?: string | string[]; // Selettori extra, gli elementi corrispondenti saranno trattati come elementi di blocco, non tradotti in una linea unica.

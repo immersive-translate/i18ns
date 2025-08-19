@@ -44,16 +44,6 @@ sidebar_position: 4
 ]
 ```
 
-특정 영역을 번역할 때 요소를 하나의 전체로 보고, 줄바꿈하지 않으려면 `atomicBlockSelectors` 선택자를 사용할 수 있습니다. 예를 들어, Instagram 의 개인 프로필 같은 경우입니다. `atomicBlockSelectors`를 사용하기 전에 먼저 `selectors`로 선택해야 합니다.
-
-```json
-{
-  "matches": "https://www.instagram.com/*",
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
-
 번역으로 인해 페이지가 어긋나거나 텍스트가 겹치는 등의 문제가 발생하는 경우, `globalStyles`를 사용하여 웹페이지 스타일을 조정함으로써 수정할 수 있습니다. 예를 들어, YouTube 의 제목에서 원래 웹페이지의 최대 높이를 제거하는 경우입니다.
 
 ```json
@@ -141,7 +131,6 @@ Config 를 통해 이 플러그인의 관련 설정을 사용자 정의할 수 �
     "excludeSelectors": [],
     "additionalExcludeSelectors": [],
     "translationClasses": [],
-    "atomicBlockSelectors": [],
     "excludeTags": [],
     "metaTags": ["META", "SCRIPT", "STYLE", "NOSCRIPT"],
     "additionalExcludeTags": [],
@@ -363,11 +352,6 @@ export interface Rule {
   // 원본 유지
   stayOriginalSelectors?: string | string[]; // 매칭된 요소는 원본 상태를 유지합니다. 주로 포럼 웹사이트의 태그에 사용됩니다.
   stayOriginalTags?: string | string[]; // 매칭된 Tag 는 원본 상태를 유지합니다. 예: `code`
-
-  // 영역 번역
-  atomicBlockSelectors?: string | string[]; // 영역 선택자, 매칭된 요소는 하나의 전체로 간주되며, 분할하여 번역하지 않습니다.
-
-  atomicBlockTags?: string | string[]; // 영역 태그 선택자, 위와 동일
 
   // 블록 또는 인라인
   extraBlockSelectors?: string | string[]; // 추가 선택자, 일치하는 요소는 블록 요소로 처리되어 한 줄을 차지합니다.

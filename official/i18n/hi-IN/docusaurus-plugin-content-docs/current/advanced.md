@@ -152,7 +152,6 @@ Note: The translation provided aims to maintain the technical integrity of the o
     "excludeSelectors": [],
     "additionalExcludeSelectors": [],
     "translationClasses": [],
-    "atomicBlockSelectors": [],
     "excludeTags": [],
     "metaTags": ["META", "SCRIPT", "STYLE", "NOSCRIPT"],
     "additionalExcludeTags": [],
@@ -368,10 +367,6 @@ export interface Rule {
   // जैसा है वैसा ही रहने दें
   stayOriginalSelectors?: string | string[]; // मिलान तत्वों को जैसा है वैसा ही छोड़ दिया जाएगा। आमतौर पर फोरम साइट टैग्स में उपयोग किया जाता है।
   stayOriginalTags?: string | string[]; // मिलान टैग्स को जैसा है वैसा ही छोड़ दिया जाएगा, उदाहरण के लिए `code`
-
-  // क्षेत्रीय अनुवाद
-  atomicBlockSelectors?: string | string[]; // क्षेत्रीय सिलेक्टर्स, मिलान तत्वों को एक पूरे के रूप में माना जाएगा, खंडों में अनुवादित नहीं किया जाएगा।
-  atomicBlockTags?: string | string[]; // क्षेत्र टैग सिलेक्टर्स, ऊपर के समान
 
   // ब्लॉक या इनलाइन
 Here's the translated content in Hindi:

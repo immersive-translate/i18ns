@@ -44,15 +44,6 @@ sidebar_position: 4
 ]
 ```
 
-特定のエリアを翻訳する際に、要素を一つのブロックとして扱い、分割しないようにする場合は、`atomicBlockSelectors` セレクタを使用できます。例えば、Instagram のプロフィールなどです。`atomicBlockSelectors` を使用する前に、`selectors` で選択する必要があります。
-
-```json
-{
-  "matches": "https://www.instagram.com/*",
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
 
 翻訳によってページのレイアウトが崩れたり、テキストが重なったりするようなエッジケースでは、`globalStyles` を使用してウェブページのスタイルを調整し、修正できます。例えば、YouTube のタイトルで、元のウェブページの最大高さを削除します。
 
@@ -141,7 +132,6 @@ Config を通じて、翻訳サービスや特定の言語オプションなど�
     "excludeSelectors": [],
     "additionalExcludeSelectors": [],
     "translationClasses": [],
-    "atomicBlockSelectors": [],
     "excludeTags": [],
     "metaTags": ["META", "SCRIPT", "STYLE", "NOSCRIPT"],
     "additionalExcludeTags": [],
@@ -363,9 +353,6 @@ export interface Rule {
   // オリジナルを保持
   stayOriginalSelectors?: string | string[]; // マッチした要素はオリジナルのまま保持されます。フォーラムサイトのタグなどによく使用されます。
   stayOriginalTags?: string | string[]; // マッチしたタグはオリジナルのまま保持されます。例えば `code`
-
-  // エリア翻訳
-  atomicBlockSelectors?: string | string[]; // エリアセレクター、マッチした要素は一つの全体として見られ、分割して翻訳されません
 }
 ```
 

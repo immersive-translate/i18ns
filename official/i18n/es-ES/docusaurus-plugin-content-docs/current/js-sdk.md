@@ -77,15 +77,6 @@ Usar `selectors.add` añadirá algunos selectores además de los predeterminados
 
 Usar `selectors.remove` eliminará algunos selectores de los predeterminados.
 
-Si deseas traducir un área específica y considerar un elemento como un todo sin dividirlo en líneas, puedes usar el selector `atomicBlockSelectors`. Ten en cuenta que necesitas seleccionar elementos usando `selectors` antes de usar `atomicBlockSelectors`.
-
-```json
-{
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
-
 Más explicaciones de parámetros de `pageRule`:
 
 ```typescript
@@ -107,10 +98,6 @@ export interface PageRule {
   // Mantener original
   stayOriginalSelectors?: string | string[]; // Elementos coincidentes permanecerán originales. Comúnmente usado para etiquetas en sitios web de foros.
   stayOriginalTags?: string | string[]; // Etiquetas coincidentes permanecerán originales, como `code`
-
-  // Traducción de región
-  atomicBlockSelectors?: string | string[]; // Selector de región, elementos coincidentes serán considerados como un todo, no traducidos en segmentos
-  atomicBlockTags?: string | string[]; // Selector de etiqueta de región, igual que arriba
 
   // Bloque o Inline
   extraBlockSelectors?: string | string[]; // Selectores extra, elementos coincidentes serán tratados como elementos de bloque, ocupando una línea.

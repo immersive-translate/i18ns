@@ -88,17 +88,6 @@ sidebar_position: 5
 
 使用 `selectors.remove` 会在默认的基础上减少一些 selectors
 
-如果希望翻译某个区域时，将元素视为一个整体，不将其分行，可以用
-`atomicBlockSelectors` 选择器。要注意的是，使用 `atomicBlockSelectors`
-前需要先用 `selectors` 进行选择。
-
-```json
-{
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
-
 `pageRule` 更多参数说明：
 
 ```typescript
@@ -120,10 +109,6 @@ export interface PageRule {
   // 保持原样
   stayOriginalSelectors?: string | string[]; // 匹配的元素将保持原样。常用于论坛网站的标签。
   stayOriginalTags?: string | string[]; // 匹配到的 Tag 将保持原样，比如 `code`
-
-  // 区域翻译
-  atomicBlockSelectors?: string | string[]; // 区域选择器，匹配的元素将被视为一个整体，不会分段翻译
-  atomicBlockTags?: string | string[]; // 区域 Tag 选择器，同上
 
   // Block or Inline
   extraBlockSelectors?: string | string[]; // 额外的选择器，匹配的元素将作为 block 元素，独占一行。

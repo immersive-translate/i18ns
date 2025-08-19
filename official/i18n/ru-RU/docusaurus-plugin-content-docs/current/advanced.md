@@ -44,16 +44,6 @@ sidebar_position: 4
 ]
 ```
 
-Если вы хотите перевести определенную область как единое целое, не разделяя ее на строки, можно использовать селектор `atomicBlockSelectors`. Например, личный профиль в Instagram. Важно отметить, что перед использованием `atomicBlockSelectors` необходимо сначала выбрать элементы с помощью `selectors`.
-
-```json
-{
-  "matches": "https://www.instagram.com/*",
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
-
 Если перевод вызывает смещение страницы, наложение текста и другие крайние случаи, можно использовать `globalStyles` для корректировки стиля веб-страницы и исправления. Например, заголовки на YouTube, чтобы убрать максимальную высоту оригинальной страницы.
 
 ```json
@@ -141,7 +131,6 @@ sidebar_position: 4
     "excludeSelectors": [],
     "additionalExcludeSelectors": [],
     "translationClasses": [],
-    "atomicBlockSelectors": [],
     "excludeTags": [],
     "metaTags": ["META", "SCRIPT", "STYLE", "NOSCRIPT"],
     "additionalExcludeTags": [],
@@ -363,11 +352,6 @@ export interface Rule {
   // Сохранение оригинала
   stayOriginalSelectors?: string | string[]; // Соответствующие элементы будут сохранены в оригинале. Часто используется для тегов форумов.
   stayOriginalTags?: string | string[]; // Соответствующие теги будут сохранены в оригинале, например, `code`.
-
-  // Перевод области
-  atomicBlockSelectors?: string | string[]; // Селекторы области, соответствующие элементы будут рассматриваться как единое целое и не будут переведены по частям.
-
-  atomicBlockTags?: string | string[]; // Селекторы блочных тегов, аналогично выше
 
   // Блок или строчный элемент
   extraBlockSelectors?: string | string[]; // Дополнительные селекторы, соответствующие элементы будут обрабатываться как блочные элементы, занимая отдельную строку.

@@ -42,16 +42,6 @@ Utilisez la famille de sélecteurs `additional` pour augmenter ou diminuer la po
 ]
 ```
 
-Si vous souhaitez traduire une région en traitant les éléments comme un tout et non en les séparant, vous pouvez utiliser le sélecteur `atomicBlockSelectors`. Par exemple, les profils Instagram. Notez que l'utilisation de `atomicBlockSelectors` nécessite de sélectionner avec `selectors` avant d'utiliser `atomicBlockSelectors`.
-
-```json
-{
-  "matches": "https://www.instagram.com/*",
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
-
 Si la traduction entraîne des pages mal alignées, du texte qui se chevauche et d'autres cas limites, vous pouvez utiliser `globalStyles` pour ajuster le style de la page afin de corriger cela. Par exemple, l'en-tête de YouTube, qui est utilisé pour supprimer la hauteur maximale de la page originale.
 
 ```json
@@ -357,10 +347,6 @@ export interface Rule {
   // Laisser tel quel
   stayOriginalSelectors?: string | string[]; // Les éléments correspondants seront laissés tels quels. Communément utilisé dans les tags de sites de forums.
   stayOriginalTags?: string | string[]; // Les tags correspondants seront laissés tels quels, par exemple `code`
-
-  // Traductions régionales
-  atomicBlockSelectors?: string | string[]; // Sélecteurs régionaux, les éléments correspondants seront traités comme un tout, pas traduits en sections.
-  atomicBlockTags?: string | string[]; // Sélecteurs de Tags de zone, identique ci-dessus
 
   // Bloc ou En ligne
   extraBlockSelectors?: string | string[]; // Sélecteurs supplémentaires, les éléments correspondants seront traités comme des éléments de bloc, non traduits en une seule ligne.

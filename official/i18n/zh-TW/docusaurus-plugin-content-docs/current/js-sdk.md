@@ -77,15 +77,6 @@ Using `selectors.add` will add some selectors on top of the default ones.
 
 Using `selectors.remove` will remove some selectors from the default ones.
 
-If you want to translate a specific area and consider an element as a whole without breaking it into lines, you can use the `atomicBlockSelectors` selector. Note that you need to select elements using `selectors` before using `atomicBlockSelectors`.
-
-```json
-{
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
-
 `pageRule` more parameter explanations:
 
 ```typescript
@@ -107,10 +98,6 @@ export interface PageRule {
   // Keep original
   stayOriginalSelectors?: string | string[]; // Matched elements will remain original. Commonly used for tags on forum websites.
   stayOriginalTags?: string | string[]; // Matched tags will remain original, such as `code`
-
-  // Region translation
-  atomicBlockSelectors?: string | string[]; // Region selector, matched elements will be considered as a whole, not translated in segments
-  atomicBlockTags?: string | string[]; // Region tag selector, same as above
 
   // Block or Inline
   extraBlockSelectors?: string | string[]; // Extra selectors, matched elements will be treated as block elements, occupying one line.

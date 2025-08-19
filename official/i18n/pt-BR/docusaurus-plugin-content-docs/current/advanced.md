@@ -42,16 +42,6 @@ Use a família de seletores `additional` (adicional) para aumentar ou diminuir o
 ]
 ```
 
-Se você quiser traduzir uma região enquanto trata os elementos como um todo e não os separa, você pode usar o seletor `atomicBlockSelectors`. Por exemplo, perfis do Instagram. Observe que usar `atomicBlockSelectors` exige selecionar com `selectors` antes de usar `atomicBlockSelectors`.
-
-```json
-{
-  "matches": "https://www.instagram.com/*",
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div. ._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
-
 Se os resultados da tradução resultarem em páginas desalinhadas, texto sobreposto e outros casos extremos, você pode usar `globalStyles` para ajustar o estilo da página para corrigi-lo. Por exemplo, o cabeçalho do YouTube, que é usado para remover a altura máxima da página original.
 
 ```json
@@ -144,7 +134,6 @@ A Configuração permite personalizar a configuração deste plugin, como servi�
     "excludeSelectors": [],
     "additionalExcludeSelectors": [],
     "translationClasses": [],
-    "atomicBlockSelectors": [],
     "excludeTags": [],
     "metaTags": ["META", "SCRIPT", "STYLE", "NOSCRIPT"],
     "additionalExcludeTags": [],
@@ -358,10 +347,6 @@ export interface Rule {
   // Leave as is (Deixar como está)
   stayOriginalSelectors?: string | string[]; // Os elementos correspondentes serão deixados como estão. Comumente usado em tags de sites de fóruns.
   stayOriginalTags?: string | string[]; // As tags correspondentes serão deixadas como estão, por exemplo, `code`
-
-  // Regional translations (Traduções regionais)
-  atomicBlockSelectors?: string | string[]; // Seletores regionais, os elementos correspondentes serão tratados como um todo, não traduzidos em seções.
-  atomicBlockTags?: string | string[]; // Seletores de tags de área, igual ao anterior
 
   // Block or Inline (Bloco ou Inline)
   extraBlockSelectors?: string | string[]; // Seletores extras, os elementos correspondentes serão tratados como elementos de bloco, não traduzidos em uma linha.

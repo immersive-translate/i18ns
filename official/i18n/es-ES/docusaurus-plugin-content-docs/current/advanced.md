@@ -367,10 +367,6 @@ export interface Rule {
   stayOriginalSelectors?: string | string[]; // Los elementos coincidentes se dejarán tal cual. Comúnmente usado en etiquetas de sitios de foros.
   stayOriginalTags?: string | string[]; // Las etiquetas coincidentes se dejarán tal cual, por ejemplo, `code`
 
-  // Traducciones regionales
-  atomicBlockSelectors?: string | string[]; // Selectores regionales, los elementos coincidentes se tratarán como un todo, no se traducirán en secciones.
-  atomicBlockTags?: string | string[]; // Selectores de etiquetas de área, igual que arriba
-
   // Bloque o en línea
   extraBlockSelectors?: string | string[]; // Selectores adicionales, los elementos coincidentes se tratarán como elementos de bloque, no se traducirán en una línea.
   extraInlineSelectors?: string | string[]; // Selectores adicionales que se utilizarán como elementos en línea.

@@ -77,14 +77,6 @@ initImmersiveTranslate({
 
 Использование `selectors.remove` удалит некоторые селекторы из стандартных.
 
-Если вы хотите перевести определенную область и рассматривать элемент как единое целое, не разбивая его на строки, вы можете использовать селектор `atomicBlockSelectors`. Обратите внимание, что вам нужно выбрать элементы с помощью `selectors` перед использованием `atomicBlockSelectors`.
-
-```json
-{
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
 
 `pageRule` больше объяснений параметров:
 
@@ -107,10 +99,6 @@ export interface PageRule {
   // Оставить оригинал
   stayOriginalSelectors?: string | string[]; // Совпадающие элементы останутся оригинальными. Обычно используется для тегов на форумах.
   stayOriginalTags?: string | string[]; // Совпадающие теги останутся оригинальными, такие как `code`
-
-  // Перевод региона
-  atomicBlockSelectors?: string | string[]; // Селектор региона, совпадающие элементы будут рассматриваться как единое целое, не переводятся по частям
-  atomicBlockTags?: string | string[]; // Селектор тега региона, то же самое, что и выше
 
   // Блок или Inline
   extraBlockSelectors?: string | string[]; // Дополнительные селекторы, совпадающие элементы будут рассматриваться как блочные элементы, занимая одну строку.

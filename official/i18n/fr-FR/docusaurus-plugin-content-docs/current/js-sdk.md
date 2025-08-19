@@ -77,15 +77,6 @@ L'utilisation de `selectors.add` ajoutera certains sélecteurs en plus de ceux p
 
 L'utilisation de `selectors.remove` supprimera certains sélecteurs de ceux par défaut.
 
-Si vous souhaitez traduire une zone spécifique et considérer un élément dans son ensemble sans le diviser en lignes, vous pouvez utiliser le sélecteur `atomicBlockSelectors`. Notez que vous devez sélectionner des éléments en utilisant `selectors` avant d'utiliser `atomicBlockSelectors`.
-
-```json
-{
-  "selectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"],
-  "atomicBlockSelectors": ["div._aa_c h1", "li._acaz div[role=\"menuitem\"]"]
-}
-```
-
 Explications supplémentaires des paramètres `pageRule` :
 
 ```typescript
@@ -107,10 +98,6 @@ export interface PageRule {
   // Conserver l'original
   stayOriginalSelectors?: string | string[]; // Les éléments correspondants resteront originaux. Couramment utilisé pour les balises sur les sites de forum.
   stayOriginalTags?: string | string[]; // Les balises correspondantes resteront originales, comme `code`
-
-  // Traduction de région
-  atomicBlockSelectors?: string | string[]; // Sélecteur de région, les éléments correspondants seront considérés comme un tout, non traduits en segments
-  atomicBlockTags?: string | string[]; // Sélecteur de balise de région, comme ci-dessus
 
   // Bloc ou Inline
   extraBlockSelectors?: string | string[]; // Sélecteurs supplémentaires, les éléments correspondants seront traités comme des éléments de bloc, occupant une ligne.
