@@ -16,6 +16,13 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.20.9 Preview (2025-08-22)
+
+- Improved: Enhanced extension loading speed, reducing startup wait time.
+- Improved: Chrome browser now uses a built-in language detection model, improving language recognition efficiency.
+- Improved: Better compatibility with the OpenAI Responses interface.
+- Improved: Comic translation now supports more sites.
+
 ## 1.20.8 Preview (2025-08-19)
 
 - Fixed: The translation service test on the online settings page would remain in a loading state when an error occurred.

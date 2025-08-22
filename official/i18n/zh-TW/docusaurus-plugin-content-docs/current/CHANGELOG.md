@@ -16,6 +16,13 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.20.9 Preview (2025-08-22)
+
+- 優化：提升擴充功能載入速度，減少啟動等待時間。
+- 優化：Chrome 瀏覽器使用內建語言偵測模型，提升語言識別效率。
+- 優化：完善對 OpenAI Responses 介面的相容性。
+- 優化：漫畫翻譯支援更多站點。
+
 ## 1.20.8 Preview (2025-08-19)
 
 - 修復：線上設定頁中，翻譯服務測試出錯時一直處於載入狀態的問題
