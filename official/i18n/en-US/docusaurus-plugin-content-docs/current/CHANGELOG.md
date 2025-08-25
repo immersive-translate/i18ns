@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.20.9 Preview (2025-08-22)
+## 1.20.10 Release (2025-08-25)
 
 - Improved: Enhanced extension loading speed, reducing startup wait time.
 - Improved: Chrome browser now uses a built-in language detection model, improving language recognition efficiency.

@@ -16,7 +16,7 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
-## 1.20.9 Preview (2025-08-22)
+## 1.20.10 Release (2025-08-25)
 
 - 優化：提升擴充功能載入速度，減少啟動等待時間。
 - 優化：Chrome 瀏覽器使用內建語言偵測模型，提升語言識別效率。
