@@ -16,6 +16,10 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.20.11 Preview (2025-08-26)
+
+- 优化：悬浮球加载速度。
+
 ## 1.20.10 Release (2025-08-25)
 
 - 优化：提升插件加载速度，减少启动等待时间。

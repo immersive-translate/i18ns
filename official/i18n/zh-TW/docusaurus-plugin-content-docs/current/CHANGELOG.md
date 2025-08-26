@@ -16,6 +16,10 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.20.11 Preview (2025-08-26)
+
+- 優化：懸浮球載入速度。
+
 ## 1.20.10 Release (2025-08-25)
 
 - 優化：提升擴充功能載入速度，減少啟動等待時間。
