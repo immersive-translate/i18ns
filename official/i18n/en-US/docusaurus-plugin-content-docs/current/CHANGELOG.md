@@ -16,6 +16,10 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.20.12 Preview (2025-08-29)
+
+- Improved: The glossary feature now supports domain matching, enhancing the precision and flexibility of its application.
+
 ## 1.20.11 Preview (2025-08-26)
 
 - Improved: Floating ball loading speed.

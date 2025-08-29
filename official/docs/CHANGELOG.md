@@ -16,6 +16,10 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.20.12 Preview (2025-08-29)
+
+- 优化：术语功能新增域名匹配支持，提升术语应用的精准性与灵活性。
+
 ## 1.20.11 Preview (2025-08-26)
 
 - 优化：悬浮球加载速度。
