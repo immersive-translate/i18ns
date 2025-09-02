@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.20.12 Preview (2025-08-29)
+## 1.20.13 Preview (2025-09-02)
 
 - Improved: The glossary feature now supports domain matching, enhancing the precision and flexibility of its application.
 
