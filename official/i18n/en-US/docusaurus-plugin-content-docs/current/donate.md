@@ -24,7 +24,7 @@ You can still do these things to help us now:
 - Scan the QR code below to join the official WeChat exchange group to help answer users' questions:
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-contact3.jpg" width="200" alt="qq"/>
+<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq"/>
 </div>
 
 - Scan the QR code below to follow the official WeChat public number:

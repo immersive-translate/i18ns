@@ -16,7 +16,7 @@ sidebar_position: 5
 - 扫描下面二维码，加入官方微信交流群
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-contact3.jpg" width="286" alt="qq"/>
+<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="286" alt="qq"/>
 </div>
 
 - 扫描下方二维码，关注微信公众号

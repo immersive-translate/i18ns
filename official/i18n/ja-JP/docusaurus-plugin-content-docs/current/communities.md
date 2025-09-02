@@ -16,7 +16,7 @@ sidebar_position: 5
 - 下記の QR コードをスキャンして、公式 WeChat グループに参加する
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-contact3.jpg" width="300" alt="qq"/>
+<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="300" alt="qq"/>
 </div>
 
 - 下記の QR コードをスキャンして、WeChat 公式アカウントに参加する
