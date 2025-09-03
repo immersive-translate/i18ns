@@ -29,7 +29,7 @@ sidebar_position: 2
 Основные действия для перевода веб-страницы описаны выше. Если у вас возникнут вопросы, вы можете отсканировать QR-код ниже и присоединиться к официальной группе WeChat для консультации:
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
+<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
 </div>
 
 ## Youtube с двуязычными субтитрами
@@ -113,7 +113,7 @@ sidebar_position: 2
 - Отсканируйте QR-код ниже, чтобы присоединиться к официальной группе WeChat для общения:
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
+<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
 </div>
 
 <video

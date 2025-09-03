@@ -51,7 +51,7 @@ src="https://s.immersivetranslate.com/assets/tutorial_for_mobile_250213.mp4"
 웹페이지 번역의 주요 작업은 위와 같습니다. 추가 질문이 있으시면 아래 QR 코드를 스캔하여 공식 WeChat 그룹에 참여하여 직접 문의하실 수 있습니다:
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
+<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
 </div>
 
 ## YouTube 이중 언어 자막
@@ -177,7 +177,7 @@ Tampermonkey 스크립트를 사용하는 경우, [온라인 웹 버전 설정 �
 - 아래 QR 코드를 스캔하여 공식 WeChat 그룹에 참여하세요:
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
+<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
 </div>
 
 <video

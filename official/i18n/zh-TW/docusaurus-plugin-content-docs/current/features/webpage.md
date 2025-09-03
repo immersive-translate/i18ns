@@ -49,5 +49,5 @@ sidebar_position: 1
 以上是網頁翻譯的主要操作，如有問題，可掃描下方二維碼加入官方微信群直接諮詢：
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
+<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
 </div>

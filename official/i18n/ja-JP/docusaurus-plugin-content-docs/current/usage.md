@@ -29,7 +29,7 @@ sidebar_position: 2
 ウェブページの翻訳の主な操作は以上です。もし疑問があれば、以下の QR コードをスキャンして、公式 WeChat グループに参加して直接相談してください：
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
+<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
 </div>
 
 ## Epub 電子ブックの読み取りと二言語でのエクスポート
@@ -107,7 +107,7 @@ Greasemonkey スクリプトを使用している場合は、[オンラインウ
 - 下記の QR コードをスキャンして、公式 WeChat グループに参加してください：
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
+<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
 </div>
 
 <video

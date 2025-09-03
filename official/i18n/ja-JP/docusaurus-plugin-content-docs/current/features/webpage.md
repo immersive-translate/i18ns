@@ -49,5 +49,5 @@ sidebar_position: 1
 以上がウェブページ翻訳の主な操作です。質問がある場合は、以下の QR コードをスキャンして公式 WeChat グループに参加し、直接お問い合わせください：
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
+<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
 </div>

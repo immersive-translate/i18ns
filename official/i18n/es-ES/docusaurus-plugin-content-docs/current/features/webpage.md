@@ -49,5 +49,5 @@ Haz clic en el icono de Immersive Translation, abre el panel de la extensión y 
 Estas son las operaciones principales para la traducción de páginas web. Si tienes alguna pregunta, puedes escanear el código QR a continuación para unirte al grupo oficial de WeChat para consulta directa:
 
 <div align="center">
-<img src="https://immersivetranslate.com/assets/wechat-contact3.jpg" width="200" alt="qq" />
+<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
 </div>
