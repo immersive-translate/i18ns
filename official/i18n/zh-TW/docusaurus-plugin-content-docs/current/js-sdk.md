@@ -9,17 +9,17 @@ sidebar_position: 5
 ```html
 <script>
   window.immersiveTranslateConfig = {
-    partnerId: "xxx", //聯盟id (可選)
-    mountPoint: { //翻譯按鈕掛載點 （可選）
+    partnerId: "xxx", //聯盟 id (可選)
+    mountPoint: { //翻譯按鈕掛載點（可選）
         selector: "", //選擇器
-        action: "child" // 支援: append, child, before, replace
+        action: "child" // 支援：append, child, before, replace
     },
     disclaimerPoint: { //翻譯結果聲明掛載點（可選）預設跟在翻譯按鈕後面
         selector: "", //選擇器
-        action: "child" // 支援: append, child, before, replace
+        action: "child" // 支援：append, child, before, replace
     },
     pageRule: {
-        mainFrameSelector: "", //指定翻譯區域 （可選）預設所有區域
+        mainFrameSelector: "", //指定翻譯區域（可選）預設所有區域
         ...
     },
   };
@@ -68,14 +68,14 @@ sidebar_position: 5
 
 ```js
 export interface immersiveTranslateConfig {
-    partnerId: "xxx", //聯盟id (可選)
-    mountPoint: { //翻譯按鈕掛載點 （可選）
+    partnerId: "xxx", //聯盟 id (可選)
+    mountPoint: { //翻譯按鈕掛載點（可選）
         selector: "", //選擇器
-        action: "child" // 支援: append, child, before, replace
+        action: "child" // 支援：append, child, before, replace
     },
     disclaimerPoint: { //翻譯結果聲明掛載點（可選）預設跟在翻譯按鈕後面
         selector: "", //選擇器
-        action: "child" // 支援: append, child, before, replace
+        action: "child" // 支援：append, child, before, replace
     },
     pageRule: {
         mainFrameSelector?: string | string[]; // 翻譯的根節點範圍

@@ -9,17 +9,17 @@ sidebar_position: 5
 ```html
 <script>
   window.immersiveTranslateConfig = {
-    partnerId: "xxx", //联盟id (可选)
-    mountPoint: { //翻译按钮挂载点 （可选）
+    partnerId: "xxx", //联盟 id (可选)
+    mountPoint: { //翻译按钮挂载点（可选）
         selector: "", //选择器
-        action: "child" // 支持: append, child, before, replace
+        action: "child" // 支持：append, child, before, replace
     },
     disclaimerPoint: { //翻译结果声明挂载点（可选）默认跟在翻译按钮后面
         selector: "", //选择器
-        action: "child" // 支持: append, child, before, replace
+        action: "child" // 支持：append, child, before, replace
     },
     pageRule: {
-        mainFrameSelector: "", //指定翻译区域 （可选）默认所有区域
+        mainFrameSelector: "", //指定翻译区域（可选）默认所有区域
         ...
     },
   };
@@ -68,14 +68,14 @@ sidebar_position: 5
 
 ```js
 export interface immersiveTranslateConfig {
-    partnerId: "xxx", //联盟id (可选)
-    mountPoint: { //翻译按钮挂载点 （可选）
+    partnerId: "xxx", //联盟 id (可选)
+    mountPoint: { //翻译按钮挂载点（可选）
         selector: "", //选择器
-        action: "child" // 支持: append, child, before, replace
+        action: "child" // 支持：append, child, before, replace
     },
     disclaimerPoint: { //翻译结果声明挂载点（可选）默认跟在翻译按钮后面
         selector: "", //选择器
-        action: "child" // 支持: append, child, before, replace
+        action: "child" // 支持：append, child, before, replace
     },
     pageRule: {
         mainFrameSelector?: string | string[]; // 翻译的根节点范围
