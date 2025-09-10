@@ -26,7 +26,7 @@ sidebar_position: 5
 </script>
 <script
   async
-  src="https://download.immersivetranslate.com/immersive-translate-sdk-lite-latest.js"
+  src="有意接入沉浸式翻译SDK，请联系 support@immersivetranslate.com"
 ></script>
 ```
 
@@ -48,7 +48,7 @@ sidebar_position: 5
     </script>
     <script
       async
-      src="https://download.immersivetranslate.com/immersive-translate-sdk-lite-latest.js"
+      src="有意接入沉浸式翻译SDK，请联系 support@immersivetranslate.com"
     ></script>
   </head>
   <body>
@@ -77,74 +77,6 @@ export interface immersiveTranslateConfig {
         selector: "", //选择器
         action: "child" // 支持：append, child, before, replace
     },
-    pageRule: {
-        mainFrameSelector?: string | string[]; // 翻译的根节点范围
-        selectors?: string | string[]; // 仅翻译匹配到的元素
-        excludeSelectors?: string | string[]; // 排除元素，不翻译匹配的元素
-        stayOriginalSelectors?: string | string[]; // 匹配的元素将保持原样。常用于论坛网站的标签。
-        extraBlockSelectors?: string | string[]; // 额外的选择器，匹配的元素将作为 block 元素，独占一行。
-        extraInlineSelectors?: string | string[]; // 额外的选择器，匹配的元素将作为 inline 元素。
-        translationClasses?: string | string | string[]; // 为译文添加额外的 Class
-        injectedCss?: string | string[]; // 嵌入 CSS 样式
-    }
-}
-```
-
-## 悬浮球 SDK
-
-### 如何使用
-
-> 调试 JS SDK 前请关闭沉浸式翻译扩展
-
-```html
-<script>
-  window.immersiveTranslateConfig = {
-    pageRule: {},
-    ...
-  };
-</script>
-<script
-  async
-  src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"
-></script>
-```
-
-### 示例
-
-```html
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Immersive Translate JS SDK</title>
-    <script>
-      window.immersiveTranslateConfig = {
-        pageRule: {},
-      };
-    </script>
-    <script
-      async
-      src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"
-    ></script>
-  </head>
-  <body>
-    <div class=".text">
-      <p>
-        Night gathers, and now my watch begins. It shall not end until my death.
-        I shall take no wife, hold no lands, father no children. I shall wear no
-        crowns and win no glory. I shall live and die at my post.
-      </p>
-    </div>
-  </body>
-</html>
-```
-
-
-#### `immersiveTranslateConfig` 参数说明
-```typescript
-export interface immersiveTranslateConfig {
-    isAutoTranslate: false, //是否自动翻译
     pageRule: {
         mainFrameSelector?: string | string[]; // 翻译的根节点范围
         selectors?: string | string[]; // 仅翻译匹配到的元素
