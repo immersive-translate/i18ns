@@ -26,7 +26,7 @@ sidebar_position: 5
 </script>
 <script
   async
-  src="https://download.immersivetranslate.com/immersive-translate-sdk-lite-latest.js"
+  src="有意接入沉浸式翻譯SDK，請聯繫 support@immersivetranslate.com"
 ></script>
 ```
 
@@ -48,7 +48,7 @@ sidebar_position: 5
     </script>
     <script
       async
-      src="https://download.immersivetranslate.com/immersive-translate-sdk-lite-latest.js"
+      src="有意接入沉浸式翻譯SDK，請聯繫 support@immersivetranslate.com"
     ></script>
   </head>
   <body>
@@ -82,78 +82,11 @@ export interface immersiveTranslateConfig {
         selectors?: string | string[]; // 僅翻譯匹配到的元素
         excludeSelectors?: string | string[]; // 排除元素，不翻譯匹配的元素
         stayOriginalSelectors?: string | string[]; // 匹配的元素將保持原樣。常用於論壇網站的標籤。
-        extraBlockSelectors?: string | string[]; // 額外的選擇器，匹配的元素將作為 block 元素，獨佔一行。
+        extraBlockSelectors?: string | string[]; // 額外的選擇器，匹配的元素將作為 block 元素，獨占一行。
         extraInlineSelectors?: string | string[]; // 額外的選擇器，匹配的元素將作為 inline 元素。
         translationClasses?: string | string | string[]; // 為譯文添加額外的 Class
         injectedCss?: string | string[]; // 嵌入 CSS 樣式
     }
 }
 ```
-
-## 懸浮球 SDK
-
-### 如何使用
-
-> 除錯 JS SDK 前請關閉沉浸式翻譯擴充功能
-
-```html
-<script>
-  window.immersiveTranslateConfig = {
-    pageRule: {},
-    ...
-  };
-</script>
-<script
-  async
-  src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"
-></script>
-```
-
-### 範例
-
-```html
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Immersive Translate JS SDK</title>
-    <script>
-      window.immersiveTranslateConfig = {
-        pageRule: {},
-      };
-    </script>
-    <script
-      async
-      src="https://download.immersivetranslate.com/immersive-translate-sdk-latest.js"
-    ></script>
-  </head>
-  <body>
-    <div class=".text">
-      <p>
-        Night gathers, and now my watch begins. It shall not end until my death.
-        I shall take no wife, hold no lands, father no children. I shall wear no
-        crowns and win no glory. I shall live and die at my post.
-      </p>
-    </div>
-  </body>
-</html>
-```
-
-
-#### `immersiveTranslateConfig` 參數說明
-```typescript
-export interface immersiveTranslateConfig {
-    isAutoTranslate: false, //是否自動翻譯
-    pageRule: {
-        mainFrameSelector?: string | string[]; // 翻譯的根節點範圍
-        selectors?: string | string[]; // 僅翻譯匹配到的元素
-        excludeSelectors?: string | string[]; // 排除元素，不翻譯匹配的元素
-        stayOriginalSelectors?: string | string[]; // 匹配的元素將保持原樣。常用於論壇網站的標籤。
-        extraBlockSelectors?: string | string[]; // 額外的選擇器，匹配的元素將作為 block 元素，獨佔一行。
-        extraInlineSelectors?: string | string[]; // 額外的選擇器，匹配的元素將作為 inline 元素。
-        translationClasses?: string | string | string[]; // 為譯文添加額外的 Class
-        injectedCss?: string | string[]; // 嵌入 CSS 樣式
-    }
-}
 ```
