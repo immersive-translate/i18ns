@@ -16,6 +16,12 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.21.1 Preview (2025-09-12)
+
+- Improved: [Selection Translation] now supports switching translation services, providing more translation options.
+- Improved: [Bilingual Subtitles] support for whop site.
+- Improved: Floating ball now supports night mode, improving nighttime usage experience.
+
 ## 1.20.13 Preview (2025-09-02)
 
 - Improved: The glossary feature now supports domain matching, enhancing the precision and flexibility of its application.
