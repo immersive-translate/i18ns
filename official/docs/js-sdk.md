@@ -40,6 +40,7 @@ sidebar_position: 5
     <title>Immersive Translate JS SDK</title>
     <script>
       window.immersiveTranslateConfig = {
+partnerId: "example-project",
         mountPoint: {
             selector: "#translation-button",
             action: "child"
