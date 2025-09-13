@@ -9,8 +9,8 @@ sidebar_position: 5
 ```html
 <script>
   window.immersiveTranslateConfig = {
-    partnerId: "xxx", //Partner ID (optional)
-    mountPoint: { //Translation button mount point (optional)
+    partnerId: "xxx", //Partner ID
+    mountPoint: { //Translation button mount point
         selector: "", //Selector
         action: "child" // Supported: append, child, before, replace
     },
@@ -68,8 +68,8 @@ sidebar_position: 5
 
 ```js
 export interface immersiveTranslateConfig {
-    partnerId: "xxx", //Partner ID (optional)
-    mountPoint: { //Translation button mount point (optional)
+    partnerId: "xxx", //Partner ID
+    mountPoint: { //Translation button mount point
         selector: "", //Selector
         action: "child" // Supported: append, child, before, replace
     },

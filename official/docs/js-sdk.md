@@ -9,8 +9,8 @@ sidebar_position: 5
 ```html
 <script>
   window.immersiveTranslateConfig = {
-    partnerId: "xxx", //联盟 id (可选)
-    mountPoint: { //翻译按钮挂载点（可选）
+    partnerId: "xxx", //联盟 id
+    mountPoint: { //翻译按钮挂载点
         selector: "", //选择器
         action: "child" // 支持：append, child, before, replace
     },
@@ -68,8 +68,8 @@ sidebar_position: 5
 
 ```js
 export interface immersiveTranslateConfig {
-    partnerId: "xxx", //联盟 id (可选)
-    mountPoint: { //翻译按钮挂载点（可选）
+    partnerId: "xxx", //联盟 id
+    mountPoint: { //翻译按钮挂载点
         selector: "", //选择器
         action: "child" // 支持：append, child, before, replace
     },
