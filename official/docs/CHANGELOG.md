@@ -16,8 +16,9 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
-## 1.21.3 Preview (2025-09-15)
+## 1.21.4 Preview (2025-09-15)
 
+- 优化：术语库详情支持筛选术语功能。
 - 优化：【划词翻译】支持切换翻译服务，提供更多翻译选择。
 - 优化：【双语字幕】支持 whop 站点。
 - 优化：悬浮球支持夜间模式，提升夜间使用体验。
