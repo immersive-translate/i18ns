@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.21.2 Preview (2025-09-12)
+## 1.21.3 Preview (2025-09-15)
 
 - Improved: [Selection Translation] now supports switching translation services, providing more translation options.
 - Improved: [Bilingual Subtitles] support for whop site.
