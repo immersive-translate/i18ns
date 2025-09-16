@@ -7,7 +7,10 @@
 
 ## Anwendungsschritte
 
-1. Öffnen Sie [Kimi](https://platform.moonshot.cn/console/api-keys) und melden Sie sich in Ihrem Konto an
-2. Nach erfolgreicher Anmeldung gehen Sie zur [Kimi Console](https://platform.moonshot.cn/console/api-keys), um Ihren API Key zu erhalten
+1. Öffnen Sie [Kimi](https://platform.moonshot.cn/console/api-keys) und loggen Sie sich in Ihr Konto ein
+2. Nach erfolgreichem Login gehen Sie zur [Kimi Console](https://platform.moonshot.cn/console/api-keys), um Ihren API Key zu erhalten
 3. Geben Sie den API Key in diese Erweiterung ein
 4. Fertig 🎉. Wenn Sie Fragen haben, geben Sie bitte [hier](https://github.com/immersive-translate/immersive-translate/issues/137) Feedback
+
+## Hinweise
+Wenn Sie Ihr Konto nicht aufgeladen haben, beträgt die maximale Anzahl von Anfragen pro Minute nur 1, was es im Grunde unbrauchbar macht - Fehler sind normal. [Sie können hier klicken, um die Kimi Rate Limits Dokumentation anzusehen](链接)
