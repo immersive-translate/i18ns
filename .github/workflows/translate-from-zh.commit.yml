@@ -1,11 +1,13 @@
 name: GPT Translate per Commit
 
 on:
-  # push:
-  #   branches:
-  #     - main
-  #   paths:
-  #     - "official/docs/**"
+  workflow_dispatch:
+    inputs:
+      translate_files:
+        default: "official/docs/CHANGELOG.md"
+        description: "official/docs/CHANGELOG.md"
+        type: string
+
 jobs:
   translate_root_docs:
     runs-on: ubuntu-latest
@@ -28,7 +30,7 @@ jobs:
           model: "gpt-4o-2024-08-06"
           max_tokens: 5000
           temperature: 0
-          inputFiles: ${{ steps.current_changed_files.outputs.files }}
+          inputFiles: ${{github.event.inputs.translate_files}}
           outputFiles: "official/i18n/zh-TW/docusaurus-plugin-content-docs/current/*.md"
           languages: "繁体中文台湾"
           prompt: |
