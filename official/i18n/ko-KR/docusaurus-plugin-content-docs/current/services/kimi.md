@@ -8,6 +8,6 @@
 ## 신청 단계
 
 1. [Kimi](https://platform.moonshot.cn/console/api-keys)를 열고 계정에 로그인하세요
-2. 로그인에 성공한 후, [Kimi Console](https://platform.moonshot.cn/console/api-keys)로 이동하여 API Key를 받으세요
-3. 이 확장 프로그램에 API Key를 입력하세요
+2. 로그인에 성공한 후, [Kimi Console](https://platform.moonshot.cn/console/api-keys)로 이동하여 API Key 를 받으세요
+3. 이 확장 프로그램에 API Key 를 입력하세요
 4. 완료 🎉. 질문이 있으시면 [여기](https://github.com/immersive-translate/immersive-translate/issues/137)에서 피드백을 제공하세요
