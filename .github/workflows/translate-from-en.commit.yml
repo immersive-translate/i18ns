@@ -12,7 +12,7 @@ on:
 jobs:
   gpt_translate:
     runs-on: ubuntu-latest
-    if: github.event.inputs.file_path != '' && github.event.inputs.file_path matches '^official/i18n/en-US/docusaurus-plugin-content-docs/current/.*\.md$'
+    if: github.event.inputs.file_path != '' && startsWith(github.event.inputs.file_path, 'official/i18n/en-US/docusaurus-plugin-content-docs/current/') && endsWith(github.event.inputs.file_path, '.md')
 
     steps:
       - name: Checkout repository with two latest commits
