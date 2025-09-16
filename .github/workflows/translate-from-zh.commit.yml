@@ -11,17 +11,12 @@ on:
 jobs:
   translate_root_docs:
     runs-on: ubuntu-latest
-    if: github.event.inputs.file_path != '' && github.event.inputs.file_path =~ '^official/docs/[^/]+\.md$'
+    if: github.event.inputs.file_path != '' && github.event.inputs.file_path matches '^official/docs/[^/]+\.md$'
     steps:
       - name: Checkout repository with two latest commits
         uses: actions/checkout@v3
         with:
           fetch-depth: 2
-
-      - name: get current changed files name
-        id: current_changed_files
-        run: |
-          echo "files=$(git diff --name-only HEAD^ HEAD | grep -E '^official/docs/[^/]+\.md$' | grep -v 'CHANGELOG\.md$' | tr '\n' ' ')" >> $GITHUB_OUTPUT
 
       - name: Run GPT Translate
         uses: FattySpring/gpt-translate@master
@@ -58,17 +53,12 @@ jobs:
 
   translate_services:
     runs-on: ubuntu-latest
-    if: github.event.inputs.file_path != '' && github.event.inputs.file_path =~ '^official/docs/services/[^/]+\.md$'
+    if: github.event.inputs.file_path != '' && github.event.inputs.file_path matches '^official/docs/services/[^/]+\.md$'
     steps:
       - name: Checkout repository with two latest commits
         uses: actions/checkout@v3
         with:
           fetch-depth: 2
-
-      - name: get services changed files name
-        id: services_changed_files
-        run: |
-          echo "files=$(git diff --name-only HEAD^ HEAD | grep -E '^official/docs/services/.*\.md$' | tr '\n' ' ')" >> $GITHUB_OUTPUT
 
       - name: Run GPT Translate
         if: steps.services_changed_files.outputs.files != ''
@@ -106,17 +96,12 @@ jobs:
 
   translate_features:
     runs-on: ubuntu-latest
-    if: github.event.inputs.file_path != '' && github.event.inputs.file_path =~ '^official/docs/features/[^/]+\.md$'
+    if: github.event.inputs.file_path != '' && github.event.inputs.file_path matches '^official/docs/features/[^/]+\.md$'
     steps:
       - name: Checkout repository with two latest commits
         uses: actions/checkout@v3
         with:
           fetch-depth: 2
-
-      - name: get features changed files name
-        id: features_changed_files
-        run: |
-          echo "files=$(git diff --name-only HEAD^ HEAD | grep -E '^official/docs/features/[^/]+\.md$'  | tr '\n' ' ')" >> $GITHUB_OUTPUT
 
       - name: Run GPT Translate
         if: steps.features_changed_files.outputs.files != ''

@@ -4,7 +4,7 @@ name: GPT Translate EN
 on:
   workflow_dispatch:
     inputs:
-      translate_files:
+      file_path:
         default: "official/i18n/en-US/docusaurus-plugin-content-docs/current/CHANGELOG.md"
         description: "official/i18n/en-US/docusaurus-plugin-content-docs/current/CHANGELOG.md"
         type: string
@@ -12,7 +12,7 @@ on:
 jobs:
   gpt_translate:
     runs-on: ubuntu-latest
-    if: github.event.inputs.translate_files != '' && github.event.inputs.translate_files =~ '^official/i18n/en-US/docusaurus-plugin-content-docs/current/.*\.md$'
+    if: github.event.inputs.file_path != '' && github.event.inputs.file_path matches '^official/i18n/en-US/docusaurus-plugin-content-docs/current/.*\.md$'
 
     steps:
       - name: Checkout repository with two latest commits
@@ -27,7 +27,7 @@ jobs:
           model: "gpt-4o"
           max_tokens: 5000
           temperature: 0
-          inputFiles: ${{github.event.inputs.translate_files}}
+          inputFiles: ${{github.event.inputs.file_path}}
           outputFiles: "official/i18n/ar-SA/docusaurus-plugin-content-docs/current/**/*.md official/i18n/de-DE/docusaurus-plugin-content-docs/current/**/*.md official/i18n/es-ES/docusaurus-plugin-content-docs/current/**/*.md official/i18n/fr-FR/docusaurus-plugin-content-docs/current/**/*.md official/i18n/hi-IN/docusaurus-plugin-content-docs/current/**/*.md official/i18n/it-IT/docusaurus-plugin-content-docs/current/**/*.md official/i18n/ja-JP/docusaurus-plugin-content-docs/current/**/*.md official/i18n/ko-KR/docusaurus-plugin-content-docs/current/**/*.md official/i18n/pt-BR/docusaurus-plugin-content-docs/current/**/*.md official/i18n/pt-PT/docusaurus-plugin-content-docs/current/**/*.md official/i18n/ru-RU/docusaurus-plugin-content-docs/current/**/*.md"
           languages: "Arabic German Spanish French Hindi Italian Japanese Korean Portuguese(Brazil) Portuguese(Portugal) Russian"
           prompt: |
