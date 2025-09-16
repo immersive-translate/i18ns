@@ -1,6 +1,5 @@
 name: GPT Translate EN
 
-
 on:
   workflow_dispatch:
     inputs:

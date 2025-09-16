@@ -1,4 +1,4 @@
-name: GPT Translate ZH 
+name: GPT Translate ZH
 
 on:
   workflow_dispatch:
