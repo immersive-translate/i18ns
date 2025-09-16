@@ -1,4 +1,4 @@
-name: GPT Translate per Commit
+name: GPT Translate EN
 
 
 on:
@@ -12,17 +12,13 @@ on:
 jobs:
   gpt_translate:
     runs-on: ubuntu-latest
+    if: github.event.inputs.translate_files != '' && github.event.inputs.translate_files =~ '^official/i18n/en-US/docusaurus-plugin-content-docs/current/.*\.md$'
 
     steps:
       - name: Checkout repository with two latest commits
         uses: actions/checkout@v3
         with:
           fetch-depth: 2
-
-      - name: get changed files name
-        id: changed_files
-        run: |
-          echo "files=$(git diff --name-only HEAD^ HEAD | grep '^official/i18n/en-US/docusaurus-plugin-content-docs/current/.*\.md$' | tr '\n' ' ')" >> $GITHUB_OUTPUT
 
       - name: Run GPT Translate
         uses: FattySpring/gpt-translate@master
