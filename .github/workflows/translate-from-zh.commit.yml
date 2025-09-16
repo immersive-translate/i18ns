@@ -61,14 +61,13 @@ jobs:
           fetch-depth: 2
 
       - name: Run GPT Translate
-        if: steps.services_changed_files.outputs.files != ''
         uses: FattySpring/gpt-translate@master
         with:
           apikey: ${{ secrets.OPENAI_API_KEY }}
           model: "gpt-4o-2024-08-06"
           max_tokens: 5000
           temperature: 0
-          inputFiles: ${{ steps.services_changed_files.outputs.files }}
+          inputFiles: ${{github.event.inputs.file_path}}
           outputFiles: "official/i18n/zh-TW/docusaurus-plugin-content-docs/current/services/*.md"
           languages: "繁体中文台湾"
           prompt: |
@@ -104,14 +103,13 @@ jobs:
           fetch-depth: 2
 
       - name: Run GPT Translate
-        if: steps.features_changed_files.outputs.files != ''
         uses: FattySpring/gpt-translate@master
         with:
           apikey: ${{ secrets.OPENAI_API_KEY }}
           model: "gpt-4o-2024-08-06"
           max_tokens: 5000
           temperature: 0
-          inputFiles: ${{ steps.features_changed_files.outputs.files }}
+          inputFiles: ${{github.event.inputs.file_path}}
           outputFiles: "official/i18n/zh-TW/docusaurus-plugin-content-docs/current/features/*.md"
           languages: "繁体中文台湾"
           prompt: |
