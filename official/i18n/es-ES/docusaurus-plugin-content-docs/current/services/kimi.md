@@ -13,4 +13,4 @@
 4. Listo 🎉. Si tienes alguna pregunta, por favor proporciona retroalimentación [aquí](https://github.com/immersive-translate/immersive-translate/issues/137)
 
 ## Notas
-Si no has recargado tu cuenta, el número máximo de solicitudes por minuto es solo 1, lo que lo hace básicamente inutilizable - los errores son normales. [Puedes hacer clic aquí para ver la Documentación de Límites de Tasa de Kimi](enlace)
+Si no has recargado tu cuenta, el número máximo de solicitudes por minuto es solo 1, lo que lo hace básicamente inutilizable - los errores son normales. [Puedes hacer clic aquí para ver la Documentación de Límites de Tasa de Kimi](https://platform.moonshot.cn/docs/pricing/limits)

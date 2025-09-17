@@ -3,7 +3,7 @@
 ## Descrizione Breve
 
 1. Sito Ufficiale: [Kimi](https://platform.moonshot.cn/)
-2. Documentazione Ufficiale dei Prezzi: [Kimi API Pricing Document](https://platform.moonshot.cn/docs/pricing/chat#%E8%AE%A1%E8%B4%B9%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5)
+2. Documentazione Ufficiale sui Prezzi: [Kimi API Pricing Document](https://platform.moonshot.cn/docs/pricing/chat#%E8%AE%A1%E8%B4%B9%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5)
 
 ## Passaggi per l'Applicazione
 

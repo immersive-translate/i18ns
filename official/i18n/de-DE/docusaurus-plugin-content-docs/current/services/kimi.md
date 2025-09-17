@@ -8,8 +8,8 @@
 ## Anwendungsschritte
 
 1. Öffnen Sie [Kimi](https://platform.moonshot.cn/console/api-keys) und loggen Sie sich in Ihr Konto ein
-2. Nach erfolgreichem Login gehen Sie zur [Kimi Console](https://platform.moonshot.cn/console/api-keys), um Ihren API Key zu erhalten
-3. Geben Sie den API Key in diese Erweiterung ein
+2. Nach erfolgreichem Login gehen Sie zur [Kimi Console](https://platform.moonshot.cn/console/api-keys), um Ihren API-Schlüssel zu erhalten
+3. Geben Sie den API-Schlüssel in diese Erweiterung ein
 4. Fertig 🎉. Wenn Sie Fragen haben, geben Sie bitte [hier](https://github.com/immersive-translate/immersive-translate/issues/137) Feedback
 
 ## Hinweise
