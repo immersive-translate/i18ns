@@ -2,8 +2,8 @@
 
 ## 概要説明
 
-1. 公式ウェブサイト: [Kimi](https://platform.moonshot.cn/)
-2. 公式料金ドキュメント: [Kimi API Pricing Document](https://platform.moonshot.cn/docs/pricing/chat#%E8%AE%A1%E8%B4%B9%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5)
+1. 公式ウェブサイト：[Kimi](https://platform.moonshot.cn/)
+2. 公式料金ドキュメント：[Kimi API Pricing Document](https://platform.moonshot.cn/docs/pricing/chat#%E8%AE%A1%E8%B4%B9%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5)
 
 ## アプリケーション手順
 
@@ -13,4 +13,4 @@
 4. 完了 🎉。質問がある場合は、[こちら](https://github.com/immersive-translate/immersive-translate/issues/137) からフィードバックを提供してください
 
 ## 注意事項
-アカウントにチャージしていない場合、1分あたりのリクエストの最大数は1に制限されており、基本的に使用できません - エラーが発生するのは通常です。[Kimi Rate Limits Documentation をこちらから確認できます](https://platform.moonshot.cn/docs/pricing/limits)
+アカウントにチャージしていない場合、1 分あたりのリクエストの最大数は 1 に制限されており、基本的に使用できません - エラーが発生するのは通常です。[Kimi Rate Limits Documentation をこちらから確認できます](https://platform.moonshot.cn/docs/pricing/limits)
