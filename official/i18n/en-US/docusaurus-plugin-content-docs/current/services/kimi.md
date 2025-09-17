@@ -13,4 +13,4 @@
 4. Done 🎉. If you have any questions, please provide feedback [here](https://github.com/immersive-translate/immersive-translate/issues/137)
 
 ## Notes
-If you have not topped up your account, the maximum number of requests per minute is only 1, making it basically unusable - errors are normal. [You can click here to view the Kimi Rate Limits Documentation](链接)
+If you have not topped up your account, the maximum number of requests per minute is only 1, making it basically unusable - errors are normal. [You can click here to view the Kimi Rate Limits Documentation](https://platform.moonshot.cn/docs/pricing/limits)
