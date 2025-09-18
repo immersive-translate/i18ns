@@ -16,7 +16,7 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
-## 1.21.5 Preview (2025-09-17)
+## 1.21.6 Preview (2025-09-18)
 
 - 優化：降低擴充功能記憶體佔用，提升執行效率
 - 優化：術語庫詳情支援篩選術語功能。

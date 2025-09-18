@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.21.5 Preview (2025-09-17)
+## 1.21.6 Preview (2025-09-18)
 
 - Improved: Reduced extension memory usage and improved performance.
 - Improved: Glossary details now support term filtering.
