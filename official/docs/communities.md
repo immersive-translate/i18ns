@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# 加入用户群
+# 添加官方客服微信
 
 你可以通过以下方式和我们保持链接：
 
@@ -13,7 +13,7 @@ sidebar_position: 5
 - 关注[沉浸式翻译官方推特账号](https://twitter.com/immersivetran)
 <!-- - [加入 Telegram 群组](https://t.me/+rq848Z09nehlOTgx) 参与功能的讨论。 -->
 <!-- - [加入 Telegram 频道](https://t.me/immersivetranslate) 接收最新消息 -->
-- 扫描下面二维码，加入官方微信交流群
+- 扫描下面二维码，添加官方客服微信
 
 <div align="center">
 <img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="286" alt="qq"/>

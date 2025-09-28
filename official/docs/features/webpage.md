@@ -46,7 +46,7 @@ sidebar_position: 1
 
 点击沉浸式翻译图标，打开扩展面板，在翻译按钮左边，切换仅译文和双语对照模式。
 
-网页翻译的主要操作就是上面这些了，如果还有疑问的话，可以扫描下面二维码，加入官方微信交流群直接咨询：
+网页翻译的主要操作就是上面这些了，如果还有疑问的话，可以扫描下面二维码，添加官方客服微信直接咨询：
 
 <div align="center">
 <img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />

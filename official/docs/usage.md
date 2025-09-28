@@ -50,7 +50,7 @@ sidebar_position: 2
 
 **你可以尝试在[Buzzing](https://www.buzzing.cc/)里点击一篇英文报道试试效果**
 
-以上就是使用沉浸式翻译进行网页双语翻译的方法。还有疑问？请扫描下面二维码，加入官方微信交流群咨询：
+以上就是使用沉浸式翻译进行网页双语翻译的方法。还有疑问？请扫描下面二维码，添加官方客服微信咨询：
 
 <div align="center">
 <img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
@@ -273,7 +273,7 @@ Pro 版图片翻译利用了服务端的文本识别处理能力，支持**沉�
 <!-- - [加入 Telegram 群组](https://t.me/+rq848Z09nehlOTgx) 参与功能的讨论。 -->
 <!-- - [加入 Telegram 频道](https://t.me/immersivetranslate) 接收最新消息 -->
 - [问题反馈](https://github.com/immersive-translate/immersive-translate/issues/)
-- 扫描下面二维码，加入官方微信交流群：
+- 扫描下面二维码，添加官方客服微信：
 
 <div align="center">
 <img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
