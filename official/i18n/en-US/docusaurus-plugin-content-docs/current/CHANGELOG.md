@@ -20,7 +20,7 @@ The **Preview version** is published more frequently and includes some experimen
 
 - Improved: Added conflict detection and friendly prompts when multiple translation applications are enabled simultaneously.
 
-## 1.21.7 Preview (2025-09-19)
+## 1.21.7 Release (2025-09-19)
 
 - Improved: Reduced extension memory usage and improved performance.
 - Improved: Glossary details now support term filtering.
