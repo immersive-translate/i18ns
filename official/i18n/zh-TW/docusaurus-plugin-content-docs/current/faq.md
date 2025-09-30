@@ -235,9 +235,9 @@ Android：
 
 - 用量查詢地址： [https://immersivetranslate.com/accounts/usage](https://immersivetranslate.com/accounts/usage)
 
-### 22. 為什麼插件谷歌翻譯質量不如谷歌網頁翻譯
+### 22. 為什麼擴展谷歌翻譯質量不如谷歌網頁翻譯
 
-因為插件調用的谷歌免費 API，是谷歌不會持續維護的舊 API，而谷歌官方網頁的翻譯是在持續維護。理論上質量是不如谷歌官方的，且最近谷歌免費 API 的翻譯質量下降嚴重，建議切換到其他翻譯服務，我們也在積極尋找其他替代方案。相關討論：[#2574](https://github.com/immersivetranslate/immersive-translate/issues/2547)
+因為擴展調用的谷歌免費 API，是谷歌不會持續維護的舊 API，而谷歌官方網頁的翻譯是在持續維護。理論上質量是不如谷歌官方的，且最近谷歌免費 API 的翻譯質量下降嚴重，建議切換到其他翻譯服務，我們也在積極尋找其他替代方案。相關討論：[#2574](https://github.com/immersivetranslate/immersive-translate/issues/2547)
 
 ### 23. 滑鼠模式下確顯示觸摸模式
 
@@ -371,7 +371,7 @@ AI 術語庫預設不支援谷歌/微軟這類機器翻譯術語
 
 油猴腳本要求腳本的所有請求都需要在腳本的開頭宣告權限，比如：`@connect api.google.com`，所以，如果你需要新增一個非預設的域名，請在油猴腳本開頭仿照其他域名進行宣告。
 
-### Edge 瀏覽器插件打開空白，且瀏覽器報錯 MANIFEST-000001
+### Edge 瀏覽器擴展打開空白，且瀏覽器報錯 MANIFEST-000001
 
 開啟【[檔案快速查找應用程式 (Everything)](https://www.voidtools.com/zh-cn/downloads/)】應用程式，搜尋 `amkbmndfnliijdhojkpoglbnaaahippg` 沉浸式的擴充套件 id 瀏覽器的儲存資料夾，刪除之後，然後再去解除安裝重新安裝外掛
 
