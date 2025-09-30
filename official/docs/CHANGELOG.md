@@ -16,6 +16,10 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.21.8 Preview (2025-09-30)
+
+- 优化：多翻译应用同时启用时，新增冲突检测与友好提示。
+
 ## 1.21.7 Preview (2025-09-19)
 
 - 优化：降低插件内存占用，提升运行效率

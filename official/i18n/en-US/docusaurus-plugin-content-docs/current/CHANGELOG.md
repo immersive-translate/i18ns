@@ -16,6 +16,10 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.21.8 Preview (2025-09-30)
+
+- Improved: Added conflict detection and friendly prompts when multiple translation applications are enabled simultaneously.
+
 ## 1.21.7 Preview (2025-09-19)
 
 - Improved: Reduced extension memory usage and improved performance.

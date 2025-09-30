@@ -16,6 +16,10 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.21.8 Preview (2025-09-30)
+
+- 優化：多個翻譯應用同時啟用時，新增衝突檢測與友善提示。
+
 ## 1.21.7 Preview (2025-09-19)
 
 - 優化：降低擴展功能記憶體佔用，提升執行效率
