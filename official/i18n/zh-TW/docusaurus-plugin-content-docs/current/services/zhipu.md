@@ -15,7 +15,7 @@ GLM 全名 General Language Model，是一款基於自我回歸填空的預訓�
 ## API Key 申請步驟
 
 1. 開啟 [智譜 BigModel 官方網站](https://bigmodel.cn/)，登入您的帳號，登入成功後在左上角點選「[API 金鑰](https://bigmodel.cn/usercenter/apikeys)」
-2. 新增 API Key，將 API KEY 填入本擴充套件中
+2. 新增 API Key，將 API KEY 填入本擴展中
 3. 完成 🎉，如有疑惑之處，可以
 
 ## API GLM-4-Plus 資源包優惠

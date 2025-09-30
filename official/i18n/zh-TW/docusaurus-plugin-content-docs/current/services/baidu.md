@@ -13,5 +13,5 @@
 6. 選擇”個人開發者“並填寫表單後點選”下一步“。註冊成功後會讓你進行身份認證，如果想用進階版的免費 100 萬字元就需要認證。
 7. 註冊成功後，開啟 [百度翻譯開放平臺控制檯](https://fanyi-api.baidu.com/api/trans/product/desktop)，點選”立即開通“按鈕，選擇”通用翻譯（適用於文字翻譯）“並點選”下一步“，選擇”開通標準版“，填寫應用名稱 " 沉浸式翻譯 " ，點選“提交申請”，會提示”開通成功“。
 8. 切換為“進階版”，開啟 [百度翻譯開放平臺控制檯](https://fanyi-api.baidu.com/api/trans/product/desktop)，點選寫有“標準版”的下拉框切換為進階版。
-9. 此 [百度翻譯開放平臺控制檯](https://fanyi-api.baidu.com/api/trans/product/desktop) 頁面最底端有“申請資訊”包含”APP ID“和”金鑰“，將其填入到本擴充套件中。
+9. 此 [百度翻譯開放平臺控制檯](https://fanyi-api.baidu.com/api/trans/product/desktop) 頁面最底端有“申請資訊”包含”APP ID“和”金鑰“，將其填入到本擴展中。
 10. 完成🎉，如有疑惑的地方，請在 [這裡](https://github.com/immersive-translate/immersive-translate/issues/137) 回饋。

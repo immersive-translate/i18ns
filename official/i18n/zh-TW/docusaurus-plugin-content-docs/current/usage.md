@@ -14,7 +14,7 @@ sidebar_position: 2
 
 ## 圖文說明
 
-安裝外掛後，【右上角將沉浸式翻譯瀏覽器圖示置頂】，然後點選【沉浸式翻譯擴充套件圖示】，再點選翻譯即可進行翻譯：
+安裝外掛後，【右上角將沉浸式翻譯瀏覽器圖示置頂】，然後點選【沉浸式翻譯擴展圖示】，再點選翻譯即可進行翻譯：
 
 <img src="https://s.immersivetranslate.com/static/official-static/assets/browser-panel-v2.png" alt="browser action" width="250" />
 
@@ -30,7 +30,7 @@ sidebar_position: 2
 
     Alt+W: 翻譯整個頁面，而不是預設的智慧翻譯內容區域。
 
-如果預設快捷鍵與別的軟體快捷鍵衝突，可以在擴充套件的【設定頁面 - 介面設定 - 快捷鍵管理】中修改，可以設定為 `Alt+Q`，`Alt+E` 等。
+如果預設快捷鍵與別的軟體快捷鍵衝突，可以在擴展的【設定頁面 - 介面設定 - 快捷鍵管理】中修改，可以設定為 `Alt+Q`，`Alt+E` 等。
 
 **你可以在[Buzzing](https://www.buzzing.cc/)裡隨便點選一篇英文報道試試效果～**
 
@@ -56,17 +56,17 @@ sidebar_position: 2
 
 ## PDF 文件翻譯
 
-1. 如果是線上的 PDF 文件，在瀏覽器開啟後，點選擴充套件的圖示，然後點選翻譯該文件即可，如下圖所示。
+1. 如果是線上的 PDF 文件，在瀏覽器開啟後，點選擴展的圖示，然後點選翻譯該文件即可，如下圖所示。
 
 <img src="https://s.immersivetranslate.com/static/official-static/assets/browser-pdf.png" alt="browser action" width="250" />
 
-2. 如果是本機的 PDF 文件，直接右鍵擴充套件的圖示（或者左鍵點選擴充套件圖示，然後點選「更多」，點選「翻譯本機 PDF 文件」），進入頁面後，點選頁面右上角上傳你的 PDF 文件即可。
+2. 如果是本機的 PDF 文件，直接右鍵擴展的圖示（或者左鍵點選擴展圖示，然後點選「更多」，點選「翻譯本機 PDF 文件」），進入頁面後，點選頁面右上角上傳你的 PDF 文件即可。
 
 [【點此檢視影片教學】](https://www.bilibili.com/video/BV1HP411z7Qi/?)
 
 ## 外掛設定頁面
 
-點選瀏覽器右上角的擴充套件圖示，點選[【設定】](https://dash.immersivetranslate.com/)，即可進入擴充套件的設定頁面。
+點選瀏覽器右上角的擴展圖示，點選[【設定】](https://dash.immersivetranslate.com/)，即可進入擴展的設定頁面。
 
 在設定頁面裡我們可以進行一系列的個性化設定。
 
@@ -123,7 +123,7 @@ sidebar_position: 2
 
 ## 字幕檔翻譯
 
-沉浸式支援`.srt`, `.ass` 等格式的字幕檔翻譯，點選沉浸式翻譯擴充套件圖示，點選【更多】，【字幕檔翻譯】，即可進入，翻譯後可以匯出雙語字幕。
+沉浸式支援`.srt`, `.ass` 等格式的字幕檔翻譯，點選沉浸式翻譯擴展圖示，點選【更多】，【字幕檔翻譯】，即可進入，翻譯後可以匯出雙語字幕。
 
 ![subtitle](https://s.immersivetranslate.com/static/official-static/assets/subtitle-demo.png)
 

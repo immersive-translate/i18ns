@@ -12,9 +12,9 @@ sidebar_position: 9
 
 ## 安裝相關
 
-### 1. 如何更新擴充套件
+### 1. 如何更新擴展
 
-一般來說，在瀏覽器商店安裝的擴充套件，瀏覽器都會自動進行更新，一般情況會在擴充套件更新之後的一天內進行自動更新，如果你想立刻更新到最新版本的話，可以在瀏覽器的【擴充套件管理】頁面，開啟【開發者模式】，然後點選最上面的【更新】，即可立即更新到商店的最新版本。
+一般來說，在瀏覽器商店安裝的擴展，瀏覽器都會自動進行更新，一般情況會在擴展更新之後的一天內進行自動更新，如果你想立刻更新到最新版本的話，可以在瀏覽器的【擴展管理】頁面，開啟【開發者模式】，然後點選最上面的【更新】，即可立即更新到商店的最新版本。
 
 ![](https://s.immersivetranslate.com/static/official-static/assets/docs/doc-assets/update-extension.png)
 
@@ -23,16 +23,16 @@ sidebar_position: 9
 iOS：
 
 - [Tamper Monkey 瀏覽器](https://www.tampermonkey.net/)
-- 安裝油猴擴充套件後的 Safari 瀏覽器，可安裝的油猴擴充套件：
+- 安裝油猴擴展後的 Safari 瀏覽器，可安裝的油猴擴展：
   - [Userscripts](https://itunes.apple.com/us/app/userscripts/id1463298887)
   - [Stay](https://apps.apple.com/cn/app/stay-safari%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BC%B4%E4%BE%A3/id1591620171)：建議直接在 Stay 內建的商店裡搜尋沉浸式翻譯最佳化腳本下載（針對 Stay 做了特殊最佳化）。
 
 Android：
 
-- [Firefox 最新版本](https://www.firefox.com.cn/download/#product-android-release)：安裝完成後，再安裝 [Tamper Monkey](https://www.tampermonkey.net/) 擴充套件。
+- [Firefox 最新版本](https://www.firefox.com.cn/download/#product-android-release)：安裝完成後，再安裝 [Tamper Monkey](https://www.tampermonkey.net/) 擴展。
 - [X 瀏覽器](https://www.xbext.com/?ref=immersive-translate)：安裝後，直接開啟[沉浸式翻譯油猴腳本地址](https://download.immersivetranslate.com/immersive-translate.user.js) 即可安裝。
 
-已知不支援的油猴擴充套件的瀏覽器（這類瀏覽器並沒有實現所需的油猴 API）：
+已知不支援的油猴擴展的瀏覽器（這類瀏覽器並沒有實現所需的油猴 API）：
 
 - 安卓 Via 瀏覽器
 - iOS Alook 瀏覽器
@@ -43,7 +43,7 @@ Android：
 
 ### 4. 360 瀏覽器如何安裝
 
-只支援 360 極速瀏覽器 x，記住是帶 x 的。如果可以存取谷歌擴充套件商店，直接可以去那裡裝。如果存取不了就 [手動安裝](/docs/installation/#%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85-%E8%BF%BD%E8%B8%AA%E6%9C%80%E6%96%B0%E5%BC%80%E5%8F%91%E7%89%B9%E6%80%A7)。
+只支援 360 極速瀏覽器 x，記住是帶 x 的。如果可以存取谷歌擴展商店，直接可以去那裡裝。如果存取不了就 [手動安裝](/docs/installation/#%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85-%E8%BF%BD%E8%B8%AA%E6%9C%80%E6%96%B0%E5%BC%80%E5%8F%91%E7%89%B9%E6%80%A7)。
 
 ### 5. Opera 瀏覽器未生效
 
@@ -51,9 +51,9 @@ Android：
 
 ![](https://s.immersivetranslate.com/static/official-static/assets/opera-allow-search.png)
 
-### 6. 在 iOS 裝置上無法啟用擴充套件
+### 6. 在 iOS 裝置上無法啟用擴展
 
-如果您在 iOS 裝置上無法啟用擴充套件，請按照以下步驟操作：
+如果您在 iOS 裝置上無法啟用擴展，請按照以下步驟操作：
 
 1. 開啟【設定】應用
 2. 滑動並點選【螢幕使用時間】
@@ -75,7 +75,7 @@ Android：
 
 長按懸浮球點選頭像去登入。
 
-### 9. crx 文件拖拽至瀏覽器擴充套件程式，顯示文件不存在
+### 9. crx 文件拖拽至瀏覽器擴展程式，顯示文件不存在
 
 需要先解壓壓縮包，再單獨拖 CRX 文件。
 
@@ -137,7 +137,7 @@ Android：
 
 ### 6. 如何不顯示原文
 
-點選沉浸式翻譯圖示，開啟擴充套件面板，點選【更多】，【切換到僅譯文模式】。
+點選沉浸式翻譯圖示，開啟擴展面板，點選【更多】，【切換到僅譯文模式】。
 
 ### 7. 頁面出現感嘆號
 
@@ -216,7 +216,7 @@ Android：
 
 ### 19. 如何更新最新規則
 
-擴充套件本身會在使用的時候定時同步官方最新對網站適配的規則，你也可以手動同步最新的規則，點選瀏覽器的沉浸式翻譯擴充套件圖示，開啟彈窗後擴充套件會會自動偵測最新適配規則並同步，油猴腳本同理。
+擴展本身會在使用的時候定時同步官方最新對網站適配的規則，你也可以手動同步最新的規則，點選瀏覽器的沉浸式翻譯擴展圖示，開啟彈窗後擴展會會自動偵測最新適配規則並同步，油猴腳本同理。
 
 ### 20. 翻譯失敗 / 翻譯一直轉圈
 
@@ -298,15 +298,15 @@ YouTube 內建機翻字幕，繁體中文會出現格式錯誤，導致所有字
 
 ### 1. 如何翻譯本機文件
 
-- 方法一：進入[沉浸式翻譯文件翻譯官網](https://app.immersivetranslate.com/)，也可以點選沉浸式翻譯擴充套件圖示，點選【文件翻譯】進入。
+- 方法一：進入[沉浸式翻譯文件翻譯官網](https://app.immersivetranslate.com/)，也可以點選沉浸式翻譯擴展圖示，點選【文件翻譯】進入。
 
-- 方法二：如果使用的是類 Chrome 瀏覽器，如（Chrome，Arc，Edge 瀏覽器），還有另一種辦法，就是在瀏覽器中開啟擴充套件管理頁面`chrome://extensions`,找到【沉浸式翻譯】外掛，【允許該擴充套件存取本機文件】，之後直接在瀏覽器中開啟本機的 HTML 或本機的 PDF 文件，就可以直接右鍵【翻譯】了。
+- 方法二：如果使用的是類 Chrome 瀏覽器，如（Chrome，Arc，Edge 瀏覽器），還有另一種辦法，就是在瀏覽器中開啟擴展管理頁面`chrome://extensions`,找到【沉浸式翻譯】外掛，【允許該擴展存取本機文件】，之後直接在瀏覽器中開啟本機的 HTML 或本機的 PDF 文件，就可以直接右鍵【翻譯】了。
 
   ![](https://s.immersivetranslate.com/assets/allow-local-file-1.png)
 
   ![](https://s.immersivetranslate.com/assets/allow-pdf-2.png)
 
-**注意**：Safari 瀏覽器和 Firefox 瀏覽器對擴充套件存取本機檔案有嚴格限制，Safari 和 Firefox 使用者請直接使用方法一，前往[沉浸式翻譯文件翻譯官網](https://app.immersivetranslate.com/)來翻譯本機檔案。
+**注意**：Safari 瀏覽器和 Firefox 瀏覽器對擴展存取本機檔案有嚴格限制，Safari 和 Firefox 使用者請直接使用方法一，前往[沉浸式翻譯文件翻譯官網](https://app.immersivetranslate.com/)來翻譯本機檔案。
 
 ### 2. 頁數過多時 PDF 文件翻譯過慢
 
@@ -373,7 +373,7 @@ AI 術語庫預設不支援谷歌/微軟這類機器翻譯術語
 
 ### Edge 瀏覽器擴展打開空白，且瀏覽器報錯 MANIFEST-000001
 
-開啟【[檔案快速查找應用程式 (Everything)](https://www.voidtools.com/zh-cn/downloads/)】應用程式，搜尋 `amkbmndfnliijdhojkpoglbnaaahippg` 沉浸式的擴充套件 id 瀏覽器的儲存資料夾，刪除之後，然後再去解除安裝重新安裝外掛
+開啟【[檔案快速查找應用程式 (Everything)](https://www.voidtools.com/zh-cn/downloads/)】應用程式，搜尋 `amkbmndfnliijdhojkpoglbnaaahippg` 沉浸式的擴展 id 瀏覽器的儲存資料夾，刪除之後，然後再去解除安裝重新安裝外掛
 
 ### 雙語字幕如何下載 / 其他網站雙語字幕能否下載？
 

@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # 如何分享雙語頁面？
 
-安裝[沉浸式翻譯](https://immersivetranslate.com/)外掛後，右上角將沉浸式翻譯瀏覽器圖示置頂，然後點選沉浸式翻譯【擴充套件圖示】，再點選【雙語分享】圖示即可進入雙語快照的預覽頁面：
+安裝[沉浸式翻譯](https://immersivetranslate.com/)外掛後，右上角將沉浸式翻譯瀏覽器圖示置頂，然後點選沉浸式翻譯【擴展圖示】，再點選【雙語分享】圖示即可進入雙語快照的預覽頁面：
 
 <img src="https://s.immersivetranslate.com/assets/share-web-page-demo.png" alt="browser action" width="250" />
 

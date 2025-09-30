@@ -8,11 +8,11 @@ sidebar_position: 2
 
 ## 免費 PDF 翻譯
 
-1. 對於線上 PDF 檔案，在瀏覽器中開啟後，點擊擴充功能圖示，然後點擊「翻譯此檔案」，如下圖所示。
+1. 對於線上 PDF 檔案，在瀏覽器中開啟後，點擊擴展功能圖示，然後點擊「翻譯此檔案」，如下圖所示。
 
 <img src="https://s.immersivetranslate.com/static/official-static/assets/browser-pdf.png" alt="browser action" width="250" />
 
-2. 對於本機 PDF 檔案，右鍵點擊擴充功能圖示（或左鍵點擊擴充功能圖示，然後點擊「更多」和「翻譯本機 PDF 檔案」），進入頁面後，點擊右上角的上傳按鈕上傳您的 PDF 檔案。
+2. 對於本機 PDF 檔案，右鍵點擊擴展功能圖示（或左鍵點擊擴展功能圖示，然後點擊「更多」和「翻譯本機 PDF 檔案」），進入頁面後，點擊右上角的上傳按鈕上傳您的 PDF 檔案。
 
 [【點擊觀看影片教學】](https://www.bilibili.com/video/BV1HP411z7Qi/?)
 

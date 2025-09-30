@@ -12,5 +12,5 @@
 5. 開啟 [機器翻譯\_智慧翻譯\_自動翻譯 - 騰訊雲](https://cloud.tencent.com/product/tmt)，點選“立即使用”按鈕。登入之後，會進入騰訊機器翻譯服務控制檯。
 6. 選擇開通付費版。
 7. 建立存取金鑰。將滑鼠懸停在網頁右上角的頭像上，然後選擇 [存取管理](https://console.cloud.tencent.com/cam/overview)，然後在左側選單選擇 [存取金鑰 - API 金鑰管理](https://console.cloud.tencent.com/cam/capi)，最好不要直接建立金鑰，因為主帳號建立的金鑰可以存取呼叫你帳號裡的所有資源，因此保險起見選擇建立一個子帳號，在“使用者權限”這一項進行搜尋“機器翻譯”，只勾選這一項。
-8. 成功建立後，會看到這個子帳戶的“SecretId”和“SecretKey”。將其填入本擴充套件即可！
+8. 成功建立後，會看到這個子帳戶的“SecretId”和“SecretKey”。將其填入本擴展即可！
 9. 完成🎉，如有疑惑的地方，請在 [這裡](https://github.com/immersive-translate/immersive-translate/issues/137) 回饋。

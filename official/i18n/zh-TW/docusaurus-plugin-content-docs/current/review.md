@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # 使用者評價
 
-我很開心在發布這個擴充套件以來收到了無數的好評（以及大量的改進建議），讓我們一起聽聽沉浸式翻譯擴充套件的使用者怎麼說～
+我很開心在發布這個擴展以來收到了無數的好評（以及大量的改進建議），讓我們一起聽聽沉浸式翻譯擴展的使用者怎麼說～
 
 ## 快速直達
 
@@ -13,12 +13,12 @@ sidebar_position: 8
 - [Firefox 商店使用者評價頁面](https://addons.mozilla.org/en-US/firefox/addon/immersive-translate/reviews/)
 - [蘋果 App Store 頁面](https://apps.apple.com/tw/app/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AD%AF/id6447957425)
 
-如果你也喜歡這個擴充套件，不妨去留個言告訴世界你也喜歡這個擴充套件？
+如果你也喜歡這個擴展，不妨去留個言告訴世界你也喜歡這個擴展？
 
 ## 媒體報道
 
 - 小眾軟體：[沉浸式翻譯 – 支援 PDF、EPUB、網頁，可同時顯示原文與譯文的雙語翻譯工具](https://www.appinn.com/immersive-translate/)
-- 藍點網： [沉浸式翻譯 - 支援多種翻譯 API 的谷歌/火狐對照翻譯擴充套件](https://www.landiannews.com/download/97161.html?utm_sources=ourl.co&utm_medium=social&utm_campaign=none)
+- 藍點網： [沉浸式翻譯 - 支援多種翻譯 API 的谷歌/火狐對照翻譯擴展](https://www.landiannews.com/download/97161.html?utm_sources=ourl.co&utm_medium=social&utm_campaign=none)
 
 ## 使用者留言
 
@@ -28,7 +28,7 @@ sidebar_position: 8
 
 > 很棒，支援很多翻譯服務，實現也很優雅 谷歌翻譯完全夠用，在哲學方面的書，翻譯水準完全比得上專業方向的研一，尤其是中英雙語對照的情況基本上不會有太大問題; 德中的話感覺 DeepL 更好些。- Chrome 瀏覽器使用者
 
-> 推薦我用的英文翻譯工具：沉浸式雙語網頁翻譯擴充套件。以前我用 Chrome 內建的網頁翻譯功能，它有兩個缺點：無法結合上下文，會翻錯單詞；翻譯法律文字那種很長、很繞的從句，結果基本看不懂。現在我用中英對照來解決上面這兩問題。-[@倪爽](https://twitter.com/nishuang/status/1623576540389822465)
+> 推薦我用的英文翻譯工具：沉浸式雙語網頁翻譯擴展。以前我用 Chrome 內建的網頁翻譯功能，它有兩個缺點：無法結合上下文，會翻錯單詞；翻譯法律文字那種很長、很繞的從句，結果基本看不懂。現在我用中英對照來解決上面這兩問題。-[@倪爽](https://twitter.com/nishuang/status/1623576540389822465)
 
 > 完美的雙語翻譯外掛，大大提升了外文書籍文章的閱讀體驗，強烈推薦！ - Edge 瀏覽器使用者
 
@@ -36,7 +36,7 @@ sidebar_position: 8
 
 > 強烈推薦這個網頁翻譯外掛，和其他外掛翻譯整個網頁相比，這個外掛的優勢是可以同時顯示雙語，中英文對照，免費使用。配合任何 epub 線上閱讀網站對照翻譯閱讀書也非常方便。也支援了 Deepl 等翻譯服務。開發者 @OwenYoungZh - [@viggo](https://twitter.com/decohack/status/1622175776274792449)
 
-> 一個非常贊的瀏覽器網頁翻頁外掛：沉浸式雙語網頁翻譯擴充套件 -Immersive Translate, 智慧識別網頁主內容區，增強譯文的閱讀體驗，支援 Deepl, 谷歌等 10+ 種常見的翻譯服務 - [@A 姐分享](https://twitter.com/abskoop/status/1619619066511241216)
+> 一個非常贊的瀏覽器網頁翻頁外掛：沉浸式雙語網頁翻譯擴展 -Immersive Translate, 智慧識別網頁主內容區，增強譯文的閱讀體驗，支援 Deepl, 谷歌等 10+ 種常見的翻譯服務 - [@A 姐分享](https://twitter.com/abskoop/status/1619619066511241216)
 
 > 譯文的特殊效果是同類產品的亮點 - Edge 瀏覽器使用者
 
@@ -51,7 +51,7 @@ sidebar_position: 8
 
 > 一直用 chrome 內建翻譯，直到 google 翻譯在 chrome 中不能使用也一直在尋找替換方案，終於找到這個，非常好用，超越內建翻譯。 - Chrome 瀏覽器使用者
 
-> 一直想像有一款這樣功能的擴充套件外掛，終於讓我遇到了。免去了原先頻繁在譯文和原文之間切換的麻煩。 - Chrome 瀏覽器使用者
+> 一直想像有一款這樣功能的擴展外掛，終於讓我遇到了。免去了原先頻繁在譯文和原文之間切換的麻煩。 - Chrome 瀏覽器使用者
 
 > 用這個在比如 O'Reilly 上讀英文書簡直絕了，我一直想找一個能對照著中英文閱讀的翻譯外掛，兼顧閱讀速度和 (機器翻譯不準確時的) 理解準確性。 - Chrome 瀏覽器使用者
 

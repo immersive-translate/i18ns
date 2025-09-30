@@ -10,5 +10,5 @@
 
 4. 開啟 [有道智雲 AI 開放平臺](http://ai.youdao.com) 並點選右上角的註冊。
 5. 開啟 [文字翻譯服務頁面](https://ai.youdao.com/console/#/service-singleton/text-translation)，點選「建立應用」按鈕，會需要填寫應用資訊，依次填寫“沉浸式翻譯”，“實用工具”，“文字翻譯”，“API”，點選確定完成建立。
-6. 開啟 [應用總覽頁面](https://ai.youdao.com/console/#/app-overview)，在應用列表中找到剛才建立的「應用名稱」為「沉浸式翻譯」的應用，然後就會看到「應用 ID」和「金鑰/包名/Bundle ID」，將其填入本擴充套件基本設定 - 翻譯服務 - 有道翻譯中。
+6. 開啟 [應用總覽頁面](https://ai.youdao.com/console/#/app-overview)，在應用列表中找到剛才建立的「應用名稱」為「沉浸式翻譯」的應用，然後就會看到「應用 ID」和「金鑰/包名/Bundle ID」，將其填入本擴展基本設定 - 翻譯服務 - 有道翻譯中。
 7. 完成🎉，如有疑惑的地方，請在 [這裡](https://github.com/immersive-translate/immersive-translate/issues/137) 回饋。

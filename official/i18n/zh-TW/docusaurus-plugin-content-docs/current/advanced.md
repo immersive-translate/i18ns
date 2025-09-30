@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # 進階自訂選項
 
-你可以在擴充套件設定頁面 -> 開發者設定 -> User Config 裡編輯更多 UI 裡無法編輯的自定義設定，適用於進階使用者，參數講解詳見最後的說明。目前內建的 `config` 可以在[這裡](https://dash.immersivetranslate. com/#developer)，點選 `Click to expand the final config` 找到。
+你可以在擴展設定頁面 -> 開發者設定 -> User Config 裡編輯更多 UI 裡無法編輯的自定義設定，適用於進階使用者，參數講解詳見最後的說明。目前內建的 `config` 可以在[這裡](https://dash.immersivetranslate. com/#developer)，點選 `Click to expand the final config` 找到。
 
 ## User Rules
 
@@ -556,7 +556,7 @@ export interface Rule {
 ```
 
 ### 修改預設翻譯快取自動清理時長
-擴充功能針對翻譯快取，預設 30 天自動清除。目的是為了防止快取過大，導致後續翻譯卡頓。可以如下操作修改預設值
+擴展功能針對翻譯快取，預設 30 天自動清除。目的是為了防止快取過大，導致後續翻譯卡頓。可以如下操作修改預設值
 
 在【開發者設定】(https://dash.immersivetranslate.com/#developer)->【Edit Full User Config】
 ```

@@ -9,7 +9,7 @@
 ## 申請步驟
 
 4. 完成開發者認證：登入 [彩雲科技開放平臺](https://dashboard.caiyunapp.com/)，進入 [我的帳戶 - 開發者資訊](https://dashboard.caiyunapp.com/user/user/info/) 填寫開發者資訊，帳戶類型選擇“個人及非盈利組織”，個人姓名、組織名、聯絡名、聯絡電話都寫自己的即可。
-5. 應用類別選擇彩雲小譯 API，應用名填寫沉浸式翻譯，應用連結填寫 immersive-translate，應用開發情況填寫瀏覽器擴充套件程式，已開發完成。
+5. 應用類別選擇彩雲小譯 API，應用名填寫沉浸式翻譯，應用連結填寫 immersive-translate，應用開發情況填寫瀏覽器擴展程式，已開發完成。
 6. 填寫完成之後點選提交按鈕，彩雲小譯會審核你提交的資訊，一般兩個工作日內就會審核透過。
-7. 審核透過後，進入 [我的令牌 - 令牌](https://dashboard.caiyunapp.com/v1/token/) 列表，檢視你的“Token”，將此 Token 填入本擴充套件即可。
+7. 審核透過後，進入 [我的令牌 - 令牌](https://dashboard.caiyunapp.com/v1/token/) 列表，檢視你的“Token”，將此 Token 填入本擴展即可。
 8. 完成🎉，如有疑惑的地方，請在 [這裡](https://github.com/immersive-translate/immersive-translate/issues/137) 回饋。

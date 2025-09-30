@@ -3,7 +3,7 @@ sidebar_position: 1
 title: 介紹
 ---
 
-一款**免費的，好用的，沒有廢話的，革命性的，飽受讚譽的，AI 驅動的雙語網頁翻譯擴充套件**，幫助你有效地打破資訊差，在手機上也可以用！
+一款**免費的，好用的，沒有廢話的，革命性的，飽受讚譽的，AI 驅動的雙語網頁翻譯擴展**，幫助你有效地打破資訊差，在手機上也可以用！
 
 <video
   controls
@@ -24,7 +24,7 @@ title: 介紹
 
 [**點選立即安裝**](/docs/installation/)
 
-本擴充套件免費使用，希望大家能輕鬆、愉悅、優雅地取得網際網路上豐富的外文資訊，不讓語言成為障礙 ❤️
+本擴展免費使用，希望大家能輕鬆、愉悅、優雅地取得網際網路上豐富的外文資訊，不讓語言成為障礙 ❤️
 
 你可以透過以下方式和我們保持聯絡：
 
@@ -66,7 +66,7 @@ title: 介紹
 - Google Chrome 瀏覽器：[Chrome 商店沉浸式翻譯](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
 - Firefox 火狐瀏覽器：[Firefox Addon 商店沉浸式翻譯](https://addons.mozilla.org/zh-TW/firefox/addon/immersive-translate/)
 
-> 如果你無法存取 Google 官方商店，可以直接下載[最新沉浸式翻譯 Chrome 瀏覽器 zip 安裝檔](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip)，下載後請先解壓到一個常用的資料夾內，然後在位址列輸入：`chrome://extensions`，開啟擴充套件管理視窗，然後啟用"開發人員模式"，選擇"載入解壓縮的擴充套件"，選擇剛剛解壓後的資料夾載入即可安裝成功。
+> 如果你無法存取 Google 官方商店，可以直接下載[最新沉浸式翻譯 Chrome 瀏覽器 zip 安裝檔](https://download.immersivetranslate.com/latest/chrome-immersive-translate.zip)，下載後請先解壓到一個常用的資料夾內，然後在位址列輸入：`chrome://extensions`，開啟擴展管理視窗，然後啟用"開發人員模式"，選擇"載入解壓縮的擴展"，選擇剛剛解壓後的資料夾載入即可安裝成功。
 
 ### Safari
 
@@ -76,22 +76,22 @@ title: 介紹
 <img src="https://s.immersivetranslate.com/static/official-static/assets/immersive-app-store.png" width="150" alt="app store qrcode" />
 </div>
 
-> 說明：首次安裝後需要在 safari 瀏覽器-> 管理擴充套件->**啟用沉浸式翻譯擴充套件**，並且授予其**始終允許存取所有網站**的權限，有疑問可以檢視[影片教學](https://immersivetranslate.com/assets/safari-installation-intro.mp4)：
+> 說明：首次安裝後需要在 safari 瀏覽器-> 管理擴展->**啟用沉浸式翻譯擴展**，並且授予其**始終允許存取所有網站**的權限，有疑問可以檢視[影片教學](https://immersivetranslate.com/assets/safari-installation-intro.mp4)：
 
 ## 安卓
 
 ### 透過沉浸式翻譯官方安卓瀏覽器安裝
 
-點選下載[沉浸式翻譯安卓瀏覽器 APK](https://immersivetranslate.com/android/)，或者在 [Google Play 應用商店安裝](https://play.google.com/store/apps/details?id=com.immersivetranslate.browser&utm_campaign=official)，該版本已經預裝了沉浸式翻譯擴充套件，安裝之後即可直接使用。（注意，如遇到部分國產手機在安裝時提示的安全風險（這是統一的提示），請選擇【我已知曉安全風險】【繼續安裝】）
+點選下載[沉浸式翻譯安卓瀏覽器 APK](https://immersivetranslate.com/android/)，或者在 [Google Play 應用商店安裝](https://play.google.com/store/apps/details?id=com.immersivetranslate.browser&utm_campaign=official)，該版本已經預裝了沉浸式翻譯擴展，安裝之後即可直接使用。（注意，如遇到部分國產手機在安裝時提示的安全風險（這是統一的提示），請選擇【我已知曉安全風險】【繼續安裝】）
 
 ### 透過 Edge（微軟）安卓瀏覽器安裝
 
-[Edge 安卓瀏覽器](https://microsoftedgewelcome.microsoft.com/emmx/ImmersiveTranslateCollaboration)目前已支援安裝瀏覽器擴充套件，沉浸式翻譯是 Edge 安卓瀏覽器的首批推薦擴充套件之一，在 Edge 瀏覽器上安裝沉浸式翻譯擴充套件非常簡單
+[Edge 安卓瀏覽器](https://microsoftedgewelcome.microsoft.com/emmx/ImmersiveTranslateCollaboration)目前已支援安裝瀏覽器擴展，沉浸式翻譯是 Edge 安卓瀏覽器的首批推薦擴展之一，在 Edge 瀏覽器上安裝沉浸式翻譯擴展非常簡單
 
 1. 首先[掃碼下載安裝 Edge 瀏覽器](https://microsoftedgewelcome.microsoft.com/emmx/ImmersiveTranslateCollaboration) (或者在應用商店搜尋 Edge 瀏覽器並安裝)
-2. 開啟 Edge 安裝瀏覽器，點選選單 -> 【擴充套件】，在列表裡找到沉浸式翻譯，點選安裝即可，如下圖所示：
+2. 開啟 Edge 安裝瀏覽器，點選選單 -> 【擴展】，在列表裡找到沉浸式翻譯，點選安裝即可，如下圖所示：
    ![](https://s.immersivetranslate.com/assets/uploads/edge-immersive-aNFLnF.JPEG)
-   （注意⚠️：Edge 安卓瀏覽器目前只能透過上述方式安裝沉浸式翻譯擴充套件，不支援在 [Edge 擴充套件商店頁面](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-TW&gl=TW)安裝）
+   （注意⚠️：Edge 安卓瀏覽器目前只能透過上述方式安裝沉浸式翻譯擴展，不支援在 [Edge 擴展商店頁面](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-TW&gl=TW)安裝）
 
 ### 其他安卓瀏覽器
 
@@ -104,16 +104,16 @@ title: 介紹
 
 ### 透過油猴腳本安裝
 
-如果你無法透過以上的方式安裝沉浸式翻譯的官方擴充套件 (推薦使用官方擴充套件，效能更好，功能也更豐富)，你可以透過以下方式安裝油猴腳本：
+如果你無法透過以上的方式安裝沉浸式翻譯的官方擴展 (推薦使用官方擴展，效能更好，功能也更豐富)，你可以透過以下方式安裝油猴腳本：
 
 油猴腳本地址：https://download.immersivetranslate.com/immersive-translate.user.js
 
-在已安裝油猴擴充套件的瀏覽器中開啟[該地址](https://download.immersivetranslate.com/immersive-translate.user.js) 即可安裝。以**安卓火狐瀏覽器**為例：
+在已安裝油猴擴展的瀏覽器中開啟[該地址](https://download.immersivetranslate.com/immersive-translate.user.js) 即可安裝。以**安卓火狐瀏覽器**為例：
 
 1. 下載 [Firefox 最新版本](https://www.mozilla.org/zh-TW/firefox/browsers/mobile/android/) 版本
 2. 在 Firefox 的附加元件推薦裡找到 [Tamper Monkey](https://www.tampermonkey.net/)，安裝
-3. 安裝本擴充套件的 [油猴腳本](https://download.immersivetranslate.com/immersive-translate.user.js) (在 Firefox 瀏覽器中開啟該連結即可看到安裝頁面）
-4. 安裝後，開啟任意網頁，在右側會出現沉浸式翻譯擴充套件的浮窗圖示。
+3. 安裝本擴展的 [油猴腳本](https://download.immersivetranslate.com/immersive-translate.user.js) (在 Firefox 瀏覽器中開啟該連結即可看到安裝頁面）
+4. 安裝後，開啟任意網頁，在右側會出現沉浸式翻譯擴展的浮窗圖示。
 
 ## 一個更長的說明
 
@@ -169,12 +169,12 @@ title: 介紹
 
 - 向你身邊的朋友和家人推薦沉浸式翻譯，幫助更多的人打破資訊落差。
 - 養成看外語資訊的習慣
-- 在[Chrome 商店](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh), [Edge 商店](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AD%AF/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-TW&gl=TW)，[蘋果 App Store](https://apps.apple.com/tw/app/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AD%AF/id6447957425), [Firefox 商店](https://addons.mozilla.org/zh-TW/firefox/addon/immersive-translate/)裡評價擴充套件。
+- 在[Chrome 商店](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh), [Edge 商店](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AD%AF/amkbmndfnliijdhojkpoglbnaaahippg?form=MT001Y&hl=zh-TW&gl=TW)，[蘋果 App Store](https://apps.apple.com/tw/app/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AD%AF/id6447957425), [Firefox 商店](https://addons.mozilla.org/zh-TW/firefox/addon/immersive-translate/)裡評價擴展。
 - 以下為可選項：
 - 訂閱[沉浸式翻譯官方郵件](https://immersivetranslate.substack.com/)
 <!-- - [加入 Telegram 頻道](https://t.me/immersivetranslate) -->
 - 關注[沉浸式翻譯官方 Twitter 帳號](https://x.com/immersivetrans)
-- 幫忙[翻譯](https://crowdin.com/project/immersive-translate)擴充套件的介面語言。
+- 幫忙[翻譯](https://crowdin.com/project/immersive-translate)擴展的介面語言。
 <!-- - 幫忙解答使用者在 [Telegram 群組](https://t.me/+rq848Z09nehlOTgx) 裡的提問。 -->
 - 幫忙解答使用者在[GitHub Issue](https://github.com/immersive-translate/immersive-translate/issues)裡的提問。
 

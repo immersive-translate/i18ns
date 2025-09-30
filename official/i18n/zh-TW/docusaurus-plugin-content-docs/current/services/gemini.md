@@ -7,7 +7,7 @@
 - 開啟 https://makersuite.google.com/
 - 用 Google 帳號登入
 - 點選 `Get API Key` -> `Create API key in new project` 儲存好 key
-- 然後將 key 填寫在沉浸式翻譯擴充套件裡的 Gemini 的設定選項裡即可。
+- 然後將 key 填寫在沉浸式翻譯擴展裡的 Gemini 的設定選項裡即可。
 
 ## 注意事項
 
