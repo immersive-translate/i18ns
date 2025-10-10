@@ -16,6 +16,11 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.22.1 Preview (2025-10-10)
+
+- Fixed: The status was not synchronized when switching translation services in the mobile plugin panel.
+- Fixed: The free image translation feature failed to load in certain situations.
+
 ## 1.21.8 Preview (2025-09-30)
 
 - Improved: Added conflict detection and friendly prompts when multiple translation applications are enabled simultaneously.

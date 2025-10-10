@@ -16,6 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.22.1 Preview (2025-10-10)
+
+- 修复：移动端插件面板切换翻译服务时状态不同步的问题
+- 修复：免费图片翻译功能在某些情况下加载失败的问题
+
 ## 1.21.8 Preview (2025-09-30)
 
 - 优化：多翻译应用同时启用时，新增冲突检测与友好提示。
