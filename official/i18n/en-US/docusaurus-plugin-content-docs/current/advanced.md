@@ -520,23 +520,17 @@ Due to the special nature of the Gemini series models, the plugin has built-in s
 }
 ```
 
-### Custom Translation Token Ratio Validation
+### Make the Extension Strictly Follow Custom Prompts
 
-> To mitigate the "hallucination" phenomenon of Large Language Models, we have a built-in translation quality validation mechanism. The program evaluates the reasonableness of the result by calculating the token ratio between the response text and the request text. If this ratio is abnormal (too high or too low), the translation will be considered invalid and a fallback will be triggered.
+> To reduce issues of "hallucination" from large language models, the extension has a built-in translation quality checking mechanism. The system determines the validity of the translation by comparing the token count ratio between the response and the request text. When this ratio is abnormal (too high or too low), the result is considered invalid and will automatically switch to a backup translation solution.
 >
-> If you intend for the model to output content with a length significantly different from the original text in "Custom Expert Mode" (e.g., for tasks like summarization or expansion), you may need to adjust this validation setting. You can override the default behavior with the following options to ensure your custom instructions execute correctly.
->
-> Specifically, you can adjust the following two parameters:
->
-> - `maxTokensRatio`: Defines the maximum allowed token ratio between the response text and the request text. If the actual ratio exceeds this value, the system will deem the response too long and consider it invalid.
-> - `minTokensRatio`: Defines the minimum allowed token ratio between the response text and the request text. If the actual ratio is below this value, the system will deem the response too short and consider it invalid.
+> If your custom prompt is for a non-translation task (such as rewriting, polishing, or other instructions), this may cause the token ratio to fall outside the normal standard. In this case, you can enforce strict execution of your custom instruction and skip the ratio check by configuring the following parameter:
 
 ```json
 ...
   "translationServices": {
     "claude": {
-      "maxTokensRatio": 8,
-      "minTokensRatio": 0.21,
+      "strictPrompt": true
     }
   ...
 ```
