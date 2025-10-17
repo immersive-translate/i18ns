@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.22.3 Preview (2025-10-17)
+## 1.22.4 Preview (2025-10-17)
 
 - Fixed: Some bugs in the iOS extension.
 

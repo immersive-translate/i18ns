@@ -16,7 +16,7 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
-## 1.22.3 Preview (2025-10-17)
+## 1.22.4 Preview (2025-10-17)
 
 - 修复 iOS 插件部分 bug
 
