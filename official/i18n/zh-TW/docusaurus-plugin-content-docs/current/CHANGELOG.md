@@ -16,7 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
-## 1.22.2 Preview (2025-10-10)
+## 1.22.3 Preview (2025-10-17)
+
+- 修復 iOS 外掛部分問題
+
+## 1.22.2 Release (2025-10-10)
 
 - 修復：行動端外掛面板切換翻譯服務時狀態不同步的問題
 - 修復：免費圖片翻譯功能在某些情況下載入失敗的問題
