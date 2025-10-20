@@ -16,6 +16,13 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.22.5 Preview (2025-10-20)
+
+- Improved: Translation error messages are now more accurate and user-friendly.
+- Improved: After logging in, the extension automatically refreshes the login status of the current webpage, eliminating the need to manually refresh the page.
+- Improved: Enhanced accuracy in segmenting long paragraphs.
+- Improved: More precise detection of the page language.
+
 ## 1.22.4 Preview (2025-10-17)
 
 - Fixed: Some bugs in the iOS extension.

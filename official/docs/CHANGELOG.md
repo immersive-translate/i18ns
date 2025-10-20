@@ -16,6 +16,13 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.22.5 Preview (2025-10-20)
+
+- 优化：翻译错误提示更加准确和友好
+- 优化：登录后插件会自动刷新当前网页的登录状态，无需手动刷新页面
+- 优化：提升长段落分段的准确性
+- 优化：页面语言识别更精确
+
 ## 1.22.4 Preview (2025-10-17)
 
 - 修复 iOS 插件部分 bug

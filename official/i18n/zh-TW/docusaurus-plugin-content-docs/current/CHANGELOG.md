@@ -16,6 +16,13 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.22.5 Preview (2025-10-20)
+
+- 優化：翻譯錯誤提示更加準確且友善
+- 優化：登入後外掛會自動刷新目前網頁的登入狀態，無需手動重新整理頁面
+- 優化：提升長段落分段的準確性
+- 優化：頁面語言識別更精確
+
 ## 1.22.4 Preview (2025-10-17)
 
 - 修復 iOS 外掛部分問題
