@@ -322,32 +322,20 @@ Corresponding Chinese names:
 
 ### Custom Translation of Technical Terms
 
-The current solution works by having the translation service preserve placeholders, so complete replacement cannot be fully guaranteed.
+The latest version supports the [AI Terminology Library](https://dash.immersivetranslate.com/#terms) feature. Please note that this terminology library is only available for AI translation services.
 
-Due to some translation engines' suboptimal recognition of proper nouns, we can customize technical terms to ensure they are not converted during translation or are translated according to our settings. If you wish not to translate certain technical terms, click [here](https://dash.immersivetranslate.com/#advanced) to add the corresponding words. If you wish to translate certain technical terms into specific content, you can do so [here](https://dash.immersivetranslate.com/#developer).
+By default, the AI Terminology Library does not support terminology for machine translation services such as Google or Microsoft.
 
-[We will replan the terminology function soon, and will provide more flexible configuration methods then.]
+Machine translation models use placeholder replacement. Using the terminology library with them may reduce translation quality.
 
-- 【Edit Full User Config】Input the following configuration to achieve this:
+How to force enable it (not recommended):
 
-Note that the `glossaries` key-value pair is placed under the `generalRule` key-value pair.
+【[Developer Settings](https://dash.immersivetranslate.com/#developer)】 -> 【Edit Full User Config】
 
-```json
-"glossaries": [
-    {
-      "k": "LLM",
-      "v": ""
-    },
-    {
-      "k": "Tactic",
-      "v": "Strategy"
-    }
-  ]
 ```
-
-```json
-"generalRule": {
-  "glossaries": [...],
+{
+  ....
+  "enableMachineTranslateTerms":true,
   ...
 }
 ```
