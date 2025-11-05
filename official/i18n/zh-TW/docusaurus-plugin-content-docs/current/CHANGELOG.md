@@ -18,7 +18,7 @@ sidebar_position: 6
 
 ## 1.23.1 Preview (2025-11-05)
 
-- 新增：[隱私模式(beta)](https://dash.immersivetranslate.com/#advanced) 開啟後，翻譯內容會透過 [OneAIFW](https://github.com/funstory-ai/aifw) 對敏感資訊進行脫敏處理後再傳送至模型翻譯，增強資料隱私。
+- 新增：[隱私模式 (beta)](https://dash.immersivetranslate.com/#advanced) 開啟後，翻譯內容會透過 [OneAIFW](https://github.com/funstory-ai/aifw) 對敏感資訊進行脫敏處理後再傳送至模型翻譯，增強資料隱私。
 - 修復：【輸入框三擊空白鍵翻譯】在部分 Android 系統的瀏覽器（如：Edge）下無法觸發的問題。
 - 修復：【雙語字幕】於 TED 影片站點無法翻譯的問題。
 - 修復：【雙語字幕】當模型翻譯速度不夠快時，字幕無法及時顯示的現象，提升翻譯的穩定性。
