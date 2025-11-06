@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# 隐私模式（Beta）
+# 隐私模式 (Beta)
 
 ## 敏感信息脱敏说明
 
