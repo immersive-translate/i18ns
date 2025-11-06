@@ -16,15 +16,6 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.23.1 Preview (2025-11-05)
-
-- Added: [Privacy Mode (beta)](https://dash.immersivetranslate.com/#advanced) — When enabled, content to be translated will be desensitized using [OneAIFW](https://github.com/funstory-ai/aifw) before being sent to the model for translation, enhancing data privacy.
-- Fixed: [Triple spacebar translation in input fields] — In some Android system browsers (such as Edge), this feature could not be triggered.
-- Fixed: [Bilingual subtitles] — Unable to translate subtitles on TED video sites.
-- Fixed: [Bilingual subtitles] — When model translation was not fast enough, subtitles could not be displayed in time. Improved stability of subtitle translation.
-- Improved: [Automatic line breaks for long paragraphs] — When enabled, separators are added between paragraphs in long translations to enhance content readability.
-- Improved: [AI subtitles] — Now supports "regenerate," allowing you to regenerate subtitle content as needed.
-
 ## 1.22.7 Release (2025-10-30)
 
 - Improved: Translation error messages are now more accurate and user-friendly.

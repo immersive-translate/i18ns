@@ -16,15 +16,6 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
-## 1.23.1 Preview (2025-11-05)
-
-- 新增：[隐私模式 (beta)](https://dash.immersivetranslate.com/#advanced) 开启后，翻译内容会通过 [OneAIFW](https://github.com/funstory-ai/aifw) 对敏感信息进行脱敏处理后再发送给模型翻译，增强数据隐私。
-- 修复：【输入框三击空格翻译】在部分安卓系统的浏览器（如：Edge）下无法触发的问题。
-- 修复：【双语字幕】在 TED 视频站点无法翻译的问题。
-- 修复：【双语字幕】在模型翻译不够快时出现字幕无法及时显示的现象，提升翻译的稳定性。
-- 优化：【长段落自动换行】开启后，长段落翻译时，自动添加分隔线区分段落，提升内容可读性。
-- 优化：【AI 字幕】功能支持“重新生成”，可根据需要重新生成字幕内容。
-
 ## 1.22.7 Release (2025-10-30)
 
 - 优化：翻译错误提示更加准确和友好
