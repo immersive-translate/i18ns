@@ -16,16 +16,13 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
-## 1.23.2 Preview (2025-11-07)
+## 1.23.3 Preview (2025-11-07)
 
 - 修復：【輸入框翻譯】修正於 bilibili 網站無法正常翻譯的問題。
 - 優化：【輸入框翻譯】提升對 Atlas 瀏覽器與指紋瀏覽器的相容性。
-- 優化：【雙語字幕】提升 CNN 網站的相容性。
-
-## 1.23.1 Preview (2025-11-05)
-
-- 新增：[隱私模式 (beta)](https://dash.immersivetranslate.com/#advanced) 開啟後，翻譯內容會透過 [OneAIFW](https://github.com/funstory-ai/aifw) 對敏感資訊進行脫敏處理後再傳送至模型翻譯，增強資料隱私。
 - 修復：【輸入框三擊空白鍵翻譯】在部分 Android 系統的瀏覽器（如：Edge）下無法觸發的問題。
+- 優化：【雙語字幕】提升 CNN 網站的相容性。
+- 新增：[隱私模式 (beta)](https://dash.immersivetranslate.com/#advanced) 開啟後，翻譯內容會透過 [OneAIFW](https://github.com/funstory-ai/aifw) 對敏感資訊進行脫敏處理後再傳送至模型翻譯，增強資料隱私。
 - 修復：【雙語字幕】於 TED 影片站點無法翻譯的問題。
 - 修復：【雙語字幕】當模型翻譯速度不夠快時，字幕無法及時顯示的現象，提升翻譯的穩定性。
 - 優化：【長段落自動換行】啟用後，長段落翻譯時，會自動加入分隔線區分段落，提升內容可讀性。
