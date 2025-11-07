@@ -16,6 +16,12 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.23.2 Preview (2025-11-07)
+
+- 修复：【输入框翻译】修正了在 bilibili 站点无法正常翻译的问题。
+- 优化：【输入框翻译】提升对 Atlas 浏览器和指纹浏览器的兼容性。
+- 优化：【双语字幕】提升 CNN 站点的兼容性。
+
 ## 1.23.1 Preview (2025-11-05)
 
 - 新增：[隐私模式 (beta)](https://dash.immersivetranslate.com/#advanced) 开启后，翻译内容会通过 [OneAIFW](https://github.com/funstory-ai/aifw) 对敏感信息进行脱敏处理后再发送给模型翻译，增强数据隐私。
