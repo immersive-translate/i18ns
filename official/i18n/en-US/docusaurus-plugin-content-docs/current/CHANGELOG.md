@@ -18,15 +18,15 @@ The **Preview version** is published more frequently and includes some experimen
 
 ## 1.23.2 Preview (2025-11-07)
 
-- Fixed: [Input field translation] — Resolved the issue where translations could not be performed properly on the bilibili site.
-- Improved: [Input field translation] — Enhanced compatibility with Atlas and fingerprint browsers.
-- Improved: [Bilingual subtitles] — Improved compatibility with CNN site.
-- Fixed: [Triple spacebar translation in input fields] — In some Android system browsers (such as Edge), this feature could not be triggered.
 - Added: [Privacy Mode (beta)](https://dash.immersivetranslate.com/#advanced) — When enabled, content to be translated will be desensitized using [OneAIFW](https://github.com/funstory-ai/aifw) before being sent to the model for translation, enhancing data privacy.
+- Fixed: [Input field translation] — Resolved the issue where translations could not be performed properly on the bilibili site.
+- Fixed: [Input field translation] — In some Android system browsers (such as Edge), this feature could not be triggered.
+- Fixed: [Input field translation] — Enhanced compatibility with Atlas and fingerprint browsers.
 - Fixed: [Bilingual subtitles] — Unable to translate subtitles on TED video sites.
 - Fixed: [Bilingual subtitles] — When model translation was not fast enough, subtitles could not be displayed in time. Improved stability of subtitle translation.
-- Improved: [Automatic line breaks for long paragraphs] — When enabled, separators are added between paragraphs in long translations to enhance content readability.
+- Improved: [Bilingual subtitles] — Improved compatibility with CNN site.
 - Improved: [AI subtitles] — Now supports "regenerate," allowing you to regenerate subtitle content as needed.
+- Improved: [Automatic line breaks for long paragraphs] — When enabled, separators are added between paragraphs in long translations to enhance content readability.
 
 ## 1.22.7 Release (2025-10-30)
 

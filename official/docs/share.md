@@ -11,7 +11,7 @@ sidebar_position: 3
 
 如有疑问，请联系：[support@immersivetranslate.com](mailto:support@immersivetranslate.com)
 
-<!-- 安装[沉浸式翻译](https://immersivetranslate.com/)插件后，右上角将沉浸式翻译浏览器图标置顶，然后点击沉浸式翻译【扩展图标】，再点击【双语分享】图标即可进入双语快照的预览页面：
+<!-- 安装 [沉浸式翻译](https://immersivetranslate.com/) 插件后，右上角将沉浸式翻译浏览器图标置顶，然后点击沉浸式翻译【扩展图标】，再点击【双语分享】图标即可进入双语快照的预览页面：
 
 <img src="https://s.immersivetranslate.com/assets/share-web-page-demo.png" alt="browser action" width="250" />
 
