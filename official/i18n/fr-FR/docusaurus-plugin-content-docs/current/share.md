@@ -4,7 +4,14 @@ sidebar_position: 3
 
 # Comment partager une page bilingue ?
 
-<video
+Cher utilisateur,
+
+La fonctionnalité « Partager une page bilingue » a été officiellement arrêtée le 15/09/2025 et n’est plus disponible.
+Merci pour votre soutien et votre compréhension continus. Nous continuerons d'améliorer nos produits afin de vous offrir une meilleure expérience.
+
+Si vous avez des questions, veuillez contacter : [support@immersivetranslate.com](mailto:support@immersivetranslate.com)
+
+<!-- <video
 controls style={{width:"100%", maxWidth:"500px"}}
 controls
 muted
@@ -34,4 +41,4 @@ Il est également déclenché sur mobile en cliquant sur le bouton de partage ra
 
 <img src="https://s.immersivetranslate.com/assets/20240119shareBilingualPage_1.jpg" alt="partager" />
 
-Cependant, sur les téléphones portables, en raison des limitations de l'appareil, ce bouton n'est pas facile à afficher, car pour afficher ce bouton, vous devez cliquer sur le bouton [Traduction Rapide], et à ce moment-là, cela peut faire revenir l'article qui a déjà été traduit, à son état original. Voici donc une petite astuce, consiste à légèrement faire glisser ce bouton de raccourci, cela fera également se déployer le bouton de partage, à ce moment cliquez sur le bouton [Partager].
+Cependant, sur les téléphones portables, en raison des limitations de l'appareil, ce bouton n'est pas facile à afficher, car pour afficher ce bouton, vous devez cliquer sur le bouton [Traduction Rapide], et à ce moment-là, cela peut faire revenir l'article qui a déjà été traduit, à son état original. Voici donc une petite astuce, consiste à légèrement faire glisser ce bouton de raccourci, cela fera également se déployer le bouton de partage, à ce moment cliquez sur le bouton [Partager]. -->

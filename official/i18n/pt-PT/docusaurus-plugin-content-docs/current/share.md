@@ -4,7 +4,14 @@ sidebar_position: 3
 
 # Como compartilho uma página bilíngue?
 
-<video
+Caro utilizador,
+
+A funcionalidade de "Compartilhar Página Bilíngue" foi oficialmente descontinuada em 15-09-2025 e já não está disponível.
+Agradecemos o seu apoio e compreensão contínuos. Continuaremos a melhorar os nossos produtos para lhe proporcionar uma melhor experiência.
+
+Se tiver alguma dúvida, por favor contacte: [support@immersivetranslate.com](mailto:support@immersivetranslate.com) -->
+
+<!-- <video
 controls style={{width:"100%", maxWidth:"500px"}}
 controls
 muted
@@ -34,4 +41,4 @@ Também é possível ativar no celular clicando no botão de compartilhamento r�
 
 <img src="https://s.immersivetranslate.com/assets/20240119shareBilingualPage_1.jpg" alt="compartilhar" />
 
-No entanto, nos celulares, devido às limitações do dispositivo, esse botão não é fácil de exibir, porque para exibir este botão, você deve clicar no botão [Tradução Rápida], e nesse momento, pode fazer com que o artigo que já foi traduzido, volte ao estado original. Então, aqui vai um pequeno truque, é arrastar levemente este botão de atalho, isso também fará com que o botão de compartilhamento se expanda, nesse momento clique no botão [Compartilhar].
+No entanto, nos celulares, devido às limitações do dispositivo, esse botão não é fácil de exibir, porque para exibir este botão, você deve clicar no botão [Tradução Rápida], e nesse momento, pode fazer com que o artigo que já foi traduzido, volte ao estado original. Então, aqui vai um pequeno truque, é arrastar levemente este botão de atalho, isso também fará com que o botão de compartilhamento se expanda, nesse momento clique no botão [Compartilhar]. -->

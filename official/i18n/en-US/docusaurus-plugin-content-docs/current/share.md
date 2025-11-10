@@ -4,7 +4,14 @@ sidebar_position: 3
 
 # How do I share a bilingual page?
 
-<video
+Dear user,
+
+The "Share Bilingual Page" feature was officially discontinued on 2025-09-15 and is no longer available.
+Thank you for your continued support and understanding. We will continue to improve our products to provide you with a better experience.
+
+If you have any questions, please contact: [support@immersivetranslate.com](mailto:support@immersivetranslate.com)
+
+<!-- <video
 controls style={{width:"100%", maxWidth:"500px"}}
 controls
 muted
@@ -34,4 +41,4 @@ It's also triggered on mobile by clicking the quick share button on the page:
 
 <img src="https://s.immersivetranslate.com/assets/20240119shareBilingualPage_1.jpg" alt="share" />
 
-However, on cell phones, due to the limitations of the device, this button is not easy to display, because in order to display this button, you must click on the [Quick Translate] button, and at this time, it may make the article that has already been translated, go back to the original state.So here's a little trick, is to slightly drag this shortcut button, this will also make the share button expand, at this time click on the [Share] button.
+However, on cell phones, due to the limitations of the device, this button is not easy to display, because in order to display this button, you must click on the [Quick Translate] button, and at this time, it may make the article that has already been translated, go back to the original state.So here's a little trick, is to slightly drag this shortcut button, this will also make the share button expand, at this time click on the [Share] button. -->

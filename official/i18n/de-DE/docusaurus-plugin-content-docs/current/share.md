@@ -4,7 +4,14 @@ sidebar_position: 3
 
 # Wie teile ich eine zweisprachige Seite?
 
-<video
+Lieber Nutzer,
+
+Die Funktion „Zweisprachige Seite teilen“ wurde am 15.09.2025 offiziell eingestellt und ist nicht mehr verfügbar.
+Vielen Dank für Ihre fortwährende Unterstützung und Ihr Verständnis. Wir werden unsere Produkte weiterhin verbessern, um Ihnen ein noch besseres Erlebnis zu bieten.
+
+Wenn Sie Fragen haben, kontaktieren Sie uns bitte unter: [support@immersivetranslate.com](mailto:support@immersivetranslate.com)
+
+<!-- <video
 controls style={{width:"100%", maxWidth:"500px"}}
 controls
 muted
@@ -34,4 +41,4 @@ Es wird auch auf Mobilgeräten ausgelöst, indem man auf den Schnellteil-Knopf a
 
 <img src="https://s.immersivetranslate.com/assets/20240119shareBilingualPage_1.jpg" alt="teilen" />
 
-Allerdings ist dieser Knopf auf Handys aufgrund der Gerätebeschränkungen nicht leicht anzuzeigen. Um diesen Knopf anzuzeigen, muss man auf den [Schnellübersetzen]-Knopf klicken, und in diesem Moment könnte es passieren, dass der Artikel, der bereits übersetzt wurde, wieder in den Originalzustand zurückkehrt. Hier ist also ein kleiner Trick: Ziehen Sie diesen Shortcut-Knopf leicht, dies wird auch den Teilen-Knopf erweitern, klicken Sie in diesem Moment auf den [Teilen]-Knopf.
+Allerdings ist dieser Knopf auf Handys aufgrund der Gerätebeschränkungen nicht leicht anzuzeigen. Um diesen Knopf anzuzeigen, muss man auf den [Schnellübersetzen]-Knopf klicken, und in diesem Moment könnte es passieren, dass der Artikel, der bereits übersetzt wurde, wieder in den Originalzustand zurückkehrt. Hier ist also ein kleiner Trick: Ziehen Sie diesen Shortcut-Knopf leicht, dies wird auch den Teilen-Knopf erweitern, klicken Sie in diesem Moment auf den [Teilen]-Knopf. -->
