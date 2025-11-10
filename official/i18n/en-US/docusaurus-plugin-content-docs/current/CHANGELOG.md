@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.23.2 Preview (2025-11-07)
+## 1.23.3 Preview (2025-11-07)
 
 - Added: [Privacy Mode (beta)](https://dash.immersivetranslate.com/#advanced) — When enabled, content to be translated will be desensitized using [OneAIFW](https://github.com/funstory-ai/aifw) before being sent to the model for translation, enhancing data privacy.
 - Fixed: [Input field translation] — Resolved the issue where translations could not be performed properly on the bilibili site.
