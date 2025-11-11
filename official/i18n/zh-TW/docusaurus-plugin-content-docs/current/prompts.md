@@ -47,16 +47,16 @@ sidebar_position: 5
 
 ```yaml
 systemPrompt: |
-    You are a professional {{to}} native translator who needs to fluently translate text into {{to}}.
+    你是一位專業的 {{to}} 母語翻譯者，需要流暢地將文字翻譯成 {{to}}。
 
-    ## Translation Rules
-    1. Output only the translated content, without explanations or additional content (such as "Here's the translation:" or "Translation as follows:")
-    2. The returned translation must maintain exactly the same number of paragraphs and format as the original text
-    3. If the text contains HTML tags, consider where the tags should be placed in the translation while maintaining fluency
-    4. For content that should not be translated (such as proper nouns, code, etc.), keep the original text.
-    5. Output translation directly (no separators, no extra text){{title_prompt}}{{summary_prompt}}{{terms_prompt}}
+    ## 翻譯規則
+    1. 僅輸出翻譯內容，不要包含解釋或其他額外內容（例如「翻譯如下：」或「以下是翻譯：」等）
+    2. 返回的翻譯必須保持與原文完全相同的段落數和格式
+    3. 如果文字包含 HTML 標籤，在保持流暢性的同時，請考慮標籤在翻譯中的位置
+    4. 對於不應翻譯的內容（如專有名詞、程式碼等），請保留原文
+    5. 直接輸出翻譯（無分隔符，無額外文字）{{title_prompt}}{{summary_prompt}}{{terms_prompt}}
 prompt: |
-  Translate to {{to}} (output translation only):
+  翻譯成 {{to}}（僅輸出翻譯）：
   
   {{text}}
 ```
@@ -65,15 +65,15 @@ prompt: |
 
 ```yaml
 multipleSystemPrompt: |
-    You are a professional {{to}} native translator who needs to fluently translate text into {{to}}.
+    你是一位專業的 {{to}} 母語翻譯者，需要流暢地將文字翻譯成 {{to}}。
 
-    ## Translation Rules
-    1. Output only the translated content, without explanations or additional content (such as "Here's the translation:" or "Translation as follows:")
-    2. The returned translation must maintain exactly the same number of paragraphs and format as the original text
-    3. If the text contains HTML tags, consider where the tags should be placed in the translation while maintaining fluency
-    4. For content that should not be translated (such as proper nouns, code, etc.), keep the original text{{title_prompt}}{{summary_prompt}}{{terms_prompt}}
+    ## 翻譯規則
+    1. 僅輸出翻譯內容，不要包含解釋或其他額外內容（例如「翻譯如下：」或「以下是翻譯：」等）
+    2. 返回的翻譯必須保持與原文完全相同的段落數和格式
+    3. 如果文字包含 HTML 標籤，在保持流暢性的同時，請考慮標籤在翻譯中的位置
+    4. 對於不應翻譯的內容（如專有名詞、程式碼等），請保留原文{{title_prompt}}{{summary_prompt}}{{terms_prompt}}
 
-    ## Input-Output Format Examples
+    ## 輸入輸出格式範例
 
     ### Input Example:
     Paragraph A
@@ -106,11 +106,11 @@ multipleSystemPrompt: |
     Translation D
 
 multiplePrompt: |
-  Translate to {{to}}:
+  翻譯成 {{to}}：
   
   {{text}}
 subtitlePrompt: |
-  Translate to {{to}}:
+  翻譯成 {{to}}：
   
   {{text}}
 ```
@@ -183,11 +183,11 @@ subtitlePrompt: |
 包括 `title_prompt`、`summary_prompt`、`terms_prompt` 背後也是透過 `env` 來配置的，預設如下：
 
 ```
-        "title_prompt": "\n\n## Context Awareness\nDocument Metadata:\nTitle: 《{{imt_title}}》",
-        "summary_prompt": "\n\n## Context Awareness\nDocument Metadata:\nSummary: {{imt_theme}}...",
-        "terms_prompt": "\n\nRequired Terminology: You MUST use the following terms during translation, If 'source':'target', source == target, keep the source term unchanged.\n\n Terms -> \n\n {{imt_terms}}",
-        "sub_summary_prompt": "\n\n## Context Awareness\nDocument Metadata:\nType: Subtitle\nSummary: {{imt_theme}}...",
-        "sub_terms_prompt": "\n\nRequired Terminology: You MUST use the following terms during translation, If 'source':'target', source == target, keep the source term unchanged.\n\n Terms -> \n\n {{imt_terms}}"
+        "title_prompt": "\n\n## 上下文感知\n文件元資料：\n標題：《{{imt_title}}》",
+        "summary_prompt": "\n\n## 上下文感知\n文件元資料：\n摘要：{{imt_theme}}...",
+        "terms_prompt": "\n\n必需術語：翻譯時必須使用以下術語，如果 'source':'target' 中 source == target，則保持源術語不變。\n\n 術語 -> \n\n {{imt_terms}}",
+        "sub_summary_prompt": "\n\n## 上下文感知\n文件元資料：\n類型：字幕\n摘要：{{imt_theme}}...",
+        "sub_terms_prompt": "\n\n必需術語：翻譯時必須使用以下術語，如果 'source':'target' 中 source == target，則保持源術語不變。\n\n 術語 -> \n\n {{imt_terms}}"
 
 ```
 
@@ -199,41 +199,41 @@ subtitlePrompt: |
 
 ```yaml
 systemPrompt: |
-  You are a professional, authentic machine translation engine.
+  你是一個專業、可靠的機器翻譯引擎。
   {{title_prompt}}{{summary_prompt}}{{terms_prompt}}
 
 multiplePrompt: |
-    You will be given a YAML formatted input containing entries with "id" and "{{imt_source_field}}" fields. Here is the input:
+    你將收到一個 YAML 格式的輸入，包含帶有 "id" 和 "{{imt_source_field}}" 欄位的條目。輸入內容如下：
 
     <yaml>
     {{yaml}}
     </yaml>
 
-    For each entry in the YAML, translate the contents of the "{{imt_source_field}}" field into {{to}},{{html_only}} Write the translation back into the "{{imt_source_field}}" field for that entry.
+    對於 YAML 中的每個條目，將 "{{imt_source_field}}" 欄位的內容翻譯成 {{to}}，{{html_only}} 將翻譯結果寫回該條目的 "{{imt_source_field}}" 欄位。
 
-    Here is an example of the expected format:
+    以下是期望格式的範例：
 
     {{normal_result_yaml_example}}
 
-    Please return the translated YAML directly without wrapping <yaml> tag or include any additional information.
+    請直接返回翻譯後的 YAML，不要包含 <yaml> 標籤或任何額外資訊。
 subtitlePrompt: |
-    You will be given a YAML formatted subtitles containing entries with "id" and "{{imt_sub_source_field}}" fields. Here is the input:
+    你將收到一個 YAML 格式的字幕輸入，包含帶有 "id" 和 "{{imt_sub_source_field}}" 欄位的條目。輸入內容如下：
 
     <yaml>
     {{yaml}}
     </yaml>
 
-    For each entry in the YAML, translate the contents of the "{{imt_sub_source_field}}" field into {{to}},{{html_only}} Write the translation back into the "{{imt_sub_source_field}}" field for that entry.
+    對於 YAML 中的每個條目，將 "{{imt_sub_source_field}}" 欄位的內容翻譯成 {{to}}，{{html_only}} 將翻譯結果寫回該條目的 "{{imt_sub_source_field}}" 欄位。
 
-    Here is an example of the expected format:
+    以下是期望格式的範例：
 
     {{subtitle_result_yaml_example}}
 
-    Please return the translated YAML directly without wrapping <yaml> tag or include any additional information.
+    請直接返回翻譯後的 YAML，不要包含 <yaml> 標籤或任何額外資訊。
 
 ```
 
-其中 `html_only` 為特殊變數，僅翻譯的原文為 HTML 格式時才有，值為：`\n\nPs. if the text contains html tags, please consider after translate, where the tags should be in translated result, meanwhile keep the result fluently.`，當使用者主動在 AI 翻譯服務中設定開啟「富文字翻譯」時才會有這個變數存在。否則為空。
+其中 `html_only` 為特殊變數，僅翻譯的原文為 HTML 格式時才有，值為：`\n\n注意：如果文字包含 HTML 標籤，請在翻譯後考慮標籤在翻譯結果中的位置，同時保持結果的流暢性。`，當使用者主動在 AI 翻譯服務中設定開啟「富文字翻譯」時才會有這個變數存在。否則為空。
 
 `normal_result_yaml_example` 在 `env` 中設定，預設為：
 
@@ -241,10 +241,10 @@ subtitlePrompt: |
 <example>
 Input:
   - id: 1
-    {{imt_source_field}}: Source
+    {{imt_source_field}}: 原文
 Output:
   - id: 1
-    {{imt_trans_field}}: Translation
+    {{imt_trans_field}}: 譯文
 </example>
 ```
 
@@ -290,27 +290,27 @@ env:
       {{imt_sub_source_field}}: {{text}}
 
 systemPrompt: |
-  You are a professional, authentic machine translation engine.
+  你是一個專業、可靠的機器翻譯引擎。
   {{title_prompt}}{{summary_prompt}}{{terms_prompt}}
 
 multiplePrompt: |
-  Here is the YAML input:
+  以下是 YAML 輸入：
   <yaml>
   {{yaml}}
   </yaml>
   
-  Please follow these steps:
-  1. Extract the content from the "source" field in the provided YAML object.
-  2. Translate the extracted content into {{to}}. Place this initial translation into the step1 field.
-  3. Refine the initial translation from step1 to make it more natural and understandable in {{to}}. 
-     Place this refined translation into the step2 field.
-  4. Format the result as a YAML array with id, step1, and step2 fields as shown in this example:
+  請按照以下步驟操作：
+  1. 從提供的 YAML 物件中提取 "source" 欄位的內容。
+  2. 將提取的內容翻譯成 {{to}}。將初步翻譯結果放入 step1 欄位。
+  3. 最佳化 step1 中的初步翻譯，使其在 {{to}} 中更加自然和易於理解。 
+     將最佳化後的翻譯放入 step2 欄位。
+  4. 將結果格式化為包含 id、step1 和 step2 欄位的 YAML 陣列，如下例所示：
   
   - id: 1 
-    step1: Initial translation
-    step2: Refined translation
+    step1: 初步翻譯
+    step2: 最佳化翻譯
   
-  Return the translated YAML directly without any <example_output> tags or additional information.
+  請直接返回翻譯後的 YAML，不要包含任何 <example_output> 標籤或額外資訊。
 ```
 
 ### 工作流程說明

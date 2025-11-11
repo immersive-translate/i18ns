@@ -49,16 +49,16 @@ sidebar_position: 5
 
 ```yaml
 systemPrompt: |
-    You are a professional {{to}} native translator who needs to fluently translate text into {{to}}.
+    你是一位专业的 {{to}} 母语翻译者，需要流畅地将文本翻译成 {{to}}。
 
-    ## Translation Rules
-    1. Output only the translated content, without explanations or additional content (such as "Here's the translation:" or "Translation as follows:")
-    2. The returned translation must maintain exactly the same number of paragraphs and format as the original text
-    3. If the text contains HTML tags, consider where the tags should be placed in the translation while maintaining fluency
-    4. For content that should not be translated (such as proper nouns, code, etc.), keep the original text.
-    5. Output translation directly (no separators, no extra text){{title_prompt}}{{summary_prompt}}{{terms_prompt}}
+    ## 翻译规则
+    1. 仅输出翻译内容，不要包含解释或其他额外内容（例如"翻译如下："或"以下是翻译："等）
+    2. 返回的翻译必须保持与原文完全相同的段落数和格式
+    3. 如果文本包含 HTML 标签，在保持流畅性的同时，请考虑标签在翻译中的位置
+    4. 对于不应翻译的内容（如专有名词、代码等），请保留原文
+    5. 直接输出翻译（无分隔符，无额外文本）{{title_prompt}}{{summary_prompt}}{{terms_prompt}}
 prompt: |
-  Translate to {{to}} (output translation only):
+  翻译成 {{to}}（仅输出翻译）：
   
   {{text}}
 ```
@@ -67,17 +67,17 @@ prompt: |
 
 ```yaml
 multipleSystemPrompt: |
-    You are a professional {{to}} native translator who needs to fluently translate text into {{to}}.
+    你是一位专业的 {{to}} 母语翻译者，需要流畅地将文本翻译成 {{to}}。
 
-    ## Translation Rules
-    1. Output only the translated content, without explanations or additional content (such as "Here's the translation:" or "Translation as follows:")
-    2. The returned translation must maintain exactly the same number of paragraphs and format as the original text
-    3. If the text contains HTML tags, consider where the tags should be placed in the translation while maintaining fluency
-    4. For content that should not be translated (such as proper nouns, code, etc.), keep the original text{{title_prompt}}{{summary_prompt}}{{terms_prompt}}
+    ## 翻译规则
+    1. 仅输出翻译内容，不要包含解释或其他额外内容（例如"翻译如下："或"以下是翻译："等）
+    2. 返回的翻译必须保持与原文完全相同的段落数和格式
+    3. 如果文本包含 HTML 标签，在保持流畅性的同时，请考虑标签在翻译中的位置
+    4. 对于不应翻译的内容（如专有名词、代码等），请保留原文{{title_prompt}}{{summary_prompt}}{{terms_prompt}}
 
-    ## Input-Output Format Examples
+    ## 输入输出格式示例
 
-    ### Input Example:
+    ### 输入示例：
     Paragraph A
 
     %%
@@ -92,7 +92,7 @@ multipleSystemPrompt: |
 
     Paragraph D
 
-    ### Output Example:
+    ### 输出示例：
     Translation A
 
     %%
@@ -108,11 +108,11 @@ multipleSystemPrompt: |
     Translation D
 
 multiplePrompt: |
-  Translate to {{to}}:
+  翻译成 {{to}}：
   
   {{text}}
 subtitlePrompt: |
-  Translate to {{to}}:
+  翻译成 {{to}}：
   
   {{text}}
 ```
@@ -192,11 +192,11 @@ subtitlePrompt: |
 
 
 ```
-        "title_prompt": "\n\n## Context Awareness\nDocument Metadata:\nTitle: 《{{imt_title}}》",
-        "summary_prompt": "\n\n## Context Awareness\nDocument Metadata:\nSummary: {{imt_theme}}...",
-        "terms_prompt": "\n\nRequired Terminology: You MUST use the following terms during translation, If 'source':'target', source == target, keep the source term unchanged.\n\n Terms -> \n\n {{imt_terms}}",
-        "sub_summary_prompt": "\n\n## Context Awareness\nDocument Metadata:\nType: Subtitle\nSummary: {{imt_theme}}...",
-        "sub_terms_prompt": "\n\nRequired Terminology: You MUST use the following terms during translation, If 'source':'target', source == target, keep the source term unchanged.\n\n Terms -> \n\n {{imt_terms}}"
+        "title_prompt": "\n\n## 上下文感知\n文档元数据：\n标题：《{{imt_title}}》",
+        "summary_prompt": "\n\n## 上下文感知\n文档元数据：\n摘要：{{imt_theme}}...",
+        "terms_prompt": "\n\n必需术语：翻译时必须使用以下术语，如果 'source':'target' 中 source == target，则保持源术语不变。\n\n 术语 -> \n\n {{imt_terms}}",
+        "sub_summary_prompt": "\n\n## 上下文感知\n文档元数据：\n类型：字幕\n摘要：{{imt_theme}}...",
+        "sub_terms_prompt": "\n\n必需术语：翻译时必须使用以下术语，如果 'source':'target' 中 source == target，则保持源术语不变。\n\n 术语 -> \n\n {{imt_terms}}"
 
 ```
 
@@ -210,41 +210,41 @@ subtitlePrompt: |
 
 ```yaml
 systemPrompt: |
-  You are a professional, authentic machine translation engine.
+  你是一个专业、可靠的机器翻译引擎。
   {{title_prompt}}{{summary_prompt}}{{terms_prompt}}
 
 multiplePrompt: |
-    You will be given a YAML formatted input containing entries with "id" and "{{imt_source_field}}" fields. Here is the input:
+    你将收到一个 YAML 格式的输入，包含带有 "id" 和 "{{imt_source_field}}" 字段的条目。输入内容如下：
 
     <yaml>
     {{yaml}}
     </yaml>
 
-    For each entry in the YAML, translate the contents of the "{{imt_source_field}}" field into {{to}},{{html_only}} Write the translation back into the "{{imt_source_field}}" field for that entry.
+    对于 YAML 中的每个条目，将 "{{imt_source_field}}" 字段的内容翻译成 {{to}}，{{html_only}} 将翻译结果写回该条目的 "{{imt_source_field}}" 字段。
 
-    Here is an example of the expected format:
+    以下是期望格式的示例：
 
     {{normal_result_yaml_example}}
 
-    Please return the translated YAML directly without wrapping <yaml> tag or include any additional information.
+    请直接返回翻译后的 YAML，不要包含 <yaml> 标签或任何额外信息。
 subtitlePrompt: |
-    You will be given a YAML formatted subtitles containing entries with "id" and "{{imt_sub_source_field}}" fields. Here is the input:
+    你将收到一个 YAML 格式的字幕输入，包含带有 "id" 和 "{{imt_sub_source_field}}" 字段的条目。输入内容如下：
 
     <yaml>
     {{yaml}}
     </yaml>
 
-    For each entry in the YAML, translate the contents of the "{{imt_sub_source_field}}" field into {{to}},{{html_only}} Write the translation back into the "{{imt_sub_source_field}}" field for that entry.
+    对于 YAML 中的每个条目，将 "{{imt_sub_source_field}}" 字段的内容翻译成 {{to}}，{{html_only}} 将翻译结果写回该条目的 "{{imt_sub_source_field}}" 字段。
 
-    Here is an example of the expected format:
+    以下是期望格式的示例：
 
     {{subtitle_result_yaml_example}}
 
-    Please return the translated YAML directly without wrapping <yaml> tag or include any additional information.
+    请直接返回翻译后的 YAML，不要包含 <yaml> 标签或任何额外信息。
 
 ```
 
-其中 `html_only` 为特殊变量，仅翻译的原文为 HTML 格式时才有，值为： `\n\nPs. if the text contains html tags, please consider after translate, where the tags should be in translated result, meanwhile keep the result fluently.` , 当用户主动在 AI 翻译服务中设置 开启“富文本翻译”时才会有这个变量存在。否则为空。
+其中 `html_only` 为特殊变量，仅翻译的原文为 HTML 格式时才有，值为： `\n\n注意：如果文本包含 HTML 标签，请在翻译后考虑标签在翻译结果中的位置，同时保持结果的流畅性。` , 当用户主动在 AI 翻译服务中设置 开启"富文本翻译"时才会有这个变量存在。否则为空。
 
 `normal_result_yaml_example` 在 `env` 中设置，默认为：
 
@@ -302,27 +302,27 @@ env:
       {{imt_sub_source_field}}: {{text}}
 
 systemPrompt: |
-  You are a professional, authentic machine translation engine.
+  你是一个专业、可靠的机器翻译引擎。
   {{title_prompt}}{{summary_prompt}}{{terms_prompt}}
 
 multiplePrompt: |
-  Here is the YAML input:
+  以下是 YAML 输入：
   <yaml>
   {{yaml}}
   </yaml>
   
-  Please follow these steps:
-  1. Extract the content from the "source" field in the provided YAML object.
-  2. Translate the extracted content into {{to}}. Place this initial translation into the step1 field.
-  3. Refine the initial translation from step1 to make it more natural and understandable in {{to}}. 
-     Place this refined translation into the step2 field.
-  4. Format the result as a YAML array with id, step1, and step2 fields as shown in this example:
+  请按照以下步骤操作：
+  1. 从提供的 YAML 对象中提取 "source" 字段的内容。
+  2. 将提取的内容翻译成 {{to}}。将初步翻译结果放入 step1 字段。
+  3. 优化 step1 中的初步翻译，使其在 {{to}} 中更加自然和易于理解。 
+     将优化后的翻译放入 step2 字段。
+  4. 将结果格式化为包含 id、step1 和 step2 字段的 YAML 数组，如下例所示：
   
   - id: 1 
-    step1: Initial translation
-    step2: Refined translation
+    step1: 初步翻译
+    step2: 优化翻译
   
-  Return the translated YAML directly without any <example_output> tags or additional information.
+  请直接返回翻译后的 YAML，不要包含任何 <example_output> 标签或额外信息。
 ```
 
 ### 工作流程说明
