@@ -16,6 +16,11 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.23.4 Preview (2025-11-13)
+
+- Improved: [Input field translation] — Added an option to automatically detect the target language, enhancing the translation experience.
+- Improved: Supported translation of dropdown menu content, expanding applicable scenarios.
+
 ## 1.23.3 Preview (2025-11-07)
 
 - Added: [Privacy Mode (beta)](https://dash.immersivetranslate.com/#advanced) — When enabled, content to be translated will be desensitized using [OneAIFW](https://github.com/funstory-ai/aifw) before being sent to the model for translation, enhancing data privacy.

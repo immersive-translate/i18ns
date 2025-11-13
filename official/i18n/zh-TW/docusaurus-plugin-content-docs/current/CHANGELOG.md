@@ -16,6 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.23.4 Preview (2025-11-13)
+
+- 優化：【輸入框翻譯】支援自動識別目標語言的設定選項，提升翻譯體驗。
+- 優化：支援下拉選單內容的翻譯，擴展適用場景。
+
 ## 1.23.3 Preview (2025-11-07)
 
 - 新增：[隱私模式 (beta)](https://dash.immersivetranslate.com/#advanced) 開啟後，翻譯內容會透過 [OneAIFW](https://github.com/funstory-ai/aifw) 對敏感資訊進行脫敏處理後再傳送至模型翻譯，增強資料隱私。

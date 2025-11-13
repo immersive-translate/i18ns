@@ -16,6 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.23.4 Preview (2025-11-13)
+
+- 优化：【输入框翻译】支持自动识别目标语言的设置选项，提升翻译体验。
+- 优化：支持下拉菜单内容的翻译，扩展适用场景。
+
 ## 1.23.3 Preview (2025-11-07)
 
 - 新增：[隐私模式 (beta)](https://dash.immersivetranslate.com/#advanced) 开启后，翻译内容会通过 [OneAIFW](https://github.com/funstory-ai/aifw) 对敏感信息进行脱敏处理后再发送给模型翻译，增强数据隐私。
