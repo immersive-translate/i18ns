@@ -16,7 +16,10 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
-## 1.23.4 Preview (2025-11-13)
+## 1.23.6 Preview (2025-11-17)
+- 修復：部分 bug
+
+## 1.23.5 Release (2025-11-14)
 
 - 優化：【輸入框翻譯】支援自動識別目標語言的設定選項，提升翻譯體驗。
 - 優化：支援下拉選單內容的翻譯，擴展適用場景。

@@ -16,7 +16,11 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.23.4 Preview (2025-11-13)
+
+## 1.23.6 Preview (2025-11-17)
+- Fixed: Some bugs
+
+## 1.23.5 Release (2025-11-14)
 
 - Improved: [Input field translation] — Added an option to automatically detect the target language, enhancing the translation experience.
 - Improved: Supported translation of dropdown menu content, expanding applicable scenarios.
