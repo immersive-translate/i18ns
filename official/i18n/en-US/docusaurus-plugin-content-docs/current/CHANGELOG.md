@@ -16,9 +16,9 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.23.7 Preview (2025-11-19)
 
-## 1.23.6 Preview (2025-11-17)
-- Fixed: Some bugs
+- Improved: Enhanced error messages when subtitle translation fails, improving user experience.
 
 ## 1.23.5 Release (2025-11-14)
 

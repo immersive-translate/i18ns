@@ -16,8 +16,9 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
-## 1.23.6 Preview (2025-11-17)
-- 修復：部分 bug
+## 1.23.7 Preview (2025-11-19)
+
+- 優化：提升字幕翻譯出錯時的提示訊息，增強使用者體驗
 
 ## 1.23.5 Release (2025-11-14)
 
