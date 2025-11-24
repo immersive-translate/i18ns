@@ -16,7 +16,11 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.23.7 Preview (2025-11-19)
+## 1.23.8 Preview (2025-11-22)
+
+- Improved: App Now supports quick translation style settings, allowing you to set font bold, underline, color, and background color.
+
+## 1.23.7 Release (2025-11-19)
 
 - Improved: Enhanced error messages when subtitle translation fails, improving user experience.
 

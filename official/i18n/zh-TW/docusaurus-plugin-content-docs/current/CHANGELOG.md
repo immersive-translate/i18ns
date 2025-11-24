@@ -16,7 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
-## 1.23.7 Preview (2025-11-19)
+## 1.23.8 Preview (2025-11-22)
+
+- 優化：支援 App 端的快捷譯文樣式設定，可設定字體加粗、底線、顏色、背景色。
+
+## 1.23.7 Release (2025-11-19)
 
 - 優化：提升字幕翻譯出錯時的提示訊息，增強使用者體驗
 
