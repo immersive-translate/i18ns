@@ -9,7 +9,7 @@ custom_edit_url: null
 
 **Effective Date:** October 20, 2025
 
-**Service Provider:** Funstory.ai Limited.(hereinafter referred to as "the Company")
+**Service Provider:** Funstory.ai Limited.
 
 > **【Important Notice】**  
 > Before you activate, use, or renew this service, please carefully read and fully understand all contents of this agreement (especially terms in bold and/or highlighted in a prominent manner).  

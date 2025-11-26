@@ -9,7 +9,7 @@ custom_edit_url: null
 
 **生效日期：** 2025 年 10 月 20 日
 
-**服务提供方：** Funstory.ai Limited(hereinafter referred to as "the Company").
+**服务提供方：** Funstory.ai Limited.
 
 > **【重要提示】**  
 > 在您开通、使用或续费本服务前，请务必认真阅读并充分理解本协议全部内容（尤其是加粗及/或以显著方式提示的条款）。  
