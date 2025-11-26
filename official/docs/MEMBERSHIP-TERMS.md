@@ -5,9 +5,9 @@ custom_edit_url: null
 
 # 沉浸式翻译会员服务协议
 
-**更新日期：** 2025年10月20日
+**更新日期：** 2025 年 10 月 20 日
 
-**生效日期：** 2025年10月20日
+**生效日期：** 2025 年 10 月 20 日
 
 **服务提供方：** Funstory.ai Limited(hereinafter referred to as "the Company").
 
