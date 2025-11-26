@@ -16,6 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.23.9 Preview (2025-11-26)
+
+- 優化：提升 AIFW 隱私模式下資訊識別的準確性。
+- 優化：新增 babel-lite 翻譯服務。
+
 ## 1.23.8 Preview (2025-11-22)
 
 - 優化：支援 App 端的快捷譯文樣式設定，可設定字體加粗、底線、顏色、背景色。

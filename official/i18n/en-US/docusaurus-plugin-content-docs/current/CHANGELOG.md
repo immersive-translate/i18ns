@@ -16,6 +16,11 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.23.9 Preview (2025-11-26)
+
+- Improved: Enhanced accuracy of information recognition in AIFW privacy mode.
+- Improved: Added babel-lite translation service.
+
 ## 1.23.8 Preview (2025-11-22)
 
 - Improved: App Now supports quick translation style settings, allowing you to set font bold, underline, color, and background color.
