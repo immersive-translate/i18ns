@@ -9,7 +9,7 @@ sidebar_position: 5
 ```html
 <script>
   window.immersiveTranslateConfig = {
-    partnerId: "xxx", //聯盟 id (可選)
+    partnerId: "{domain}",
     mountPoint: { //翻譯按鈕掛載點（可選）
         selector: "", //選擇器
         action: "child" // 支援：append, child, before, replace
@@ -69,7 +69,7 @@ partnerId: "example-project",
 
 ```js
 export interface immersiveTranslateConfig {
-    partnerId: "xxx", //聯盟 id (可選)
+    partnerId: "{domain}",
     mountPoint: { //翻譯按鈕掛載點（可選）
         selector: "", //選擇器
         action: "child" // 支援：append, child, before, replace
