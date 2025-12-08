@@ -16,7 +16,11 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.23.9 Preview (2025-11-26)
+## 1.24.1 Preview (2025-12-08)
+
+- Improved: Optimized the configuration information synchronization mechanism, improving synchronization efficiency and stability.
+
+## 1.23.10 Release (2025-12-05)
 
 - Improved: Enhanced accuracy of information recognition in AIFW privacy mode.
 - Improved: Added babel-lite translation service.

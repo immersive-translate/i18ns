@@ -16,7 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
-## 1.23.9 Preview (2025-11-26)
+## 1.24.1 Preview (2025-12-08)
+
+- 優化：優化了配置信息的同步機制，提升了同步效率和穩定性。
+
+## 1.23.10 Release (2025-12-05)
 
 - 優化：提升 AIFW 隱私模式下資訊識別的準確性。
 - 優化：新增 babel-lite 翻譯服務。
