@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.24.2 Preview (2025-12-17)
+## 1.24.4 Preview (2025-12-23)
 
 - Improved: [Input field translation] Updated the initial prompt message for first-time use to enhance user understanding.
 - Improved: Error popup styles now support dark mode for a more comfortable night-time experience.

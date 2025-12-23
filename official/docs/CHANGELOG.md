@@ -16,7 +16,7 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
-## 1.24.2 Preview (2025-12-17)
+## 1.24.4 Preview (2025-12-23)
 
 - 优化：【输入框翻译】首次使用时的提示文案更新，提升用户理解。
 - 优化：错误弹窗样式现已支持夜间模式，夜间使用更舒适。
