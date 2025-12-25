@@ -6,12 +6,15 @@ sidebar_position: 2
 
 ## 视频教程
 
-<video
-  controls
-  muted
-  poster="https://immersivetranslate.com/assets/price/video-poster-zh-Hans.png"
-  src="https://s.immersivetranslate.com/assets/uploads/full-intro-zh-CN-rYaxVV.mp4"
-/>
+<div style={{textAlign: "center"}}>
+  <video
+    controls
+    muted
+    style={{width:"100%", maxWidth:600}}
+    poster="https://immersivetranslate.com/assets/price/video-poster-zh-Hans.png"
+    src="https://s.immersivetranslate.com/assets/uploads/full-intro-zh-CN-rYaxVV.mp4"
+  />
+</div>
 
 ## 视频教程 (移动端)
 
