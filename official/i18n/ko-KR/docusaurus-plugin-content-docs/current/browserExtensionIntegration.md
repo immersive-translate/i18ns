@@ -25,3 +25,5 @@ Immersive Translate 는 현재 Chrome, Edge, Firefox, Safari 등 **다양한 주
 📩 **문의하기**
 이메일: **[support@immersivetranslate.com](mailto:support@immersivetranslate.com)**
 이메일 제목에「브라우저 확장 프로그램 통합 협력」이라고 명시해 주시면 빠르게 연락드리겠습니다.
+
+

@@ -485,3 +485,5 @@ Mac 컴퓨터에서 스페이스바 세 번 누르기가 작동하지 않는 경
 - 현재 PC 에서만 자막 다운로드를 지원합니다.
 - Youtube 를 포함하여 자막 다운로드 버튼이 있으면 해당 웹사이트에서 이중 자막 다운로드를 지원합니다.
   ![](<https://s.immersivetranslate.com/assets/r2-uploads/帮助中心用图文-沉浸式翻译_(16)-T-SJ6jJfA9zG7w5a.png>)
+
+

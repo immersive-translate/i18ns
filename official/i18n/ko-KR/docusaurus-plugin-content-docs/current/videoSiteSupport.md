@@ -70,3 +70,5 @@ sidebar_position: 15
 | [dr.dk](https://www.dr.dk/)                                        | dr.dk 는 덴마크 방송 공사의 공식 웹사이트로, 뉴스, TV 및 라디오 프로그램의 온라인 재생을 제공합니다. 덴마크 최대의 뉴스 제공자이자 공영 서비스 미디어입니다.                                                                                                    |
 
 [더 보기 & 적응 요청 피드백](https://github.com/immersive-translate/immersive-translate/issues/1179)
+
+
