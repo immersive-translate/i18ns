@@ -16,6 +16,12 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.24.5 Preview (2025-12-31)
+
+- 修復：特定環境下側邊欄無法喚起的問題，提升互動穩定性。
+- 修復：釘釘、微信等第三方平台帳號無法正常登入的問題（因 iframe 通訊干擾導致）。
+- 優化：【AI Writing】新增極簡模式。
+
 ## 1.24.4 Preview (2025-12-23)
 
 - 優化：【輸入框翻譯】首次使用時的提示說明已更新，提升使用者理解。

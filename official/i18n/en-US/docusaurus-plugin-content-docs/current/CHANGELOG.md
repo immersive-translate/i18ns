@@ -16,6 +16,12 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.24.5 Preview (2025-12-31)
+
+- Fixed: In certain environments, the sidebar could not be triggered; improved interaction stability.
+- Fixed: DingTalk, WeChat, and other third-party platform accounts were unable to log in due to iframe communication interference.
+- Improved: [AI Writing] Added minimal mode.
+
 ## 1.24.4 Preview (2025-12-23)
 
 - Improved: [Input field translation] Updated the initial prompt message for first-time use to enhance user understanding.
