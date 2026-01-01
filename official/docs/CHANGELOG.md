@@ -16,7 +16,7 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
-## 1.24.5 Preview (2025-12-31)
+## 1.24.6 Preview (2025-12-31)
 
 - 修复：特定环境下侧边栏无法唤起的问题，提升了交互稳定性。
 - 修复：钉钉、微信等三方平台账号无法正常登录的问题（因 iframe 通信干扰导致）。
