@@ -2,87 +2,282 @@
 sidebar_position: 4
 ---
 
-# Opções avançadas de personalização
+# Opções Avançadas de Personalização
 
-Você pode editar mais configurações personalizadas em Página de Configuração Estendida -> Configurações do Desenvolvedor -> Configuração do Usuário que não podem ser editadas na interface do usuário para usuários avançados, consulte a última nota para obter mais detalhes sobre os parâmetros. A configuração interna atual pode ser encontrada [aqui](https://github.com/immersive-translate/next-immersive-translate/blob/main/docs/buildin_config.json).
+Esta página destina-se a usuários avançados com alguma experiência em HTML/CSS/JSON. Configurações avançadas podem melhorar significativamente a adaptabilidade, mas também aumentam a chance de criar configurações que "parecem corretas mas não funcionam". Recomenda-se fazer backup antes de editar.
 
-## Regras do usuário
+## Avisos Antes de Usar
 
-Com `Rules` (Regras), é possível personalizar a configuração de um site específico, decidindo qual conteúdo precisa ser traduzido ou não, ou ajustando o estilo das páginas, etc.
+- Acesse em [Configurações de Desenvolvedor](https://dash.immersivetranslate.com/#developer).
+- Faça backup de User Config / User Rules antes de editar, para evitar perda de configuração por erro de formatação.
+- Considere a configuração final interna como referência (“Click to expand the final config”) para campos, valores padrão e serviços disponíveis.
+
+## Pontos de Entrada e Prioridade
+
+Entradas comuns (Configurações de Desenvolvedor):
+- Edit Full User Config: configuração completa (inclui `rules`, serviços de tradução, estilos, etc).
+- Edit User Rules: edita somente o array `rules` (aceita apenas array, não inclua `{ "rules": [...] }`).
+- Injected CSS: injeção global de CSS.
+
+Prioridade (maior para menor): `rules` correspondentes > `generalRule` > configuração padrão interna.
+Ao corresponder uma `rule`, ela é mesclada com `generalRule`, prevalecendo os campos da `rule`.
+
+## Início Rápido (Requisitos Mais Comuns)
+
+### 1) Traduzir apenas o conteúdo principal de um site
+
+```json
+{
+  "rules": [
+    {
+      "matches": ["example.com"],
+      "selectors": ["article", ".post-content"],
+      "excludeSelectors": ["nav", "footer", ".comment"]
+    }
+  ]
+}
+```
+
+### 2) Sempre/Nunca traduzir
+
+```json
+{
+  "translationUrlPattern": {
+    "matches": ["stackoverflow.com"],
+    "excludeMatches": ["www.google.com/mail/*"]
+  }
+}
+```
+
+### 3) Usar diferentes serviços de tradução por site
+
+```json
+{
+  "translationService": "google",
+  "translationServices": {
+    "deepl": {
+      "matches": ["sci-hub.se"]
+    }
+  }
+}
+```
+
+### 4) Estilo da tradução por site
+
+```json
+{
+  "translationTheme": "none",
+  "translationThemePatterns": {
+    "underline": {
+      "matches": ["discord.com"]
+    }
+  }
+}
+```
+
+### 5) Corrigir problemas de estilo causados pela tradução
+
+```json
+{
+  "rules": [
+    {
+      "matches": ["youtube.com"],
+      "globalStyles": {
+        "#video-title": "max-height:unset;"
+      }
+    }
+  ]
+}
+```
+
+### 6) Não mostrar serviços de tradução não configurados no painel
+
+```json
+{
+  "showUnconfiguredTranslationServiceInPopup": false
+}
+```
+
+## Regras e Correspondência
+
+### Mesclagem de Regras
+
+- `generalRule`: base de regras comuns a todos os sites.
+- `rules`: regra específica do site, com prioridade máxima se corresponder.
+
+Campos dentro de `rules` podem usar a maioria dos campos disponíveis em `generalRule`.
+
+### Formatos comuns de "matches"
+
+`matches` aceita string ou array:
+- Domínio: `example.com`
+- URL completa: `https://example.com/path/`
+- Curinga: `https://*/*q=*`
+- Corresponder tudo: `*` / `*://*` / `*://*/*`
+- Arquivo local: `file://*`
+
+Observação: `*.twitter.com` só corresponde subdomínios, não o domínio raiz `twitter.com`.
+
+### selectors / excludeSelectors
+
+- `selectors`: traduz apenas elementos correspondentes (substitui o escopo padrão).
+- `excludeSelectors`: elementos a serem excluídos da tradução.
+
+Para apenas adicionar/remover do escopo original, prefira usar `.add` / `.remove` (veja próxima seção).
+
+### Herança e Modificações Incrementais (.add / .remove)
+
+Para campos array ou objeto, suporte a `.add` / `.remove` para modificações incrementais.
+Recomenda-se seu uso para evitar sobrescrever regras padrão:
 
 ```json
 [
   {
-    "matches": "www.google.com",
-    "selectors": [".title"]
-  },
-  {
-    "matches": "*.twitter.com",
-    "selectors": [".text"],
-    "excludeSelectors": ["nav", "footer"]
+    "id": "twitter",
+    "selectors.add": ["[data-testid='tweetText'] a"],
+    "excludeSelectors.add": ["header"]
   }
 ]
 ```
 
-Use `matches` para corresponder ao site correspondente. Caracteres curinga são permitidos, por exemplo, `*.google.com`, `www.google.com/test/*`, `file://*`.
+### Referência Rápida de Campos Comuns (parcial)
 
-Usar `selectors` substitui o escopo de tradução inteligente, traduzindo apenas os elementos correspondidos por esse seletor.
+Relacionados à correspondência:
+- `matches` / `excludeMatches`
+- `selectorMatches` / `excludeSelectorMatches`
 
-Use `excludeSelectors` para excluir elementos sem traduzir a posição.
+Escopo da tradução:
+- `selectors` / `excludeSelectors` / `excludeTags`
+- `stayOriginalSelectors` / `stayOriginalTags`
+- `extraInlineSelectors` / `extraBlockSelectors`
 
-Use a família de seletores `additional` (adicional) para aumentar ou diminuir o intervalo de tradução com base na tradução inteligente.
+Estilo e layout:
+- `translationClasses`: classes extras para o texto traduzido
+- `globalStyles` / `globalAttributes`
+- `injectedCss` / `additionalInjectedCss`
+- `wrapperPrefix` / `wrapperSuffix`
+- `blockMinTextCount` / `blockMinWordCount`
+
+Momento e mobile:
+- `urlChangeDelay` / `observeUrlChange`
+- `isShowUserscriptPagePopup`
+
+### Tradução de mensagens em fluxo estilo GPT
+
+```json
+{
+  "matches": ["chat.openai.com"],
+  "excludeSelectors": [".markdown *"],
+  "aiRule": {
+    "streamingSelector": ".result-streaming.markdown",
+    "messageWrapperSelector": ".markdown",
+    "streamingChange": true
+  }
+}
+```
+
+Mais detalhes de campos: veja no final em "Apêndice: Referência de Campos de Rule".
+
+## Lógica de correspondência em "matches" (resumo)
+
+- Domínio puro (sem `*`, sem caminho): compara apenas hostname.
+- URL completa (sem `*`): compara protocolo + host + porta + caminho.
+- Com `*` ou sem protocolo: usa regras de coringa (http/https/file suportados por padrão).
+
+Exemplos comuns:
+- `twitter.com` ✅ corresponde a `https://twitter.com/home`
+- `*.twitter.com` ✅ corresponde a `https://mobile.twitter.com`, ❌ não corresponde a `https://twitter.com`
+- `https://twitter.com/home` só corresponde a essa URL exata
+- `twitter.com/*` corresponde a todas as rotas sob `twitter.com`
+
+## Caso de adaptação de site (exemplo com Twitter)
+
+Exemplo de regra interna do Twitter, mostrando uso típico de `selectors` / `excludeSelectors` / `globalStyles`:
 
 ```json
 [
   {
-    "matches": "www.google.com",
-    "additionalSelectors": [],
-    "additionalExcludeSelectors": []
+    "id": "twitter",
+    "matches": [
+      "twitter.com",
+      "mobile.twitter.com",
+      "tweetdeck.twitter.com",
+      "pro.twitter.com",
+      "https://platform.twitter.com/embed*"
+    ],
+    "selectors": [
+      "[data-testid=\"tweetText\"]",
+      ".tweet-text",
+      ".js-quoted-tweet-text",
+      "[data-testid='card.layoutSmall.detail'] > div:nth-child(2)",
+      "[data-testid='developerBuiltCardContainer'] > div:nth-child(2)",
+      "[data-testid='card.layoutLarge.detail'] > div:nth-child(2)",
+      "[data-testid='cellInnerDiv'] div[data-testid='UserCell'] > div> div:nth-child(2)",
+      "[data-testid='UserDescription']",
+      "[data-testid='HoverCard'] div[dir=auto]",
+      "[data-testid='HoverCard'] span[dir=auto]",
+      "[data-testid='HoverCard'] [role='dialog'] div[dir=ltr]",
+      "[data-testid='birdwatch-pivot'] div[dir=ltr]"
+    ],
+    "excludeSelectors": [
+      "[aria-describedby][role=button]",
+      "header",
+      "[data-testid='radioGroupplayback_rate'] div",
+      "[data-testid='userFollowIndicator']",
+      "[class='css-901oao r-14j79pv r-37j5jr r-n6v787 r-16dba41 r-1cwl3u0 r-bcqeeo r-qvutc0']",
+      "[class='css-175oi2r r-1wbh5a2 r-dnmrzs']"
+    ],
+    "globalStyles": {
+      "[data-testid='card.layoutLarge.detail'] > div:nth-child(2)": "-webkit-line-clamp: unset;",
+      "[data-testid='card.layoutSmall.detail'] > div:nth-child(2)": "-webkit-line-clamp: unset;",
+      "[data-testid='tweetText']": "-webkit-line-clamp: unset;"
+    }
   }
 ]
 ```
 
-Se os resultados da tradução resultarem em páginas desalinhadas, texto sobreposto e outros casos extremos, você pode usar `globalStyles` para ajustar o estilo da página para corrigi-lo. Por exemplo, o cabeçalho do YouTube, que é usado para remover a altura máxima da página original.
+- `selectors`: traduz apenas o conteúdo principal do tweet, evitando nomes/botões.
+  ![tweet](https://s.immersivetranslate.com/assets/r2-uploads/tweet.png)
+- `excludeSelectors`: exclui botões, navegação e elementos interativos.
+  ![twitter-follow](https://s.immersivetranslate.com/assets/r2-uploads/twitter-follow.png)
+- `globalStyles`: remove o limite de linhas para evitar corte na tradução.
+  ![用户主页](https://s.immersivetranslate.com/assets/r2-uploads/twitterUser.png)
+
+## Adaptação personalizada de sites
+
+Você pode reutilizar regras internas via `id` e modificar incrementando com `.add/.remove`:
 
 ```json
-{
-  "matches": "www.google.com",
-  "globalStyles": { ".title": "max-height:unset;" }
-}
+[
+  {
+    "id": "twitter",
+    "selectors.remove": ["[data-testid=\"tweetText\"]"],
+    "selectors.add": ["[data-testid=\"tweetText\"] a"],
+    "excludeSelectors.add": ["header"],
+    "excludeSelectors.remove": []
+  }
+]
 ```
 
-## Melhorias na consolidação de regras do usuário
+Observação:
+- `id` herda regras internas, evitando repetição de `matches`.
+- `.add/.remove` só altera itens no respectivo array, evitando sobrescrever.
 
-Suporte a partir da versão 0.7.4. Veja o exemplo de pular a zona de não tradução:
+IDs internos comuns (parcial):
+- `isEbook`: leitor de epub
+- `isEbookBuilder`: gerador de epub bilíngue
+- `pdf`: página bilíngue para PDF
 
-```json
-{
-  "matches": "https://www.elektrotechnik.rwth-aachen.de/*",
-  "additionalExcludeSelectors.remove": [".notranslate", "[translate=no]"]
-}
-```
+Lista completa de regras internas:
+- `https://github.com/immersive-translate/next-immersive-translate/blob/main/docs/buildin_config.json`
 
-As operações de adicionar e remover modificam as regras fornecidas por padrão e não precisam ser substituídas por completo, como era o caso anteriormente.
+## Configurando serviços de tradução
 
-## CSS injetado
+- `translationService`: motor de tradução padrão.
+- `translationServices`: configurações por serviço e sobrescritas por site.
+- `showUnconfiguredTranslationServiceInPopup`: esconde serviços não configurados.
 
-O CSS injetado permite que você injete estilos da web personalizados globalmente. Pode ser usado com `translationClasses` das `Rules`.
-
-```
-".immersive-translate-target-wrapper img { width: 16px; height: 16px }"
-```
-
-Também é possível estilizar o site de uma forma mais personalizada, como um gerenciador de estilos da web comum (até mesmo utilizando `display:none` para remover anúncios).
-
-```css
-.title {
-  color: red;
-}
-```
-
-## Configuração do usuário
-
-A Configuração permite personalizar a configuração deste plugin, como serviços de tradução, opções de tradução de idiomas específicas de idioma, etc.
+Exemplo (com Tencent):
 
 ```json
 {
@@ -91,317 +286,311 @@ A Configuração permite personalizar a configuração deste plugin, como servi�
     "tencent": {
       "secretId": "xxx",
       "secretKey": "xxx",
-      "matches": ["*.twitter.com"]
+      "matches": ["twitter.com"],
+      "limit": 3,
+      "maxTextGroupLengthPerRequest": 25,
+      "maxTextLengthPerRequest": 1800,
+      "apiUrl": ""
     }
-  },
-  "translationUrlPattern": {
-    "excludeMatches": ["www.google.com"]
-  },
+  }
+}
+```
+
+Notas:
+- `matches` define onde o serviço é aplicado.
+- `limit` limita a taxa de requisições por segundo.
+- `maxTextGroupLengthPerRequest` / `maxTextLengthPerRequest` controlam o tamanho máximo de cada requisição.
+- `apiUrl` permite definir URL personalizada.
+
+### Configurando tempo limite da requisição (timeout máximo)
+
+Pode-se definir o timeout (em ms) por serviço. Para serviços Pro, defina `proRequestTimeout`.
+
+```json
+{
+  "translationServices": {
+    "openai": {
+      "requestTimeout": 60000
+    },
+    "gemini": {
+      "proRequestTimeout": 90000
+    }
+  }
+}
+```
+
+Dicas:
+- Timeout muito alto faz aguardar muito; muito baixo, pode falhar frequentemente.
+- O valor padrão depende do serviço (consulte a configuração final).
+- `proRequestTimeout` só surte efeito quando `provider` for `pro` (serviço para assinantes).
+
+## Idioma e Estratégia de Tradução
+
+### Sempre/Nunca traduzir certos idiomas
+
+```json
+{
   "translationLanguagePattern": {
-    "matches": ["en"]
-  },
-  "translationTheme": "none",
+    "matches": ["en"],
+    "excludeMatches": ["zh"]
+  }
+}
+```
+
+### Definindo idioma de origem para um site específico
+
+```json
+{
+  "sourceLanguageUrlPattern": {
+    "en": {
+      "matches": ["*.google.com"]
+    }
+  }
+}
+```
+
+## Outras configurações globais frequentes
+
+### Permitir renderizar tags HTML
+
+Se desejar manter/renderizar HTML na tradução:
+
+```json
+{
+  "enableRenderHtmlTag": true
+}
+```
+
+## Estilo e tema da tradução
+
+Temas suportados por `translationTheme` (confira configuração final):
+
+```text
+none, grey, dashed, dashedBorder, solidBorder, dotted, underline, mask, opacity,
+paper, dividingLine, highlight, marker, marker2, blockquote, weakening, italic,
+bold, thinDashed, nativeDotted, wavy, nativeDashed, nativeUnderline, background
+```
+
+Configuração de tema por site:
+
+```json
+{
   "translationThemePatterns": {
-    "underline": {
+    "highlight": {
       "matches": ["discord.com"]
     }
-  },
-  "generalRule": {
-    "_comment": "",
-    "normalizeBody": "",
-    "injectedCss": [],
-    "additionalInjectedCss": [],
-    "wrapperPrefix": "smart",
-    "wrapperSuffix": "smart",
-    "isPdf": false,
-    "isTransformPreTagNewLine": false,
-    "urlChangeDelay": 20,
-    "isShowUserscriptPagePopup": true,
-    "observeUrlChange": true,
-    "paragraphMinTextCount": 8,
-    "paragraphMinWordCount": 2,
-    "blockMinTextCount": 32,
-    "blockMinWordCount": 5,
-    "containerMinTextCount": 18,
-    "lineBreakMaxTextCount": 0,
-    "globalAttributes": {},
-    "globalStyles": {},
-    "selectors": [],
-    "preWhitespaceDetectedTags": ["DIV", "SPAN"],
-    "stayOriginalSelectors": [],
-    "additionalSelectors": [],
-    "atomicBlockTags": [],
-    "excludeSelectors": [],
-    "additionalExcludeSelectors": [],
-    "translationClasses": [],
-    "excludeTags": [],
-    "metaTags": ["META", "SCRIPT", "STYLE", "NOSCRIPT"],
-    "additionalExcludeTags": [],
-    "stayOriginalTags": ["CODE", "TT", "IMG", "SUP"],
-    "additionalStayOriginalTags": [],
-    "inlineTags": [],
-    "additionalInlineTags": [],
-    "extraInlineSelectors": [],
-    "additionalInlineSelectors": [],
-    "extraBlockSelectors": [],
-    "allBlockTags": [],
-    "pdfNewParagraphLineHeight": 2.4,
-    "pdfNewParagraphIndent": 1.2,
-    "pdfNewParagraphIndentRightIndentPx": 130,
-    "fingerCountToToggleTranslagePageWhenTouching": 4
-  },
-  "rules": [
-    {
-      "matches": "www.google.com",
-      "selectors": [".class"]
+  }
+}
+```
+
+## Parâmetros AI / Serviços Avançados
+
+### temperature
+
+```json
+{
+  "translationServices": {
+    "openai": {
+      "temperature": 0.2
     }
-  ]
-}
-```
-
-Os campos de regra em `rules` podem usar todos os campos em `generalRule`. As `rules` têm a prioridade mais alta, mesclando a `generalRule` e as regras para aquela `rule` quando uma `rule` específica para um site específico é correspondida.
-
-Apresentando alguns dos campos comuns da Configuração.
-
-### Não mostrar serviços de tradução não configurados no painel popup
-
-`"showUnconfiguredTranslationServiceInPopup": false`
-
-### Configuração de serviços de tradução
-
-Use `translationService` para selecionar o mecanismo de tradução padrão, que atualmente suporta:
-
-```typescript
-| "tencent"
-| "google"
-| "deepl"
-| "baidu"
-| "volc"
-| "youdao"
-| "caiyun"
-| "openl"
-| "bing"
-| "transmart"
-```
-
-Use `translationServices` para configurar a `apikey` de cada serviço de tradução, diferentes provedores de serviço precisam de parâmetros diferentes, e suas chaves de API podem ser solicitadas no centro de desenvolvedores de seus respectivos sites.
-
-Por exemplo, o Tencent Translator, você precisa configurar `secretId`, `secretKey`. Você pode ir para a Tencent Cloud para solicitar uma chave de API com 5 milhões de caracteres gratuitos por mês. Consulte [aqui](/docs/services/tencent) para o processo de solicitação.
-
-```json
-"translationServices": {
-  "tencent": {
-    "secretId": "xxx",
-    "secretKey": "xxx",
-    "matches":["*.twitter.com"],
-    "limit": 3,
-    "apiUrl":"",
-    "maxTextGroupLengthPerRequest": 25,
-    "maxTextLengthPerRequest": 1800
   }
 }
 ```
 
-Campo `matches`, usando este serviço de tradução para um site específico.
-
-O campo `limit`, que especifica o número máximo de solicitações por segundo para este serviço de tradução (alguns serviços limitam o número máximo de solicitações por segundo).
-
-Campo `maxTextGroupLengthPerRequest`, número máximo de parágrafos por solicitação.
-
-Campo `maxTextLengthPerRequest`, número máximo de caracteres por solicitação.
-
-`apiUrl` Permite personalizar o endereço da interface de tradução.
-
-### Sempre traduzir sites específicos
-
-`translationUrlPattern` Configura sites que são sempre traduzidos e sites que nunca são traduzidos.
-
-- `matches` configura o site que é sempre traduzido.
-- `excludeMatches` configura sites que nunca são traduzidos.
-
-Os valores de configuração podem ser nomes de domínio ou URLs com `*`, como: `www.google.com/mail/*`
-
-```json
-"translationUrlPattern": {
-    "matches": ["stackoverflow.com"],
-    "excludeMatches": ["www.google.com/mail/*"]
-}
-```
-
-### Sempre traduzir idiomas específicos
-
-`translationLanguagePattern`, configura o idioma que é sempre traduzido e o idioma que nunca é traduzido.
-
-- `matches` Configura o idioma que é sempre traduzido, por exemplo, `en`.
-- `excludeMatches` Configura os idiomas que nunca são traduzidos.
-
-### Formato de exibição da tradução
-
-`translationTheme` é o formato de exibição da tradução e atualmente suporta os seguintes estilos:
-
-```typescript
-| "none"
-| "dashed"
-| "dotted"
-| "underline"
-| "mask"
-| "paper"
-| "highlight"
-| "blockquote"
-| "weakening"
-| "italic"
-| "bold"
-| "thinDashed"
-```
-
-Nome correspondente em português:
+### Headers e body customizados
 
 ```json
 {
-  "none": "nenhum",
-  "dashed": "sublinhado tracejado",
-  "dotted": "sublinhado pontilhado",
-  "underline": "sublinhado com linha reta",
-  "mask": "efeito de desfoque",
-  "paper": "efeito de sombra de papel branco",
-  "highlight": "Destacar",
-  "blockquote": "estilo de citação",
-  "weakening": "enfraquecimento",
-  "italic": "itálico",
-  "bold": "negrito",
-  "thinDashed": "Linhas finas pontilhadas"
-}
-```
-
-`translationThemePatterns` permite configurar diferentes estilos de tradução para diferentes sites.
-
-```json
-"translationThemePatterns": {
-  "underline": {
-    "matches": ["discord.com"]
-  }
-}
-```
-
-### Tradução de mensagens de fluxo de página do Class GPT
-
-```json
-{
-  "matches": ["chat.openai.com"],
-  "excludeSelectors": [".markdown *"],
-  "aiRule": {
-    "streamingSelector": ".result-streaming.markdown ",
-    "messageWrapperSelector": ".markdown",
-    "streamingChange": true
-  }
-}
-```
-
-### Regras
-
-`rules` é um objeto de matriz que permite configurar regras para sites especiais, como fazer o Twitter traduzir apenas uma determinada parte de uma região:
-
-```json
-{
-  "rules": [
-    {
-      "id": "twitter",
-      "matches": ["twitter.com", "mobile.twitter.com", "tweetdeck.twitter.com"],
-      "selectors": [
-        "[data-testid='tweetText']",
-        ".tweet-text",
-        ".js-quoted-tweet-text",
-        "[data-testid='card.layoutSmall.detail'] > div:nth-child(2)",
-        "[data-testid='developerBuiltCardContainer'] > div:nth-child(2)",
-        "[data-testid='card.layoutLarge.detail'] > div:nth-child(2)"
-      ],
-      "extraInlineSelectors": ["[data-testid=\"tweetText\"] div"]
+  "translationServices": {
+    "claude": {
+      "headerConfigs": {
+        "anthropic-version": "2023-06-01",
+        "anthropic-dangerous-direct-browser-access": "true"
+      },
+      "bodyConfigs": {
+        "max_tokens": 2048
+      }
     }
-  ]
+  }
 }
 ```
 
-As `rules` internas atuais podem ser encontradas [aqui](https://github.com/immersive-translate/next-immersive-translate/blob/main/docs/buildin_config.json).
+### Como usuários de modelos Gemini podem personalizar configurações
 
-Alguns dos campos importantes são selecionados abaixo para ilustração:
+Modelos Gemini vêm com configs padrão internas; para sobrescrever, use `modelsOverrides`:
+
+```json
+{
+  "translationServices": {
+    "gemini": {
+      "modelsOverrides": [
+        {
+          "models": ["gemini-2.5-flash", "gemini-2.5-flash-lite"],
+          "bodyConfigs": {
+            "temperature": 0.1
+          }
+        }
+      ]
+    }
+  }
+}
+```
+
+Dica: `modelsOverrides` funciona para outros serviços AI — corresponde pelo nome do modelo.
+
+### Obedecer estritamente prompts customizados
+
+> Para reduzir "alucinações" em LLMs, o plugin valida a contagem de tokens de resposta vs. requisição. Proporção muito alta/baixa = resultado inválido e uso de serviço secundário.
+> Se seu prompt não for sobre tradução (mas expansão, revisão etc), pode disparar falso positivo; ative o modo estrito para ignorar a validação.
+
+```json
+{
+  "translationServices": {
+    "claude": {
+      "strictPrompt": true
+    }
+  }
+}
+```
+
+### Prompts multilíngues personalizados (exemplo)
+
+```json
+{
+  "translationServices": {
+    "openai": {
+      "langOverrides": [
+        {
+          "id": "auto2ja",
+          "systemPrompt": "あなたはプロの翻訳エンジンです。",
+          "prompt": "次のテキストを{{to}}に翻訳してください：\n\n<text>\n{{text}}\n</text>",
+          "multiplePrompt": "<yaml>\n{{yaml}}\n</yaml>",
+          "subtitlePrompt": "<yaml_subtitles>\n{{yaml}}\n</yaml_subtitles>"
+        }
+      ]
+    }
+  }
+}
+```
+
+## Glossário e Tradução Automática
+
+Novo suporte a [Glossário AI](https://dash.immersivetranslate.com/#terms), válido só para serviços de tradução AI.
+
+MT não usa glossário por padrão (pode degradar resultados). Para forçar (NÃO recomendado):
+
+```json
+{
+  "enableMachineTranslateTerms": true
+}
+```
+
+## Limpeza do Cache
+
+Cache de tradução é limpo automaticamente a cada 30 dias para evitar sobrecarga.
+
+```json
+{
+  "cacheMaxAgeDay": 30
+}
+```
+
+## Injected CSS e globalStyles
+
+- Injected CSS: CSS global para correção geral da página.
+- globalStyles: aplica CSS por regra, útil para adaptação por site.
+
+Exemplo de Injected CSS:
+
+```css
+.immersive-translate-target-wrapper img {
+  width: 16px;
+  height: 16px;
+}
+```
+
+## Dicas de Troubleshooting
+
+- `*.twitter.com` não cobre domínio raiz; escreva também `twitter.com`.
+- `selectors` substitui o escopo original; prefira `.add/.remove`.
+- Especificar `matches` como `example.com/path` ativa coringa; verifique se precisa da URL completa.
+- Configuração não funciona? Consulte o resultado de merge final e recarregue a página.
+- Vírgula extra no fim do JSON invalida a configuração.
+
+## Apêndice: Referência de Campos Rule
+
+Referência dos campos de Rule (documentação, lista parcial); consulte a config final para campos completos ou atualizados.
+Dica: para arrays/objetos, use `.add` / `.remove` para modificar sem sobrescrever:
 
 ```typescript
 export interface Rule {
-  // Match the website (Corresponder ao site)
-  id?: string; // Cada regra de adaptação tem seu próprio id, se os usuários quiserem reutilizar esta regra além desta alteração, eles precisam adicionar este id correspondente à sua própria regra para reutilizá-la.
-  matches?: string | string[]; // Esta regra só corresponderá ao site aqui.
-  excludeMatches?: string | string[]; // Excluir sites específicos.
-  selectorMatches?: string | string[]; // Corresponder com um seletor sem especificar todos os URLs
-  excludeSelectorMatches?: string | string[]; // Excluir regras, como acima.
+  // Site correspondente
+  id?: string; // ID de regra interna, para reutilizar regras internas
+  matches?: string | string[]; // Sites para corresponder esta Rule
+  excludeMatches?: string | string[]; // Excluir sites específicos
+  selectorMatches?: string | string[]; // Corresponde por selector CSS, não por URL
+  excludeSelectorMatches?: string | string[]; // Exclude por selector
 
-  // Specify range of translations (Especificar intervalo de traduções)
-  selectors?: string | string[]; // Traduzir apenas elementos que correspondem
-  excludeSelectors?: string | string[]; // Excluir elementos, não traduzir correspondências
-  excludeTags?: string | string[]; // Excluir tags, não traduzir tags correspondentes
+  // Escopo de tradução
+  selectors?: string | string[]; // Só traduz elementos correspondentes
+  excludeSelectors?: string | string[]; // Não traduz elementos correspondentes
+  excludeTags?: string | string[]; // Não traduz tags correspondentes
 
-  // append translation ranges instead of overriding (acrescentar intervalos de tradução em vez de substituir)
-  additionalSelectors?: string | string[]; // acrescentar intervalos de tradução. Acrescentar locais de tradução às regiões traduzidas de forma inteligente.
-  additionalExcludeSelectors?: string | string[]; // Acrescentar elementos de exclusão para que a tradução inteligente não traduza locais específicos.
-  additionalExcludeTags?: string | string[]; // Tags de exclusão adicionais
+  // Adição incremental de escopos (caso falhe, use selectors.add / selectors.remove)
+  additionalSelectors?: string | string[]; // Adiciona seleção para tradução
+  additionalExcludeSelectors?: string | string[]; // Adiciona exclusão
+  additionalExcludeTags?: string | string[]; // Adiciona exclusão (algumas versões obsoleto)
 
-  // Leave as is (Deixar como está)
-  stayOriginalSelectors?: string | string[]; // Os elementos correspondentes serão deixados como estão. Comumente usado em tags de sites de fóruns.
-  stayOriginalTags?: string | string[]; // As tags correspondentes serão deixadas como estão, por exemplo, `code`
+  // Manter original
+  stayOriginalSelectors?: string | string[]; // Elementos mantidos originais
+  stayOriginalTags?: string | string[]; // Tags mantidas originais, ex: code
 
-  // Block or Inline (Bloco ou Inline)
-  extraBlockSelectors?: string | string[]; // Seletores extras, os elementos correspondentes serão tratados como elementos de bloco, não traduzidos em uma linha.
-  extraInlineSelectors?: string | string[]; // Seletores extras que serão usados como elementos inline.
+  // Block ou Inline
+  extraBlockSelectors?: string | string[]; // Elementos são blocos
+  extraInlineSelectors?: string | string[]; // Elementos são inline
+  inlineTags?: string | string[]; // Tags como inline
+  preWhitespaceDetectedTags?: string | string[]; // Tags que detectam quebra de linha automática
 
-  inlineTags?: string | string[]; // A tag correspondente será usada como um elemento inline
-  preWhitespaceDetectedTags?: string | string[]; // A tag correspondente será automaticamente envolvida
+  // Estilos na tradução
+  translationClasses?: string | string[]; // Classes extras para o texto traduzido
 
-  // Translation style (Estilo de tradução)
-  translationClasses?: string | string | string[]; // Adicionar classes adicionais à tradução
+  // Estilos globais
+  globalStyles?: Record<string, string>; // Modifica CSS da página
+  globalAttributes?: Record<string, Record<string, string | null>>; // Modifica atributos de elementos
 
-  // Global Styles (Estilos globais)
-  globalStyles?: Record<string, string>; // Modificar estilos de página, útil se a tradução causar problemas na página.
-  globalAttributes?: Record<string, Record<string, string>>; // Modificar atributos de elementos da página
+  // CSS embutido
+  injectedCss?: string | string[]; // CSS embutido
+  additionalInjectedCss?: string | string[]; // CSS adicional
 
-  // Embedded styles (Estilos incorporados)
-  injectedCss?: string | string[]; // Incorporar estilos CSS
-  additionalInjectedCss?: string | string[]; // Estilos CSS adicionais em vez de substituí-los.
+  // Contexto
+  wrapperPrefix?: string; // Prefixo antes da área traduzida
+  wrapperSuffix?: string; // Sufixo após a área traduzida
 
-  // Context (Contexto)
-  wrapperPrefix?: string; // O prefixo da área de tradução, o padrão é inteligente, com ou sem quebras de linha dependendo do número de caracteres.
-  wrapperSuffix?: string; // Sufixo da área de tradução
+  // Troca de linha no texto traduzido
+  blockMinTextCount?: number; // Tamanho mínimo de caracteres para bloco
+  blockMinWordCount?: number; // Mínimo de palavras por bloco
 
-  // Number of characters to wrap the translation (Número de caracteres para quebrar a tradução)
-  blockMinTextCount?: number; // Número mínimo de caracteres para quebrar a tradução como um bloco, caso contrário, a tradução é um elemento inline.
-  blockMinWordCount?: number; // Igual ao anterior. Se você quiser que eles sempre tenham uma nova linha, você pode colocar 0 em ambos.
+  // Mínimo para traduzir
+  containerMinTextCount?: number; // Mínimo de caracteres por elemento
+  paragraphMinTextCount?: number; // Mínimo de caracteres por parágrafo
+  paragraphMinWordCount?: number; // Mínimo de palavras por parágrafo
 
-  // Minimum number of characters that can be translated from the content (Número mínimo de caracteres que podem ser traduzidos do conteúdo)
-  containerMinTextCount?: number; // Número mínimo de caracteres que um elemento deve conter antes de ser traduzido, o padrão é 18
-  paragraphMinTextCount?: number; // Número mínimo de caracteres para o parágrafo, maior que o número de caracteres que o conteúdo deve conter.
-  paragraphMinWordCount?: number; // Número mínimo de palavras no parágrafo original
+  // Máximo por linha para forçar quebra
+  lineBreakMaxTextCount?: number; // Máximo de caracteres por linha
 
-  // Forced line breaks for long paragraphs (Quebras de linha forçadas para parágrafos longos)
-  lineBreakMaxTextCount?: number; // Número máximo de caracteres no parágrafo para ser forçado a quebrar ao traduzir um parágrafo longo.
-
-  // When to start translation. (Quando iniciar a tradução.)
-  urlChangeDelay?: number; // Quantos milissegundos para atrasar a tradução após entrar na página. Para esperar a página inicializar, o padrão é 250ms.
-  observeUrlChange?: boolean; // Detectar quando o endereço da URL mudou e iniciar a tradução novamente, verdadeiro por padrão.
+  // Momento de iniciar tradução
+  urlChangeDelay?: number; // Delay após entrar na página
+  observeUrlChange?: boolean; // Traduz novamente ao mudar URL
 
   // Mobile
-  isShowUserscriptPagePopup?: boolean; // Mostrar o pop-up da página em dispositivos móveis. Janela flutuante, verdadeiro por padrão.
-  fingerCountToToggleTranslagePageWhenTouching?: number; // Traduz quando quatro dedos tocam, pode ser definido como 0, 2, 3, 4, 5
+  isShowUserscriptPagePopup?: boolean; // Mostrar popup em mobile
+  fingerCountToToggleTranslagePageWhenTouching?: number; // (obsoleto)
 
-  // AI streaming translations (Traduções de streaming de IA)
-  aiRule: {
-    streamingSelector: string; // Seletor para marcar o elemento sendo traduzido na página da web gpt
-    messageWrapperSelector: string; // Seletor do corpo da mensagem
-    streamingChange: boolean; // Se a mensagem é atualizada de forma incremental ou completa para a iteração da página da web do Class GPT. Class GPT é incremental.
+  // Tradução de streaming AI
+  aiRule?: {
+    streamingSelector: string; // Selector para marcar elemento em tradução
+    messageWrapperSelector: string; // Selector do conteúdo da mensagem
+    streamingChange: boolean; // Atualização incremental
   };
 }
 ```
-
-**Mais explicações**
-
-Diferença entre bloco e inline, se você quiser saber mais, pode ver [aqui](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements#inline)
-
-- O elemento de bloco ocupa uma única linha e vários elementos de bloco vizinhos ocupam cada um uma nova linha.
-- O elemento inline não ocupa uma única linha; vários elementos inline vizinhos são organizados na mesma linha e uma nova linha não é criada até que uma linha seja demais.

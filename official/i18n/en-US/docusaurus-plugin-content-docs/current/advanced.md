@@ -4,313 +4,169 @@ sidebar_position: 4
 
 # Advanced Customization Options
 
-You can edit more custom configurations that are not available in the UI in the extension configuration page -> Developer Settings -> User Config. This is suitable for advanced users. For parameter explanations, please refer to the final instructions. The current built-in `config` can be found [here](https://dash.immersivetranslate.com/#developer), by clicking `Click to expand the final config`.
+This page is intended for advanced users with a basic understanding of HTML/CSS/JSON. Advanced configuration can greatly improve adaptability, but it's also easier to write "seemingly correct but ineffective" configurations. It is recommended to back up your data before editing.
 
-## User Rules
+## Before You Begin
 
-Through `Rules`, you can customize configurations for specific websites, deciding what content needs to be translated, adjusting webpage styles, etc.
+- Entry point is in [Developer Settings](https://dash.immersivetranslate.com/#developer).
+- Back up your User Config / User Rules before editing to prevent configuration from being ignored due to format errors.
+- For built-in final configuration, refer to "Click to expand the final config" (fields, default values, available services).
 
-```json
-[
-  {
-    "matches": "www.google.com",
-    "selectors": [".title"]
-  },
-  {
-    "matches": "twitter.com",
-    "selectors": [".text"],
-    "excludeSelectors": ["nav", "footer"]
-  }
-]
-```
+## Entry Points & Priority
 
-Use `matches` to match corresponding websites. Wildcards are allowed, such as `*.google.com`, `www.google.com/test/*`, `file://*`.
+Common entry points (Developer Settings):
+- Edit Full User Config: Edit the full config (includes `rules`, translation services, styles, etc.).
+- Edit User Rules: Only edit the `rules` array (this entry only accepts an array, do NOT wrap it as `{ "rules": [...] }`).
+- Injected CSS: Inject global CSS.
 
-Using `selectors` will override the smart translation scope, only translating elements matched by this selector.
+Priority (from high to low): Matched `rules` > `generalRule` > built-in default config.
+When a `rule` is matched, `generalRule` and the matched `rule` will be merged, with the `rule` fields taking priority.
 
-Using `excludeSelectors` can exclude elements, not translating them.
+## Quick Start (Common Use Cases)
 
-Using `selectors.add` will add some selectors on top of the default ones.
-
-Using `selectors.remove` will remove some selectors from the default ones.
-
-```json
-[
-  {
-    "matches": "www.google.com",
-    "selectors.add": ["baidu.com"],
-    "excludeSelectors": ["buzzing.cc"]
-  }
-]
-```
-
-If the translated text causes page misalignment, text overlap, or other edge cases, you can use `globalStyles` to adjust the webpage style for a fix. For example, YouTube titles, used to remove the original webpage's max-height.
+### 1) Only translate the main content of a website
 
 ```json
 {
-  "matches": "www.google.com",
-  "globalStyles": { ".title": "max-height:unset;" }
-}
-```
-
-## Injected CSS
-
-You can inject custom webpage styles globally through Injected CSS. It can be used together with `Rules`' `translationClasses`.
-
-```css
-.immersive-translate-target-wrapper img {
-  width: 16px;
-  height: 16px;
-}
-```
-
-You can also design more personalized styles for websites like a regular webpage style manager (even use `display:none` to block ads).
-
-```css
-.title {
-  color: red;
-}
-```
-
-## User Config
-
-Through Config, you can customize relevant configurations of this plugin, such as translation services, specific language translation options, etc.
-
-```json
-{
-  "translationService": "tencent",
-  "translationServices": {
-    "tencent": {
-      "secretId": "xxx",
-      "secretKey": "xxx",
-      "matches": ["twitter.com"]
-    }
-  },
-  "translationUrlPattern": {
-    "excludeMatches": ["www.google.com"]
-  },
-  "translationLanguagePattern": {
-    "matches": ["en"]
-  },
-  "translationTheme": "none",
-  "translationThemePatterns": {
-    "underline": {
-      "matches": ["discord.com"]
-    }
-  },
-  "sourceLanguageUrlPattern": {
-    "en": {
-      "matches": ["*.google.com"]
-    }
-  },
-  "generalRule": {
-    "_comment": "",
-    "normalizeBody": "",
-    "injectedCss": [],
-    "additionalInjectedCss": [],
-    "wrapperPrefix": "smart",
-    "wrapperSuffix": "smart",
-    "isPdf": false,
-    "isTransformPreTagNewLine": false,
-    "urlChangeDelay": 20,
-    "isShowUserscriptPagePopup": true,
-    "observeUrlChange": true,
-    "paragraphMinTextCount": 8,
-    "paragraphMinWordCount": 2,
-    "blockMinTextCount": 32,
-    "blockMinWordCount": 5,
-    "containerMinTextCount": 18,
-    "lineBreakMaxTextCount": 0,
-    "globalAttributes": {},
-    "globalStyles": {},
-    "selectors": [],
-    "preWhitespaceDetectedTags": ["DIV", "SPAN"],
-    "stayOriginalSelectors": [],
-    "additionalSelectors": [],
-    "atomicBlockTags": [],
-    "excludeSelectors": [],
-    "additionalExcludeSelectors": [],
-    "translationClasses": [],
-    "excludeTags": [],
-    "metaTags": ["META", "SCRIPT", "STYLE", "NOSCRIPT"],
-    "additionalExcludeTags": [],
-    "stayOriginalTags": ["CODE", "TT", "IMG", "SUP"],
-    "additionalStayOriginalTags": [],
-    "inlineTags": [],
-    "additionalInlineTags": [],
-    "extraInlineSelectors": [],
-    "additionalInlineSelectors": [],
-    "extraBlockSelectors": [],
-    "allBlockTags": [],
-    "pdfNewParagraphLineHeight": 2.4,
-    "pdfNewParagraphIndent": 1.2,
-    "pdfNewParagraphIndentRightIndentPx": 130,
-    "fingerCountToToggleTranslagePageWhenTouching": 4
-  },
   "rules": [
     {
-      "matches": "www.google.com",
-      "selectors": [".class"]
+      "matches": ["example.com"],
+      "selectors": ["article", ".post-content"],
+      "excludeSelectors": ["nav", "footer", ".comment"]
     }
   ]
 }
 ```
 
-Among them, the rule fields in `rules` can use all the fields in `generalRule`. `rules` have the highest priority. When a specific `rule` for a website is matched, the rules from `generalRule` and that `rule` will be merged.
-
-Here are some common fields in Config.
-
-### Allow Rendering Normal HTML Tags
-
-Go to [Developer Settings](https://dash.immersivetranslate.com/#developer) -> Edit Full User Config
-
-Edit "enableRenderHtmlTag": true
-
-### Do Not Display Unconfigured Translation Services in the Popup Panel
-
-`"showUnconfiguredTranslationServiceInPopup": false`
-
-### Translation Service Configuration
-
-Use `translationService` to select the default translation engine. Currently supported:
-
-```typescript
-| "bing"
-| "transmart"
-| "google"
-| "deepl"
-| "openai"
-| "gemini"
-| "baidu"
-| "volc"
-| "youdao"
-| "caiyun"
-| "tencent"
-| "openl"
-```
-
-Use `translationServices` to configure the `apikey` for each translation service. Different service providers require different parameters. Their API keys can all be applied for in their respective official website's developer center.
-
-For example, Tencent Translate (腾讯翻译君) requires configuring `secretId`, `secretKey`. You can go to Tencent Cloud to apply for an API key, with 5 million free characters per month. For the specific application process, refer to [here](/docs/services/tencent).
+### 2) Always translate / Never translate
 
 ```json
-"translationServices": {
-  "tencent": {
-    "secretId": "xxx",
-    "secretKey": "xxx",
-    "matches":["twitter.com"],
-    "limit": 3,
-    "apiUrl":"",
-    "maxTextGroupLengthPerRequest": 25,
-    "maxTextLengthPerRequest": 1800
-  }
-}
-```
-
-The `matches` field is for using this translation service for specific websites.
-
-The `limit` field specifies the maximum number of requests per second for this translation service (some services limit the maximum number of requests per second).
-
-The `maxTextGroupLengthPerRequest` field is the maximum number of paragraphs per request.
-
-The `maxTextLengthPerRequest` field is the maximum number of characters per request.
-
-`apiUrl` can customize the address of the translation interface.
-
-#### OpenAI Temperature Setting
-
-OpenAI's "temperature" parameter is used to adjust the randomness and creativity of the language model's output text. Setting a lower temperature value (e.g., 0.1 or 0.2) will generate more deterministic, consistent, and predictable text, while a higher temperature value (e.g., 0.8 or 1.0) will make the output more random and diverse, increasing the text's creativity.
-
-The specific setting is in [Developer Settings](https://dash.immersivetranslate.com/#developer) -> Edit Full User Config. Find the corresponding field for `openai` and insert a new field `temperature` to complete the setting.
-
-Example:
-
-```json
-  "translationServices": {
-    "openai": {
-      "model": "gpt-3.5-turbo",
-      "provider": "custom",
-      "temperature": 1
-    }
-  },
-```
-
-### Always Translate Specific Websites
-
-`translationUrlPattern` configures websites to always translate and websites to never translate.
-
-- `matches` configures websites to always translate.
-- `excludeMatches` configures websites to never translate.
-
-The configuration value can be a domain name or a URL with `*`, for example: `www.google.com/mail/*`
-
-```json
-"translationUrlPattern": {
+{
+  "translationUrlPattern": {
     "matches": ["stackoverflow.com"],
     "excludeMatches": ["www.google.com/mail/*"]
-}
-```
-
-### Always Translate Specific Languages
-
-`translationLanguagePattern`, configures languages to always translate and languages to never translate.
-
-- `matches` configures languages to always translate, e.g., `en`.
-- `excludeMatches` configures languages to never translate.
-
-### Translated Text Display Format
-
-`translationTheme` is the display format for translated text. Currently supported styles:
-
-```typescript
-| "none"
-| "dashed"
-| "dotted"
-| "underline"
-| "mask"
-| "paper"
-| "highlight"
-| "blockquote"
-| "weakening"
-| "italic"
-| "bold"
-| "thinDashed";
-```
-
-Corresponding Chinese names:
-
-```json
-{
-  "none": "None",
-  "dashed": "Dashed Underline",
-  "dotted": "Dotted Underline",
-  "underline": "Solid Underline",
-  "mask": "Blur Effect",
-  "paper": "Paper Shadow Effect",
-  "highlight": "Highlight",
-  "blockquote": "Blockquote Style",
-  "weakening": "Weaken",
-  "italic": "Italic",
-  "bold": "Bold",
-  "thinDashed": "Thin Dashed Underline"
-}
-```
-
-`translationThemePatterns` can configure different translated text styles for different websites.
-
-```json
-"translationThemePatterns": {
-  "underline": {
-    "matches": ["discord.com"]
   }
 }
 ```
 
-### GPT-like Page Stream Message Translation
+### 3) Use different translation services for different sites
 
 ```json
 {
-  "matches": ["chat.openai.com"], // GPT-like website URL
+  "translationService": "google",
+  "translationServices": {
+    "deepl": {
+      "matches": ["sci-hub.se"]
+    }
+  }
+}
+```
+
+### 4) Translation style differs by site
+
+```json
+{
+  "translationTheme": "none",
+  "translationThemePatterns": {
+    "underline": {
+      "matches": ["discord.com"]
+    }
+  }
+}
+```
+
+### 5) Translation causes style issues, fix via styles
+
+```json
+{
+  "rules": [
+    {
+      "matches": ["youtube.com"],
+      "globalStyles": {
+        "#video-title": "max-height:unset;"
+      }
+    }
+  ]
+}
+```
+
+### 6) Do not show unconfigured translation services in popup
+
+```json
+{
+  "showUnconfiguredTranslationServiceInPopup": false
+}
+```
+
+## Rules & Matching
+
+### Rule Merging
+
+- `generalRule`: Baseline rules for all sites.
+- `rules`: Site-specific rules with top priority when matched.
+
+Most fields in `generalRule` can be used in `rules` array elements.
+
+### Common forms of `matches`
+
+`matches` supports string or array:
+- Domain: `example.com`
+- Full URL: `https://example.com/path/`
+- Wildcard: `https://*/*q=*`
+- Match all: `*` / `*://*` / `*://*/*`
+- Local files: `file://*`
+
+Note: `*.twitter.com` only matches subdomains, NOT the root domain `twitter.com`.
+
+### selectors / excludeSelectors
+
+- `selectors`: Only translate elements matched (will overwrite default range).
+- `excludeSelectors`: Exclude elements from translation.
+
+If you only want to add/remove on top of the default range, please use `.add` / `.remove` (see next section).
+
+### Inheritance & Incremental Modification (.add / .remove)
+
+Array/Object fields support `.add` / `.remove` for incremental modification.
+It is recommended to use them to avoid overwriting default rules:
+
+```json
+[
+  {
+    "id": "twitter",
+    "selectors.add": ["[data-testid='tweetText'] a"],
+    "excludeSelectors.add": ["header"]
+  }
+]
+```
+
+### Common Fields Quick Reference (Partial)
+
+Matching:
+- `matches` / `excludeMatches`
+- `selectorMatches` / `excludeSelectorMatches`
+
+Translation range:
+- `selectors` / `excludeSelectors` / `excludeTags`
+- `stayOriginalSelectors` / `stayOriginalTags`
+- `extraInlineSelectors` / `extraBlockSelectors`
+
+Style & layout:
+- `translationClasses`: Add extra class(es) to translation
+- `globalStyles` / `globalAttributes`
+- `injectedCss` / `additionalInjectedCss`
+- `wrapperPrefix` / `wrapperSuffix`
+- `blockMinTextCount` / `blockMinWordCount`
+
+Timing & mobile:
+- `urlChangeDelay` / `observeUrlChange`
+- `isShowUserscriptPagePopup`
+
+### GPT-like Streaming Message Translation
+
+```json
+{
+  "matches": ["chat.openai.com"],
   "excludeSelectors": [".markdown *"],
   "aiRule": {
     "streamingSelector": ".result-streaming.markdown",
@@ -320,338 +176,23 @@ Corresponding Chinese names:
 }
 ```
 
-### Custom Translation of Technical Terms
+See "Appendix: Rule Field Reference" at the end for more field explanations.
 
-The latest version supports the [AI Terminology Library](https://dash.immersivetranslate.com/#terms) feature. Please note that this terminology library is only available for AI translation services.
+## matches Matching Logic (Brief Explanation)
 
-By default, the AI Terminology Library does not support terminology for machine translation services such as Google or Microsoft.
+- Pure domain (no `*` and no path): Compare hostname only.
+- Full URL (no `*`): Compare protocol + host + port + path.
+- Contains `*` or protocol omitted: Matches via wildcard (default supports http/https/file).
 
-Machine translation models use placeholder replacement. Using the terminology library with them may reduce translation quality.
+Examples:
+- `twitter.com` ✅ Matches `https://twitter.com/home`
+- `*.twitter.com` ✅ Matches `https://mobile.twitter.com`, ❌ Does NOT match `https://twitter.com`
+- `https://twitter.com/home` Only matches the exact URL
+- `twitter.com/*` Matches all paths under `twitter.com`
 
-How to force enable it (not recommended):
+## Site Adaptation Example (Twitter)
 
-【[Developer Settings](https://dash.immersivetranslate.com/#developer)】 -> 【Edit Full User Config】
-
-```
-{
-  ....
-  "enableMachineTranslateTerms":true,
-  ...
-}
-```
-
-### Rules
-
-`rules` is an array of objects that can configure rules for specific websites, for example, to make Twitter only translate a certain area:
-
-```json
-[
-  {
-    "selectors.remove": ["[data-testid=\"tweetText\"]"],
-    "selectors.add": [""],
-    "excludeSelectors.add": [""],
-    "excludeSelectors.remove": [""],
-    "id": "twitter"
-  }
-]
-```
-
-The current built-in `rules` can be found [here](https://github.com/immersive-translate/next-immersive-translate/blob/main/docs/buildin_config.json).
-
-The following selects some important fields for explanation:
-
-```typescript
-export interface Rule {
-  // Match website
-  id?: string; // Each system-adapted rule has its own id. If the user wants to reuse this rule and make changes on top of it, they need to add this corresponding id to their own rule to reuse it.
-  matches?: string | string[]; // This Rule will only match the websites here.
-  excludeMatches?: string | string[]; // Exclude specific websites.
-  selectorMatches?: string | string[]; // Match using selectors without specifying all URLs.
-  excludeSelectorMatches?: string | string[]; // Exclusion rule, same as above.
-
-  // Specify translation scope
-  selectors?: string | string[]; // Only translate matched elements.
-  excludeSelectors?: string | string[]; // Exclude elements, do not translate matched elements.
-  excludeTags?: string | string[]; // Exclude Tags, do not translate matched Tags.
-
-  // Append translation scope, instead of overriding
-  additionalSelectors?: string | string[]; // Append translation scope. In the smart translation area, append translation positions.
-  additionalExcludeSelectors?: string | string[]; // Append excluded elements, so smart translation does not translate specific positions.
-  additionalExcludeTags?: string | string[]; // Append excluded Tags.
-
-  // Keep original
-  stayOriginalSelectors?: string | string[]; // Matched elements will remain original. Often used for tags on forum websites.
-  stayOriginalTags?: string | string[]; // Matched Tags will remain original, e.g., `code`.
-
-  // Block or Inline
-  extraBlockSelectors?: string | string[]; // Additional selectors, matched elements will be treated as block elements, occupying a full line.
-  extraInlineSelectors?: string | string[]; // Additional selectors, matched elements will be treated as inline elements.
-
-  inlineTags?: string | string[]; // Matched Tags will be treated as inline elements.
-  preWhitespaceDetectedTags?: string | string[]; // Matched Tags will automatically wrap lines.
-
-  // Translated text style
-  translationClasses?: string | string | string[]; // Add extra Class to the translated text.
-
-  // Global styles
-  globalStyles?: Record<string, string>; // Modify page styles. This is very useful if the translated text causes page layout issues.
-  globalAttributes?: Record<string, Record<string, string>>; // Modify attributes of page elements.
-
-  // Embedded styles
-  injectedCss?: string | string[]; // Embed CSS styles.
-  additionalInjectedCss?: string | string[]; // Append CSS styles, instead of directly overriding.
-
-  // Context
-  wrapperPrefix?: string; // Prefix for the translated text area, defaults to smart, decides whether to wrap lines based on word count.
-  wrapperSuffix?: string; // Suffix for the translated text area.
-
-  // Translated text line break word count
-  blockMinTextCount?: number; // Minimum character count for the translated text to be treated as a block, otherwise it's an inline element.
-  blockMinWordCount?: number; // Same as above. If you want them to always wrap, you can fill in 0 for both.
-
-  // Minimum word count for translatable content
-  containerMinTextCount?: number; // During smart recognition, the minimum number of characters an element must contain to be translated, defaults to 18.
-  paragraphMinTextCount?: number; // Minimum character count of the original paragraph, content exceeding this number will be translated.
-  paragraphMinWordCount?: number; // Minimum word count of the original paragraph.
-
-  // Forced line break word count for long paragraphs
-  lineBreakMaxTextCount?: number; // When translating long paragraphs, the maximum character count for a paragraph to be forcibly broken into lines.
-
-  // Timing for starting translation
-  urlChangeDelay?: number; // After entering the page, delay translation by how many milliseconds. To wait for webpage initialization, currently defaults to 250ms.
-  observeUrlChange?: boolean; // Detect when the URL address changes and start translation again, defaults to true.
-
-  // Mobile
-  isShowUserscriptPagePopup?: boolean; // Display the in-page floating window on mobile devices, defaults to true.
-  fingerCountToToggleTranslagePageWhenTouching?: number; // Translate with a four-finger touch, can be set to 0, 2, 3, 4, 5.
-
-  // AI streaming translation
-  aiRule: {
-    streamingSelector: string; // Selector for the element being translated in a GPT webpage.
-    messageWrapperSelector: string; // Message body selector.
-    streamingChange: boolean; // Whether repeated messages on GPT-like webpages are incrementally updated or fully updated. GPT is incremental.
-  };
-}
-```
-
-### Rules Matches Matching Logic
-
-This section introduces the matching method for `match`, how to match the corresponding domain name. Here we are talking about a single `match`. During actual matching, `matches` is an array, and it will try to match each `match`. As long as one matches, it is considered a hit.
-
-First, let's determine the input format, i.e., what forms of legal input our `match` supports:
-
-- `url` with omitted host, e.g., `immersivetranslate.com`
-- A legal `url` with its own protocol, domain name, or path, e.g., `https://immersivetranslate.com`
-- If none of the above are met, the input will be converted into a regular expression for processing, and then some specific rules will be matched on this basis.
-
-After determining the input, let's make a simple classification to better distinguish basic `url`s from `url`s with regular expressions:
-
-- `match` that matches a single website, e.g., `https://immersivetranslate.com` or `immersivetranslate.com` with omitted protocol.
-- `match` mixed with regular expression special characters, e.g., `https://*/*sub.info=*fmoviesz.to*`. This will match specific search `url` parameters. Our program will automatically convert the latter string into a regular expression to match the corresponding `url`. The converted result is `/^https:\/\/[^/]+?\/.*?sub.info=.*?fmoviesz.to.*?\/?$/`. The advantage of this is that it greatly reduces the complexity of configuring `match`.
-
-After distinguishing, for these two types of `match`, we will explain the corresponding matching logic separately. This is also the case in the code; the matching logic for these two types is separate. In the code, we distinguish these two types of `match` through this expression: `!match.includes("*") && match.includes("://")`.
-
-For `match` strings that match a single site, i.e., those without regular expression related symbols, there are three issues to consider:
-
-- Handling of `match` with omitted network protocol: For `immersivetranslate.com`, we will directly judge whether `match` is equal to the `hostname` of the `url`. If equal, the match is successful, i.e., `match` will not be parsed as a URL, but will be used as a `hostname` for judgment.
-- Handling of multi-level routing, divided into two cases:
-  - Complete `match`, e.g., `https://immersivetranslate.com/docs/advanced/`. These are legal URLs. We will parse them as URLs and extract the protocol, hostname, port number, and pathname for comparison. When all are equal, the match is successful.
-  - `match` with omitted network protocol, e.g., `immersivetranslate.com/docs/advanced/`. Since these are illegal `url`s, they will be classified into the regular expression logic for processing.
-
-When the above matching strategies are not effective, our fallback matching will be used, i.e., it will be recognized as a regular expression. We will convert `match` into a legal regular expression. An example of this can be found here:
-
-> `https://*/*sub.info=*fmoviesz.to*` ==> `/^https:\/\/[^/]+?\/.*?sub.info=.*?fmoviesz.to.*?\/?$/`
-
-Finally, let's summarize our processing logic: 1. Judge whether the `hostname` of the `url` is equal to the `match` string. If equal, the match is successful. 2. Judge `match`es that match all `url`s, e.g., `*`, `*://*`, etc. 3. Judge whether `match` is a legal `url`. We will try to compare whether `match` and `url` are equal. Specifically compare protocol, port, hostname, pathname. If equal, success. 4. Judge `match` as a regular expression, convert it into a legal regular expression and try to match. 5. If none are met, the match fails.
-
-### Translation Service Custom Request Headers and Body Parameters
-
-In 【[Developer Settings](https://dash.immersivetranslate.com/#developer)】->【Edit Full User Config】
-
-```json
-{
-  ...
-  "translationServices": {
-    "claude": {
-      "headerConfigs": {
-        "anthropic-version": "2023-06-01",
-        "anthropic-dangerous-direct-browser-access": "true"
-      },
-      "bodyConfigs": {
-        "max_tokens": 2048
-      }
-    }
-  ...
-}
-}
-```
-
-#### Gemini series model users how to customize configuration
-
-Due to the special nature of the Gemini series models, the plugin has built-in some settings. If users want to override the built-in settings, they can refer to the following configuration:
-
-```json
-{
-...
-"translationServices": {
-    "gemini": {
-      "modelsOverrides": [
-        // Specify the model to be overridden, here we override the gemini-2.5-flash and gemini-2.5-flash-lite two models
-        "models": [
-          "gemini-2.5-flash",
-          "gemini-2.5-flash-lite"
-        ]
-      ]
-    }
-  },
-...
-}
-```
-
-### Make the Extension Strictly Follow Custom Prompts
-
-> To reduce issues of "hallucination" from large language models, the extension has a built-in translation quality checking mechanism. The system determines the validity of the translation by comparing the token count ratio between the response and the request text. When this ratio is abnormal (too high or too low), the result is considered invalid and will automatically switch to a backup translation solution.
->
-> If your custom prompt is for a non-translation task (such as rewriting, polishing, or other instructions), this may cause the token ratio to fall outside the normal standard. In this case, you can enforce strict execution of your custom instruction and skip the ratio check by configuring the following parameter:
-
-```json
-...
-  "translationServices": {
-    "claude": {
-      "strictPrompt": true
-    }
-  ...
-```
-
-### Modify Default Translation Cache Auto-Cleanup Duration
-
-The plugin defaults to automatically clearing the translation cache every 30 days. The purpose is to prevent the cache from becoming too large, which could cause subsequent translations to lag. You can modify the default value as follows:
-
-In 【[Developer Settings](https://dash.immersivetranslate.com/#developer)】->【Edit Full User Config】
-
-```
-{
-  cacheMaxAgeDay: 30,
-  ...
-}
-```
-
-### Custom Multilingual Prompts
-
-Below shows the prompt modification for OpenAI translating Japanese/Traditional Chinese.
-
-```
-{
-  ...
-  "translationServices": {
-    "openai.add": {
-        "langOverrides": [
-          {
-          "id": "auto2ja",
-          "systemPrompt": "あなたはプロフェッショナルで正確な翻訳エンジンです。翻訳されたテキストのみを返し、説明は一切行いません。",
-          "prompt": "次のテキストを{{to}}に翻訳してください：\n\n<text>\n{{text}}\n</text>\n\n翻訳結果を直接出力し、追加のテキストやタグは一切含めないでください。",
-          "multiplePrompt": "\"id\"フィールドと \"{{imt_source_field}}\" フィールドを含むYAML形式の入力が与えられます。以下が入力です：\n\n<yaml>\n{{yaml}}\n</yaml>\n\nYAMLの各エントリについて、\"{{imt_source_field}}\" フィールドの内容を {{to}} に翻訳してください。そのエントリの \"{{imt_source_field}}\" フィールドに翻訳結果を書き戻してください。\n\n以下は期待される形式の例です：\n\n{{normal_result_yaml_example}}\n\n追加のタグを一切含めずに、翻訳されたYAMLを直接返してください。",
-          "subtitlePrompt": "YAML形式のビデオ字幕セットの \"{{imt_sub_source_field}}\" フィールドを {{to}} に翻訳します。以下がYAML形式の元の字幕です：\n\n<yaml_subtitles>\n{{yaml}}\n</yaml_subtitles>\n\n各字幕エントリの \"{{imt_sub_source_field}}\" フィールドのみを簡体字中国語に翻訳してください。\"id\" フィールドは翻訳や変更をしないでください。\n\n翻訳された字幕を同じYAML形式で出力し、各字幕エントリを一行ずつにしてください。\"id\" フィールドは変更せず、\"{{imt_sub_source_field}}\" フィールドに {{to}} の翻訳を含めてください。\n\n追加のタグを一切含めずに、翻訳されたYAMLを直接返してください。"
-        },
-        {
-          "id": "auto2zh-TW",
-          "systemPrompt": "You are a professional and authentic translation engine. You only return the translated text, without any explanation.",
-          "prompt": "Translate the following text to {{to}}:
-
-<text>
-{{text}}
-</text>
-
-Output the translation result directly, without adding any extra text or tags.",
-          "multiplePrompt": "You will be given a YAML format input containing \"id\" and \"{{imt_source_field}}\" fields. Here is the input content:
-
-<yaml>
-{{yaml}}
-</yaml>
-
-For each entry in YAML, translate the content of the \"{{imt_source_field}}\" field to {{to}}. Write the translation result back to the \"{{imt_source_field}}\" field of each entry.
-
-Here is an example of the expected format:
-
-{{normal_result_yaml_example}}
-
-Please return the translated YAML directly, without adding any extra tags.",
-          "subtitlePrompt": "You will translate the \"{{imt_sub_source_field}}\" field in a set of YAML formatted video subtitles to {{to}}. Below is the original subtitles in YAML format:
-
-<yaml_subtitles>
-{{yaml}}
-</yaml_subtitles>
-
-Please only translate the \"{{imt_sub_source_field}}\" field in each subtitle entry to Simplified Chinese. Do not translate or change the \"id\" field.
-
-Output the translated subtitles in the same YAML format, with each subtitle entry on a separate line. The \"id\" field should remain unchanged, and the \"{{imt_sub_source_field}}\" field should contain your {{to}} translation result.
-
-Please return the translated YAML directly, without adding any extra tags."
-        }
-        ]
-      }
-    }
-  ...
-}
-```
-
-## Advanced Customization Options in Practice
-
-### Practical Tips
-
-This section will introduce some plug-and-play, easy-to-follow configurations.
-
-Copy these configurations with one click, open [Developer Settings](https://dash.immersivetranslate.com/#developer), expand `Edit Full User Config`, and paste it as the last item. Remember not to forget to add a comma to the previous item, and the last item cannot have a comma.
-
-#### Too many unusable translation services, how to display only usable translation services in the plugin panel?
-
-```json
-  "showUnconfiguredTranslationServiceInPopup": false
-```
-
-#### How to make different sites select different translation services by default? For example, for some websites I want better translation quality that costs money, while for others I only need free translation that is understandable.
-
-Look, this configuration is called Translation Service. It has configured Google Translate to be used for all translations related to Twitter sites because `google` translate is free, and Twitter is for browsing, so it just needs to be understandable.
-
-Look closely, it has also configured the `deepl` translation service. It makes `deepl` specifically translate academic websites like `scihub` which have low fault tolerance and require high precision.
-
-```json
-  "translationServices": {
-    "google": {
-      "matches":["https://twitter.com"]
-    },
-    "deepl": {
-      "matches":["https://www.sci-hub.se"]
-    }
-  }
-```
-
-> ⚠️ Please note that if you wish to translate all websites belonging to the same domain, simply using _.twitter.com or https://twitter.com/ is invalid. The correct approach should follow the example shown above. This is because _.twitter.com can only match subdomains like xxx.twitter.com, but not the top-level domain itself.
-
-### Website Adaptation Cases
-
-This section will introduce some `rules` that the plugin itself has for common websites, to understand advanced customization options through practical examples. For simplicity, only the most commonly used fields will be introduced here, such as `selectors`, `excludeSelectors`, etc. If you are interested in this part, please contact us, and we will continue to update relevant content.
-
-Before we begin, a very crucial thing is the working principle of the Immersive Translate plugin, which is also the working principle of a plugin. Before this, you need to have a certain foundation in `HTML`, `CSS`, and `JavaScript`. Related basics can be learned on the `MDN` website. Okay, without further ado, let's delve into the internals of Immersive Translate. Simply put, the working mechanism of a plugin is to inject third-party scripts into the webpage. These scripts can freely modify the webpage structure, style, and even behavior.
-
-Our Immersive Translate plugin is no exception. Let's briefly analyze what Immersive Translate does:
-
-- Get the set of elements to be translated.
-- Translate the text in the set of elements.
-- Insert the translation result into the set of elements.
-
-Okay, but if you think about it more carefully, two questions will naturally arise:
-
-- We also need to determine which elements need to be translated. If everything is translated, it will often destroy the user's immersive experience, such as some simple and clear buttons or navigation bars.
-- Inserting the translation result into the set of elements also brings a new challenge: how to ensure that the inserted result is consistent with the native webpage and does not affect the style of the native webpage.
-
-The core of our `Rules` is to solve the above two problems. Because as a plugin, Immersive Translate faces all webpages on the market, which may add up to hundreds of thousands, or even millions of webpages. The page structures and technologies used by these webpages are also very different. Due to the differences in webpages, a universal logic is almost impossible. It is difficult to find a set of universal logic that can adapt to all website content. In this way, the solution seems to be to adapt each website individually. Then, to make adaptation more convenient, we used the idea of configuration as code, transforming the adaptation work into the work of configuring fields. Another advantage of this is that users can also participate in the adaptation work.
-
-At the same time, when configuring, it is best not to directly use the following fields, as this will overwrite the original configuration items. Instead, use fields like `selector.add` and `excludeSelector.add` to modify on the basis of the original configuration items in an inherited manner.
-
-Next, we will introduce Immersive Translate's adaptation work for sites.
-
-Below are the Rules for Twitter. For simplicity, we will focus on a few key fields. The remaining fields can be understood in conjunction with the `Rules` in the previous text.
+Below is a sample of the built-in Twitter rule, demonstrating typical use of `selectors` / `excludeSelectors` / `globalStyles`:
 
 ```json
 [
@@ -665,7 +206,6 @@ Below are the Rules for Twitter. For simplicity, we will focus on a few key fiel
       "https://platform.twitter.com/embed*"
     ],
     "selectors": [
-      // Specify the elements to be translated; only elements matched by the selector will be translated
       "[data-testid=\"tweetText\"]",
       ".tweet-text",
       ".js-quoted-tweet-text",
@@ -680,7 +220,6 @@ Below are the Rules for Twitter. For simplicity, we will focus on a few key fiel
       "[data-testid='birdwatch-pivot'] div[dir=ltr]"
     ],
     "excludeSelectors": [
-      // Elements selected by CSS selectors that will not be translated
       "[aria-describedby][role=button]",
       "header",
       "[data-testid='radioGroupplayback_rate'] div",
@@ -689,7 +228,6 @@ Below are the Rules for Twitter. For simplicity, we will focus on a few key fiel
       "[class='css-175oi2r r-1wbh5a2 r-dnmrzs']"
     ],
     "globalStyles": {
-      // Global styles, forcibly override original styles
       "[data-testid='card.layoutLarge.detail'] > div:nth-child(2)": "-webkit-line-clamp: unset;",
       "[data-testid='card.layoutSmall.detail'] > div:nth-child(2)": "-webkit-line-clamp: unset;",
       "[data-testid='tweetText']": "-webkit-line-clamp: unset;"
@@ -698,115 +236,361 @@ Below are the Rules for Twitter. For simplicity, we will focus on a few key fiel
 ]
 ```
 
-- `selector`: Specifies the set of elements to be translated.
+- `selectors`: Only translates core tweet content, avoids translating usernames/buttons.
+  ![tweet](https://s.immersivetranslate.com/assets/r2-uploads/tweet.png)
+- `excludeSelectors`: Exclude buttons, navigation, and other interactive elements.
+  ![twitter-follow](https://s.immersivetranslate.com/assets/r2-uploads/twitter-follow.png)
+- `globalStyles`: Remove line limit to prevent translated content from being truncated.
+  ![twitterUser](https://s.immersivetranslate.com/assets/r2-uploads/twitterUser.png)
 
-  Why is this field needed?
+## Custom Site Adaptation
 
-  - Because not all elements have text and need to be translated, providing such a field can ensure both performance and the user's immersive experience.
+You can reuse built-in rules via `id`, and incrementally modify using `.add/.remove`:
 
-  Example:
-
-  - In Twitter, if we don't specify `selector`, it will translate all text recognized as English on the page. As shown in the figure below, user nicknames often do not need to be translated.
-
-  ![User Profile](twitterUser.png)
-
-  Field Meaning:
-
-  ```
-      "selectors": [ // Collection of CSS selectors to be translated
-      "[data-testid=\"tweetText\"]",
-    ]
-  ```
-
-  Each item in the array here is a CSS selector used to select the elements on the page that need to be translated. Here we take the first selector as an example. As shown in the figure below, the first selector hits all tweet elements.
-
-  ![tweet](tweet.png)
-
-- `excludeSelectors`: Collection of elements that will not be translated.
-
-  Why is this field needed?
-
-  - Because a translate-only selector is not enough. It may happen that matched elements do not need to be translated, meaning there might be an overlap between the two. Therefore, another field needs to be set to exclude elements that do not need to be translated.
-  - Because the page structure is very complex, providing these two configuration items makes the configuration more flexible.
-  - The relevant priority is: for selectors of equal specificity, `selectors` > `excludeSelectors`. The rest depends on CSS priority for comparison.
-
-  Field Meaning:
-
-  ```
-      "excludeSelectors": [ // Elements selected by CSS selectors that will not be translated
-      "[aria-describedby][role=button]",
-    ],
-  ```
-
-  Still looking at the first one, here we have excluded the translation of the follow button.
-  ![twitter-follow](twitter-follow.png)
-
-- `globalStyles`: Add global styles, forcibly overriding the original styles.
-
-  Why is this field needed?
-
-  - In some cases, due to the relevant CSS styles of the original webpage, the overall translation display effect may not be very good, with issues like truncation, no line breaks, etc.
-  - This field provides a brute-force solution to directly modify the CSS properties of the native webpage to solve the problem.
-
-  Field Meaning:
-
-  ```
-        "globalStyles": {
-      // Global styles, forcibly override original styles
-      "[data-testid='card.layoutLarge.detail'] > div:nth-child(2)": "-webkit-line-clamp: unset;",
-      "[data-testid='card.layoutSmall.detail'] > div:nth-child(2)": "-webkit-line-clamp: unset;",
-      "[data-testid='tweetText']": "-webkit-line-clamp: unset;"
-    }
-  ```
-
-  The `-webkit-line-clamp` property is used to control the number of lines displayed; excess lines will be truncated. Setting it to `unset` here ensures that the translated text will not be truncated by this property.
-
-### Custom Website Adaptation
-
-Regarding adaptation rules, of course, you can also customize rules. Go to the plugin options page, click [Developer Settings](https://dash.immersivetranslate.com/#developer), expand `Edit User Rules`, and perform custom adaptation for various websites here. The following explains with actual rules.
-
-```
+```json
 [
   {
-    "selectors.remove": [
-      "[data-testid=\"tweetText\"]"
-    ],
-    "selectors.add": [
-      ""
-    ],
-    "excludeSelectors.add":[
-      ""
-    ],
-    "excludeSelectors.remove":[
-      ""
-    ],
-    "id": "twitter"
+    "id": "twitter",
+    "selectors.remove": ["[data-testid=\"tweetText\"]"],
+    "selectors.add": ["[data-testid=\"tweetText\"] a"],
+    "excludeSelectors.add": ["header"],
+    "excludeSelectors.remove": []
   }
 ]
 ```
 
-This rule will prevent tweets on the Twitter page from being translated. The meaning of the fields is detailed below.
+Explanation:
+- `id` can inherit built-in rules to avoid duplicating `matches`.
+- `.add/.remove` is recommended for updating array fields incrementally.
 
-`id` is a collection of relevant websites that Immersive Translate has currently defined. Each `id` corresponds to relevant sites. There are two benefits of using `id`:
+Common built-in `id`s (partial):
+- `isEbook`: epub reader pages
+- `isEbookBuilder`: generate epub bilingual book pages
+- `pdf`: PDF bilingual pages
 
-- Using `id` can inherit Immersive Translate's previous adaptation rules, and users can add or delete on this basis.
-- Using `id` eliminates the need to write tedious matching fields.
+Full built-in rules:
+- `https://github.com/immersive-translate/next-immersive-translate/blob/main/docs/buildin_config.json`
 
-Below are some common `id`s for Immersive Translate's built-in services:
+## Translation Service Configuration
 
-- `"isEbook"`: Configuration for epub reader pages.
-- `"isEbookBuilder"`: Configuration for generating bilingual epub book pages.
-- `"pdf"`: Configuration for PDF bilingual comparison translation pages.
+- `translationService`: Default translation engine.
+- `translationServices`: Service configuration and site overrides.
+- `showUnconfiguredTranslationServiceInPopup`: Hide unconfigured services.
 
-The complete `id` collection can be found in [Developer Settings](https://dash.immersivetranslate.com/#developer), under `Click to expand the final config`.
+Example (Tencent):
 
-`selectors` is responsible for specifying the CSS selectors to be translated. It is recommended to use sub-items `.add` and `.remove` to add or delete on the original basis.
+```json
+{
+  "translationService": "tencent",
+  "translationServices": {
+    "tencent": {
+      "secretId": "xxx",
+      "secretKey": "xxx",
+      "matches": ["twitter.com"],
+      "limit": 3,
+      "maxTextGroupLengthPerRequest": 25,
+      "maxTextLengthPerRequest": 1800,
+      "apiUrl": ""
+    }
+  }
+}
+```
 
-`excludeSelectors` is responsible for excluding CSS selectors that do not need to be translated. It is recommended to use sub-items `.add` and `.remove` to add or delete on the original basis.
+Explanation:
+- `matches` specifies which sites use this service.
+- `limit` is rate limiting (requests per second).
+- `maxTextGroupLengthPerRequest` / `maxTextLengthPerRequest` control each request's size.
+- `apiUrl` allows custom service endpoints.
 
-**More Explanation**
+### Request Timeout Setting (Max Request Duration)
 
-The difference between Block and inline, if you want to learn more, you can look [here](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements#inline).
+You can set request timeout per service (in ms). If using a Pro service, you can set `proRequestTimeout` separately.
 
-- Block elements will occupy a full line, and multiple adjacent block elements will each start on a new line.
-- Inline elements will not occupy a full line; multiple adjacent inline elements will be arranged on the same line until the line cannot accommodate more, then they will wrap to a new line.
+```json
+{
+  "translationServices": {
+    "openai": {
+      "requestTimeout": 60000
+    },
+    "gemini": {
+      "proRequestTimeout": 90000
+    }
+  }
+}
+```
+
+Tips:
+- Too long timeout may lead to long waits; too short may cause frequent timeouts.
+- Default value varies by service; see the final config.
+- `proRequestTimeout` is only effective when `provider` is `pro` (e.g., premium translation services).
+
+## Language & Translation Strategy
+
+### Always Translate / Never Translate Languages
+
+```json
+{
+  "translationLanguagePattern": {
+    "matches": ["en"],
+    "excludeMatches": ["zh"]
+  }
+}
+```
+
+### Specify Source Language for Certain Sites
+
+```json
+{
+  "sourceLanguageUrlPattern": {
+    "en": {
+      "matches": ["*.google.com"]
+    }
+  }
+}
+```
+
+## Other Common Global Configurations
+
+### Allow Rendering HTML Tags
+
+Enable to allow translated content to retain and render HTML tags:
+
+```json
+{
+  "enableRenderHtmlTag": true
+}
+```
+
+## Translation Styles & Themes
+
+Supported values for `translationTheme` (subject to final config):
+
+```text
+none, grey, dashed, dashedBorder, solidBorder, dotted, underline, mask, opacity,
+paper, dividingLine, highlight, marker, marker2, blockquote, weakening, italic,
+bold, thinDashed, nativeDotted, wavy, nativeDashed, nativeUnderline, background
+```
+
+Set style per site:
+
+```json
+{
+  "translationThemePatterns": {
+    "highlight": {
+      "matches": ["discord.com"]
+    }
+  }
+}
+```
+
+## AI / Advanced Service Parameters
+
+### temperature
+
+```json
+{
+  "translationServices": {
+    "openai": {
+      "temperature": 0.2
+    }
+  }
+}
+```
+
+### Custom Request Header and Body
+
+```json
+{
+  "translationServices": {
+    "claude": {
+      "headerConfigs": {
+        "anthropic-version": "2023-06-01",
+        "anthropic-dangerous-direct-browser-access": "true"
+      },
+      "bodyConfigs": {
+        "max_tokens": 2048
+      }
+    }
+  }
+}
+```
+
+### How to Customize for Gemini Models
+
+Gemini models have built-in defaults. To override them, use `modelsOverrides`:
+
+```json
+{
+  "translationServices": {
+    "gemini": {
+      "modelsOverrides": [
+        {
+          "models": ["gemini-2.5-flash", "gemini-2.5-flash-lite"],
+          "bodyConfigs": {
+            "temperature": 0.1
+          }
+        }
+      ]
+    }
+  }
+}
+```
+
+Tip: `modelsOverrides` also works for other AI services; it overrides configs on model name match.
+
+### Strictly Follow Custom Prompts
+
+> To reduce "hallucinations" by LLMs, the extension has a translation quality validation. It checks the token ratio between response and request text as a translation correctness check. If the ratio is abnormal (too high or too low), the result is considered invalid and the next service is attempted.
+> If your custom prompt is for non-translation tasks (e.g., rewriting, polishing, or instruction), the token ratio may not meet the expected standard. You can enable strictPrompt mode to skip the ratio check.
+
+```json
+{
+  "translationServices": {
+    "claude": {
+      "strictPrompt": true
+    }
+  }
+}
+```
+
+### Custom Multilingual Prompts (Example)
+
+```json
+{
+  "translationServices": {
+    "openai": {
+      "langOverrides": [
+        {
+          "id": "auto2ja",
+          "systemPrompt": "あなたはプロの翻訳エンジンです。",
+          "prompt": "次のテキストを{{to}}に翻訳してください：\n\n<text>\n{{text}}\n</text>",
+          "multiplePrompt": "<yaml>\n{{yaml}}\n</yaml>",
+          "subtitlePrompt": "<yaml_subtitles>\n{{yaml}}\n</yaml_subtitles>"
+        }
+      ]
+    }
+  }
+}
+```
+
+## Terminology & Machine Translation
+
+Latest [AI Terminology](https://dash.immersivetranslate.com/#terms) feature is supported, only effective for AI services.
+
+Machine translation does not use terminology by default (machine translation typically uses placeholders, which can lower quality). To force enable (not recommended):
+
+```json
+{
+  "enableMachineTranslateTerms": true
+}
+```
+
+## Cache Cleaning Cycle
+
+The extension cleans translation cache automatically every 30 days to avoid performance issues from excessive cache.
+
+```json
+{
+  "cacheMaxAgeDay": 30
+}
+```
+
+## Injected CSS vs. globalStyles
+
+- Injected CSS: Global CSS injection, good for site-wide fixes.
+- globalStyles: Rule-level style override, good for site-specific fixes.
+
+Injected CSS example:
+
+```css
+.immersive-translate-target-wrapper img {
+  width: 16px;
+  height: 16px;
+}
+```
+
+## Troubleshooting & Common Pitfalls
+
+- `*.twitter.com` does NOT include the root domain; include `twitter.com` separately.
+- `selectors` will overwrite default translation range; prefer `.add/.remove` when possible.
+- A `matches` pattern like `example.com/path` will be evaluated as a wildcard pattern. Make sure if you need full URL matching.
+- If configuration is ineffective: first check the final merged config, then refresh the page.
+- A trailing comma in JSON will cause the config to be ignored.
+
+## Appendix: Rule Field Reference
+
+This is a reference for Rule fields (document version), covering common fields. For full/latest fields, check the final config.
+Tip: For array/object fields, you may use `.add` / `.remove` for incremental modifications to avoid overwriting defaults.
+
+```typescript
+export interface Rule {
+  // Website matching
+  id?: string; // Built-in Rule ID, use to reuse built-in rules
+  matches?: string | string[]; // Only match these sites
+  excludeMatches?: string | string[]; // Exclude specific sites
+  selectorMatches?: string | string[]; // Match by selector instead of URL
+  excludeSelectorMatches?: string | string[]; // Exclude by selector, same as above
+
+  // Translation range
+  selectors?: string | string[]; // Only translate matched elements
+  excludeSelectors?: string | string[]; // Excluded elements will NOT be translated
+  excludeTags?: string | string[]; // Excluded tag names will NOT be translated
+
+  // Additional translation range (if not effective, use selectors.add / selectors.remove)
+  additionalSelectors?: string | string[]; // Additional translation range
+  additionalExcludeSelectors?: string | string[]; // Additional excluded elements
+  additionalExcludeTags?: string | string[]; // Additional excluded tags (may be deprecated in some versions)
+
+  // Keep original
+  stayOriginalSelectors?: string | string[]; // Matched elements remain unchanged
+  stayOriginalTags?: string | string[]; // Matched tags remain unchanged (e.g., code)
+
+  // Block or Inline
+  extraBlockSelectors?: string | string[]; // Treat matched elements as block
+  extraInlineSelectors?: string | string[]; // Treat matched elements as inline
+  inlineTags?: string | string[]; // Treat matched tags as inline
+  preWhitespaceDetectedTags?: string | string[]; // Auto line break for matched tags
+
+  // Translation style
+  translationClasses?: string | string[]; // Add extra class(es) to translated content
+
+  // Global styles
+  globalStyles?: Record<string, string>; // Modify page styles
+  globalAttributes?: Record<string, Record<string, string | null>>; // Modify element attributes
+
+  // Injected styles
+  injectedCss?: string | string[]; // Embedded CSS
+  additionalInjectedCss?: string | string[]; // Additional CSS to inject
+
+  // Context
+  wrapperPrefix?: string; // Prefix for translation container
+  wrapperSuffix?: string; // Suffix for translation container
+
+  // Line break configuration for translation
+  blockMinTextCount?: number; // Minimum character count to treat as block
+  blockMinWordCount?: number; // Minimum word count to treat as block
+
+  // Minimum content length to allow translation
+  containerMinTextCount?: number; // Minimum chars for the element to be recognized
+  paragraphMinTextCount?: number; // Minimum chars for a paragraph
+  paragraphMinWordCount?: number; // Minimum words for a paragraph
+
+  // Line-breaking for long paragraphs
+  lineBreakMaxTextCount?: number; // Max chars per line for forced breaking
+
+  // When to trigger translation
+  urlChangeDelay?: number; // Delay translation after entering page
+  observeUrlChange?: boolean; // Retranslate when URL changes
+
+  // Mobile
+  isShowUserscriptPagePopup?: boolean; // Show page popup on mobile
+  fingerCountToToggleTranslagePageWhenTouching?: number; // Deprecated
+
+  // AI streaming translation
+  aiRule?: {
+    streamingSelector: string; // Selector for elements being translated
+    messageWrapperSelector: string; // Selector for message content
+    streamingChange: boolean; // Whether it's real-time incremental update
+  };
+}
+```
