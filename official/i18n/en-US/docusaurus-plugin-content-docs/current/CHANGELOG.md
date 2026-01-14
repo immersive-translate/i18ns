@@ -16,7 +16,15 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.24.6 Preview (2025-12-31)
+## 1.25.1 Preview (2026-01-14)
+
+- Added: Support for the Grok model, providing more translation options.
+- Fixed: Sidebar display issues in some browsers, improving compatibility and stability.
+- Improved: iOS Safari extension and app now synchronize region switching for a more seamless experience.
+- Improved: Further enhanced compatibility for online PDF document translation across more scenarios.
+- Improved: Webpage translation results now better retain the original site's interaction and visual effects for consistency.
+
+## 1.24.6 Release (2025-12-31)
 
 - Fixed: In certain environments, the sidebar could not be triggered; improved interaction stability.
 - Fixed: DingTalk, WeChat, and other third-party platform accounts were unable to log in due to iframe communication interference.
