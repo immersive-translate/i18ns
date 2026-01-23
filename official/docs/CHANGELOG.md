@@ -16,6 +16,12 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.25.2 Preview (2026-01-23)
+
+- 优化：提升动态网页内容翻译流畅度和稳定性，增强多场景体验。
+- 优化：【划词翻译】播放语音时优先选择高质量语音，提升朗读效果。
+- 优化：悬浮球交互升级，提供更多自定义选项。
+
 ## 1.25.1 Preview (2026-01-14)
 
 - 新增：支持 Grok 模型，拓展更多翻译选择。

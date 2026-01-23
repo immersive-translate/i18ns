@@ -16,6 +16,12 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.25.2 Preview (2026-01-23)
+
+- 優化：提升動態網頁內容翻譯的流暢度與穩定性，增強多場景體驗。
+- 優化：【劃詞翻譯】播放語音時優先選擇高品質語音，提升朗讀效果。
+- 優化：升級浮動球互動體驗，提供更多自訂選項。
+
 ## 1.25.1 Preview (2026-01-14)
 
 - 新增：支援 Grok 模型，拓展更多翻譯選項。

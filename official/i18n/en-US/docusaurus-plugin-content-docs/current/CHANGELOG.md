@@ -16,6 +16,12 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.25.2 Preview (2026-01-23)
+
+- Improved: Enhanced the fluency and stability of dynamic webpage content translation, providing a better experience across multiple scenarios.
+- Improved: [Text Selection Translation] Now prioritizes high-quality voices when playing audio, offering better text-to-speech effects.
+- Improved: Upgraded floating ball interaction, providing more customization options.
+
 ## 1.25.1 Preview (2026-01-14)
 
 - Added: Support for the Grok model, providing more translation options.
