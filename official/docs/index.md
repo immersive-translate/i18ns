@@ -40,7 +40,7 @@ title: 介绍
 - 扫描下面二维码，添加官方客服微信
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-contact-com.png?v=1" width="200" alt="qq" />
 </div>
 
 ## 目录
@@ -106,7 +106,7 @@ title: 介绍
 - 扫描下面二维码，添加官方客服微信，帮忙解答用户的疑问：
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-contact-com.png?v=1" width="200" alt="qq" />
 </div>
 
 - 扫描下面二维码，关注官方微信公众号：

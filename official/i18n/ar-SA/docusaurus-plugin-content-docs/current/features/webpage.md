@@ -49,5 +49,5 @@ sidebar_position: 1
 هذه هي العمليات الرئيسية لترجمة صفحات الويب. إذا كان لديك أي أسئلة، يمكنك مسح رمز QR أدناه للانضمام إلى مجموعة WeChat الرسمية للاستشارة المباشرة:
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-contact-com.png?v=1" width="200" alt="qq" />
 </div>

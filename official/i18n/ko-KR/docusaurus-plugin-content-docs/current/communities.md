@@ -16,11 +16,11 @@ sidebar_position: 5
 - 아래 QR 코드를 스캔하여 공식 위챗 교류 그룹에 가입하세요.
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="300" alt="qq"/>
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-contact-com.png?v=1" width="300" alt="qq"/>
 </div>
 
 - 아래 QR 코드를 스캔하여 위챗 공식 계정에 가입하세요.
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="300" alt="wechat"/>
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-qrcode.png?v=1" width="300" alt="wechat"/>
 </div>

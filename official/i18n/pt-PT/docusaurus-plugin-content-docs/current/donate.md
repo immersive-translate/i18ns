@@ -30,7 +30,7 @@ Você ainda pode fazer estas coisas para nos ajudar agora:
 - Escaneie o código QR abaixo para seguir o número público oficial do WeChat:
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-qrcode.png?v=1" width="200" alt="wechat"/>
 </div>
 
 ## Uma nota mais longa

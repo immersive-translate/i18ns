@@ -49,5 +49,5 @@ sidebar_position: 1
 Это основные операции для перевода веб-страниц. Если у вас есть вопросы, отсканируйте QR-код ниже, чтобы присоединиться к официальной группе WeChat для прямой консультации:
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-contact-com.png?v=1" width="200" alt="qq" />
 </div>

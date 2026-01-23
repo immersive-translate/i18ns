@@ -24,13 +24,13 @@ sidebar_position: 10
 - 下記の QR コードをスキャンし、公式 WeChat グループに参加してユーザーの質問に答える：
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq"/>
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-contact-com.png?v=1" width="200" alt="qq"/>
 </div>
 
 - 下記の QR コードをスキャンし、公式 WeChat アカウントをフォローする：
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-qrcode.png?v=1" width="200" alt="wechat"/>
 </div>
 
 ## より長い説明

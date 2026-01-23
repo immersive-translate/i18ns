@@ -49,5 +49,5 @@ sidebar_position: 1
 网页翻译的主要操作就是上面这些了，如果还有疑问的话，可以扫描下面二维码，添加官方客服微信直接咨询：
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-contact-com.png?v=1" width="200" alt="qq" />
 </div>

@@ -49,5 +49,5 @@ sidebar_position: 1
 이상이 웹페이지 번역의 주요 조작법입니다. 문의사항이 있으시면, 아래 QR 코드를 스캔하여 공식 WeChat 그룹에 가입하여 직접 문의하세요:
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-contact-com.png?v=1" width="200" alt="qq" />
 </div>

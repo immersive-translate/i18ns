@@ -56,7 +56,7 @@ sidebar_position: 2
 以上就是使用沉浸式翻译进行网页双语翻译的方法。还有疑问？请扫描下面二维码，添加官方客服微信咨询：
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-contact-com.png?v=1" width="200" alt="qq" />
 </div>
 
 ## Youtube 双语字幕
@@ -279,7 +279,7 @@ Pro 版图片翻译利用了服务端的文本识别处理能力，支持**沉�
 - 扫描下面二维码，添加官方客服微信：
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq" />
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-contact-com.png?v=1" width="200" alt="qq" />
 </div>
 
 ## 了解更多

@@ -24,13 +24,13 @@ If you have any actual textual content in Chinese that you need translated into 
 - Отсканируйте QR-код ниже, чтобы присоединиться к официальной группе WeChat и помочь отвечать на вопросы пользователей:
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq"/>
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-contact-com.png?v=1" width="200" alt="qq"/>
 </div>
 
 - Отсканируйте QR-код ниже, чтобы подписаться на официальный аккаунт WeChat:
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-qrcode.png?v=1" width="200" alt="wechat"/>
 </div>
 
 ## Более подробное объяснение

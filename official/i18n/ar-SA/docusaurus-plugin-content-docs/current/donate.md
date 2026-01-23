@@ -30,7 +30,7 @@ sidebar_position: 10
 - امسح رمز الاستجابة السريعة أدناه لمتابعة الرقم العام الرسمي لـ WeChat:
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-qrcode.png?v=1" width="200" alt="wechat"/>
 </div>
 
 ## ملاحظة أطول

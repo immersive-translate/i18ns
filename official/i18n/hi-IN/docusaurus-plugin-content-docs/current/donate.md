@@ -30,7 +30,7 @@ sidebar_position: 10
 - आधिकारिक WeChat सार्वजनिक नंबर का अनुसरण करने के लिए नीचे दिए गए QR कोड को स्कैन करें:
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-qrcode.png?v=1" width="200" alt="wechat"/>
 </div>
 
 ## एक लंबा नोट

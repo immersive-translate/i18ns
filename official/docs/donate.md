@@ -24,13 +24,13 @@ sidebar_position: 10
 - 扫描下面二维码，添加官方客服微信帮忙解答用户的疑问：
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq"/>
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-contact-com.png?v=1" width="200" alt="qq"/>
 </div>
 
 - 扫描下面二维码，关注官方微信公众号：
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-qrcode.png?v=1" width="200" alt="wechat"/>
 </div>
 
 ## 一个更长的说明

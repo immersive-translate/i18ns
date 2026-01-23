@@ -16,13 +16,13 @@ sidebar_position: 5
 - 扫描下面二维码，添加官方客服微信
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="286" alt="qq"/>
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-contact-com.png?v=1" width="286" alt="qq"/>
 </div>
 
 - 扫描下方二维码，关注微信公众号
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="322" alt="wechat"/>
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-qrcode.png?v=1" width="322" alt="wechat"/>
 </div>
 
 - [BabelDOC](https://app.immersivetranslate.com/babel-doc/) 相关问题可以扫描下方二维码，加入 BabelDOC 内测群

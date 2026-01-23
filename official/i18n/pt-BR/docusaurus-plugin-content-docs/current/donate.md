@@ -24,13 +24,13 @@ Você ainda pode nos ajudar das seguintes formas:
 - Leia o QR code abaixo para entrar no grupo de troca oficial do WeChat e ajudar a responder às perguntas dos usuários:
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/assets/r2-uploads/wechat-contact4.png" width="200" alt="qq"/>
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-contact-com.png?v=1" width="200" alt="qq"/>
 </div>
 
 - Leia o QR code abaixo para entrar no número público oficial do WeChat:
 
 <div align="center">
-<img src="https://s.immersivetranslate.com/static/official-static/assets/wechat-qrcode.jpg" width="200" alt="wechat"/>
+<img src="https://s.immersivetranslate.com/assets/uploads/wechat-qrcode.png?v=1" width="200" alt="wechat"/>
 </div>
 
 ## Uma nota mais longa
