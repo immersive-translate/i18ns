@@ -16,6 +16,11 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.25.3 Preview (2026-01-26)
+
+- Improved: Compatibility with the Steam client.
+- Added: Support for Tencent Hunyuan model HY-2.0-Instruct.
+
 ## 1.25.2 Preview (2026-01-23)
 
 - Improved: Enhanced the fluency and stability of dynamic webpage content translation, providing a better experience across multiple scenarios.

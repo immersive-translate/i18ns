@@ -16,6 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.25.3 Preview (2026-01-26)
+
+- 优化：兼容 Steam 客户端。
+- 新增：支持腾讯混元模型 HY-2.0-Instruct。
+
 ## 1.25.2 Preview (2026-01-23)
 
 - 优化：提升动态网页内容翻译流畅度和稳定性，增强多场景体验。
