@@ -16,6 +16,15 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.26.1 Preview (2026-02-04)
+
+- 優化：【輸入框翻譯】減少誤觸發，提升輸入體驗。
+- 優化：【輸入框翻譯】長文本翻譯提示彈窗支援「不再提示」選項。
+- 優化：DeepL 翻譯服務支援更多語言。
+- 優化：低版本 macOS 的圖示相容性。
+- 優化：右對齊語言排版優化。
+- 修復：【僅譯文】字體樣式設定無效的問題。
+
 ## 1.25.3 Release (2026-01-26)
 
 - 優化：相容 Steam 客戶端。

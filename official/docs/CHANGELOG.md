@@ -16,6 +16,13 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.26.1 Preview (2026-02-04)
+
+- 优化：【输入框翻译】减少误触发，提升输入体验。
+- 优化：【输入框翻译】长文本翻译提示弹窗支持“不再提示”选项。
+- 优化：右对齐语言排版优化。
+- 修复：【仅译文】字体样式设置无效的问题。
+
 ## 1.25.3 Release (2026-01-26)
 
 - 优化：兼容 Steam 客户端。
