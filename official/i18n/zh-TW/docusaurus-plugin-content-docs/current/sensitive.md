@@ -59,5 +59,5 @@ sidebar_position: 7
 ## 注意事項
 
 - 本功能目前處於 **Beta 測試階段**，可能會存在識別不準確或脫敏失敗的情況
-- 如果您遇到脫敏失敗或識別錯誤的問題，歡迎在 [GitHub Issues](https://github.com/funstory-ai/aifw/issues) 提交問題反饋，我們會持續迭代優化
+- 如果您遇到脫敏失敗或識別錯誤的問題，歡迎在 [GitHub Issues](https://github.com/funstory-ai/aifw/issues) 提交意見回饋，我們會持續迭代優化
 

@@ -20,7 +20,7 @@ sidebar_position: 3
 
 <img src="https://s.immersivetranslate.com/assets/preview.jpeg" alt="drafts" />
 
-發布後，你也可以掃描二維碼在手機上檢視，或者，分享到你喜歡的平臺。
+發布後，你也可以掃描 QR-code 在手機上檢視，或者，分享到你喜歡的平臺。
 
 ## 其他觸發方式
 

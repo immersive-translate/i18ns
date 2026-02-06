@@ -46,7 +46,7 @@ sidebar_position: 1
 
 點擊沉浸式翻譯圖示，打開擴展功能面板，使用翻譯按鈕左側的按鈕在僅譯文和雙語對照模式之間切換。
 
-以上是網頁翻譯的主要操作，如有問題，可掃描下方二維碼聯繫客服微信直接諮詢：
+以上是網頁翻譯的主要操作，如有問題，可掃描下方 QR-code 聯繫客服微信直接諮詢：
 
 <div align="center">
 <img src="https://s.immersivetranslate.com/assets/uploads/wechat-contact-com.png?v=1" width="200" alt="qq" />
