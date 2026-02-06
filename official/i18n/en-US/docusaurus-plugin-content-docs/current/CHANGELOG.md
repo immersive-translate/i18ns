@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.26.1 Preview (2026-02-04)
+## 1.26.2 Preview (2026-02-06)
 
 - Improved: [Input translation] Reduced unintentional triggers for a better typing experience.
 - Improved: [Input translation] The long-text translation prompt now supports a "Do not show again" option.

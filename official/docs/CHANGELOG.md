@@ -16,7 +16,7 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
-## 1.26.1 Preview (2026-02-04)
+## 1.26.2 Preview (2026-02-06)
 
 - 优化：【输入框翻译】减少误触发，提升输入体验。
 - 优化：【输入框翻译】长文本翻译提示弹窗支持“不再提示”选项。
