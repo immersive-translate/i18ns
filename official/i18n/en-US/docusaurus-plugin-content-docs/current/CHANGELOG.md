@@ -19,7 +19,6 @@ The **Preview version** is published more frequently and includes some experimen
 ## 1.26.2 Preview (2026-02-06)
 
 - Improved: [Input translation] Reduced unintentional triggers for a better typing experience.
-- Improved: [Input translation] The long-text translation prompt now supports a "Do not show again" option.
 - Improved: DeepL translation service now supports more languages.
 - Improved: Icon compatibility on older versions of macOS.
 - Improved: RTL language layout optimization.
