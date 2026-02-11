@@ -16,7 +16,7 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
-## 1.26.2 Preview (2026-02-06)
+## 1.26.4 Release (2026-02-11)
 
 - 优化：【输入框翻译】减少误触发，提升输入体验。
 - 优化：DeepL 翻译服务支持更多语言。
