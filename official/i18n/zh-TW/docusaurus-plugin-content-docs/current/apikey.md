@@ -14,7 +14,7 @@
 8. [有道子曰大模型翻譯](./services/youdao-ziyue.md)
 9. [小牛翻譯](https://niutrans.com/documents/contents/beginning_guide/6)
 
-- [密鑰申請和配置教程](apikey.md)
+- [密鑰申請和設定教程](apikey.md)
   - [Deepl](./services/deepL.md)
   - [火山翻譯](./services/volcano.md)
   - [騰訊翻譯君](./services/tencent.md)

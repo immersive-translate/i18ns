@@ -4,13 +4,13 @@ sidebar_position: 4
 
 # 進階自訂選項
 
-本頁面面向具備一定 HTML/CSS/JSON 基礎的高級用戶。進階設定可以大幅提升適配能力，但也更容易產生「看似正確卻無效」的配置，建議編輯前先行備份。
+本頁面面向具備一定 HTML/CSS/JSON 基礎的高級用戶。進階設定可以大幅提升適配能力，但也更容易產生「看似正確卻無效」的設定，建議編輯前先行備份。
 
 ## 使用前須知
 
 - 入口請至 [開發者設定](https://dash.immersivetranslate.com/#developer)。
 - 編輯前請先備份 User Config / User Rules，以免格式錯誤導致設定被忽略。
-- 內建最終配置請以「Click to expand the final config」顯示為準（欄位、預設值、可用服務）。
+- 內建最終設定請以「Click to expand the final config」顯示為準（欄位、預設值、可用服務）。
 
 ## 入口與優先順序
 
@@ -436,7 +436,7 @@ bold, thinDashed, nativeDotted, wavy, nativeDashed, nativeUnderline, background
 }
 ```
 
-提示：`modelsOverrides` 亦適用於其他 AI 服務，依模型命中後會取代對應配置。
+提示：`modelsOverrides` 亦適用於其他 AI 服務，依模型命中後會取代對應設定。
 
 ### 嚴格遵循自訂提示詞
 
@@ -514,7 +514,7 @@ Injected CSS 範例：
 - `*.twitter.com` 不含根網域，請同時寫 `twitter.com`。
 - `selectors` 會覆蓋預設翻譯範圍，請優先用 `.add/.remove`。
 - `matches` 若寫為 `example.com/path` 會按萬用字元匹配，建議明確區分是否需要完整 URL。
-- 設定無效時：請先在最終配置確認合併結果，再刷新頁面。
+- 設定無效時：請先在最終設定確認合併結果，再刷新頁面。
 - JSON 結尾的多餘逗號會導致設定失效。
 
 ## 附錄：Rule 欄位參考
