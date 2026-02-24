@@ -17,7 +17,7 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 ## Translation into other languages
 
-`ja Enter English here` to translate to **Japanese**, and `fr Enter English here` to translate to **French**. Other languages are similar, please see all language codes below
+`/ja Enter English here` to translate to **Japanese**, and `/fr Enter English here` to translate to **French**. Other languages are similar, please see all language codes below
 
 ## Partial translation only
 

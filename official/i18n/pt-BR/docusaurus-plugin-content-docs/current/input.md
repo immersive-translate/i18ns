@@ -17,7 +17,7 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 ## Tradução para outros idiomas
 
-Digite `ja Enter English here` para traduzir para o **japonês** e `fr Enter English here` para traduzir para o **francês**. Outros idiomas seguem o mesmo padrão; consulte todos os códigos de idioma abaixo.
+Digite `/ja Enter English here` para traduzir para o **japonês** e `/fr Enter English here` para traduzir para o **francês**. Outros idiomas seguem o mesmo padrão; consulte todos os códigos de idioma abaixo.
 
 ## Tradução parcial
 

@@ -17,7 +17,7 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 ## Traduzione in altre lingue
 
-`ja Inserisci qui l'inglese` per tradurre in **giapponese**, e `fr Inserisci qui l'inglese` per tradurre in **francese**. Le altre lingue sono simili, si prega di vedere tutti i codici lingua qui sotto
+`/ja Inserisci qui l'inglese` per tradurre in **giapponese**, e `/fr Inserisci qui l'inglese` per tradurre in **francese**. Le altre lingue sono simili, si prega di vedere tutti i codici lingua qui sotto
 
 ## Solo traduzione parziale
 

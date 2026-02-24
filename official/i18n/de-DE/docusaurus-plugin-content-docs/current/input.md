@@ -17,7 +17,7 @@ src="https://s.immersivetranslate.com/videos/20240219input_usage_en.mp4"
 
 ## Übersetzung in andere Sprachen
 
-`ja Geben Sie hier Englisch ein` für die Übersetzung ins **Japanische** und `fr Geben Sie hier Englisch ein` für die Übersetzung ins **Französische**. Andere Sprachen sind ähnlich, bitte sehen Sie alle Sprachcodes unten
+`/ja Geben Sie hier Englisch ein` für die Übersetzung ins **Japanische** und `/fr Geben Sie hier Englisch ein` für die Übersetzung ins **Französische**. Andere Sprachen sind ähnlich, bitte sehen Sie alle Sprachcodes unten
 
 ## Teilweise Übersetzung nur
 
