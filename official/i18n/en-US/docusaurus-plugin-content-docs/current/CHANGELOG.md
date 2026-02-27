@@ -16,6 +16,11 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.26.5 Preview (2026-02-27)
+
+- Fixed: [Input field translation] Fixed an issue where language-code prefixes were translated by mistake (e.g. `hi hello` was translated to `नमस्ते`).
+- Fixed: Resolved an issue where extension status was not synced after upgrading membership in the Android Immersive Translate app.
+
 ## 1.26.4 Release (2026-02-11)
 
 - Improved: [Input translation] Reduced unintentional triggers for a better typing experience.
