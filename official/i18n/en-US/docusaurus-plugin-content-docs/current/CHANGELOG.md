@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.26.6 Preview (2026-03-02)
+## 1.26.6 Release (2026-03-02)
 
 - Added: Support for subtitle translation in YouTube live streams.
 - Fixed: [Input field translation] Fixed an issue where language-code prefixes were translated by mistake (e.g. `hi hello` was translated to `नमस्ते`).
