@@ -16,8 +16,9 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
-## 1.26.5 Preview (2026-02-27)
+## 1.26.6 Preview (2026-03-02)
 
+- 新增：支援 YouTube 直播字幕翻譯。
 - 修復：【輸入框翻譯】語言代碼前綴被誤翻譯的問題（例如 `hi hello` 被誤翻譯為 `नमस्ते`）。
 - 修復：Android 沉浸式翻譯 App 升級會員後，外掛狀態未同步的問題。
 
