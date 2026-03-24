@@ -16,6 +16,12 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.27.1 Preview (2026-03-24)
+
+- 优化：提升了免费 AI 翻译服务的表现与稳定性。
+- 优化：增强了韩语和日语翻译场景中 AI 上下文理解能力，提升翻译质量。
+- 新增：谷歌翻译服务现已支持塔马齐格特语（Tamazight）。
+
 ## 1.26.6 Release (2026-03-02)
 
 - 新增：支持 YouTube 直播的字幕翻译。

@@ -16,6 +16,12 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.27.1 Preview (2026-03-24)
+
+- Improved: Enhanced performance and stability of the free AI translation service.
+- Improved: Boosted AI contextual understanding in Korean and Japanese translation scenarios, resulting in higher translation quality.
+- Added: Google Translate now supports the Tamazight language.
+
 ## 1.26.6 Release (2026-03-02)
 
 - Added: Support for subtitle translation in YouTube live streams.
