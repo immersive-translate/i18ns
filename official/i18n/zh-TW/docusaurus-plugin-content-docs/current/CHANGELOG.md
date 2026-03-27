@@ -16,11 +16,13 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
-## 1.27.1 Preview (2026-03-24)
+## 1.27.2 Release (2026-03-27)
 
 - 優化：提升了免費 AI 翻譯服務的表現與穩定性。
 - 優化：加強了韓語及日語翻譯場景中 AI 的上下文理解能力，進一步提升翻譯品質。
+- 優化：提升非 Chrome 瀏覽器下輸入框自動語言識別的準確性與穩定性。
 - 新增：Google 翻譯服務現已支援塔馬齊格特語（Tamazight）。
+- 修復：解決 iOS 全螢幕播放 YouTube 影片時字幕無法翻譯的問題。
 
 ## 1.26.6 Release (2026-03-02)
 
