@@ -16,6 +16,15 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.28.1 Preview (2026-04-09)
+
+- 優化：面板 UI 與互動體驗。
+- 優化：設定頁結構與配置體驗。
+- 新增：支援百度網盤影片字幕適配。
+- 優化：優化長網頁翻譯效能，提升載入與渲染效率。
+- 優化：支援根據頁面列表頁自適應翻譯折疊內容。
+- 優化：提升多 iframe 場景下的載入速度。
+
 ## 1.27.2 Release (2026-03-27)
 
 - 優化：提升了免費 AI 翻譯服務的表現與穩定性。

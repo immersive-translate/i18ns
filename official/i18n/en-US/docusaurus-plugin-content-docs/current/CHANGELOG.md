@@ -16,6 +16,15 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.28.1 Preview (2026-04-09)
+
+- Improved: Optimized the panel UI and interaction experience.
+- Improved: Optimized the settings page structure and configuration experience.
+- Added: Added support for Baidu Netdisk video subtitles.
+- Improved: Improved long webpage translation performance for faster loading and rendering.
+- Improved: Supports adaptive translation of collapsed content based on list pages.
+- Improved: Improved loading speed in multi-iframe scenarios.
+
 ## 1.27.2 Release (2026-03-27)
 
 - Improved: Enhanced performance and stability of the free AI translation service.
