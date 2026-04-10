@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.28.1 Preview (2026-04-09)
+## 1.28.2 Preview (2026-04-10)
 
 - Improved: Optimized the panel UI and interaction experience.
 - Improved: Optimized the settings page structure and configuration experience.
