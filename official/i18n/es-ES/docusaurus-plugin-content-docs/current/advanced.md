@@ -385,6 +385,24 @@ Ejemplo de configuración por sitio:
 
 ## Parámetros avanzados / AI
 
+Puedes añadir la siguiente configuración avanzada en [Configuración para desarrolladores](https://dash.immersivetranslate.com/#developer) -> `Edit Full User Config`:
+
+### Modo de traducción AI gratuita
+
+La extensión ya admite un servicio gratuito de traducción AI agregada. Cuando este modo está activado, se prioriza la ruta de traducción AI gratuita agregada.
+
+Limitaciones actuales:
+- El glosario AI aún no es compatible
+- Los prompts AI personalizados aún no son compatibles
+
+Para desactivar este modo y volver a la versión anterior de traducción AI gratuita no agregada, añade:
+
+```json
+{
+  "enableFreeModelMode": false
+}
+```
+
 ### temperature
 
 ```json

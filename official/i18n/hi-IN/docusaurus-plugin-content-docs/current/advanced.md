@@ -385,6 +385,24 @@ bold, thinDashed, nativeDotted, wavy, nativeDashed, nativeUnderline, background
 
 ## AI / उन्नत सर्विस पैरामीटर
 
+आप [डेवलपर सेटिंग्स](https://dash.immersivetranslate.com/#developer) -> `Edit Full User Config` में नीचे दिया गया उन्नत कॉन्फ़िगरेशन जोड़ सकते हैं:
+
+### मुफ्त AI अनुवाद मोड
+
+एक्सटेंशन अब मुफ्त एग्रीगेटेड AI अनुवाद सेवा का समर्थन करता है। इस मोड को चालू करने पर एग्रीगेटेड मुफ्त AI अनुवाद मार्ग को प्राथमिकता दी जाएगी।
+
+वर्तमान सीमाएँ:
+- AI शब्दावली अभी समर्थित नहीं है
+- AI कस्टम प्रॉम्प्ट अभी समर्थित नहीं हैं
+
+इस मोड को बंद करके पुराने non-aggregated मुफ्त AI अनुवाद पर लौटने के लिए यह जोड़ें:
+
+```json
+{
+  "enableFreeModelMode": false
+}
+```
+
 ### temperature
 
 ```json

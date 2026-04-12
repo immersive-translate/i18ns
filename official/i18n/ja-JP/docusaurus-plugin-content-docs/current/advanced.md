@@ -385,6 +385,24 @@ bold, thinDashed, nativeDotted, wavy, nativeDashed, nativeUnderline, background
 
 ## AI/高度なサービスパラメータ
 
+以下の高度な設定は、[開発者設定](https://dash.immersivetranslate.com/#developer) -> `Edit Full User Config` に追加できます。
+
+### 無料 AI 翻訳モード
+
+拡張機能は、無料の AI 集約翻訳サービスに対応しました。このモードを有効にすると、無料の AI 集約翻訳ルートが優先して使用されます。
+
+現在の制限：
+- AI 用語集はまだサポートされていません
+- AI カスタムプロンプトはまだサポートされていません
+
+このモードを無効にして、従来の非集約型の無料 AI 翻訳に戻すには、次の設定を追加してください。
+
+```json
+{
+  "enableFreeModelMode": false
+}
+```
+
 ### temperature
 
 ```json

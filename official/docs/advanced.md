@@ -385,7 +385,25 @@ bold, thinDashed, nativeDotted, wavy, nativeDashed, nativeUnderline, background
 
 ## AI / 高级服务参数
 
-### temperature
+可在【[开发者设置](https://dash.immersivetranslate.com/#developer)】 -> 【Edit Full User Config】中加入以下进阶配置参数：
+
+### 免费 AI 翻译模式
+
+扩展已支持开启免费 AI 聚合翻译服务。开启该模式后，会优先使用免费 AI 聚合翻译方案。
+
+当前限制：
+- 暂不支持 AI 术语库
+- 暂不支持 AI 自定义提示词
+
+如需关闭该模式并回退至旧版本非聚合免费 AI 翻译，可加入以下配置：
+
+```json
+{
+  "enableFreeModelMode": false
+}
+```
+
+### 调整 AI 模型的温度参数
 
 ```json
 {
@@ -397,7 +415,7 @@ bold, thinDashed, nativeDotted, wavy, nativeDashed, nativeUnderline, background
 }
 ```
 
-### 自定义请求头与请求体
+### 自定义 AI 翻译服务请求头与请求体
 
 ```json
 {
@@ -410,10 +428,18 @@ bold, thinDashed, nativeDotted, wavy, nativeDashed, nativeUnderline, background
       "bodyConfigs": {
         "max_tokens": 2048
       }
+    },
+    "openai": {
+      "bodyConfigs": {
+        "reasoning_effort": "minimal"
+      }
     }
   }
 }
 ```
+
+说明：
+- `reasoning_effort: "minimal"` 表示尽量减少思考开销。
 
 ### Gemini 系列模型用户如何自定义配置
 

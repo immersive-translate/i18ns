@@ -385,6 +385,24 @@ Styles nach Website setzen:
 
 ## AI- & Advanced-Parameter
 
+Die folgenden erweiterten Einstellungen kannst du unter [Entwicklereinstellungen](https://dash.immersivetranslate.com/#developer) -> `Edit Full User Config` hinzufügen:
+
+### Kostenloser KI-Übersetzungsmodus
+
+Die Erweiterung unterstützt jetzt einen kostenlosen aggregierten KI-Übersetzungsdienst. Wenn dieser Modus aktiviert ist, wird der aggregierte kostenlose KI-Übersetzungsweg bevorzugt verwendet.
+
+Aktuelle Einschränkungen:
+- KI-Terminologie wird derzeit noch nicht unterstützt
+- Benutzerdefinierte KI-Prompts werden derzeit noch nicht unterstützt
+
+Um diesen Modus zu deaktivieren und zur vorherigen nicht aggregierten kostenlosen KI-Übersetzung zurückzukehren, füge Folgendes hinzu:
+
+```json
+{
+  "enableFreeModelMode": false
+}
+```
+
 ### temperature (z.B. bei GPT)
 
 ```json

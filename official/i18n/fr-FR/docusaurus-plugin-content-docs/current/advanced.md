@@ -385,6 +385,24 @@ Style par site :
 
 ## Paramètres IA / avancés
 
+Vous pouvez ajouter les paramètres avancés suivants dans [Paramètres développeur](https://dash.immersivetranslate.com/#developer) -> `Edit Full User Config` :
+
+### Mode de traduction AI gratuit
+
+L'extension prend désormais en charge un service gratuit de traduction AI agrégée. Une fois ce mode activé, la solution gratuite de traduction AI agrégée sera utilisée en priorité.
+
+Limites actuelles :
+- Le glossaire AI n'est pas encore pris en charge
+- Les prompts AI personnalisés ne sont pas encore pris en charge
+
+Pour désactiver ce mode et revenir à l'ancienne solution de traduction AI gratuite non agrégée, ajoutez :
+
+```json
+{
+  "enableFreeModelMode": false
+}
+```
+
 ### temperature
 
 ```json

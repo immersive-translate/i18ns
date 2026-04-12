@@ -385,6 +385,24 @@ bold, thinDashed, nativeDotted, wavy, nativeDashed, nativeUnderline, background
 
 ## AI / 고급 서비스 파라미터
 
+다음 고급 설정은 [개발자 설정](https://dash.immersivetranslate.com/#developer) -> `Edit Full User Config`에 추가할 수 있습니다.
+
+### 무료 AI 번역 모드
+
+확장 프로그램은 이제 무료 AI 통합 번역 서비스를 지원합니다. 이 모드를 활성화하면 무료 AI 통합 번역 경로가 우선 사용됩니다.
+
+현재 제한 사항:
+- AI 용어집은 아직 지원되지 않습니다
+- AI 사용자 지정 프롬프트는 아직 지원되지 않습니다
+
+이 모드를 끄고 이전의 비통합 무료 AI 번역 방식으로 되돌리려면 다음 설정을 추가하세요.
+
+```json
+{
+  "enableFreeModelMode": false
+}
+```
+
 ### temperature
 
 ```json

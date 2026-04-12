@@ -385,6 +385,24 @@ Set style per site:
 
 ## AI / Advanced Service Parameters
 
+You can add the following advanced configuration in [Developer Settings](https://dash.immersivetranslate.com/#developer) -> `Edit Full User Config`:
+
+### Free AI Translation Mode
+
+The extension now supports a free aggregated AI translation service. When enabled, it will prioritize the aggregated free AI translation path.
+
+Current limitations:
+- AI Terminology is not supported yet
+- Custom AI prompts are not supported yet
+
+To disable this mode and fall back to the previous non-aggregated free AI translation path, add:
+
+```json
+{
+  "enableFreeModelMode": false
+}
+```
+
 ### temperature
 
 ```json

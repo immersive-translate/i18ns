@@ -385,6 +385,24 @@ Stile specifico per sito:
 
 ## Parametri AI / Avanzati
 
+Puoi aggiungere la seguente configurazione avanzata in [Impostazioni sviluppatore](https://dash.immersivetranslate.com/#developer) -> `Edit Full User Config`:
+
+### Modalità di traduzione AI gratuita
+
+L'estensione ora supporta un servizio gratuito di traduzione AI aggregata. Quando questa modalità è attiva, verrà data priorità al percorso di traduzione AI gratuita aggregata.
+
+Limitazioni attuali:
+- Il glossario AI non è ancora supportato
+- I prompt AI personalizzati non sono ancora supportati
+
+Per disattivare questa modalità e tornare alla precedente traduzione AI gratuita non aggregata, aggiungi:
+
+```json
+{
+  "enableFreeModelMode": false
+}
+```
+
 ### temperature
 
 ```json

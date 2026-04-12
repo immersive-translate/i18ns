@@ -385,6 +385,24 @@ bold, thinDashed, nativeDotted, wavy, nativeDashed, nativeUnderline, background
 
 ## AI / 進階服務參數
 
+可在【[開發者設定](https://dash.immersivetranslate.com/#developer)】 -> 【Edit Full User Config】中加入以下進階配置參數：
+
+### 免費 AI 翻譯模式
+
+擴充功能已支援啟用免費 AI 聚合翻譯服務。開啟此模式後，會優先使用免費 AI 聚合翻譯方案。
+
+目前限制：
+- 暫不支援 AI 術語庫
+- 暫不支援 AI 自訂提示詞
+
+如需關閉此模式並回退至舊版非聚合免費 AI 翻譯，可加入以下設定：
+
+```json
+{
+  "enableFreeModelMode": false
+}
+```
+
 ### temperature
 
 ```json
