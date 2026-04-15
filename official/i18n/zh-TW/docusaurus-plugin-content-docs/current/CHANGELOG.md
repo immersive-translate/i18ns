@@ -16,7 +16,7 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
-## 1.28.3 Release (2026-04-10)
+## 1.28.3 Release (2026-04-15)
 
 - 優化：面板 UI 與互動體驗。
 - 優化：設定頁結構與配置體驗。
