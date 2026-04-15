@@ -30,8 +30,6 @@ The **Preview version** is published more frequently and includes some experimen
 - Fixed: Fixed an issue where Input Translation did not work properly when pressing `Option + letter` in Firefox and Safari.
 - Fixed: Fixed an issue where some iframe pages could not be translated in Firefox.
 
-## 1.28.2 Preview (2026-04-10)
-
 - Improved: Optimized the panel UI and interaction experience.
 - Improved: Optimized the settings page structure and configuration experience.
 - Added: Added support for Baidu Netdisk video subtitles.
