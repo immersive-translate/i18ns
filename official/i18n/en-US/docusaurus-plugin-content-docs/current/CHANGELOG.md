@@ -16,6 +16,20 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.28.3 Release (2026-04-10)
+
+- Improved: Optimized the panel UI and interaction experience.
+- Improved: Optimized the settings page structure and configuration experience.
+- Added: Added support for Baidu Netdisk video subtitles.
+- Improved: Improved long webpage translation performance for faster loading and rendering.
+- Improved: Added adaptive translation support for collapsed content on list pages.
+- Improved: Improved loading speed in multi-iframe scenarios.
+- Fixed: Fixed Cloudflare human verification failures in Safari.
+- Fixed: Fixed premature timeouts when iframe content translation was slow.
+- Fixed: Fixed an issue where the "Remember this choice" option did not take effect in the long text dialog.
+- Fixed: Fixed an issue where Input Translation did not work properly when pressing `Option + letter` in Firefox and Safari.
+- Fixed: Fixed an issue where some iframe pages could not be translated in Firefox.
+
 ## 1.28.2 Preview (2026-04-10)
 
 - Improved: Optimized the panel UI and interaction experience.

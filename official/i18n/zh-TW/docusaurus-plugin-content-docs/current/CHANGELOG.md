@@ -16,6 +16,20 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.28.3 Release (2026-04-10)
+
+- 優化：面板 UI 與互動體驗。
+- 優化：設定頁結構與配置體驗。
+- 新增：支援百度網盤影片字幕適配。
+- 優化：優化長網頁翻譯效能，提升載入與渲染效率。
+- 優化：支援根據頁面列表頁自適應翻譯折疊內容。
+- 優化：提升多 iframe 場景下的載入速度。
+- 修復：Safari 瀏覽器下 Cloudflare 人機驗證失敗的問題。
+- 修復：iframe 內容翻譯回應較慢時提前逾時的問題，提升穩定性。
+- 修復：長文本彈窗中「記住選項」設定不生效的問題。
+- 修復：【輸入框翻譯】在 Firefox、Safari 瀏覽器下按下 `Option + 字母鍵` 時無法正常生效的問題。
+- 修復：Firefox 瀏覽器在部分 iframe 頁面中無法正常翻譯的問題。
+
 ## 1.28.2 Preview (2026-04-10)
 
 - 優化：面板 UI 與互動體驗。

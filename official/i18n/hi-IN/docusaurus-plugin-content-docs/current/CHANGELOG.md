@@ -18,6 +18,78 @@ sidebar_position: 6
 - [Firefox स्टोर में बीटा संस्करण](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.28.3 Release (2026-04-10)
+
+- Improved: Optimized the panel UI and interaction experience.
+- Improved: Optimized the settings page structure and configuration experience.
+- Added: Added support for Baidu Netdisk video subtitles.
+- Improved: Improved long webpage translation performance for faster loading and rendering.
+- Improved: Added adaptive translation support for collapsed content on list pages.
+- Improved: Improved loading speed in multi-iframe scenarios.
+- Fixed: Fixed Cloudflare human verification failures in Safari.
+- Fixed: Fixed premature timeouts when iframe content translation was slow.
+- Fixed: Fixed an issue where the "Remember this choice" option did not take effect in the long text dialog.
+- Fixed: Fixed an issue where Input Translation did not work properly when pressing `Option + letter` in Firefox and Safari.
+- Fixed: Fixed an issue where some iframe pages could not be translated in Firefox.
+
+## 1.27.2 Release (2026-03-27)
+
+- Improved: Enhanced performance and stability of the free AI translation service.
+- Improved: Boosted AI contextual understanding in Korean and Japanese translation scenarios, resulting in higher translation quality.
+- Improved: Improved the accuracy and stability of automatic language detection in input fields on non-Chrome browsers.
+- Added: Google Translate now supports the Tamazight language.
+- Fixed: Resolved an issue where subtitles were not translated when YouTube videos were played in full-screen mode on iOS.
+
+## 1.26.6 Release (2026-03-02)
+
+- Added: Support for subtitle translation in YouTube live streams.
+- Fixed: [Input field translation] Fixed an issue where language-code prefixes were translated by mistake (e.g. `hi hello` was translated to `नमस्ते`).
+- Fixed: Resolved an issue where extension status was not synced after upgrading membership in the Android Immersive Translate app.
+
+## 1.26.4 Release (2026-02-11)
+
+- Improved: [Input translation] Reduced unintentional triggers for a better typing experience.
+- Improved: DeepL translation service now supports more languages.
+- Improved: Icon compatibility on older versions of macOS.
+- Improved: RTL language layout optimization.
+- Fixed: [Translation only] Font style settings were not effective.
+
+## 1.25.3 Release (2026-01-26)
+
+- Improved: Compatibility with the Steam client.
+- Added: Support for Tencent Hunyuan model HY-2.0-Instruct.
+
+## 1.24.6 Release (2025-12-31)
+
+- Fixed: In certain environments, the sidebar could not be triggered; improved interaction stability.
+- Fixed: DingTalk, WeChat, and other third-party platform accounts were unable to log in due to iframe communication interference.
+- Improved: [AI Writing] Added minimal mode.
+
+## 1.23.10 Release (2025-12-05)
+
+- Improved: Enhanced accuracy of information recognition in AIFW privacy mode.
+- Improved: Added babel-lite translation service.
+
+## 1.23.7 Release (2025-11-19)
+
+- Improved: Enhanced error messages when subtitle translation fails, improving user experience.
+
+## 1.23.5 Release (2025-11-14)
+
+- Improved: [Input field translation] — Added an option to automatically detect the target language, enhancing the translation experience.
+- Improved: Supported translation of dropdown menu content, expanding applicable scenarios.
+
+## 1.22.7 Release (2025-10-30)
+
+- Improved: Translation error messages are now more accurate and user-friendly.
+- Improved: After logging in, the extension automatically refreshes the login status of the current webpage, eliminating the need to manually refresh the page.
+- Improved: Enhanced accuracy in segmenting long paragraphs.
+- Improved: More precise detection of the page language.
+
+## 1.22.4 Release (2025-10-17)
+
+- Fixed: Some bugs in the iOS extension.
+
 ## 1.14.16 Release (2025-02-21)
 
 - जोड़ा गया: Deepseek, Gemini, Claude समर्थन संदर्भ स्विच।
