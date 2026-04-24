@@ -5,7 +5,7 @@ custom_edit_url: null
 
 # Immersive Translate Politique de confidentialité
 
-Dernière mise à jour : 2026-04-16
+Dernière mise à jour : 2026-04-24
 
 ##Présentation
 
