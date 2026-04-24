@@ -5,7 +5,7 @@ custom_edit_url: null
 
 # Immersive Translate Datenschutzrichtlinie
 
-Letzte Aktualisierung: 2026-04-16
+Letzte Aktualisierung: 03.02.2026
 
 ## Einführung
 
@@ -112,9 +112,6 @@ Soweit dies nach geltendem Recht zulässig ist, können Sie eine Einschränkung 
 
 Soweit technisch machbar und gesetzlich vorgeschrieben, können Sie verlangen, die von Ihnen bereitgestellten personenbezogenen Daten in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten oder diese, soweit möglich, an einen anderen Dienstleister zu übermitteln.
 
-
-Soweit dies technisch möglich und gesetzlich vorgeschrieben ist, können Sie verlangen, die personenbezogenen Daten, die Sie uns bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten oder sie, soweit dies für Sie praktisch möglich ist, an einen anderen Dienstanbieter übermitteln zu lassen.
-
 ### 3.7 Recht auf Nichtdiskriminierung
 
 Wir werden Sie nicht diskriminieren, wenn Sie die in diesem Abschnitt dargelegten Rechte ausüben, einschließlich, aber nicht beschränkt auf die Verweigerung von Diensten, die Verringerung der Servicequalität oder die Erhebung unangemessener Gebühren.
@@ -127,15 +124,9 @@ Sie können die oben genannten Anfragen über die in Abschnitt 11 dieser Richtli
 
 ## 4. Automatisierte Entscheidungsfindung und Profilerstellung
 
-Zur Verbesserung der Servicequalitaet und der Nutzererfahrung koennen wir Informationen auf Grundlage Ihrer Nutzung des Dienstes analysieren und Tag-Informationen erstellen, die allgemeine Nutzungsgewohnheiten oder Praeferenzen widerspiegeln. Diese Analyse basiert hauptsaechlich auf Informationen wie Funktionsnutzung, Bedienverhalten und Interaktionsmustern waehrend Ihrer Nutzung des Dienstes und wird in kategorisierter oder statistischer Form verarbeitet. Um die Auswirkungen auf Ihre personenbezogenen Daten zu verringern, werden diese Tags lokal auf Ihrem Geraet erstellt und verarbeitet; wir sammeln oder speichern weder die konkreten von Ihnen besuchten Website-Adressen noch detaillierte Browsinginhalte.
+Wir werden keine Entscheidungen treffen, die für Sie erhebliche rechtliche Auswirkungen (oder ähnlich erhebliche Auswirkungen) haben, und zwar ausschließlich auf der Grundlage einer automatisierten Verarbeitung ohne menschliche Beteiligung. Wenn Gesetze in verschiedenen Gerichtsbarkeiten zusätzliche Anforderungen an die automatisierte Verarbeitung oder algorithmische Entscheidungsfindung stellen, werden wir uns entsprechend daran halten.
 
-Auf dieser Grundlage koennen wir relevante Tag-Informationen mit Ihrem Konto oder Ihrer Geraetekennung verknuepfen, um das allgemeine Nutzerverhalten zu verstehen, Produktfunktionen und das Serviceerlebnis zu optimieren, die Inhaltsdarstellung und Funktionsgestaltung zu verbessern und gegebenenfalls Produkte oder Dienstleistungen bereitzustellen, die den Nutzerbeduerfnissen besser entsprechen.
-
-Wir treffen keine Entscheidungen, die Ihnen gegenueber erhebliche rechtliche Wirkungen oder aehnlich erhebliche Auswirkungen entfalten, ausschliesslich auf Grundlage automatisierter Verarbeitung ohne menschliches Eingreifen. Sofern die einschlaegigen Gesetze in verschiedenen Rechtsordnungen zusaetzliche Anforderungen an automatisierte Verarbeitung oder algorithmische Entscheidungsfindung stellen, werden wir diese gesetzeskonform erfuellen.
-
-Dementsprechend unterliegt der Dienst derzeit keinen besonderen Regeln fuer automatisierte Entscheidungsfindung. Die vorstehend beschriebene nutzungsbezogene Analyse und Tag-Verarbeitung entfaltet Ihnen gegenueber keine erheblichen rechtlichen Wirkungen oder aehnlich erheblichen Auswirkungen, und wir werden Ihre personenbezogenen Daten nicht ausschliesslich automatisiert auf eine Weise verarbeiten, die Ihre persoenlichen Rechte und Interessen nachteilig beeintraechtigen koennte.
-
-Falls wir in Zukunft in bestimmten Szenarien automatisierte Entscheidungen einfuehren, die erhebliche Auswirkungen auf Sie haben koennten, oder weitergehende Datenanalyse- und Verarbeitungsmethoden einsetzen, werden wir Ihnen die nach dem Gesetz erforderlichen Informationen zur Verfuegung stellen und, soweit gesetzlich erforderlich, Ihre Einwilligung einholen.
+Daher wendet der Dienst derzeit keine besonderen Regeln für die automatisierte Entscheidungsfindung an. Wir verarbeiten Ihre personenbezogenen Daten auch nicht ausschließlich automatisiert in einer Weise, die Ihre Rechte und Interessen beeinträchtigen könnte. Wenn wir eine solche Verarbeitung in Zukunft in bestimmten Fällen einführen, werden wir die erforderlichen Erklärungen im Einklang mit dem Gesetz erteilen und gegebenenfalls Ihre Einwilligung einholen.
 
 ## 5. Änderungen dieser Datenschutzrichtlinie
 
@@ -143,17 +134,21 @@ Wir können diese Datenschutzrichtlinie von Zeit zu Zeit überarbeiten. Wir erfa
 
 ## 6. Cookie-Bedingungen
 
+Wir verwenden Cookies, um unsere Website und Dienste bereitzustellen und zu verbessern.
+
 ### Was sind Cookies?
 
-Ein „Cookie“ ist ein kleines Datenelement, das von einem Webserver erzeugt und auf dem Geraet eines Nutzers gespeichert wird.
+Ein „Cookie“ ist ein kleines Datenelement, das von einem Webserver generiert und auf dem Gerät eines Benutzers gespeichert wird.
 
 ### Welche Cookies verwenden wir?
 
-Wir verwenden Session-Cookies und persistente Cookies. Session-Cookies werden geloescht, wenn Sie Ihren Browser schliessen, waehrend persistente Cookies auf Ihrem Geraet verbleiben, bei Ihrem naechsten Besuch unserer Website aktiviert werden und auch manuell geloescht werden koennen. Im Allgemeinen beschaedigen persistente Cookies weder Ihr Geraet noch Ihre Programme oder Dateien.
+Wir verwenden Sitzungscookies und dauerhafte Cookies. Sitzungscookies werden gelöscht, wenn Sie Ihren Browser schließen. Dauerhafte Cookies verbleiben auf Ihrem Gerät und werden bei einem erneuten Besuch unserer Website verwendet; Sie können sie auch manuell löschen. Im Allgemeinen schädigen oder beschädigen dauerhafte Cookies Ihr Gerät, Ihre Programme oder Dateien nicht.
 
 ### Wie verwalte ich Cookies?
 
-Sie koennen alle oder einen Teil der Cookies ablehnen, indem Sie Ihre Browsereinstellungen anpassen. Hinweise hierzu finden Sie in der Anleitung Ihres jeweiligen Browsers. Wenn Sie jedoch alle Cookies blockieren (einschliesslich unbedingt erforderlicher Cookies), koennen Sie moeglicherweise nicht auf unsere Website oder bestimmte Inhalte zugreifen.
+Sie können alle oder einige Cookies ablehnen, indem Sie Ihre Browsereinstellungen anpassen. Anweisungen hierzu finden Sie im Handbuch Ihres jeweiligen Browsers. Wenn Sie jedoch alle Cookies (einschließlich unbedingt notwendiger Cookies) blockieren, können Sie möglicherweise nicht auf unsere Website oder bestimmte Inhalte zugreifen.
+
+Sofern gesetzlich vorgeschrieben, holen wir Ihre Einwilligung ein, bevor wir nicht unbedingt erforderliche Cookies platzieren oder ähnliche Technologien (z. B. Analyse-Cookies) verwenden. Sie können Ihre Einwilligung jederzeit über Ihre Browsereinstellungen oder andere verfügbare Steuerelemente widerrufen.
 
 ## 7. Erläuterung der Safari-Erweiterungsberechtigungen
 

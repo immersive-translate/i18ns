@@ -5,7 +5,7 @@ custom_edit_url: null
 
 # Immersive Translate Politique de confidentialité
 
-Dernière mise à jour : 2026-04-16
+Dernière mise à jour : 2026-02-03
 
 ##Présentation
 
@@ -110,9 +110,6 @@ Lorsque nous traitons des informations personnelles sur la base de votre consent
 
 Lorsque cela est techniquement possible et requis par la loi, vous pouvez demander à recevoir les informations personnelles que vous avez fournies dans un format structuré, couramment utilisé et lisible par machine, ou les transmettre à un autre fournisseur de services lorsque cela est possible.
 
-
-Dans la mesure où cela est techniquement possible et requis par la loi, vous pouvez demander à obtenir les informations personnelles que vous nous avez fournies dans un format structuré, couramment utilise et lisible par machine, ou, lorsque cela est possible pour vous, demander leur transmission a un autre prestataire de services.
-
 ### 3.7 Droit à la non-discrimination
 
 Nous ne ferons aucune discrimination à votre égard pour l'exercice des droits énoncés dans cette section, y compris, mais sans s'y limiter, le refus de services, la réduction de la qualité du service ou la facturation de frais déraisonnables.
@@ -125,31 +122,29 @@ Vous pouvez soumettre les demandes ci-dessus via les coordonnées indiquées dan
 
 ## 4. Prise de décision et profilage automatisés
 
-Afin d'ameliorer la qualite du service et l'experience utilisateur, nous pouvons analyser des informations fondees sur votre utilisation du Service et generer des informations d'etiquetage refletant des habitudes ou preferences generales d'utilisation. Cette analyse repose principalement sur des informations telles que l'utilisation des fonctionnalites, les comportements d'utilisation et les modes d'interaction pendant votre utilisation du Service, et elle est effectuee sous une forme categorisee ou statistique. Pour limiter l'impact sur vos informations personnelles, la generation et le traitement de ces etiquettes sont effectues localement sur votre appareil, et nous ne collectons ni ne stockons les adresses precises des sites web que vous visitez ni le contenu detaille de votre navigation.
+Nous ne prendrons pas de décisions produisant des effets juridiques importants (ou des effets tout aussi importants) sur la base uniquement d’un traitement automatisé sans implication humaine. Si les lois de différentes juridictions imposent des exigences supplémentaires en matière de traitement automatisé ou de prise de décision algorithmique, nous nous y conformerons en conséquence.
 
-Sur cette base, nous pouvons associer des informations d'etiquetage pertinentes a votre compte ou a l'identifiant de votre appareil afin de comprendre les comportements d'utilisation globaux, d'optimiser les fonctionnalites du produit et l'experience de service, d'ameliorer la presentation des contenus et la conception fonctionnelle et, lorsque cela est approprie, de fournir des produits ou services repondant mieux aux besoins des utilisateurs.
-
-Nous ne prendrons pas de decisions produisant des effets juridiques significatifs ou des effets similaires significatifs a votre egard uniquement sur la base d'un traitement automatise sans intervention humaine. Si les lois applicables dans differentes juridictions imposent des exigences supplementaires en matiere de traitement automatise ou de prise de decision algorithmique, nous nous y conformerons conformement a la loi.
-
-En consequence, le Service n'est actuellement pas soumis a des regles speciales en matiere de prise de decision automatisee. L'analyse et le traitement des etiquettes fondes sur l'utilisation decrits ci-dessus ne produiront pas d'effets juridiques significatifs ni d'effets similaires significatifs a votre egard, et nous ne traiterons pas vos informations personnelles uniquement par des moyens automatises d'une maniere susceptible de porter atteinte a vos droits et interets personnels.
-
-Si, a l'avenir, nous introduisons, dans certains scenarios, des decisions automatisees susceptibles d'avoir un impact significatif sur vous ou des methodes supplementaires d'analyse et de traitement des donnees, nous vous fournirons les informations necessaires conformement a la loi et obtiendrons votre consentement lorsque la legislation applicable l'exige.
+Par conséquent, le Service n’applique actuellement pas de règles particulières concernant la prise de décision automatisée. Nous ne traitons pas non plus vos informations personnelles uniquement par des moyens automatisés d'une manière qui pourrait nuire à vos droits et intérêts. Si nous introduisons un tel traitement dans des scénarios spécifiques à l'avenir, nous fournirons les explications nécessaires conformément à la loi et obtiendrons votre consentement si nécessaire.
 
 ## 5. Modifications de cette politique de confidentialitéNous pouvons réviser cette politique de confidentialité de temps à autre. Nous enregistrerons la date de la « dernière mise à jour » et les mises à jour prendront effet immédiatement après leur publication. Si les mises à jour affectent sensiblement vos droits, nous vous fournirons un avis approprié conformément aux lois applicables, et les modifications importantes seront publiées bien en vue (par exemple, via une notification contextuelle pour certaines modifications de service). Vous devez consulter régulièrement cette politique pour rester informé de nos dernières conditions.
 
 ## 6. Conditions relatives aux cookies
 
+Nous utilisons des cookies pour fournir et améliorer notre site Web et nos services.
+
 ### Que sont les cookies ?
 
-Un « cookie » est un petit element de donnees genere par un serveur web et stocke sur l'appareil d'un utilisateur.
+Un « cookie » est un petit élément de données généré par un serveur Web et stocké sur l’appareil d’un utilisateur.
 
 ### Quels cookies utilisons-nous ?
 
-Nous utilisons des cookies de session et des cookies persistants. Les cookies de session sont supprimes lorsque vous fermez votre navigateur, tandis que les cookies persistants restent sur votre appareil, sont actives lors de votre prochaine visite sur notre site web et peuvent egalement etre supprimes manuellement. En regle generale, les cookies persistants n'endommagent pas votre appareil, vos programmes ni vos fichiers.
+Nous utilisons des cookies de session et des cookies persistants. Les cookies de session sont supprimés lorsque vous fermez votre navigateur. Les cookies persistants restent sur votre appareil et sont utilisés lorsque vous visitez à nouveau notre site Web ; vous pouvez également les supprimer manuellement. En règle générale, les cookies persistants n'endommagent ni n'endommagent votre appareil, vos programmes ou vos fichiers.
 
-### Comment gerer les cookies ?
+### Comment gérer les cookies ?
 
-Vous pouvez refuser tout ou partie des cookies en modifiant les parametres de votre navigateur. Pour obtenir des instructions, veuillez consulter le guide de votre navigateur. Toutefois, si vous bloquez tous les cookies (y compris les cookies strictement necessaires), il se peut que vous ne puissiez pas acceder a notre site web ou a certains contenus.
+Vous pouvez refuser tout ou partie des cookies en ajustant les paramètres de votre navigateur. Pour obtenir des instructions, veuillez vous référer au guide de votre navigateur spécifique. Cependant, si vous bloquez tous les cookies (y compris les cookies strictement nécessaires), vous ne pourrez peut-être pas accéder à notre site Internet ou à certains contenus.
+
+Lorsque la loi applicable l'exige, nous obtiendrons votre consentement avant de placer des cookies non essentiels ou d'utiliser des technologies similaires (par exemple, des cookies analytiques). Vous pouvez retirer votre consentement à tout moment via les paramètres de votre navigateur ou d'autres contrôles disponibles.
 
 ## 7. Explication des autorisations d'extension Safari
 

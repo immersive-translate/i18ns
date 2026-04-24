@@ -5,7 +5,7 @@ custom_edit_url: null
 
 # Immersive Translate Política de Privacidade
 
-Última atualização: 03/02/2026
+Última atualização: 16/04/2026
 
 ## Introdução
 
@@ -110,6 +110,9 @@ Quando processamos informações pessoais com base no seu consentimento, você p
 
 Sempre que for tecnicamente viável e exigido por lei, você poderá solicitar o recebimento das informações pessoais fornecidas em um formato estruturado, comumente usado e legível por máquina, ou transmiti-las a outro provedor de serviços, sempre que viável.
 
+
+Na medida em que tal seja tecnicamente viavel e exigido por lei, pode solicitar receber as informacoes pessoais que nos forneceu num formato estruturado, de uso corrente e legivel por maquina ou, quando tal for viavel para si, solicitar a sua transmissao para outro prestador de servicos.
+
 ### 3.7 Direito à não discriminação
 
 Não iremos discriminar você por exercer os direitos estabelecidos nesta seção, incluindo, entre outros, recusar serviços, reduzir a qualidade do serviço ou cobrar taxas injustificadas.
@@ -122,29 +125,31 @@ Você pode enviar as solicitações acima por meio das informações de contato 
 
 ## 4. Tomada de decisão e criação de perfil automatizadas
 
-Não tomaremos decisões que produzam efeitos jurídicos significativos (ou efeitos igualmente significativos) sobre você com base exclusivamente no processamento automatizado sem envolvimento humano. Se leis em jurisdições diferentes imporem requisitos adicionais ao processamento automatizado ou à tomada de decisões algorítmicas, cumpriremos em conformidade.
+Para melhorar a qualidade do servico e a experiencia do utilizador, poderemos analisar informacoes baseadas na sua utilizacao do Servico e gerar informacoes de etiquetagem que reflitam habitos gerais de utilizacao ou preferencias. Esta analise baseia-se principalmente em informacoes como a utilizacao de funcionalidades, o comportamento operacional e os padroes de interacao durante a utilizacao do Servico, sendo tratada de forma categorizada ou estatistica. Para reduzir o impacto sobre as suas informacoes pessoais, a geracao e o tratamento dessas etiquetas sao realizados localmente no seu dispositivo, e nao recolhemos nem armazenamos os enderecos especificos dos websites que visita nem o conteudo detalhado da sua navegacao.
 
-Portanto, o Serviço atualmente não aplica regras especiais relativas à tomada de decisão automatizada. Também não processamos as suas informações pessoais apenas através de meios automatizados de uma forma que possa afetar negativamente os seus direitos e interesses. Se introduzirmos tal processamento em cenários específicos no futuro, forneceremos as explicações necessárias de acordo com a lei e obteremos o seu consentimento quando necessário.
+Com base nisto, poderemos associar as informacoes de etiquetagem relevantes a sua conta ou ao identificador do seu dispositivo para compreender o comportamento geral dos utilizadores, otimizar as funcionalidades do produto e a experiencia do servico, melhorar a apresentacao de conteudos e o desenho funcional e, quando apropriado, fornecer produtos ou servicos mais adequados as necessidades dos utilizadores.
+
+Nao tomaremos decisoes que produzam efeitos juridicos significativos ou efeitos significativos semelhantes para si com base exclusivamente em tratamento automatizado, sem intervencao humana. Se as leis aplicaveis em diferentes jurisdicoes impuserem requisitos adicionais quanto ao tratamento automatizado ou a tomada de decisao algoritmica, cumpri-los-emos nos termos da lei.
+
+Assim, o Servico nao esta atualmente sujeito a regras especiais relativas a tomada de decisao automatizada. A analise e o tratamento de etiquetas baseados na utilizacao acima descritos nao produzirao efeitos juridicos significativos nem efeitos significativos semelhantes para si, e nao trataremos as suas informacoes pessoais exclusivamente por meios automatizados de uma forma que possa afetar negativamente os seus direitos e interesses pessoais.
+
+Se, no futuro, introduzirmos, em cenarios especificos, decisoes automatizadas que possam ter um impacto significativo sobre si ou metodos adicionais de analise e tratamento de dados, fornecer-lhe-emos as informacoes necessarias nos termos da lei e obteremos o seu consentimento quando a legislacao aplicavel assim o exigir.
 
 ## 5. Alterações a esta Política de PrivacidadePoderemos revisar esta Política de Privacidade de tempos em tempos. Registraremos a data da “última atualização” e as atualizações entrarão em vigor imediatamente após a publicação. Se as atualizações afetarem materialmente os seus direitos, forneceremos um aviso apropriado de acordo com as leis aplicáveis, e as alterações materiais serão publicadas com destaque (por exemplo, através de um aviso pop-up para determinadas alterações no serviço). Você deve revisar esta Política regularmente para se manter informado sobre nossos termos mais recentes.
 
 ## 6. Termos de cookies
 
-Usamos cookies para fornecer e melhorar nosso site e serviços.
+### O que sao cookies?
 
-### O que são cookies?
-
-Um “cookie” é um pequeno dado gerado por um servidor web e armazenado no dispositivo de um usuário.
+Um "cookie" e um pequeno fragmento de dados gerado por um servidor web e armazenado no dispositivo do utilizador.
 
 ### Que cookies utilizamos?
 
-Utilizamos cookies de sessão e cookies persistentes. Os cookies de sessão são excluídos quando você fecha o navegador. Os cookies persistentes permanecem no seu dispositivo e são utilizados quando visita novamente o nosso website; você também pode excluí-los manualmente. Geralmente, os cookies persistentes não danificam nem prejudicam o seu dispositivo, programas ou arquivos.
+Utilizamos cookies de sessao e cookies persistentes. Os cookies de sessao sao eliminados quando fecha o navegador, enquanto os cookies persistentes permanecem no seu dispositivo, podem ser ativados na sua proxima visita ao nosso website e podem tambem ser eliminados manualmente. Em geral, os cookies persistentes nao danificam o seu dispositivo, programas ou ficheiros.
 
-### Como gerenciar cookies?
+### Como gerir cookies?
 
-Você pode recusar todos ou alguns cookies ajustando as configurações do seu navegador. Para obter instruções, consulte o guia específico do seu navegador. No entanto, se bloquear todos os cookies (incluindo os cookies estritamente necessários), poderá não conseguir aceder ao nosso site ou a determinados conteúdos.
-
-Quando exigido pela lei aplicável, obteremos o seu consentimento antes de colocar cookies não essenciais ou utilizar tecnologias semelhantes (por exemplo, cookies analíticos). Você pode retirar seu consentimento a qualquer momento através das configurações do seu navegador ou de outros controles disponíveis.
+Pode recusar todos ou alguns cookies ajustando as definicoes do seu navegador. Para obter instrucoes, consulte o guia do navegador que utiliza. No entanto, se bloquear todos os cookies (incluindo os estritamente necessarios), podera nao conseguir aceder ao nosso website ou a determinados conteudos.
 
 ## 7. Explicação das permissões de extensão Safari
 

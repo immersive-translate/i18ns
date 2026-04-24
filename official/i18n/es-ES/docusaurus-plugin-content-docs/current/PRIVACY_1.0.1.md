@@ -5,7 +5,7 @@ custom_edit_url: null
 
 # Immersive Translate Política de privacidad
 
-Última actualización: 2026-04-16
+Última actualización: 2026-02-03
 
 ## Introducción
 
@@ -112,9 +112,6 @@ En la medida en que lo permitan las leyes aplicables, usted puede solicitar rest
 
 Cuando sea técnicamente posible y lo exija la ley, puede solicitar recibir la información personal que proporcionó en un formato estructurado, de uso común y legible por máquina, o transmitirla a otro proveedor de servicios cuando sea posible.
 
-
-En la medida en que sea técnicamente posible y lo exija la ley, usted puede solicitar obtener la información personal que nos proporcionó en un formato estructurado, de uso común y lectura mecánica, o, cuando sea viable para usted, solicitar su transmisión a otro proveedor de servicios.
-
 ### 3.7 Derecho a la no discriminación
 
 No lo discriminaremos por ejercer los derechos establecidos en esta sección, incluidos, entre otros, rechazar servicios, reducir la calidad del servicio o cobrar tarifas irrazonables.
@@ -127,15 +124,9 @@ Puede enviar las solicitudes anteriores a través de la información de contacto
 
 ## 4. Toma de decisiones y elaboración de perfiles automatizados
 
-Para mejorar la calidad del servicio y la experiencia del usuario, podemos analizar información basada en su uso del Servicio y generar información de etiquetas que refleje hábitos o preferencias generales de uso. Este análisis se basa principalmente en información como el uso de funciones, el comportamiento operativo y los patrones de interacción durante su uso del Servicio, y se procesa de manera categorizada o estadística. Para reducir el impacto sobre su información personal, la generación y el procesamiento de dichas etiquetas se realizan localmente en su dispositivo, y no recopilamos ni almacenamos las direcciones específicas de los sitios web que visita ni el contenido detallado de su navegación.
+No tomaremos decisiones que produzcan efectos legales significativos (o efectos igualmente significativos) en usted basándose únicamente en el procesamiento automatizado sin participación humana. Si las leyes de diferentes jurisdicciones imponen requisitos adicionales sobre el procesamiento automatizado o la toma de decisiones algorítmica, cumpliremos en consecuencia.
 
-Sobre esta base, podemos asociar la información de etiquetas pertinente con su cuenta o identificador de dispositivo para comprender el comportamiento general de los usuarios, optimizar las funciones del producto y la experiencia del servicio, mejorar la presentación del contenido y el diseño funcional y, cuando corresponda, ofrecer productos o servicios que se ajusten mejor a las necesidades de los usuarios.
-
-No adoptaremos decisiones que produzcan efectos jurídicos significativos o efectos similares relevantes para usted basándonos exclusivamente en el tratamiento automatizado sin intervención humana. Si las leyes aplicables de distintas jurisdicciones imponen requisitos adicionales sobre el tratamiento automatizado o la toma de decisiones algorítmica, los cumpliremos conforme a la ley.
-
-En consecuencia, el Servicio no está actualmente sujeto a normas especiales sobre la toma de decisiones automatizada. El análisis y el tratamiento de etiquetas basados en el uso descritos anteriormente no producirán efectos jurídicos significativos ni efectos similares relevantes para usted, y no trataremos su información personal únicamente por medios automatizados de una manera que pueda afectar negativamente sus derechos e intereses personales.
-
-Si en el futuro introducimos, en escenarios específicos, decisiones automatizadas que puedan tener un impacto significativo sobre usted o métodos adicionales de análisis y tratamiento de datos, le proporcionaremos la información necesaria conforme a la ley y obtendremos su consentimiento cuando así lo exija la legislación aplicable.
+Por lo tanto, el Servicio actualmente no aplica reglas especiales en materia de toma de decisiones automatizada. Tampoco procesamos su información personal únicamente a través de medios automatizados de una manera que pueda afectar negativamente a sus derechos e intereses. Si introducimos dicho procesamiento en escenarios específicos en el futuro, brindaremos las explicaciones necesarias de acuerdo con la ley y obtendremos su consentimiento cuando sea necesario.
 
 ## 5. Modificaciones a esta Política de Privacidad
 
@@ -143,17 +134,21 @@ Podemos revisar esta Política de Privacidad de vez en cuando. Registraremos la 
 
 ## 6. Términos de cookies
 
-### ¿Qué son las cookies?
+Utilizamos cookies para proporcionar y mejorar nuestro sitio web y nuestros servicios.
+
+### ¿Qué son las galletas?
 
 Una "cookie" es un pequeño fragmento de datos generado por un servidor web y almacenado en el dispositivo de un usuario.
 
 ### ¿Qué cookies utilizamos?
 
-Utilizamos cookies de sesión y cookies persistentes. Las cookies de sesión se eliminan cuando cierra su navegador, mientras que las cookies persistentes permanecen en su dispositivo, se activan cuando vuelve a visitar nuestro sitio web y también pueden eliminarse manualmente. En general, las cookies persistentes no dañan su dispositivo, programas ni archivos.
+Utilizamos cookies de sesión y cookies persistentes. Las cookies de sesión se eliminan cuando cierra su navegador. Las cookies persistentes permanecen en su dispositivo y se utilizan cuando visita nuestro sitio web nuevamente; También puedes eliminarlos manualmente. Generalmente, las cookies persistentes no dañan ni dañan su dispositivo, programas o archivos.
 
 ### ¿Cómo gestionar las cookies?
 
 Puede rechazar todas o algunas cookies ajustando la configuración de su navegador. Para obtener instrucciones, consulte la guía de su navegador específico. Sin embargo, si bloquea todas las cookies (incluidas las estrictamente necesarias), es posible que no pueda acceder a nuestro sitio web o a determinados contenidos.
+
+Cuando lo exija la ley aplicable, obtendremos su consentimiento antes de colocar cookies no esenciales o utilizar tecnologías similares (por ejemplo, cookies analíticas). Puede retirar su consentimiento en cualquier momento a través de la configuración de su navegador u otros controles disponibles.
 
 ## 7. Explicación de los permisos de extensión Safari
 

@@ -5,7 +5,7 @@ custom_edit_url: null
 
 # Immersive Translate Informativa sulla privacy
 
-Ultimo aggiornamento: 2026-04-16
+Ultimo aggiornamento: 2026-02-03
 
 ## Introduzione
 
@@ -110,9 +110,6 @@ Laddove trattiamo le informazioni personali in base al tuo consenso, puoi revoca
 
 Laddove tecnicamente fattibile e richiesto dalla legge, puoi richiedere di ricevere le informazioni personali fornite in un formato strutturato, di uso comune e leggibile da una macchina, o trasmetterle a un altro fornitore di servizi ove fattibile.
 
-
-Nei limiti in cui cio sia tecnicamente possibile e richiesto dalla legge, puoi richiedere di ottenere le informazioni personali che ci hai fornito in un formato strutturato, di uso comune e leggibile da dispositivo automatico oppure, ove cio sia per te concretamente possibile, di farle trasmettere a un altro fornitore di servizi.
-
 ### 3.7 Diritto alla non discriminazione
 
 Non discrimineremo l'utente per l'esercizio dei diritti stabiliti in questa sezione, incluso ma non limitato al rifiuto di servizi, alla riduzione della qualità del servizio o all'addebito di tariffe irragionevoli.
@@ -125,31 +122,29 @@ Se risiedi in California, Stati Uniti, potresti avere ulteriori diritti sulla pr
 
 ## 4. Processo decisionale e profilazione automatizzati
 
-Per migliorare la qualita del servizio e l'esperienza utente, possiamo analizzare informazioni basate sul tuo utilizzo del Servizio e generare informazioni di tagging che riflettano abitudini o preferenze generali di utilizzo. Tale analisi si basa principalmente su informazioni quali l'uso delle funzionalita, il comportamento operativo e i modelli di interazione durante l'utilizzo del Servizio, ed e trattata in forma categorizzata o statistica. Per ridurre l'impatto sulle tue informazioni personali, la generazione e il trattamento di tali tag avvengono localmente sul tuo dispositivo e non raccogliamo ne conserviamo gli indirizzi specifici dei siti web che visiti o i contenuti dettagliati della tua navigazione.
+Non prenderemo decisioni che producano effetti legali significativi (o effetti altrettanto significativi) su di te basandosi esclusivamente sul trattamento automatizzato senza coinvolgimento umano. Se le leggi di diverse giurisdizioni impongono requisiti aggiuntivi sul trattamento automatizzato o sul processo decisionale algoritmico, ci atterremo di conseguenza.
 
-Su questa base, possiamo associare le informazioni di tagging pertinenti al tuo account o identificatore del dispositivo per comprendere il comportamento generale degli utenti, ottimizzare le funzionalita del prodotto e l'esperienza del servizio, migliorare la presentazione dei contenuti e la progettazione delle funzioni e, ove appropriato, fornire prodotti o servizi piu rispondenti alle esigenze degli utenti.
-
-Non adotteremo decisioni che producano effetti giuridici significativi o effetti analogamente rilevanti su di te basandoci esclusivamente su trattamenti automatizzati senza intervento umano. Se le leggi applicabili in diverse giurisdizioni impongono requisiti aggiuntivi in materia di trattamento automatizzato o decisioni algoritmiche, ci conformeremo ad esse secondo la legge.
-
-Di conseguenza, il Servizio non e attualmente soggetto a regole speciali in materia di processi decisionali automatizzati. L'analisi e il trattamento dei tag basati sull'utilizzo sopra descritti non produrranno effetti giuridici significativi o effetti analogamente rilevanti su di te e non tratteremo le tue informazioni personali esclusivamente con mezzi automatizzati in un modo che possa pregiudicare i tuoi diritti e interessi personali.
-
-Se in futuro introdurremo, in specifici scenari, decisioni automatizzate che potrebbero avere un impatto significativo su di te o ulteriori metodi di analisi e trattamento dei dati, ti forniremo le informazioni necessarie ai sensi di legge e otterremo il tuo consenso ove richiesto dalla normativa applicabile.
+Pertanto, il Servizio attualmente non applica regole particolari in merito al processo decisionale automatizzato. Inoltre, non elaboriamo le tue informazioni personali esclusivamente attraverso mezzi automatizzati in un modo che potrebbe influire negativamente sui tuoi diritti e interessi. Se in futuro introdurremo tale trattamento in scenari specifici, forniremo le spiegazioni necessarie in conformità con la legge e otterremo il tuo consenso ove richiesto.
 
 ## 5. Modifiche alla presente Informativa sulla privacyPotremmo rivedere la presente Informativa sulla privacy di tanto in tanto. Registreremo la data dell'"Ultimo aggiornamento" e gli aggiornamenti avranno effetto immediatamente dopo la pubblicazione. Se gli aggiornamenti incidono materialmente sui tuoi diritti, forniremo un avviso appropriato in conformità con le leggi applicabili e le modifiche sostanziali verranno pubblicate in modo ben visibile (ad esempio, tramite un avviso pop-up per alcune modifiche al servizio). Dovresti rivedere regolarmente questa Politica per rimanere informato sui nostri ultimi termini.
 
 ## 6. Termini relativi ai cookie
 
-### Che cosa sono i cookie?
+Utilizziamo i cookie per fornire e migliorare il nostro sito Web e i nostri servizi.
 
-Un "cookie" e un piccolo elemento di dati generato da un server web e memorizzato sul dispositivo dell'utente.
+### Cosa sono i cookie?
+
+Un “cookie” è un piccolo dato generato da un server web e memorizzato sul dispositivo dell’utente.
 
 ### Quali cookie utilizziamo?
 
-Utilizziamo cookie di sessione e cookie persistenti. I cookie di sessione vengono eliminati quando chiudi il browser, mentre i cookie persistenti rimangono sul tuo dispositivo, possono essere attivati quando visiti nuovamente il nostro sito web e possono anche essere eliminati manualmente. In generale, i cookie persistenti non danneggiano il tuo dispositivo, i tuoi programmi o i tuoi file.
+Utilizziamo cookie di sessione e cookie persistenti. I cookie di sessione vengono eliminati quando chiudi il browser. I cookie persistenti rimangono sul tuo dispositivo e vengono utilizzati quando visiti nuovamente il nostro sito web; puoi anche eliminarli manualmente. In genere, i cookie persistenti non danneggiano il tuo dispositivo, i tuoi programmi o i tuoi file.
 
-### Come posso gestire i cookie?
+### Come gestire i cookie?
 
-Puoi rifiutare tutti o alcuni cookie modificando le impostazioni del tuo browser. Per istruzioni, consulta la guida del browser che utilizzi. Tuttavia, se blocchi tutti i cookie (compresi quelli strettamente necessari), potresti non essere in grado di accedere al nostro sito web o a determinati contenuti.
+Puoi rifiutare tutti o alcuni cookie modificando le impostazioni del tuo browser. Per istruzioni, fare riferimento alla guida del browser specifico. Tuttavia, se blocchi tutti i cookie (compresi i cookie strettamente necessari), potresti non essere in grado di accedere al nostro sito Web o a determinati contenuti.
+
+Laddove richiesto dalla legge applicabile, otterremo il tuo consenso prima di inserire cookie non essenziali o utilizzare tecnologie simili (ad esempio, cookie analitici). Puoi revocare il tuo consenso in qualsiasi momento attraverso le impostazioni del browser o altri controlli disponibili.
 
 ## 7. Spiegazione delle autorizzazioni di estensione Safari
 
