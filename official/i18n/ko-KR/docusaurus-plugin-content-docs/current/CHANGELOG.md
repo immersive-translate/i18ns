@@ -14,6 +14,14 @@ sidebar_position: 6
 - [Firefox 스토어의 베타 버전](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.28.5 Release (2026-04-24)
+
+- Fixed: Fixed an issue where direct translation content disappeared when hovering with the mouse.
+- Fixed: Fixed an issue where Twitter subtitle downloads could fail.
+- Added: Added Document Translation and Text Translation entries to the new panel.
+- Fixed: Fixed a compatibility issue where document translation caching could fail in some browsers.
+- Fixed: Fixed missing translations in complex text structures when using Translation Only mode.
+
 ## 1.28.3 Release (2026-04-10)
 
 - Improved: Optimized the panel UI and interaction experience.

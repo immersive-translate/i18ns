@@ -16,6 +16,14 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.28.5 Release (2026-04-24)
+
+- 修復：滑鼠懸停時直接翻譯譯文消失的問題。
+- 修復：Twitter 字幕下載失敗的問題。
+- 新增：在新版面板中新增文件翻譯和文字翻譯入口。
+- 修復：部分瀏覽器中文件翻譯快取失敗的相容性問題。
+- 修復：僅譯文模式下複雜文字結構漏翻的問題。
+
 ## 1.28.3 Release (2026-04-15)
 
 - 優化：面板 UI 與互動體驗。

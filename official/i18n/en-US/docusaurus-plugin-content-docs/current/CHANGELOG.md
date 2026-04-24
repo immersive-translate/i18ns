@@ -16,6 +16,14 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.28.5 Release (2026-04-24)
+
+- Fixed: Fixed an issue where direct translation content disappeared when hovering with the mouse.
+- Fixed: Fixed an issue where Twitter subtitle downloads could fail.
+- Added: Added Document Translation and Text Translation entries to the new panel.
+- Fixed: Fixed a compatibility issue where document translation caching could fail in some browsers.
+- Fixed: Fixed missing translations in complex text structures when using Translation Only mode.
+
 ## 1.28.3 Release (2026-04-15)
 
 - Improved: Optimized the panel UI and interaction experience.
