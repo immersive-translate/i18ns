@@ -18,6 +18,14 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 - [versión beta en la tienda de Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.29.1 Release (2026-05-07)
+
+- Añadido: compatibilidad con el servicio de traducción plamo.
+- Mejorado: se mejoraron las marcas de maquetación para idiomas RTL en el modo Solo traducción.
+- Mejorado: se mejoró la coincidencia de algunas formas plurales de términos en inglés para reducir omisiones en la detección de términos.
+- Corregido: se corrigió el problema de vibración de los subtítulos al traducir subtítulos de Teams.
+- Corregido: se corrigió un problema por el que [Traducción por selección] no podía obtener correctamente el texto en escenarios con ShadowRoot.
+
 ## 1.28.5 Release (2026-04-24)
 
 - Fixed: Fixed an issue where direct translation content disappeared when hovering with the mouse.

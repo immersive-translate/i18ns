@@ -16,6 +16,14 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.29.1 Release (2026-05-07)
+
+- Added: Added support for the plamo translation service.
+- Improved: Improved RTL language layout markers in Translation Only mode.
+- Improved: Improved matching for some plural forms of English terms, reducing missed terminology matches.
+- Fixed: Fixed subtitle jitter during Teams subtitle translation.
+- Fixed: Fixed an issue where Text Selection Translation could not correctly capture selected text in ShadowRoot scenarios.
+
 ## 1.28.5 Release (2026-04-24)
 
 - Fixed: Fixed an issue where direct translation content disappeared when hovering with the mouse.

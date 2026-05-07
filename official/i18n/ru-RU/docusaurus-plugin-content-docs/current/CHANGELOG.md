@@ -18,6 +18,14 @@ sidebar_position: 6
 - [бета-версия в магазине Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.29.1 Release (2026-05-07)
+
+- Добавлено: поддержка сервиса перевода plamo.
+- Улучшено: улучшены маркеры верстки для RTL-языков в режиме «Только перевод».
+- Улучшено: улучшено сопоставление некоторых форм множественного числа английских терминов, что уменьшает пропуски терминов.
+- Исправлено: исправлено дрожание субтитров при переводе субтитров Teams.
+- Исправлено: исправлена проблема, из-за которой [Перевод по выделению] не мог корректно получить текст в сценариях с ShadowRoot.
+
 ## 1.28.5 Release (2026-04-24)
 
 - Fixed: Fixed an issue where direct translation content disappeared when hovering with the mouse.

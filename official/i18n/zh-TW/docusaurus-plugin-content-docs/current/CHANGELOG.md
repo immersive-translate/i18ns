@@ -16,6 +16,14 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.29.1 Release (2026-05-07)
+
+- 新增：支援 plamo 翻譯服務。
+- 優化：僅譯文模式下 RTL 語言的排版標記。
+- 優化：改善英文術語在部分複數形式下的匹配效果，減少術語命中遺漏。
+- 修復：Teams 字幕翻譯時字幕抖動的問題。
+- 修復：【劃詞翻譯】在 ShadowRoot 場景下無法正常取詞的問題。
+
 ## 1.28.5 Release (2026-04-24)
 
 - 修復：滑鼠懸停時直接翻譯譯文消失的問題。
