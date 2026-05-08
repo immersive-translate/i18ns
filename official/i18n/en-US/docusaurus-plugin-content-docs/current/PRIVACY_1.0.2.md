@@ -5,7 +5,7 @@ custom_edit_url: null
 
 # Immersive Translate Privacy Policy
 
-Last Updated: 2026-04-16
+Last Updated: 2026-04-24
 
 ## Introduction
 
@@ -15,16 +15,16 @@ This Policy aims to provide a unified global privacy protection framework and wi
 
 ## Data Controller
 
-The data controller of all information provided to, or collected by, the Immersive Translate service is Funstory.ai Limited (Hong Kong). If you have any questions about this Policy or our privacy practices, please contact our data protection officer by email at [support@immersivetranslate.com](mailto:support@immersivetranslate.com).
+The data controller of all information provided to, or collected by, the Immersive Translate service is Funstory.ai Limited (Hong Kong). If you have any questions about this Policy or our privacy practices, please contact our data protection officer by email at support@immersivetranslate.com.
 
 ## 1. Data Collection and Usage
 
 ### Information you provide to us
 
-- We collect only your email address, primarily for account identification, sign-in, password recovery, and to invite you to participate in follow-up product update experiences.
-- When you sign in with Google, Apple, WeChat, or similar third-party accounts, we collect the OpenID and email address provided by those third parties to provide a better sign-in experience.
-- When you use Immersive Translate’s file/image translation features, we collect the content you enter during translation (including images and files). This information is not linked to your personal information and is used only to improve and deliver translation services, in order to provide convenient, high-quality translation results for you.
-- When you use Immersive Translate’s BabelDoc translation features, we collect and store the content of files you upload primarily to improve translation quality. Your submitted text or files are not stored permanently, but are retained temporarily only to the extent necessary to provide and transmit translations or improvements, and are not linked to personal information. After we have fully performed the contracted services, all submitted text or files and their translations or improvements will be deleted.
+- We collect and use information you directly provide to deliver the services you request. For example, when you register an account, you provide your email address for identification, login, password recovery, and to invite you to participate in market research.
+- When you link your Immersive Translate account with third-party accounts such as Google, Apple, or WeChat, we collect OpenID and email addresses provided by these third parties to provide a better login experience.
+- When using the file/image translation functions of Immersive Translate, we collect the content you input during translation (including images and files). Such content will be analyzed and processed by our servers to extract translatable text. The extracted text will only be sent to the translation engine you select, so as to provide convenient, high-quality translation results.
+- When using the BabelDoc translation functions provided by Immersive Translate, we collect and store the content of files you upload to improve translation quality. Your submitted text or files will not be stored permanently, but will be retained temporarily only to the extent necessary to provide and transmit translations or improvements. After fully performing the contracted services, all submitted text or files and their translations or improvements will be deleted.
 - To process payments, we may use third-party payment service providers to process your payment information. We do not directly store your full bank or credit card information; such information is processed by payment service providers that meet industry security standards.
 
 ### Information we automatically collect
@@ -47,17 +47,23 @@ We retain personal information only for as long as necessary to fulfill the purp
 
 ## 2. Data Sharing
 
-We may share with our affiliates and third parties (the partner types described below) your uploaded translation files, order data, and device data as necessary to successfully provide the Service to you. Our partners include:
+We may share certain categories of personal information (including translation content you submit, order-related information, and device/usage information) with our affiliates and service providers only to the extent necessary to provide, maintain, secure, and improve the Service, and as otherwise permitted by applicable law. Our partners mainly include:
 
 ### 2.1 Suppliers
 
-- When providing PDF document translation services to subscribers, your uploaded PDF files are encrypted and transmitted to our third-party service provider Mathpix for processing to extract document content and generate machine-readable text required for translation. During this process, we follow the data minimization principle and transmit only the necessary files. We require Mathpix, under contractual obligations, to adopt industry-standard security measures to protect your documents. After processing, Mathpix returns the extracted content to us so that we can generate translation results. More information about Mathpix is available in its [privacy policy](https://mathpix.com/privacy). In addition, we do not share your personal information or personal data with third-party vendors or partners except where required by law.
+- When providing PDF document translation services to subscribers, your uploaded PDF files are encrypted and transmitted to our third-party service provider Mathpix for processing to extract document content and generate machine-readable text required for translation. During this process, we follow the data minimization principle and transmit only the necessary files. We require Mathpix, under contractual obligations, to adopt industry-standard security measures to protect your documents. After processing, Mathpix returns the extracted content to us so that we can generate translation results. More information about Mathpix is available in its privacy policy.
+- We do not sell your personal information to third-party vendors or partners unless required by law.
 
 ### 2.2 Third-party translation services
 
-- We use third-party translation services. When translating, we need to send translation-related content to those services. To our current knowledge, based on our contractual agreements with the relevant providers and their public statements, those service providers do not use such content to train their models.
+- We use third-party translation services, and translation-related content must be sent to these services for processing. Based on our current knowledge, contractual agreements with relevant providers, and their public statements:
+	- Free translation service providers (including SophNet, SiliconFlow, Tencent Cloud, and Zhipu);
+	- Pro membership model providers (including AWS, Azure OpenAI, DeepL, DeepL-Pro, OneRouter, SophNet, Alibaba Cloud, VolcEngine, and Tencent Cloud);
+	- Max membership model providers (including AWS, Azure OpenAI, OneRouter, and SophNet).
 
-When providing translation functions, relevant text may be securely transmitted to those third-party services for processing. Requests initiated directly by you from the client (such as custom APIs) are not part of the translation functions described here.
+Where applicable, we contractually require our third-party translation providers not to use Customer Content submitted through the Service to train their models or improve their services, except as permitted by our agreements and applicable law.
+
+When providing translation functions, relevant text may be securely transmitted to the above third-party services for translation purposes. Requests initiated directly by you from the client (such as custom APIs) are not part of the translation services described herein. If you configure the Service to send requests directly to a provider using your own credentials (e.g., a custom API key), the provider’s processing of such requests is governed by your agreement with that provider.
 
 We share content only to the extent necessary to provide translation functions, and we do not design translation services for the purpose of collecting personally identifiable information. We implement appropriate technical and organizational measures to protect data security.
 
@@ -94,8 +100,6 @@ Under circumstances permitted by applicable laws, you may request that we delete
 - You withdraw consent and no other legal basis for processing exists;
 - The information is processed unlawfully.
 
-You may also request deletion of your personal information by closing your account. You may submit a closure request via **Profile → Account management → Close account**. After you submit a closure request, it takes effect immediately: you will no longer be able to sign in or use the related services. Your user information, translation history, and order information will be deleted immediately, except where otherwise required by laws and regulations, and the email address used to register the account cannot be used to register again for **15 days**.
-
 ### 3.4 Right to withdraw consent
 
 Where we process personal information based on your consent, you may withdraw such consent at any time. Withdrawal of consent does not affect the lawfulness of processing carried out prior to withdrawal.
@@ -108,13 +112,16 @@ To the extent permitted by applicable laws, you may request to restrict or objec
 
 Where technically feasible and required by law, you may request to receive the personal information you provided in a structured, commonly used, and machine-readable format, or transmit it to another service provider where feasible.
 
+
+Where technically feasible and to the extent required by law, you may request to obtain the personal information you provided to us in a structured, commonly used, and machine-readable format, or, where feasible for you, have it transmitted to another service provider.
+
 ### 3.7 Right to non-discrimination
 
 We will not discriminate against you for exercising the rights set out in this section, including but not limited to refusing services, reducing service quality, or charging unreasonable fees.
 
 ### 3.8 Additional rights for California residents
 
-If you are a resident of California, USA, you may have additional privacy rights under applicable laws (including the California Consumer Privacy Act (“CCPA”) and its amendment, the California Privacy Rights Act (“CPRA”)), such as the right to know, access, deletion, and to opt out of the sale or sharing of personal information. We do not sell your personal information. To exercise such rights, you may contact us using the contact methods listed in **Section 11** of this Policy.
+If you are a resident of California, USA, you may have additional privacy rights under applicable laws (including the California Consumer Privacy Act (“CCPA”) and its amendment, the California Privacy Rights Act (“CPRA”)), such as the right to know, access, deletion, and to opt out of the sale or sharing of personal information. We do not sell your personal information. To exercise such rights, you may contact us using the methods listed in Section 11 of this Policy.
 
 You may submit the above requests through the contact information listed in Section 11 of this Policy. To protect your personal information, we may verify your identity within a reasonable scope.
 
@@ -168,11 +175,11 @@ This is mainly due to different privacy policies and notification mechanisms amo
 
 ### 7.3 How do we use these permissions?
 
-Permission to access and modify webpage content is used only to translate the webpages you view into your target language. Whether on Safari or Chrome, we take privacy seriously and commit to requesting additional permissions only when absolutely necessary. We encourage all users, regardless of browser, to read this Policy to better understand how we collect, use, and protect your data. If you have any questions about this Policy, please contact us at [support@immersivetranslate.com](mailto:support@immersivetranslate.com).
+Permission to access and modify webpage content is used only to translate the webpages you view into your target language. Whether on Safari or Chrome, we take privacy seriously and commit to requesting additional permissions only when absolutely necessary. We encourage all users, regardless of browser, to read this Policy to better understand how we collect, use, and protect your data. If you have any questions about this Policy, please contact us at support@immersivetranslate.com.
 
 ## 8. Children’s Information
 
-The Service is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information and otherwise comply with applicable law. Parents or legal guardians who believe that a child has provided us with personal information may contact us at [support@immersivetranslate.com](mailto:support@immersivetranslate.com).
+The Service is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information and otherwise comply with applicable law. Parents or legal guardians who believe that a child has provided us with personal information may contact us at support@immersivetranslate.com.
 
 Parents or legal guardians may request that we review, delete, or stop processing a child’s personal information, subject to applicable law and reasonable verification.
 
@@ -203,7 +210,7 @@ We have established incident handling procedures, including an Information Secur
 
 ## 11. Privacy-Related Inquiries and Complaints
 
-We highly respect and care about user privacy concerns and strive to resolve issues. If you believe your personal information has been handled in a manner inconsistent with this Policy, or you have other related inquiries or questions, please email us at [support@immersivetranslate.com](mailto:support@immersivetranslate.com). We will process complaints or inquiries promptly after receipt and will respond within one month. If we cannot fully or partially comply within the required period, we will notify you by email within that period and explain the reasons.
+We highly respect and care about user privacy concerns and strive to resolve issues. If you believe your personal information has been handled in a manner inconsistent with this Policy, or you have other related inquiries or questions, please email us at support@immersivetranslate.com. We will process complaints or inquiries promptly after receipt and will respond within one month. If we cannot fully or partially comply within the required period, we will notify you by email within that period and explain the reasons.
 
 ---
 

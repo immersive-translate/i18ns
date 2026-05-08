@@ -5,268 +5,267 @@ custom_edit_url: null
 
 # Immersive Translate Política de Privacidade
 
-Última atualização: 24/04/2026
+Última atualização: 2026-04-16
 
 ## Introdução
 
-Esta Política de Privacidade de Immersive Translate (a “Política”) se aplica ao serviço Immersive Translate (o “Serviço”) fornecido pela Funstory.ai Limited (Hong Kong) e suas afiliadas (a “Empresa”, “nós”, “nos” ou “nosso”). O Serviço pode conter links para sites de terceiros. Immersive Translate não é responsável pelas práticas de privacidade ou conteúdo de tais sites de terceiros. Encorajamos você a revisar cuidadosamente as declarações de privacidade desses sites.
+Esta Política de Privacidade da Immersive Translate (a “Política”) aplica-se ao serviço Immersive Translate (o “Serviço”) fornecido pela Funstory.ai Limited (Hong Kong) e suas afiliadas (a “Empresa”, “nós”, “nos” ou “nosso”). O Serviço pode conter links para sites de terceiros. A Immersive Translate não se responsabiliza pelas práticas de privacidade ou pelo conteúdo de tais sites de terceiros. Recomendamos que você analise com atenção as declarações de privacidade desses sites.
 
-Esta Política visa fornecer uma estrutura global unificada de proteção da privacidade e será adaptada e interpretada de acordo com as leis e regulamentos de proteção de dados pessoais aplicáveis ​​em diferentes jurisdições. Antes de usar o Serviço, leia esta Política com atenção para entender como processamos suas informações pessoais. Temos o compromisso de proteger as informações pessoais e a privacidade dos usuários que usam os produtos e serviços de Immersive Translate (coletivamente, “usuários” ou “você”). Através desta Política, explicamos as nossas regras de recolha e utilização das suas informações pessoais para melhor proteger os seus direitos e interesses.
+Esta Política visa oferecer um quadro global unificado de proteção de privacidade e será adaptada e interpretada de acordo com as leis e regulamentos aplicáveis de proteção de dados pessoais em diferentes jurisdições. Antes de usar o Serviço, leia esta Política com atenção para entender como tratamos suas informações pessoais. Estamos comprometidos em proteger as informações pessoais e a privacidade dos usuários que utilizam os produtos e serviços da Immersive Translate (em conjunto, “usuários” ou “você”). Por meio desta Política, explicamos nossas regras para coletar e usar suas informações pessoais, a fim de proteger melhor seus direitos e interesses.
 
 ## Controlador de dados
 
-O controlador de dados de todas as informações fornecidas ou coletadas pelo serviço Immersive Translate é a Funstory.ai Limited (Hong Kong). Se você tiver alguma dúvida sobre esta Política ou nossas práticas de privacidade, entre em contato com nosso responsável pela proteção de dados por e-mail em support@immersivetranslate.com.
+O controlador de dados de todas as informações fornecidas ao serviço Immersive Translate ou por ele coletadas é a Funstory.ai Limited (Hong Kong). Se tiver dúvidas sobre esta Política ou nossas práticas de privacidade, entre em contato com nosso encarregado de proteção de dados por e-mail em [support@immersivetranslate.com](mailto:support@immersivetranslate.com).
 
 ## 1. Coleta e uso de dados
 
 ### Informações que você nos fornece
 
-- Coletamos e usamos as informações que você fornece diretamente para fornecer os serviços solicitados. Por exemplo, ao registrar uma conta, você fornece seu endereço de e-mail para identificação, login, recuperação de senha e para convidá-lo a participar de pesquisas de mercado.
-- Quando você vincula sua conta Immersive Translate a contas de terceiros, como Google, Apple ou WeChat, coletamos OpenID e endereços de e-mail fornecidos por esses terceiros para fornecer uma melhor experiência de login.
-- Ao usar as funções de tradução de arquivos/imagens de Immersive Translate, coletamos o conteúdo que você insere durante a tradução (incluindo imagens e arquivos). Tal conteúdo será analisado e processado pelos nossos servidores para extrair texto traduzível. O texto extraído será enviado apenas para o mecanismo de tradução que você selecionar, para fornecer resultados de tradução convenientes e de alta qualidade.
-- Ao usar as funções de tradução BabelDoc fornecidas por Immersive Translate, coletamos e armazenamos o conteúdo dos arquivos que você envia para melhorar a qualidade da tradução. O texto ou arquivos enviados não serão armazenados permanentemente, mas serão retidos temporariamente apenas na medida necessária para fornecer e transmitir traduções ou melhorias. Após a execução integral dos serviços contratados, todos os textos ou arquivos enviados e suas traduções ou melhorias serão excluídos.
-- Para processar pagamentos, podemos usar prestadores de serviços de pagamento terceirizados para processar suas informações de pagamento. Não armazenamos diretamente suas informações bancárias ou de cartão de crédito completas; essas informações são processadas por prestadores de serviços de pagamento que atendem aos padrões de segurança do setor.
+- Coletamos apenas seu endereço de e-mail, principalmente para identificação de conta, login, recuperação de senha e para convidá-lo a participar de experiências de atualização de produto.
+- Quando você faz login com Google, Apple, WeChat ou contas de terceiros similares, coletamos o OpenID e o endereço de e-mail fornecidos por esses terceiros para oferecer uma melhor experiência de login.
+- Quando você usa os recursos de tradução de arquivos/imagens da Immersive Translate, coletamos o conteúdo que você insere durante a tradução (incluindo imagens e arquivos). Essas informações não são vinculadas às suas informações pessoais e são usadas apenas para aprimorar e fornecer o serviço de tradução, a fim de oferecer resultados de tradução convenientes e de alta qualidade.
+- Quando você usa os recursos de tradução BabelDoc da Immersive Translate, coletamos e armazenamos o conteúdo dos arquivos que você envia principalmente para melhorar a qualidade da tradução. Os textos ou arquivos enviados não são armazenados permanentemente; são retidos apenas temporariamente na medida necessária para fornecer e transmitir traduções ou melhorias, e não são vinculados a informações pessoais. Depois que cumprirmos integralmente os serviços contratados, todos os textos ou arquivos enviados, bem como suas traduções ou melhorias, serão excluídos.
+- Para processar pagamentos, podemos usar provedores de serviços de pagamento terceiros para tratar suas informações de pagamento. Não armazenamos diretamente seus dados completos bancários ou de cartão de crédito; tais dados são tratados por provedores de pagamento que atendem aos padrões de segurança da indústria.
 
 ### Informações que coletamos automaticamente
 
-- Coletamos informações sobre o uso do aplicativo, como frequência de uso e recursos que você utiliza. Esses dados são agregados e não se destinam a identificar diretamente qualquer indivíduo.
-- Ao usar a tradução de páginas da web, o conteúdo da tradução será enviado apenas para o mecanismo de tradução que você selecionar. Coletamos apenas estatísticas de uso (como frequência de tradução, uso de recursos e outras informações pseudonimizadas) para fornecer uma experiência mais conveniente e de alta qualidade e melhorar nossos serviços.
-- Ao usar os serviços Immersive Translate, coletamos e armazenamos logs de erros gerados durante a tradução para nos ajudar a investigar erros e melhorar a experiência do serviço.
-- Coletamos informações do seu dispositivo (como ID do dispositivo, tipo de navegador e versão) para melhorar nossos serviços. O ID do dispositivo é usado como um identificador pseudônimo e não se destina a identificá-lo diretamente.
-- Podemos coletar e usar seu endereço IP para determinar seu país ou região. Essas informações são usadas apenas para fornecer conteúdo localizado, otimizar produtos, garantir a segurança do serviço e evitar abusos.
+- Coletamos informações sobre o uso do aplicativo, como frequência de uso e funcionalidades que você utiliza. Esses dados são agregados e não se destinam a identificar diretamente qualquer indivíduo.
+- Ao usar a tradução de página, o conteúdo da tradução será enviado apenas ao motor de tradução que você selecionar. Coletamos apenas estatísticas de uso (como frequência de tradução, uso de recursos e outras informações pseudonimizadas) para proporcionar uma experiência mais conveniente e de alta qualidade e melhorar nossos serviços.
+- Ao usar os serviços da Immersive Translate, coletamos e armazenamos registros de erros gerados durante a tradução para nos ajudar a investigar falhas e aprimorar a experiência do serviço.
+- Coletamos informações do seu dispositivo (como ID do dispositivo, tipo de navegador e versão) para melhorar nossos serviços. O ID do dispositivo é usado como identificador pseudônimo e não se pretende identificá-lo diretamente.
+- Podemos coletar e usar seu endereço IP para determinar seu país ou região. Essas informações são usadas apenas para fornecer conteúdo localizado, otimizar produtos, garantir a segurança do serviço e prevenir abuso.
 
-Usamos Google Analytics e nossos serviços de análise auto-hospedados (por exemplo, analytics.immersivetranslate.com) para coletar informações de uso. Essas informações são normalmente agregadas e/ou pseudonimizadas (ou desidentificadas quando possível) e são usadas para compreender padrões de uso e melhorar o Serviço. Você pode gerenciar ou desativar cookies analíticos não essenciais por meio das configurações do navegador ou de ferramentas relacionadas. Não o usamos para identificá-lo diretamente.
+Usamos o Google Analytics e nossos serviços de análise auto-hospedados (por exemplo, analytics.immersivetranslate.com) para coletar dados de uso. Essas informações costumam ser agregadas e/ou pseudonimizadas (ou anonimizadas quando viável) e servem para entender padrões de uso e melhorar o Serviço. Você pode gerenciar ou recusar cookies analíticos não essenciais por meio das configurações do navegador ou ferramentas relacionadas. Não usamos isso para identificá-lo diretamente.
 
 ## Período de retenção de dados
 
-Retemos informações pessoais apenas pelo tempo necessário para cumprir os propósitos descritos nesta Política. Por exemplo:
+Conservamos informações pessoais apenas pelo tempo necessário para cumprir as finalidades descritas nesta Política. Por exemplo:
 
-- As informações da conta são geralmente retidas enquanto a conta permanecer ativa;
-- Os logs e registros de segurança são usados ​​para garantir a segurança do sistema e serão excluídos ou pseudonimizados após um período razoável;
-- As informações relacionadas às transações podem ser retidas por mais tempo devido a obrigações legais ou contábeis.
+- As informações da conta são, em geral, mantidas enquanto a conta estiver ativa;
+- Logs e registros de segurança são usados para garantir a segurança do sistema e serão excluídos ou pseudonimizados após um período razoável;
+- Informações relacionadas a transações podem ser retidas por mais tempo em razão de obrigações legais ou contábeis.
 
 ## 2. Compartilhamento de dados
 
-Podemos compartilhar certas categorias de informações pessoais (incluindo conteúdo de tradução que você envia, informações relacionadas a pedidos e informações de uso/dispositivo) com nossas afiliadas e prestadores de serviços apenas na medida necessária para fornecer, manter, proteger e melhorar o Serviço, e conforme permitido pela lei aplicável. Nossos parceiros incluem principalmente:
+Podemos compartilhar com afiliadas e terceiros (os tipos de parceiros descritos abaixo), conforme necessário para prestar adequadamente o Serviço, seus arquivos de tradução enviados, dados de pedidos e dados do dispositivo. Nossos parceiros incluem:
 
 ### 2.1 Fornecedores
 
-- Ao fornecer serviços de tradução de documentos PDF aos assinantes, os arquivos PDF carregados são criptografados e transmitidos ao nosso provedor de serviços terceirizado Mathpix para processamento, extração do conteúdo do documento e geração do texto legível por máquina necessário para tradução. Durante este processo, seguimos o princípio da minimização de dados e transmitimos apenas os ficheiros necessários. Exigimos que Mathpix, sob obrigações contratuais, adote medidas de segurança padrão do setor para proteger seus documentos. Após o processamento, Mathpix nos retorna o conteúdo extraído para que possamos gerar resultados de tradução. Mais informações sobre Mathpix estão disponíveis em sua política de privacidade.
-- Não vendemos suas informações pessoais a fornecedores ou parceiros terceirizados, a menos que exigido por lei.
+- Ao prestar tradução de documentos PDF para assinantes, seus arquivos PDF enviados são criptografados e transmitidos ao nosso provedor terceiro Mathpix para extrair o conteúdo e gerar o texto legível por máquina necessário para a tradução. Nesse processo seguimos o princípio da minimização de dados e enviamos apenas os arquivos necessários. Exigimos contratualmente que o Mathpix adote medidas de segurança padrão do setor para proteger seus documentos. Após o processamento, o Mathpix devolve o conteúdo extraído para que possamos gerar os resultados de tradução. Mais informações sobre o Mathpix estão na [política de privacidade](https://mathpix.com/privacy) da empresa. Além disso, não compartilhamos suas informações pessoais ou dados pessoais com fornecedores ou parceiros terceiros, exceto quando exigido por lei.
 
 ### 2.2 Serviços de tradução de terceiros
 
-- Utilizamos serviços de tradução de terceiros e o conteúdo relacionado à tradução deve ser enviado a esses serviços para processamento. Com base no nosso conhecimento atual, acordos contratuais com fornecedores relevantes e nas suas declarações públicas:
-	- Provedores de serviços de tradução gratuitos (incluindo SophNet, SiliconFlow, Tencent Cloud e Zhipu);
-	- Provedores de modelos de associação Pro (incluindo AWS, Azure OpenAI, DeepL, DeepL-Pro, OneRouter, SophNet, Alibaba Cloud, VolcEngine e Tencent Cloud);
-	- Máximo de provedores de modelos de associação (incluindo AWS, Azure OpenAI, OneRouter e SophNet).
+- Usamos serviços de tradução de terceiros. Ao traduzir, precisamos enviar o conteúdo relacionado a esses serviços. Com base no que conhecemos hoje e em nossos contratos com os provedores e suas declarações públicas, entendemos que esses provedores não usam esse conteúdo para treinar seus modelos.
 
-Quando aplicável, exigimos contratualmente que nossos fornecedores de tradução terceirizados não utilizem o Conteúdo do Cliente enviado por meio do Serviço para treinar seus modelos ou melhorar seus serviços, exceto conforme permitido por nossos contratos e pela legislação aplicável.
+Ao fornecer funções de tradução, o texto relevante pode ser transmitido com segurança a esses serviços para processamento. Solicitações iniciadas diretamente por você no cliente (como APIs personalizadas) não fazem parte das funções de tradução aqui descritas.
 
-Ao fornecer funções de tradução, o texto relevante pode ser transmitido com segurança aos serviços de terceiros acima mencionados para fins de tradução. Solicitações iniciadas diretamente por você a partir do cliente (como APIs personalizadas) não fazem parte dos serviços de tradução aqui descritos. Se você configurar o Serviço para enviar solicitações diretamente a um provedor usando suas próprias credenciais (por exemplo, uma chave de API personalizada), o processamento de tais solicitações pelo provedor será regido pelo seu contrato com esse provedor.
+Compartilhamos conteúdo apenas na medida necessária para fornecer as funções de tradução e não projetamos os serviços de tradução para coletar informações diretamente identificáveis. Implementamos medidas técnicas e organizacionais adequadas para proteger a segurança dos dados.
 
-Compartilhamos conteúdo apenas na medida necessária para fornecer funções de tradução e não projetamos serviços de tradução com a finalidade de coletar informações de identificação pessoal. Implementamos medidas técnicas e organizacionais adequadas para proteger a segurança dos dados.
+### 2.3 Instituições financeiras e provedores de pagamento terceiros
 
-### 2.3 Instituições financeiras e provedores de pagamento terceirizados
-
-- Quando você adquire serviços ou solicita reembolsos, compartilhamos apenas as informações necessárias para concluir a transação (somente endereço de e-mail) com instituições financeiras ou provedores de pagamento terceirizados, na medida permitida pelas leis aplicáveis. Se considerarmos razoavelmente necessário para detecção e prevenção de fraudes, poderemos compartilhar informações adicionais necessárias com instituições financeiras relevantes (que, na prática, podem incluir o seu endereço de e-mail).
+- Ao comprar serviços ou solicitar reembolsos, compartilhamos apenas as informações necessárias para concluir a transação (apenas o endereço de e-mail) com instituições financeiras ou provedores de pagamento terceiros, na medida permitida pela lei aplicável. Se razoavelmente considerarmos necessário para detecção e prevenção de fraudes, podemos compartilhar informações adicionais pertinentes com as instituições financeiras relevantes (o que na prática pode incluir seu e-mail).
 
 ### 2.4 Empresas afiliadas
 
-- Compartilhamos suas informações pessoais com empresas afiliadas para lhe fornecer serviços e informações ideais sobre outros produtos e serviços relacionados. Todos os departamentos da Empresa adotam medidas de proteção de dados pessoais não menos rigorosas que as estabelecidas nesta Política.
+- Compartilhamos suas informações pessoais com empresas afiliadas para oferecer serviços ideais e informações sobre outros produtos e serviços relacionados. Todos os departamentos da Empresa adotam medidas de proteção de dados pessoais que não são menos rigorosas do que as estabelecidas nesta Política.
 
 ## 3. Seus direitos
 
-De acordo com as leis e regulamentos aplicáveis de proteção de dados pessoais, você tem os seguintes direitos em relação às informações pessoais que processamos. Responderemos às suas solicitações de acordo com a lei e dentro de um prazo razoável.
+Nos termos das leis e regulamentos aplicáveis de proteção de dados pessoais, você tem os seguintes direitos relativamente às informações pessoais que tratamos. Responderemos às suas solicitações conforme a lei e em um prazo razoável.
 
 ### 3.1 Direito de acesso e informação
 
-Você pode solicitar confirmação se processamos suas informações pessoais e, dentro do escopo permitido pelas leis aplicáveis, obter informações relevantes, incluindo:
+Você pode solicitar confirmação sobre se tratamos suas informações pessoais e, no âmbito permitido pelas leis aplicáveis, obter informações relevantes, incluindo:
 
-- O tipo de informação pessoal que possuímos;
+- O tipo de informações pessoais que mantemos;
 - A finalidade do uso;
-- A fonte da informação e os tipos de destinatários;
-- O período de conservação ou os critérios utilizados para determinar esse período.
+- A origem das informações e os tipos de destinatários;
+- O período de retenção ou os critérios usados para defini-lo.
 
-### 3.2 Direito à correção e complementação
+### 3.2 Direito de retificação e complementação
 
-Se você acredita que as informações pessoais que processamos são imprecisas ou incompletas, você pode solicitar que as corrijamos ou complementemos.
+Se considerar que as informações pessoais que tratamos estão inexatas ou incompletas, pode solicitar que as retifiquemos ou complementemos.
 
-### 3.3 Direito de apagar e interromper o processamento
+### 3.3 Direito de exclusão e de cessar o tratamento
 
-Sob circunstâncias permitidas pelas leis aplicáveis, você pode solicitar que excluamos suas informações pessoais ou paremos de processá-las, por exemplo:
+Nas circunstâncias permitidas pelas leis aplicáveis, você pode solicitar que excluamos suas informações pessoais ou que cessemos o tratamento posterior, por exemplo:
 
-- A informação já não é necessária para a finalidade original;
-- Você retira o consentimento e não existe outra base legal para o processamento;
-- A informação é processada ilegalmente.
+- Quando as informações não são mais necessárias para a finalidade original;
+- Quando você retira o consentimento e não há outra base legal para o tratamento;
+- Quando as informações foram tratadas de forma ilegal.
+
+Também pode solicitar exclusão encerrando sua conta em **Perfil → Gerenciamento de conta → Encerrar conta**. Após o envio do pedido, ele produz efeito imediato: você não poderá mais iniciar sessão nem usar os serviços relacionados. Suas informações de usuário, histórico de tradução e dados de pedidos serão excluídos na hora, salvo quando a lei exigir o contrário, e o e-mail usado no cadastro não poderá ser registrado novamente por **15 dias**.
 
 ### 3.4 Direito de retirar o consentimento
 
-Quando processamos informações pessoais com base no seu consentimento, você poderá retirar esse consentimento a qualquer momento. A retirada do consentimento não afeta a legalidade do processamento realizado antes da retirada.
+Quando tratarmos dados pessoais com base em seu consentimento, você poderá revogá-lo a qualquer momento. A revogação não afeta a licitude do tratamento realizado antes dela.
 
-### 3.5 Direito de restringir ou opor-se a determinado processamentoNa medida permitida pelas leis aplicáveis, você pode solicitar a restrição ou oposição a determinado processamento de suas informações pessoais, como processamento para marketing direto ou para fins analíticos específicos.
+### 3.5 Direito de restringir ou opor-se a determinados tratamentos
+
+Na medida permitida pelas leis aplicáveis, você pode solicitar restringir ou opor-se a certos tratamentos de suas informações pessoais, como para marketing direto ou análises específicas.
 
 ### 3.6 Direito à portabilidade dos dados (quando aplicável)
 
-Sempre que for tecnicamente viável e exigido por lei, você poderá solicitar o recebimento das informações pessoais fornecidas em um formato estruturado, comumente usado e legível por máquina, ou transmiti-las a outro provedor de serviços, sempre que viável.
-
-
-Na medida em que isso seja tecnicamente viável e exigido por lei, voce pode solicitar receber as informacoes pessoais que nos forneceu em formato estruturado, de uso comum e legivel por maquina ou, quando isso for viavel para voce, solicitar a sua transmissao a outro prestador de servicos.
+Quando for tecnicamente viável e exigido por lei, você poderá solicitar receber em formato estruturado, de uso comum e legível por máquina os dados que forneceu, ou fazê-los transmitir a outro prestador quando possível.
 
 ### 3.7 Direito à não discriminação
 
-Não iremos discriminar você por exercer os direitos estabelecidos nesta seção, incluindo, entre outros, recusar serviços, reduzir a qualidade do serviço ou cobrar taxas injustificadas.
+Não o discriminaremos por exercer os direitos desta seção, inclusive recusando serviços, reduzindo a qualidade ou cobrando taxas injustificadas.
 
-### 3.8 Direitos adicionais para residentes da Califórnia
+### 3.8 Direitos adicionais para residentes na Califórnia
 
-Se você residir na Califórnia, EUA, poderá ter direitos de privacidade adicionais sob as leis aplicáveis (incluindo a Lei de Privacidade do Consumidor da Califórnia (“CCPA”) e sua alteração, a Lei de Direitos de Privacidade da Califórnia (“CPRA”), como o direito de saber, acessar, excluir e optar por não vender ou compartilhar informações pessoais. Não vendemos suas informações pessoais. Para exercer tais direitos, você pode entrar em contato conosco através dos métodos listados na Seção 11 desta Política.
+Se você é residente da Califórnia, EUA, pode ter direitos adicionais conforme leis aplicáveis (incluindo a California Consumer Privacy Act (“CCPA”) e sua alteração, California Privacy Rights Act (“CPRA”)), como saber quais dados coletamos, acessá-los, pedir exclusão e recusar a venda ou o compartilhamento de informações pessoais. Não vendemos suas informações pessoais. Para exercer esses direitos, use os meios indicados na **Seção 11** desta Política.
 
-Você pode enviar as solicitações acima por meio das informações de contato listadas na Seção 11 desta Política. Para proteger suas informações pessoais, poderemos verificar sua identidade dentro de um escopo razoável.
+Você pode enviar os pedidos acima pelos contatos da Seção 11. Para proteger seus dados, podemos verificar sua identidade em um escopo razoável.
 
-## 4. Tomada de decisão e criação de perfil automatizadas
+## 4. Tomada de decisão automatizada e elaboração de perfis
 
-Para melhorar a qualidade do servico e a experiencia do usuario, poderemos analisar informacoes baseadas no seu uso do Servico e gerar informacoes de rotulagem que reflitam habitos gerais de uso ou preferencias. Essa analise baseia-se principalmente em informacoes como uso de funcionalidades, comportamento operacional e padroes de interacao durante o uso do Servico, e e tratada de forma categorizada ou estatistica. Para reduzir o impacto sobre suas informacoes pessoais, a geracao e o tratamento dessas etiquetas sao realizados localmente em seu dispositivo, e nao coletamos nem armazenamos os enderecos especificos de sites que voce visita nem o conteudo detalhado da sua navegacao.
+Podemos analisar informações com base no uso do Serviço para melhorar a qualidade e a experiência, e gerar informações de tags que reflitam hábitos ou preferências gerais de uso. Essa análise usa principalmente dados como uso de recursos, comportamento operacional e padrões de interação durante o uso, sendo tratados de modo categorizado ou estatístico. Para reduzir o impacto sobre seus dados pessoais, a geração e o tratamento dessas tags são concluídos localmente no seu dispositivo; não coletamos nem armazenamos os endereços específicos dos sites que você visita nem o conteúdo detalhado da navegação.
 
-Com base nisso, poderemos associar as informacoes de rotulagem relevantes a sua conta ou ao identificador do seu dispositivo para compreender o comportamento geral dos usuarios, otimizar as funcionalidades do produto e a experiencia do servico, melhorar a apresentacao de conteudo e o desenho de funcionalidades e, quando apropriado, fornecer produtos ou servicos mais aderentes as necessidades dos usuarios.
+Com base nisso, podemos associar tais tags à sua conta ou ao identificador do dispositivo para entender o comportamento dos usuários, otimizar recursos e a experiência, melhorar a apresentação de conteúdo e o desenho de funcionalidades e, quando apropriado, oferecer produtos ou serviços mais alinhados às necessidades.
 
-Nao tomaremos decisoes que produzam efeitos juridicos significativos ou efeitos significativos semelhantes para voce com base exclusivamente em tratamento automatizado, sem intervencao humana. Se as leis aplicaveis em diferentes jurisdicoes impuserem requisitos adicionais sobre tratamento automatizado ou tomada de decisao algoritmica, nos os cumpriremos de acordo com a lei.
+Não tomamos decisões que produzam efeitos jurídicos significativos ou efeitos similarmente relevantes apenas com tratamento automatizado sem envolvimento humano. Se leis locais impuserem requisitos adicionais sobre tratamento automatizado ou decisões algorítmicas, observaremos tais normas.
 
-Assim, o Servico atualmente nao esta sujeito a regras especiais sobre tomada de decisao automatizada. A analise e o tratamento de etiquetas baseados no uso acima descritos nao produzirao efeitos juridicos significativos nem efeitos significativos semelhantes para voce, e nao trataremos suas informacoes pessoais exclusivamente por meios automatizados de uma forma que possa afetar negativamente seus direitos e interesses pessoais.
+Assim, o Serviço não está atualmente sujeito a regras especiais sobre decisão automatizada. A análise e o tratamento de tags mencionados não produzem efeitos jurídicos relevantes nem similarmente relevantes sobre você, e não tratamos seus dados apenas de forma automatizada de modo que prejudique seus direitos e interesses.
 
-Se, no futuro, introduzirmos, em cenarios especificos, decisoes automatizadas que possam ter impacto significativo sobre voce ou metodos adicionais de analise e tratamento de dados, forneceremos as informacoes necessarias conforme exigido por lei e obteremos seu consentimento quando a legislacao aplicavel assim o exigir.
+Se no futuro introduzirmos decisão automatizada com impacto relevante sobre você ou novos métodos de análise em cenários específicos, prestaremos as informações exigidas por lei e obtiveremos seu consentimento quando a lei assim exigir.
 
-## 5. Alterações a esta Política de PrivacidadePoderemos revisar esta Política de Privacidade de tempos em tempos. Registraremos a data da “última atualização” e as atualizações entrarão em vigor imediatamente após a publicação. Se as atualizações afetarem materialmente os seus direitos, forneceremos um aviso apropriado de acordo com as leis aplicáveis, e as alterações materiais serão publicadas com destaque (por exemplo, através de um aviso pop-up para determinadas alterações no serviço). Você deve revisar esta Política regularmente para se manter informado sobre nossos termos mais recentes.
+## 5. Alterações nesta Política de Privacidade
 
-## 6. Termos de cookies
+Podemos revisar esta Política periodicamente. Registramos a data de “Última atualização” e as atualizações entram em vigor ao serem publicadas. Se mudanças afetarem materialmente seus direitos, daremos aviso conforme a lei aplicável e alterações materiais serão destacadas (por exemplo, via pop-up sobre certas mudanças no serviço). Revise esta Política regularmente para conhecer nossos termos mais recentes.
 
-### O que sao cookies?
+## 6. Termos sobre cookies
 
-Um "cookie" e um pequeno fragmento de dados gerado por um servidor web e armazenado no dispositivo do usuario.
+### O que são cookies?
 
-### Que cookies utilizamos?
+Um “cookie” é um pequeno conjunto de dados gerado por um servidor web e armazenado no dispositivo do usuário.
 
-Utilizamos cookies de sessao e cookies persistentes. Os cookies de sessao sao excluidos quando voce fecha o navegador, enquanto os cookies persistentes permanecem no seu dispositivo, podem ser ativados na sua proxima visita ao nosso site e tambem podem ser excluidos manualmente. Em geral, os cookies persistentes nao danificam seu dispositivo, programas ou arquivos.
+### Quais cookies utilizamos?
+
+Utilizamos cookies de sessão e persistentes. Os de sessão são excluídos ao fechar o navegador; os persistentes permanecem no dispositivo, são ativados na próxima visita ao site e podem ser removidos manualmente. Em geral, cookies persistentes não danificam o dispositivo, programas ou arquivos.
 
 ### Como gerenciar cookies?
 
-Voce pode recusar todos ou alguns cookies ajustando as configuracoes do seu navegador. Para obter instrucoes, consulte o guia do navegador que voce utiliza. No entanto, se bloquear todos os cookies (inclusive os estritamente necessarios), talvez nao consiga acessar nosso site ou determinados conteudos.
+Você pode recusar todos ou parte dos cookies nas configurações do navegador. Consulte a ajuda do seu navegador. Se bloquear todos os cookies (incluindo os estritamente necessários), talvez não consiga acessar nosso site ou determinado conteúdo.
 
-## 7. Explicação das permissões de extensão Safari
+## 7. Explicação das permissões da extensão no Safari
 
-Ao ativar a extensão Immersive Translate em Safari, você poderá ver um aviso de permissão informando:
+Ao ativar a extensão Immersive Translate no Safari, pode aparecer um aviso de permissão assim:
 
-“Esta extensão pode ler e modificar informações confidenciais, incluindo detalhes de cartões bancários.”
+“This extension can read and modify sensitive information including bank card details.”
 
-Entendemos que isso pode causar preocupação e fornecemos os seguintes compromissos de histórico e privacidade:
+Entendemos que isso pode preocupar e esclarecemos abaixo o contexto e nossos compromissos de privacidade:
 
-### 7.1 O que significa este aviso?
+### 7.1 O que esse aviso significa?
 
-Este aviso significa que nossa extensão de tradução requer permissão para ler e modificar o conteúdo da página da Web para fornecer serviços de tradução enquanto você navega. Isso significa que a extensão processará o texto que você está visualizando e o traduzirá para o idioma selecionado.Em relação às “informações sensíveis”: tecnicamente, a extensão é capaz de ler todo o conteúdo de uma página web, incluindo dados potencialmente sensíveis. No entanto, nossa extensão de tradução concentra-se na tradução de texto e não coleta ou utiliza intencionalmente suas informações privadas (como detalhes de cartão bancário).
+Significa que a extensão de tradução precisa de permissão para ler e modificar o conteúdo da página para traduzir enquanto você navega — ou seja, processará o texto exibido e o traduzirá para o idioma escolhido.
 
-### 7.2 Por que apenas Safari mostra este aviso, enquanto Chrome, Edge e outros navegadores não?
+Quanto a “informações sensíveis”: tecnicamente, a extensão pode ler todo o conteúdo da página, inclusive dados sensíveis. No entanto, nossa extensão foca na tradução de texto e não coleta nem usa deliberadamente informações privadas (como dados de cartão bancário).
 
-Isto se deve principalmente às diferentes políticas de privacidade e mecanismos de notificação entre os navegadores. Safari tende a informar os usuários antecipadamente sobre todas as permissões possíveis, mesmo que tais permissões sejam usadas apenas de forma muito limitada na prática. Chrome não pode apresentar avisos de destaque semelhantes se o desenvolvedor tiver divulgado como as permissões são usadas. A abordagem de Safari visa garantir que os usuários estejam totalmente cientes das permissões solicitadas pelas extensões instaladas, mesmo que tais permissões sejam usadas apenas em casos extremos ou nem sejam usadas.
+### 7.2 Por que só o Safari mostra esse aviso e não Chrome, Edge etc.?
+
+Isso decorre sobretudo de políticas de privacidade e mecanismos de notificação diferentes entre navegadores. O Safari costuma informar antecipadamente todas as permissões possíveis, mesmo que na prática o uso seja muito restrito. O Chrome pode não exibir alertas similares se o desenvolvedor já explicar o uso das permissões. A abordagem do Safari visa garantir que o usuário saiba todas as permissões solicitadas pela extensão instalada, mesmo quando usadas apenas em casos extremos ou nunca.
 
 ### 7.3 Como usamos essas permissões?
 
-A permissão para acessar e modificar o conteúdo da página da web é usada apenas para traduzir as páginas da web que você visualiza para o seu idioma de destino. Seja em Safari ou Chrome, levamos a privacidade a sério e nos comprometemos a solicitar permissões adicionais somente quando for absolutamente necessário. Encorajamos todos os usuários, independentemente do navegador, a ler esta Política para entender melhor como coletamos, usamos e protegemos seus dados. Se você tiver alguma dúvida sobre esta Política, entre em contato conosco pelo telefone support@immersivetranslate.com.
+A permissão para acessar e modificar páginas é usada somente para traduzir os sites para o idioma desejado. No Safari ou no Chrome, levamos a privacidade a sério e solicitamos permissões extras apenas quando estritamente necessário. Encorajamos você a ler esta Política para entender como coletamos, usamos e protegemos seus dados. Dúvidas: [support@immersivetranslate.com](mailto:support@immersivetranslate.com).
 
-## 8. Informações infantis
+## 8. Informações de menores de idade
 
-O Serviço não é direcionado a crianças menores de 13 anos. Não coletamos intencionalmente informações pessoais de crianças menores de 13 anos. Se tomarmos conhecimento de que coletamos informações pessoais de uma criança menor de 13 anos, tomaremos medidas para excluir tais informações e cumpriremos a lei aplicável. Os pais ou responsáveis ​​legais que acreditem que uma criança nos forneceu informações pessoais podem entrar em contato conosco pelo telefone support@immersivetranslate.com.
+O Serviço não se dirige a crianças menores de 13 anos. Não coletamos intencionalmente dados pessoais de menores de 13 anos. Se soubermos que coletamos dados de uma criança com menos de 13 anos, adotaremos medidas para excluir essas informações e cumprir a lei aplicável. Pais ou responsáveis que acreditarem que uma criança nos forneceu dados podem entrar em contato em [support@immersivetranslate.com](mailto:support@immersivetranslate.com).
 
-Os pais ou responsáveis ​​legais podem solicitar que revisemos, excluamos ou interrompamos o processamento das informações pessoais de uma criança, sujeito à lei aplicável e à verificação razoável.
+Pais ou responsáveis podem solicitar revisão, exclusão ou cessação do tratamento dos dados da criança, conforme a lei e mediante verificação razoável.
 
-## 9. Armazenamento de dados e transferências transfronteiriçasPara lhe fornecer o Serviço e garantir a estabilidade e segurança do sistema, as suas informações pessoais serão armazenadas ou processadas na República da Coreia. Devido à natureza global do nosso negócio, também poderemos processar ou transferir informações pessoais para outros locais onde nós ou os nossos prestadores de serviços operamos, sujeitos às salvaguardas apropriadas e à legislação aplicável. Cumprimos as leis e regulamentos aplicáveis ​​de proteção de dados pessoais e implementamos medidas apropriadas de proteção de dados em diferentes jurisdições para garantir que suas informações pessoais recebam um nível de proteção equivalente ao do local de coleta.
+## 9. Armazenamento de dados e transferências internacionais
 
-As salvaguardas de transferência transfronteiriça de dados podem variar entre diferentes jurisdições. O seguinte se aplica apenas onde GDPR ou GDPR do Reino Unido se aplica:
+Para prestar o Serviço e manter estabilidade e segurança do sistema, suas informações pessoais podem ser armazenadas ou tratadas na República da Coreia. Devido ao caráter global dos negócios, também podemos tratar ou transferir dados para outros locais onde operamos ou onde operam nossos prestadores de serviço, mediante salvaguardas adequadas e conforme a lei. Cumpriremos leis aplicáveis e adotaremos medidas adequadas em cada jurisdição para garantir um nível de proteção equivalente ao do local de coleta.
 
-Se as informações pessoais forem transferidas para um país ou território fora da União Europeia/Espaço Económico Europeu, garantiremos a proteção adequada através de um ou mais dos seguintes mecanismos:
+As salvaguardas para transferência internacional variam conforme a jurisdição. O seguinte aplica-se somente onde o GDPR ou o UK GDPR forem aplicáveis:
 
-- Decisões de adequação adotadas pela Comissão Europeia e regulamentos de adequação emitidos pelo Gabinete do Comissário de Informação do Reino Unido (ICO), confirmando que o nível de proteção de dados das jurisdições relevantes é adequado. Poderá obter mais informações junto da Comissão Europeia em:
-	[https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en)
-	e do Reino Unido ICO em:
-	[https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-transfers-a-guide/#Q1](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-transfers-a-guide/#Q1)
-- Cláusulas Contratuais Padrão aprovadas pela Decisão de Execução (UE) 2021/914 da UE, de 4 de junho de 2021 (disponível em:
-	[https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32021D0914](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32021D0914)), ou cláusulas padrão de proteção de dados aprovadas pelo Reino Unido ICO (disponíveis em:
-	[https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-data-transfer-agreement-and-guidance/](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-data-transfer-agreement-and-guidance/)).
-- Outros mecanismos e medidas técnicas adequadas para garantir a segurança e conformidade dos dados.
+Se dados pessoais forem transferidos para fora da União Europeia ou do Espaço Econômico Europeu, garantiremos proteção adequada por um ou mais dos seguintes mecanismos:
 
-Quando a Lei de Proteção de Informações Pessoais do Japão (APPI) for aplicável, implementaremos a supervisão necessária e apropriada sobre destinatários estrangeiros e exigiremos que eles adotem continuamente medidas de segurança que atendam aos padrões do setor.
+- Decisões de adequação adotadas pela Comissão Europeia e normas de adequação do ICO do Reino Unido ([https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en); ICO: [https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-transfers-a-guide/#Q1](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-transfers-a-guide/#Q1));
+- Cláusulas contratuais tipo aprovadas pela Decisão de Execução (UE) 2021/914 de 4 de junho de 2021 ([https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32021D0914](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32021D0914)) ou cláusulas de proteção de dados aprovadas pelo ICO do Reino Unido ([https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-data-transfer-agreement-and-guidance/](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-data-transfer-agreement-and-guidance/));
+- Outros mecanismos e medidas técnicas apropriados para garantir segurança e conformidade dos dados.
 
-Ao utilizar nosso Serviço, você reconhece que suas informações pessoais podem ser armazenadas ou processadas de acordo com esta Política e fornecidas aos nossos prestadores de serviços terceirizados de confiança de forma legal e compatível.
+Onde se aplicar a Lei Japonesa de Proteção de Dados Pessoais (APPI), implementamos supervisão necessária e adequada sobre destinatários no exterior e exigimos que adotem continuamente medidas de segurança alinhadas ao setor.
 
-## 10. Tratamento de incidentes de segurança de dadosEstabelecemos procedimentos de tratamento de incidentes, incluindo um Procedimento de Gestão de Incidentes de Segurança da Informação e um Sistema de Gestão de Resposta a Emergências. No caso de violação, alteração ou perda de dados que possa afetar a segurança das suas informações pessoais, tomaremos medidas corretivas de acordo com as leis e regulamentos aplicáveis ​​e notificaremos imediatamente as autoridades reguladoras relevantes e os usuários afetados, quando exigido por lei.
+Ao usar o Serviço, você reconhece que seus dados podem ser armazenados ou tratados conforme esta Política e fornecidos de forma lícita e em conformidade aos prestadores terceiros encarregados.
+
+## 10. Tratamento de incidentes de segurança de dados
+
+Temos procedimentos de resposta a incidentes, inclusive um procedimento de gestão de incidentes de segurança da informação e um sistema de gestão de resposta emergencial. Em caso de violação, alteração ou perda que possa afetar a segurança das suas informações pessoais, adotamos medidas corretivas segundo a lei aplicável e, quando exigido, notificamos prontamente as autoridades reguladoras e os usuários afetados.
 
 ## 11. Consultas e reclamações relacionadas à privacidade
 
-Respeitamos e nos preocupamos muito com as preocupações com a privacidade do usuário e nos esforçamos para resolver os problemas. Se você acredita que suas informações pessoais foram tratadas de maneira inconsistente com esta Política, ou se tiver outras dúvidas ou dúvidas relacionadas, envie-nos um e-mail para support@immersivetranslate.com. Processaremos reclamações ou dúvidas imediatamente após o recebimento e responderemos dentro de um mês. Se não conseguirmos cumprir total ou parcialmente dentro do prazo exigido, iremos notificá-lo por e-mail dentro desse prazo e explicaremos os motivos.
+Respeitamos e nos importamos com as preocupações dos usuários com a privacidade e buscamos resolver questões. Se considerar que seus dados foram tratados de forma incompatível com esta Política ou tiver outras dúvidas, escreva para [support@immersivetranslate.com](mailto:support@immersivetranslate.com). Trataremos reclamações e consultas logo após o recebimento e responderemos dentro de um mês. Se não pudermos cumprir total ou parcialmente no prazo exigido, avisaremos por e-mail dentro desse período e explicaremos os motivos.
 
 ---
 
 ## Apêndice
 
-- Immersive Translate: refere-se ao site, aplicativo, extensão do navegador ou miniprograma de Immersive Translate (domínio: immersivetranslate.com).
-- Provedor de serviços: Funstory.ai Limited (Hong Kong).
-- Informações Pessoais: referem-se a informações que podem ser usadas para identificar uma pessoa física identificada ou identificável, conforme definido nas leis aplicáveis.
+- Immersive Translate: refere-se ao site, aplicativo, extensão de navegador ou mini programa da Immersive Translate (domínio: immersivetranslate.com).
+- Prestador de serviço: Funstory.ai Limited (Hong Kong).
+- Informações pessoais: dados que possam identificar uma pessoa natural identificada ou identificável, conforme definido nas leis aplicáveis.
 
 ---
 
-## Anexos Regionais
+## Anexos regionais
 
-Este Anexo Regional explica como a Funstory.ai Limited cumpre as leis e regulamentos de proteção de dados pessoais aplicáveis em diferentes jurisdições. Este Anexo aplica-se apenas quando as leis relevantes estão em vigor e não afeta a aplicabilidade geral do corpo principal desta Política.
+Estes anexos regionais explicam como a Funstory.ai Limited observa leis aplicáveis de proteção de dados em diferentes jurisdições. Aplicam-se apenas onde tais leis vigorem e não afetam a aplicabilidade geral desta Política.
 
 ---
 
-## Anexo A: UE/EEE/Reino Unido (GDPR / Reino Unido GDPR)
+## Anexo A: UE / EEE / Reino Unido (GDPR / UK GDPR)
 
-### A.1 Base Jurídica
+### A.1 Base jurídica
 
-Quando se aplica GDPR ou GDPR do Reino Unido, processamos informações pessoais com base nos seguintes fundamentos legais (conforme aplicável):
+Onde o GDPR ou o UK GDPR se aplicarem, tratamos dados pessoais com base nos seguintes fundamentos (conforme o caso):
 
-- Execução de um contrato consigo;
+- Execução de contrato com você;
 - Cumprimento de obrigação legal;
-- Seu consentimento;
-- A prossecução dos nossos interesses legítimos, desde que não afetem indevidamente os seus direitos e liberdades fundamentais.
+- Consentimento;
+- Interesses legítimos, desde que não prevaleçam indevidamente sobre seus direitos e liberdades fundamentais.
 
-### A.2 Direitos Adicionais do Usuário
+### A.2 Direitos adicionais do usuário
 
-Onde GDPR / Reino Unido GDPR se aplica, além dos direitos na Seção 3, você também tem:
-- Direito à portabilidade dos dados: receber as suas informações pessoais num formato estruturado, comummente utilizado e legível por máquina, na medida do previsto na lei;
-- Direito de oposição: ao tratamento baseado nos nossos interesses legítimos em determinadas circunstâncias;
-- Direito de apresentar reclamação: junto de uma autoridade de controlo do seu local de residência habitual, local de trabalho ou onde ocorreu uma alegada infração.
+Além dos direitos da Seção 3, quando GDPR / UK GDPR se aplicarem, você também tem:
 
-### A.3 Tomada de decisão automatizada
+- Portabilidade: receber seus dados estruturados, de uso comum e legíveis por máquina nos limites legais;
+- Oposição: ao tratamento baseado em interesses legítimos em certas circunstâncias;
+- Reclamação junto à autoridade de supervisão local, no local de sua residência habitual, trabalho ou onde tenha ocorrido a infração alegada.
 
-Não tomamos decisões com base apenas no processamento automatizado que afete significativamente o seu status legal ou similarmente significativo na acepção do Artigo 22 GDPR.
+### A.3 Decisão automatizada
 
-### A.4 Transferências de dados transfronteiriças
+Não tomamos decisões com base apenas em tratamento automatizado que afete significativamente sua situação jurídica ou similarmente relevante no sentido do art. 22 do GDPR.
 
-Se as informações pessoais forem transferidas para fora da UE/Reino Unido, garantimos proteção adequada através de:
+### A.4 Transferências internacionais de dados
 
-- Decisões de adequação da Comissão Europeia ou do Reino Unido ICO (conforme aplicável);
-- Cláusulas Contratuais Padrão Aprovadas (SCCs) e/ou Contrato/Adendo de Transferência Internacional de Dados do Reino Unido (IDTA), conforme aplicável;
-- Outros mecanismos legais apropriados e salvaguardas técnicas.
+Se dados forem transferidos para fora da UE/Reino Unido, garantimos proteção adequada por meio de:
+
+- Decisões de adequação da Comissão Europeia ou do ICO do Reino Unido, conforme o caso;
+- Cláusulas contratuais tipo aprovadas (SCC) e/ou Acordo Internacional de Transferência de Dados / Adendo (IDTA) do Reino Unido, quando aplicável;
+- Outros mecanismos legais adequados e salvaguardas técnicas.
 
 ---
 
-## Anexo B: Japão (Lei sobre a Proteção de Informações Pessoais, APPI)
+## Anexo B: Japão (Lei de Proteção de Dados Pessoais, APPI)
 
 ### B.1 Finalidade de uso
 
-Quando APPI se aplica, informamos você claramente ou divulgamos publicamente a finalidade do uso das informações pessoais e as processamos somente dentro desse escopo.
+Onde o APPI se aplicar, informamos ou divulgamos claramente a finalidade do uso dos dados e tratamos apenas dentro desse escopo.
 
 ### B.2 Direitos do usuário
 
-Você pode, sob APPI, solicitar:
+Sob o APPI, você pode solicitar:
 
-- Divulgação de suas informações pessoais mantidas por nós;
-- Correção, complementação ou exclusão de informações pessoais imprecisas;
-- Suspensão da utilização ou suspensão da disponibilização a terceiros (quando permitido por lei).
+- Divulgação dos dados que mantemos;
+- Retificação, complementação ou exclusão de dados inexatos;
+- Suspensão de uso ou cessão do fornecimento a terceiros (quando permitido por lei).
 
-### B.3 Provisão para Terceiros no Exterior
+### B.3 Fornecimento a terceiros no exterior
 
-Se fornecermos informações pessoais a terceiros estrangeiros, tomaremos as medidas necessárias para supervisionar o processamento de seus dados e garantir que eles adotem continuamente medidas de segurança em conformidade com APPI.
+Ao fornecer dados a terceiros no exterior, adotamos medidas necessárias para supervisionar o tratamento e exigimos medidas de segurança continuamente compatíveis com o APPI.
 
 ---
 
@@ -274,75 +273,79 @@ Se fornecermos informações pessoais a terceiros estrangeiros, tomaremos as med
 
 ### C.1 Aplicação
 
-Este Anexo se aplica onde a Lei de Privacidade do Consumidor da Califórnia (“CCPA”) e sua alteração, a Lei de Direitos de Privacidade da Califórnia (“CPRA”), se aplicam.
+Este Anexo aplica-se quando a California Consumer Privacy Act (“CCPA”) e sua alteração, California Privacy Rights Act (“CPRA”), forem aplicáveis.
 
 ### C.2 Direitos dos residentes da Califórnia
 
-Os residentes da Califórnia podem ter o direito de:
+Residentes da Califórnia podem ter direito de:
 
-- Saber: quais categorias de informações pessoais coletamos, usamos e divulgamos;
-- Acesso: solicitar acesso às informações pessoais que possuímos;
-- Excluir: solicitar a exclusão de informações pessoais que coletamos (na medida permitida por lei);
-- Optar por não participar: da venda ou partilha de informações pessoais.
+- Saber: categorias de informações que coletamos, usamos e divulgamos;
+- Acesso: solicitar acesso aos dados que mantemos;
+- Exclusão: pedir a exclusão (na medida legal);
+- Opt-out: venda ou compartilhamento de informações pessoais.
 
-### C.3 Proibição de venda ou compartilhamento de informações pessoaisNão vendemos informações pessoais de residentes da Califórnia, nem as compartilhamos para publicidade comportamental em vários contextos.
+### C.3 Sem venda ou compartilhamento de dados pessoais
 
-### C.4 Direito à Não Discriminação
+Não vendemos dados de residentes da Califórnia nem os compartilhamos para publicidade comportamental entre contextos.
 
-Não discriminaremos você por exercer quaisquer direitos sob CCPA/CPRA.
+### C.4 Direito à não discriminação
+
+Não discriminaremos você pelo exercício de direitos sob CCPA/CPRA.
 
 ---
 
-## Anexo D: República da Coreia (Lei de Proteção de Informações Pessoais, PIPA)
+## Anexo D: República da Coreia (Lei de Proteção de Dados Pessoais, PIPA)
 
-Este Anexo se aplica onde a Lei de Proteção de Informações Pessoais da República da Coreia (“PIPA”) se aplica a serviços prestados na República da Coreia ou a usuários localizados na República da Coreia.
+Este Anexo aplica-se onde a Personal Information Protection Act da República da Coreia (“PIPA”) se aplique aos serviços prestados dentro da Coreia ou a usuários localizados na Coreia.
 
-### D.1 Finalidade e Legalidade do Processamento
+### D.1 Finalidade e licitude do tratamento
 
-Processamos informações pessoais apenas para fins específicos, explícitos e legais e obtemos o consentimento necessário do usuário ou outras bases legais sob PIPA. Salvo disposição em contrário por lei, não utilizaremos informações pessoais além dos fins divulgados no momento da coleta.
+Tratamos dados apenas para finalidades específicas, expressas e lícitas e obtemos consentimento ou outra base prevista na PIPA. Salvo exigência legal, não usaremos dados para além das finalidades divulgadas na coleta.
 
-### D.2 Terceirização e divulgação de terceiros
+### D.2 Terceirização e comunicação a terceiros
 
-Quando confiamos a terceiros o processamento de informações pessoais (incluindo serviços em nuvem, tradução, pagamento, suporte técnico, etc.), iremos, de acordo com as leis aplicáveis:
+Quando confiamos dados a terceiros (nuvem, tradução, pagamento, suporte técnico etc.), nos termos da lei:
 
-- Assinar acordos escritos com as partes encarregadas;
-- Especificar finalidades, âmbito e medidas de segurança técnicas e organizacionais;
-- Supervisionar continuamente o processamento de informações pessoais das partes encarregadas.
+- Celebramos acordos escritos com os encarregados;
+- Especificamos finalidades, escopo e medidas de segurança técnica e organizacional;
+- Supervisionamos continuamente o tratamento pelos encarregados.
 
-Se fornecermos informações pessoais a terceiros conforme permitido por lei, iremos informá-lo com antecedência e obteremos consentimento separado quando necessário.
+Se comunicarmos dados a terceiros conforme permitido por lei, informaremos com antecedência e obteremos consentimento separado quando exigido.
 
-### D.3 Transferências transfronteiriças
+### D.3 Transferências internacionais
 
-Se as informações pessoais forem transferidas para fora da República da Coreia, iremos, de acordo com PIPA:
+Se dados forem transferidos para fora da Coreia, observaremos a PIPA:
 
-- Informar antecipadamente a finalidade, o destinatário, os itens e o período de retenção da transferência transfronteiriça;
-- Obter consentimento separado quando exigido por lei;
-- Exigir que destinatários estrangeiros adotem continuamente medidas de segurança compatíveis com PIPA.
+- Informar com antecedência a finalidade, destinatário, itens e prazo de retenção;
+- Obter consentimento separado quando a lei exigir;
+- Exigir que destinatários no exterior mantenham medidas de segurança conformes.
 
 ### D.4 Direitos do usuário
 
-Quando PIPA se aplicar, os usuários poderão solicitar legalmente:
+Onde a PIPA se aplicar, o usuário pode solicitar legalmente:
 
-- Acesso às suas informações pessoais;
-- Correção ou exclusão de informações pessoais imprecisas ou desnecessárias;
-- Suspensão do tratamento de informações pessoais;
-- Retirada do consentimento previamente dado.
+- Acesso aos dados;
+- Retificação ou exclusão de dados inexatos ou desnecessários;
+- Suspensão do tratamento;
+- Retirada de consentimentos anteriores.
 
-Processaremos tais solicitações de acordo com a lei e dentro de um prazo razoável.
+Responderemos conforme a lei em prazo razoável.
 
-### D.5 Medidas de Segurança
+### D.5 Medidas de segurança
 
-Implementamos medidas de segurança técnicas, gerenciais e físicas apropriadas de acordo com PIPA e regulamentos relacionados, incluindo, mas não se limitando a:
-- Controle de acesso e gerenciamento de autoridade;
-- Criptografia ou desidentificação;
-- Sistemas de gestão interna e formação de pessoal;
-- Resposta a incidentes de segurança e manutenção de registros.
+Implementamos medidas técnicas, administrativas e físicas adequadas conforme a PIPA, incluindo:
 
-### D.6 Notificação de violação de informações pessoais
+- Controle de acesso e gestão de permissões;
+- Criptografia ou pseudonimização;
+- Sistemas internos e treinamento de equipe;
+- Resposta a incidentes e registros.
 
-No caso de violação, alteração ou perda de informações pessoais que possam afetar sua segurança, tomaremos imediatamente medidas corretivas de acordo com PIPA e, quando necessário:
+### D.6 Notificação de violação de dados pessoais
 
-- Reporte à Comissão de Proteção de Informações Pessoais (PIPC) da Coreia;
-- Notifique os usuários afetados.
+Em caso de violação, alteração ou perda que possa afetar a segurança dos dados, adotaremos medidas corretivas prontamente conforme a PIPA e, quando exigido:
 
-Este Anexo Regional não é exaustivo. Podemos adicionar novos anexos regionais à medida que as leis ou as necessidades comerciais mudam.
+- Reportar à Comissão de Proteção de Dados Pessoais (PIPC) da Coreia;
+- Notificar os usuários afetados.
+
+Estes anexos regionais não são exaustivos. Podemos acrescentar novos anexos conforme mudanças legais ou de negócio.
+
