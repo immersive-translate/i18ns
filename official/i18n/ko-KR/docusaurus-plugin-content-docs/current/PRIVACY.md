@@ -5,7 +5,7 @@ custom_edit_url: null
 
 # Immersive Translate 개인정보 처리방침
 
-최종 업데이트: 2026-04-16
+최종 업데이트: 2026-05-08
 
 ## 소개
 
