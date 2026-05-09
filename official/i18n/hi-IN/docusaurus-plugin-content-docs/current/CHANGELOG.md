@@ -18,6 +18,11 @@ sidebar_position: 6
 - [Firefox स्टोर में बीटा संस्करण](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.29.2 Preview (2026-05-09)
+
+- ठीक किया गया: Twitter के कुछ वीडियो में AI सबटाइटल जनरेट न होने की समस्या को ठीक किया गया।
+- ठीक किया गया: [टेक्स्ट चयन अनुवाद] के Reddit पर काम न करने की समस्या को ठीक किया गया।
+
 ## 1.29.1 Release (2026-05-07)
 
 - जोड़ा गया: plamo अनुवाद सेवा के लिए समर्थन।

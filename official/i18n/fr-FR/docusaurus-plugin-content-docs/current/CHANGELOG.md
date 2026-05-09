@@ -18,6 +18,11 @@ La **version Preview** est publiée plus fréquemment et inclut certaines foncti
 - [version bêta dans le magasin Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.29.2 Preview (2026-05-09)
+
+- Correction : correction d’un problème empêchant la génération de sous-titres IA pour certaines vidéos sur Twitter.
+- Correction : correction d’un problème empêchant [la traduction par sélection de texte] de fonctionner sur Reddit.
+
 ## 1.29.1 Release (2026-05-07)
 
 - Ajout : prise en charge du service de traduction plamo.

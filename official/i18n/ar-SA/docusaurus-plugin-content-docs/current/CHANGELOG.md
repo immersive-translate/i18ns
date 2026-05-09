@@ -18,6 +18,11 @@ sidebar_position: 6
 - [الإصدار التجريبي في متجر Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.29.2 Preview (2026-05-09)
+
+- تم الإصلاح: إصلاح مشكلة كانت تمنع إنشاء ترجمات AI لبعض مقاطع الفيديو على Twitter.
+- تم الإصلاح: إصلاح مشكلة كانت تمنع [ترجمة تحديد النص] من العمل على Reddit.
+
 ## 1.29.1 Release (2026-05-07)
 
 - تمت الإضافة: دعم خدمة الترجمة plamo.
