@@ -18,10 +18,11 @@ La **version Preview** est publiée plus fréquemment et inclut certaines foncti
 - [version bêta dans le magasin Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.29.2 Preview (2026-05-09)
+## 1.29.3 Preview (2026-05-12)
 
 - Correction : correction d’un problème empêchant la génération de sous-titres IA pour certaines vidéos sur Twitter.
 - Correction : correction d’un problème empêchant [la traduction par sélection de texte] de fonctionner sur Reddit.
+- Correction : correction d’un problème empêchant l’ouverture de la barre latérale dans Atlas Browser.
 
 ## 1.29.1 Release (2026-05-07)
 

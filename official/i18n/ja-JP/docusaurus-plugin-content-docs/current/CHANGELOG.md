@@ -18,10 +18,11 @@ sidebar_position: 6
 - [Firefox ストアのベータ版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.29.2 Preview (2026-05-09)
+## 1.29.3 Preview (2026-05-12)
 
 - 修正：Twitter の一部動画で AI 字幕を生成できない問題を修正しました。
 - 修正：【選択翻訳】が Reddit 上で動作しない問題を修正しました。
+- 修正：Atlas Browser でサイドバーを開けない問題を修正しました。
 
 ## 1.29.1 Release (2026-05-07)
 

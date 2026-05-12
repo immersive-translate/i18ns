@@ -16,10 +16,11 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
-## 1.29.2 Preview (2026-05-09)
+## 1.29.3 Preview (2026-05-12)
 
 - 修復：Twitter 部分影片無法產生 AI 字幕的問題。
 - 修復：【劃詞翻譯】在 Reddit 上不生效的問題。
+- 修復：Atlas 瀏覽器中側邊欄無法開啟的問題。
 
 ## 1.29.1 Release (2026-05-07)
 
