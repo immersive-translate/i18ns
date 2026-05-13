@@ -14,7 +14,7 @@ sidebar_position: 6
 - [Firefox 스토어의 베타 버전](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.29.3 Preview (2026-05-12)
+## 1.29.3 Release (2026-05-13)
 
 - 수정: Twitter 의 일부 동영상에서 AI 자막을 생성할 수 없던 문제를 수정했습니다.
 - 수정: [텍스트 선택 번역]이 Reddit 에서 동작하지 않던 문제를 수정했습니다.
