@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.29.3 Release (2026-05-13)
+## 1.29.4 Release (2026-05-14)
 
 - Fixed: Fixed an issue where AI subtitles could not be generated for some videos on Twitter.
 - Fixed: Fixed an issue where Text Selection Translation did not work on Reddit.

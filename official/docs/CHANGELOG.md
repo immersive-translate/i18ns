@@ -16,7 +16,7 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
-## 1.29.3 Release (2026-05-13)
+## 1.29.4 Release (2026-05-14)
 
 - 修复：Twitter 部分视频无法生成 AI 字幕的问题。
 - 修复：【划词翻译】在 Reddit 上不生效的问题。

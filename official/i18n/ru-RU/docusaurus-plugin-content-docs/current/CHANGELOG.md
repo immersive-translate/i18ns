@@ -18,7 +18,7 @@ sidebar_position: 6
 - [бета-версия в магазине Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.29.3 Release (2026-05-13)
+## 1.29.4 Release (2026-05-14)
 
 - Исправлено: исправлена проблема, из-за которой для некоторых видео в Twitter не удавалось сгенерировать AI-субтитры.
 - Исправлено: исправлена проблема, из-за которой [перевод по выделению текста] не работал на Reddit.
