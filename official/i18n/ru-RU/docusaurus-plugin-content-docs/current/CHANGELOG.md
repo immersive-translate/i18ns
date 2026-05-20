@@ -18,7 +18,7 @@ sidebar_position: 6
 - [бета-версия в магазине Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.29.5 Release (2026-05-20)
+## 1.29.6 Release (2026-05-20)
 
 - Улучшено: улучшено отображение фонетической транскрипции и результата перевода для [перевода по выделению текста] в сценариях с менее распространенными языками.
 - Исправлено: исправлена проблема, из-за которой пользовательские AI-эксперты участников могли быть перезаписаны при синхронизации.

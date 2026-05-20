@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.29.5 Release (2026-05-20)
+## 1.29.6 Release (2026-05-20)
 
 - Improved: Improved phonetic transcription and translation output for Text Selection Translation in small-language scenarios.
 - Fixed: Fixed an issue where members' custom AI experts could be overwritten during sync.

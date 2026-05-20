@@ -18,7 +18,7 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 - [versión beta en la tienda de Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.29.5 Release (2026-05-20)
+## 1.29.6 Release (2026-05-20)
 
 - Mejorado: se mejoró la transcripción fonética y la salida de traducción de la [traducción por selección de texto] en escenarios con idiomas menos comunes.
 - Corregido: se corrigió un problema por el que los expertos de IA personalizados de miembros podían sobrescribirse durante la sincronización.

@@ -16,7 +16,7 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
-## 1.29.5 Release (2026-05-20)
+## 1.29.6 Release (2026-05-20)
 
 - 优化：【划词翻译】在小语种场景下的音标与译文表现。
 - 修复：会员自定义 AI 专家同步时可能被覆盖的问题。
