@@ -18,6 +18,12 @@ La **Preview version** viene pubblicata più frequentemente e include alcune fun
 - [versione beta nel Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.29.5 Release (2026-05-20)
+
+- Migliorato: migliorata la trascrizione fonetica e l'output della traduzione per la [traduzione tramite selezione del testo] negli scenari con lingue meno comuni.
+- Risolto: risolto un problema per cui gli esperti AI personalizzati degli abbonati potevano essere sovrascritti durante la sincronizzazione.
+- Aggiunto: aggiunto il supporto per la traduzione del sito di fumetti toptoon.com.
+
 ## 1.29.4 Release (2026-05-14)
 
 - Risolto: risolto un problema per cui non era possibile generare sottotitoli AI per alcuni video su Twitter.

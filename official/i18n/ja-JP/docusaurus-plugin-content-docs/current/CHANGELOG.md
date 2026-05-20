@@ -18,6 +18,12 @@ sidebar_position: 6
 - [Firefox ストアのベータ版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.29.5 Release (2026-05-20)
+
+- 改善：【選択翻訳】でマイナー言語を扱う際の発音表記と翻訳表示を改善しました。
+- 修正：メンバーのカスタム AI エキスパートが同期時に上書きされる可能性がある問題を修正しました。
+- 追加：漫画サイト toptoon.com の翻訳に対応しました。
+
 ## 1.29.4 Release (2026-05-14)
 
 - 修正：Twitter の一部動画で AI 字幕を生成できない問題を修正しました。

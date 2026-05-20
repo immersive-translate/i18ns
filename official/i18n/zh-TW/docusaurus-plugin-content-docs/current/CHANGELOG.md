@@ -16,6 +16,12 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.29.5 Release (2026-05-20)
+
+- 優化：【劃詞翻譯】在小語種場景下的音標與譯文表現。
+- 修復：會員自訂 AI 專家同步時可能被覆蓋的問題。
+- 新增：支援 toptoon.com 漫畫站點翻譯。
+
 ## 1.29.4 Release (2026-05-14)
 
 - 修復：Twitter 部分影片無法產生 AI 字幕的問題。
