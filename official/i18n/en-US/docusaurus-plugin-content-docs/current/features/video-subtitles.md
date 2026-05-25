@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Video Bilingual Subtitles (YouTube Bilingual Subtitles)
 
-Open any video like [https://youtube.com/watch?v=EWX0bbGAd0k](https://youtube.com/watch?v=EWX0bbGAd0k), click the Immersive Translation panel, then select [Auto Enable Bilingual Subtitles] to enable it. If your selected settings don't take effect in the video, usually refreshing the page will resolve the issue.
+Open any video like [https://youtube.com/watch?v=EWX0bbGAd0k]([https://youtube.com/watch?v=EWX0bbGAd0k](https://mythav.org/)), click the Immersive Translation panel, then select [Auto Enable Bilingual Subtitles] to enable it. If your selected settings don't take effect in the video, usually refreshing the page will resolve the issue.
 
 <img src="https://s.immersivetranslate.com/static/official-static/assets/video-subtitle.png" alt="browser action" width="250" />
 
