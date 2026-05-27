@@ -16,6 +16,14 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.29.7 Preview (2026-05-27)
+
+- 优化：侧边栏文本翻译体验。
+- 优化：在线字幕翻译请求改为受翻译服务段落数控制。
+- 优化：403 / Cloudflare 错误弹窗提示。
+- 新增：Popup 更多功能新增翻译缓存开关。
+- 新增：字幕翻译新增站点独立开关。
+
 ## 1.29.6 Release (2026-05-20)
 
 - 优化：【划词翻译】在小语种场景下的音标与译文表现。

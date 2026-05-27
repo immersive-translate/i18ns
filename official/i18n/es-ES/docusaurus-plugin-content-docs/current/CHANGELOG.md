@@ -18,6 +18,14 @@ La **versión Preview** se publica con más frecuencia e incluye algunas caracte
 - [versión beta en la tienda de Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.29.7 Preview (2026-05-27)
+
+- Mejorado: se mejoró la experiencia de traducción de texto en la barra lateral.
+- Mejorado: las solicitudes de traducción de subtítulos en línea ahora se controlan mediante el límite de párrafos del servicio de traducción.
+- Mejorado: se mejoraron los mensajes de los diálogos de error 403 / Cloudflare.
+- Añadido: se añadió un interruptor de caché de traducción a Más funciones en el popup.
+- Añadido: se añadieron interruptores independientes por sitio para la traducción de subtítulos.
+
 ## 1.29.6 Release (2026-05-20)
 
 - Mejorado: se mejoró la transcripción fonética y la salida de traducción de la [traducción por selección de texto] en escenarios con idiomas menos comunes.

@@ -16,6 +16,14 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.29.7 Preview (2026-05-27)
+
+- Improved: Improved the sidebar text translation experience.
+- Improved: Online subtitle translation requests are now controlled by the translation service paragraph limit.
+- Improved: Improved 403 / Cloudflare error dialog messages.
+- Added: Added a translation cache toggle to More Features in the popup.
+- Added: Added per-site toggles for subtitle translation.
+
 ## 1.29.6 Release (2026-05-20)
 
 - Improved: Improved phonetic transcription and translation output for Text Selection Translation in small-language scenarios.
