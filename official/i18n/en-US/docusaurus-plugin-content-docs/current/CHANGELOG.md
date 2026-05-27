@@ -16,7 +16,7 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
-## 1.29.7 Preview (2026-05-27)
+## 1.29.8 Preview (2026-05-27)
 
 - Improved: Improved the sidebar text translation experience.
 - Improved: Online subtitle translation requests are now controlled by the translation service paragraph limit.

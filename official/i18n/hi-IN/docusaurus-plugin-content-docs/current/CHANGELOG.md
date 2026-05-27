@@ -18,7 +18,7 @@ sidebar_position: 6
 - [Firefox स्टोर में बीटा संस्करण](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.29.7 Preview (2026-05-27)
+## 1.29.8 Preview (2026-05-27)
 
 - बेहतर किया गया: साइडबार टेक्स्ट अनुवाद अनुभव को बेहतर किया गया।
 - बेहतर किया गया: ऑनलाइन सबटाइटल अनुवाद अनुरोध अब अनुवाद सेवा की पैराग्राफ सीमा से नियंत्रित होंगे।
