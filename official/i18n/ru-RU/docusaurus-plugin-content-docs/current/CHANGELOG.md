@@ -18,7 +18,7 @@ sidebar_position: 6
 - [бета-версия в магазине Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.29.8 Preview (2026-05-27)
+## 1.29.9 Preview (2026-05-27)
 
 - Улучшено: улучшен опыт перевода текста в боковой панели.
 - Улучшено: запросы онлайн-перевода субтитров теперь управляются лимитом абзацев сервиса перевода.

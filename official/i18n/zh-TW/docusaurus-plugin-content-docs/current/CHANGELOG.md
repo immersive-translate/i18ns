@@ -16,7 +16,7 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
-## 1.29.8 Preview (2026-05-27)
+## 1.29.9 Preview (2026-05-27)
 
 - 優化：側邊欄文字翻譯體驗。
 - 優化：線上字幕翻譯請求改為受翻譯服務段落數控制。
