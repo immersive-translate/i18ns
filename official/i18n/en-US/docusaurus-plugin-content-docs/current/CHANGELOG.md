@@ -16,6 +16,10 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.30.1 Preview (2026-06-03)
+
+- Improved: Input Box Translation now supports re-translation after switching the target language.
+
 ## 1.29.9 Preview (2026-05-27)
 
 - Improved: Improved the sidebar text translation experience.

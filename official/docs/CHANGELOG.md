@@ -16,6 +16,10 @@ sidebar_position: 6
 - [Android 沉浸式浏览器](https://immersivetranslate.com/)
 - [iOS 沉浸式浏览器](https://immersivetranslate.com/)
 
+## 1.30.1 Preview (2026-06-03)
+
+- 优化：【输入框翻译】支持切换目标语言后重新翻译。
+
 ## 1.29.9 Preview (2026-05-27)
 
 - 优化：侧边栏文本翻译体验。

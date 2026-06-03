@@ -18,6 +18,10 @@ sidebar_position: 6
 - [Firefox ストアのベータ版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.30.1 Preview (2026-06-03)
+
+- 改善：入力ボックス翻訳で、対象言語を切り替えた後の再翻訳に対応しました。
+
 ## 1.29.9 Preview (2026-05-27)
 
 - 改善：サイドバーのテキスト翻訳体験を改善しました。

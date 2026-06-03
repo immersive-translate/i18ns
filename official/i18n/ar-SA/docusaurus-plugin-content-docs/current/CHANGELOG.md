@@ -18,6 +18,10 @@ sidebar_position: 6
 - [الإصدار التجريبي في متجر Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.30.1 Preview (2026-06-03)
+
+- تم التحسين: تدعم ترجمة مربعات الإدخال الآن إعادة الترجمة بعد تبديل اللغة الهدف.
+
 ## 1.29.9 Preview (2026-05-27)
 
 - تم التحسين: تحسين تجربة ترجمة النص في الشريط الجانبي.

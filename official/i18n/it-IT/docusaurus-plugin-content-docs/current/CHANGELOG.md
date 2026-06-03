@@ -18,6 +18,10 @@ La **Preview version** viene pubblicata più frequentemente e include alcune fun
 - [versione beta nel Firefox store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.30.1 Preview (2026-06-03)
+
+- Migliorato: la traduzione nei campi di input ora supporta la ritraduzione dopo il cambio della lingua di destinazione.
+
 ## 1.29.9 Preview (2026-05-27)
 
 - Migliorato: migliorata l'esperienza di traduzione del testo nella barra laterale.
