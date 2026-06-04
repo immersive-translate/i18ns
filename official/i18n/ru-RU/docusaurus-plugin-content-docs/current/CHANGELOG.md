@@ -18,7 +18,7 @@ sidebar_position: 6
 - [бета-версия в магазине Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.30.1 Preview (2026-06-03)
+## 1.30.1 Release (2026-06-04)
 
 - Улучшено: перевод в полях ввода теперь поддерживает повторный перевод после смены целевого языка.
 

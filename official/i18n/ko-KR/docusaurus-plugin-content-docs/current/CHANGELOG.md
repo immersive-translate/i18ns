@@ -14,7 +14,7 @@ sidebar_position: 6
 - [Firefox 스토어의 베타 버전](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
-## 1.30.1 Preview (2026-06-03)
+## 1.30.1 Release (2026-06-04)
 
 - 개선: 입력창 번역에서 대상 언어를 전환한 뒤 다시 번역할 수 있도록 지원합니다.
 

@@ -28,5 +28,5 @@ sidebar_position: 5
 - [BabelDOC](https://app.immersivetranslate.com/babel-doc/) 相关问题可以扫描下方二维码，加入 BabelDOC 内测群
 
 <div align="center">
-<img src="https://app.immersivetranslate.com/app-assets/img/babel-doc-wechat-7495c114.png" width="300" alt="wechat"/>
+<img src="https://s.immersivetranslate.com/assets/r2-uploads/babel-doc-wechat-lFoWIrOKD3B3YrEB.png" width="300" alt="wechat"/>
 </div>
