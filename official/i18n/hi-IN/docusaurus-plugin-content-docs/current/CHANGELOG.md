@@ -18,6 +18,12 @@ sidebar_position: 6
 - [Firefox स्टोर में बीटा संस्करण](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.30.2 Release (2026-06-10)
+
+- ठीक किया गया: WhatsApp में इनपुट बॉक्स अनुवाद के कैप्सूल ड्रॉपडाउन मेनू के नीचे की ओर ओवरफ्लो हो सकने की समस्या को ठीक किया गया।
+- जोड़ा गया: कस्टम API सेवाएँ अब Base URL के आधार पर OpenAI / Anthropic इंटरफ़ेस पाथ अपने आप पूरा कर सकती हैं।
+- बेहतर किया गया: popup में दस्तावेज़ अनुवाद प्रवेश को बेहतर किया गया, जिससे उसकी दृश्यता और उपयोग अनुभव बेहतर हुआ।
+
 ## 1.30.1 Release (2026-06-04)
 
 - बेहतर किया गया: इनपुट बॉक्स अनुवाद अब लक्ष्य भाषा बदलने के बाद दोबारा अनुवाद का समर्थन करता है।

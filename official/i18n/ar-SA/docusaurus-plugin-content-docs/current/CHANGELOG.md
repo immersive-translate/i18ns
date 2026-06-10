@@ -18,6 +18,12 @@ sidebar_position: 6
 - [الإصدار التجريبي في متجر Firefox](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.30.2 Release (2026-06-10)
+
+- تم الإصلاح: إصلاح مشكلة كان يمكن أن تتجاوز فيها القائمة المنسدلة الكبسولية لترجمة مربعات الإدخال الحد السفلي في WhatsApp.
+- تمت الإضافة: أصبحت خدمات API المخصصة تكمل تلقائيًا مسارات واجهات OpenAI / Anthropic بناءً على Base URL.
+- تم التحسين: تحسين مدخل ترجمة المستندات في النافذة المنبثقة لزيادة الوضوح وسهولة الاستخدام.
+
 ## 1.30.1 Release (2026-06-04)
 
 - تم التحسين: تدعم ترجمة مربعات الإدخال الآن إعادة الترجمة بعد تبديل اللغة الهدف.

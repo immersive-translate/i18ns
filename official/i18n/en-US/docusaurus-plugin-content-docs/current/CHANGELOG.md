@@ -16,6 +16,12 @@ The **Preview version** is published more frequently and includes some experimen
 - [Android Browser](https://immersivetranslate.com/)
 - [iOS Browser](https://immersivetranslate.com/)
 
+## 1.30.2 Release (2026-06-10)
+
+- Fixed: Fixed an issue where the capsule dropdown in Input Box Translation could overflow at the bottom in WhatsApp.
+- Added: Custom API services now automatically complete OpenAI / Anthropic endpoint paths based on the Base URL.
+- Improved: Improved the Document Translation entry in the popup for better visibility and usability.
+
 ## 1.30.1 Release (2026-06-04)
 
 - Improved: Input Box Translation now supports re-translation after switching the target language.

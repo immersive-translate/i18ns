@@ -16,6 +16,12 @@ sidebar_position: 6
 - [Android 沉浸式瀏覽器](https://immersivetranslate.com/)
 - [iOS 沉浸式瀏覽器](https://immersivetranslate.com/)
 
+## 1.30.2 Release (2026-06-10)
+
+- 修復：【輸入框翻譯】在 WhatsApp 中膠囊下拉選單底部溢出的問題。
+- 新增：自訂 API 服務支援根據 Base URL 自動補全 OpenAI / Anthropic 介面路徑。
+- 優化：Popup 文件翻譯入口，提升入口可見性與使用體驗。
+
 ## 1.30.1 Release (2026-06-04)
 
 - 優化：【輸入框翻譯】支援切換目標語言後重新翻譯。

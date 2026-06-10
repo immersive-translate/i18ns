@@ -18,6 +18,12 @@ sidebar_position: 6
 - [Firefox ストアのベータ版](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.30.2 Release (2026-06-10)
+
+- 修正：WhatsApp の入力ボックス翻訳で、カプセル型ドロップダウンメニューが下部にはみ出すことがある問題を修正しました。
+- 追加：カスタム API サービスで、Base URL に基づいて OpenAI / Anthropic のエンドポイントパスを自動補完できるようになりました。
+- 改善：ポップアップのドキュメント翻訳入口を改善し、見つけやすさと使いやすさを向上しました。
+
 ## 1.30.1 Release (2026-06-04)
 
 - 改善：入力ボックス翻訳で、対象言語を切り替えた後の再翻訳に対応しました。

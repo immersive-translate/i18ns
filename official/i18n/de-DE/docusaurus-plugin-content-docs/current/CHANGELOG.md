@@ -18,6 +18,12 @@ Die **Preview-Version** wird häufiger veröffentlicht und enthält einige exper
 - [Beta-Version im Firefox-Store](https://addons.mozilla.org/firefox/addon/immersive-translate-beta/)
 - [Github Release Assets](https://github.com/immersive-translate/immersive-translate/releases)
 
+## 1.30.2 Release (2026-06-10)
+
+- Behoben: Ein Problem behoben, bei dem das Kapsel-Dropdown der Eingabefeld-Übersetzung in WhatsApp unten überlaufen konnte.
+- Hinzugefügt: Benutzerdefinierte API-Dienste vervollständigen jetzt automatisch OpenAI- / Anthropic-Endpunktpfade anhand der Base URL.
+- Verbessert: Einstieg zur Dokumentübersetzung im Popup verbessert, für bessere Sichtbarkeit und Nutzbarkeit.
+
 ## 1.30.1 Release (2026-06-04)
 
 - Verbessert: Die Eingabefeld-Übersetzung unterstützt jetzt erneutes Übersetzen nach dem Wechsel der Zielsprache.
