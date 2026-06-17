@@ -44,6 +44,29 @@ They should still:
 This repository provides guidance and metadata. It does not replace
 product-specific validation.
 
+## For Weblate Contributors
+
+We are moving away from using Weblate as the source of truth for released
+translations. The old Weblate sync path is not the main contribution path
+anymore.
+
+This repository now accepts localization metadata: terminology, locale style
+profiles, preferred wording, discouraged wording, and examples. These rules are
+used by our AI-assisted i18n workflow when generating and reviewing product
+translations.
+
+If you want to help, contribute language knowledge instead of bulk translation
+files:
+
+- Tell us which term sounds better in your language.
+- Explain regional wording differences.
+- Add examples of awkward or preferred UI wording.
+- Report translation issues with locale, current wording, suggested wording, and
+  reason.
+
+Released translation files are still maintained in each product repository. This
+repository provides shared guidance for humans and AI reviewers.
+
 ## Contribution Rules
 
 Contribute the language knowledge you are confident about. The most useful
